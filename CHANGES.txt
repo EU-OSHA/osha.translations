@@ -1,0 +1,7 @@
+osha.translations Changelog
+===========================
+
+1.0 (unreleased)
+----------------
+
+- Initial release; translation files moved from osha.theme

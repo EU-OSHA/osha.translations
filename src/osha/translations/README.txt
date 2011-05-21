@@ -1,5 +1,5 @@
 osha.translations Package Readme
-=========================
+================================
 
 Overview
 --------
