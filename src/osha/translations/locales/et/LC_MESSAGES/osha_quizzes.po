@@ -1,0 +1,671 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: et\n"
+"Language-Name: Estonian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Laadin..."
+
+msgid "score_label"
+msgstr "Tulemus:"
+
+msgid "restart_label"
+msgstr "Alusta uuesti"
+
+msgid "true"
+msgstr "Õige"
+
+msgid "false"
+msgstr "Vale"
+
+msgid "yes"
+msgstr "Jah"
+
+msgid "no"
+msgstr "Ei"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Liiguta märk õigesse kohta)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Müra"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Kontrolli oma teadmisi müra kohta!"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Kas kõrvatroppide kandmine on parem kui proovida tekkivat müra vähendada?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Kas tohib töötada kogu päeva 100 dB müras?"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Kuulmine halveneb ainult vanadel inimestel"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Müra tugevust saab hinnata igaüks, tuleb lihtsalt kuulata"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Kõrvade kumisemine on halb märk"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Heli sagedus on sama kui heli tugevus"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Kuulmine kaob ruttu"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Kõrvatroppe ja kõrvaklappe tuleb kasutada ainult viimase abinõuna"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Ole ettevaatlik! Kui Sa oma kuulmist ei kaitse, jääd sellest ilma."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Aeg on tegutseda! Sa tead üht-teist kuulmise kaitse kohta, aga mõni asi vajab veel õppimist."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Oled terava kõrvaga ja oled meelde jätnud kõik, mida oled iial kuulnud kuulmise kaitse kohta."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Vastutus"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Kas järgmised ülesanded on Sinu vastutusalas?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Pead hoolitsema oma tervise ja ohutuse eest."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Oma tervise ja ohutuse eest hoolitsemine - järgides saadud juhiseid ja väljaõpet - on Sinu enda ülesanne. Kui Sa eirad juhiseid või oled hoolimatu, ei vastuta Sinu eest mitte keegi teine kui Sa ise."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Pead nii palju kui võimalik hoolitsema inimeste eest enda ümber, järgides saadud juhiseid ja väljaõpet."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Sinu käitumine võib mõjutada teiste inimeste tervist ja ohutust, seda otseselt Sinu tegude kui kaudselt tegematajätmiste kaudu."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Uut varustust on kõige parem tundma õppida iseseisvalt, katse ja eksituse meetodil."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Kui Sul tuleb kasutada varustust, mida Sa varem ei ole kasutanud, peab Sulle näidatama, kuidas sellega ohutult töötada. KUI KAHTLED, KÜSI."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Sa pead olema tööohutuse ja -tervishoiu küsimustes ühel meelel oma ülemuse ja juhendajaga."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Ohutu töökeskkond on Sinu tööandja vastutada, aga Sinu ülesanne on kasutada seadmeid õigesti ja järgida juhiseid."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Kui näed mingit ohtu, väldi seda ja vaiki. Sellest teatamine ja selle kõrvaldamine on kellegi teise ülesanne."
+
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Töökohas peab olema võimalik teatada ohust, näiteks lihtsalt mainides seda oma juhendajale või kui kirjalik teatamisviis on paika pandud, siis ka kirjalikult. ÄRA KÕHKLE ÜKSKÕIK MILLISEST OHUST TEATADA - näiteks lekkest, libedast põrandast, katkisest pistikust või ükskõik millest, mis Sinu arvates tundub ohtlik."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Enne tööleasumist pead endale selgeks tegema kõik tööohutuse ja töötervishoiu seadused."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Seda ei ole vaja, aga on hea, kui tead vähemalt põhilist. Käesoleval veebilehel on mitmeid kasulikke linke."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Pead järgima kõiki töökoha juhendeid, märke ja reegleid."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Ohutusmärke kasutatakse ka Sinu kaitseks ja nende kasutamist nõuab seadus. Sinu ülesanne on neid märgata ja järgida."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Pead hankima endale tööülesannete ohutuks täitmiseks vajaliku kaitseriietuse ja kaitsevahendid."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "See on Sinu tööandja ülesanne: Sa pead oma tööülesannete täitmiseks saama tasuta kasutada mis tahes kaitsevarustust - kiivri, respiraatori, kaitsekindad, kaitsejalatsid jne. Samas on Sinu ülesanne neid korralikult kasutada ja pärast kasutamist asetada õigesse kohta."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Kõrge risk - oled suures ohus."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Mõõdukas risk - alguse kohta pole paha, aga õppida on veel palju."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Madal risk - alustad töötamist tõelise Ohutu Lähtega - tubli!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Tööandja"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Sinu ülemus peab..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "...tagama, et kogu ettevõte ja selle töövahendid oleksid ohutud ja ei kahjustaks kellegi tervist."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "...tagama, et toodete ja ainete kasutamine, käsitsemine, hoidmine ja teisaldamine oleks ohutu ja ei kahjustaks kellegi tervist."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "...tagama teabe, juhenduse, juhised, väljaõppe ja järelevalve tööohutuse ja töötervishoiu alal kõigile töötajatele."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "...hoidma töökoha ohutu ja tervislikuna."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "...hindama töökoha riske (kus hinnatakse mitmesuguste ohutegurite esinemist ja nende kõrvaldamise meetmeid) ning protokollima tulemused."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "...välja töötama töötervishoiu ja tööohutuse süsteemid ja menetlused."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "...pidama nõu ja tegema koostööd töötajatega ja kõigi lepinguosalistega, kes töötavad ettevõtte jaoks."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "...jälgima, et töötervishoid ja tööohutus vastaks kõigile asjakohastele õigusaktidele."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Kõrge risk - pead uurima täpsemalt, kuidas Sinu ülemus peab tagama Sinu ohutuse ja tervise töökohal"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Mõõdukas risk - alustuseks hea, aga Sul on veel palju õppida"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Madal risk - Sa tead hästi, mida Su ülemus peab tegema"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Numbrimäng"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Luu  ja lihaskonna vaevused on kõige levinum tööst tingitud terviseprobleem Euroopa Liidu 27 liikmesriigis. Milline on probleemi ulatus? Mida inimesed oma töötingimustest arvavad? Et rohkem teada saada, proovi teha meie viktoriini."
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Kui suur hulk töötajaid kaebavad oma töö tõttu seljavalu?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Kui suur hulk inimesi kaebavad oma töö tõttu lihasevalu?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Kas Euroopa nende töötajate hulk, kes  tunnistasid, et nad teevad korduvaid liigutusi veerandi või rohkem oma tööajast, aastatel 2000–2005"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. jäi täpselt samale tasemele?"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. vähenes  5%?"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. jäi peaaegu samale tasemele?"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. suurenes 5%?"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Milline on kõige levinum tööst tingitud terviseprobleem?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. peavalu"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. seljavalu"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. väsimus"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Kui palju inimesi ütleb, et nad teevad korduvaid käeliigutusi veerandi või rohkem oma tööajast?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Millistes Euroopa majandussektorites on kõige tõenäolisem, et naistel tuleb seoses oma tööga inimesi tõsta või liigutada?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. haridus ja tervishoid"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. müük ja laondus"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. finantsteenused"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. avalik haldus"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Kui suur hulk töötajaid kasutavad tööl arvutit kas kogu aeg või enamiku ajast?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Millises vanuses töötajad tunnistavad, et nende töö hõlmab kõige suuremal määral füüsilist tööd?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. alla 25 aasta vanused"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. 25–44 aasta vanused"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45–54 aasta vanused"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. üle 55 aasta vanused"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Viktoriin põhineb Eurostati ehk Euroopa Ühenduste Statistikaameti andmetel ning Euroopa Tööohutuse ja Töötervishoiu Agentuuri korraldatud Euroopa töötingimuste neljanda uuringu (EWCS 2005) tulemustel."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Ohutusmärgid"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Kas tunned töökoha ohutusmärke? Proovi oma teadmisi!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Siit saab osta päikeseprille"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Tasuta nägemiskontroll"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Kandke kaitseprille"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Silmaarst"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Ettevaatust, ristmik!"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Esmaabi"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Murul käimine keelatud"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Haigla"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Ettevaatust, mereröövlid!"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Surnuaed"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Oht"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Mürgised ained"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Siit saab osta mobiiltelefone"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobiiltelefoni kasutamine keelatud"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Palun vaikust!"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Mobiiltelefonide remont"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Ettevaatust, DJ!"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Kandke kuulmiskaitsevahendeid"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Müra"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Hoidke kõrvad soojas"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Maetud varandus"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Ettevaatust, torm!"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elekter"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Ettevaatust, maod!"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aeroobikasaal"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Võimla"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Hädaväljapääs"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Siin on uks"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Suitsetamiskoht"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Lahtine leek keelatud"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Siin müüakse sigarette"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Suitsetamine keelatud"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Kõrge risk - oled suures ohus."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Mõõdukas risk - alguse kohta pole paha, aga õppida on veel palju."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Madal risk - alustad töötamist tõelise Ohutu Lähtega - tubli!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Luu- ja lihaskonna vaevused"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Kui palju tead luu- ja lihaskonna vaevuste ning seljavalu kohta? Proovi oma teadmisi."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "Euroopa Liidu liikmesriikidel on töökaitseseadused, mis sätestavad, kuidas tõsta raskusi ohutult"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Olemas on Euroopa Liidu direktiiv raskuste käsitsi teisaldamise tervishoiu ja ohutuse kohta, mille kõik liikmesriigid on lisanud oma seadusesse."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Rasedad tohivad tõsta raskusi ilma mingi ohuta"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Rasedad või äsja sünnitanud ei tohi tõsta raskusi; mida kauem on rasedus väldanud, seda suuremas ohus on naine."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Vibratsioon võib põhjustada ülekoormusvigastuse"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Kui korduv töö või raskuste korduv tõstmine tekitab valu, on kõige parem võtta valuvaigisteid"
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Kui võtad valuvaigisteid, aga samas jätkad ohtlikku tööd, muutub olukord ainult hullemaks. Tulemuseks võib olla koguni püsiv puue."
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Võid saada luu- ja lihaskonna vaevuse, kui Sa ei liiguta ennast piisavalt"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Isegi kui hoiad end paigal, teeb Su keha ikkagi tööd. Seda nimetatakse staatiliseks koormuseks. Keha on mõeldud liikumiseks. Ühe asendi hoidmine (sealhulgas pidev istumine või seismine) ei ole tervisele hea."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Külm ja niiskus võivad tekitada luu- ja lihaskonna vaevusi"
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Arvutihiire kasutamine ei tekita luu- ja lihaskonna vaevusi"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Hiire kasutamiseks on paar lihtsat reeglit: näiteks toeta korralikult käsivart ja kämmalt, hoia neid keha lähedal ja puhka kätt vahetevahel."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Arvutitööd tehes peab tegema pausi iga kahe tunni järel"
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Soovitatav on teha 10-minutiline paus iga 50 minuti järel. Pausi ajal peaksid tegema midagi muud kui klõbistama arvutisõrmistiku nuppe."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Aiaiai! Varem või hiljem tabab Sind mõni luu- ja lihaskonna vaevus."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Ära üllatu, kui aeg-ajalt mõni Su lihas valutab! Sul on veel õppida, kuidas kaitsta ennast vigastuste eest."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Mugavat töötamist! Tunned teemat hästi. Loodetavasti oskad oma teadmisi ka kasutada."

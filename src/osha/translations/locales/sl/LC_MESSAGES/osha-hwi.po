@@ -1,0 +1,167 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-08-10 19:23+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Language-Code: sl\n"
+"Language-Name: Slovenščina\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-hwi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sl\n"
+"Language-Name: Slovakia\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-hwi\n"
+
+
+msgid "osha_nav_title_nav_getinvolved"
+msgstr "Vključite se"
+
+msgid "osha_nav_description_nav_getinvolved"
+msgstr ""
+
+msgid "osha_nav_title_osh_in_your_company"
+msgstr "OSH in your company"
+
+msgid "osha_nav_description_osh_in_your_company"
+msgstr ""
+
+msgid "osha_nav_title_for_employers"
+msgstr "For employers"
+
+msgid "osha_nav_description_for_employers"
+msgstr ""
+
+msgid "osha_nav_title_copy_of_for_employees"
+msgstr "For employees"
+
+msgid "osha_nav_description_copy_of_for_employees"
+msgstr ""
+
+msgid "osha_nav_title_campaignmaterials"
+msgstr "Gradivo za kampanjo"
+
+msgid "osha_nav_description_campaignmaterials"
+msgstr ""
+
+msgid "osha_nav_title_press_room"
+msgstr "Kotiček za novinarje"
+
+msgid "osha_nav_description_press_room"
+msgstr ""
+
+msgid "osha_nav_title_events"
+msgstr "Udeležite se brezplačnega seminarja"
+
+msgid "osha_nav_description_events"
+msgstr ""
+
+msgid "osha_nav_title_nav_gp_info"
+msgstr "Good Practice Information"
+
+msgid "osha_nav_description_nav_gp_info"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-03-10.2220318834"
+msgstr ""
+
+msgid "osha_nav_description_navigation_link.2006-03-10.2220318834"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-03-10.2238751670"
+msgstr ""
+
+msgid "osha_nav_description_navigation_link.2006-03-10.2238751670"
+msgstr ""
+
+msgid "osha_nav_title_agriculture"
+msgstr "Agriculture"
+
+msgid "osha_nav_description_agriculture"
+msgstr ""
+
+msgid "osha_nav_title_construction"
+msgstr "Construction"
+
+msgid "osha_nav_description_construction"
+msgstr ""
+
+msgid "osha_nav_title_nav_hwi_topics"
+msgstr "Teme"
+
+msgid "osha_nav_description_nav_hwi_topics"
+msgstr ""
+
+msgid "osha_nav_title_integration_peoplewithdisabilities"
+msgstr "Vključevanje invalidov in ohranjanje njihovih delovnih mest"
+
+msgid "osha_nav_description_integration_peoplewithdisabilities"
+msgstr ""
+
+msgid "osha_nav_title_prevention_biologicalhazards"
+msgstr "Preprečevanje bioloških nevarnosti"
+
+msgid "osha_nav_description_prevention_biologicalhazards"
+msgstr ""
+
+msgid "osha_nav_title_prevention_violence"
+msgstr "Preprečevanje nasilja in nadlegovanja pri delu"
+
+msgid "osha_nav_description_prevention_violence"
+msgstr ""
+
+msgid "osha_nav_title_nav_partners"
+msgstr "Partnerji kampanje"
+
+msgid "osha_nav_description_nav_partners"
+msgstr ""
+
+msgid "osha_nav_title_partners_campaign"
+msgstr "Nacionalne informacijske točke"
+
+msgid "osha_nav_description_partners_campaign"
+msgstr ""
+
+msgid "osha_nav_title_partners_SME"
+msgstr "Euro info centri"
+
+msgid "osha_nav_description_partners_SME"
+msgstr ""
+
+msgid "osha_nav_title_other_contacts"
+msgstr "Druge koristne nacionalne kontaktne točke"
+
+msgid "osha_nav_description_other_contacts"
+msgstr ""
+
+msgid "osha_nav_title_navigation"
+msgstr "Osnove o oceni tveganj"
+
+msgid "osha_nav_description_navigation"
+msgstr ""
+
+msgid "osha_nav_title_risk_assessment_essentials"
+msgstr "Pobuda za zdravo delovno mesto (HWI) - kontrolni seznami za oceno tveganj"
+
+msgid "osha_nav_description_risk_assessment_essentials"
+msgstr ""
+
+msgid "osha_nav_title_checklists"
+msgstr "Kontrolni seznami iz drugih virov"
+
+msgid "osha_nav_description_checklists"
+msgstr ""
+
+msgid "osha_nav_title_brochure"
+msgstr "Brošura z osnovnimi podatki o VZD"
+
+msgid "osha_nav_description_brochure"
+msgstr ""
+

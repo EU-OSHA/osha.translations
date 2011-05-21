@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: lv\n"
+"Language-Name: Latvian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQ zona (RISQ Zone)"
+
+msgid "Discover Safe Start "
+msgstr "Atklāj Drošu sākumu"
+
+msgid "Why RISQ it?"
+msgstr "Kāpēc RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Ar ko Tu RISQ?"
+
+msgid "Competitions"
+msgstr "Konkursi"
+
+msgid "On the edge of safety"
+msgstr "Uz drošības robežas"
+
+# animations
+msgid "anim_restart"
+msgstr "Atsākt"
+
+msgid "anim01_message_01"
+msgstr "Pirms kāp pa pieslienamām kāpnēm, pārbaudi, vai tās ir nostiprinātas"
+
+msgid "anim01_message_02"
+msgstr "Pieslien kāpnes pie sienas pareizā leņķī"
+
+msgid "anim01_message_03"
+msgstr "Pie garām kāpnēm vienmēr kādam jāstāv pie pamatnes"
+
+msgid "anim01_end"
+msgstr "“Uzmanies - nenokrīti”"
+
+msgid "anim02_end"
+msgstr "“Uzmanies - nenokrīti”"
+
+msgid "anim03_message_01"
+msgstr "Nestrādā nedrošos vai nepiemērotos apstākļos"
+
+msgid "anim03_message_02"
+msgstr "Nebaidies lūgt palīdzību"
+
+msgid "anim03_end"
+msgstr "“Pielūko – Neciet klusējot"
+
+msgid "anim04_message_01"
+msgstr "Apsver pirms ko cel un nes"
+
+msgid "anim04_message_02"
+msgstr "Lieto nodrošināto aprīkojumu"
+
+msgid "anim04_message_03"
+msgstr "Vienmēr mēģini atvieglot slodzi"
+
+msgid "anim04_end"
+msgstr "“Uzmanies – mugura lūzt tikai vienreiz"
+
+msgid "anim02_message_01"
+msgstr "Nestrādā tumsā"
+
+msgid "anim02_message_02"
+msgstr "Neimprovizē, ja tas apdraud drošību"

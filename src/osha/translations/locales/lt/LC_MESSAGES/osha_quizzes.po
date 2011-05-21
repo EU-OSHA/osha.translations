@@ -1,0 +1,670 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: lt\n"
+"Language-Name: Lithuanian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Keliamas"
+
+msgid "score_label"
+msgstr "Jūsų rezultatas:"
+
+msgid "restart_label"
+msgstr "Pradėti iš naujo"
+
+msgid "true"
+msgstr "Teisingas"
+
+msgid "false"
+msgstr "Klaidingas"
+
+msgid "yes"
+msgstr "Taip"
+
+msgid "no"
+msgstr "Ne"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Ženklą patalpinkite reikiamoje vietoje)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Viktorina triukšmo tema"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Ką žinote apie triukšmą?  Ar teisingi šie teiginiai?"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Geriau dėvėti ausines užuot bandžius sumažinti triukšmą?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Priimtina visą dieną dirbti veikiamam 100 decibelų stiprumo triukšmui"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Klausą praranda tik vyresnio amžiaus žmonės"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Triukšmo stiprumą gali išmatuoti bet kas tiesiog klausydamas"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Spengimas ausyse įspėja apie gresiantį pavojų"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "dažnis reiškia triukšmo intensyvumą (garsumą)"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Klausa prarandama greitai"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Ausinės arba ausų kištukai turi būti naudojami tik blogiausiu atveju"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Būkite atsargus! Jei nesaugosite klausos, galite ją prarasti."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Imkitės veiksmų nedelsdami! Yra dalykų, kuriuos turi žinoti tam, kad apsaugotumėte klausą."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Jūsų ausys klausosi labai atidžiai! Veikiausiai esate girdėję, kaip apsaugoti klausą."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Viktorina atsakomybės tema"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Ar jūs privalote tai daryti ?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Jūs privalote pasirūpinti savo sveikata ir sauga."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Jūs privalote pasirūpinti savo sveikata ir sauga, vadovaudamiesi gautais nurodymais ir mokymu. Kiti asmenys neatsako už jus, jei nepaisote nurodymų arba elgiatės paikai ar nerūpestingai."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Jūs privalote kiek galėdami labiau pasirūpinti jus supančiais žmonėmis, vadovaudamiesi suteiktais nurodymais ir mokymais."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Jūsų elgesys gali turėti įtakos kitų sveikatai ir saugai. Tiesiogiai gali įtakoti jūsų atlikti veiksmai ir netiesiogiai – veiksmai, kurių jūs neatlikote."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Geriausias būdas išmokti naudotis nauja įranga yra ją išbandyti, mokantis iš klaidų."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Jei jūsų prašoma naudotis įranga, tuomet jums turėtų parodyti, kaip ja naudotis saugiai. JEI ABEJOJATE - KLAUSKITE."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Privalote bendradarbiauti su savo vadovais ir priežiūros darbuotojais."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Jūsų darbdavys privalo jums sudaryti sąlygas, kuriomis galėtumėte dirbti saugiai, tačiau jūs turite deramai naudotis įranga ir vadovautis nurodymais."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Jei pastebėjote iškilusį pavojų, išvenkite jo ir nekreipkite į jį dėmesio. Tai ne jūsų reikalas pranešti apie pavojų ir juo pasirūpinti."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Turi būti numatyti būdai, kaip pranešti apie galimus pavojus. Apie tai galite neoficialiai užsiminti jus prižiūrinčiam darbuotojui arba gali būti numatyta formalesnė pranešimų teikimo tvarka. NIEKADA NEBIJOKITE APIE KĄ NORS UŽSIMINTI - apie išsiliejusias medžiagas, slidžias grindis, sugedusius kištukus ar apie bet ką, kas jums atrodo reikalinga"
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Prieš pradėdami dirbti, turite išmanyti visus sveikatos ir saugos įstatymus."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Turi būti numatyta pranešimo apie galimus pavojus tvarka. Tai gali būti ir neformalus pasakymas prižiūrinčiam darbuotojui arba gali būti numatyta oficiali pranešimų teikimo tvarka. NIEKADA NEBIJOKITE APIE KĄ NORS PASAKYTI – apie išsiliejusias medžiagas, slidžias grindis, blogus kištukus arba apie bet ką, kas jums atrodo reikalinga."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Jūs privalote vadovautis visais darbo vietoje esančiais nurodymais, ženklais ir taisyklėmis."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Saugos ženklai pateikti tam, kad jus apsaugotų, ir yra, nes taip reikalaujama įstatymuose. Jūs privalote į juos kreipti dėmesį ir jais vadovautis."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Jūs turite įsigyti ir sumokėti už visas apsaugos priemones ir aprangą, kuri jums reikalinga, kad galėtumėt dirbti saugiai."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Jūsų darbdavys privalo nemokamai suteikti jums visas apsaugos priemones, reikalingas, kad galėtumėt dirbti saugiai (šalmą, kaukę, pirštines,  viršutinius drabužius, apsauginius batus, ir pan.). Jūs privalote tinkamai naudotis šiomis asmeninėmis apsaugos priemonėmis ir pasinaudoję palikti jas reikiamoje vietoje."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Didelė rizikos tikimybė - jums gresia nelaimingo atsitikimo pavojus."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Vidutinė rizikos tikimybė - nebloga pradžia, tačiau turite daugiau ką sužinoti."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Maža rizikos galimybė - Jūsų žengtas pirmas žingsnis yra saugus - Šaunu!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Viktorina darbdavio tema"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Jūsų viršininkas privalo..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Sudaryti sąlygas ir prižiūrėti, kad darbo vieta bei darbo metodai būtų saugūs ir nekeltų pavojaus niekieno sveikatai"
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Pasirūpinti, kad gaminiai ir medžiagos būtų naudojamos, tvarkomos, laikomos ir pervežamos saugiai, nekeliant pavojaus niekieno sveikatai."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Visus darbuotojus informuoti, instruktuoti, apmokyti ir prižiūrėti sveikatos ir saugos klausimais."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Sudaryti darbo vietoje saugias ir sveikatai palankias sąlygas."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Atlikti rizikos vertinimą (nustatyti ir kontroliuoti pavojus) ir registruoti rezultatus."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Parengti darbuotojų saugos ir sveikatos priemonių planą ir nustatyti atitinkamas procedūras."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Konsultuoti ir bendradarbiauti su visais darbuotojais ir subrangovais, kurie jam dirba."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Laikytis visų būtinų sveikatos ir saugos teisės aktų."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Didelė rizikos tikimybė - jums reikalingos išsamesnės žinios apie tai, kokiu būdu jūsų viršininkas darbe turi užtikrinti saugumą ir sveikatai palankias sąlygas"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Vidutinė rizikos tikimybė - nebloga pradžia, tačiau turite daugiau ką sužinoti"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Maža rizikos tikimybė - gerai išmanote, ką jūsų viršininkas privalo daryti"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Skaičių žaidimas"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Kaulų ir raumenų sistemos (KRS) pažeidimai yra labiausiai 27 Europos Sąjungos valstybėse paplitusi darbuotojų sveikatos problema. Koks yra problemos mastas? Ką darbuotojai mano apie savo darbo sąlygas? Daugiau sužinosite atsakę į mūsų viktorinos klausimus:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Kiek procentų darbuotojų skundžiasi darbo sukeltais nugaros skausmais?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Kiek procentų darbuotojų skundžiasi darbo sukeltais raumenų skausmais?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Ar darbuotojų, ketvirtadalį arba daugiau darbo laiko atliekančių pasikartojančius judesius, skaičius procentais Europoje 2000–2005 metais?"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. Išliko nepakitęs"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. Sumažėjo 5 proc."
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. Išliko beveik nepakitęs"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. Išaugo 5 proc."
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Kokia yra dažniausiai darbuotojams pasireiškianti sveikatos problema?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Galvos skausmas"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Nugaros skausmai"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Nuovargis"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stresas"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Kiek asmenų nurodo turintys atlikti tuos pačius plaštakų ir rankų judesius ketvirtadalį arba daugiau laiko?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Kokiame veiklos sektoriuje Europoje moterys dirbdamos turi kilnoti arba judinti žmones?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. švietimas ir sveikatos priežiūra"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. parduotuvės ir sandėliai"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. finansinės paslaugos"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. viešasis administravimas"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Kiek procentų darbuotojų naudojasi kompiuteriu darbe visą darbo laiką arba didesnę jo dalį?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Kurie darbuotojai nurodo daugiausia dirbantys fizinį darbą?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Jaunesni negu 25-erių metų"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. 25-44 metų"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45-54 metų"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Vyresni negu 55 metų"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Šios viktorinos medžiaga parengta remiantis Eurostato, Europos Sąjungos statistikos tarnybos, ir Europos gyvenimo ir darbo sąlygų gerinimo fondo atlikto 4-ojo Europos darbo sąlygų tyrimo (2005 m. EDST) duomenimis."
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Viktorina saugos ženklų tema"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Ar pažįstate saugos ženklus? Išbandykite turimas žinias mūsų viktorinoje saugos ženklų tema!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Čia parduodami akiniai nuo saulės"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Nemokamai tikrinamas regėjimas"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Privaloma dėvėti apsauginius akinius"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Optikai"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Toliau - sankryža"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Skubi pirmoji pagalba"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Nelipti ant žolės"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Ligoninė"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Priekyje - piratų laivas"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Kapinės"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Pavojus"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Toksinės medžiagos"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Čia parduodami mobilūs telefonai"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobiliaisiais telefonais naudotis draudžiama"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Tylos zona"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Telefonų taisykla"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Čia dirba diskotekos vedėjai"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Privaloma dėvėti ausų apsaugines priemones"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Triukšminga vieta"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Visada laikykite ausis šiltai"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Čia užkastas lobis"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Priekyje - audra"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elektra"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Atsargiai, priekyje - gyvatės"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobikos užsiėmimai"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Kūno rengybos centras"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Atsarginis išėjimas"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Tarpduris"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Rūkymo vieta"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Ugnis pavojinga"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Čia parduodamos cigaretės"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Rūkyti draudžiama"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Didelė rizikos tikimybė - jums gresia nelaimingo atsitikimo pavojus."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Vidutinė rizikos tikimybė - nebloga pradžia, tačiau turite daugiau ką sužinoti."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Maža rizikos tikimybė - Jūsų žengtas pirmasis žingsnis yra saugus - Bravo!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Viktorina kaulų – raumenų sistemos sutrikimų tema"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Ką žinote apie kaulų – raumenų sistemos sutrikimųs ir nugaros skausmus? Ar teisingi šie teiginiai?"
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "ES valstybėse narėse taikomi konkretūs darbo įstatymai, reglamentuojantys krovinių kėlimą"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Yra parengta Europos Direktyva dėl sveikatos ir saugos reikalavimų, taikomų krovinių krovimui rankomis, kurią visos valstybės narės turi perkelti į savo teisę."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Nėščios moterys gali kelti krovinius, nebijodamos, kad tai joms gali pakenkti "
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Nėščios ar neseniai pagimdžiusios moterys neturi kelti sunkių krovinių; kuo vėlesnis yra nėštumo mėnuo, tuo didesnė traumos rizika."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Vibracija darbe gali padidinti „pasikartojančios įtampos sindromo“ riziką."
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Jei nuo pasikartojančio darbo ar kėlimo jums pradeda ką nors gelti ar skaudėti, geriausia išeitis - nuskausminamieji."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Jei dirbate nesaugiomis darbo sąlygomis, nuskausminamųjų vartojimas tik pablogina padėtį, ir tai gali baigtis nuolatine negalia."
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Jums gali atsirasti raumenų ir kaulų sistemos sutrikimų nejudant"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Nors jūsų kūnas yra toje pačioje padėtyje, jis vis tiek dirba. Tai vadinama \"statine apkrova\". Kūnui yra skirta judėti. Laikyti kūną vienoje padėtyje, įskaitant ilgai trunkantį sėdėjimą ar stovėjimą, nėra gerai."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Šaltos ir (arba) drėgnos darbo sąlygos yra kaulų – raumenų sistemos rizikos veiksnys."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Darbas su kompiuterio pele negali sukelti kaulų-raumenų sistemos sutrikimų."
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Yra parengta keletas paprastų patarimų, kaip tinkamai naudoti pelę, įskaitant dilbio ir rankos laikymą tinkamai parėmus, arti kūno ir darant poilsio pertraukėles."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Dirbdami su kompiuterio klaviatūra, turite padaryti pertrauką kas dvi valandas."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Išdirbus 50 minučių su kompiuterio klaviatūra, rekomeduojama padaryti 10 minučių pertrauką, darant ką nors kita."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Ak! Jums gresia didelis raumenų ir kaulų sistemos sutrikimų pavojus."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Kartais užeinantys skausmai ir dilgčiojimas! Sužinokite daugiau informacijos apie tai, kaip apsaugoti savo kūną."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Dirbate patogiai! Jūs žinote galybę dalykų, tačiau nepamirškite savo žinių pritaikyti praktikoje."
+

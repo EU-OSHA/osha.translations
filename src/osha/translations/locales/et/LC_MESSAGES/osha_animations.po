@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: et\n"
+"Language-Name: Estonian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQi-tsoon"
+
+msgid "Discover Safe Start "
+msgstr "Avasta ohutu lähe"
+
+msgid "Why RISQ it?"
+msgstr "Milleks RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Mida tähendab RISQ?"
+
+msgid "Competitions"
+msgstr "Võistlused"
+
+msgid "On the edge of safety"
+msgstr "Ohutus või ohtlik mäng"
+
+# animations
+msgid "anim_restart"
+msgstr "Alusta uuesti"
+
+msgid "anim01_message_01"
+msgstr "Kontrolli enne ronimist, et redel toetuks kindlalt"
+
+msgid "anim01_message_02"
+msgstr "Aseta redel seina najale õige nurga alla"
+
+msgid "anim01_message_03"
+msgstr "Pikka redelit peab alt otsast alati teine inimene hoidma"
+
+msgid "anim01_end"
+msgstr "Ole ettevaatlik ja ära kuku"
+
+msgid "anim02_end"
+msgstr "Ole ettevaatlik ja ära kuku"
+
+msgid "anim03_message_01"
+msgstr "Töökoht ei tohi olla ohtlik ega sobimatu"
+
+msgid "anim03_message_02"
+msgstr "Ära häbene abi küsida"
+
+msgid "anim03_end"
+msgstr "Ole ettevaatlik ja ära vaikselt kannata"
+
+msgid "anim04_message_01"
+msgstr "Mõtle enne raskuste tõstmist ja kandmist"
+
+msgid "anim04_message_02"
+msgstr "Kasuta töövahendeid"
+
+msgid "anim04_message_03"
+msgstr "Püüa alati koormust vähendada"
+
+msgid "anim04_end"
+msgstr "Ole ettevaatlik – selgroomurd juhtub ainult ühe korra"
+
+msgid "anim02_message_01"
+msgstr "Töökoht ei tohi olla pime"
+
+msgid "anim02_message_02"
+msgstr "Ära hakka ise leiutama, kui see võib olla ohtlik"

@@ -1,0 +1,163 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 19:10+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: ro\n"
+"Language-Name: Romanian\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: osha-hwi\n"
+
+
+msgid "osha_nav_title_nav_getinvolved"
+msgstr "Implicaţi-vă"
+
+msgid "osha_nav_description_nav_getinvolved"
+msgstr ""
+
+msgid "osha_nav_title_osh_in_your_company"
+msgstr "SSM &icirc;n cadrul societăţii dvs."
+
+msgid "osha_nav_description_osh_in_your_company"
+msgstr ""
+
+msgid "osha_nav_title_for_employers"
+msgstr "Pentru angajatori"
+
+msgid "osha_nav_description_for_employers"
+msgstr ""
+
+msgid "osha_nav_title_copy_of_for_employees"
+msgstr "Pentru angajaţi"
+
+msgid "osha_nav_description_copy_of_for_employees"
+msgstr ""
+
+msgid "osha_nav_title_campaignmaterials"
+msgstr "Materialele campaniei"
+
+msgid "osha_nav_description_campaignmaterials"
+msgstr ""
+
+msgid "osha_nav_title_press_room"
+msgstr "Sala de presă"
+
+msgid "osha_nav_description_press_room"
+msgstr ""
+
+msgid "osha_nav_title_events"
+msgstr "Participaţi la un seminar gratuit"
+
+msgid "osha_nav_description_events"
+msgstr ""
+
+msgid "osha_nav_title_nav_gp_info"
+msgstr "Good Practice Information"
+
+msgid "osha_nav_description_nav_gp_info"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-03-10.2220318834"
+msgstr ""
+
+msgid "osha_nav_description_navigation_link.2006-03-10.2220318834"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-03-10.2238751670"
+msgstr ""
+
+msgid "osha_nav_description_navigation_link.2006-03-10.2238751670"
+msgstr ""
+
+msgid "osha_nav_title_agriculture"
+msgstr "Agriculture"
+
+msgid "osha_nav_description_agriculture"
+msgstr ""
+
+msgid "osha_nav_title_construction"
+msgstr "Construction"
+
+msgid "osha_nav_description_construction"
+msgstr ""
+
+msgid "osha_nav_title_nav_hwi_topics"
+msgstr "Tematici"
+
+msgid "osha_nav_description_nav_hwi_topics"
+msgstr ""
+
+msgid "osha_nav_title_integration_peoplewithdisabilities"
+msgstr "Integrarea şi menţinerea în activitate a persoanelor cu disabilităţi"
+
+msgid "osha_nav_description_integration_peoplewithdisabilities"
+msgstr ""
+
+msgid "osha_nav_title_prevention_biologicalhazards"
+msgstr "Prevenirea riscurilor biologice"
+
+msgid "osha_nav_description_prevention_biologicalhazards"
+msgstr ""
+
+msgid "osha_nav_title_prevention_violence"
+msgstr "Prevenirea violenţei şi hărţuirii la locul de muncă"
+
+msgid "osha_nav_description_prevention_violence"
+msgstr ""
+
+msgid "osha_nav_title_nav_partners"
+msgstr "Parteneri în cadrul campaniei"
+
+msgid "osha_nav_description_nav_partners"
+msgstr ""
+
+msgid "osha_nav_title_partners_campaign"
+msgstr "Puncte focale naţionale"
+
+msgid "osha_nav_description_partners_campaign"
+msgstr ""
+
+msgid "osha_nav_title_partners_SME"
+msgstr "Centrele Euro Info"
+
+msgid "osha_nav_description_partners_SME"
+msgstr ""
+
+msgid "osha_nav_title_other_contacts"
+msgstr "Alte puncte naţionale de contact utile"
+
+msgid "osha_nav_description_other_contacts"
+msgstr ""
+
+msgid "osha_nav_title_navigation"
+msgstr "Elementele esenţiale ale evaluării riscurilor"
+
+msgid "osha_nav_description_navigation"
+msgstr ""
+
+msgid "osha_nav_title_risk_assessment_essentials"
+msgstr "Liste de control privind evaluarea riscurilor pentru Iniţiativa 'Locul de muncă sănătos' (HWI)"
+
+msgid "osha_nav_description_risk_assessment_essentials"
+msgstr ""
+
+msgid "osha_nav_title_checklists"
+msgstr "Liste de control din alte surse"
+
+msgid "osha_nav_description_checklists"
+msgstr ""
+
+msgid "osha_nav_title_brochure"
+msgstr "Broşură despre elementele esenţiale ale SSM"
+
+msgid "osha_nav_description_brochure"
+msgstr ""
+

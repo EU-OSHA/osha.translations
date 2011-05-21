@@ -1,0 +1,179 @@
+
+msgid "label_subjects_of_interest"
+msgstr "Теми, които могат да ви заинтересуват"
+
+msgid "label_item_type"
+msgstr "Вид на съобщението"
+
+msgid "daily"
+msgstr "Ежедневно"
+
+msgid "weekly"
+msgstr "Седмично"
+	
+msgid "monthly"
+msgstr "Месечно"
+
+msgid "OSH Link"
+msgstr "БЗР връзка "
+
+msgid "Publication"
+msgstr "Публикация"
+
+msgid "Case Study"
+msgstr "Конкретен случай"
+
+msgid "label_additional_languages"
+msgstr "Допълнителни езици"
+
+msgid "select_multiple_help"
+msgstr "За да изберете повече от един език, натиснете и задръжте клавиша „control“ на клавиатурата и изберете езиците с мишката."
+
+msgid "description_alertservice_languageselector"
+msgstr "Известяванията се изпращат на английски език. Ако съдържанието е преведено, вие може да изберете да го получите на допълнителни езици."
+
+msgid "description_subscribe_oshmail"
+msgstr "Искам също така да получавам безплатния месечен бюлетин OSHmail"
+
+msgid "oshmail_learn_more"
+msgstr "Научете повече..."
+
+msgid "alertservice_notification_report"
+msgstr "Съобщение за уведомление от OSHA"
+
+msgid "alert_label_more"
+msgstr "Повече"
+
+msgid "alertservice_alert_request"
+msgstr "EU-OSHA получи искане да започне да изпраща известявания на"
+
+msgid "alertservice_verify_request"
+msgstr "Потвърдете това искане за известяване до EU-OSHA:"
+
+msgid "alertservice_cancel_request"
+msgstr "Отменете това искане за известяване до EU-OSHA:"
+
+msgid "alertservice_alternative_verification"
+msgstr "Ако не можете да последвате връзката чрез щракване с мишката, може да я копирате в адресната лента на вашата търсачка."
+
+msgid "alertservice_ignore"
+msgstr "Ако не сте отправили това искане или смятате, че то ви е изпратено по грешка, можете да не отговаряте на това съобщение."
+
+msgid "alertservice_email_footer1"
+msgstr "Благодарим ви,"
+
+msgid "alertservice_email_footer2"
+msgstr "Екип за известяване на EU-OSHA"
+
+
+#############################################
+## keywords
+#############################################
+
+msgid "accident_prevention"
+msgstr "Предотвратяване на злополуки"
+
+msgid "ageing"
+msgstr "Възрастни работници"
+
+msgid "agriculture"
+msgstr "Земеделие"
+
+msgid "businessOSH"
+msgstr "Бизнес аспекти на БЗУТ"
+
+msgid "cleaners"
+msgstr "почистване на работниците"
+
+msgid "construction"
+msgstr "Строителство"
+
+msgid "csr"
+msgstr "Корпоративна социална отговорност"
+
+msgid "cww"
+msgstr "Изменящият се свят на труда"
+
+msgid "dangerous_substances"
+msgstr "Опасни вещества"
+
+msgid "disability"
+msgstr "Хора с увреждания"
+
+msgid "education"
+msgstr "Образование"
+
+msgid "emerging_risks"
+msgstr "Възникващи рискове"
+
+msgid "fisheries"
+msgstr "Рибарство"
+
+msgid "gender"
+msgstr "Пол"
+	
+msgid "healthcare"
+msgstr "Здравеопазване"
+
+msgid "horeca"
+msgstr "Horeca (Хотелиерство, ресторантьорството, обществено хранене)"
+
+msgid "hwi"
+msgstr "Здравословни работни места"
+
+msgid "legislation"
+msgstr "Законодателство"
+
+msgid "msd"
+msgstr "Мускулно-скелетни смущения"
+
+msgid "noise"
+msgstr "Шум"
+
+msgid "organisation"
+msgstr "Организация и стратегии"
+
+msgid "osheducation"
+msgstr "Включване на БЗУТ в образованието"
+
+msgid "research"
+msgstr "Изследвания"
+
+msgid "risks"
+msgstr "Възникващи рискове"
+
+msgid "risk_assessment"
+msgstr "Оценка на риска"
+
+msgid "risk_observatory"
+msgstr "Обсерватория на риска"
+
+msgid "road_transport"
+msgstr "Автомобилен транспорт"
+
+msgid "statistics"
+msgstr "Статистика"
+
+msgid "stress"
+msgstr "Стрес"
+
+msgid "young_people"
+msgstr "Млади хора"
+
+msgid "whp"
+msgstr "Популяризиране на здравето на работното място"
+
+msgid "maintenance"
+msgstr "Поддръжка"
+
+msgid "migrant_workers"
+msgstr "Migrant Workers"
+
+msgid "nanotechnology"
+msgstr "Nanotechnology"
+
+msgid "prevention"
+msgstr "Prevention"
+
+msgid "economic_incentives"
+msgstr "Икономически стимули"

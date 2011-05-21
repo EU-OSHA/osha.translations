@@ -1,0 +1,136 @@
+# Gettext Message File for osha
+# Deian Markov <deian@mlsp.government.bg>, 2005
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 13:34+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: bg\n"
+"Language-Name: Bulgarian\n"
+"Preferred-Encodings: cp1251 UTF-8\n"
+"Domain: osha-subsites\n"
+
+
+msgid "ew2007-navtitle_navigation"
+msgstr "Научете"
+
+msgid "ew2007-navtitle_about"
+msgstr "За кампанията"
+
+msgid "ew2007-navtitle_why"
+msgstr "Защо МСС?"
+
+msgid "ew2007-navtitle_campaign_materials"
+msgstr "Материали за кампанията"
+
+msgid "ew2007-navtitle_european noise summit"
+msgstr "European Young workers Summit"
+
+msgid "ew2007-navtitle_sign"
+msgstr "Sign the charter"
+
+msgid "ew2007-navtitle_nationalcontactsandactivities"
+msgstr "National Contacts & Activities"
+
+msgid "ew2007-navtitle_goodpracticeawards"
+msgstr "Good Practice Awards"
+
+msgid "ew2007-navtitle_logoandslogan"
+msgstr "Лого и девиз"
+
+msgid "ew2007-navtitle_agencypub"
+msgstr "Agency publications"
+
+msgid "ew2007-navtitle_factsheets"
+msgstr "Factsheets"
+
+msgid "ew2007-navtitle_reports"
+msgstr "Reports"
+
+msgid "ew2007-navtitle_magazins"
+msgstr "Magazins"
+
+msgid "ew2007-navtitle_agencywebfeatures"
+msgstr "Agency Webfeatures"
+
+msgid "ew2007-navtitle_webfeatures"
+msgstr "Webfeatures"
+
+msgid "ew2007-navtitle_photo competition"
+msgstr "Photo Competition"
+
+msgid "ew2007-navtitle_video competition"
+msgstr "Video Competition"
+
+msgid "ew2007-navtitle_accident_zone"
+msgstr "Accident Zone"
+
+msgid "ew2007-navtitle_ideas_for_action"
+msgstr "Ideas for action"
+
+msgid "ew2007-navtitle_case_studies"
+msgstr "Case Studies"
+
+msgid "ew2007-navtitle_press_room"
+msgstr "Пресцентър"
+
+msgid "ew2007-navtitle_events"
+msgstr "Events"
+
+msgid "ew2007-navtitle_ecards"
+msgstr "eCards"
+
+msgid "ew2007-navtitle_navigation_link.2007-06-01.3873178933"
+msgstr "Napo"
+
+msgid "hwi-navtitle_navigation"
+msgstr "Основни елементи на оценката на риска"
+
+msgid "hwi-navtitle_risk_assessment_essentials"
+msgstr "Контролни листове за оценка на риска във връзка с HWI"
+
+msgid "hwi-navtitle_checklists"
+msgstr "Контролни листове от други източници"
+
+msgid "hwi-navtitle_brochure"
+msgstr "Брошура с основните елементи на OSH"
+
+msgid "newoshera-navtitle_navigation"
+msgstr "Menu"
+
+msgid "newoshera-navtitle_about"
+msgstr "About NEW OSH ERA"
+
+msgid "newoshera-navtitle_background"
+msgstr "Background"
+
+msgid "newoshera-navtitle_objectives"
+msgstr "Objectives"
+
+msgid "newoshera-navtitle_work_content"
+msgstr "Work content"
+
+msgid "newoshera-navtitle_orga"
+msgstr "Organisation Structure"
+
+msgid "newoshera-navtitle_participants"
+msgstr "Participants"
+
+msgid "newoshera-navtitle_progress"
+msgstr "Project Progress"
+
+msgid "newoshera-navtitle_contact"
+msgstr "Contact"
+
+msgid "newoshera-navtitle_links"
+msgstr "Links"
+
+msgid "newoshera-navtitle_extranet"
+msgstr "Extranet (for Members only)"
+

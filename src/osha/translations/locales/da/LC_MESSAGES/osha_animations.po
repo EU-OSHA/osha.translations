@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: da\n"
+"Language-Name: Dansk\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQzone"
+
+msgid "Discover Safe Start "
+msgstr "Se, hvordan du får en sikker start"
+
+msgid "Why RISQ it?"
+msgstr "Hvorfor RISQdet?"
+
+msgid "What can you RISQ?"
+msgstr "Hvad kan du RISQ?"
+
+msgid "Competitions"
+msgstr "Konkurrencer"
+
+msgid "On the edge of safety"
+msgstr "På kanten af sikkerhed"
+
+# animations
+msgid "anim_restart"
+msgstr "Genstart"
+
+msgid "anim01_message_01"
+msgstr "Kontroller foden på din stige, inden du begynder at klatre op"
+
+msgid "anim01_message_02"
+msgstr "Sæt stigen i den rette vinkel i forhold til væggen"
+
+msgid "anim01_message_03"
+msgstr "Hav altid en stående for foden af en høj stige"
+
+msgid "anim01_end"
+msgstr "“Pas på – fald ikke for det”"
+
+msgid "anim02_end"
+msgstr "“Pas på – fald ikke for det”"
+
+msgid "anim03_message_01"
+msgstr "Arbejd ikke under usikre eller uegnede forhold"
+
+msgid "anim03_message_02"
+msgstr "Vær ikke bange for at bede om hjælp"
+
+msgid "anim03_end"
+msgstr "“Pas på – lid ikke i stilhed"
+
+msgid "anim04_message_01"
+msgstr "Tænk, før du løfter og bærer noget"
+
+msgid "anim04_message_02"
+msgstr "Brug det udstyr, der er til rådighed"
+
+msgid "anim04_message_03"
+msgstr "Forsøg altid at gøre byrden lettere"
+
+msgid "anim04_end"
+msgstr "“Pas på – ryggen brækker kun en gang"
+
+msgid "anim02_message_01"
+msgstr "Arbejd ikke i mørke"
+
+msgid "anim02_message_02"
+msgstr "Improviser ikke, hvis det sætter sikkerheden på spil"

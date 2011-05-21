@@ -1,0 +1,675 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: de\n"
+"Language-Name: Deutsch\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Lade..."
+
+msgid "score_label"
+msgstr "Ihre Punktzahl:"
+
+msgid "restart_label"
+msgstr "Neu starten"
+
+msgid "true"
+msgstr "Richtig"
+
+msgid "false"
+msgstr "Falsch"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "no"
+msgstr "Nein"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Setzen Sie das Symbol an die richtige Stelle)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Lärmquiz"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Was weißt du über Lärm? Spiele dieses schnelle Quiz und finde es heraus."
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Gehörschutz zu tragen ist besser als Lärm zu vermeiden."
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Den ganzen Tag bei 100 Dezibel zu arbeiten, ist völlig in Ordnung."
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Hörverlust trifft nur ältere Menschen."
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Jeder kann die Intensität des Lärms einfach durch bloßes Hinhören abschätzen."
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Ohrgeräusche sollten ein Alarmzeichen sein."
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Die Frequenz ist ein Maß für die Intensität (Stärke) von Lärm."
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Hörverlust geschieht plötzlich."
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Gehörschutz sollte nur verwendet werden, wenn der Lärm nicht auf andere Weise vermindert werden kann."
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Achtung! Du könntest Probleme mit deinem Hörvermögen bekommen, wenn du dich nicht rechtzeitig schützt."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Handle jetzt! Du solltest dich ein bisschen besser bei diesem Thema auskennen."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Gratuliere! Du bist ganz Ohr. Du weißt, wie du dein Hörvermögen schützen kannst."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Quiz zum Thema Verantwortung"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Liegt es in Deiner Verantwortung folgendes zu tun?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Du musst deine Gesundheit und Sicherheit schützen"
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Du musst deine Gesundheit und Sicherheit schützen, indem du die Anweisungen befolgst und anwendest was du in Schulungen gelernt hast. Andere Personen sind nicht verantwortlich, wenn du die Anweisungen missachtest oder leichtsinnig handelst."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Du musst die Menschen in deiner Umgebung (in deinem Umfeld) so weit wie möglich schützen, indem du die Anweisungen befolgst und anwendest was du bei Schulungen gelernt hast."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Dein Verhalten kann sich auf die Gesundheit und Sicherheit von anderen Menschen auswirken. Das kann einerseits eine unmittelbare Folge deiner Handlungen sein, oder andrerseits auf etwas zurückzuführen sein, was du hättest tun oder unterlassen sollen."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Mit neuen Arbeitsgeräten umzugehen lernt man am besten, indem man sie selbst ausprobiert."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Wenn du mit bestimmten Arbeitsgeräten umgehen sollst, sollte dir immer jemand den sicheren Umgang mit dem Arbeitsgerät zeigen. Im Zweifelsfall: FRAGEN!"
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Du musst mit deinem Vorgesetzten zusammenarbeiten."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Dein Arbeitgeber ist für die sichere Arbeitsumgebung verantwortlich. Es liegt aber in Deiner Verantwortung mit den Arbeitsgeräten richtig umzugehen und die Anweisungen zu befolgen."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Wenn Du eine Gefahr erkennst, dann vermeide oder ignoriere sie einfach. Es ist nicht Deine Aufgabe die Gefahr zu melden oder sie auszuschalten."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Es sollte festgelegte Vorgaben für das Melden möglicher Gefahren geben. Das kann dadurch geschehen, dass Du das Problem bei deinem Vorgesetzten ansprichst oder es können offiziellere Möglichkeiten zur Meldung einer Gefahr bestehen. SCHEU DICH NIE EINE MÖGLICHE GEFAHR ZU MELDEN - sei es, dass ein Stecker defekt, der Boden rutschig oder etwas ausgelaufen ist. Deine Meinung ist wichtig."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Du musst alle Rechtsvorschriften im Bereich Sicherheit und Gesundheitsschutz am Arbeitsplatz kennen, bevor Du mit der Arbeit beginnst."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Die Kenntnis aller Rechtsvorschriften ist zwar nicht notwendig, Du solltest aber eine Vorstellung dazu haben. Schau Dir doch an, was unsere Website hierzu zu bieten hat."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Du musst alle Anweisungen und Vorschriften für deinen Arbeitsbereich befolgen und Beschilderungen beachten."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Sicherheitsbeschilderungen dienen Deinem Schutz und sind gesetzlich vorgeschrieben. Es liegt in Deiner Verantwortung sie zur Kenntnis zu nehmen und sie zu beachten."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Du musst die Kosten für die Anschaffung etwaiger Schutzbekleidung und -ausrüstung übernehmen, die Du für ein sicheres Arbeiten benötigst."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Dein Arbeitgeber ist verpflichtet Dir kostenlos die persönliche Schutzausrüstung zur Verfügung zu stellen, die Du für ein sicheres Arbeiten benötigst (Schutzhelm, Masken, Handschuhe, Bekleidung für den Außenbereich, Schutzstiefel usw.). Du bist verpflichtet die persönliche Schutzausrüstung richtig einzusetzen und nach dem Gebrauch an den hiefür vorgesehenen Platz zurückzugeben."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Achtung - Hohes Risiko- Du bist unfallgefährdet."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Mittleres Risiko - Du hast zwar eine gute Ausgangsbasis, die Du aber noch vertiefen müsstest."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Gratuliere - Du startest sicher - ausgezeichnet!"
+
+
+#: ********** Employer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Arbeitgeberquiz"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Ihr Arbeitgeber muss:"
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Für deine Arbeitsumgebung (Arbeitsplatz) und Arbeitsbedingungen sorgen, die sicher sind und deine Gesundheit nicht gefährden."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Dafür sorgen, dass der Umgang, die Handhabung, die Lagerung und der Transport von Waren und Stoffen auf sichere Art und Weise erfolgt und die Gesundheit nicht gefährdet wird."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Für alle Beschäftigten Informationen, Anweisungen und Schulungen zu Sicherheit und Gesundheitsschutz bereitstellen und für eine entsprechende Überwachung zu sorgen."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Für einen sicheren und gesunden Arbeitsplatz sorgen."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Die Evaluierung (Gefahrenermittlung und Beurteilung) durchführen und deren Ergebnisse dokumentieren."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Systeme und Verfahren für Sicherheit und Gesundheitsschutz entwickeln."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Die Beschäftigen konsultieren und mit ihnen und möglichen Auftragnehmern zusammenarbeiten."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Alle einschlägigen Rechtsvorschriften in Bezug auf Gesundheitsschutz und Sicherheit einhalten."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Hohes Risiko - Du müsstest Dich eingehender über die Verpflichtungen eines Arbeitgebers - Deinen Arbeitplatz sicher und gesund zu gestalten - informieren."
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Mittleres Risiko - Du hast zwar eine gute Ausgangsbasis, die Du aber noch vertiefen müsstest."
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Gratuliere - Du weißt gut über die Verpflichtungen Deines Arbeitgebers Bescheid."
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Zahlenquiz"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Muskel- und Skeletterkrankungen (MSE) stellen das am häufigsten auftretende arbeitsbedingte Gesundheitsproblem in den EU-27 dar. Welches Ausmaß hat das Problem? Wie sehen die Menschen ihre Arbeitsbedingungen? Spielen Sie unser Quiz und erfahren Sie mehr:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Wieviel % der Arbeitnehmer klagen über arbeitsbedingte Rückschmerzen?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Wieviel % der Arbeitnehmer klagen über arbeitsbedingte Muskelschmerzen?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Ist der Prozentsatz der Arbeitnehmer in Europa, die angeben, dass sie ein Viertel ihrer Arbeitszeit oder länger Wiederholungstätigkeiten ausführen müssen, zwischen 2000 und 2005 gleich geblieben?"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. Gleich geblieben"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. Um 5 % zurückgegangen"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. Fast gleich geblieben"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. Um 5 % gestiegen"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Was ist das am häufigsten auftretende arbeitsbedingte Krankheitssymptom?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Kopfschmerzen"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Rückenschmerzen"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Müdigkeit"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Wie viele Menschen geben an, dass sie ein Viertel ihrer Arbeitszeit oder über einen längeren Zeitraum sich wiederholenden Hand- und Armbewegungen ausgesetzt sind?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "In welchen Sektoren in Europa müssen Frauen im Rahmen ihrer Arbeit eher Menschen heben oder bewegen?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. Bildungs- und Gesundheitswesen"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. Geschäfte und Großmärkte"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. Finanzdienstleistungen"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. Öffentliche Verwaltung"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Wie groß ist der Anteil von Arbeitnehmern, die während ihrer gesamten Arbeitszeit oder die meiste Zeit mit dem Computer arbeiten?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Welche Altersgruppe von Arbeitnehmern gibt den höchsten Anteil körperlicher Tätigkeit bei ihrer Arbeit an?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Unter 25"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. Zwischen 25 und 44"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. Zwischen 45 und 54"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Über 55"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Dieses Quiz basiert auf Daten von Eurostat, dem Statistischen Amt der Europäischen Union, sowie auf Informationen aus der 4. Erhebung über Arbeitsbedingungen (EWCS 2005), die von der Europäischen Stiftung für die Verbesserung der Lebens- und Arbeitsbedingungen durchgeführt wurde."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Quiz zur Sicherheitsbeschilderung"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Kennst Du Dich mit der Sicherheitsbeschilderung aus? Teste Dein Wissen in unserem Quiz zur Sicherheitsbeschilderung."
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Verkauf von Sonnenbrillen"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Kostenlose Augenprüfung"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Schutzbrille tragen"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Optiker"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Achtung Kreuzung"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Erste Hilfe"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Betreten des Rasens verboten"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Krankenhaus"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Piratenschiff voraus"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Friedhof"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Gefahr"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Giftige Stoffe"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Verkauf von Mobiltelefonen"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobiltelefone verboten"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Ruhebereich"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Telefonreparatur"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Hier arbeiten DJs"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Gehörschutz tragen"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Lärmbereich"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Ohren stets warm halten"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Vergrabener Schatz"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Sturmwarnung"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elektrizität"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Achtung Schlangen"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobic-Kurs"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitnesscenter"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Notausgang"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Tür"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Raucherbereich"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Kein offenes Feuer"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Verkauf von Zigaretten"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Rauchen verboten"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Achtung - Hohes Risiko- Du bist unfallgefährdet."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Mittleres Risiko - Du hast zwar eine gute Ausgangsbasis, die Du aber noch vertiefen müsstest."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Gratuliere - Du startest sicher - ausgezeichnet!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Quiz zu Muskel-Skelett-Erkrankungen (MSD)"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Was weißt Du über Muskel-Skelett-Erkrankungen (MSD) und über Rückenprobleme? Finde es heraus und spiel das schnelle Quiz:"
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "Es gibt in den EU Mitgliedstaaten spezielle arbeitnehmerschutzrechtliche Regelungen betreffend das Heben von schweren Lasten."
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Es existiert eine europäische  Richtlinie mit Vorschriften betreffend Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten. Diese Vorschriften müssen in allen Mitgliedstaaten in nationales Recht umgesetzt werden."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Schwangere Frauen können gefahrlos Lasten heben."
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Schwangere oder Frauen, die erst vor kurzem geboren haben, sollten keine schweren Lasten heben. Die Verletzungsgefahr nimmt im Verlauf einer Schwangerschaft zu."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Eine Exposition gegenüber Vibrationen bei der Arbeit kann ein steigendes Risiko für \"repetitive strain injury\" (RSI) bergen."
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Wenn Arbeitsvorgänge, die sich ständig wiederholen, oder das Heben von Lasten Dir Schmerzen verursachen, solltest du am besten ein Schmerzmittel nehmen."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Wenn du unter nicht sicheren Bedingungen weiterarbeitest und Schmerzmittel nimmst, wird sich das Problem nur verschlimmern und kann schlussendlich zu einer dauerhaften Schädigung führen."
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Du kannst auch Muskel- Skelett-Erkrankungen (MSD) bekommen, wenn Du keine Bewegungen machst."
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Dein Körper arbeitet auch dann, wenn Du eine Position hältst. Das nennt man „Statische Belastung“. Dein Körper ist darauf angelegt „sich zu bewegen“. Eine bestimmte Position lange zu halten - das gilt auch für langes Sitzen oder Stehen - ist nicht gesund."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Kälte und Feuchtigkeit sind Risikofaktoren für Muskel-Skelett-Erkrankungen."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Das Benutzen einer Computermaus kann keine MSD verursachen."
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Es gibt ein paar einfache Regeln für das richtige Benutzen einer Maus, darunter die geeignete Unterstützung von Unterarm und Hand nahe am Körper und das Einlegen von Pausen."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Du solltest bei Schreibarbeiten am Computer alle zwei Stunden eine Pause einlegen."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Es empfiehlt sich nach 50 Minuten Schreibarbeit am PC eine zehnminütige Pause einzulegen, in der Du etwas anderes tust."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Autsch! Du bist stark MSD gefährdet."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Gelegentliche Schmerzen und Kribbeln! Informiere Dich eingehender darüber, wie Du Dich schützen kannst."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Gratuliere - Du arbeitest richtig! Du kennst Dich gut aus - vergiss aber trotzdem nicht, Dein Wissen in die Praxis umzusetzen."
+
+
+
+
+

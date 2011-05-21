@@ -1,0 +1,27 @@
+# ArchGenXML generated POT File
+# SYSLAB.COM <info@syslab.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: osha\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2004-12-17 15:53+0100\n"
+"Last-Translator: EU\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: nl\n"
+"Language-Name: Nederlands\n"
+"Preferred-Encodings: UTF-8\n"
+"X-Is-Fallback-For: nl-be\n"
+"Domain: slc.publications\n"
+
+msgid "parliament_question_author"
+msgstr "Federale Overheidsdienst Arbeid en Sociaal Overleg"
+
+msgid "senate_question_author"
+msgstr "Belgische Senaat"
+
+msgid "chamber_question_author"
+msgstr "Belgische Kamer van Volksvertegenwoordigers"

@@ -1,0 +1,675 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+"X-Is-Fallback-For: en-au en-bz en-ca en-ie en-jm en-nz en-ph en-za en-tt en-gb en-us en-zw\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Loading"
+
+msgid "score_label"
+msgstr "Your score:"
+
+msgid "restart_label"
+msgstr "Restart"
+
+msgid "true"
+msgstr "True"
+
+msgid "false"
+msgstr "False"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Move the sign to the correct position)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Noise quiz"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "How much do you know about noise? Try this quick quiz"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Wearing earmuffs is better than trying to fix the noise?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "It is OK to work all day in 100 decibels"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Hearing loss only affects older people"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Anyone can measure noise simply by listening"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Ringing in the ears should be a warning"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Frequency refers to intensity(loudness) of noise"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Hearing loss happens quickly"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Earmuffs or plugs should be used only as a last resort"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Watch out! You can lose your hearing if you don't protect it."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Act now! There are things you need to know about protecting your hearing."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "You're all ears! You must have heard about how to protect your hearing."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Responsibilities quiz"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Is it your responsibility to do the following?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "You must take care of your own health and safety."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "It is your responsibility to take care of your own health and safety following the instruction and training you have been given. Other people are not responsible if you ignore instructions or if you are foolish or careless in your behaviour."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "You must take care as far as possible of other people around you following the instruction and training you have been given."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Your behaviour can affect the health and safety of others. This can be directly by your actions or indirectly by things you fail to do."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "When using new equipment the best way to learn is to have a go yourself using trial and error."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "If you are asked to use equipment then you should be shown how to use it safely. IF IN DOUBT - ASK."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "You must cooperate with your managers and supervisors."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "It is your employer's responsibility to provide a safe environment in which you can work, but it is your responsibility to use equipment properly and to follow instructions."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "If you spot a hazard avoid it and ignore it. It is someone else's job to report it and fix it."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "There should be procedures you can follow to report possible hazards. These may be informally mentioning it to your supervisor or more formal reporting arrangements. NEVER BE AFRAID TO MENTION SOMETHING - a spillage, a slippery floor, a faulty plug, or anything at all that you feel is appropriate."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "You must know all the laws about health and safety before you start work."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "This is not required, but it is good to have some idea. Have a look at the resources on this website."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "You must follow all instructions, signs and rules displayed around the workplace."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Safety signs are displayed for your protection and are in place by law. You have a responsibility to note them and follow them."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "You must provide and pay for any protective clothing and equipment that you need to do the job safely."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Your employer must supply you with any protective equipment needed for safety on the job (hard hat, masks, gloves, outdoor clothing, protective boots etc) free of charge. You must make correct use of this personal protective equipment and, after use, return it to its proper place."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "High risk - you are in danger of having an accident."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Medium risk - a fair start but you have more to learn."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Low risk - you are making a Safe Start - well done!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Employer quiz"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Your boss must..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Provide and maintain plant (the workplace) and systems of work that are safe and do not pose risks to anyone's health."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Make sure that the use, handling, storage and transporting of goods and substances is safe and without risk to anyone's health."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Provide information, instruction, training and supervision on health and safety matters for all their employees."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Keep the workplace in a safe and healthy condition."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Carry out risk assessments (identify and control hazards) and record the findings."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Develop health and safety systems and procedures."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Consult and cooperate with employees and any contractors who do work for them."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Comply with all relevant health and safety legislation."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "High risk - you need to find out more about what your boss must do to keep you safe and healthy at work"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Medium risk - a fair start but you have more to learn"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Low risk - you have a good knowledge of what your boss must do"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "The numbers game"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Musculoskeletal disorders (MSDs) are the most common work-related health problem in the EU27. What is the extent of the problem? What do people think about their working conditions? To find out more try our quiz:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "What % of workers complain of backache because of their work?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "What % of people complain of muscular pain because of their work?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Between 2000 and 2005 did the % of workers in Europe who reported being exposed to repetitive movements a quarter of the time or more?"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. Stay exactly the same"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. Decrease by 5%"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. Stay almost the same"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. Increase by 5%"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "What is the most common work-related health symptom?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Headache"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Backache"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Fatigue"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "How many people say that they are exposed to repetitive hand and arm movements a quarter or more of the time?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "In which industry sectors in Europe are women more likely to lift or move people as a result of their work?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. education and health"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. shops and warehouse"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. financial services"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. public administration"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "What proportion of workers use computers for their work all or most of the time?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Which workers report having the highest amount of physical work in their jobs?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Under 25s"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. 25-44 year-olds"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45-54 year-olds"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Over 55 year-olds"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "This quiz is based on information from Eurostat, the statistical office of the European Union, and from the 4th European Working Conditions Survey (EWCS 2005) carried out by the European Foundation for the Improvement of Living and Working Conditions."
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of safety signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Safety Sign Quiz"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Do you know your safety signs? Test your knowledge on our Safety Signs Quiz!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Sunglasses on sale here"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Free eye tests"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Safety glasses must be worn"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Opticians"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Crossroads ahead"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Emergency first aid"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Keep off the grass"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Hospital"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Pirate ship ahead"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Burial ground"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Danger"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Toxic substances"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Mobile phones on sale here"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobile phones prohibited"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Quiet zone"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Phone repairs"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "DJs working here"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Ear protection must be worn"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Noisy area"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Keep your ears warm at all times"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Treasure buried here"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Storms ahead"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Electricity"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Danger - snakes and serpents ahead"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobic class"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitness centre"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Fire exit"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Doorway"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Smoking area"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "No naked flames"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Cigarettes on sale here"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "No smoking"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "High risk - you are in danger of having an accident."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Medium risk - a fair start but you have more to learn."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Low risk - you are making a Safe Start - well done!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "MSD Quiz"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "How much do you know about Musculoskeletal Disorders (MSDs) and back pain? Try this quick quiz."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "There are specific work laws in the EU Member States that cover the lifting of loads"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "There is a European Directive on the health and safety requirements for the manual handling of loads which all the Member States have put into their own laws."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Pregnant women may lift loads without it causing harm"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Women who are pregnant or have recently given birth should not lift heavy loads; as the pregnancy progresses the worker is at greater risk of injury."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Exposure to vibrations at work can increase the risk of getting 'repetitive strain injury'"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "If you get aches and pains from repetitive work or lifting it, pain killers are the best solution."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "If you carry on working in unsafe conditions by using pain killers you will just make the problem worse, and it could lead to a permanent disability"
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "You can get a Musculoskeletal Disorder (MSD) by not moving"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "If you are holding one posture your body is still working. It is called 'static load'. The body was designed to move. Holding one posture, including prolonged sitting or standing, is not good for you."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Cold/damp conditions are a risk factor for musculoskeletal disorders."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Using the computer mouse cannot cause MSDs"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "There are some simple guidelines for using the mouse properly, including keeping your forearm and hand properly supported, close to your body, and taking rest breaks"
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "You should have a break from computer keyboard work every 2 hours."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "The recommendation is to take a 10 minute break by doing something different after 50 minutes working on a computer keyboard."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Ouch! You are at high risk of getting an MSD."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Occasional aches and tingles! Learn more about how to protect your body."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Working comfortably! You know loads, but don't forget to put your knowledge into practice."
+
+
+
+
+

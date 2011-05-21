@@ -1,0 +1,140 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: pt\n"
+"Language-Name: Portogues\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Semana Europeia da Segurança e da Saúde no Trabalho ${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Certificado"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Certifica-se que"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "assinou a Carta da Semana Europeia ${year}, tendo-se comprometido a contribuir activamente para a Semana Europeia do corrente ano"
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">campanha da Semana Europeia</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Atenção! Mais carga não"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Certificado de Participação"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Serve o presente Certificado para reconhecer a participação de"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "na <font face=\"ArialItalic\">campanha europeia “Atenção! Mais carga não”</font> que teve por objectivo a redução do número de lesões músculo esqueléticas (LME) relacionadas com o trabalho e a promoção de locais de de trabalho mais seguros e saudáveis."
+
+msgid "director"
+msgstr "Director"
+
+msgid "email_text_1"
+msgstr "Obrigado por assinar a Carta da Semana Europeia."
+
+msgid "email_text_2"
+msgstr "Segue em anexo a este e-mail o texto da Carta, em formato PDF, que pode imprimir."
+
+msgid "email_text_3"
+msgstr "Para mais informações sobre a campanha da Semana Europeia, visite o nosso website:"
+
+msgid "feedback_text_1"
+msgstr "Obrigado por assinar a Carta da Semana Europeia"
+
+msgid "feedback_text_2"
+msgstr "Voltar ao Certificado"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "CERTIFICADO DE PARTICIPAÇÃO"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "O presente certificado confirma a participação da"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "na campanha Locais de Trabalho Seguros e Saudáveis – Bom para si. Bom para as empresas."
+
+msgid "contribution_headline_2008_2"
+msgstr "- uma campanha europeia que tem por fim a promoção de uma abordagem de gestão integrada que tenha em consideração as distintas fases da avaliação dos riscos."
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Locais de trabalho seguros e saudáveis"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Bom para si. Bom para as empresas."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Certificado de Participação"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "O presente Certificado atesta a participação de"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "na Campanha Locais de Trabalho Seguros e Saudáveis 2010-11 sobre trabalhos de reparação e manutenção seguros."
+
+#: Director 
+msgid "director_2010"
+msgstr "Director da Agência Europeia para a Segurança e a Saúde no Trabalho (EU-OSHA)"

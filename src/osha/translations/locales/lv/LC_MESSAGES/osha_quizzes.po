@@ -1,0 +1,671 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: lv\n"
+"Language-Name: Latvia\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Ielādēt"
+
+msgid "score_label"
+msgstr "Jūsu rezultāts:"
+
+msgid "restart_label"
+msgstr "Atsākt"
+
+msgid "true"
+msgstr "Pareizi"
+
+msgid "false"
+msgstr "Nepareizi"
+
+msgid "yes"
+msgstr "Jā"
+
+msgid "no"
+msgstr "Nē"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Pārvietojiet zīmi pareizā vietā)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Trokšņa tests"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Cik daudz Jūs zinat par troksni? Pamēģiniet izpildīt šo testu."
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Vai valkāt austiņas ir labāk nekā novērst troksni?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Vai ir labi visu dienu strādāt pie 100 decibelu liela trokšņa?"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Vai dzirdes zudums skar tikai gados vecus cilvēkus"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Vai ikviens var izmērīt troksni vienkārši to klausoties?"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Vai zvanīšanu ausīs var uzskatīt par brīdinājumu?"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr " Vai frekvence ir trokšņa intensitāte (skaļums)?"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Vai dzirdi var pazaudēt ļoti ātri?"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Vai austiņas un ausu aizbāžņi jālieto tikai kā beidzamais līdzeklis?"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Uzmanieties! Ja Jūs neievērosiet drošības noteikumus Jūs zaudēsiet dzirdi."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Rīkojieties! Jums ir jāzin kā pasargāt dzirdi."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Jums jābūt informētam par to kā pasargāt dzirdi."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Pienākumu tests"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Vai Jūsu pienākums ir veikt šādus uzdevumus?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Vai Jums ir jārūpējas par savu veselību un drošību?"
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Jūsu pienākums ir rūpēties par savu veselību un drošību atbilstoši Jums sniegtajām instrukcijām un apmacībai. Citi cilvēki nav atbildīgi par to, ja Jūs neievērojat instrukcijas vai rīkojieties muļķīgi un nevērīgi."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "2. Vai Jums, savu iespēju robežās, jārūpējas par to, lai apkārtējie ievērotu sniegtās instrukcijas un apmācību?"
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Jūsu uzvedība var ietekmēt apkārtējo cilvēku veselību un drošību. Tā var būt vai nu tiešas rīcības vai netiešas, proti nepaveikta uzdevuma, sekas."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Vai strādājot ar jaunu aprīkojumu vislabākais veids kā iemācīties to lietot ir mēģināt un pieļaut kļūdas."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Uzsākot darbu ar jaunu aprīkojumu Jums ir jāzin kā to droši lietot. NESKAIDRĪBU GADĪJUMĀ - JAUTĀJIET."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Vai Jūms ir jāsadarbojas ar darba devējiem un uzraugiem?"
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Jūsu darba devēja pienākums ir Jums nodrošināt drošu darba vidi, savukārt Jūsu pienākums ir pareizi lietot aprīkojumu un ievērot drošības instrukcijas."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Vai pamanot iespējamu riska faktoru Jūs no tā izvairīsieties un to ignorēsiet, jo Jūsu uzdevums nav par to ziņot vai to novērst?"
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Darbavietā ir noteiktas procedūras, kas jāievēro ziņojot par iespējamiem riska faktoriem. Tā var būt vai nu neformāla uzrauga informēšana vai formāla informēšana. NEKAD NEBAIDIETIES ZIŅOT PAR - izlietam vielām, slidenu grīdu, bojātu kontaktdakšu vai jebko, kas Jums liekas bīstams."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Vai pirms darba uzsākšanas Jums ir jāiepazīstas ar visiem veselības un darba drošības likumiem? "
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Tas nav nepieciešams, tomēr nelielas priekšzināšanas Jums noderētu. Apskatiet šajā tīmekļa vietnē sniegto informāciju."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Vai Jums ir jāievēro visas instrukcijas, zīmes un noteikumi, kas pieejami darbavietā?"
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Drošības zīmes ir paredzētas Jūsu drošībai un to izvietošana ir noteikta ar likumu. Jūsu pienākums ir tās ievērot un vadīties pēc tām."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Vai Jums pašam ir jāiegādājas drošam darbam nepieciešamais apģērbs un aizsargaprīkojums? "
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Jūsu darba devējam ir jānodrošina darbam nepieciešamais bezmaksas aizsargaprīkojums (ķiveres, maskas, cimdi, apģērbs, aizsargapavi, u.c.). Jums ir pareizi jālieto personīgais aizsargaprīkojums un pēc tā lietošanas jānoliek vietā."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Liels risks - jums draud briesmas."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Minimāls risks - labs sākums, bet Jums vēl daudz jāapgūst."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Mazs risks - drošs sākums - labi paveikts!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Darba devēja tests"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Vai Jūsu darba devējam ..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Jānodrošina un jāuztur droša darba vieta un darba sistēmas, kas nerada risku darbinieku veselībai ?"
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Jāpārbauda vai preču un vielu lietošana, apstrāde, uzglabāšana un transportēšana ir droša un neradīs kaitējumu veselībai?"
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Visiem darbiniekiem jānodrošina informācija, intrukcijas, apmācība un uzraudzība veselības un darba drošības jautājumos?"
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Jāuztur droša un veselībai nekaitīga darba vide?"
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Jāveic riska novērtējumi (jānosaka un jākontrolē riska faktori) un jāreģistre noteiktie?"
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Jāpilnveido veselības un darba drošības sistēmas un procedūras?"
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Jākonsultējas un jāsadarbojas ar darba ņēmējiem un līgumsēdzējiem, kas veic darbu viņu labā? "
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Jāievēro veselības un darba drošības likumdošana?"
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Liels risks - Jums jāapgūst vairāk informācijas par to, kas darba devējam jādara,lai nodrošinātu drošu un veselībai nekaitīgu darbavietu."
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Minimāls risks - labs sākums, bet Jums vēl daudz jāapgūt."
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Mazs risks - Jūs labi zināt darba devēja pienākumus."
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Skaitļu spēle"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Balsta un kustību aparāta traucējumi (BKAT) ir visbiežākā ar darbu saistītā veselības problēma 27 valstu ES. Cik liela ir šī problēma? Ko cilvēki domā par saviem darba apstākļiem? Lai uzzinātu vairāk, ielūkojieties mūsu viktorīnā:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Cik procentu strādnieku sūdzas par muguras sāpēm darba dēļ?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Cik procentu strādnieku sūdzas par muskuļu sāpēm darba dēļ?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Vai no 2000. gada līdz 2005. gadam to strādnieku procentuālais apjoms Eiropā, kas ziņoja, ka ir pakļauti atkārtotām kustībām ceturtdaļu darba laika vai ilgāk "
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. saglabājās nemainīgs?"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. samazinājās par 5%?"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. saglabājās gandrīz nemainīgs?"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. pieauga par 5%?"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Kas ir visizplatītākais ar darbu saistītais veselības traucējumu simptoms?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Galvassāpes"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Muguras sāpes"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Nogurums"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Cik daudz cilvēku uzskata, ka ir pakļauti atkārtotām plaukstu un roku kustībām ceturtdaļu laika vai ilgāk?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Kādās rūpniecības nozarēs Eiropā sievietes visvairāk ceļ vai pārvieto cilvēkus, pildot savus darba pienākumus?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. izglītība un veselības aprūpe"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. veikali un noliktavas"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. finanšu pakalpojumi"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. valsts pārvalde"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Cik lielai darbinieku daļai darbs pie datora ir visu darba laiku vai lielāko darba laika daļu?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Kuras vecuma grupas strādnieki ziņo par vislielāko fizisko slodzi savās darba vietās?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. cilvēki vecumā līdz 25 gadiem"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. cilvēki vecumā no 25 līdz 44 gadiem"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. cilvēki vecumā no 45 līdz 54 gadiem"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. cilvēki vecumā no 55 gadiem"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Šīs viktorīnas pamatā ir Eurostat (Eiropas Savienības Statistikas biroja) sniegtā informācija un Eiropas Dzīves un darba apstākļu uzlabošanas fonda organizētā Ceturtā Eiropas Darba apstākļu apsekojuma (EWCS 2005) rezultāti."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Drošības zīmju spēle/tests"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Vai Jūs pazīstat drošības zīmes? Parbaudiet savas zināšanas izpildot Drošības zīmju testu!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Šeit var iegādāties saules brilles"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Bezmakasas redzes pārbaude"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Jālieto aizsargbrilles "
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Acu ārsti"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Tuvojas krustojums"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Pirmā neatliekamā palīdzība "
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Pa zālienu nebradāt"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Slimnīca"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Tuvojas pirātu kuģis"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Problemātiska zona"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Bīstami"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Toksiskas vielas"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Šeit var iegādāties mobilos telefonus"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobilos telefonus aizliegts lietot"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Ievērot klusumu"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Telefonu labošanas serviss"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Lietot ausu sildītājus "
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Lietot ausu aizsargaprīkojumu"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Trokšņaina zona "
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr ""
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Šeit aprakti dārgumi "
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Tuvojas vētra"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elektrība"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Bīstami - tuvojas čūskas"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobikas nodarbība "
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitnesa centrs"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Avārijas izeja"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Ieeja"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Smēķēšanas zona"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Nav atklātu liesmu"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Šeit var iegādāties cigaretes"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Smēķēt aizliegts"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Liels risks - Jums draud briesmas."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Minimāls risks - labs sākums, bet Jums vēl daudz jāapgūst."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Mazs risks - drošs sākums - labi paveikts!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "MST tests"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Cik daudz Jūs zināt par muskuļu un skeleta funkciju traucējumiem (MST) un muguras sāpēm? Izpildiet šo testu."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "ES dalībvalstīs ir noteikti specifiski darba noteikumi, kas ietver arī noteikumus par smagu priekšmetu celšanu."
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Piemērojama Eiropas Direktīva attiecībā uz drošību un veselības aizsardzību kravu apstrādē ar rokām, kas piemērojama visām dalībvalstīm."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Vai sievietes, kas ir stāvoklī var celt smagus priekšmetus, tādejādi neradot risku veselībai?"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Sievietes, kuras ir stāvoklī vai pēc dzemdībām nedrīkst celt smagus priekšmetus; grūtniecības vēlīnajos mēnešos darba ņēmējs ir pakļauts lielākam riskam."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Vai pakļaušana vibrācijām var izraisīt atkārtotu muguras ievainojuma risku?"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Vai pretsāpju tablešu lietošana ir vislabākais risinājums gadījumā, kad veicot monotonu darbu vai ceļot priekšmetus Jums ir radušās sāpes?"
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Ja Jūs lietosiet pretsāpju līdzekļus un turpināsiet darbu veselībai kaitīgos apstākļos Jūs situāciju padarīsiet vēl sliktāku un tā rezultātā var rasties kustību traucējumi. "
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Vai Jums var rasties muskuļu un skeleta funkciju traucējumi (MST) veicot nekustīgu darbu?"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Ja Jūs visu laiku atrodaties vienā pozā Jūsu ķermenis joprojām funkcionē. To sauc par \"statisko svaru\". Tomēr nav labi visu laiku atrasties vienā pozā, ieskaitot ilgstošu sēdēšanu vai stāvēšanu."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Vai auksta un mitra darba vide var izraisīt muskuļu un skeleta funkciju raucējumus?"
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Vai lietojot datorpeli var rasties MST?"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Lietojot datorpeli jāievēro dažas vienkāršas vadlīnijas,kā arī jāņem vērā, ka delnai un rokai jābūt pareizi atbalstītai un rokai jāatrodas cieši pie ķermeņa. Roka ik pa brīdim ir jāatpūtina."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Vai strādājot ar datoru ik pēc 2 stundām jāietur pauze?"
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Stradājot ar datoru ik pēc 50 min. ieteicams ieturēt 10 min. pauzi, kuras laikā tiek veikts kāds cits uzdevums."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Vai! Pastāv liels risks, ka Jums var rasties MST."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Jums novērojamas īslaicīgas sāpes! Uzziniet vairāk infromācijas par to kā sevi pasargāt."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Ērti darba apstākļi! Jūs pārzinat smagu priekšmetu celšanas noteikumus, taču neaizmirsties tos pielietot praksē."
+

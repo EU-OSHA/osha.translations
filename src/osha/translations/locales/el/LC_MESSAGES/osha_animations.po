@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: el\n"
+"Language-Name: Greek\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Ζώνη «RISQ»"
+
+msgid "Discover Safe Start "
+msgstr "Ανακαλύψτε την εκστρατεία «Από την αρχή με ασφάλεια»"
+
+msgid "Why RISQ it?"
+msgstr "Γιατί να το RISQάρετε;"
+
+msgid "What can you RISQ?"
+msgstr "Τι μπορείτε να RISQάρετε;"
+
+msgid "Competitions"
+msgstr "Διαγωνισμοί"
+
+msgid "On the edge of safety"
+msgstr "Στην κόψη της ασφάλειας"
+
+# animations
+msgid "anim_restart" 
+msgstr "Επανεκκίνηση"
+
+msgid "anim01_message_01"
+msgstr "Ελέγχετε τη βάση της σκάλας προτού αρχίσετε να ανεβαίνετε"
+
+msgid "anim01_message_02"
+msgstr "Τοποθετείτε τη σκάλα στη σωστή γωνία ως προς τον τοίχο"
+
+msgid "anim01_message_03"
+msgstr "Έχετε πάντοτε μαζί σας κάποιον να στέκεται στη βάση της σκάλας"
+
+msgid "anim01_end"
+msgstr "«Προσοχή – προστασία από πτώσεις»"
+
+msgid "anim02_end"
+msgstr "«Προσοχή – προστασία από πτώσεις»"
+
+msgid "anim03_message_01"
+msgstr "Μην εργάζεστε υπό μη ασφαλείς ή ακατάλληλες συνθήκες"
+
+msgid "anim03_message_02"
+msgstr "Μην φοβάστε να ζητήσετε βοήθεια"
+
+msgid "anim03_end"
+msgstr "«Προσοχή – Μην υποφέρετε σιωπηλά»"
+
+msgid "anim04_message_01"
+msgstr "Σκεφτείτε προτού σηκώσετε ή μεταφέρετε οτιδήποτε"
+
+msgid "anim04_message_02"
+msgstr "Χρησιμοποιείτε τον παρεχόμενο εξοπλισμό"
+
+msgid "anim04_message_03"
+msgstr "Προσπαθείτε πάντα να ελαφρύνετε το φορτίο"
+
+msgid "anim04_end"
+msgstr "«Προσέξτε – Η μέση σας μπορεί να σπάσει μόνο μια φορά»"
+
+msgid "anim02_message_01"
+msgstr "Μην εργάζεστε στο σκοτάδι"
+
+msgid "anim02_message_02"
+msgstr "Μην αυτοσχεδιάζετε εάν έτσι θέτετε σε κίνδυνο την ασφάλειά σας"

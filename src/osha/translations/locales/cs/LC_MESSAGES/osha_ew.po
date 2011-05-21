@@ -1,0 +1,143 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: cs\n"
+"Language-Name: Czech\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Evropský týden bezpečnosti a ochrany zdraví při práci${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Osvědčení"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Toto osvědčení potvrzuje, že"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "se podpisem ${year} charty zavázal(a) aktivně přispět k letošní"
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">kampani Evropského týdne</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Posviťme si na břemena"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Osvědčení o účasti"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Toto osvědčení potvrzuje účast"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "v evropské kampani<font face=\"ArialItalic\">Posviťme si na břemena</font>, která se zaměřuje na omezení muskuloskeletárních poruch (MSD) souvisejích s prací a jejímž cílem je větší bezpečnost a zdravotní nezávadnost pracovišť."
+
+msgid "director"
+msgstr "Ředitel"
+
+msgid "email_text_1"
+msgstr "Děkuji za Váš podpis charty Evropského týdne."
+
+msgid "email_text_2"
+msgstr "Příloha tohoto e-mailu obsahuje chartu ve formátu PDF, kterou si můžete vytisknout."
+
+msgid "email_text_3"
+msgstr "Další informace o kampani Evropského týdne nalznete na webové stránce:"
+
+msgid "feedback_text_1"
+msgstr "Děkuji za Váš podpis charty Evropského týdne"
+
+msgid "feedback_text_2"
+msgstr "Zpět k Osvědčení"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "Potvrzení o účasti"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "Tímto se potvrzuje účast společnosti"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "v kampani <i>Zdravá pracoviště – Dobré pro vás. Dobré pro podnikání.</i> –"
+
+msgid "contribution_headline_2008_2"
+msgstr "evropské kampani na podporu přístupu integrovaného hodnocení rizik, které zohlední různé kroky hodnocení rizik."
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Zdravé pracoviště"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Dobré pro Vás. Dobré pro podnikání."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Osvědčení o účasti"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Tímto osvědčením se potvrzuje účast"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "na kampani Zdravé pracoviště týkající se bezpečné údržby na období 2010-11."
+
+#: Director 
+msgid "director_2010"
+msgstr "Ředitel Evropské agentury pro bezpečnost a ochranu zdraví při práci (EU-OSHA)"
+
+

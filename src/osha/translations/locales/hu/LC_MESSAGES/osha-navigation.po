@@ -1,0 +1,571 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 18:22+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: hu\n"
+"Language-Name: Magyar\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-navigation\n"
+
+
+msgid "osha_nav_title_navigation"
+msgstr "Menu"
+
+msgid "osha_nav_description_navigation"
+msgstr ""
+
+msgid "osha_nav_title_about_us"
+msgstr "Magunkról"
+
+msgid "osha_nav_description_about_us"
+msgstr "Az ügynökségről, az igazgatóról, álláshirdetések, pályázati felhívások, partnerek…"
+
+msgid "osha_nav_title_navigation_link.2006-12-11.9313292189"
+msgstr "Kik vagyunk, és mi a feladatunk?"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.9313292189"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-12-11.9680652044"
+msgstr "Szervezeti felépítés"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.9680652044"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-12-11.0084311637"
+msgstr "Hogyan működünk együtt partnereinkkel?"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.0084311637"
+msgstr ""
+
+msgid "osha_nav_title_director_corner"
+msgstr "Az igazgató"
+
+msgid "osha_nav_description_director_corner"
+msgstr ""
+
+msgid "osha_nav_title_jobs"
+msgstr "Állásajánlatok"
+
+msgid "osha_nav_description_jobs"
+msgstr ""
+
+msgid "osha_nav_title_calls"
+msgstr "Pályázati kiírások"
+
+msgid "osha_nav_description_calls"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-12-11.0774460327"
+msgstr "Kapcsolat:"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.0774460327"
+msgstr ""
+
+msgid "osha_nav_title_good_practice"
+msgstr "Helyes gyakorlat"
+
+msgid "osha_nav_description_good_practice"
+msgstr "Információ az helyes biztonsági és egészségvédelmi gyakorlatról a munkahelyen…."
+
+msgid "osha_nav_title_awards_2007"
+msgstr "Helyes gyakorlat díjak 2007"
+
+msgid "osha_nav_description_awards_2007"
+msgstr "Good Practice Awards 2007"
+
+msgid "osha_nav_title_forums"
+msgstr "OSH vitafórum"
+
+msgid "osha_nav_description_forums"
+msgstr "OSH vitafórum"
+
+msgid "osha_nav_title_provider"
+msgstr "Adatközlő"
+
+msgid "osha_nav_description_provider"
+msgstr "Good practice information provider"
+
+msgid "osha_nav_title_implementation"
+msgstr "Implementation Strategies"
+
+msgid "osha_nav_description_implementation"
+msgstr "Systematic approaches for use in the workplace to reduce risk."
+
+msgid "osha_nav_title_sector"
+msgstr "Ágazatok"
+
+msgid "osha_nav_description_sector"
+msgstr "Good practice information by sector"
+
+msgid "osha_nav_title_risk_obs"
+msgstr "Kockázatkutató Központ"
+
+msgid "osha_nav_description_risk_obs"
+msgstr "A munkahelyi biztonság és egészségvédelem európai helyzetének áttekintése, trendek, rizikófaktorok, változások megelőzése"
+
+msgid "osha_nav_title_topics"
+msgstr "Témakörök"
+
+msgid "osha_nav_description_topics"
+msgstr "Baleset-megelőzés, üzlet, munkahelyi egészségfejlesztés, váz- és izomrendszeri megbetegedések…"
+
+msgid "osha_nav_title_Accident Prevention"
+msgstr "Balesetmegelőzés"
+
+msgid "osha_nav_description_Accident Prevention"
+msgstr "Accident Prevention"
+
+msgid "osha_nav_title_business"
+msgstr "A munkahelyi biztonság és egészségvédelem üzleti szempontjai"
+
+msgid "osha_nav_description_business"
+msgstr "Business aspects of OSH"
+
+msgid "osha_nav_title_change"
+msgstr "A munka változó világa"
+
+msgid "osha_nav_description_change"
+msgstr "Changing World of Work"
+
+msgid "osha_nav_title_ds"
+msgstr "Veszélyes anyagok"
+
+msgid "osha_nav_description_ds"
+msgstr "Dangerous Substances"
+
+msgid "osha_nav_title_osheducation"
+msgstr "Mainstreaming OSH into Education"
+
+msgid "osha_nav_description_osheducation"
+msgstr "Mainstreaming OSH into Education"
+
+msgid "osha_nav_title_msds"
+msgstr "A váz- és izomrendszeri megbetegedések"
+
+msgid "osha_nav_description_msds"
+msgstr "Muskuloskeletal Disorders"
+
+msgid "osha_nav_title_noise"
+msgstr "Munkahelyi zaj"
+
+msgid "osha_nav_description_noise"
+msgstr "Noise"
+
+msgid "osha_nav_title_stress"
+msgstr "Stressz és pszichoszociális kockázatok"
+
+msgid "osha_nav_description_stress"
+msgstr "Stress and psychosocial risks"
+
+msgid "osha_nav_title_whp"
+msgstr "Munkahelyi egészségjavítás"
+
+msgid "osha_nav_description_whp"
+msgstr "Workplace Health Promotion"
+
+msgid "osha_nav_title_sectors"
+msgstr "Ágazatok"
+
+msgid "osha_nav_description_sectors"
+msgstr "Mezőgazdaság, építőipar, halászat, egészségügy, oktatás ..."
+
+msgid "osha_nav_title_agriculture"
+msgstr "Agricultura"
+
+msgid "osha_nav_description_agriculture"
+msgstr ""
+
+msgid "osha_nav_title_construction"
+msgstr "Építés"
+
+msgid "osha_nav_description_construction"
+msgstr ""
+
+msgid "osha_nav_title_education"
+msgstr "Munkavédelem és oktatás"
+
+msgid "osha_nav_description_education"
+msgstr ""
+
+msgid "osha_nav_title_fisheries"
+msgstr "Halászat"
+
+msgid "osha_nav_description_fisheries"
+msgstr ""
+
+msgid "osha_nav_title_healthcare"
+msgstr "Egészségvédelem"
+
+msgid "osha_nav_description_healthcare"
+msgstr ""
+
+msgid "osha_nav_title_priority_groups"
+msgstr "Kiemelt csoportok"
+
+msgid "osha_nav_description_priority_groups"
+msgstr "Fogyatékkal élők, nők, fiatalok,  KKV..."
+
+msgid "osha_nav_title_ageingworkers"
+msgstr "Ageing Workers"
+
+msgid "osha_nav_description_ageingworkers"
+msgstr "Ageing Workers"
+
+msgid "osha_nav_title_disability"
+msgstr "Fogyatékkal élő személyek"
+
+msgid "osha_nav_description_disability"
+msgstr "People with disabilities"
+
+msgid "osha_nav_title_sme"
+msgstr "SME's"
+
+msgid "osha_nav_description_sme"
+msgstr "Small and Medium Enterprises"
+
+msgid "osha_nav_title_gender"
+msgstr "A nők és az egészség a munkahelyen"
+
+msgid "osha_nav_description_gender"
+msgstr "Women and health at work"
+
+msgid "osha_nav_title_young_people"
+msgstr "Fiatalok"
+
+msgid "osha_nav_description_young_people"
+msgstr "Young people"
+
+msgid "osha_nav_title_campaigns"
+msgstr "Kampányok"
+
+msgid "osha_nav_description_campaigns"
+msgstr "Európai hét, Egészséges Munkahely Kezdeményezés"
+
+msgid "osha_nav_title_press_room"
+msgstr "Sajtószoba"
+
+msgid "osha_nav_description_press_room"
+msgstr "Sajtóközlemények…."
+
+msgid "osha_nav_title_publications"
+msgstr "Kiadványok"
+
+msgid "osha_nav_description_publications"
+msgstr "Ténylapok, e-tények, riportok, fórumok, magazin…"
+
+msgid "osha_nav_title_magazine"
+msgstr "Magazines"
+
+msgid "osha_nav_description_magazine"
+msgstr ""
+
+msgid "osha_nav_title_factsheets"
+msgstr "Factsheets"
+
+msgid "osha_nav_description_factsheets"
+msgstr ""
+
+msgid "osha_nav_title_efacs"
+msgstr "E-facts"
+
+msgid "osha_nav_description_efacs"
+msgstr ""
+
+msgid "osha_nav_title_reports"
+msgstr "Reports"
+
+msgid "osha_nav_description_reports"
+msgstr ""
+
+msgid "osha_nav_title_forum"
+msgstr "Forums"
+
+msgid "osha_nav_description_forum"
+msgstr ""
+
+msgid "osha_nav_title_conference"
+msgstr "Conference proceedings"
+
+msgid "osha_nav_description_conference"
+msgstr ""
+
+msgid "osha_nav_title_annual_report"
+msgstr "Annual reports"
+
+msgid "osha_nav_description_annual_report"
+msgstr ""
+
+msgid "osha_nav_title_work_programmes"
+msgstr "Work programmes"
+
+msgid "osha_nav_description_work_programmes"
+msgstr ""
+
+msgid "osha_nav_title_evaluation_reports"
+msgstr "Evaluation reports"
+
+msgid "osha_nav_description_evaluation_reports"
+msgstr ""
+
+msgid "osha_nav_title_research"
+msgstr "Kutatás"
+
+msgid "osha_nav_description_research"
+msgstr "A munkahelyi biztonság és egészségvédelem európai helyzetének áttekintése, trendek, rizikófaktorok, változások megelőzése"
+
+msgid "osha_nav_title_framework"
+msgstr "Framework Programme"
+
+msgid "osha_nav_description_framework"
+msgstr "Guide to the Occupational Safety and Health aspects of the EU 6th Framework Programme on Research"
+
+msgid "osha_nav_title_background"
+msgstr "Háttér"
+
+msgid "osha_nav_description_background"
+msgstr "Háttér"
+
+msgid "osha_nav_title_institutions"
+msgstr "Kutatási intézmények"
+
+msgid "osha_nav_description_institutions"
+msgstr "Kutatási intézmények"
+
+msgid "osha_nav_title_funding"
+msgstr "Kutatási alapok"
+
+msgid "osha_nav_description_funding"
+msgstr "Kutatási alapok"
+
+msgid "osha_nav_title_projects"
+msgstr "Kutatási programok és projektek"
+
+msgid "osha_nav_description_projects"
+msgstr "Kutatási programok és projektek"
+
+msgid "osha_nav_title_rpublications"
+msgstr "Kutatási kiadványok"
+
+msgid "osha_nav_description_rpublications"
+msgstr "Kutatási kiadványok"
+
+msgid "osha_nav_title_rtopics"
+msgstr "Specific Research Topics"
+
+msgid "osha_nav_description_rtopics"
+msgstr "Specific Research Topics"
+
+msgid "osha_nav_title_legislation"
+msgstr "Szabályozás"
+
+msgid "osha_nav_description_legislation"
+msgstr "Európai jogszabályok a munkahelyi biztonság és egészségvédelem területén"
+
+msgid "osha_nav_title_eulegislation"
+msgstr "European Legislation"
+
+msgid "osha_nav_description_eulegislation"
+msgstr "European Legislation"
+
+msgid "osha_nav_title_directives"
+msgstr "European Legislation - Directives"
+
+msgid "osha_nav_description_directives"
+msgstr "EU directices"
+
+msgid "osha_nav_title_proposals"
+msgstr "European Legislation - EU Proposals"
+
+msgid "osha_nav_description_proposals"
+msgstr "Proposals for directives"
+
+msgid "osha_nav_title_standards"
+msgstr "European Legislation - Standards"
+
+msgid "osha_nav_description_standards"
+msgstr "OSH standards"
+
+msgid "osha_nav_title_guidelines"
+msgstr "European Legislation - Guidelines"
+
+msgid "osha_nav_description_guidelines"
+msgstr "OSH guidelines related to legislation"
+
+msgid "osha_nav_title_statistics"
+msgstr "European OSH Statistics"
+
+msgid "osha_nav_description_statistics"
+msgstr "European OSH Statistics"
+
+msgid "osha_nav_title_surveys"
+msgstr "European OSH Surveys"
+
+msgid "osha_nav_description_surveys"
+msgstr "European OSH Surveys"
+
+msgid "osha_nav_title_other"
+msgstr "Other related information"
+
+msgid "osha_nav_description_other"
+msgstr "Other related information"
+
+msgid "osha_nav_title_istatistics"
+msgstr "International statistics"
+
+msgid "osha_nav_description_istatistics"
+msgstr "Information about international OSH statistics, e.g. ILO, WHO."
+
+msgid "osha_nav_title_isurveys"
+msgstr "International surveys"
+
+msgid "osha_nav_description_isurveys"
+msgstr "International surveys"
+
+msgid "osha_nav_title_noneu_statistics"
+msgstr "Non-EU statistics"
+
+msgid "osha_nav_description_noneu_statistics"
+msgstr "Non-EU statistics"
+
+msgid "osha_nav_title_noneu_surveys"
+msgstr "Non-EU Surveys"
+
+msgid "osha_nav_description_noneu_surveys"
+msgstr "Non-EU Surveys"
+
+msgid "osha_nav_title_other_iinfo"
+msgstr "Other related international information"
+
+msgid "osha_nav_description_other_iinfo"
+msgstr "Other related international information"
+
+msgid "osha_nav_title_systems"
+msgstr "Rendszerek"
+
+msgid "osha_nav_description_systems"
+msgstr ""
+
+msgid "osha_nav_title_osh_systems"
+msgstr "OSH Systems"
+
+msgid "osha_nav_description_osh_systems"
+msgstr "OSH systems"
+
+msgid "osha_nav_title_osm"
+msgstr "OSH Monitoring Systems"
+
+msgid "osha_nav_description_osm"
+msgstr "OSH Monitoring Systems"
+
+msgid "osha_nav_title_organisations"
+msgstr "Institutions/ Organisations"
+
+msgid "osha_nav_description_organisations"
+msgstr "OSH institutions/organisations"
+
+msgid "osha_nav_title_strategies"
+msgstr "OSH Strategies"
+
+msgid "osha_nav_description_strategies"
+msgstr "OSH Strategies"
+
+msgid "osha_nav_title_programmes"
+msgstr "OSH Programmes"
+
+msgid "osha_nav_description_programmes"
+msgstr "OSH Programmes"
+
+msgid "osha_nav_title_osh_strategy"
+msgstr "Future community strategy on safety and health at work"
+
+msgid "osha_nav_description_osh_strategy"
+msgstr "Information related to the future community strategy on safety and health at work."
+
+msgid "osha_nav_title_int_systems"
+msgstr "International systems"
+
+msgid "osha_nav_description_int_systems"
+msgstr "This section provides information on key international and Non-EU systems in the field of safety and health at work."
+
+msgid "osha_nav_title_non_eu_systems"
+msgstr "Systems in Non-EU countries"
+
+msgid "osha_nav_description_non_eu_systems"
+msgstr "Non-EU systems"
+
+msgid "osha_nav_title_int_institutions"
+msgstr "International institutions and organisations"
+
+msgid "osha_nav_description_int_institutions"
+msgstr "This page provides information on key non-EU countries' administrations, organisations and institutions in the field of safety and health at work. Below you find a list of relevant organisations and links to the each organisation's Internet service. There are also descriptions of each organisation's activities related to safety and health at work."
+
+msgid "osha_nav_title_non_eu_institutions"
+msgstr "Institutions and organisations in Non-EU countries"
+
+msgid "osha_nav_description_non_eu_institutions"
+msgstr "Non-EU Institutions/organisations"
+
+msgid "osha_nav_title_int_strategies"
+msgstr "International strategies"
+
+msgid "osha_nav_description_int_strategies"
+msgstr "This section provides information on key Non-EU strategies in the field of safety and health at work."
+
+msgid "osha_nav_title_non_eu_strategies"
+msgstr "Strategies in Non-EU countries"
+
+msgid "osha_nav_description_non_eu_strategies"
+msgstr "Non-EU strategies"
+
+msgid "osha_nav_title_int_programmes"
+msgstr "International programmes"
+
+msgid "osha_nav_description_int_programmes"
+msgstr "This section provides information on key international and Non-EU programmes in the field of safety and health at work."
+
+msgid "osha_nav_title_non_eu_programmes"
+msgstr "Programmes in Non-EU countries"
+
+msgid "osha_nav_description_non_eu_programmes"
+msgstr "Non-EU programmes"
+
+msgid "osha_nav_title_risks"
+msgstr "Emerging Risks"
+
+msgid "osha_nav_description_risks"
+msgstr "Emerging Risks"
+
+msgid "osha_nav_title_chemical"
+msgstr "Chemical"
+
+msgid "osha_nav_description_chemical"
+msgstr "Emerging Risks"
+
+msgid "osha_nav_title_biological"
+msgstr "Biological"
+
+msgid "osha_nav_description_biological"
+msgstr "Emerging Risks"
+
+msgid "osha_nav_title_physical"
+msgstr "Physical"
+
+msgid "osha_nav_description_physical"
+msgstr "Emerging Risks"
+
+msgid "osha_nav_title_psycho"
+msgstr "Psychosocial/organisational"
+
+msgid "osha_nav_description_psycho"
+msgstr "Emerging Risks"
+

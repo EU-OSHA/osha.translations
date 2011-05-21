@@ -1,0 +1,143 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: hu\n"
+"Language-Name: Magyar\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr " A Munkahelyi Biztonság és Egészségvédelem Európai Hete ${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Igazolás"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Ez az igazolás tanúsítja, hogy"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "feliratkozott a ${year} -es Európai Hét Chartájára, kötelezettséget vállalva arra, hogy aktívan hozzájárul az idei"
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">Európai Hét kampányához</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Legyen könnyebb a teher!"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Részvételi igazolás"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Ez az igazolás tanúsítja, hogy (…) részt vett"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "a <font face=\"ArialItalic\"> Legyen könnyebb a teher! </font> európai kampányban, amelynek célja a váz- és izomrendszeri megbetegedések (MSD-k) számának csökkentése, valamint a munkahelyek biztonságosabbá és egészségesebbé tétele."
+
+msgid "director"
+msgstr "Igazgató"
+
+msgid "email_text_1"
+msgstr "Köszönjük, hogy aláírta az Európai Hét Chartáját."
+
+msgid "email_text_2"
+msgstr "Az e-mailhez csatolva megtalálja a charta PDF változatát, amelyet ki is nyomtathat."
+
+msgid "email_text_3"
+msgstr "Ha több információt szeretne az Európai Hét kampánnyal kapcsolatban, látogasson el a weboldalra:"
+
+msgid "feedback_text_1"
+msgstr " Köszönjük, hogy aláírta az Európai Hét Chartáját."
+
+msgid "feedback_text_2"
+msgstr "Vissza az igazoláshoz."
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "RÉSZVÉTELI OKLEVÉL"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "Ez az oklevél elismeri az"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "részvételét az alábbi kampányban: Egészséges munkahelyek – Jó Önnek. Jó a vállalkozásnak."
+
+msgid "contribution_headline_2008_2"
+msgstr "Európai kampány a kockázatértékelés különböző lépéseit figyelembe vevő integrált irányítási megközelítés előmozdítására."
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Egészséges munkahelyek"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Jó Önnek. Jó a vállalkozásnak."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Részvételi igazolás"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Ez az igazolás tanúsítja, hogy (…) részt vett"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "a biztonságos karbantartásról szóló 2010-2011. évi Egészséges munkahelyek kampányban."
+
+#: Director 
+msgid "director_2010"
+msgstr "az Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökség (EU-OSHA) igazgatója"
+
+

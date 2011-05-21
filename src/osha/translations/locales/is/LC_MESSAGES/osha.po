@@ -1,0 +1,2127 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2011
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-02-01 12:00+0100\n"
+"Last-Translator: EU\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: is\n"
+"Domain: osha\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Preferred-Encodings: UTF-8\n"
+"X-Is-Fallback-For: \n"
+"Language-Name: Icelandic\n"
+
+
+msgid "title_agency"
+msgstr "Vinnuverndarstofnun ESB<br/>fyrir öryggi og heilbrigði<br/>á vinnustað"
+
+msgid "slogan_hw2010_campaign"
+msgstr "Heilbrigði á vinnustað"
+
+msgid "subslogan_hw2010_campaign"
+msgstr "Gott fyrir þig.<br/>Gott fyrir reksturinn.<br/>"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Evrópsk herferð fyrir öruggt viðhald"
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Án rétts viðhalds geta hlutir farið alvarlega úrskeiðis á vinnustað."
+
+msgid "hw2010_carousel_getitright"
+msgstr "Grunnatriði og bestu vinnubrögð um hvernig á að fara að öruggu viðhaldi."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "Herferðin um Heilbrigði á vinnustað er opin öllum fyrirtækjum og einstaklingum til þátttöku. Takið þátt!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Mikið úrval efnis um herferðina er tiltækt til niðurhals frá þessum hluta."
+
+msgid "hw2010_carousel_about"
+msgstr "Evrópuherferðin Heilbrigði á vinnustað 2010-2011 mun stuðla að slysalausu viðhaldi."
+
+msgid "hw2010_carousel_partners"
+msgstr "Margvíslegir mismunandi þátttakendur eiga þátt í Heilbrigði á vinnustað herferðinni um öruggt viðhald. Kynnið ykkur þá!"
+
+msgid "hw2010_carousel_press"
+msgstr "Náðu nýjustu fréttatilkynningum okkar og ráðfærðu þig við margmiðlunarúrræði okkar!"
+
+msgid "heading_ew2005_stopthatnoise"
+msgstr "HÆTTIÐ ÞESSUM HÁVAÐA!"
+
+msgid "title_campaign_beinformed"
+msgstr "Vertu upplýst(ur)"
+
+msgid "Calendar week view"
+msgstr "Yfirlit yfir dagatal vikunnar"
+
+#. <input class="standalone" i18n:attributes="value" name="form.button.Cancel"
+#. tabindex="" tal:attributes="tabindex tabindex/next;" type="submit"
+#. value="Cancel"/>
+# # 11 more: ./plone_content/file_edit_form.cpt,
+# ./plone_content/folder_edit_form.cpt, ./plone_content/image_edit_form.cpt,
+# ./plone_content/link_edit_form.cpt, ./plone_content/metadata_edit_form.cpt,
+# ./plone_content/newsitem_edit_form.cpt,
+# ./plone_forms/content_status_history.cpt,
+# ./plone_forms/folder_rename_form.cpt, ./plone_prefs/password_form.pt,
+# ./plone_prefs/personalize_form.cpt, ./plone_prefs/reconfig_form.cpt
+#: elevateIT/skins/eIT_content/cmpgroup_add_form.cpt
+#: elevateIT/skins/eIT_content/file_edit_form.cpt
+#: eITAlertService/skins/eITAlertService/alert_addform.cpt
+msgid "Cancel"
+msgstr "Hætta við"
+
+#. <input class="searchButton" i18n:attributes="value" id="searchButton"
+#. type="submit" value="Change"/>
+#: OSHA/skins/osha/global_languagebox.pt
+msgid "Change"
+msgstr "Breyta"
+
+#. <input class="context" i18n:attributes="value" name="check" tabindex=""
+#. tal:attributes="tabindex tabindex/next;" type="submit" value="Check
+#. entry"/>
+#: elevateIT/skins/eIT_forms/mail_password_form.pt
+msgid "Check entry"
+msgstr "Athuga innslátt"
+
+#. <a href="" i18n:attributes="title" onclick="handleClick(event, 'show it');
+#. return false" onkeypress="handleClick(event, 'show it'); return true"
+#. tal:attributes="href string:${here/portal_url}/network_overview"
+#. title="Click here to view our partner websites [opens popup window]">
+#: OSHA/skins/osha/portlet_oshnetwork.pt
+msgid "Click here to view our partner websites [opens popup window]"
+msgstr "Ýttu hér til að sjá heimasíður samstarfsaðila okkar [nýr gluggi opnast]"
+
+#. <input class="context" i18n:attributes="value" name="form.button.Complete"
+#. tal:condition="isActor" type="submit" value="Complete"/>
+#: elevateIT/skins/eIT_workflow/activity_view.cpt
+#: elevateIT/skins/eIT_workflow/simple_process_decide_form.cpt
+msgid "Complete"
+msgstr "Lokið"
+
+#. <input class="context" i18n:attributes="value"
+#. name="object_delete_lang:method" tabindex="" tal:attributes="tabindex
+#. tabindex/next" type="submit" value="Delete"/>
+#: elevateIT/skins/eIT_content/manage_languages_form.cpt
+#: elevateIT/skins/eIT_content/topicdocument_criteria_form.cpt
+#: elevateIT/skins/eIT_topic/topic_subtopics_form.cpt
+msgid "Delete"
+msgstr "Eyða"
+
+#. <img alt="Agency logo" border="0" i18n:attributes="alt title"
+#. src="agency_portlet.gif" tal:attributes="src
+#. string:${here/portal_url}/img/agency_portlet.gif" title="European Agency
+#. for Safety and Health at Work"/>
+#: OSHA/skins/osha/portlet_oshainfo.pt
+msgid " European Agency for Safety and Health at Work"
+msgstr "Evrópska vinnuverndarstofnunin"
+
+msgid "Required"
+msgstr "Nauðsynlegt"
+
+msgid "Reset"
+msgstr "Endurstilla"
+
+msgid "Save"
+msgstr "Vista"
+
+
+#. <input class="context" i18n:attributes="value" name="submit" tabindex=""
+#. tal:attributes="tabindex tabindex/next;" type="submit" value="Search"/>
+#: elevateIT/skins/eIT_forms/advanced_search_form.pt
+#: elevateIT/skins/eIT_forms/user_quicksearch_form.cpt
+#: eITDynoContent/skins/eIT_dynocontent/dynocontainer_search_form.cpt
+msgid "Search"
+msgstr "Leita"
+
+#. <link href="" i18n:attributes="title" rel="search" tal:attributes="href
+#. string:$portal_url/search_form" title="Search this site"/>
+#: eITNewsletterManager/skins/newsletter/newsletter_header.pt
+msgid "Search this site"
+msgstr "Leita á þessari síðu"
+
+#. <span class="hiddenLabel" i18n:translate="Select">
+# # 5 more: ./elevateIT/skins/eIT_content/metadataelement_contents.pt,
+# ./elevateIT/skins/eIT_content/navigation_contents.pt,
+# ./elevateIT/skins/eIT_forms/user_quicksearch_form.cpt,
+# ./elevateIT/skins/eIT_templates/folder_contents.pt,
+# ./OSHA/skins/osha/keywordListing.pt
+#: elevateIT/skins/eIT_content/configure_portlets_form.cpt
+#: elevateIT/skins/eIT_forms/user_quicksearch_form.cpt
+#: OSHA/skins/osha/keywordListing.pt
+msgid "Select"
+msgstr "Velja"
+
+msgid "Visit our OSH Network"
+msgstr "Heimsæktu OSH tengslanetið okkar"
+
+msgid "Discover our European &amp; International Partners"
+msgstr "Kynnstu evrópskum og alþjóðlegum samstarfsaðilum okkar"
+
+msgid "Yes"
+msgstr "Já"
+
+#. <a href=" " i18n:domain="elevateIT" i18n:translate="action_advanced_search"
+#. tal:attributes="href string:$purl/search_form">
+#: OSHA/skins/osha/portlet_oshsearch.pt
+msgid "action_advanced_search"
+msgstr "Ítarleg leit"
+
+#. <TITLE i18n:translate="alertservice_notification_service">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_notification_service"
+msgstr "Tilkynningarþjónusta"
+
+#. <span i18n:translate="alertservice_onlyfirst_shown">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+msgid "alertservice_onlyfirst_shown"
+msgstr "aðeins þau fyrstu ${number} eru sýnd"
+
+#. <span i18n:translate="alertservice_requested_info">
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_requested_info"
+msgstr "Þú hefur óskað eftir upplýsingum miðað við eftirfarandi leitarskilyrði"
+
+#. <span i18n:translate="alertservice_results_found">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+msgid "alertservice_results_found"
+msgstr "Niðurstöður fundnar"
+
+#. <h1 class="heading_alphabetical_index" i18n:translate="alphabetical_index">
+#: OSHA/skins/osha/index_alphabetical.pt
+msgid "alphabetical_index"
+msgstr "Skrá í stafrófsröð"
+
+#. <span i18n:translate="batch_x_items_matching_your_criteria">
+# # 1 more: ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/search.pt OSHA/skins/osha/search.pt
+#: OSHA/skins/osha/search_members.cpt
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} atriði sem passa saman við þína leit"
+
+
+#. <legend i18n:translate="box_about">
+#: elevateIT/skins/eIT_content/show_history.pt
+msgid "box_about"
+msgstr "Um"
+
+#. <span i18n:translate="box_agency_fullname">
+#: OSHA/skins/osha/footer.pt
+msgid "box_agency_fullname"
+msgstr "Evrópska vinnuverndarstofnunin"
+
+#. <label for="creator" i18n:translate="box_created_by">
+#: elevateIT/skins/eIT_content/show_history.pt
+msgid "box_created_by"
+msgstr "Búið til af"
+
+#. <label for="modification_date" i18n:translate="box_last_modified">
+#: elevateIT/skins/eIT_content/show_history.pt OSHA/skins/osha/footer.pt
+msgid "box_last_modified"
+msgstr "Síðast breytt"
+
+#. <span i18n:translate="box_oshmail_subscribers">
+#: OSHA/skins/osha/portlet_oshmail.pt
+msgid "box_oshmail_subscribersrs"
+msgstr "áskrifendur"
+
+#. <span i18n:translate="box_provided_by">
+#: OSHA/skins/osha/footer.pt
+msgid "box_provided_by"
+msgstr "Upplýsingar veittar af hálfu"
+
+#. <span i18n:translate="box_this_url">
+#: OSHA/skins/osha/footer.pt
+msgid "box_this_url"
+msgstr "Vefslóð þessa skjals "
+
+#. <a href="#" i18n:translate="button_alert_addsearchquery"
+#. tal:attributes="href string:${here/absolute_url}/alert_member_query_form;
+#. tabindex tabindex/next">
+#: eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+msgid "button_alert_addsearchquery"
+msgstr "Bæta við nýrri leit"
+
+#. <table cellpadding="0" cellspacing="0" class="calendarView"
+#. i18n:attributes="summary" summary="calendar day view" width="100%">
+#: eITCalendar/skins/eIT_calendar/calendar_day_view.pt
+msgid "calendar day view"
+msgstr "sýnir almanaksdag"
+
+#. <div i18n:translate="calender_hopefully" metal:use-
+#. macro="here/calendar_slot/macros/calendarDatePickerBox">
+#: eITNews/skins/eIT_news/newsarticle_edit_form.cpt
+msgid "calender_hopefully"
+msgstr "gluggi til að velja dagsetningu"
+
+#. <span i18n:domain="elevateIT" i18n:translate="copyright">
+#: OSHA/skins/osha/footer.pt
+msgid "copyright"
+msgstr "Höfundaréttur 1998-${thisyear} Evrópska vinnuverndarstofnunin"
+
+#. <span class="hiddenFloatLabel" i18n:domain="elevateIT"
+#. i18n:translate="day">
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: elevateIT/skins/eIT_3rdParty/calendar/calendar_slot.pt
+msgid "day"
+msgstr "Dagur"
+
+#. <span i18n:translate="days">
+#: eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+msgid "days"
+msgstr "dagar"
+
+#. <a href="" i18n:translate="delete" tal:attributes="href
+#. python:here.absolute_url()+'/manage_deleteMessages'+chr(38)+'IMAPName='+imapname+chr(38)+'IMAPIds='+IMAPId">
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "delete"
+msgstr "eyða"
+
+#. <p i18n:translate="description_advanced_search">
+#: elevateIT/skins/eIT_forms/advanced_search_form.pt
+msgid "description_advanced_search"
+msgstr "Þetta leitarbox leyfir þér að finna innihald á þessari síðu með því að tilgreina eitt eða fleiri leitarskilyrði<br/>Mundu að þú getur notað flýtileit hvenær sem er, hún er almennt fullnægjandi, þetta leitarform er til staðar ef þú vilt nákvæmari leit"
+
+#. <strong i18n:translate="description_no_results_found">
+# # 1 more: ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/search.pt
+msgid "description_no_results_found"
+msgstr "Engar niðurstöður fundust."
+
+#. <tal:block i18n:translate="description_view_viewlet">
+#: Viewlet/skins/viewlets/viewlet_view.pt
+msgid "description_view_viewlet"
+msgstr "Smelltu hér til að sjá kynninguna"
+
+#. <img alt="deselect" border="0" height="13" i18n:attributes="alt"
+#. src="minus_icon.gif" tal:attributes="src
+#. string:${here/portal_url}/minus_icon.gif" width="13"/>
+#: OSHA/skins/osha/portlet_refine_search.pt
+msgid "deselect"
+msgstr "afvelja"
+
+#. <a href="" i18n:attributes="title" tal:attributes="href
+#. python:path+'?'+utiltool.stripQueryString(qs, [index[0]])" title="deselect
+#. this search parameter">
+#: OSHA/skins/osha/portlet_refine_search.pt
+msgid "deselect this search parameter"
+msgstr "afvelja þetta leitarskilyrði"
+
+#. <a href="" i18n:translate="feature_back_to_mainpage" tal:attributes="href
+#. here/absolute_url">
+# # 3 more: ./OSHA/skins/osha/index_providers.pt,
+# ./OSHA/skins/osha/index_sme.pt, ./OSHA/skins/osha/index_topic.pt
+#: OSHA/skins/osha/index_nace.pt OSHA/skins/osha/index_providers.pt
+msgid "feature_back_to_mainpage"
+msgstr "Aftur á ${title} aðalsíðu"
+
+#. <span i18n:translate="feedback_comment" tal:omit-tag="">
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: elevateIT/skins/eIT_templates/feedback_template.pt
+msgid "feedback_comment"
+msgstr "Athugasemd"
+
+#. <span i18n:translate="feedback_country" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_country"
+msgstr "Frá landi:"
+
+#. <span i18n:translate="feedback_from_name" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_from_name"
+msgstr "Nafn:"
+
+#. <span i18n:translate="feedback_link" tal:omit-tag="">
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: elevateIT/skins/eIT_templates/feedback_template.pt
+msgid "feedback_link"
+msgstr "Slóð"
+
+#. <div i18n:translate="feedback_mailtemplate_body" tal:omit-tag="">
+#: elevateIT/skins/eIT_templates/feedback_template.pt
+msgid "feedback_mailtemplate_body"
+msgstr "Þessa athugasemd sendir: "
+
+#. <span i18n:translate="feedback_organization_size" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_organization_size"
+msgstr "Stærð samtaka:"
+
+#. <span i18n:translate="feedback_sender" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_sender"
+msgstr "Gerð sendanda"
+
+#. <div i18n:translate="feedback_sender_mssg_1" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_1"
+msgstr "Kæri herra/ kæra frú,"
+
+#. <div i18n:translate="feedback_sender_mssg_2" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_2"
+msgstr "Þakka þér fyrir athugasemd þína.  Við kunnum að meta athugasemdir þínar um Evrópsku vinnuverndarstofnunina og við reynum, eftir bestu getu, að svara póstum þínum.  Því miður, vegna fjölda þeirra bréfa sem okkur berast, getum við ekki í hvert skipti boðið upp á persónulegt svar.  Við lesum hins vegar allar athugasemdir, og við reynum að endurbæta heimasíðu okkar og þjónustu með tilliti til athugasemda þinna."
+
+#. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_3"
+msgstr "Þú getur fylgst með því nýjasta á heimasíðu okkar með því að heimsækja  „Hvað er nýtt“ [http://osha.europa.eu/en/site_update] og gerst áskrifandi að rafræna fréttabréfinu okkar OSH póstinum. [osha.europa.eu/en/news/oshmail/]. "
+
+#. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_from"
+msgstr "Evrópska vinnuverndarstofnunin"
+
+#. <div i18n:translate="feedback_sender_mssg_thankyou" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_thankyou"
+msgstr "Virðingarfyllst,"
+
+#. <div i18n:translate="feedback_sent_by" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_sent_by"
+msgstr "Þessa athugasemd sendir:"
+
+
+#. <h1 class="documentFirstHeading"
+#. i18n:translate="heading_feedback_comments">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "heading_feedback_comments"
+msgstr "Athugasemdir"
+
+#. <h1 i18n:translate="heading_hierarchical_index">
+#: OSHA/skins/osha/index_hierarchical.pt
+msgid "heading_hierarchical_index"
+msgstr "Stigskipt atriðaskrá"
+
+#. <h1 i18n:translate="heading_search_results">
+# # 3 more: ./plone_forms/folder_localrole_form.pt,
+# ./plone_forms/member_search_results.pt, ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "heading_search_results"
+msgstr "Leitarniðurstöður"
+
+#. <h1 i18n:translate="heading_send_page_to">
+#: elevateIT/skins/eIT_forms/sendto_form.cpt
+msgid "heading_send_page_to"
+msgstr "Sendu einhverjum þessa síðu"
+
+#. <h1 i18n:translate="heading_simple_search">
+# # 1 more: ./OSHA/skins/osha/search_form.pt
+#: elevateIT/skins/eIT_forms/search_form.pt
+#: elevateIT/skins/eIT_forms/translation_search_form.pt
+msgid "heading_simple_search"
+msgstr "Leita að innihaldi"
+
+#. <h1 i18n:translate="heading_site_error">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "heading_site_error"
+msgstr "Villa á síðu"
+
+#. <h1 class="documentFirstHeading" i18n:domain="elevateIT"
+#. i18n:translate="heading_siteupdate">
+#: OSHA/skins/osha/site_update.pt
+msgid "heading_siteupdate"
+msgstr "Uppfærsla síðu"
+
+msgid "help_external_url"
+msgstr "Þú getur bætt við annarri utanaðkomandi vefslóð hér."
+
+#. <p i18n:translate="info_feedback_message_checkbefore">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "info_feedback_message_checkbefore"
+msgstr "Áður en þú sendir inn spurningu, vinsamlegast skoðaðu ${link1} og ${link2} síður."
+
+#. <p i18n:translate="info_feedback_message_publications">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "info_feedback_message_publications"
+msgstr "Allt efni sem stofnunin hefur gefið út er fáanlegt á ${link} .Við höfum engar aðrar upplýsingar en þær sem koma fram á heimasíðuneti okkar."
+
+#. <p i18n:translate="info_feedback_message_writemessage">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "info_feedback_message_writemessage"
+msgstr "Þú getur skrifað okkur á öllum þeim 22 opinberu ESB tungumálum, en vinsamlegast hafðu í huga að það kann að taka tíma að þýða skilaboðin þín og svarið okkar.  Skilaboð sem skrifuð eru á ensku fá almennt skjótari afgreiðslu því allt starfsfólk stofnunarinnar talar þá tungu.  Við reynum að svara spurningum eins fljótt og auðið er."
+
+#. <label for="address" i18n:translate="label_address">
+#: OSHA/skins/osha/join_form.cpt
+msgid "label_address"
+msgstr "Heimilisfang"
+
+#. <label for="Creator" i18n:translate="label_author">
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "label_author"
+msgstr "Höfundur"
+
+#. <label for="AvailableLanguages" i18n:translate="label_available_languages">
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "label_available_languages"
+msgstr "Tiltæk tungumál"
+
+#. <label for="city" i18n:translate="label_city">
+#: OSHA/skins/osha/join_form.cpt
+msgid "label_city"
+msgstr " Borg"
+
+#. <span class="expired" i18n:translate="label_closed"
+#. tal:condition="not:here/isOpen">
+#: eITForum/skins/eIT_forum/discussionboard_contents.pt
+msgid "label_closed"
+msgstr "lokað"
+
+#. <label for="comment" i18n:translate="label_comment">
+#: elevateIT/skins/eIT_forms/sendto_form.cpt
+msgid "label_comment"
+msgstr "Athugasemd"
+
+#. <label for="comment" i18n:translate="label_comments">
+#: elevateIT/skins/eIT_forms/content_status_history.cpt
+msgid "label_comments"
+msgstr "Athugasemdir"
+
+#. <label for="contact" i18n:domain="elevateIT"
+#. i18n:translate="label_contact">
+#: eITNews/skins/eIT_news/newsarticle_edit_form.cpt
+msgid "label_contact"
+msgstr "Tengiliður"
+
+#. <label for="osha_Country" i18n:translate="label_countries">
+#: OSHA/skins/osha/search_macros.pt
+msgid "label_countries"
+msgstr " Lönd"
+
+#. <label for="country" i18n:translate="label_country">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_country"
+msgstr "Land"
+
+#. <label i18n:translate="label_creator">
+#: elevateIT/skins/eIT_workflow/start_simple_process_form.cpt
+msgid "label_creator"
+msgstr "Höfundur"
+
+#. <span i18n:translate="label_date">
+#: elevateIT/skins/eIT_content/syndocument_view.pt
+msgid "label_date"
+msgstr "Dagsetning"
+
+#. <label for="discussion_off" i18n:translate="label_discussion_disabled">
+#: elevateIT/skins/eIT_content/metadata_edit_form.cpt
+msgid "label_discussion_disabled"
+msgstr "Óvirkur"
+
+#. <label for="discussion_on" i18n:translate="label_discussion_enabled">
+#: elevateIT/skins/eIT_content/metadata_edit_form.cpt
+msgid "label_discussion_enabled"
+msgstr "Virkur"
+
+#. <label i18n:translate="label_email">
+# # 2 more: ./plone_prefs/personalize_form.cpt,
+# ./plone_prefs/prefs_user_details.pt
+#: elevateIT/skins/eIT_forms/configure_user_form.cpt
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_email"
+msgstr "Tölvupóstur"
+
+#. <th i18n:translate="label_email_address">
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "label_email_address"
+msgstr "Netfang"
+
+#. <label for="error" i18n:translate="label_error">
+#: elevateIT/skins/eIT_forms/configure_user_form.cpt
+msgid "label_error"
+msgstr "Villa"
+
+#. <dt i18n:translate="label_error_message">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "label_error_message"
+msgstr "Villuskilaboð"
+
+
+
+#. <label for="slcFirstName" i18n:translate="label_first_name">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_first_name"
+msgstr "Fornafn"
+
+#. <label for="ldapattr_slcFirstName" i18n:translate="label_firstname">
+#: elevateIT/skins/eIT_prefs/prefs_user_details.cpt
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "label_firstname"
+msgstr "Fornafn"
+
+#. <label for="fullname" i18n:translate="label_full_name">
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_full_name"
+msgstr "Fullt nafn"
+
+#. <label for="fullname" i18n:translate="label_fullname">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_fullname"
+msgstr "Fullt nafn"
+
+#. <label i18n:translate="label_keywords">
+#: elevateIT/skins/eIT_content/metadata_edit_form.cpt
+#: elevateIT/skins/eIT_templates/search_macros.pt
+#: OSHA/skins/osha/search_macros.pt
+msgid "label_keywords"
+msgstr "Lykilorð"
+
+#. <label class="hiddenFloatLabel" for="source_language"
+#. i18n:translate="label_language">
+#: elevateIT/skins/eIT_content/manage_languages_form.cpt
+msgid "label_language"
+msgstr "Tungumál"
+
+#. <label for="slcLastName" i18n:translate="label_last_name">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_last_name"
+msgstr "Eftirnafn"
+
+#. <label for="lastname" i18n:domain="elevateIT"
+#. i18n:translate="label_lastname">
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "label_lastname"
+msgstr "Eftirnafn"
+
+#. <label for="link" i18n:translate="label_link">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_link"
+msgstr "Slóð"
+
+#. <label for="ldapattr_tumGeschlecht_m" i18n:translate="label_male">
+#: elevateIT/skins/eIT_forms/configure_user_form.cpt
+#: elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+msgid "label_male"
+msgstr " karlkyn"
+
+#. <span class="bold" i18n:translate="label_more_information">
+#: OSHA_ContentTypes/skins/osha_contenttypes/oshcontent_view.pt
+msgid "label_more_information"
+msgstr "Nánari upplýsingar"
+
+#. Original text
+#. More...
+msgid "label_more"
+msgstr "Meira…"
+
+#. <label for="title" i18n:translate="label_name">
+# # 1 more: ./plone_prefs/prefs_group_details.pt
+#: elevateIT/skins/eIT_content/cmpgroup_add_form.cpt
+msgid "label_name"
+msgstr "Nafn"
+
+msgid "label_required"
+msgstr "(Nauðsynlegt)"
+
+#. <label for="search_term" i18n:translate="label_search_term">
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "label_search_term"
+msgstr "Leitarskilyrði"
+
+#. <label for="SearchableText" i18n:translate="label_search_text">
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "label_search_text"
+msgstr "Leitartexti"
+
+#. <span class="hiddenLabel" i18n:translate="label_searchtext">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "label_searchtext"
+msgstr "Leitartexti"
+
+#. <label for="sector" i18n:translate="label_sector">
+#: OSHA/skins/osha/join_form.cpt
+msgid "label_sector"
+msgstr "Svið"
+
+#. <option i18n:translate="label_select" value="Select">
+# # 1 more: ./plone_templates/folder_contents.pt
+#: elevateIT/skins/eIT_content/metadataelement_contents.pt
+msgid "label_select"
+msgstr "Velja"
+
+#. <span i18n:translate="label_size">
+# # 1 more: ./plone_content/image_view.pt
+#: elevateIT/skins/eIT_content/file_view.pt
+msgid "label_size"
+msgstr "Stærð"
+
+#. <a class="hiddenStructure" href="#documentContent"
+#. i18n:translate="label_skiptocontent">
+#: eITNewsletterManager/skins/newsletter/newsletter_template.pt
+#: OSHA/skins/osha/main_template.pt
+msgid "label_skiptocontent"
+msgstr "Fara yfir í efnisinnihaldið"
+
+#. <label for="subject" i18n:domain="elevateIT"
+#. i18n:translate="label_subject">
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "label_subject"
+msgstr "Efni"
+
+#. <label for="ldapattr_slcLastName" i18n:translate="label_surname">
+#: elevateIT/skins/eIT_prefs/prefs_user_details.cpt
+msgid "label_surname"
+msgstr "Eftirnafn"
+
+#. <label for="sender" i18n:translate="label_type_of_sender">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_type_of_sender"
+msgstr "Ég er..."
+
+#. <label for="uri" i18n:translate="label_url">
+#: elevateIT/skins/eIT_content/link_edit_form.cpt
+msgid "label_url"
+msgstr "Vefslóð"
+
+#. <legend i18n:translate="legend_search_global">
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "legend_search_global"
+msgstr "Leita alls staðar í heiminum"
+
+#. <legend i18n:translate="legend_search_standard_terms">
+#: elevateIT/skins/eIT_forms/advanced_search_form.pt
+msgid "legend_search_standard_terms"
+msgstr "Almenn leitarskilyrði"
+
+#. <legend i18n:translate="legend_search_terms">
+# # 1 more: ./plone_forms/search_form.pt
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "legend_search_terms"
+msgstr "Leitarskilyrði"
+
+#. <a i18n:translate="link_breadcrumbs_home" tal:attributes="href portal_url">
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+#: OSHA/skins/osha/default_error_message.pt
+msgid "link_breadcrumbs_home"
+msgstr "Heim"
+
+#. <span i18n:translate="link_news_exturl">
+#: eITNews/skins/eIT_news/newsboard_view.pt
+msgid "link_news_exturl"
+msgstr "Nánari upplýsingar"
+
+#. <span i18n:translate="link_news_readmore">
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
+#: eITNews/skins/eIT_news/news.pt
+msgid "link_news_readmore"
+msgstr "Lesa meira"
+
+#. <a href="" i18n:translate="link_newsboard_previousnews"
+#. tal:attributes="href string:${here/absolute_url}/newsboard_view_archive"
+#. xclass="link-parent">
+#: eITNews/skins/eIT_news/newsboard_view.pt
+msgid "link_newsboard_previousnews"
+msgstr "Sýna fyrri fréttir"
+
+#. <a class="link-parent" href="" i18n:translate="link_newsboard_recentnews"
+#. tal:attributes="href string:${here/absolute_url}/newsboard_view">
+#: eITNews/skins/eIT_news/newsboard_view_archive.pt
+msgid "link_newsboard_recentnews"
+msgstr "Aftur í nýjar fréttir"
+
+#. <a href="#top" i18n:translate="link_page_top">
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+#: OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+msgid "link_page_top"
+msgstr "Efst á síðu"
+
+#. <a class="bold" href="" i18n:translate="link_report_link"
+#. tal:attributes="href
+#. string:${here/absolute_url}/feedback_message_form?purpose=Report about a
+#. broken link'">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "link_report_link"
+msgstr "tilkynna bilaða slóð til starfsfólks vefgáttarinnar"
+
+#. <span class="hiddenFloatLabel" i18n:domain="elevateIT"
+#. i18n:translate="month">
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: elevateIT/skins/eIT_3rdParty/calendar/calendar_slot.pt
+msgid "month"
+msgstr "Mánuður"
+
+#. <option i18n:translate="option_please_choose" value="">
+# # 1 more: ./OSHA/skins/osha/search_members_form.cpt
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "option_please_choose"
+msgstr "Vinsamlegast veldu"
+
+#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#: OSHA/skins/osha/portlet_oshainfo.pt
+msgid "osha_informationportlet_link"
+msgstr "Þín slóð á heilbrigði og öryggi á vinnustað"
+
+#. <span i18n:translate="osha_networkportlet_info" style="font-size:80%">
+#: OSHA/skins/osha/portlet_oshnetwork.pt
+msgid "osha_networkportlet_info"
+msgstr "Tengslanet okkar inniheldur heimasíður hvaðanæva úr heiminum sem veita upplýsingar um OSH á lands- og heimsvísu"
+
+#. <a href="" i18n:translate="osha_networkportlet_link"
+#. onclick="handleClick(event, 'show it'); return false"
+#. onkeypress="handleClick(event, 'show it'); return true"
+#. tal:attributes="href string:${here/portal_url}/network_overview">
+#: OSHA/skins/osha/portlet_oshnetwork.pt
+msgid "osha_networkportlet_link"
+msgstr "Sýna vefsíður samstarfsaðila"
+
+#. <label class="hiddenStructure" for="emailaddress"
+#. i18n:translate="portlet_oshmail_email">
+#: OSHA/skins/osha/portlet_oshmail.pt
+msgid "portlet_oshmail_email"
+msgstr "tölvupóstur"
+
+#. <img alt="previous" height="11" i18n:attributes="alt"
+#. src="arrorLeftAlternative.gif" tal:attributes="src
+#. string:${portal_url}/arrowLeftAlternative.gif" width="7"/>
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "previous"
+msgstr "fyrri"
+
+#. <label for="search_line" i18n:translate="search_term">
+#: eITWebMail/skins/eIT_webmail/webmail_search_form2.cpt
+msgid "search_term"
+msgstr "Leitarskilyrði"
+
+#. <span i18n:translate="searchresults">
+#: eITWebMail/skins/eIT_webmail/webmail_view.pt
+msgid "searchresults"
+msgstr "Leitarniðurstöður"
+
+#. <div i18n:domain="elevateIT" i18n:translate="sendto_mailtemplate_body" tal
+#. :omit-tag="">
+#: elevateIT/skins/eIT_forms/send_mail_to_author.pt
+msgid "sendto_mailtemplate_body"
+msgstr "<p>Þessi linkur er sendur til þín frá ${portal_url} Þú ert að fá þennan póst því einhver las síðu á ${portal_title} og hélt að þú gætir haft áhuga á henni.</p> <p>Hún er send frá ${from_address} með eftirfarandi athugasemd:</p> <p>&quot; ${comment} &quot;</p> ${document_title}<br />  ${document_description}<br />  ${document_url}"
+
+#. Added on Fri Dec 17 12:37:55 2004
+#: None
+msgid "The OSH Network"
+msgstr "Tengslanet OSH"
+
+msgid "Menu"
+msgstr "Valmynd"
+
+#. Added on Fri Dec 17 12:37:55 2004
+#: None
+msgid "Wealth of OSH information"
+msgstr "Brunnur OSH upplýsinga"
+
+#. Added on Fri Dec 17 12:37:55 2004
+#: None
+msgid "Agency Information"
+msgstr "Upplýsingar um stofnunina"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_yesterday"
+msgstr "í gær"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_last_week"
+msgstr "síðasta vika"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_last_month"
+msgstr "síðasti mánuð"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_ever"
+msgstr "frá upphafi"
+
+#. Added on Fri Dec 17 12:38:47 2004
+#: None
+msgid "Close window"
+msgstr "Loka glugga"
+
+#. Added on Fri Dec 17 12:39:06 2004
+#: None
+msgid "Refine Search"
+msgstr "Hreinsa leit"
+
+#. Added on Fri Dec 17 12:48:31 2004
+#: None
+msgid "label_position"
+msgstr "Staða"
+
+#. Added on Fri Dec 17 12:48:31 2004
+#: None
+msgid "label_focalpoint"
+msgstr "Tengipunktur"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_education"
+msgstr "Menntun"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_memberships"
+msgstr "Félagsaðild"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_rewards"
+msgstr "Umbun"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "label_rewards"
+msgstr "Umbun"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_projects"
+msgstr "Verkefni"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "label_projects"
+msgstr "Verkefni"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_publications"
+msgstr "Útgáfa"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "label_publications"
+msgstr "Útgáfa"
+
+msgid "Your network to a safer and healthier working environment"
+msgstr "Tengslanet þitt að öruggara og heilbrigðara vinnuumhverfi"
+
+msgid "Send to somebody"
+msgstr "Senda einhverjum"
+
+msgid "Link to our site"
+msgstr "Slóð á síðuna okkar"
+
+msgid "Suggest interesting link"
+msgstr "Benda á áhugaverða slóð"
+
+msgid "Report broken link"
+msgstr "Tilkynna bilaða slóð"
+
+msgid "Subscribe To Alert"
+msgstr "Gerast áskrifandi að tilkynningum"
+
+msgid "txt_try_the"
+msgstr "Reyndu"
+
+msgid "Looking for something specific?"
+msgstr "Ertu að leita að einhverju sérstöku?"
+
+#. <a href="" tal:attributes="href pub/absolute_url"
+#.    i18n:translate="download_full_publication">
+#: None
+msgid "download_full_publication"
+msgstr "Niðurhala útgáfunni í fullri lengd sem PDF skjali"
+
+##. <p class="header_link" 
+#.     i18n:translate="publication_read_our">Read our 
+#.     <a href="" i18n:name="pubtype" 
+#.     tal:attributes="href sub/absolute_url" 
+#.     tal:content="sub/Title" /></p>
+#: @@publications-list
+msgid "publication_read_our"
+msgstr "Lestu ${pubtype}"
+
+#. <div class="pullquote" 
+#.     i18n:translate="all_agency_publications">
+#: @@publications-list
+msgid "all_agency_publications"
+msgstr "Unnt er að niðurhala öllum útgáfum stofnunarinnar endurgjaldslaust."
+
+#: @@publications-list
+msgid "download_adobe_reader"
+msgstr "Til að nálgast nýjust PDF útgáfurnar okkar, þarftu að niðurhala nýjustu útgáfu Adobe Acrobat Reader, fáanlegt á ${reader_download}."
+
+#: @@publications-list
+msgid "label_eu_bookshop"
+msgstr "Nálgastu allar útgáfur ESB á  ${link_eu_bookshop}"
+
+#. <label for="path" i18n:translate="">Search only in this folder</label>
+#: Products/OSHA/skins/osha2/portlet_oshsearch.pt
+msgid "Search only in this folder"
+msgstr "Leita aðeins í þessari möppu"
+
+#. <p i18n:translate="info_extended_searchform">To perform a more
+#. detailed search try the <a href="advanced_search_form">
+#: osha/skins/osha2/search_form
+msgid "info_extended_searchform"
+msgstr "Fyrir nákvæmari leit prófaðu ${url}"
+
+msgid "contact_us_personal"
+msgstr " Ef spurningu þinni hefur ekki verið svarað með þessu staðlaða svari, geturðu sent okkur persónuleg skilaboð.  Vinsamlegast farðu á ${contact_form_name}."
+
+msgid "contact_form"
+msgstr "Box fyrir tengilið"
+
+#. PDA version
+msgid "PDA version"
+msgstr "PDA útgáfa"
+
+msgid "label_archive"
+msgstr "Skjalasafn"
+
+msgid "portlet_campaign_ew2007_title"
+msgstr "Evrópsk herferð 2007"
+
+msgid "portlet_campaign_ew2007_text"
+msgstr "Léttu byrgðirnar!"
+
+# ERO
+msgid "European Risk Observatory"
+msgstr "Evrópska áhættueftirlitsstofnunin"
+
+# Anticipating Change
+msgid "portlet_riskob_text"
+msgstr "Búast við breytingu!"
+
+# Most visited
+msgid "Most visited"
+msgstr "Mest heimsótt"
+
+msgid "portlet_oshsearch_advanced"
+msgstr "Nákvæmari leit"
+
+msgid "portlet_oshsearch_atoz"
+msgstr "Skrá A-Z"
+
+msgid "Free Newsletter"
+msgstr "Ókeypis fréttabréf"
+
+msgid "portlet_oshmail_text"
+msgstr "Mánaðarlegt yfirlit stefnumótandi frétta <br/> - Gerast áskrifandi -"
+
+msgid "Alert Service"
+msgstr "Tilkynningarþjónusta"
+
+# updated on topics ... subscribe
+msgid "portlet_alertservice_text"
+msgstr "Uppfærsla á málefnum að eigin vali<br/>- Gerast áskrifandi -"
+
+msgid "Campaigns"
+msgstr "Herferðir"
+
+msgid "portlet_campaign_hwi_title"
+msgstr "Frumkvæði í vinnuvernd"
+
+msgid "portlet_campaign_hwi_text"
+msgstr "Gott fyrir þig – Gott fyrir viðskiptin"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Print"
+msgstr "Prenta"
+
+msgid "Send"
+msgstr "Senda"
+
+msgid "Broken Link"
+msgstr "Biluð slóð"
+
+msgid "Disclaimer"
+msgstr "Riftunarákvæði"
+
+msgid "Copyright"
+msgstr "Höfundaréttur"
+
+msgid "Site&nbsp;Update"
+msgstr "Uppfærsla síðu"
+
+msgid "Site&nbsp;Map"
+msgstr "Yfirlitssíða"
+
+msgid "Comments"
+msgstr "Athugasemdir"
+
+msgid "FAQ"
+msgstr "Algengar spurningar"
+
+msgid "Help"
+msgstr "Hjálp"
+
+msgid "Translation&nbsp;Help"
+msgstr "Þýðingaraðstoð"
+
+msgid "Accessibility"
+msgstr "Aðgengi"
+
+msgid "box_firsttime"
+msgstr "Í fyrsta skipti hér?"
+
+msgid "header_oshtopic_dynamic"
+msgstr "Allir${portal_type} þættir á ${subject}"
+
+msgid "oshmail_header_subscribe"
+msgstr "Gerast áskrifandi að OSH póstinum"
+
+msgid "oshmail_header_unsubscribe"
+msgstr "Afskrá mig af OSH póstlistanum"
+
+msgid "oshmail_label_enter_emaiL"
+msgstr "skráðu netfang hér"
+
+#. Default: "Agency's resources"
+msgid "heading_agencys_resources"
+msgstr "Hjálpargögn stofnunarinnar"
+
+#. Default: "Search in the USEFUL LINKS DATABASE"
+msgid "heading_search_useful_links"
+msgstr "Leita í gagnagrunninum yfir GAGNLEGAR SLÓÐIR"
+
+#. Default: "Search in the RISK ASSESSMENT TOOLS DATABASE"
+msgid "heading_search_risk_assessment_tools"
+msgstr "Leita í GAGNAGRUNNINUM UM VERKFÆRI FYRIR ÁHÆTTUMAT"
+
+#. Default: "Search in the CASE STUDIES DATABASE"
+msgid "heading_search_case_studies"
+msgstr "Leita í GAGNAGRUNNINUM FYRIR RAUNDÆMI"
+
+#. Default: "Search in the PROVIDERS DATABASE"
+msgid "heading_search_providers"
+msgstr "Leita í GAGNAGRUNNINUM FYRIR ÞJÓNUSTUAÐILA"
+
+#. Default: "Filter your search by selecting one or more of the filters. You
+#. can always remove any filter again by selecting the empty entry or by
+#. clicking the Reset button."
+msgid "help_advanced_search"
+msgstr "Takmarkaðu leit þína með því að velja eina eða fleiri takmarkanir.  Þú getur alltaf fjarlægt takmörkun með því að velja auða skráningu eða með því að ýta á endurstilla takkann."
+
+#. Default: "Select the database types you want to search."
+msgid "help_advanced_search_database"
+msgstr "Veldu þann gagnagrunn sem þú vilt leita í."
+
+#. Default: "Category"
+msgid "label_category"
+msgstr "Flokkur"
+
+#. Default: "Subcategory"
+msgid "label_subcategory"
+msgstr "Undirflokkur"
+
+#. Default: "Practical solutions"
+msgid "heading_practical_solutions"
+msgstr "Hagkvæmar lausnir"
+
+#. Default: "Publications"
+msgid "heading_publications"
+msgstr "Útgáfur"
+
+#. Default: "Useful links"
+msgid "label_useful_links"
+msgstr "Gagnlegar slóðir"
+
+#. Default: "Risk assessment tools"
+msgid "label_risk_assessment_tools"
+msgstr "Verkfæri fyrir áhættumat"
+
+#. Default: "Case studies"
+msgid "label_case_studies"
+msgstr "Raundæmi"
+
+#. Default: "Providers"
+msgid "label_providers"
+msgstr "Þjónustuaðilar"
+
+#. Default: "Topics"
+msgid "heading_topics"
+msgstr "Efni"
+
+#. Default: "Latest additions"
+msgid "heading_latest_additions"
+msgstr "Nýjustu viðbætur"
+
+#. Default: "Languages"
+msgid "label_languages"
+msgstr "Tungumál"
+
+#. Default: "See also"
+msgid "label_see_also"
+msgstr "Sjá einnig"
+
+#. Default: "Authorities"
+msgid "heading_authorities"
+msgstr "Yfirvöld"
+
+#. Default: "Social Partners"
+msgid "heading_social_partners"
+msgstr "Aðilar vinnumarkaðarins"
+
+#. Default: "Research organisations"
+msgid "heading_research_organisations"
+msgstr "Rannsóknarstofur"
+
+#. Default: "Other national sites"
+msgid "heading_other_national_sites"
+msgstr "Aðrar landssíður"
+
+#. Default: "More related content"
+msgid "heading_more_related_content"
+msgstr "Annað tengt efni"
+
+#. Default: "Upcoming Events"
+#: CMFPlone/skins/plone_deprecated/portlet_events.pt:16
+msgid "box_events"
+msgstr "Væntanlegir viðburðir"
+
+# Press Room
+msgid "osha_label_pressbox_pressreleases"
+msgstr "Fréttatilkynningar"
+
+msgid "osha_description_pressbox_pressreleases"
+msgstr "Þetta eru fréttatilkynningarnar okkar:"
+
+msgid "osha_label_pressbox_campaigns"
+msgstr " Herferðir"
+
+msgid "osha_label_pressbox_photos"
+msgstr "Myndir og myndmiðlar"
+
+msgid "osha_label_pressbox_articles"
+msgstr "Greinar og viðtöl"
+
+msgid "osha_label_pressbox_aboutus"
+msgstr "Um okkur"
+
+msgid "osha_label_pressbox_publications"
+msgstr "Útgefið efni"
+
+msgid "label_pressroom_link"
+msgstr "Aftur í fréttamiðstöðina"
+
+# FOP
+
+# FOP Portlets osa.fop
+        
+# Default "Further information"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.pt
+msgid "label_main_fop_website"
+msgstr "Nánari upplýsingar"
+        
+# Default "Belgian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_belgium"
+msgstr "Belgískur tengipunktur"
+
+# Default "Bulgarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_bulgaria"
+msgstr "Búlgarskur tengipunktur"
+
+# Default "Czech Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_czech-republic"
+msgstr "Tékkneskur tengipunktur"
+
+# Default "Danish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_denmark"
+msgstr "Danskur tengipunktur"
+
+# Default "German Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_germany"
+msgstr "Þýskur tengipunktur"
+
+# Default "Estonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_estonia"
+msgstr "Eistneskur tengipunktur"
+
+# Default "Irish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_ireland"
+msgstr "Írskur tengipunktur"
+
+# Default "Greek Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_greece"
+msgstr "Grískur tengipunktur"
+
+# Default "Spanish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_spain"
+msgstr "Spænskur tengipunktur"
+
+# Default "French Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_france"
+msgstr "Franskur tengipunktur"
+
+# Default "Italian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_italy"
+msgstr "Ítalskur tengipunktur"
+
+# Default "Cypriot Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_cyprus"
+msgstr "Point  Kýpverskur tengipunktur"
+
+# Default "Latvian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_latvia"
+msgstr "Lettneskur tengipunktur "
+
+# Default "Lithuanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_lithuania"
+msgstr "Lithánískur tengipunktur"
+
+# Default "Luxembourgish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_luxembourg"
+msgstr "Lúxemborgískur tengipunktur"
+
+# Default "Hungarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_hungary"
+msgstr "Ungverskur tengipunktur"
+
+# Default "Maltese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_malta"
+msgstr "Maltneskur tengipunktur"
+
+# Default "Dutch Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_netherlands"
+msgstr "Hollenskur tengipunktur"
+
+# Default "Austrian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_austria"
+msgstr "Austurískur tengipunktur"
+
+# Default "Polish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_poland"
+msgstr "Pólskur tengipunktur"
+
+# Default "Portuguese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_portugal"
+msgstr "Portúgalskur tengipunktur"
+
+# Default "Romanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_romania"
+msgstr "Rúmanskur tengipunktur"
+
+# Default "Slovenian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_slovenia"
+msgstr "Slóvenskur tengipunktur"
+
+# Default "Slovakian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_slovakia"
+msgstr "Slóvaskur tengipunktur"
+
+# Default "Finnish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_finland"
+msgstr "Finnskur tengipunktur"
+
+# Default "Swedish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_sweden"
+msgstr "Sænskur tengipunktur"
+
+# Default "British Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_united-kingdom"
+msgstr "Breskur tengipunktur"
+
+# Default "Icelandic Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_iceland"
+msgstr "Íslenskur tengipunktur"
+
+# Default "Liechtenstein Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_liechtenstein"
+msgstr "Tengipunktur Liechtenstein"
+
+# Default "Norwegian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_norway"
+msgstr "Norskur tengipunktur"
+
+# Default "Swiss Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_switzerland"
+msgstr "Svissneskur tengipunktur"
+
+# Default "Croatian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_croatia"
+msgstr "Króatískur tengipunktur"
+
+# Default "Macedonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
+msgstr "Makedónískur tengipunktur"
+
+# Default "Turkish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_turkey"
+msgstr "Tyrkneskur tengipunktur"
+
+# Default "Albanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_albania"
+msgstr "Albanskur tengipunktur"
+
+# Default "Bosnian, Herzegovinian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
+msgstr "Tengipunktur Bosníu-Herzegovínu"
+
+# Default "Kosovar Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
+msgstr "Tengipunktur Kosovo"
+
+# Default "Montenegrin Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_montenegro"
+msgstr "Tengipunktur Svartfjallslands"
+
+# Default "Serbian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_serbia"
+msgstr "Serbneskur tengipunktur"
+
+# Default "Check for more results in EN"
+# osha/theme/browser/templates/publicationsearch.pt
+# osha/theme/browser/templates/practical_solution.pt
+msgid "label_more_results_in_en"
+msgstr "Fáðu nánari upplýsingar á EN"      
+
+
+# Default "Back to the Focal Points overview"
+msgid "label_back_to_fop_overview"
+msgstr "Aftur í yfirlit yfir tengipunkta"
+
+msgid "label_publications_by_type"
+msgstr "Útgefið efni - flokkað eftir tegund útgáfu"
+
+# oshmail
+
+
+msgid "osha_label_eu_media_coverage"
+msgstr "ESB fjölmiðlaumfjöllun"
+
+msgid "oshmail_intro_welcome"
+msgstr "Velkomin á ${oshmail}, rafræna fréttabréfið sem Evrópska vinnuverndarstofnunin gefur út."
+
+msgid "oshmail_intro_every_month"
+msgstr "Í hverjum mánuði færðu fréttir í gegnum, ${oshmail} um það nýjasta sem er að gerast í vinnuvernd:"
+
+msgid "oshmail_list_1"
+msgstr "nýjustu fréttir um öryggi og heilbrigði í heiminum í dag;"
+
+msgid "oshmail_list_3"
+msgstr "uppfærsla á herferðum og starfsemi sem stofnunin skipuleggur;"
+
+msgid "oshmail_list_4"
+msgstr "viðburðir á næstunni;"
+
+msgid "oshmail_list_5"
+msgstr "nýjustu útgáfur stofnunarinnar;"
+
+msgid "oshmail_list_6"
+msgstr "- uppfærsla á ESB löggjöf;"
+
+msgid "oshmail_list_7"
+msgstr "á 22 tungumál"
+
+msgid "label_latest_issue"
+msgstr "Nýjasta útgáfa"
+
+msgid "label_previous_issues"
+msgstr "útgáfur"
+
+# Load older newsletters.
+msgid "label_load_older"
+msgstr "Hlaða ${link}."
+
+msgid "label_older_newsletters"
+msgstr "eldri fréttabréf"
+
+# Competitions
+msgid "label_competitions"
+msgstr "Samkeppnir"
+msgid "label_more_competitions"
+msgstr "Fleiri samkeppnir"
+msgid "label_older_competitions"
+msgstr "eldri samkeppnir"
+msgid "label_ongoing_competitions"
+msgstr "Samkeppnir í gangi"
+msgid "label_learn_more"
+msgstr "Fáðu nánari upplýsingar"
+msgid "label_closed_competitions"
+msgstr "Samkeppnir sem hefur verið lokað"
+msgid "label_upcoming_competitions"
+msgstr "Væntanlegar samkeppnir"
+
+####
+# Alertservice
+
+
+msgid "label_subjects_of_interest"
+msgstr "Áhugasvið"
+
+msgid "label_item_type"
+msgstr "Tegund liðar"
+
+msgid "daily"
+msgstr "daglega"
+
+msgid "weekly"
+msgstr "vikulega"
+
+msgid "monthly"
+msgstr "mánaðarlega"
+
+msgid "OSH Link"
+msgstr "OSH linkur"
+
+msgid "Publication"
+msgstr "Útgáfa"
+
+msgid "Case Study"
+msgstr "Raundæmi"
+
+msgid "label_additional_languages"
+msgstr "Önnur tungumál"
+
+msgid "select_multiple_help"
+msgstr "Til að velja fleiri en eitt atriði úr listanum, ýttu á „control“ takkann á lyklaborðinu, og veldu atriðið með músinni."
+
+msgid "description_alertservice_languageselector"
+msgstr "Tilkynningar eru sendar á ensku. Ef innihaldið er þýtt, getur þú valið um að fá það sent á öðrum tungumálum."
+
+msgid "description_subscribe_oshmail"
+msgstr "Ég vil líka fá OSH póstinn, mánaðarlega fréttabréfið endurgjaldslaust"
+
+msgid "oshmail_learn_more"
+msgstr "lærðu meira…"
+
+msgid "alertservice_notification_report"
+msgstr "Skýrsla OSHA yfir tilkynningar "
+
+msgid "alert_label_more"
+msgstr "Meira"
+
+msgid "alertservice_alert_request"
+msgstr "EU-OSHA fékk boð um að byrja að senda tilkynningar til"
+
+msgid "alertservice_verify_request"
+msgstr "Staðfestu þessa tilkynningarbeiðni EU-OSHA:"
+
+msgid "alertservice_cancel_request"
+msgstr "Hættu við þessa tilkynningarbeiðni EU-OSHA"
+
+msgid "alertservice_alternative_verification"
+msgstr "Ef þú getur ekki ýtt á slóðina, getur þú klippt og límt hann í vafrarann þinn."
+
+msgid "alertservice_ignore"
+msgstr "Ef þú baðst ekki um þessa beiðni eða telur að hún sé villuskilaboð getur þú með öruggum hætti hundsað þessi skilaboð."
+
+msgid "alertservice_email_footer1"
+msgstr "Takk fyrir,"
+
+msgid "alertservice_email_footer2"
+msgstr "Tilkynningarteymi EU-OSHA"
+
+
+#############################################
+## keywords
+#############################################
+
+msgid "accident_prevention"
+msgstr "Slysaforvörn"
+
+msgid "ageing"
+msgstr "Starfsfólk í öldrunarþjónustu"
+
+msgid "agriculture"
+msgstr " Landbúnaður"
+
+msgid "businessOSH"
+msgstr "Viðskiptahlið OSH"
+
+msgid "cleaners"
+msgstr "Hreinsitæknar"
+
+msgid "construction"
+msgstr "Byggingariðnaður"
+
+msgid "csr"
+msgstr "Samfélagslegábyrgð fyrirtækja"
+
+msgid "cww"
+msgstr "Síbreytilegur heimur starfa"
+
+msgid "dangerous_substances"
+msgstr "Hættuleg efni"
+
+msgid "disability"
+msgstr "Fatlaðir"
+
+msgid "education"
+msgstr "Menntun"
+
+msgid "emerging_risks"
+msgstr "Vaxandi hættur"
+
+msgid "fisheries"
+msgstr "Útgerð"
+
+msgid "gender"
+msgstr "Kyn"
+
+msgid "healthcare"
+msgstr "Heilsugæsla"
+
+msgid "horeca"
+msgstr "Veisluþjónusta"
+
+msgid "hwi"
+msgstr "Heilsusamlegir vinnustaðir"
+
+msgid "legislation"
+msgstr "Löggjöf"
+
+msgid "msd"
+msgstr "Vöðva-og beinasjúkdómar "
+
+msgid "noise"
+msgstr " Hávaði"
+
+msgid "organisation"
+msgstr "Samtök og stefnur"
+
+msgid "osheducation"
+msgstr "Að beina OSH inn í menntun"
+
+msgid "research"
+msgstr "Rannsóknir"
+
+msgid "risks"
+msgstr "Vaxandi hættur"
+
+msgid "risk_assessment"
+msgstr "Áhættumat"
+
+msgid "risk_observatory"
+msgstr "Áhættueftirlit"
+
+msgid "road_transport"
+msgstr "Samgöngur á vegum"
+
+msgid "statistics"
+msgstr "Tölfræði"
+
+msgid "stress"
+msgstr "Álag"
+
+msgid "transport"
+msgstr "Samgöngur"
+
+msgid "young_people"
+msgstr "Ungt fólk"
+
+msgid "whp"
+msgstr "Efling á heilsusamlegum vinnustöðum"
+
+msgid "maintenance"
+msgstr "Viðhald"
+
+msgid "migrant_workers"
+msgstr "Farandsverkamenn"
+
+msgid "nanotechnology"
+msgstr "Örtækni"
+
+msgid "prevention"
+msgstr "Forvörn"
+
+msgid "economic_incentives"
+msgstr "Efnahagsleg frumkvæði"
+
+####
+
+msgid "Our Events"
+msgstr "Viðburðir okkar"
+
+
+####
+# NAPO
+
+
+msgid "title_napo_episode_1_0"
+msgstr "Saga af bestu skiltunum"
+
+msgid "title_napo_episode_1_1"
+msgstr "Hætta"
+
+msgid "title_napo_episode_1_2"
+msgstr "Hætta- vegur færður"
+
+msgid "title_napo_episode_1_3"
+msgstr "Hætta - gaffallyftarar"
+
+msgid "title_napo_episode_1_4"
+msgstr "Bannskilti"
+
+msgid "title_napo_episode_1_5"
+msgstr "Reykingar bannaðar"
+
+msgid "title_napo_episode_1_6"
+msgstr "Enga gaffallyftara"
+
+msgid "title_napo_episode_1_7"
+msgstr "Skylduskilti"
+
+msgid "title_napo_episode_1_8"
+msgstr "Notkun öryggisgleraugna skilyrði "
+
+msgid "title_napo_episode_1_9"
+msgstr "Notkun eyrnahlífa skilyrði"
+
+msgid "title_napo_episode_1_10"
+msgstr "Notkun öryggishjálma skilyrði "
+
+msgid "title_napo_episode_1_11"
+msgstr "Björgunarskilti"
+
+msgid "title_napo_episode_1_12"
+msgstr "Björgunarleið  "
+
+msgid "title_napo_episode_1_13"
+msgstr "Skyndihjálp "
+
+msgid "title_napo_episode_1_14"
+msgstr "Eldvarnarskilti"
+
+msgid "title_napo_episode_1_15"
+msgstr "Eldvarnarbúnaður  "
+
+msgid "title_napo_episode_1_16"
+msgstr "Eldvarnarkerfi  "
+
+msgid "title_napo_episode_1_17"
+msgstr "Endir"
+
+msgid "title_napo_episode_2_0"
+msgstr "Ævintýri NAPO "
+
+msgid "title_napo_episode_2_1"
+msgstr "Mikilvægi vegvísa"
+
+msgid "title_napo_episode_2_2"
+msgstr "Vegvísar eru ekki fullnægjandi"
+
+msgid "title_napo_episode_2_3"
+msgstr "Merki skulu lesin"
+
+msgid "title_napo_episode_2_4"
+msgstr "Veldu almenningssamgöngur"
+
+msgid "title_napo_episode_2_5"
+msgstr "Rétt vörn á réttum tíma"
+
+msgid "title_napo_episode_2_6"
+msgstr "Spuni þýðir áhættutaka"
+
+msgid "title_napo_episode_2_7"
+msgstr "Hver vara hefur sína pakkningu"
+
+msgid "title_napo_episode_2_8"
+msgstr "Of mikill þrýstingur getur verið hættulegur"
+
+msgid "title_napo_episode_2_9"
+msgstr "Óhentugt efni + vanhæfni = slys"
+
+msgid "title_napo_episode_3_0"
+msgstr "Klór og þef – efnahættur á vinnustað"
+
+msgid "title_napo_episode_3_1"
+msgstr "Hættulegt"
+
+msgid "title_napo_episode_3_2"
+msgstr "Ertandi"
+
+msgid "title_napo_episode_3_3"
+msgstr "Eldfimt"
+
+msgid "title_napo_episode_3_4"
+msgstr "Eyðandi"
+
+msgid "title_napo_episode_3_5"
+msgstr "Eitrað"
+
+msgid "title_napo_episode_3_6"
+msgstr "Hættulegt umhverfinu"
+
+msgid "title_napo_episode_3_7"
+msgstr "Endir"
+
+msgid "title_napo_episode_4_0"
+msgstr "Hreinsun"
+
+msgid "title_napo_episode_4_1"
+msgstr "Breyting á áætlun"
+
+msgid "title_napo_episode_4_2"
+msgstr "Vinna í hæð"
+
+msgid "title_napo_episode_4_3"
+msgstr "Nóg komið"
+
+msgid "title_napo_episode_4_4"
+msgstr "Öryggisáætlun"
+
+msgid "title_napo_episode_4_5"
+msgstr "Gult spjald"
+
+msgid "title_napo_episode_4_6"
+msgstr "Líkamsbygging"
+
+msgid "title_napo_episode_4_7"
+msgstr "Öryggisenglar"
+
+msgid "title_napo_episode_4_8"
+msgstr "Endir"
+
+
+msgid "title_napo_episode_5_0"
+msgstr "Napo – öryggi á vettvangi"
+
+msgid "title_napo_episode_5_1"
+msgstr "Að byggja í öryggi"
+
+msgid "title_napo_episode_5_2"
+msgstr "Ekki falla fyrir því"
+
+msgid "title_napo_episode_5_3"
+msgstr "Á leið í fall"
+
+msgid "title_napo_episode_5_4"
+msgstr "Heimsmeistarar"
+
+msgid "title_napo_episode_5_5"
+msgstr "Eldingu slær niður"
+
+msgid "title_napo_episode_5_6"
+msgstr "Haltu þeim aðskildum"
+
+msgid "title_napo_episode_5_7"
+msgstr "Fimm stjörnu meðferð"
+
+msgid "title_napo_episode_5_8"
+msgstr "Martröð"
+
+msgid "title_napo_episode_5_9"
+msgstr "Örugg lending"
+
+msgid "title_napo_episode_6_0"
+msgstr "NAPO í stöðvið þennan hávaða!"
+
+msgid "title_napo_episode_6_1"
+msgstr "Óbætanlegur"
+
+msgid "title_napo_episode_6_2"
+msgstr "Heyrði það ekki nálgast "
+
+msgid "title_napo_episode_6_3"
+msgstr "Hávaði á skrifstofunni"
+
+msgid "title_napo_episode_6_4"
+msgstr "Þungun sem er vandamál"
+
+msgid "title_napo_episode_6_5"
+msgstr "Úti í kuldanum"
+
+msgid "title_napo_episode_6_6"
+msgstr "Ekki gera hlutina verri"
+
+msgid "title_napo_episode_6_7"
+msgstr "Endir"
+
+msgid "title_napo_episode_7_0"
+msgstr "Örugg byrjun"
+
+msgid "title_napo_episode_7_1"
+msgstr "Ekki hika við að spyrja spurninga"
+
+msgid "title_napo_episode_7_2"
+msgstr "Takið eftir "
+
+msgid "title_napo_episode_7_3"
+msgstr "Of mikið af upplýsingum"
+
+msgid "title_napo_episode_7_4"
+msgstr "Gættu annarra líka"
+
+msgid "title_napo_episode_7_5"
+msgstr "Of mikið sjálfstraust er hættulegt"
+
+msgid "title_napo_episode_7_6"
+msgstr "Endir"
+
+msgid "title_napo_episode_8_0"
+msgstr " Byrja"
+
+msgid "title_napo_episode_8_1"
+msgstr "Álag nútímans"
+
+msgid "title_napo_episode_8_2"
+msgstr "Deildu og drottnaðu"
+
+msgid "title_napo_episode_8_3"
+msgstr "Róttæk vinnuvistfræði"
+
+msgid "title_napo_episode_8_4"
+msgstr "Tvista og hrópa"
+
+msgid "title_napo_episode_8_5"
+msgstr "Ekkert tak"
+
+msgid "title_napo_episode_8_6"
+msgstr "Vinnuhæð"
+
+msgid "title_napo_episode_8_7"
+msgstr "Slæmir straumar"
+
+msgid "title_napo_episode_8_8"
+msgstr "Einvígið"
+
+msgid "title_napo_episode_8_9"
+msgstr "Hugsa um tilfærslu"
+
+msgid "title_napo_episode_8_10"
+msgstr "Haltu mér fast"
+
+msgid "title_napo_episode_8_11"
+msgstr "Endir"
+
+msgid "title_napo_episode_9_0"
+msgstr "Kynning"
+
+msgid "title_napo_episode_9_1"
+msgstr "Meta hættuna"
+
+msgid "title_napo_episode_9_2"
+msgstr "Bera kennsl á hið óþekkta"
+
+msgid "title_napo_episode_9_3"
+msgstr "Bregðast við hættum"
+
+msgid "title_napo_episode_9_4"
+msgstr "Hættuleg samsetning"
+
+msgid "title_napo_episode_9_5"
+msgstr "Útrýma hættunni"
+
+msgid "title_napo_episode_9_6"
+msgstr "Öryggi borgar sig"
+
+msgid "title_napo_episode_9_7"
+msgstr "Endir"
+
+msgid "title_napo_film_1"
+msgstr "Besta sagan af skiltum"
+
+msgid "description_napo_film_1"
+msgstr "Fyrsta myndin í Napo röðinni veitir grundvallarupplýsingar um heilbrigðis- og öryggisskilti og merki sem eru til staðar á vinnustaðnum.  Hún veitir nýjum starfsmönnum gagnlegar upplýsingar og er góð upprifjun fyrir aðra starfsmenn.  Ólíkar aðstæður á vinnustað eru sýndar þar sem öryggisskilti eru mikilvæg.  Þessi mynd hentar öllum sviðum og starfsfólki á öllum stigum en einkum ungu fólki í þjálfun eða sem er að öðlast starfsreynslu.<br/><br/> Hún er gerð til að upplýsa áheyrendur um öryggisskilti á vinnustað, til að sýna fram á mikilvægi þess að virða skiltin, og að læra og skilja hvað merkingar þýða hvað snertir lögun þeirra og lit.   Þrettán teikningar eru sýndar.  Hver teikning á við um vinnuaðstöðu þar sem Napo mætir skiltunum sem lifna við til að kenna honum hvað þau þýða og mikilvægi öryggis.  Ferlið sýnir hvað gerist ef skiltin eru hundsuð, og þær tæknilegu og skipulagslegu hindranir á tilgangi þeirra sé skiltunum ekki fylgt."
+
+
+msgid "title_napo_film_2"
+msgstr "'Ævintýri Napo"
+
+msgid "description_napo_film_2"
+msgstr "Kvikmyndin tekur á algengum hættum á vinnustað og hentar ungu fólki sem hefur litla eða enga starfsreynslu.  Hún leggur áherslu á að vera meðvitaður um hættur, nauðsyn þess að starfa á öruggan hátt og mikilvægi þjálfunar.  Myndin hentar öllum sviðum og starfsfólki á öllum stigum en einkum ungu fólki í þjálfun eða að öðlast starfsreynslu.  Markmiðið er að vekja athygli á grundvallar hættum og gefa áheyrendum tækifæri til að velta fyrir sér slysum og ræða hvernig hægt sé að koma í veg fyrir þau.  Um er að ræða níu ævintýri og hvert og eitt er dæmigert fyrir einstaklingsbundnar eða sameiginlegar hættur innan fyrirtækis.  Kvikmyndin leggur áherslu á mikilvægi þess að merkja hættur með fullnægjandi hætti, að skilja aðvörunarmerki, öryggi þegar ferðast er til og frá vinnu, notkun viðeigandi hlífðarbúnaðar, að taka ekki áhættur, að nota réttar og hentugar pakkningar, mikilvægi þess að stytta sér ekki leið og mikilvægi þess að aðeins þjálfað starfsfólk noti vinnutæki." 
+
+msgid "title_napo_film_3"
+msgstr "Klór og þef – efnahættur á vinnustað"
+
+msgid "description_napo_film_3"
+msgstr "Napo er í stuttum þáttum þar sem hann vinnur með efni, þar á meðal þau sem eru ertandi, eldfim, eyðandi, eitruð eða hættuleg umhverfinu.  Í kjölfar hvers þáttar kemur stutt yfirlit þar sem sýnt er hvernig eigi að koma í veg fyrir slys með öruggum verklagsreglum.  Þessi mynd hentar öllum sviðum og starfsfólki á öllum stigum en einkum ungu fólki í þjálfun eða að öðlast starfsreynslu.  Markmiðið er að draga athygli að mikilvægi þess að merkja efnavörur.  Napo tekst á við að nota efni.  Sex atriði sýna fyrst ranga aðferð með alvarlegum afleiðingum og svo er rétt aðferð sýnd með því að virða öryggisleiðbeiningar. Myndin tekur á sex af níu öryggismerkjum, og tekur stuttlega á hættunni sem fylgir sprengiefnum."
+
+msgid "title_napo_film_4"
+msgstr "Napo í Öruggur á vettvangi"
+
+msgid "description_napo_film_4"
+msgstr "Napo er að vinna á byggingarsvæði og kvikmyndin sýnir nokkrar algengar hættur og áhættur á vettvangi.  Sem starfsmaður, tekst Napo á við ýmsar hættulegar aðstæður en tekst að takast á við raunir sínar.  Myndin er gerð fyrir starfsmenn við byggingar og mannvirki en hentar öllum sviðum og starfsfólki á öllum stigum, einkum ungu fólki í þjálfun og að öðlast starfsreynslu.  Markmiðið er að vekja athygli á helstu hættum sem fyrirfinnast á byggingarsvæði og að veita tækifæri til að gera grein fyrir varúðarráðstöfunum við slíkar aðstæður.  Kynningin sýnir nokkra aðila, Napo sem byggingaverkamann, samstarfsmann, yfirmann og arkitekt.  Mismunandi hættuaðstæður eru sýndar í sjö stuttmyndum.  Hárlos, fall úr hæð, hindranir, bakverkur, skipulag flutningaferða, hreinlæti og öryggi á vettvangi."
+
+msgid "title_napo_film_5"
+msgstr "Napo í Hreinsun"
+
+msgid "description_napo_film_5"
+msgstr "Þessi kvikmynd sýnir heilsufars- og öryggishættur sem starfsfólk í þrifum og verktakaiðnaði verður fyrir þar á meðal að renna til og hrasa, falla, meðhöndla þunga hluti og að starfa eitt og sér.  Markhópurinn eru verktakar og fyrirtæki sem sjá um hreingerningar en þessi mynd hentar öllum sviðum og starfsfólki á öllum stigum, einkum ungu fólki í þjálfun og þeim sem eru að öðlast starfsreynslu.  Markmiðið er að gera fólk meðvitað um algengar hættur sem tengjast hreingerningum, og þann möguleika að benda á forvarnaraðgerðir.  Stundum fer Napo varlega og í annan tíma tekur hann áhættur.  Með samstarfsmanni sínum, Nanette, yfirmanni og viðskiptavininum, tekst hann á við mismunandi hættustig.  Aðstæður veita honum tækifæri til að tala um skipulagið og verkáætlunina, öryggisskilti, notkun stiga og þrepa, vandamál sem tengjast meðhöndlun þungra hluta, samstarf við aðra,og flæði upplýsinga."
+
+msgid "title_napo_film_6"
+msgstr "Napo í Hættu þessum hávaða"
+
+msgid "description_napo_film_6"
+msgstr "Hávaði á vinnustað hefur áhrif á þúsundir starfsmanna.  Kvikmyndin útskýrir nokkrar helstu ástæður heyrantaps og leggur áherslu á nauðsyn þess að stjórna hávaða á vinnustað, forvarnaraðgerðir og að nota viðeigandi búnað til varnar heyrninni þegar við á.  Þessi mynd hentar öllum sviðum og starfsfólki á öllum stigum en einkum ungu fólki í þjálfun eða að öðlast starfsreynslu."
+
+
+msgid "title_napo_film_7"
+msgstr "Napo í Öruggri byrjun"
+
+msgid "description_napo_film_7"
+msgstr "Myndin er gerð til að vekja athygli á málefnum sem ungt fólk, sem er að byrja í nýrri vinnu eða á nýjum vinnustað, þarf að takast á við.  Napo er góð leið til að ná til ungra áheyrenda, einkum ungs fólk í starfsþjálfun eða eru að öðlast starfsreynslu.  Kvikmyndin er einnig góð fyrir alla nýja á atvinnumarkaðnum, þar á meðal farands- og tímabundna starfsmenn.  Sjö þættir sýna dæmigerðar aðstæður sem nýjir aðilar á vinnumarkaði takast á við."
+
+msgid "title_napo_film_8"
+msgstr "Napo í léttu byrgðinni"
+
+msgid "description_napo_film_8"
+msgstr "Vöðva- og beinasjúkdómar (MSDs) eru algengustu vinnutengdu sjúkdómarnir í Evrópu, herja á milljónir starfsmanna - einhvern tímann á ævinni munu allt að 90 prósent fólks þjást af bakverkjum, verkjum í efri limum, og endurteknum álagsverkjum.<br/><br/>  „Minnkaðu byrgðina“ styður við samþætta stjórnunaraðferð til að takast á við MSDs, og þörfina á að leggja áhersluna á „allt álagið á líkamann“, sem tekur til alls álagsins og spennunnar, umhverfisþátta á borð við kaldar vinnuaðstæður, vinnuhraðann, og þyngslin sem þarf að færa.<br/> Kvikmyndin sýnir Napo takast á við ólíkar vinnuaðstæður og hentar öllu starfsfólki, þar á meðal farands- og tímabundnu starfsfólki.  Ellefu þættir sýna dæmigerðar aðstæður á vinnustað."
+
+msgid "title_napo_film_9"
+msgstr "Napo í hættulegum viðskiptum"
+
+msgid "description_napo_film_9"
+msgstr "Áhættumat er þema evrópsku herferðarinnar 2008/09.  Hættuleg viðskipti er um hættur og áhættur á vinnustað og þörfina á að meta hættur og bregðast við niðurstöðunum til að gera vinnustaðinn öruggari og heilsusamlegri.  Kvikmyndin lítur á hættur og helstu áhættur á vinnustöðum, og þörfina á að: „Stöðva, hugsa og framkvæma“ til að draga úr fjölda slysa á vinnustað og tíðni atvinnusjúkdóma.  Kvikmyndin er ætluð til nota sem hluti að kynningu á áhættumati og hugtökunum hætta og áhætta." 
+
+msgid "title_napo_film_11"
+msgstr "Napo í: \ Öryggi á… og utan vinnu  \""
+
+msgid "description_napo_film_11"
+msgstr "<p>Þessi kvikmynd fjallar um Napo þar sem hann er fyrirmyndar starfsmaður.  Eftir vinnu hundsar hann hins vegar hættur og reglur, í ólíkum aðstæðum.  Þetta leiðir til margra tilfella þar sem litlu munar að slys verði og loks verður hann fyrir íþróttameiðslum og Napo endar á sjúkrahúsi.  Þessar aðstæður í frítíma ná yfir akstur, heimilið, lífsstíl, félagslíf og íþróttir.  Hægt er að niðurhala stuttu skyndiprófi á heimasíðunni (eða DVD), og er hægt að nota til að fara yfir nokkrar af reglunum með áheyrendum.</p><p>Helsti markhópur þessarar Napo myndar er starfsfólk fyrirtækis.  Ætlunin er að nota hana til umfjöllunar um að nýta frítíma sinn á öruggan hátt.  Kvikmyndin er einnig góð fyrir stjórnunarþjálfun í sambandi við viðveru- og fjarverustjórnun.</p>"
+
+
+msgid "label_napo_view_episodes"
+msgstr "Skoða þætti"
+
+msgid "label_napo_click_to_see_film"
+msgstr "Smelltu á mynd til að sjá kvikmynd…"
+
+msgid "label_napo_download_film_as"
+msgstr "Niðurhala þessari kvikmynd sem"
+
+msgid "label_napo_download_episode_as"
+msgstr "Niðurhala þessari kvikmynd sem"
+
+msgid "label_avi"
+msgstr "AVI "
+
+msgid "label_wmv"
+msgstr "WMV"
+
+msgid "label_or"
+msgstr "eða"
+
+
+
+# ---------- New Napo Film Number 12    Danger: Chemicals
+msgid "title_napo_film_12"
+msgstr "Napo í….Hætta: efni!" 
+
+msgid "description_napo_film_12"
+msgstr "<p>Þessi kvikmynd er endurgerð á þættinum um „Klór og þef – efnahættur á vinnustað“ sem framleidd var 2003.  Hún kynnir breytingar til að samræma skiltin (myndtákn) sem notuð eru í flutningum með hættulegan varning og skiltin sem notuð eru í vöruflokkun, merkingu og pakkningu (CLP) efna.  Þau sjö myndtákn sem til eru munu vera endurnýjuð og verða níu.</p><p>  Helstu dagsetningarnar eru:  1. desember 2010, þegar efni verða að vera endurflokkuð og merkt í samræmi við nýja alheimskerfið (GHS); og 1. júní 2015, þegar sami ferill verður notaður um blöndun (áður kallað undirbúningur). </p><p>  Napo tekur þátt í nokkrum stuttum atriðum þar sem hann vinnur með efni, þar á meðal þau sem eru ertandi, eldfim, eyðandi, eitruð eða hættuleg umhverfinu.  Hverju atriði fylgir stuttur þáttur þar sem sýnt er hvernig koma skuli í veg fyrir slys með öruggu vinnuverklagi.  Þessi kvikmynd hentar öllum sviðum og starfsmönnum á öllum stigum.  Markmiðið er að draga athyglina að mikilvægi þess að merkja efnavörur.  Eftir sprengingu í byrjun, koma sex þættir sem sýna rangar aðferðir með alvarlegum afleiðingum og svo réttar aðferðir þar sem öryggisleiðbeiningum er fylgt.</p>"  
+
+msgid "title_napo_episode_12_1"
+msgstr "Efnahættur á vinnustað"
+
+msgid "title_napo_episode_12_2"
+msgstr "Hættuleg"
+
+msgid "title_napo_episode_12_3"
+msgstr "Ertandi"
+
+msgid "title_napo_episode_12_4"
+msgstr "Eldfimt"
+
+msgid "title_napo_episode_12_5"
+msgstr "Eyðandi"
+
+msgid "title_napo_episode_12_6"
+msgstr "Eitrað"
+
+msgid "title_napo_episode_12_7"
+msgstr "Hættuleg umhverfinu"
+
+msgid "title_napo_episode_12_8"
+msgstr "-Endir"
+
+
+# ---------- New Napo Film Number 13    Protect your Skin
+msgid "title_napo_film_13"
+msgstr "Verndaðu húðina þína!"
+
+msgid "description_napo_film_13"
+msgstr "<p>Kvikmyndin vekur athygli á hversu hættulegt það getur verið að ber húð komist í snertingu við skaðleg (og stundum ekki mjög skaðleg) efni,  þær aðstæður sem húðin verður fyrir áhrifum, og hvað sé hægt að gera til að forðast hættur, vernda húðina og koma í veg fyrir skaða.  Napo lendir í ýmsum aðstæðum þar sem áhrif vegna efna geta valdið húðvandamálum.  Hann lærir um ótrúlega eiginlega húðarinnar, og er nakinn til að sýna áheyrendum: „Allt sem þú vildir alltaf vita um….húðina þína“.  Hann finnur lausnir til að koma í veg fyrir vandamál og er með þrenn mikilvæg skilaboð: Forðast – Vernda—Athuga.</p><p>Að forðast eða takmarka snertingu við efni við eyðingu - notaðu vélræna aðferð í stað efnaaðferðar; með því að nota eitthvað í staðinn - nota öruggari kostinn; og að vinna í öruggri fjarlægð - með tækjum í stað beinnar snertingar.  Hlífðarbúnaður (PPE) er gerður til að vernda húðina en Napo minnir okkur á mikilvægi þess að vernda húðina með því fjarlæga hættulegu efnin með skjótum hætti, að þvo húðina vel, þurrka vel og bera húðkrem á reglulega.  Loks mælir Napo með reglulegum skoðunum til að finna tímanlega vísbendingar um húðvandamál . </p>" 
+
+
+# ---------- New Napo Film Number 14   Safe Maintenance 
+msgid "title_napo_film_14"
+msgstr "Napo í …. Öruggt viðhald"
+
+msgid "description_napo_film_14"
+msgstr "<p>Lélegir viðhaldsstaðlar eru afar algeng orsök slysa og vinnutengdra sjúkdóma.  Mörg slys verða við viðhaldsvinnu, eða vegna skorts á viðhaldi eða vegna lélegs viðhalds.</p><p>  Þessi kvikmynd sýnir Napo í ýmsum aðstæðum; stundum er hann starfsmaður sem sinnir viðhaldsvinnu, í annan tíma er hann hefðbundin starfsmaður.  Við sjáum hversu mikilvægt það er að einangra eða „útskrá“ þegar viðhald á tækjum fer fram, vandamálin sem fylgja „földum hættum“, að vinna í lokuðu rými, og mikilvægi þess að hæfur aðili sjái um viðhaldsvinnuna, einkum athugun og prófun.</p> <p>Þessi kvikmynd, sem hentar öllum sviðum og starfsmönnum á öllum stigum, leitast við að efla góðar venjur og dregur athygli að því hversu öruggt viðhald er mikilvægt.</p>"  
+
+msgid "title_napo_episode_14_1"
+msgstr "Útskrá"
+
+msgid "title_napo_episode_14_2"
+msgstr "Faldar hættur"
+
+msgid "title_napo_episode_14_3"
+msgstr "Ekki leika af fingrum fram!"
+
+msgid "title_napo_episode_14_4"
+msgstr "Á hraðferð"
+
+msgid "title_napo_episode_14_5"
+msgstr "Hætta að innan!"
+
+msgid "title_napo_episode_14_6"
+msgstr "Einn, tveir, hvað skal gera?"
+
+
+#. Default: Date to be confirmed
+#: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
+msgid "label_date_to_be_confirmed" 
+msgstr "Dagsetning staðfest síðar"
+
+#. Default: TBC
+#: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
+msgid "abbr_date_to_be_confirmed" 
+msgstr "á eftir að staðfesta"
+
+
+
+
+
+

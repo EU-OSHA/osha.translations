@@ -1,0 +1,678 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-02-01 12:00+0100\n"
+"Last-Translator: EU\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: en\n"
+"Domain: osha-navigation\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Preferred-Encodings: UTF-8\n"
+"X-Is-Fallback-For: en-au en-bz en-ca en-ie en-jm en-nz en-ph en-za en-tt en-gb en-us en-zw\n"
+"Language-Name: English\n"
+
+#. Menu
+msgid "osha_nav_title_navigation"
+msgstr "Menu"
+
+#. About Us
+msgid "osha_nav_title_about_us"
+msgstr "About Us"
+
+#. About the Agency, the director, job vacancies, calls for tenders,
+#. partners...
+msgid "osha_nav_description_about_us"
+msgstr "About the Agency, the director, job vacancies, calls for tenders, partners..."
+
+#. Who we are and what we do
+msgid "osha_nav_title_navigation_link.2006-12-11.9313292189"
+msgstr "Who we are and what we do"
+
+#. How we are organised
+msgid "osha_nav_title_navigation_link.2006-12-11.9680652044"
+msgstr "How we are organised"
+
+#. How we work with our partners
+msgid "osha_nav_title_navigation_link.2006-12-11.0084311637"
+msgstr "How we work with our partners"
+
+#. Director's corner
+msgid "osha_nav_title_director_corner"
+msgstr "Director's corner"
+
+#. Job vacancies
+msgid "osha_nav_title_jobs"
+msgstr "Job vacancies"
+
+#. Doing business with us
+msgid "osha_nav_title_calls"
+msgstr "Doing business with us"
+
+#. Contact us
+msgid "osha_nav_title_navigation_link.2006-12-11.0774460327"
+msgstr "Contact us"
+
+#. Good Practice
+msgid "osha_nav_title_good_practice"
+msgstr "Good Practice"
+
+#. Information on good health and safety practice at the workplace...
+msgid "osha_nav_description_good_practice"
+msgstr "Information on good health and safety practice at the workplace..."
+
+#. Good Practice Awards 2007
+msgid "osha_nav_title_awards_2007"
+msgstr "Good Practice Awards 2007"
+
+#. Good Practice Awards 2007
+msgid "osha_nav_description_awards_2007"
+msgstr "Good Practice Awards 2007"
+
+#. OSH Discussion Forum
+msgid "osha_nav_title_forums"
+msgstr "OSH Discussion Forum"
+
+#. OSH Discussion Forum
+msgid "osha_nav_description_forums"
+msgstr "OSH Discussion Forum"
+
+#. Provider
+msgid "osha_nav_title_provider"
+msgstr "Provider"
+
+#. Good practice information provider
+msgid "osha_nav_description_provider"
+msgstr "Good practice information provider"
+
+#. Implementation Strategies
+msgid "osha_nav_title_implementation"
+msgstr "Implementation Strategies"
+
+#. Systematic approaches for use in the workplace to reduce risk.
+msgid "osha_nav_description_implementation"
+msgstr "Systematic approaches for use in the workplace to reduce risk."
+
+#. Sectors
+msgid "osha_nav_title_sector"
+msgstr "Sectors"
+
+#. Good practice information by sector
+msgid "osha_nav_description_sector"
+msgstr "Good practice information by sector"
+
+#. European Risk Observatory
+msgid "osha_nav_title_risk_obs"
+msgstr "European Risk Observatory"
+
+#. Overview of Occupational Safety and Health in Europe, trends, risk factors,
+#. anticipation of changes...
+msgid "osha_nav_description_risk_obs"
+msgstr "Overview of Occupational Safety and Health in Europe, trends, risk factors, anticipation of changes..."
+
+#. Topics
+msgid "osha_nav_title_topics"
+msgstr "Topics"
+
+#. Accident prevention, Business, SME, Workplace health promotion, MSDs...
+msgid "osha_nav_description_topics"
+msgstr "Accident prevention, Business, SME, Workplace health promotion, MSDs..."
+
+#. Accident Prevention
+msgid "osha_nav_title_Accident Prevention"
+msgstr "Accident Prevention"
+
+#. Accident Prevention
+msgid "osha_nav_description_Accident Prevention"
+msgstr "Accident Prevention"
+
+#. Business aspects of OSH
+msgid "osha_nav_title_business"
+msgstr "Business aspects of OSH"
+
+#. Business aspects of OSH
+msgid "osha_nav_description_business"
+msgstr "Business aspects of OSH"
+
+#. Changing World of Work
+msgid "osha_nav_title_change"
+msgstr "Changing World of Work"
+
+#. Changing World of Work
+msgid "osha_nav_description_change"
+msgstr "Changing World of Work"
+
+#. Dangerous Substances
+msgid "osha_nav_title_ds"
+msgstr "Dangerous Substances"
+
+#. Dangerous Substances
+msgid "osha_nav_description_ds"
+msgstr "Dangerous Substances"
+
+#. Mainstreaming OSH into Education
+msgid "osha_nav_title_osheducation"
+msgstr "Mainstreaming OSH into Education"
+
+#. Mainstreaming OSH into Education
+msgid "osha_nav_description_osheducation"
+msgstr "Mainstreaming OSH into Education"
+
+#. Musculoskeletal Disorders
+msgid "osha_nav_title_msds"
+msgstr "Musculoskeletal Disorders"
+
+#. Musculoskeletal Disorders
+msgid "osha_nav_description_msds"
+msgstr "Musculoskeletal Disorders"
+
+#. Noise
+msgid "osha_nav_title_noise"
+msgstr "Noise at work"
+
+#. Noise
+msgid "osha_nav_description_noise"
+msgstr "Noise at work"
+
+#. Stress and psychosocial risks
+msgid "osha_nav_title_stress"
+msgstr "Stress and psychosocial risks"
+
+#. Stress and psychosocial risks
+msgid "osha_nav_description_stress"
+msgstr "Stress and psychosocial risks"
+
+#. Workplace Health Promotion
+msgid "osha_nav_title_whp"
+msgstr "Workplace Health Promotion"
+
+#. Workplace Health Promotion
+msgid "osha_nav_description_whp"
+msgstr "Workplace Health Promotion"
+
+#. Sectors
+msgid "osha_nav_title_sectors"
+msgstr "Sectors"
+
+#. Agriculture, construction, fisheries, health care, education...
+msgid "osha_nav_description_sectors"
+msgstr "Agriculture, construction, fisheries, health care, education..."
+
+#. Agriculture
+msgid "osha_nav_title_agriculture"
+msgstr "Agriculture"
+
+#. Agriculture
+msgid "osha_nav_description_agriculture"
+msgstr "Agriculture"
+
+#. Construction
+msgid "osha_nav_title_construction"
+msgstr "Construction"
+
+#. Education
+msgid "osha_nav_title_education"
+msgstr "Education"
+
+#. Fisheries
+msgid "osha_nav_title_fisheries"
+msgstr "Fisheries"
+
+#. Health Care
+msgid "osha_nav_title_healthcare"
+msgstr "Health Care"
+
+#. Priority Groups
+msgid "osha_nav_title_priority_groups"
+msgstr "Priority Groups"
+
+#. People with disabilities, women, young people, SME...
+msgid "osha_nav_description_priority_groups"
+msgstr "People with disabilities, women, young people, SME..."
+
+#. Ageing Workers
+msgid "osha_nav_title_ageingworkers"
+msgstr "Ageing Workers"
+
+#. Ageing Workers
+msgid "osha_nav_description_ageingworkers"
+msgstr "Ageing Workers"
+
+#. People with disabilities
+msgid "osha_nav_title_disability"
+msgstr "People with disabilities"
+
+#. People with disabilities
+msgid "osha_nav_description_disability"
+msgstr "People with disabilities"
+
+#. SME's
+msgid "osha_nav_title_sme"
+msgstr "SME's"
+
+#. Small and Medium Enterprises
+msgid "osha_nav_description_sme"
+msgstr "Small and Medium Enterprises"
+
+#. Women and health at work
+msgid "osha_nav_title_gender"
+msgstr "Women and health at work"
+
+#. Women and health at work
+msgid "osha_nav_description_gender"
+msgstr "Women and health at work"
+
+#. Young People
+msgid "osha_nav_title_young_people"
+msgstr "Young People"
+
+#. Young people
+msgid "osha_nav_description_young_people"
+msgstr "Young people"
+
+#. Campaigns
+msgid "osha_nav_title_campaigns"
+msgstr "Campaigns"
+
+#. European Week, Healthy Workplace Initiative...
+msgid "osha_nav_description_campaigns"
+msgstr "European Week, Healthy Workplace Initiative..."
+
+#. Press Room
+msgid "osha_nav_title_press_room"
+msgstr "Press Room"
+
+#. Press releases...
+msgid "osha_nav_description_press_room"
+msgstr "Press releases..."
+
+#. Publications
+msgid "osha_nav_title_publications"
+msgstr "Publications"
+
+#. Factsheets, e-facts, reports, forum, magazine...
+msgid "osha_nav_description_publications"
+msgstr "Factsheets, e-facts, reports, forum, magazine..."
+
+#. Magazines
+msgid "osha_nav_title_magazine"
+msgstr "Magazines"
+
+#. Factsheets
+msgid "osha_nav_title_factsheets"
+msgstr "Factsheets"
+
+#. E-facts
+msgid "osha_nav_title_efacs"
+msgstr "E-facts"
+
+#. Reports
+msgid "osha_nav_title_reports"
+msgstr "Reports"
+
+#. Forums
+msgid "osha_nav_title_forum"
+msgstr "Forums"
+
+#. Conference proceedings
+msgid "osha_nav_title_conference"
+msgstr "Conference proceedings"
+
+#. Annual reports
+msgid "osha_nav_title_annual_report"
+msgstr "Annual reports"
+
+#. Work programmes
+msgid "osha_nav_title_work_programmes"
+msgstr "Work programmes"
+
+#. Evaluation reports
+msgid "osha_nav_title_evaluation_reports"
+msgstr "Evaluation reports"
+
+#. Overview of Occupational Safety and Health in Europe, trends, risk factors,
+#. anticipation of changes...
+msgid "osha_nav_description_research"
+msgstr "Overview of Occupational Safety and Health in Europe, trends, risk factors, anticipation of changes..."
+
+#. Framework Programme
+msgid "osha_nav_title_framework"
+msgstr "Framework Programme"
+
+#. Guide to the Occupational Safety and Health aspects of the EU 6th Framework
+#. Programme on Research
+msgid "osha_nav_description_framework"
+msgstr "Guide to the Occupational Safety and Health aspects of the EU 6th Framework Programme on Research"
+
+#. Background
+msgid "osha_nav_title_background"
+msgstr "Background"
+
+#. Background
+msgid "osha_nav_description_background"
+msgstr "Background"
+
+#. Research Institutions
+msgid "osha_nav_title_institutions"
+msgstr "Research Institutions"
+
+#. Research Institutions
+msgid "osha_nav_description_institutions"
+msgstr "Research Institutions"
+
+#. Research Funding
+msgid "osha_nav_title_funding"
+msgstr "Research Funding"
+
+#. Research Funding
+msgid "osha_nav_description_funding"
+msgstr "Research Funding"
+
+#. Research Programmes and Projects
+msgid "osha_nav_title_projects"
+msgstr "Research Programmes and Projects"
+
+#. Research Programmes and Projects
+msgid "osha_nav_description_projects"
+msgstr "Research Programmes and Projects"
+
+#. Research Publications
+msgid "osha_nav_title_rpublications"
+msgstr "Research Publications"
+
+#. Research Publications
+msgid "osha_nav_description_rpublications"
+msgstr "Research Publications"
+
+#. Specific Research Topics
+msgid "osha_nav_title_rtopics"
+msgstr "Specific Research Topics"
+
+#. Specific Research Topics
+msgid "osha_nav_description_rtopics"
+msgstr "Specific Research Topics"
+
+#. Legislation
+msgid "osha_nav_title_legislation"
+msgstr "Legislation"
+
+#. European legislation on Occupational Safety and Health...
+msgid "osha_nav_description_legislation"
+msgstr "European legislation on Occupational Safety and Health..."
+
+#. European Legislation
+msgid "osha_nav_title_eulegislation"
+msgstr "European Legislation"
+
+#. European Legislation
+msgid "osha_nav_description_eulegislation"
+msgstr "European Legislation"
+
+#. European Legislation - Directives
+msgid "osha_nav_title_directives"
+msgstr "European Legislation - Directives"
+
+#. EU directices
+msgid "osha_nav_description_directives"
+msgstr "EU directices"
+
+#. European Legislation - EU Proposals
+msgid "osha_nav_title_proposals"
+msgstr "European Legislation - EU Proposals"
+
+#. Proposals for directives
+msgid "osha_nav_description_proposals"
+msgstr "Proposals for directives"
+
+#. European Legislation - Standards
+msgid "osha_nav_title_standards"
+msgstr "European Legislation - Standards"
+
+#. OSH standards
+msgid "osha_nav_description_standards"
+msgstr "OSH standards"
+
+#. European Legislation - Guidelines
+msgid "osha_nav_title_guidelines"
+msgstr "European Legislation - Guidelines"
+
+#. OSH guidelines related to legislation
+msgid "osha_nav_description_guidelines"
+msgstr "OSH guidelines related to legislation"
+
+#. European OSH Statistics
+msgid "osha_nav_title_statistics"
+msgstr "European OSH Statistics"
+
+#. European OSH Statistics
+msgid "osha_nav_description_statistics"
+msgstr "European OSH Statistics"
+
+#. European OSH Surveys
+msgid "osha_nav_title_surveys"
+msgstr "European OSH Surveys"
+
+#. European OSH Surveys
+msgid "osha_nav_description_surveys"
+msgstr "European OSH Surveys"
+
+#. Other related information
+msgid "osha_nav_title_other"
+msgstr "Other related information"
+
+#. Other related information
+msgid "osha_nav_description_other"
+msgstr "Other related information"
+
+#. International statistics
+msgid "osha_nav_title_istatistics"
+msgstr "International statistics"
+
+#. Information about international OSH statistics, e.g. ILO, WHO.
+msgid "osha_nav_description_istatistics"
+msgstr "Information about international OSH statistics, e.g. ILO, WHO."
+
+#. International surveys
+msgid "osha_nav_title_isurveys"
+msgstr "International surveys"
+
+#. International surveys
+msgid "osha_nav_description_isurveys"
+msgstr "International surveys"
+
+#. Non-EU statistics
+msgid "osha_nav_title_noneu_statistics"
+msgstr "Non-EU statistics"
+
+#. Non-EU statistics
+msgid "osha_nav_description_noneu_statistics"
+msgstr "Non-EU statistics"
+
+#. Non-EU Surveys
+msgid "osha_nav_title_noneu_surveys"
+msgstr "Non-EU Surveys"
+
+#. Non-EU Surveys
+msgid "osha_nav_description_noneu_surveys"
+msgstr "Non-EU Surveys"
+
+#. Other related international information
+msgid "osha_nav_title_other_iinfo"
+msgstr "Other related international information"
+
+#. Other related international information
+msgid "osha_nav_description_other_iinfo"
+msgstr "Other related international information"
+
+#. Systems
+msgid "osha_nav_title_systems"
+msgstr "Systems"
+
+#. OSH Systems, organisations, programmes and strategies
+msgid "osha_nav_description_systems"
+msgstr "OSH Systems, organisations, programmes and strategies"
+
+#. OSH Systems
+msgid "osha_nav_title_osh_systems"
+msgstr "OSH Systems"
+
+#. OSH systems
+msgid "osha_nav_description_osh_systems"
+msgstr "OSH systems"
+
+#. OSH Monitoring Systems
+msgid "osha_nav_title_osm"
+msgstr "OSH Monitoring Systems"
+
+#. OSH Monitoring Systems
+msgid "osha_nav_description_osm"
+msgstr "OSH Monitoring Systems"
+
+#. Institutions/ Organisations
+msgid "osha_nav_title_organisations"
+msgstr "Institutions/ Organisations"
+
+#. OSH institutions/organisations
+msgid "osha_nav_description_organisations"
+msgstr "OSH institutions/organisations"
+
+#. OSH Strategies
+msgid "osha_nav_title_strategies"
+msgstr "OSH Strategies"
+
+#. OSH Strategies
+msgid "osha_nav_description_strategies"
+msgstr "OSH Strategies"
+
+#. OSH Programmes
+msgid "osha_nav_title_programmes"
+msgstr "OSH Programmes"
+
+#. OSH Programmes
+msgid "osha_nav_description_programmes"
+msgstr "OSH Programmes"
+
+#. Future community strategy on safety and health at work
+msgid "osha_nav_title_osh_strategy"
+msgstr "Future community strategy on safety and health at work"
+
+#. Information related to the future community strategy on safety and health
+#. at work.
+msgid "osha_nav_description_osh_strategy"
+msgstr "Information related to the future community strategy on safety and health at work."
+
+#. International systems
+msgid "osha_nav_title_int_systems"
+msgstr "International systems"
+
+#. This section provides information on key international and Non-EU systems
+#. in the field of safety and health at work.
+msgid "osha_nav_description_int_systems"
+msgstr "This section provides information on key international and Non-EU systems in the field of safety and health at work."
+
+#. Systems in Non-EU countries
+msgid "osha_nav_title_non_eu_systems"
+msgstr "Systems in Non-EU countries"
+
+#. Non-EU systems
+msgid "osha_nav_description_non_eu_systems"
+msgstr "Non-EU systems"
+
+#. International institutions and organisations
+msgid "osha_nav_title_int_institutions"
+msgstr "International institutions and organisations"
+
+#. This page provides information on key non-EU countries' administrations,
+#. organisations and institutions in the field of safety and health at work.
+#. Below you find a list of relevant organisations and links to the each
+#. organisation's Internet service. There are also descriptions of each
+#. organisation's activities related to safety and health at work.
+msgid "osha_nav_description_int_institutions"
+msgstr "This page provides information on key non-EU countries' administrations, organisations and institutions in the field of safety and health at work. Below you find a list of relevant organisations and links to the each organisation's Internet service. There are also descriptions of each organisation's activities related to safety and health at work."
+
+#. Institutions and organisations in Non-EU countries
+msgid "osha_nav_title_non_eu_institutions"
+msgstr "Institutions and organisations in Non-EU countries"
+
+#. Non-EU Institutions/organisations
+msgid "osha_nav_description_non_eu_institutions"
+msgstr "Non-EU Institutions/organisations"
+
+#. International strategies
+msgid "osha_nav_title_int_strategies"
+msgstr "International strategies"
+
+#. This section provides information on key Non-EU strategies in the field of
+#. safety and health at work.
+msgid "osha_nav_description_int_strategies"
+msgstr "This section provides information on key Non-EU strategies in the field of safety and health at work."
+
+#. Strategies in Non-EU countries
+msgid "osha_nav_title_non_eu_strategies"
+msgstr "Strategies in Non-EU countries"
+
+#. Non-EU strategies
+msgid "osha_nav_description_non_eu_strategies"
+msgstr "Non-EU strategies"
+
+#. International programmes
+msgid "osha_nav_title_int_programmes"
+msgstr "International programmes"
+
+#. This section provides information on key international and Non-EU
+#. programmes in the field of safety and health at work.
+msgid "osha_nav_description_int_programmes"
+msgstr "This section provides information on key international and Non-EU programmes in the field of safety and health at work."
+
+#. Programmes in Non-EU countries
+msgid "osha_nav_title_non_eu_programmes"
+msgstr "Programmes in Non-EU countries"
+
+#. Non-EU programmes
+msgid "osha_nav_description_non_eu_programmes"
+msgstr "Non-EU programmes"
+
+#. Emerging Risks
+msgid "osha_nav_title_risks"
+msgstr "Emerging Risks"
+
+#. Emerging Risks
+msgid "osha_nav_description_risks"
+msgstr "Emerging Risks"
+
+#. Chemical
+msgid "osha_nav_title_chemical"
+msgstr "Chemical"
+
+#. Emerging Risks
+msgid "osha_nav_description_chemical"
+msgstr "Emerging Risks"
+
+#. Biological
+msgid "osha_nav_title_biological"
+msgstr "Biological"
+
+#. Emerging Risks
+msgid "osha_nav_description_biological"
+msgstr "Emerging Risks"
+
+#. Physical
+msgid "osha_nav_title_physical"
+msgstr "Physical"
+
+#. Emerging Risks
+msgid "osha_nav_description_physical"
+msgstr "Emerging Risks"
+
+#. Psychosocial/organisational
+msgid "osha_nav_title_psycho"
+msgstr "Psychosocial/organisational"
+
+#. Emerging Risks
+msgid "osha_nav_description_psycho"
+msgstr "Emerging Risks"

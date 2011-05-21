@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: en-au en-bz en-ca en-ie en-jm en-nz en-ph en-za en-tt en-gb en-us en-zw\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQ Zone"
+
+msgid "Discover Safe Start "
+msgstr "Discover Safe Start"
+
+msgid "Why RISQ it?"
+msgstr "Why RISQ it?"
+
+msgid "What can you RISQ?"
+msgstr "What can you RISQ?"
+
+msgid "Competitions"
+msgstr "Competitions"
+
+msgid "On the edge of safety"
+msgstr "On the edge of safety"
+
+# animations
+msgid "anim_restart"
+msgstr "Restart"
+
+msgid "anim01_message_01"
+msgstr "Check the foot of your ladder before you start to climb."
+
+msgid "anim01_message_02"
+msgstr "Get the ladder at the correct angle to the wall."
+
+msgid "anim01_message_03"
+msgstr "Always have someone at the foot of a tall ladder."
+
+msgid "anim01_end"
+msgstr "Watch out - don´t fall for it"
+
+msgid "anim02_end"
+msgstr "Watch out - don´t fall for it"
+
+msgid "anim03_message_01"
+msgstr "Don´t work in unsafe or unsuitable conditions"
+
+msgid "anim03_message_02"
+msgstr "Don´t be afraid to ask for help"
+
+msgid "anim03_end"
+msgstr "Watch out - Don't suffer in silence!"
+
+msgid "anim04_message_01"
+msgstr "Think before you lift and carry anything"
+
+msgid "anim04_message_02"
+msgstr "Use the equipment provided"
+
+msgid "anim04_message_03"
+msgstr "Always try to lighten the load"
+
+msgid "anim04_end"
+msgstr "Watch out - Backs only break once"
+
+msgid "anim02_message_01"
+msgstr "Don´t work in the dark"
+
+msgid "anim02_message_02"
+msgstr "Don´t improvise if it puts safety at risk"

@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sk\n"
+"Language-Name: Slovenčina\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Zóna RISQ"
+
+msgid "Discover Safe Start "
+msgstr "Oboznámte sa s Bezpečným štartom"
+
+msgid "Why RISQ it?"
+msgstr "Prečo RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Čo môžete RISQ?"
+
+msgid "Competitions"
+msgstr "Súťaže"
+
+msgid "On the edge of safety"
+msgstr "Na pokraji bezpečnosti"
+
+# animations
+msgid "anim_restart"
+msgstr "Reštartovať"
+
+msgid "anim01_message_01"
+msgstr "Pred výstupom na rebrík skontroluj jeho stupienky"
+
+msgid "anim01_message_02"
+msgstr "Opri rebrík o stenu v správnom uhle"
+
+msgid "anim01_message_03"
+msgstr "Vysoký rebrík musí dolu vždy niekto pridržiavať"
+
+msgid "anim01_end"
+msgstr "„Dávaj si pozor – nespadni“"
+
+msgid "anim02_end"
+msgstr "„Dávaj si pozor – nespadni“"
+
+msgid "anim03_message_01"
+msgstr "Nepracuj v nebezpečných alebo nevhodných podmienkach"
+
+msgid "anim03_message_02"
+msgstr "Neváhaj požiadať o pomoc"
+
+msgid "anim03_end"
+msgstr "„Konaj – netráp sa v tichosti“"
+
+msgid "anim04_message_01"
+msgstr "Pred naložením a nosením nákladov popremýšľaj"
+
+msgid "anim04_message_02"
+msgstr "Používaj poskytnuté pomôcky"
+
+msgid "anim04_message_03"
+msgstr "Vždy sa usiluj odľahčiť náklad"
+
+msgid "anim04_end"
+msgstr "„Buď opatrný – poranenia chrbta môžu byť osudné"
+
+msgid "anim02_message_01"
+msgstr "Nepracuj v tme"
+
+msgid "anim02_message_02"
+msgstr "Neimprovizuj, ak by sa tým mala ohroziť bezpečnosť"

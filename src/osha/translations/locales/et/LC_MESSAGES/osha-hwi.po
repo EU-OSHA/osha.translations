@@ -1,0 +1,163 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 18:02+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: et\n"
+"Language-Name: Estonian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-hwi\n"
+
+
+msgid "osha_nav_title_nav_getinvolved"
+msgstr "Kui soovite osaleda"
+
+msgid "osha_nav_description_nav_getinvolved"
+msgstr ""
+
+msgid "osha_nav_title_osh_in_your_company"
+msgstr "OSH in your company"
+
+msgid "osha_nav_description_osh_in_your_company"
+msgstr ""
+
+msgid "osha_nav_title_for_employers"
+msgstr "For employers"
+
+msgid "osha_nav_description_for_employers"
+msgstr ""
+
+msgid "osha_nav_title_copy_of_for_employees"
+msgstr "For employees"
+
+msgid "osha_nav_description_copy_of_for_employees"
+msgstr ""
+
+msgid "osha_nav_title_campaignmaterials"
+msgstr "Kampaania materjalid"
+
+msgid "osha_nav_description_campaignmaterials"
+msgstr ""
+
+msgid "osha_nav_title_press_room"
+msgstr "Pressinurk"
+
+msgid "osha_nav_description_press_room"
+msgstr ""
+
+msgid "osha_nav_title_events"
+msgstr "Võta osa tasuta seminarist"
+
+msgid "osha_nav_description_events"
+msgstr ""
+
+msgid "osha_nav_title_nav_gp_info"
+msgstr "Good Practice Information"
+
+msgid "osha_nav_description_nav_gp_info"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-03-10.2220318834"
+msgstr ""
+
+msgid "osha_nav_description_navigation_link.2006-03-10.2220318834"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-03-10.2238751670"
+msgstr ""
+
+msgid "osha_nav_description_navigation_link.2006-03-10.2238751670"
+msgstr ""
+
+msgid "osha_nav_title_agriculture"
+msgstr "Agriculture"
+
+msgid "osha_nav_description_agriculture"
+msgstr ""
+
+msgid "osha_nav_title_construction"
+msgstr "Construction"
+
+msgid "osha_nav_description_construction"
+msgstr ""
+
+msgid "osha_nav_title_nav_hwi_topics"
+msgstr "Teemad"
+
+msgid "osha_nav_description_nav_hwi_topics"
+msgstr ""
+
+msgid "osha_nav_title_integration_peoplewithdisabilities"
+msgstr "Puuetega inimeste lõimimine ja tööl hoidmine"
+
+msgid "osha_nav_description_integration_peoplewithdisabilities"
+msgstr ""
+
+msgid "osha_nav_title_prevention_biologicalhazards"
+msgstr "Bioloogiliste ohtude ennetamine"
+
+msgid "osha_nav_description_prevention_biologicalhazards"
+msgstr ""
+
+msgid "osha_nav_title_prevention_violence"
+msgstr "Vägivalla ja ahistamise ennetamine töökohal"
+
+msgid "osha_nav_description_prevention_violence"
+msgstr ""
+
+msgid "osha_nav_title_nav_partners"
+msgstr "Kampaania partnerid"
+
+msgid "osha_nav_description_nav_partners"
+msgstr ""
+
+msgid "osha_nav_title_partners_campaign"
+msgstr "Riiklikud teabekeskused"
+
+msgid "osha_nav_description_partners_campaign"
+msgstr ""
+
+msgid "osha_nav_title_partners_SME"
+msgstr "Euroopa teabekeskused"
+
+msgid "osha_nav_description_partners_SME"
+msgstr ""
+
+msgid "osha_nav_title_other_contacts"
+msgstr "Riikide muud kasulikud kontaktpunktid"
+
+msgid "osha_nav_description_other_contacts"
+msgstr ""
+
+msgid "osha_nav_title_navigation"
+msgstr "Riskihindamise peamised põhimõtted"
+
+msgid "osha_nav_description_navigation"
+msgstr ""
+
+msgid "osha_nav_title_risk_assessment_essentials"
+msgstr "Tervisliku töökeskkonna programmi riskihindamise kontroll-loendid"
+
+msgid "osha_nav_description_risk_assessment_essentials"
+msgstr ""
+
+msgid "osha_nav_title_checklists"
+msgstr "Muude allikate kontroll-loendid"
+
+msgid "osha_nav_description_checklists"
+msgstr ""
+
+msgid "osha_nav_title_brochure"
+msgstr "Brošüür tööohutuse ja -tervishoiu peamiste põhimõtete kohta"
+
+msgid "osha_nav_description_brochure"
+msgstr ""
+

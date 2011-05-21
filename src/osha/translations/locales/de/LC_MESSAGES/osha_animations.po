@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: de\n"
+"Language-Name: Deutsch\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQ-Zone"
+
+msgid "Discover Safe Start "
+msgstr "Entdecke den sicheren Start"
+
+msgid "Why RISQ it?"
+msgstr "Warum das RISQ eingehen?"
+
+msgid "What can you RISQ?"
+msgstr "Welches ist Dein RISQ?"
+
+msgid "Competitions"
+msgstr "Wettbewerbe"
+
+msgid "On the edge of safety"
+msgstr "Am Rande der Sicherheit"
+
+# animations
+msgid "anim_restart"
+msgstr "Neu starten"
+
+msgid "anim01_message_01"
+msgstr "Prüfe den Stand deiner Leiter vor dem Hinaufsteigen"
+
+msgid "anim01_message_02"
+msgstr "Lehne die Leiter im richtigen Winkel an die Wand"
+
+msgid "anim01_message_03"
+msgstr "Habe immer jemand am Fuße einer langen Leiter"
+
+msgid "anim01_end"
+msgstr "„Pass auf – noch einmal gut gegangen!“"
+
+msgid "anim02_end"
+msgstr "„Pass auf – noch einmal gut gegangen!“"
+
+msgid "anim03_message_01"
+msgstr "Arbeite nicht unter unsicheren oder ungünstigen Bedingungen"
+
+msgid "anim03_message_02"
+msgstr "Scheue Dich nicht, um Hilfe zu bitten"
+
+msgid "anim03_end"
+msgstr "„Hab Acht – nicht im Stillen ausharren“"
+
+msgid "anim04_message_01"
+msgstr "Denk nach, bevor du etwas hochhebst oder trägst"
+
+msgid "anim04_message_02"
+msgstr "Verwende die bereit gestellte Ausrüstung"
+
+msgid "anim04_message_03"
+msgstr "Versuche, immer die Last zu verringern"
+
+msgid "anim04_end"
+msgstr "„Pass auf – ein Rücken bricht nur einmal!“"
+
+msgid "anim02_message_01"
+msgstr "Arbeite nicht im Dunkeln"
+
+msgid "anim02_message_02"
+msgstr "Improvisiere nicht, wenn die Sicherheit gefährdet ist"

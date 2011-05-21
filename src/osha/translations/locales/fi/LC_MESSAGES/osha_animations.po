@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: fi\n"
+"Language-Name: Suomeksi\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQivyöhyke"
+
+msgid "Discover Safe Start "
+msgstr "Löydä hyvä startti"
+
+msgid "Why RISQ it?"
+msgstr "Miksi ottaisit RISQin?"
+
+msgid "What can you RISQ?"
+msgstr "Mitä RISQejä voit kohdata?"
+
+msgid "Competitions"
+msgstr "Kilpailut"
+
+msgid "On the edge of safety"
+msgstr "Turvallisuuden rajoilla"
+
+# animations
+msgid "anim_restart"
+msgstr "Käynnistä uudelleen"
+
+msgid "anim01_message_01"
+msgstr "Tarkista tikkaittesi alaosa ennen kuin alat kiivetä"
+
+msgid "anim01_message_02"
+msgstr "Laita tikkaat oikeaan kulmaan seinään nähden"
+
+msgid "anim01_message_03"
+msgstr "Huolehdi siitä, että korkeiden tikkaiden alapäässä on aina joku"
+
+msgid "anim01_end"
+msgstr ".Varo – älä putoa!"
+
+msgid "anim02_end"
+msgstr ".Varo – älä putoa!"
+
+msgid "anim03_message_01"
+msgstr "Älä työskentele turvattomissa tai epäasianmukaisissa oloissa"
+
+msgid "anim03_message_02"
+msgstr "Älä arkaile pyytää apua"
+
+msgid "anim03_end"
+msgstr "Varo – älä kärsi vaiti"
+
+msgid "anim04_message_01"
+msgstr "Harkitse, ennen kuin nostat ja kannat mitään"
+
+msgid "anim04_message_02"
+msgstr "Käytä annettuja varusteita"
+
+msgid "anim04_message_03"
+msgstr "Pyri aina keventämään taakkaa"
+
+msgid "anim04_end"
+msgstr "Varo – selkä murtuu vain kerran"
+
+msgid "anim02_message_01"
+msgstr "Älä työskentele pimeässä"
+
+msgid "anim02_message_02"
+msgstr "Älä keksi mitään omin päin, jos turvallisuus vaarantuu sen vuoksi"

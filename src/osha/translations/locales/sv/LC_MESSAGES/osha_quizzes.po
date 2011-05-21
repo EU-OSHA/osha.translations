@@ -1,0 +1,671 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sv\n"
+"Language-Name: Svenska\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Laddar"
+
+msgid "score_label"
+msgstr "Din poäng:"
+
+msgid "restart_label"
+msgstr "Börja om"
+
+msgid "true"
+msgstr "Sant"
+
+msgid "false"
+msgstr "Falskt"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "no"
+msgstr "Nej"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Flytta tecknet till rätt ställe)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Frågetest om buller"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Hur mycket vet du om buller? Gör det här snabba frågetestet"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Att ha på sig öronskydd är bättre än att försöka åtgärda bullret?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Det går bra att arbeta i 100 decibel hela dagen"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Nedsatt hörsel drabbar bara äldre människor"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Vem som helst kan mäta buller bara genom att lyssna"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Öronsusningar bör vara en varningsklocka"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Frekvens avser bullrets intensitet(styrka)"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Nedsatt hörsel uppstår snabbt"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Öronskydd eller öronproppar ska bara användas som en sista utväg"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Se upp! Du kan få nedsatt hörsel om du inte skyddar den."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Handla nu! Det är en del du behöver veta om att skydda din hörsel."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Du är idel öra! Det är tydligt att du vet hur man skyddar sin hörsel."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Frågetest om ansvar"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Är det ditt ansvar att göra följande?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Du ska skydda din egen hälsa och säkerhet."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Det är ditt ansvar att skydda din hälsa och säkerhet i  enlighet med de anvisningar och den utbildning du fått. Det är ingen annans ansvar om du låter bli att följa anvisningar eller beter dig dumt eller vårdslöst."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Du ska i den mån det är möjligt skydda andra människor i din närhet i enlighet med de anvisningar och den utbildning du fått."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Ditt beteende kan påverka andras hälsa och säkerhet. Detta kan ske direkt genom något du gör eller indirekt genom saker du låter bli att göra."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Det bästa sättet att lära sig använda ny utrustning är att själv pröva sig fram."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Om du ombeds att använda utrustning bör du få se hur man använder den säkert. OM DU ÄR TVEKSAM - FRÅGA."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Du ska samarbeta med dina chefer och arbetsledare."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Det är arbetsgivarens ansvar att skapa en säker arbetsmiljö, men ditt ansvar att använda utrustningen rätt och följa anvisningarna."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Om du ser en risk, undvik och bortse från den. Det är någon annans uppgift att rapportera och åtgärda den."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Det ska finnas rutiner för att rapportera eventuella risker. Du kan till exempel informellt nämna dem för din arbetsledare eller använda dig av mer formella rapporteringssätt. VAR ALDRIG RÄDD ATT TA UPP NÅGOT - spill, halt golv, en bristfällig stickkontakt eller något annat som du anser bör nämnas."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Du måste känna till all arbetsmiljölagstiftning innan du börjar arbeta."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Detta är inget krav, men det är bra att veta något. Se resurserna på denna webbplats."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Du måste följa alla anvisningar, skyltar och regler som finns på arbetsplatsen."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Enligt lagen ska varningsskyltar finnas i skyddssyfte. Det är ditt ansvar att uppmärksamma och följa dem."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Du ska tillhandahålla och bekosta skyddskläder och utrustning som du behöver för att arbeta säkert."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Din arbetsgivare ska kostnadsfritt tillhandahålla den skyddsutrustning som krävs för säkerhet på arbetet (skyddshjälmar, masker, handskar, ytterkläder, skyddsstövlar osv.). Du ska använda denna personliga skyddsutrustning rätt och lämna tillbaka den till rätt ställe efteråt."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Hög risk - du riskerar att råka ut för en olycka."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Medelhög risk - en ganska bra start, men du har mer att lära."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Låg risk - du får en säker start - bra gjort!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Frågetest om arbetsgivare"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Din chef ska..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Erbjuda en säker arbetsmiljö (arbetsplats) och säkra arbetsmetoder som inte innebär några hälsorisker."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Se till att varor och ämnen används, hanteras, lagras och transporteras säkert och utan risk för någons hälsa."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Ge information, anvisningar, utbildning och handledning i arbetsmiljöfrågor till alla sina anställda."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Se till att arbetsplatsen är säker och hälsosam."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Göra riskbedömningar (fastställa och kontrollera risker) och dokumentera resultaten."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Utforma system och rutiner för arbetsmiljö."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Överlägga och samarbeta med anställda och uppdragstagare som arbetar åt dem."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Följa all tillämplig arbetsmiljölagstiftning."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Hög risk - du behöver ta reda på mer om vad din chef ska göra för din arbetsmiljö"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Medelhög risk - en ganska bra start, men du har mer att lära"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Låg risk - du har god kännedom om vad din chef ska göra"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Siffertestet"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Belastningsskador är det vanligaste arbetsrelaterade hälsoproblemet i EU-27. Hur stort är problemet? Vad tycker folk om sina arbetsvillkor? Gör vårt frågetest för att ta reda på mer:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Hur många procent av arbetstagarna uppger att de lider av ryggont till följd av arbetet?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Hur många procent av arbetstagarna uppger att de lider av muskelvärk till följd av arbetet?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Mellan 2000 och 2005 har andelen arbetstagare i Europa som säger att de utför repetitiva rörelser under en fjärdedel eller mer av arbetstiden …"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. varit oförändrad"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. minskat med 5 procent"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. varit i det närmaste oförändrad"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. ökat med 5 procent"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Vilket är det vanligaste arbetsrelaterade hälsoproblemet?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Huvudvärk"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Ryggont"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Trötthet"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Hur många procent av arbetstagarna uppger att de utför enformiga hand- och armrörelser under en fjärdedel eller mer av arbetstiden?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Inom vilka sektorer i Europa måste kvinnor i större utsträckning lyfta eller flytta på personer i arbetet?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. utbildning samt sjuk- och hälsovård"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. affärer och lager"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. finanssektorn"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. offentlig förvaltning"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Hur stor andel av arbetstagarna använder datorer i sitt arbete hela eller större delen av arbetstiden?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Vilka personer uppger att de utför mest kroppsarbete på jobbet?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Personer under 25 år"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. Personer i åldern 25–44 år"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. Personer i åldern 45–54 år"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Personer över 55 år"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Frågetestet bygger på information från EU:s statistikkontor Eurostat och från den fjärde europeiska undersökningen av arbetsvillkor (EWCS 2005) som genomförts av Europeiska fonden för förbättring av levnads- och arbetsvillkor."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Frågetest om säkerhetsskyltar"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Känner du till säkerhetsskyltarna? Pröva dina kunskaper i vårt frågetest om säkerhetsskyltar!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Solglasögon till salu"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Gratis ögontest"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Skyddsglasögon krävs"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Optiker"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Vägkorsning följer"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Första hjälpen i nödsituationer"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Förbjudet att beträda gräsmattan"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Sjukhus"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Piratfartyg för över"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Begravningsplats"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Fara"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Giftiga ämnen"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Mobiltelefoner till salu"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobiltelefoner ej tillåtna"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Tystnad"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Telefonreparationer"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Här arbetar diskjockeyer"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Öronskydd krävs"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Bullrigt område"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Håll alltid öronen varma"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "En skatt ligger begravd här"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Stormvarning"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elektricitet"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Varning för ormar"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobicspass"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Gym"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Brandutgång"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Dörr"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Rökområde"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Öppna lågor ej tillåtna"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Cigarettförsäljning"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Rökning förbjuden"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Hög risk - du riskerar att råka ut för en olycka."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Medelhög risk - en ganska bra start, men du har mer att lära."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Låg risk - du får en säker start - bra gjort!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Frågetest om belastningsskador sjukdomar"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Hur mycket vet du om belastningsskador sjukdomar och ryggont? Gör det här snabba frågetestet."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr " I EU:s medlemsstater finns det särskilda arbetsmiljöregler som reglerar lyftning av laster"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Det finns ett EU-direktiv om krav för hälsa och säkerhet vid manuell hantering av laster som alla medlemsstater måste omsätta i sin egen lagstiftning."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Gravida kvinnor kan lyfta laster utan att ta skada"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Gravida eller nyförlösta kvinnor ska inte lyfta tunga laster; ju längre gången graviditet, desto större risk att arbetstagaren skadas."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Exponering för vibrationer i arbetet kan öka risken för belastningsskador"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Om du får värk och ont av monotont arbete eller lyft är smärtstillande medel den bästa lösningen."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Om du använder smärtstillande medel för att fortsätta arbeta under farliga förhållanden förvärrar du bara problemet och kan drabbas av bestående arbetsoförmåga"
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Du kan drabbas av belastningsskador sjukdomar om du inte rör på dig"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Även när du arbetar i en ställning fortsätter din kropp att arbeta. Det kallas \"statisk belastning\". Kroppen är gjord för rörelse. Att arbeta länge i en ställning, vilket innefattar att sitta eller stå stilla under en längre tid, är inte bra."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Kyla/fuktighet är en riskfaktor för belastningsskador sjukdomar."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Att använda datormusen kan inte orsaka belastningsskador sjukdomar"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Det finns några enkla regler för att använda musen rätt, som innefattar tillräckligt stöd åt underarmen och handen, som ska hållas nära kroppen, samt att lägga in vilopauser"
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Du bör ta en paus från tangentbordsarbetet varannan timme."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Det rekommenderas att ta en tiominuterspaus för att göra något annat efter 50 minuters tangentbordsarbete."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Oj! Du löper hög risk att drabbas av en muskuloskeletal sjukdom."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Värk och stickningar då och då! Lär dig mer om hur du kan skydda din kropp."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Du arbetar bekvämt! Du vet mycket, men glöm inte att omsätta dina kunskaper i praktiken."
+

@@ -1,0 +1,142 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: mt\n"
+"Language-Name: Maltese\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Ġimgħa Ewropea għas-Saħħa u s-Sigurtà fuq il-Post tax-Xogħol${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Rikonoxximent"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Dan iċ-ċertifikat jirrikonoxxi li"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "inkiteb fil-Karta tal-Ġimgħa Ewropea b’impenn sabiex jikkontribwixxi b’mod attiv f’din is-sena ${year} "
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">Kampanja tal-Ġimgħa Ewropea</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Ħaffef il-Piż"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Ċertifikat ta’ Parteċipazzjoni"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Dan iċ-ċertifikat jirikonoxxi l-parteċipazzjoni ta’"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "f’<font face=\"ArialItalic\">Ħaffef il-Piż</font>, kampanja Ewropea sabiex tnaqqas in-numru ta’ problemi muskuloskeletali relatati max-xogħol (MSDs), u sabiex il-post tax-xogħol isir iktar sigur u jagħmel inqas ħsara lis-saħħa."
+
+msgid "director"
+msgstr "Direttur"
+
+msgid "email_text_1"
+msgstr " Grazzi talli ffirmajt il-Karta tal-Ġimgħa Ewropea."
+
+msgid "email_text_2"
+msgstr "Mehmuża ma’ din l-email għandek issib verżjoni PDF tal-Karta li tista’ tiġi stampata."
+
+msgid "email_text_3"
+msgstr "Għal aktar informazzjoni dwar il-Kampanja tal-Ġimgħa Ewropea, jekk jogħġbok ikkonsulta l-websajt:"
+
+msgid "feedback_text_1"
+msgstr "Grazzi talli ffirmajt il-Karta tal-Ġimgħa Ewropea"
+
+msgid "feedback_text_2"
+msgstr "Erġa’ lura għaċ-Ċertifikat"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "ĊERTIFIKAT TA’ PARTEĊIPAZZJONI"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "Dan iċ-ċertifkat jagħraf il-parteċipazzjoni ta’"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "f’Postijiet tax-Xogħol li jġibu 'l quddiem is-Saħħa – Tajjeb għalik. Tajjeb għall-kumpanija."
+
+msgid "contribution_headline_2008_2"
+msgstr "– kampanja Ewropea għall-promozzjoni ta’ metodu ta’ ġestjoni integrat li jikkunsidra l-fażijiet differenti tal-valutazzjoni tar-riskju."
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Postijiet tax-Xogħol Ħielsa mill-Periklu "
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Tajjeb għalik. Tajjeb għan-negozju."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Ċertifikat ta’ Parteċipazzjoni"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Dan iċ-ċertifikat jiddikjara l-parteċipazzjoni ta’"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "il-Kampanja dwar is-saħħa fuq il-post tax-Xogħol u Manutenzjoni Sigura, 2010-2011."
+
+#: Director 
+msgid "director_2010"
+msgstr "Direttur tal-Aġenzija Ewropea għas-Saħħa u s-Sigurtà fuq il-Post tax-Xogħol (UE-OSHA)"
+
+

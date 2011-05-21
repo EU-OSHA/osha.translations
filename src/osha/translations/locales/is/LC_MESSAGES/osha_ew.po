@@ -1,0 +1,47 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@syslab.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: osha\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: is\n"
+"Language-Name: Ìslenska\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Heilbrigði á vinnustað"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Gott fyrir þig. Gott fyrir reksturinn."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Vottorð um þátttöku"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Þetta vottorð staðfestir þátttöku"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "í Heilbrigði á vinnustað herferðinni 2010-11 um öryggi Viðhald."
+
+#: Director 
+msgid "director_2010"
+msgstr "Forstöðumaður Vinnuverndarstofnun Evrópu (EU-OSHA)"
+

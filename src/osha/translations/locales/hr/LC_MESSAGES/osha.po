@@ -1,0 +1,1632 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2004-12-17 15:53+0100\n"
+"Last-Translator: EU\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: hr\n"
+"Domain: osha\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Preferred-Encodings: latin1 utf-8\n"
+"X-Is-Fallback-For: hr-hr hr-ba\n"
+"Language-Name: Croatian\n"
+
+msgid "title_agency"
+msgstr "Europska agencija<br/> za sigurnost <br/>i zdravlje na radu"
+
+msgid "slogan_hw2010_campaign"
+msgstr "Zdravo radno mjesto. "
+
+msgid "subslogan_hw2010_campaign"
+msgstr "Dobro je za tebe Dobro je za posao."
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Europska kampanja o sigurnom odrzavanju"
+
+msgid "heading_ew2005_stopthatnoise"
+msgstr "STOP THAT NOISE!"
+
+#. <img alt="Agency logo" border="0" i18n:attributes="alt title"
+#. src="agency_portlet.gif" tal:attributes="src
+#. string:${here/portal_url}/img/agency_portlet.gif" title="European Agency
+#. for Safety and Health at Work"/>
+#: OSHA/skins/osha/portlet_oshainfo.pt
+msgid "European Agency for Safety and Health at Work"
+msgstr "Europska agencija za sigurnost i zdravlje na radu"
+
+#. <span i18n:translate="Modification" tal:omit-tag="">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "Modification"
+msgstr "Izmjena"
+
+#. <span i18n:translate="Proposal" tal:omit-tag="">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "Proposal"
+msgstr "Prijedlog"
+
+msgid "Site Map"
+msgstr "Mapa web stranice"
+
+#. <a accesskey="accesskeys-breadcrumbs" href="#" i18n:attributes="accesskey"
+#. tal:attributes="href python:crumb[1]" tal:condition="python:not is_last"
+#. tal:content="python:crumb[0]">
+#: OSHA/skins/osha/global_pathbar.pt
+msgid "accesskeys-breadcrumbs"
+msgstr "Putokazi"
+
+#. <input accesskey="accesskeys-search" class="searchButton"
+#. i18n:attributes="value accesskey" tal:attributes="tabindex tabindex/next"
+#. type="submit" value="Search"/>
+#: OSHA/skins/osha/global_searchbox.pt
+msgid "accesskeys-search"
+msgstr "Pretraga"
+
+#. <a href=" " i18n:domain="elevateIT" i18n:translate="action_advanced_search"
+#. tal:attributes="href string:$purl/search_form">
+#: OSHA/skins/osha/portlet_oshsearch.pt
+msgid "action_advanced_search"
+msgstr "Napredna pretraga"
+
+#. <TITLE i18n:translate="alertservice_notification_service">
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_notification_service"
+msgstr "Servis obavijesti"
+
+#. <span i18n:translate="alertservice_onlyfirst_shown">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+msgid "alertservice_onlyfirst_shown"
+msgstr "samo prvi ${number} su prikazani"
+
+#. <span i18n:translate="alertservice_requested_info">
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_requested_info"
+msgstr "Zatražili ste info po sljedećim parametrima"
+
+#. <span i18n:translate="alertservice_results_found">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+msgid "alertservice_results_found"
+msgstr "Rezultati su pronađeni"
+
+#. <h1 class="heading_alphabetical_index" i18n:translate="alphabetical_index">
+#: OSHA/skins/osha/index_alphabetical.pt
+msgid "alphabetical_index"
+msgstr "Abecedno kazalo"
+
+#. <a href="" i18n:translate="answer" tal:attributes="href
+#. python:here.absolute_url()+'/message_edit_form'+chr(38)+'key=reply'+chr(38)+'all=0'+chr(38)+'IMAPName='+imapname+chr(38)+'IMAPId='+imapid+chr(38)+'start='+startstring">
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "answer"
+msgstr "Odgovori"
+
+#. <a href="" i18n:translate="answer_all" tal:attributes="href
+#. python:here.absolute_url()+'/message_edit_form'+chr(38)+'key=reply'+chr(38)+'all=1'+chr(38)+'IMAPName='+imapname+chr(38)+'IMAPId='+imapid+chr(38)+'start='+startstring">
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "answer_all"
+msgstr "Odgovori svima"
+
+#. <option i18n:translate="april" tal:attributes="value val;
+#. selected python:test(request.get('search_month', '') == val, '1',
+#. test(month == '04', '1', ''))" tal:define="val string:Apr">
+#: eITWebMail/skins/eIT_webmail/webmail_search_form2.cpt
+msgid "april"
+msgstr "Travanj"
+
+#. <img alt="attachment" border="0" height="16" i18n:attributes="alt"
+#. src="message_attachment.gif" tal:attributes="src
+#. string:$portal_url/message_attachment.gif" tal:condition="mo/attachments"/>
+#: eITWebMail/skins/eIT_webmail/webmail_view.pt
+msgid "attachment"
+msgstr "prilog"
+
+#. <span i18n:translate="back_to">
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "back_to"
+msgstr "vrati se"
+
+#. <span i18n:translate="batch_x_items_matching_your_criteria">
+# # 1 more: ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/search.pt OSHA/skins/osha/search.pt
+#: OSHA/skins/osha/search_members.cpt OSHA/skins/osha/search_memberdocs.cpt
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} podatak(a) odgovara Vašoj pretrazi."
+
+#. <span i18n:translate="box_agency_fullname">
+#: OSHA/skins/osha/footer.pt
+msgid "box_agency_fullname"
+msgstr "Europska agencija za sigurnost i zdravlje na radu"
+
+#. <span i18n:translate="box_provided_by">
+#: OSHA/skins/osha/footer.pt
+msgid "box_provided_by"
+msgstr "Informacije pruža"
+
+#. <span i18n:translate="box_this_url">
+#: OSHA/skins/osha/footer.pt
+msgid "box_this_url"
+msgstr "URL ovog dokumenta"
+
+#. <img alt="convert to pdf" border="0" i18n:attributes="alt"
+#. src="pdf_icon.gif" tal:attributes="src string:$portal_url/pdf_icon.gif"/>
+#: OSHA/skins/osha/document_actions.pt
+msgid "convert to pdf"
+msgstr "pretvori u pdf"
+
+#. <span i18n:domain="elevateIT" i18n:translate="copyright">
+#: OSHA/skins/osha/footer.pt
+msgid "copyright"
+msgstr "Copyright 1998-${thisyear} Europska agencija za sigurnost i zdravlje na radu"
+
+#. <strong i18n:translate="description_no_results_found">
+# # 1 more: ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/search.pt
+msgid "description_no_results_found"
+msgstr "Rezultati nisu pronađeni."
+
+#. <p i18n:translate="description_site_error">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "description_site_error"
+msgstr "Došlo je do pogreške pri ispunjavanju Vašeg zahtjeva. Pogreške su:"
+
+#. <p class="bold"
+#. i18n:translate="description_site_error_double_check_or_search">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "description_site_error_double_check_or_search"
+msgstr "Molimo provjerite web adresu ili koristite funkciju pretraživanja na ovoj stranici, kako bi pronašli ono što tražite."
+
+#. <h1 i18n:translate="heading_hierarchical_index">
+#: OSHA/skins/osha/index_hierarchical.pt
+msgid "heading_hierarchical_index"
+msgstr "Hijerarhijsko kazalo"
+
+#. <h1 class="documentFirstHeading" i18n:domain="elevateIT"
+#. i18n:translate="heading_index_by_nace">
+#: OSHA/skins/osha/index_nace.pt
+msgid "heading_index_by_nace"
+msgstr "Kazalo po NACE kodovima"
+
+#. <h1 class="documentFirstHeading" i18n:domain="elevateIT"
+#. i18n:translate="heading_index_by_providers">
+#: OSHA/skins/osha/index_providers.pt
+msgid "heading_index_by_providers"
+msgstr "Kazalo pružatelja usluga"
+
+#. <h1 class="documentFirstHeading" i18n:domain="elevateIT"
+#. i18n:translate="heading_index_by_sme">
+#: OSHA/skins/osha/index_sme.pt
+msgid "heading_index_by_sme"
+msgstr "Kazalo po MSP"
+
+#. <h1 class="documentFirstHeading" i18n:domain="elevateIT"
+#. i18n:translate="heading_index_by_topic">
+#: OSHA/skins/osha/index_topic.pt
+msgid "heading_index_by_topic"
+msgstr "Tematsko kazalo"
+
+#. <label for="comment" i18n:translate="label_comment">
+#: elevateIT/skins/eIT_forms/sendto_form.cpt
+msgid "label_comment"
+msgstr "Komentar"
+
+#. <label for="comment" i18n:translate="label_comments">
+#: elevateIT/skins/eIT_forms/content_status_history.cpt
+msgid "label_comments"
+msgstr "Komentari"
+
+#. <label for="country" i18n:translate="label_country">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_country"
+msgstr "Država"
+
+#. <dt i18n:translate="label_error_message">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "label_error_message"
+msgstr "Poruka o pogrešci"
+
+#. <dt i18n:translate="label_error_time">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "label_error_time"
+msgstr "Zahtjev je napravljen u"
+
+#. <td class="tdCSS" i18n:translate="label_information_topics"
+#. nowrap="nowrap">
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "label_information_topics"
+msgstr "Teme za informiranje:"
+
+#. <label for="message" i18n:translate="label_message">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_message"
+msgstr "MPoruka"
+
+#. <span class="bold" i18n:translate="label_more_information">
+#: OSHA_ContentTypes/skins/osha_contenttypes/oshcontent_view.pt
+msgid "label_more_information"
+msgstr "Više informacija"
+
+#. Original text
+#. More...
+msgid "label_more"
+msgstr "Više..."
+
+#. <label for="organization_size" i18n:translate="label_organization_size">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_organization_size"
+msgstr "Veličina organizacije"
+
+#. <label for="purpose" i18n:translate="label_purpose">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_purpose"
+msgstr "Želim poslati ..."
+
+#. <span class="fieldRequired" i18n:attributes="title"
+#. i18n:translate="label_required" title="Required">
+#: elevateIT/skins/eIT_content/cmpgroup_add_form.cpt
+#: eITNews/skins/eIT_news/newsarticle_edit_form.cpt
+msgid "label_required"
+msgstr "(Obvezno)"
+
+#. <a class="hiddenStructure" href="#documentContent"
+#. i18n:translate="label_skiptocontent">
+#: eITNewsletterManager/skins/newsletter/newsletter_template.pt
+#: OSHA/skins/osha/main_template.pt
+msgid "label_skiptocontent"
+msgstr "Prijeđi na sadržaj."
+
+#. <label for="sender" i18n:translate="label_type_of_sender">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_type_of_sender"
+msgstr "Ja sam ..."
+
+#. <legend i18n:translate="legend_oshcontent_keywordlist">
+#: OSHA_ContentTypes/skins/osha_contenttypes/oshcontent_view.pt
+msgid "legend_oshcontent_keywordlist"
+msgstr "Informacije slične po ključnim riječima"
+
+#. <a i18n:translate="link_breadcrumbs_home" tal:attributes="href portal_url">
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+#: OSHA/skins/osha/default_error_message.pt
+msgid "link_breadcrumbs_home"
+msgstr "Početna stranica"
+
+#. <a href="http://agency.osha.eu.int"
+#. i18n:translate="osha_informationportlet_link">
+#: OSHA/skins/osha/portlet_oshainfo.pt
+msgid "osha_informationportlet_link"
+msgstr "Vaš Link za Sigurnost i zdravlje na radu"
+
+#. <b i18n:translate="oshacontenttypes_amendment_view_abstract">
+#: OSHA_ContentTypes/skins/osha_contenttypes/amendment_view.pt
+msgid "oshacontenttypes_amendment_view_abstract"
+msgstr "Sažetak:"
+
+#. <a class="link-extern bold" href=""
+#. i18n:translate="oshacontenttypes_directive_view_FullText"
+#. tal:attributes="href here/getUrl" target="blank">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_FullText"
+msgstr "Pročitaj cijeli tekst"
+
+#. <a href="" i18n:translate="oshacontenttypes_directive_view_FullText_of"
+#. tal:attributes="href modification/getUrl" target="blank">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_FullText_of"
+msgstr "pročitaj cijeli tekst ${type}  ${nr}  ${number}"
+
+#. <h2 i18n:translate="oshacontenttypes_directive_view_abstract">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_abstract"
+msgstr "Sažetak:"
+
+#. <legend i18n:translate="oshacontenttypes_directive_view_amendments">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_amendments"
+msgstr "Dopune"
+
+#. <span class="info" i18n:translate="oshacontenttypes_directive_view_date">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_date"
+msgstr "( Datum: <span tal:replace=\"python:toPortalTime(modification.getOj_date())\"/> )"
+
+#. <legend i18n:translate="oshacontenttypes_directive_view_modifications">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_modifications"
+msgstr "Preinake"
+
+#. <legend i18n:translate="oshacontenttypes_directive_view_proposals">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshacontenttypes_directive_view_proposals"
+msgstr "Prijedlozi"
+
+#. <h2 i18n:translate="oshaconttypes_directive_view_Note">
+#: OSHA_ContentTypes/skins/osha_contenttypes/directive_view.pt
+msgid "oshaconttypes_directive_view_Note"
+msgstr "Poruka:"
+
+#. <label class="hiddenStructure" for="emailaddress"
+#. i18n:translate="portlet_oshmail_email">
+#: OSHA/skins/osha/portlet_oshmail.pt
+msgid "portlet_oshmail_email"
+msgstr "email adresa"
+
+#. <th class="nosort" i18n:translate="schedule">
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+#: eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+msgid "schedule"
+msgstr "Raspored"
+
+#. <p i18n:translate="search_results_advanced">
+#: elevateIT/skins/eIT_forms/search.pt
+msgid "search_results_advanced"
+msgstr "Jeste li pronašli ono što ste tražili? Probajte ${advanced_search} za precizniju pretragu."
+
+#. <div i18n:domain="elevateIT" i18n:translate="sendto_mailtemplate_body" tal
+#. :omit-tag="">
+#: elevateIT/skins/eIT_forms/send_mail_to_author.pt
+msgid "sendto_mailtemplate_body"
+msgstr "<p>Ovaj link Vam je poslan sa ${portal_url} Dobili ste ovu poruku jer je netko pročitao stranicu na ${portal_title} i pomislio da bi Vas mogla zanimati.</p> <p>Poruku je poslao/la ${from_address} sa slijedećim komentarom:</p> <p>&quot; ${comment} &quot;</p> ${document_title}<br />  ${document_description} <br /> ${document_url}"
+
+#. <b i18n:translate="text_ note">
+#: OSHA_ContentTypes/skins/osha_contenttypes/note_view.pt
+msgid "text_ note"
+msgstr "Tekst poruke:"
+
+#. <b i18n:translate="text_abstract">
+#: OSHA_ContentTypes/skins/osha_contenttypes/proposal_view.pt
+msgid "text_abstract"
+msgstr "Sažetak:"
+
+#. Added on Fri Dec 17 16:29:29 2004
+#. 
+#. Line 30, Column 39
+#. 
+#. Orginal text:
+#. Site Update
+#: None
+msgid "Site Update"
+msgstr "Ažuriranje web stranice"
+
+#. Added on Fri Dec 17 16:29:29 2004
+#. 
+#. Line 30, Column 39
+#. 
+#. Orginal text:
+#. Translation Help
+#: None
+msgid "Translation Help"
+msgstr "Pomoć u prijevodu"
+
+#. Added on Fri Dec 17 16:29:32 2004
+#. 
+#. Line 17, Column 12
+#. 
+#. Orginal text:
+#. Send to somebody
+#: None
+msgid "Send to somebody"
+msgstr "Pošalji nekom"
+
+#. Added on Fri Dec 17 16:29:32 2004
+#. 
+#. Line 17, Column 12
+#. 
+#. Orginal text:
+#. Link to our site
+#: None
+msgid "Link to our site"
+msgstr "Veza prema našoj stranici"
+
+#. Added on Fri Dec 17 16:29:32 2004
+#. 
+#. Line 17, Column 12
+#. 
+#. Orginal text:
+#. Suggest interesting link
+#: None
+msgid "Suggest interesting link"
+msgstr "Predloži zanimljiv link"
+
+#. Added on Fri Dec 17 16:29:32 2004
+#. 
+#. Line 17, Column 12
+#. 
+#. Orginal text:
+#. Report broken link
+#: None
+msgid "Report broken link"
+msgstr "Upozori na neispravan link"
+
+#. Added on Fri Dec 17 16:29:32 2004
+#. 
+#. Line 17, Column 12
+#. 
+#. Orginal text:
+#. Subscribe To Alert
+#: None
+msgid "Subscribe To Alert"
+msgstr "Pretplatite se za obavijesti"
+
+msgid "txt_try_the"
+msgstr "Isprobajte:"
+
+msgid "Looking for something specific?"
+msgstr "Tražite nešto određeno?"
+
+msgid "Plone Member Preferences"
+msgstr "Postavke za članove"
+
+#. Added on 12. July 2005
+#. Translation for month-names used in calender-portlet
+msgid "January"
+msgstr "Siječanj"
+
+msgid "February"
+msgstr "Veljača"
+
+msgid "March"
+msgstr "Ožujak"
+
+msgid "April"
+msgstr "Travanj"
+
+msgid "May"
+msgstr "Svibanj"
+
+msgid "June"
+msgstr "Lipanj"
+
+msgid "July"
+msgstr "Srpanj"
+
+msgid "August"
+msgstr "Kolovoz"
+
+msgid "September"
+msgstr "Rujan"
+
+msgid "October"
+msgstr "Listopad"
+
+msgid "November"
+msgstr "Studeni"
+
+msgid "December"
+msgstr "Prosinac"
+
+#. <a href="" tal:attributes="href pub/absolute_url"
+#.    i18n:translate="download_full_publication">
+#: None
+msgid "download_full_publication"
+msgstr "Preuzmite cijelo izdanje u PDF formatu"
+
+#. PDA version
+msgid "PDA version"
+msgstr "PDA verzija"
+
+#. Original text
+#. What is RSS?
+msgid "info_whatis_rss"
+msgstr "Što je RSS?"
+
+msgid "European Network"
+msgstr "Europska mreža"
+
+#. <img alt="locked" height="13" i18n:attributes="title alt"
+#. src="lock_icon.gif" tal:attributes="src string:${portal_url}/lock_icon.gif"
+#. tal:condition="python:lockable and here.wl_isLocked()" tal:define="locked
+#. here/lock_icon.gif;                                       lockable
+#. python:hasattr(here, 'wl_isLocked');" title="Locked"/>
+#: elevateIT/skins/eIT_content/show_history.pt
+msgid "locked"
+msgstr "zaključano"
+
+msgid "label_login_for_more_services"
+msgstr "Ulogirajte se za dodatne usluge"
+
+msgid "today"
+msgstr "Danas"
+
+msgid "week"
+msgstr "Tjedan"
+
+msgid "month"
+msgstr "Mjesec"
+
+msgid "year"
+msgstr "Godina"
+
+# used in the national contacts map on
+# http://hwi.osha.europa.eu/additional_info/other_contacts/
+msgid "description_national_contacts_map"
+msgstr "Kako biste pronašli druge korisne kontakte u vašoj zemlji, kliknite na ime vaše države"
+
+msgid "Show all seminars"
+msgstr "Pokaži sve seminare"
+
+msgid "Select Seminars by Country"
+msgstr "Odaberi seminare po državama"
+
+msgid "box_events"
+msgstr "Predstojeći događaji"
+
+#. <p i18n:translate="description_no_account" tal:condition="python: join and
+#. checkPermission('Add portal member', here)" tal:define="join
+#. python:[a['url'] for a in actions['user'] if a['id']=='join']">
+#. If you do not have an account here, head over to the
+#.  ${registration_form}
+#. to become a member.
+#. </p>
+#: ./plone_forms/failsafe_login.pt
+msgid "description_no_account"
+msgstr "Ako nemate korisnički račun, posjetite ${registration_form} kako biste postali korisnik."
+
+msgid "portlet_campaign_ew2007_title"
+msgstr "Europska kampanja 2007"
+
+msgid "portlet_campaign_ew2007_text"
+msgstr "Olakšajte teret!"
+
+# ERO
+msgid "European Risk Observatory"
+msgstr "Europski opservatorij za rizike"
+
+# Anticipating Change
+msgid "portlet_riskob_text"
+msgstr "Predviđajući promjenu!"
+
+# Most visited
+msgid "Most visited"
+msgstr "Najposjećenije"
+
+msgid "portlet_oshsearch_advanced"
+msgstr "Napredna pretraga"
+
+msgid "portlet_oshsearch_atoz"
+msgstr "A-Z kazalo"
+
+msgid "Free Newsletter"
+msgstr "Besplatni bilten"
+
+msgid "Alert Service"
+msgstr "Usluga obavještavanja"
+
+# updated on topics ... subscribe
+msgid "portlet_alertservice_text"
+msgstr "Novosti o izabranim temama<br/>- Pretplati se -"
+
+msgid "Campaigns"
+msgstr "Kampanje"
+
+msgid "portlet_campaign_hwi_title"
+msgstr "Inicijativa Zdravo radno mjesto"
+
+msgid "portlet_campaign_hwi_text"
+msgstr "Dobro za vas - Dobro za posao"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Print"
+msgstr "Ispiši"
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Broken Link"
+msgstr "Neispravan link"
+
+msgid "Disclaimer"
+msgstr "Odricanje od odgovornosti"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Site&nbsp;Update"
+msgstr "Ažuriranje stranice"
+
+msgid "Site&nbsp;Map"
+msgstr "Mapa web sranice"
+
+msgid "Comments"
+msgstr "Komentari"
+
+msgid "FAQ"
+msgstr "Često postavljana pitanja"
+
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "Translation&nbsp;Help"
+msgstr "Pomoć pri prevođenju"
+
+msgid "Accessibility"
+msgstr "Dostupnost"
+
+msgid "contact_us_personal"
+msgstr "Ako na Vaše pitanje nije odgovoreno ovim standardnim odgovor, možete nam poslati osobnu poruku. Idite na ${contact_form_name}."
+
+msgid "contact_form"
+msgstr "Kontakt obrazac"
+
+msgid "accident_prevention"
+msgstr "Spriječavanje nezgoda"
+
+msgid "ageing"
+msgstr "Starenje radnika"
+
+msgid "agriculture"
+msgstr "Poljoprivreda"
+
+msgid "businessOSH"
+msgstr "Poslovni aspekti SZR"
+
+msgid "cleaners"
+msgstr "Sektor čišćenja"
+
+msgid "construction"
+msgstr "Graditeljstvo"
+
+msgid "csr"
+msgstr "Društvena odgovornost korporacija"
+
+msgid "cww"
+msgstr "Mijenjanje svijeta rada"
+
+msgid "dangerous_substances"
+msgstr "Opasne tvari"
+
+msgid "disability"
+msgstr "Invaliditet"
+
+msgid "education"
+msgstr "Obrazovanje"
+
+msgid "emerging_risks"
+msgstr "Rizici u nastajanju"
+
+msgid "fisheries"
+msgstr "Ribarstvo"
+
+msgid "gender"
+msgstr "Spol"
+
+msgid "healthcare"
+msgstr "Zdravstvena skrb"
+
+msgid "horeca"
+msgstr "Horeca – hotelijerstvo i ugostiteljstvo"
+
+msgid "hwi"
+msgstr "Zdrava radna mjesta"
+
+msgid "legislation"
+msgstr "Zakonodavstvo"
+
+msgid "msd"
+msgstr "Mišićno-koštani poremećaji"
+
+msgid "noise"
+msgstr "Buka"
+
+msgid "organisation"
+msgstr "Organizacija i strategije"
+
+msgid "osheducation"
+msgstr "Sigurnost i zdravlje na radu u obrazovnom sustavu"
+
+msgid "research"
+msgstr "Istraživanje"
+
+msgid "risks"
+msgstr "Rizici"
+
+msgid "risk_assessment"
+msgstr "Procjena rizika"
+
+msgid "risk_observatory"
+msgstr "Opservatorij rizika"
+
+msgid "road_transport"
+msgstr "Cestovni prijevoz"
+
+msgid "statistics"
+msgstr "Statistike"
+
+msgid "stress"
+msgstr "Stres"
+
+msgid "young_people"
+msgstr "Mladi ljudi"
+
+msgid "whp"
+msgstr "Promocija zdravlja na radnome mjestu"
+
+msgid "header_oshtopic_dynamic"
+msgstr "Svi ${portal_type} podatci o ${subject}"
+
+msgid "oshmail_header_subscribe"
+msgstr "Pretplatite se na OSHMail"
+
+msgid "oshmail_header_unsubscribe"
+msgstr "Odjavite OSHMail"
+
+msgid "oshmail_label_enter_emaiL"
+msgstr "upišite e-mail ovdje"
+
+msgid "box_firsttime"
+msgstr "Prvi put ste ovdje?"
+
+#. Orginal text:
+#. Question about legislation (health and safety)
+msgid "Question about legislation (health and safety)"
+msgstr "Pitanje o zakonodavstvu (zdravlje i sigurnost)"
+
+#. Orginal text:
+#. Question about a specific health and safety problem
+msgid "Question about a specific health and safety problem"
+msgstr "Pitanje o specifičnom problemu zdravlja i sigurnosti"
+
+#. Orginal text:
+#. Question about the Agency’s European week
+msgid "Question about the Agency's European Week"
+msgstr "Pitanje o agencijinom Europskom tjednu"
+
+#. Orginal text:
+#. Comment about the website (technical)
+msgid "Comment about the website (technical)"
+msgstr "Komentar o web stranici (tehničke informacije)"
+
+#. Orginal text:
+#. Comment about the website (content)
+msgid "Comment about the website (content)"
+msgstr "Comment about the website (informacije o sadržaju)"
+
+#. Orginal text:
+#. Report about a broken link
+msgid "Report about a broken link"
+msgstr "Prijavite neispravan link"
+
+#. Orginal text:
+#. Suggest an interesting link
+msgid "Suggest an interesting link"
+msgstr "Predložite zanimljiv link"
+
+#. Orginal text:
+#. Other
+msgid "Other"
+msgstr "Ostalo"
+
+#. Orginal text:
+#. Academic institution
+msgid "Academic institution"
+msgstr "Akademske ustanove"
+
+#. Orginal text:
+#. Eu/int official institution
+msgid "Eu/int official institution"
+msgstr "Europska/međunarodna službena ustanova"
+
+#. Orginal text:
+#. Individual
+msgid "Individual"
+msgstr "Pojedinac"
+
+#. Orginal text:
+#. Journalist
+msgid "Journalist"
+msgstr "Novinar"
+
+#. Orginal text:
+#. Labour inspector
+msgid "Labour inspector"
+msgstr "Inspektor rada"
+
+#. Orginal text:
+#. Osh organisation
+msgid "Osh organisation"
+msgstr "Osh organizacija"
+
+#. Orginal text:
+#. Osh practitioner
+msgid "Osh practitioner"
+msgstr "Osh stručnjak"
+
+#. Orginal text:
+#. Other/unknown
+msgid "Other/unknown"
+msgstr "Ostalo/nepoznato"
+
+#. Orginal text:
+#. Private company
+msgid "Private company"
+msgstr "Privatna tvrtka"
+
+#. Orginal text:
+#. Public company
+msgid "Public company"
+msgstr "Javna tvrtka"
+
+#. Orginal text:
+#. Researcher
+msgid "Researcher"
+msgstr "Istraživač"
+
+#. Orginal text:
+#. Student
+msgid "Student"
+msgstr "Student"
+
+#. Orginal text:
+#. Trade union
+msgid "Trade union"
+msgstr "Sindikat"
+
+#. Orginal text:
+#. Training / accreditation inst.
+msgid "Training / accreditation inst."
+msgstr "Ustanova za obuku/ akreditaciju"
+
+#. Orginal text:
+#. Not applicable
+msgid "Not applicable"
+msgstr "Nije primjenjivo"
+
+#. Orginal text:
+#. 1-9 employees
+msgid "1-9 employees"
+msgstr "1-9 djelatnika"
+
+#. Orginal text:
+#. 10-49 employees
+msgid "10-49 employees"
+msgstr "10-49 djelatnika"
+
+#. Orginal text:
+#. 50-249 employees
+msgid "50-249 employees"
+msgstr "50-249 djelatnika"
+
+#. Orginal text:
+#. 250 or more employees
+msgid "250 or more employees"
+msgstr "250 ili više djelatnika"
+
+msgid "portlet_oshmail_text"
+msgstr "Mjesečni pregled strateških vijesti<br/> - Pretplati se -"
+
+#. <span i18n:translate="box_oshmail_subscribers">
+#: OSHA/skins/osha/portlet_oshmail.pt
+msgid "box_oshmail_subscribers"
+msgstr "pretplatnici"
+
+msgid "Worklist"
+msgstr "Opis posla"
+
+#. Orginal text:
+#. Free Newsletter
+msgid "label_free_newsletter"
+msgstr "Besplatni bilten"
+
+#. Duplicate msgstr
+msgid "label_author"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_author"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_feedback_comments"
+msgstr "Komentari"
+
+#. Duplicate msgstr
+msgid "heading_complete_workitem"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_complete_workitem"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_schedule"
+msgstr "Raspored"
+
+#. Duplicate msgstr
+msgid "header_title"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_title"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_title"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "title"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Request Discussion Board"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_discussioncenter_applyforboard"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_full_name"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_fullname"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_url"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "url"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_moderators"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_newsboard_moderators"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_ldap_confidentialquestion"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_password_secret_question"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_list_article_text"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussioncenter_list_article_text"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_profession"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_profession"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Show Result"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Show result"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_eventType"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_event_type"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_education"
+msgstr "Obrazovanje"
+
+#. Duplicate msgstr
+msgid "Select"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_select"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_osha_uploadsource"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_uploadsource"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_uploadsource"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "from"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_send_from"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_upload_text"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_uploads"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Abschicken"
+msgstr "Pošalji"
+
+#. Duplicate msgstr
+msgid "label_priority"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_priority"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_state"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_status"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_oshcontent_seealso"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_see_also"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Type"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_itemtype"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_type"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_type"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_change_ownership"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_change_ownership"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_file"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_slidetext"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "info_discussionboard_moderators"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "info_newsboard_moderators"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "osha_label_pressbox_campaigns"
+msgstr "Kampanje"
+
+#. Duplicate msgstr
+msgid "Move to"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Verschieben nach"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_moderated"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussioncenter_moderated"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "feedback_link"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_link"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Link"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_discussion_allowed"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussioncenter_discussion_allowed"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_newsboard_discussion_allowed"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_subject"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "subject"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "the_subject_of_message"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_projects"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_projects"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Log in"
+msgstr "Ulogirajte se za dodatne usluge"
+
+#. Duplicate msgstr
+msgid "label_by"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "news_by"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "feedback_comment"
+msgstr "Komentar"
+
+#. Duplicate msgstr
+msgid "label_checkin_message"
+msgstr "Komentar"
+
+#. Duplicate msgstr
+msgid "listingheader_comment"
+msgstr "Komentar"
+
+#. Duplicate msgstr
+msgid "label_ldap_confidentialquestion_answer"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_password_secret_question_response"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "feedback_mailtemplate_body"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "feedback_sent_by"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "tabs_home"
+msgstr "Početna stranica"
+
+#. Duplicate msgstr
+msgid "Ja"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Yes"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Nein"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "No"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_search_text"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_searchtext"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Administration"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_admin"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_more_information"
+msgstr "Više informacija"
+
+#. Duplicate msgstr
+msgid "heading_search_results"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "searchresults"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_rewards"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_rewards"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Generate File"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_localrole_generatefile"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_first_name"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_firstname"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_description"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_description_link"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_blacklist"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussioncenter_blacklist"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Update File"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Upload Users"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_date"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_date"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "search_date"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "feedback_sender_mssg_from"
+msgstr "Europska agencija za sigurnost i zdravlje na radu"
+
+#. Duplicate msgstr
+msgid "Search"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "search_link"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_language"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "language"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "info_discussionboard_blacklist"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "info_discussioncenter_blacklist"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_search_term"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "search_term"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_add_new_item"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_add_new_item"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Attachments"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_document_editattachments"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_translation_complete"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "lable_translation_complete"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "keywords"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_keywords"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "description_discussioncenter_applyforboard"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "description_document_addattachments"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "description_item_new"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_details"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_process_details"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "folder"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Folder"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_confidentialquestion"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "help_tumzopepasswortfrage"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_profile"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_profile"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "legend_language_prefs"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_language_prefs"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "Pose Question"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_pose_faqentry"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_last_name"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_lastname"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_surname"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_address"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_ldap_address"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_posting_restricted"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussioncenter_posting_restricted"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_articles"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_articlesandreplies"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_name"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "listingheader_name"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_ldap_sex"
+msgstr "Spol"
+
+#. Duplicate msgstr
+msgid "legend_publications"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_publications"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "heading_publications"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "osha_label_pressbox_publications"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussionboard_reading_restricted"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_discussioncenter_reading_restricted"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "label_file"
+msgstr ""
+
+#. Duplicate msgstr
+msgid "File"
+msgstr ""
+
+####
+# Alertservice
+
+
+
+msgid "label_subjects_of_interest"
+msgstr "Teme interesa"
+
+msgid "label_item_type"
+msgstr "Tip podatka"
+
+msgid "daily"
+msgstr "dnevno"
+
+msgid "weekly"
+msgstr "tjedno"
+
+msgid "monthly"
+msgstr "mjesecno"
+
+msgid "OSH Link"
+msgstr "SZR Link"
+
+msgid "Publication"
+msgstr "Publikacija"
+
+msgid "Case Study"
+msgstr "Case Study / Analiza slucaja"
+
+msgid "label_additional_languages"
+msgstr "Dodatni jezici"
+
+msgid "select_multiple_help"
+msgstr "Kako bi se izabrati viöe od jedne stavke s popisa, pritisnite tipku 'control' na tipkovnici, a zatim odaberite stavku miöem."
+
+msgid "description_alertservice_languageselector"
+msgstr "Obavijesti se öalju na engleskom jeziku. Ako je sadrûaj preveden, moûete ih primati na drugim jezicima."
+
+msgid "description_subscribe_oshmail"
+msgstr "I ja ûelim primati OSHmail, besplatni mjesecni bilten"
+
+msgid "oshmail_learn_more"
+msgstr "saznajte viöe..."
+
+msgid "alertservice_notification_report"
+msgstr "OSHA Obavijest"
+
+msgid "alert_label_more"
+msgstr "Viöe"
+
+msgid "alertservice_alert_request"
+msgstr "EU-OSHA je primila Vaö zahtjev za slanje obavijesti"
+
+msgid "alertservice_verify_request"
+msgstr "Potvrdite EU-OSHA zahtjev za obavijestima:"
+
+msgid "alertservice_cancel_request"
+msgstr "Otkaûite EU-OSHA zahtjev za obavijestima:"
+
+msgid "alertservice_alternative_verification"
+msgstr "Ako ne moûete kliknuti na link, kopirajte ga i zalijepite u adresnu traku."
+
+msgid "alertservice_ignore"
+msgstr "Ako niste inicirali ovaj zahtjev ili mislite da se radi o greöci, ignorirajte ovu poruku."
+
+msgid "alertservice_email_footer1"
+msgstr "Hvala,"
+
+msgid "alertservice_email_footer2"
+msgstr "EU-OSHA obavijesni tim"
+

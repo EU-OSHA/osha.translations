@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: nl\n"
+"Language-Name: Dutch\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQ Zone"
+
+msgid "Discover Safe Start "
+msgstr "Ontdek Veilige Start"
+
+msgid "Why RISQ it?"
+msgstr "Waarom het RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Wat RISQ je?"
+
+msgid "Competitions"
+msgstr "Wedstrijden"
+
+msgid "On the edge of safety"
+msgstr "Veiligheid in zicht"
+
+# animations
+msgid "anim_restart"
+msgstr "Opnieuw beginnen"
+
+msgid "anim01_message_01"
+msgstr "Controleer de voet van de ladder voordat je erop klimt"
+
+msgid "anim01_message_02"
+msgstr "Plaats de ladder in de juiste hoek tegen de muur"
+
+msgid "anim01_message_03"
+msgstr "Zorg er bij een lange ladder voor dat er altijd iemand onderaan staat"
+
+msgid "anim01_end"
+msgstr "“Kijk uit – trap er niet in”"
+
+msgid "anim02_end"
+msgstr "“Kijk uit – trap er niet in”"
+
+msgid "anim03_message_01"
+msgstr "Werk niet in onveilige of verkeerde omstandigheden"
+
+msgid "anim03_message_02"
+msgstr "Wees niet bang om hulp te vragen"
+
+msgid "anim03_end"
+msgstr "“Kijk uit – zeg wat je op je hart hebt"
+
+msgid "anim04_message_01"
+msgstr "Denk goed na voordat je iets tilt en draagt"
+
+msgid "anim04_message_02"
+msgstr "Gebruik de uitrusting die je krijgt"
+
+msgid "anim04_message_03"
+msgstr "Probeer de last altijd lichter te maken"
+
+msgid "anim04_end"
+msgstr "“Kijk uit – je rug kan slechts éénmaal breken"
+
+msgid "anim02_message_01"
+msgstr "Werk niet in het donker"
+
+msgid "anim02_message_02"
+msgstr "Improviseer niet als daarmee de veiligheid in gevaar komt"

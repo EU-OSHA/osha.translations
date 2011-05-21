@@ -1,0 +1,436 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-02-01 12:00+0100\n"
+"Last-Translator: EU\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: ru\n"
+"Language-Name: Russian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha\n"
+
+msgid "title_napo_episode_1_0"
+msgstr "Best signs story"
+
+msgid "title_napo_episode_1_1"
+msgstr "Danger"
+
+msgid "title_napo_episode_1_2"
+msgstr "Danger - suspended load  "
+
+msgid "title_napo_episode_1_3"
+msgstr "Danger - fork-lift trucks  "
+
+msgid "title_napo_episode_1_4"
+msgstr "Prohibition signs"
+
+msgid "title_napo_episode_1_5"
+msgstr "No smoking"
+
+msgid "title_napo_episode_1_6"
+msgstr "No fork-lift trucks  "
+
+msgid "title_napo_episode_1_7"
+msgstr "Mandantory signs"
+
+msgid "title_napo_episode_1_8"
+msgstr "Safety goggles must be worn  "
+
+msgid "title_napo_episode_1_9"
+msgstr "Hearing protection must be worn  "
+
+msgid "title_napo_episode_1_10"
+msgstr "Safety helmet must be worn  "
+
+msgid "title_napo_episode_1_11"
+msgstr "Rescue signs"
+
+msgid "title_napo_episode_1_12"
+msgstr "Rescue route  "
+
+msgid "title_napo_episode_1_13"
+msgstr "First aid  "
+
+msgid "title_napo_episode_1_14"
+msgstr "Fire protection signs"
+
+msgid "title_napo_episode_1_15"
+msgstr "Fire-extinguishing equipment  "
+
+msgid "title_napo_episode_1_16"
+msgstr "Fire alarm system  "
+
+msgid "title_napo_episode_1_17"
+msgstr "The end"
+
+msgid "title_napo_episode_2_0"
+msgstr "The adventures of NAPO  "
+
+msgid "title_napo_episode_2_1"
+msgstr "The importance of signposting"
+
+msgid "title_napo_episode_2_2"
+msgstr "Signposting is not sufficient"
+
+msgid "title_napo_episode_2_3"
+msgstr "Labels should be read"
+
+msgid "title_napo_episode_2_4"
+msgstr "Choose public transports"
+
+msgid "title_napo_episode_2_5"
+msgstr "The right protection at the right time"
+
+msgid "title_napo_episode_2_6"
+msgstr "Improvising means risk taking"
+
+msgid "title_napo_episode_2_7"
+msgstr "Each product has its own packaging"
+
+msgid "title_napo_episode_2_8"
+msgstr "Too much pressure is likely to be harmful"
+
+msgid "title_napo_episode_2_9"
+msgstr "Unsuitable material + incompetence = accident"
+
+msgid "title_napo_episode_3_0"
+msgstr "Scratch and sniff - chemical risks at work"
+
+msgid "title_napo_episode_3_1"
+msgstr "Harmful"
+
+msgid "title_napo_episode_3_2"
+msgstr "Irritant"
+
+msgid "title_napo_episode_3_3"
+msgstr "Flammable"
+
+msgid "title_napo_episode_3_4"
+msgstr "Corrosive"
+
+msgid "title_napo_episode_3_5"
+msgstr "Toxic"
+
+msgid "title_napo_episode_3_6"
+msgstr "Dangerous for the environment"
+
+msgid "title_napo_episode_3_7"
+msgstr "The end"
+
+msgid "title_napo_episode_4_0"
+msgstr "Clean Sweep"
+
+msgid "title_napo_episode_4_1"
+msgstr "Change of plan"
+
+msgid "title_napo_episode_4_2"
+msgstr "Work at height"
+
+msgid "title_napo_episode_4_3"
+msgstr "Enough is enough"
+
+msgid "title_napo_episode_4_4"
+msgstr "Safety plan"
+
+msgid "title_napo_episode_4_5"
+msgstr "Yellow card"
+
+msgid "title_napo_episode_4_6"
+msgstr "Bodybuilding"
+
+msgid "title_napo_episode_4_7"
+msgstr "Safety angels"
+
+msgid "title_napo_episode_4_8"
+msgstr "The end"
+
+
+msgid "title_napo_episode_5_0"
+msgstr "Napo - safe on site"
+
+msgid "title_napo_episode_5_1"
+msgstr "Building in safety"
+
+msgid "title_napo_episode_5_2"
+msgstr "Don't fall for it"
+
+msgid "title_napo_episode_5_3"
+msgstr "Heading for a fall"
+
+msgid "title_napo_episode_5_4"
+msgstr "Champions of the world"
+
+msgid "title_napo_episode_5_5"
+msgstr "Lightning strike"
+
+msgid "title_napo_episode_5_6"
+msgstr "Keep them apart"
+
+msgid "title_napo_episode_5_7"
+msgstr "Five star treatment"
+
+msgid "title_napo_episode_5_8"
+msgstr "Bad dream"
+
+msgid "title_napo_episode_5_9"
+msgstr "Safe landing"
+
+msgid "title_napo_episode_6_0"
+msgstr "Napo in stop that noise !"
+
+msgid "title_napo_episode_6_1"
+msgstr "Irreparable"
+
+msgid "title_napo_episode_6_2"
+msgstr "Didn't hear it coming "
+
+msgid "title_napo_episode_6_3"
+msgstr "Noise in the office"
+
+msgid "title_napo_episode_6_4"
+msgstr "Problem pregnancy"
+
+msgid "title_napo_episode_6_5"
+msgstr "Out in the cold"
+
+msgid "title_napo_episode_6_6"
+msgstr "Don't make things worse"
+
+msgid "title_napo_episode_6_7"
+msgstr "The end"
+
+msgid "title_napo_episode_7_0"
+msgstr "Safe start"
+
+msgid "title_napo_episode_7_1"
+msgstr "Don't hesitate to ask questions"
+
+msgid "title_napo_episode_7_2"
+msgstr "Attention listen up"
+
+msgid "title_napo_episode_7_3"
+msgstr "Information overload"
+
+msgid "title_napo_episode_7_4"
+msgstr "Watch out for others too"
+
+msgid "title_napo_episode_7_5"
+msgstr "Overconfidence is dangerous"
+
+msgid "title_napo_episode_7_6"
+msgstr "The end"
+
+msgid "title_napo_episode_8_0"
+msgstr "Start"
+
+msgid "title_napo_episode_8_1"
+msgstr "Modern stressful times"
+
+msgid "title_napo_episode_8_2"
+msgstr "Divide and rule"
+
+msgid "title_napo_episode_8_3"
+msgstr "Radical ergonomics"
+
+msgid "title_napo_episode_8_4"
+msgstr "Twist and shout"
+
+msgid "title_napo_episode_8_5"
+msgstr "No grip"
+
+msgid "title_napo_episode_8_6"
+msgstr "Working height"
+
+msgid "title_napo_episode_8_7"
+msgstr "Bad vibrations"
+
+msgid "title_napo_episode_8_8"
+msgstr "The duel"
+
+msgid "title_napo_episode_8_9"
+msgstr "Think to move"
+
+msgid "title_napo_episode_8_10"
+msgstr "Hold me tight"
+
+msgid "title_napo_episode_8_11"
+msgstr "The end"
+
+msgid "title_napo_episode_9_0"
+msgstr "Introduction"
+
+msgid "title_napo_episode_9_1"
+msgstr "Assess the risk"
+
+msgid "title_napo_episode_9_2"
+msgstr "Identify the unknown"
+
+msgid "title_napo_episode_9_3"
+msgstr "Act on risks"
+
+msgid "title_napo_episode_9_4"
+msgstr "Risky combination"
+
+msgid "title_napo_episode_9_5"
+msgstr "Eliminate the hazard"
+
+msgid "title_napo_episode_9_6"
+msgstr "Safety pays"
+
+msgid "title_napo_episode_9_7"
+msgstr "The end"
+
+msgid "title_napo_film_1"
+msgstr "Best Signs Story"
+
+msgid "description_napo_film_1"
+msgstr "Это первый фильм мультсериала о Напо, в котором дается основная информация о знаках и символах безопасности, которые можно встретить на рабочем месте. Серия служит полезным источником информации для новых работников и хорошим напоминанием для остальных, в ней показаны различные ситуации, когда использование знаков безопасности необходимо. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать.<br/><br/>В фильме, состоящем из 13 эпизодов, рассказывается о знаках безопасности, их важности, а также о том, как их различать в зависимости от их формы и цвета. В каждом эпизоде Напо сталкивается со знаками, которые оживают и объясняют свое значение и важность безопасности. Зрители увидят, что случится, если знаки игнорируются, а также какие  технические и организационные препятствия могут мешать их соблюдению"
+
+msgid "title_napo_film_2"
+msgstr "The Adventures of Napo"
+
+msgid "description_napo_film_2"
+msgstr "В фильме рассказывается о наиболее часто встречающихся рисках на рабочих местах, узнать о которых будет наиболее полезно для тех, у кого мало или совсем нет опыта работы. В нем показана необходимость просветительской работы по теме рисков, безопасной работы и важность обучения. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Цель фильма – повысить уровень знаний об основных рисках, заставить аудиторию задуматься о несчастных случаях и обсудить возможные меры их предотвращения. С героями серии происходит девять несчастных случаев, явившихся следствием типичных индивидуальных или коллективных рисков на предприятии. В фильме показана важность правильной установки знаков безопасности, понимания предупреждающих обозначений, безопасности в дороге с работы или на работу, использования адекватных средств индивидуальной защиты, профилактики рисков, использования правильной и наиболее подходящей упаковки, опасность поиска «короткого пути» и необходимость обучения персонала работе с оборудованием. "
+
+msgid "title_napo_film_3"
+msgstr "Scratch and Sniff - Chemical Risks at Work"
+
+msgid "description_napo_film_3"
+msgstr "В эпизодах этой серии Напо приходиться работать с химикатами, в том числе и с раздражающими, воспламеняющимися,  коррозионно-активными,  токсичными или опасными для окружающей среды. В конце каждого эпизода показаны наглядные примеры, как избежать несчастных случаев. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Он показывает необходимость важности правильной маркировки химических продуктов. В заключительной части каждого эпизода сначала показывается, как не следует работать с химикатами и какие последствия могут возникнуть при неправильном обращении, а затем правильный способ работы, отраженный в инструкциях по безопасности. В фильме описаны шесть из девяти знаков безопасности, а также вкратце рассказывается о рисках при работе со взрывоопасными веществами."
+
+msgid "title_napo_film_4"
+msgstr "Napo in Safe on Site"
+
+msgid "description_napo_film_4"
+msgstr "Напо работает на строительной площадке. Как любой работник, он сталкивается с большим количеством опасных ситуаций, но ему удается преодолеть эти испытания. Фильм предназначен для работников, занятых в строительной отрасли, но также подходит и для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Цель фильма – показать наиболее часто встречающиеся риски на строительных площадках, а также профилактические меры, подходящие в данной ситуации. Во вступлении вы познакомитесь с работником стройплощадки Напо, его коллегой, начальником и архитектором. Семь эпизодов серии показывают различные риски: падение с высоты, бег с препятствиями, боли в спине, организация транспортных путей, гигиена и безопасность на строительной площадке. "
+
+msgid "title_napo_film_5"
+msgstr "Napo in Clean Sweep"
+
+msgid "description_napo_film_5"
+msgstr "В этой серии показаны риски для здоровья и безопасности работников, занятых в сфере клининговых услуг и работающих по договорам подряда: подскальзывание и спотыкание, падение, переноска тяжестей в ручную и работа в одиночку. Целевую аудиторию представляют предприятия и подрядчики сферы клининговых услуг, но фильм также подходит и для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Цель фильма – ознакомить людей с рисками, с которыми они сталкиваются в процессе уборки, а также с возможными профилактическими мерами. Иногда Напо ведет себя осторожно, иногда рискует. Он, Напетт, его коллеги, начальник и клиенты сталкиваются с рисками различных уровней. Ситуации дают возможность поговорить об организации и планировании работы, знаках безопасности, использовании стремянок и приставных лестниц, проблемах ручной переноски тяжестей, совместной работы и обмена информацией."
+
+msgid "title_napo_film_6"
+msgstr "Napo in Stop that Noise"
+
+msgid "description_napo_film_6"
+msgstr "Тысячи работников страдают от шума на рабочих местах. Эта серия демонстрирует основные причины потери слуха и подчеркивает необходимость контролировать шум в источнике, а также предпринимать профилактические меры и носить подходящие средства защиты слуха, когда это необходимо. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать.  "
+
+
+msgid "title_napo_film_7"
+msgstr "Napo in Safe Start"
+
+msgid "description_napo_film_7"
+msgstr "В этом фильм содержится полезная информация для молодых работников, только начинающих свою карьеру или приходящих на новое место работы. Напо отлично воспринимается молодежью, особенно во время обучения или тренинга. Фильм подходит и для всех новичков на рынке труда, включая работников-мигрантов и временных рабочих. Серия состоит из 7 эпизодов, демонстрирующих типичные ситуации, с которыми сталкиваются новички."
+
+msgid "title_napo_film_8"
+msgstr "Napo in Lighten the Load"
+
+msgid "description_napo_film_8"
+msgstr "В Европе наиболее распространенными заболеваниями, связанными с производством, являются мышечно-скелетные повреждения (МСП). От них страдают миллионы работников – можно сказать, что около 90% людей в какой-то момент их жизни страдают от болей в спине, верхних конечностях (WRULDs), хронических растяжений сухожилий.<br/>В серии 'Lighten the load' поддерживается подход к комплексному управлению борьбой с МСП, а также показывается необходимость учитывать все нагрузки, действующие на человека: стрессы, перенапряжение, факторы окружающей обстановки, такие как работа при пониженных температурах, платформа, на которой работа выполнялась, и передвигаемый груз.<br/>В этом фильме Напо сталкивается с различными рабочими ситуациями. Серия демонстрирует 11 типичных ситуаций, встречающихся на рабочих местах, и подходит для демонстрации всем работникам, включая мигрантов и временных рабочих. "
+
+msgid "title_napo_film_9"
+msgstr "Napo in Risky Business"
+
+msgid "description_napo_film_9"
+msgstr "Главной темой Европейской кампании в 2008/09 стала оценка рисков. Серия Risky business рассказывает об опасностях и рисках на рабочем месте, необходимости оценки рисков и последующих мер по результатам оценки, для того чтобы сделать рабочие места более безопасными и здоровыми. В этой серии рассматриваются опасности и наиболее часто встречающиеся производственные риски, когда девиз «Остановись, подумай, действуй» помогает снизить количество несчастных случаев и ухудшений состояния здоровья на производстве. Фильм используется как вспомогательный элемент в обучении основам оценки рисков и понятий опасности и риска."
+
+msgid "label_napo_view_episodes"
+msgstr "Смотреть эпизоды"
+
+msgid "label_napo_click_to_see_film"
+msgstr "Click the image to see the film..."
+
+msgid "label_napo_download_film_as"
+msgstr "Download this film as"
+
+msgid "label_napo_download_episode_as"
+msgstr "Download this film as"
+
+msgid "label_avi"
+msgstr "AVI"
+
+msgid "label_wmv"
+msgstr "WMV"
+
+msgid "label_or"
+msgstr "or"
+
+
+msgid "title_napo_film_11"
+msgstr "Napo in: Safety in… and outside of work"
+
+msgid "description_napo_film_11"
+msgstr "Фильм рассказывает историю Напо, идеального работника. Тем не менее, после работы он игнорирует все правила и риски в различных ситуациях. Это приводит к множеству инцидентов, которые не заканчиваются трагически, но в конце концов приводят к спортивной травме, из-за которой Напо попадает в госпиталь. Время досуга покрывает вождение автомобиля, домашние работы, образ жизни, поведение в обществе и спорт. С сайта (или DVD) можно загрузить короткую  викторину, которую можно использовать для обсуждения некоторых простых правил с аудиторией. Основная целевая группа  этого фильма – работники на предприятиях. Он предназначен для того, чтобы обратить внимание на то, как сделать досуг безопасным.  Фильм также может быть использован для обучения руководителей вопросам сохранения и поддержания работоспособности работников."
+
+# ---------- New Napo Film Number 12    Danger: Chemicals
+msgid "title_napo_film_12"
+msgstr "Аннотация"
+
+msgid "description_napo_film_12"
+msgstr "<p>Данный  фильм представляет собой пересмотренную и исправленную версию мультфильма ‘Scratch and Sniff – chemical risks at work’, выпущенного в 2003. Он вносит изменения в гармонизацию знаков (пиктограмм), используемых при перевозке опасных грузов и знаков, используемых в классификации товаров, а также при маркировке и упаковке химических веществ (CLP). Существующие в настоящее время 7 пиктограмм должны быть  заменены на девять.</p><p>Ключевые даты: 1 декабря 2010 года химические вещества должны быть переклассифицированы и маркированы в соответствии с новой глобальной системой (СГС); и 1 июня 2015 года – тот же процесс будет применяться к смесям (прежнее название «препараты»).</p><p>Напо участвует в различных ситуациях  работы с химикатами, в том числе с отравляющими, легковоспламеняющимися, едкими, токсичными или опасными для окружающей среды. Каждая ситуация сопровождается краткими  последовательными данными о том, какие безопасные методы работы необходимо применять для  предотвращения  несчастных случаев.  Данный фильм предназначен для всех отраслей	производства и  работников всех уровней. Цель заключается в том, чтобы привлечь внимание к важности  маркировки химической продукции.  После начальной сцены со взрывом, шесть последовательных сценок показывают, к каким серьёзным последствиям может привести неправильное обращение с химикатами, и что нужно  делать, чтобы  правильно соблюдать инструкции по безопасности. </p>"
+
+msgid "title_napo_episode_12_1"
+msgstr "Chemical risks at work"
+
+msgid "title_napo_episode_12_2"
+msgstr "Harmful"
+
+msgid "title_napo_episode_12_3"
+msgstr "Irritant"
+
+msgid "title_napo_episode_12_4"
+msgstr "Flammable"
+
+msgid "title_napo_episode_12_5"
+msgstr "Corrosive"
+
+msgid "title_napo_episode_12_6"
+msgstr "Toxic"
+
+msgid "title_napo_episode_12_7"
+msgstr "Dangerous for the environment"
+
+msgid "title_napo_episode_12_8"
+msgstr "The end"
+
+
+# ---------- New Napo Film Number 13    Protect your Skin
+msgid "title_napo_film_13"
+msgstr "Napo in... Protect your skin!"
+
+msgid "description_napo_film_13"
+msgstr "<p>Данный фильм  повышает уровень осведомленности об опасностях,  связанных с воздействием вредных веществ (а иногда и других, не вредных) на кожу, о ситуациях, когда это происходит, и о том, что предпринять, чтобы избежать рисков, защитить кожу и предотвратить ущерб. Напо раскрывает много ситуаций, в которых воздействие химических и других веществ может вызвать проблемы с кожей. Он узнает об удивительных свойствах кожи, и раздевается догола, чтобы показать публике: «Всё, что вы всегда хотели знать о…вашей коже». Он <p>информирует о мерах предотвращения  проблем, используя три важных принципа: Избегать-Защищать-Проверять.</p>Избежать или минимизировать контакт с химическими веществами возможно путем устранения опасного вещества – использование механического метода вместо химического; путем замещения – использование более безопасной альтернативы; и путем предотвращения прямого контакта – использование инструментов и приспособлений вместо обработки с прямым контактом.  Средства индивидуальной защиты (СИЗ) предназначены для защиты кожи, но Напо напоминает нам о важности заботы о коже, с помощью быстрого удаления загрязнений, мытья кожи должным образом, тщательного высушивания кожи и применения кремов для кожи на регулярной основе.</p> <p> В заключение Напо рекомендует регулярно проводить осмотры  для своевременного выявления проблем с кожей.</p>"
+
+
+# ---------- New Napo Film Number 14   Safe Maintenance 
+msgid "title_napo_film_14"
+msgstr "Napo in... Safe maintenance"
+
+msgid "description_napo_film_14"
+msgstr "<p>Недостаточные  и неполные требования и стандарты  при проведении технического обслуживания являются одной из основных причин несчастных случаев и профессиональных заболеваний. Много несчастных случаев происходит во время ремонтных работ, или из-за отсутствия технического обслуживания, или в результате низкого качества технического обслуживания.</p> <p>Данный мультфильм показывает Напо в различных ситуациях: иногда он является подсобным рабочим, в другой раз он является наемным рабочим. Мы видим важность процедур обслуживания оборудования, проблемы «скрытых рисков», опасности  работы в тесном замкнутом пространстве, а также наличие достаточного уровня необходимых знаний у лиц, осуществляющих ремонтные работы, в  частности, проверки и испытания.</p> <p>.  Данный фильм предназначен для всех отраслей  производства и  работников всех уровней. Фильм содействует применению на практике эффективных приемов работ и обращает внимание на важность соблюдения мер безопасности при выполнении технического обслуживания. </p>"
+
+msgid "title_napo_episode_14_1"
+msgstr "Lock out"
+
+msgid "title_napo_episode_14_2"
+msgstr "Hidden hazards"
+
+msgid "title_napo_episode_14_3"
+msgstr "Don’t improvise!"
+
+msgid "title_napo_episode_14_4"
+msgstr "In a rush"
+
+msgid "title_napo_episode_14_5"
+msgstr "Danger within!"
+
+msgid "title_napo_episode_14_6"
+msgstr "One, two, what to do?"

@@ -1,0 +1,103 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 19:10+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: ro\n"
+"Language-Name: Romanian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-subsites\n"
+
+
+msgid "ew2007-navtitle_navigation"
+msgstr "Informează-te"
+
+msgid "ew2007-navtitle_about"
+msgstr "Despre campanie"
+
+msgid "ew2007-navtitle_why"
+msgstr "De ce MSDs?"
+
+msgid "ew2007-navtitle_campaign_materials"
+msgstr "Materialele campaniei"
+
+msgid "ew2007-navtitle_european noise summit"
+msgstr "European Young workers Summit"
+
+msgid "ew2007-navtitle_sign"
+msgstr "Sign the charter"
+
+msgid "ew2007-navtitle_nationalcontactsandactivities"
+msgstr "National Contacts & Activities"
+
+msgid "ew2007-navtitle_goodpracticeawards"
+msgstr "Good Practice Awards"
+
+msgid "ew2007-navtitle_logoandslogan"
+msgstr "Logo şi slogan"
+
+msgid "ew2007-navtitle_agencypub"
+msgstr "Agency publications"
+
+msgid "ew2007-navtitle_factsheets"
+msgstr "Factsheets"
+
+msgid "ew2007-navtitle_reports"
+msgstr "Reports"
+
+msgid "ew2007-navtitle_magazins"
+msgstr "Magazins"
+
+msgid "ew2007-navtitle_agencywebfeatures"
+msgstr "Agency Webfeatures"
+
+msgid "ew2007-navtitle_webfeatures"
+msgstr "Webfeatures"
+
+msgid "ew2007-navtitle_photo competition"
+msgstr "Photo Competition"
+
+msgid "ew2007-navtitle_video competition"
+msgstr "Video Competition"
+
+msgid "ew2007-navtitle_accident_zone"
+msgstr "Accident Zone"
+
+msgid "ew2007-navtitle_ideas_for_action"
+msgstr "Ideas for action"
+
+msgid "ew2007-navtitle_case_studies"
+msgstr "Case Studies"
+
+msgid "ew2007-navtitle_press_room"
+msgstr "Camera de presă"
+
+msgid "ew2007-navtitle_events"
+msgstr "Events"
+
+msgid "ew2007-navtitle_ecards"
+msgstr "eCards"
+
+msgid "ew2007-navtitle_navigation_link.2007-06-01.3873178933"
+msgstr "Napo"
+
+msgid "hwi-navtitle_navigation"
+msgstr "Elementele esenţiale ale evaluării riscurilor"
+
+msgid "hwi-navtitle_risk_assessment_essentials"
+msgstr "Liste de control privind evaluarea riscurilor pentru Iniţiativa 'Locul de muncă sănătos' (HWI)"
+
+msgid "hwi-navtitle_checklists"
+msgstr "Liste de control din alte surse"
+
+msgid "hwi-navtitle_brochure"
+msgstr "Broşură despre elementele esenţiale ale SSM"
+

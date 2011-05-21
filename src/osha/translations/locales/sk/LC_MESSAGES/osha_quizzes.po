@@ -1,0 +1,671 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sk\n"
+"Language-Name: Slovenčina\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Načítava sa"
+
+msgid "score_label"
+msgstr "Vaše skóre:"
+
+msgid "restart_label"
+msgstr "Reštartovať"
+
+msgid "true"
+msgstr "Správne"
+
+msgid "false"
+msgstr "Nesprávne"
+
+msgid "yes"
+msgstr "Áno"
+
+msgid "no"
+msgstr "Nie"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Posuňte symbol na správne miesto)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Kvíz o hluku"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Čo viete o hluku? Otestujte si vaše znalosti krátkym kvízom"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Nosiť ochranné slúchadlá je lepšie, než snažiť sa obmedziť hluk?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Dennodenne pracovať pri hlučnosti nad 100 decibelov nie je problém"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Strata sluchu postihuje iba starších ľudí"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Hluk sa dá odmerať jednoducho posluchom"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Pískanie v ušiach by malo byť varovaním"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Frekvencia súvisí s intenzitou hluku (hlučnosťou)"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Stratiť sluch možno veľmi rýchlo"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Slúchadlá alebo zátky do uší by sa mali používať iba ako núdzové východisko"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Buďte opatrní! Môžete stratiť sluch, ak si ho nebudete chrániť."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Neváhajte a konajte! Existuje veľa vecí o ochrane sluchu, ktoré by ste mali poznať."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Máte uši všade! Určite ste už počuli o ochrane sluchu."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Kvíz o povinnostiach a zodpovednosti"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Patria nasledovné skutočnosti k vašim povinnostiam?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Starať o vaše zdravie a bezpečnosť."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Vašou povinnosťou je starať sa o vaše vlastné zdravie a bezpečnosť v súlade s pokynmi a poznatkami získanými na školeniach, ktoré ste absolvovali. Vaše okolie nenesie žiadnu zodpovednosť, ak nedodržíte pokyny, alebo ak sa budete správať ľahkovážne alebo nedbanlivo."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "V čo najväčšej možnej miere musíte dbať na ľudí okolo vás v súlade pokynmi a poznatkami získanými na školeniach, ktoré ste absolvovali."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Vaše správanie sa môže dotýkať zdravia a bezpečnosti ostatných, a to buď priamo vašim konaním, alebo nepriamo nedodržaním pokynov."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Najlepším spôsobom, ako sa naučiť zaobchádzať s novým zariadením, je vyskúšať si ho."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Ak sa od vás vyžaduje zaobchádzanie s určitým zariadením, musíte vedieť ako s ním bezpečne zaobchádzať. V PRÍPADE POCHYBNOSTÍ SA OPÝTAJTE."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Spolupracovať s nadriadenými a dohliadajúcim personálom."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Zodpovednosťou vášho zamestnávateľa je vytvoriť pre vás zdravé pracovné prostredie, vašou zodpovednosťou je zaobchádzať s nástrojmi a zariadeniami podľa pokynov a v zmysle ich určenia."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "V prípade, že spozorujete nejaké riziko, vyhnite sa mu a nevenujte mu väčšiu pozornosť. Niekto iný ho ohlási a postará sa o jeho odstránenie."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Mali by existovať postupy na ohlasovanie zistených rizík. Môže to byť neformálne hlásenie vášmu nadriadenému alebo formálnejšie ohlasovacie spôsoby. NEVÁHAJTE INFORMOVAŤ O ČOMKOĽVEK - rozliate tekutiny, šmykľavá podlaha, pokazená zásuvka, alebo čokoľvek iné, o čom sa domnievate, že by malo byť ohlásené."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Pred začatím práce sa oboznámiť so všetkými aktuálnymi právnymi predpismi týkajúcimi sa BOZP."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Nevyžaduje sa to, ale je dobré mať aspoň približnú predstavu. Prezrite si informačné zdroje na tejto stránke."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Dodržiavať všetky pokyny a riadiť sa symbolmi a príkazmi nachádzajúcimi sa na pracovisku."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Bezpečnostné symboly slúžia na vašu ochranu a na pracovisku boli umiestnené podľa predpisov. Vašou povinnosťou je prečítať si ich a riadiť sa podľa nich."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Zadovážiť si a zaplatiť ochranný odev a prostriedky osobnej ochrany, ktoré sa vyžadujú na bezpečnú prácu."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Váš zamestnávateľ je povinný poskytnúť vám bezplatne akékoľvek ochranné prostriedky, ktoré sa vyžadujú na bezpečnú prácu(prilby, masky, rukavice, odev na prácu vonku, ochranné čižmy atď). Prostriedky osobnej ochrany musíte používať v súlade s predpismi a po použití ich vrátiť na určené miesto."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Vysoké riziko - ste vystavený nebezpečenstvu úrazu."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Mierne riziko - dobrý začiatok, ale ešte sa musíte učiť."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Nízke riziko - váš začiatok bol Bezpečným štartom - gratulujeme!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Kvíz o zamestnávateľoch"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Váš šéf musí..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Vytvoriť a udržiavať bezpečné pracovisko (podnik) a pracovné systémy, kde nikomu nehrozí žiadne nebezpečenstvo pre jeho zdravie."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Uistiť sa, že používanie, zaobchádzanie, skladovanie a preprava tovarov a materiálov sú bezpečné a neohrozujú zdravie pracovníkov."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Poskytnúť informácie, pokyny, školenia a dohľad týkajúce sa záležitostí BOZP pre všetkých zamestnancov."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Udržiavať na pracovisku bezpečné a zdravie neohrozujúce podmienky."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Uskutočňovať posudzovanie rizík (stanoviť a zminimalizovať nebezpečenstvá) a zaznamenávať zistenia."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Vyvinúť systémy a postupy týkajúce sa BOZP."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Spolupracovať a radiť sa so zamestnancami a subdodávateľmi, ktorí pre nich pracujú."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Dodržiavať všetky existujúce právne predpisy týkajúce sa BOZP."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Vysoké riziko - mali by ste sa viac zaujímať o povinnosti vášho šéfa týkajúce sa sa vašej bezpečnosti a ochrany zdravia na pracovisku"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Mierne riziko - dobrý začiatok, ale ešte sa musíte učiť"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Nízke riziko - ste dobre informovaný o povinnostiach vášho šéfa"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Hra s číslami"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Poškodenia podporno-pohybovej sústavy (MSD) sú najbežnejšími chorobami z povolania v EÚ-27. Aká je závažnosť tohto problému? Aký je názor ľudí na ich pracovné podmienky? Ak sa chcete dozvedieť viac, urobte si náš kvíz:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Aké percento zamestnancov si sťažuje na bolesti chrbta spôsobené prácou?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Aké percento ľudí si sťažuje na bolesti svalov spôsobené prácou?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Percento zamestnancov v Európe, ktorí v období od 2000 do 2005 udávali, že vykonávajú jednostranné opakované pracovné úkony počas štvrtiny ich pracovnej doby a dlhšie, :"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. ostalo presne také isté"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. znížilo sa o 5 %"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. ostalo skoro také isté"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. zvýšilo sa o 5 %"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Čo je najčastejší zdravotný problém súvisiaci s prácou?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. bolesti hlavy"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. bolesti chrbta"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. únava"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. stres"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Koľko percent ľudí tvrdí, že vykonáva opakované pohyby rúk a ramien dlhšie ako štvrtinu ich pracovnej doby?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "V ktorom priemyselnom odvetví je väčšia pravdepodobnosť, že ženy v rámci v svojej práce musia dvíhať alebo prenášať ľudí?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. vzdelávanie a zdravotníctvo"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. obchody a obchodné domy"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. finančníctvo"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. verejná správa"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Aké percento zamestnancov používa počítač prakticky počas celej pracovnej doby?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Ktorá veková kategória zamestnancov udáva, že fyzická činnosť tvorí najvyšší podiel ich práce?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. mladší ako 25 rokov"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. medzi 25 a 44 rokov"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45 až 54-roční"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. starší ako 55 rokov"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Tento kvíz je založený na údajoch získaných od Eurostatu, štatistického úradu Európskej únie, a zo Štvrtého prieskumu pracovných podmienok, ktorý uskutočnila Európska nadácia pre zlepšovanie životných a pracovných podmienok."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Kvíz o bezpečnostných značkách"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Poznáte bezpečnostné značky? Otestujte si vaše znalosti kvízom o bezpečnostných značkách!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Predaj slnečných okuliarov"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Bezplatný test zrakovej ostrosti"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Povinnosť nosenia ochranných okuliarov"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Optik"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Križovatka"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Prvá pomoc"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Nešliapte po trávniku"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Nemocnica"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Pirátska loď"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Pohrebisko"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Nebezpečenstvo"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Toxické látky"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Predaj mobilných telefónov"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Zákaz používania mobilných telefónov"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Tichá zóna"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Oprava telefónov"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Tu pracujú diskdžokeji"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Povinnosť nosenia ochrany sluchu"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Hlučné prostredie"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Majte uši vždy v teple"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Zakopaný poklad"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Blížiaca sa búrka"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elektrina"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Pozor - hady a plazy"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Kurz aerobiku"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitnescentrum"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Únikový východ"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Dvere"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Miesto pre fajčiarov"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Nemanipulujte s otvoreným ohňom"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Predaj cigariet"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Nafajčite"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Vysoké riziko - ste vystavený nebezpečenstvu úrazu."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Mierne riziko - dobrý začiatok, ale ešte sa musíte učiť."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Nízke riziko - váš začiatok bol Bezpečným štartom - gratulujeme!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Kvíz o svalovo-kostrových poruchách"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Čo viete o svalovo-kostrových poruchách (MSD) a o bolestiach chrbta? Otestujte si vaše znalosti krátkym kvízom."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "V členských štátoch EÚ existujú osobitné právne predpisy, ktoré sú venované dvíhaniu záťaží"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Existuje európska smernica o požiadavkách BOZP na manuálne zaobchádzanie s nákladmi, ktorú musia všetky členské štáty implementovať do svojej legislatívy."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Tehotné ženy môžu dvíhať záťaže bez toho, aby im to spôsobilo ujmu"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Tehotné ženy alebo ženy, ktoré sa prednedávnom stali matkami, by nemali dvíhať ťažké náklady, keďže s postupujúcim tehotenstvom rastie riziko poranenia."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Vystavenie vybráciam môže zvýšiť riziko \"poškodenia z opakovaného namáhania (RSI)\""
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Ak vás niečo rozbolí z dôvodu opakovania pracovného úkonu alebo kvôli dvíhaniu záťaže, najlepším riešením sú lieky proti bolesti."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Ak pracujete v nezdravom pracovnom prostredí a pod vplyvom liekov proti bolesti, vaše problémy sa budú iba zhoršovať, čo by mohlo viesť trvalému poškodeniu"
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Svalovo-kostrová porucha sa môže objaviť aj v dôsledku chýbajúceho pohybu"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Ak sa pri práci nachádzate dlhší čas v nezmenej polohe, ale naďalej pracujete. Nazýva sa to \"statická záťaž\". Ľudské telo bolo stvorené na pohyb. Ak sa dlhší čas nachádzate v jednej polohe, ako je napríklad dlhé sedenie alebo státie, nie je to pre vaše telo prospešné."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Studené/vlhké pracovné prostredie je rizikovým faktorom vzniku svalovo-kostrových porúch."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Používanie počítačovej myši nemôže spôsobiť svalovo-kostrové poruchy"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Na správne používanie počítačovej myši existuje niekoľko jednoduchých pokynov, ku ktorým patrí dostatočná opora predlaktia a ruky blízko pri tele a pravidelné prestávky v práci"
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Pri práci za počítačom by mali mať každé dve hodiny prestávku."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Odporúča sa 10-minútová prestávka po 50 minútach práce na počítačovej klávesnici."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Ojoj! Riziko svalovo-kostrovej poruchy je u vás veľmi vysoké."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Sem-tam bolesti a tŕpnutie končatín! Získajte viac poznatkov o ochrane vášho tela."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Pracujete pohodlne! Viete toho veľa, ale nezabúdajte to uplatňovať v praxi."
+

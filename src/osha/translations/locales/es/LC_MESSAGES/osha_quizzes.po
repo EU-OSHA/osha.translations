@@ -1,0 +1,656 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2006-04-05 17:32+0100\n"
+"Last-Translator: Uli Schrempp <schrempp@syslab.com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: es\n"
+"Language-Name: Espanol\n"
+"Preferred-Encodings: latin1 UTF-8\n"
+"Domain: osha_quizzes\n"
+
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Cargando..."
+
+msgid "score_label"
+msgstr "Puntuación:"
+
+msgid "restart_label"
+msgstr "Reiniciar"
+
+msgid "true"
+msgstr "Verdadero"
+
+msgid "false"
+msgstr "Falso"
+
+msgid "yes"
+msgstr "Sí"
+
+msgid "no"
+msgstr "No"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Coloque la señal en la posición correcta)"
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Juego de preguntas sobre el ruido"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "¡Ponga a prueba sus conocimientos sobre el ruido! ¡Responda a las cuestiones!"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "¿Es mejor llevar cascos de protección auditiva que intentar eliminar el ruido?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "¿Es adecuado trabajar todo el día con unos niveles de ruido de 100 decibelios?"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "La pérdida de capacidad auditiva sólo afecta a las personas mayores."
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Cualquiera puede medir el ruido simplemente escuchando con atención."
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Un pitido en los oídos debería servir de advertencia."
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "La frecuencia se refiere a la intensidad (volumen) del ruido."
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "La capacidad auditiva se pierde súbitamente."
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Los cascos o los tapones para los oídos deberían utilizarse sólo como último recurso."
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "¡Cuidado! Puede perder capacidad auditiva si no toma medidas de protección."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "¡Actúe ahora! Hay cosas que debe saber sobre cómo proteger la capacidad auditiva."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "¡Es tú todo oídos! Seguro que ha oído hablar de cómo proteger la capacidad auditiva."
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Juego de preguntas sobre las responsabilidades"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "¿Quién es responsable de hacer que se cumpla lo siguiente?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "usted es el responsable último de su salud y su seguridad."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "La protección de su salud y de su seguridad, utilizando para ello las instrucciones y la formación que ha recibido, es responsabilidad suya. Nadie más es responsable de lo que ocurra si hace caso omiso de las instrucciones o si se comporta con neglicencia o temeridad."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Debe usted cuidar de las personas de su entorno siguiendo para ello las instrucciones y la formación que ha recibido."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Su comportamiento puede afectar a la salud y la seguridad de otras personas: ya sea directamente (como consecuencia de lo que usted haga) o indirectamente (como consecuencia de lo que usted no haga)."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Al utilizar nuevos equipos, la mejor forma de aprender es probarlos uno mismo y aprender de los propios errores."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Si le piden que utilice un equipo determinado, primero deberán enseñarle como utilizarlo de forma segura. EN CASO DE DUDA, PREGUNTE."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Debe usted colaborar con sus jefes y supervisores."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Es responsabilidad de su jefe garantizar que el entorno laboral en el que usted trabaja sea seguro; es responsabilidad suya utilizar correctamente los equipos y seguir las instrucciones dadas."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Si detecta un peligro, evítelo e ignórelo: no es asunto suyo ni comunicarlo ni solucionarlo."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "En este caso, debería haber algún tipo de procedimiento que seguir para comunicar los posibles peligros. El procedimiento puede ser informal (comentarlo a su supervisor) o más formal (seguir los pasos que pueda haber aprobado su empresa u organización). NO TENGA MIEDO DE HABLAR DE ALGO - un derrame en el suelo o un suelo resbaladizo, un enchufe roto o cualquier otra cosa que considere que encierra un peligro."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "El trabajador debe conocer todas las leyes sobre salud y seguridad antes de empezar a trabajar."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Esto no es obligatorio pero es bueno tener una idea general. Consulte la información disponible en este sitio web."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "El trabajador debe respetar todas las instrucciones, señales y normas expuestas en el puesto de trabajo."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "La señales de seguridad se exponen para proteger a los trabajadores y su colocación viene determinada por la ley. Es responsabilidad del trabajador consultarlas y cumplirlas."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Es el trabajador quien tiene que proporcionar y pagar la ropa y los equipos de protección que necesite para trabajar con seguridad."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Corresponde a la empresa proporcionar los equipos de protección necesarios para que los empleados trabajen con seguridad (casco, máscaras, guantes, ropa de exterior, botas de protección, etc.) sin cargo alguno. Por su parte, los empleados tienen que utilizarlos correctamente y, una vez usados, devolverlos al lugar de donde los cogieron."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Alto riesgo: tiene usted muchas probabilidades de sufrir un accidente."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Riesgo medio: no está mal para empezar pero aún le queda por aprender."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Riesgo bajo: ¡excelente! No ha podido usted empezar mejor."
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Juego de preguntas sobre las empresas"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Su jefe tiene que..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "proveer y mantener instalaciones (el lugar de trabajo) y sistemas que sean seguros y que no planteen riesgos para la salud."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "garantizar que el uso, el manejo, el almacenamiento y el transporte de mercancías y sustancias son seguros y no plantean ningún riesgo para la salud."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "ofrecer a todos sus empleados información, instrucciones, formación y supervisión en materia de salud y seguridad."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "mantener el lugar de trabajo en condiciones saludables y seguras."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "realizar evaluaciones de riesgos (determinar cuáles son los peligros y controlarlos) y llevar un registro de los resultados obtenidos."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "elaborar sistemas y poner en marcha procedimientos de salud y seguridad."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "consultar a los empleados y cooperar con ellos así como con cualquier contratista que trabaje para ellos."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "cumplir la legislación relevante en materia de salud y seguridad."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Alto riesgo: infórmese más sobre lo que su jefe tiene que hacer para salvaguardar su seguridad y su salud en el trabajo."
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Riesgo medio: no está mal para empezar pero aún le queda por aprender."
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Bajo riesgo: sabe usted suficiente sobre lo que su jefe tiene que hacer."
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "El juego de los números"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Los trastornos musculoesqueléticos (TME) constituyen el problema sanitario más frecuente relacionado con el trabajo en la UE27. ¿Cuál es el alcance del problema? ¿Qué piensa la gente sobre sus condiciones de trabajo? Para saberlo, responda a nuestro cuestionario:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "¿Qué porcentaje de trabajadores se queja de dolor de espalda ocasionado por su trabajo?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "¿Qué porcentaje de trabajadores se queja de dolor muscular ocasionado por su trabajo?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Entre 2000 y 2005 el porcentaje de trabajadores en Europa que manifestaron estar sometidos a movimientos repetitivos durante un cuarto de su tiempo de trabajo o más:"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. ¿se mantuvo en el mismo nivel? "
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. ¿disminuyó en un 5%?"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. ¿se mantuvo casi en el mismo nivel? "
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. ¿aumento en un 5%?"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "¿Cuál es el trastorno de salud más frecuente relacionado con el trabajo?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Dolor de cabeza"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Dolor de espalda"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Fatiga"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Estrés"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "¿Cuántas personas manifiestan estar expuestas a movimientos repetitivos de las manos y los brazos durante un cuarto de su tiempo de trabajo o más?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "¿En Europa, en qué sectores laborales es más frecuente que las mujeres se vean obligadas a levantar o mover personas en el ejercicio de su trabajo?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. educación y salud"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. comercio y almacenes"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. servicios financieros"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. administración pública"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "¿Qué porcentaje de trabajadores utiliza ordenadores durante todo o la mayor parte del tiempo de trabajo?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "¿Qué tramos de trabajadores manifiestan soportar el mayor nivel de esfuerzo físico en sus puestos de trabajo? "
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Menores de 25"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. 25-44 años"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45-54 años"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Mayores de 55 años"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Este cuestionario está basado en información proporcionada por Eurostat, la Oficina Estadística de la Unión Europea, y en la 4ª Encuesta Europea sobre Condiciones de Trabajo (EWCS 2005) llevada a cabo por la Fundación Europea para la Mejora de las Condiciones de Vida y de Trabajo"
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Juego de preguntas sobre las señales de seguridad"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "¿Conoce las señales de seguridad? ¡Ponga a prueba sus conocimientos!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Se venden gafas de sol"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Examen de la vista gratuito"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Os obligatorio llevar gafas de protección"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Oftalmólogo"
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Atención, cruce"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Primeros auxilios"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Prohibido pisar el césped"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Hospital"
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Atención, barco pirata"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Campo santo"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Peligro"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Sustancias tóxicas"
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Se venden teléfonos móviles"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Está prohibido utilizar el teléfono móvil"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Zona tranquila"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Reparación de teléfonos"
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Zona de trabajo de DJs"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Obligatorio utilizar protección auditiva"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Zona ruidosa"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "No deje nunca que se le enfríen las orejas"
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Tesoro escondido"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Atención, tormentas"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Electricidad"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Peligro - culebras y serpientes"
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Clase de aerobic"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Gimnasio"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Salida de emergencia"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Entrada"
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Fumadores"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Prohibido hacer llamas"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Se venden cigarrillos"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "No fumar"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Alto riesgo: puede usted sufrir un accidente."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Riesgo medio: no está mal para empezar pero aún le queda por aprender."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Riesgo bajo: ¡excelente! No ha podido usted empezar mejor."
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Juego de preguntas sobre TME"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "¿Cuánto sabe usted sobre trastornos musculoesqueléticos (TME) y sobre dolores de espalda? ¡Intente responder a las siguientes preguntas rápidas!"
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "Los Estados miembros de la UE han aprobado leyes para regular la manipulación de cargas."
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Existe una Directiva europea sobre las disposiciones de seguridad y de salud relativas a la manipulación manual de cargas que todos los Estados miembros han traspuesto a sus respectivas legislaciones."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Las mujeres embarazadas pueden levantar cargas pesadas sin ningún problema."
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Las mujeres embarazadas o que acaban de dar a luz no deberían levantar cargas persadas; cuanto más avanza la gestación más riesgos corre la trabajadora de sufrir lesiones."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "La exposición a las vibraciones en el trabajo puede aumentar el riesgo de que se produzcan lesiones por movimientos repetitivos."
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Los analgésicos son la mejor solución cuando los trabajadores sufren dolores como consecuencia de realizar trabajos repetitivos o de levantar cargas."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Continuar trabajando en condiciones de inseguridad y tomando analgésicos sólo hace que las cosas empeoren y que la persona en cuestión llegue a sufrir una discapacidad permanente."
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "La inactividad puede provocar trastornos musculoesqueléticos (TME)."
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Mantener una postura implica que el cuerpo sigue trabajando. Es lo que se denomina 'carga estática'. El cuerpo está pensado para moverse; mantener una sola postura, incluido estar sentado o de pie durante mucho tiempo, no es bueno."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Un entorno de frío/humedad es un factor que puede hacer que se produzcan trastornos musculoesqueléticos."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Utilizar el ratón del ordenador no puede causar TME."
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Existen algunos principios de fácil aplicación para utilizar el ratón correctamente: mantener la mano y el antebrazo apoyados en una superficie, no lejos del resto del cuerpo, y hacer descansos."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Se recomienda hacer un descanso y alejarse del teclado cada dos horas."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Se recomienda hacer un descanso de 10 minutos después de haber trabajado 50 minutos con el teclado; el descanso implica cambiar de actividad."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "¡Vaya! Corre usted grave peligro de sufrir TME."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "¡Dolores y hormigueos periódicos! Infórmese más sobre cómo luchar contra estos fenómenos."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "¡Así se trabaja! Sabe usted mucho, pero no se olvide de poner sus conocimientos en práctica."
+

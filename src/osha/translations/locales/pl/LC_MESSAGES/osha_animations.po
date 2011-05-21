@@ -1,0 +1,87 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: pl\n"
+"Language-Name: Polski\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Strefa RISK"
+
+msgid "Discover Safe Start "
+msgstr "Odkryj “Bezpieczny start w pracy”"
+
+msgid "Why RISQ it?"
+msgstr "Po co Ci to RISK?"
+
+msgid "What can you RISQ?"
+msgstr "CO RISK?"
+
+msgid "Competitions"
+msgstr "Konkursy"
+
+msgid "On the edge of safety"
+msgstr "O krok od niebezpieczeństwa"
+
+
+# animations
+msgid "anim_restart"
+msgstr "Uruchom ponownie"
+
+msgid "anim01_message_01"
+msgstr "Zanim zaczniesz się wspinać, sprawdź, czy drabina stoi prawidłowo"
+
+msgid "anim01_message_02"
+msgstr "Ustaw drabinę przy ścianie pod odpowiednim kątem"
+
+msgid "anim01_message_03"
+msgstr "Zadbaj, by u stóp wysokiej drabiny zawsze ktoś czuwał"
+
+msgid "anim01_end"
+msgstr "“Uważaj – nie spadaj”"
+
+msgid "anim02_end"
+msgstr "“Uważaj – nie spadaj”"
+
+msgid "anim03_message_01"
+msgstr "Nie pracuj w niebezpiecznych lub nieodpowiednich warunkach"
+
+msgid "anim03_message_02"
+msgstr "Nie bój się prosić o pomoc"
+
+msgid "anim03_end"
+msgstr "„Bądź uważny – nie cierp w milczeniu”"
+
+msgid "anim04_message_01"
+msgstr "Pomyśl dwa razy, zanim coś podniesiesz i przeniesiesz"
+
+msgid "anim04_message_02"
+msgstr "Używaj odpowiedniego sprzętu"
+
+msgid "anim04_message_03"
+msgstr "Zawsze staraj się zmniejszyć ciężar"
+
+msgid "anim04_end"
+msgstr "„Bądź uważny – kark da się skręcić tylko raz”"
+
+msgid "anim02_message_01"
+msgstr "Nie pracuj w ciemnościach"
+
+msgid "anim02_message_02"
+msgstr "Unikaj improwizacji, jeśli stanowi ona zagrożenie dla Twojego"

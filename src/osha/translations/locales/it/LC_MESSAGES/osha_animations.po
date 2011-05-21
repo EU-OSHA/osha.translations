@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: it\n"
+"Language-Name: Italian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Zona RISQ"
+
+msgid "Discover Safe Start "
+msgstr "Come iniziare in sicurezza"
+
+msgid "Why RISQ it?"
+msgstr "Perché RISQ ?"
+
+msgid "What can you RISQ?"
+msgstr "Che cosa RISQ?"
+
+msgid "Competitions"
+msgstr "Concorsi"
+
+msgid "On the edge of safety"
+msgstr "Al limite della sicurezza"
+
+# animations
+msgid "anim_restart"
+msgstr "Ricomincia"
+
+msgid "anim01_message_01"
+msgstr "Controlla i piedi della scala prima di salirci"
+
+msgid "anim01_message_02"
+msgstr "Metti la scala contro il muro alla giusta inclinazione"
+
+msgid "anim01_message_03"
+msgstr "Se sali su una lunga scala, chiedi sempre a qualcuno di sorvegliare i"
+
+msgid "anim01_end"
+msgstr "“Attenzione – Non vale la pena di rompersi il collo”"
+
+msgid "anim02_end"
+msgstr "“Attenzione – Non vale la pena di rompersi il collo”"
+
+msgid "anim03_message_01"
+msgstr "Non lavorare in condizioni pericolose o sbagliate"
+
+msgid "anim03_message_02"
+msgstr "Non avere paura di chiedere aiuto"
+
+msgid "anim03_end"
+msgstr "“Attenzione – Non soffrire in silenzio!”"
+
+msgid "anim04_message_01"
+msgstr "Rifletti prima di sollevare o portare qualcosa"
+
+msgid "anim04_message_02"
+msgstr "Usa le attrezzature previste"
+
+msgid "anim04_message_03"
+msgstr "Prova sempre ad alleggerire il carico"
+
+msgid "anim04_end"
+msgstr "“Attenzione – La schiena si rompe una volta sola!”"
+
+msgid "anim02_message_01"
+msgstr "Non lavorare al buio"
+
+msgid "anim02_message_02"
+msgstr "Non improvvisare se c’è un rischio per la sicurezza"

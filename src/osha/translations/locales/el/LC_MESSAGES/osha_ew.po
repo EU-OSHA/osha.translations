@@ -1,0 +1,141 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: el\n"
+"Language-Name: Greek\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Eυρωπαϊκή Εβδομάδα για την Ασφάλεια και την Υγεία στην Εργασία ${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Βεβαίωση"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Με την παρούσα βεβαίωση πιστοποιείται ότι"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "έχει συνυπογράψει τη Χάρτα της Ευρωπαϊκής Εβδομάδας ${year} με τη δέσμευση να συμβάλει ενεργά στη φετινή"
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">εκστρατεία Ευρωπαϊκής Εβδομάδας</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Μειώστε την Καταπόνηση"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Βεβαίωση συμμετοχής"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Με την παρούσα βεβαιούται η συμμετοχή του/της"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "στην <font face=\"ArialItalic\">εκστρατεία «Μειώστε την Καταπόνηση»</font>, μια ευρωπαϊκή εκστρατεία για μείωση του αριθμού των μυοσκελετικών παθήσεων (ΜΣΠ) σε σχέση με την εργασία και για ασφαλέστερους και υγιεινότερους χώρους εργασίας."
+
+msgid "director"
+msgstr "Διευθυντής"
+
+msgid "email_text_1"
+msgstr "Σας ευχαριστούμε για τη συνυπογραφή της Χάρτας της Ευρωπαϊκής Εβδομάδας."
+
+msgid "email_text_2"
+msgstr "Στο παρόν ηλεκτρονικό μήνυμα υπάρχει συνημμένο το κείμενο της Χάρτας σε μορφή αρχείου PDF, το οποίο μπορείτε να εκτυπώσετε."
+
+msgid "email_text_3"
+msgstr "Για περισσότερες πληροφορίες για την εκστρατεία της Ευρωπαϊκής Εβδομάδας μπορείτε να επισκεφθείτε την ακόλουθη ιστοθέση:"
+
+msgid "feedback_text_1"
+msgstr "Σας ευχαριστούμε για τη συνυπογραφή της Χάρτας της Ευρωπαϊκής Εβδομάδας."
+
+msgid "feedback_text_2"
+msgstr "Επιστροφή στη βεβαίωση"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "ΒΕΒΑΙΩΣΗ ΣΥΜΜΕΤΟΧΗΣ"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "Βεβαιώνεται η συμμετοχή της"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "στην εκστρατεία Ασφαλείς και Υγιείς Χώροι Εργασίας – Οφέλη για εσένα προσωπικά. Οφέλη για τις επιχειρήσεις."
+
+msgid "contribution_headline_2008_2"
+msgstr "Ευρωπαϊκή εκστρατεία για την προώθηση μιας ολοκληρωμένης εκτίμησης κινδύνου που λαμβάνει υπόψη τα διάφορα στάδια της εκτίμησης κινδύνου."
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Ασφαλείς και Υγιείς Χώροι Εργασίας"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Οφέλη για εσένα προσωπικά. Οφέλη για τις επιχειρήσεις."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Πιστοποιητικό συμμετοχής"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Με το παρόν πιστοποιείται η συμμετοχή του/της"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr " στην εκστρατεία 2010-11 «Ασφαλείς και Υγιείς Χώροι Εργασίας» για τις Ασφαλείς Εργασίες Συντήρησης."
+
+#: Director 
+msgid "director_2010"
+msgstr "Διευθυντής του Ευρωπαϊκού Οργανισμού για την Ασφάλεια και την Υγεία στης Εργασία (EU-OSHA)"
+
+

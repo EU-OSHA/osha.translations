@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sv\n"
+"Language-Name: Svenska\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQzon"
+
+msgid "Discover Safe Start "
+msgstr "Upptäck Säker start"
+
+msgid "Why RISQ it?"
+msgstr "Varför RISQ det?"
+
+msgid "What can you RISQ?"
+msgstr "Vad kan du RISQ?"
+
+msgid "Competitions"
+msgstr "Tävlingar"
+
+msgid "On the edge of safety"
+msgstr "På randen till säkerhet"
+
+# animations
+msgid "anim_restart"
+msgstr "Börja om"
+
+msgid "anim01_message_01"
+msgstr "Kolla stegens ben innan du klättrar upp"
+
+msgid "anim01_message_02"
+msgstr "Ställ stegen i rätt vinkel mot väggen"
+
+msgid "anim01_message_03"
+msgstr "Ha alltid någon nedanför en hög stege"
+
+msgid "anim01_end"
+msgstr "“Se upp – ta inga risker”"
+
+msgid "anim02_end"
+msgstr "“Se upp – ta inga risker”"
+
+msgid "anim03_message_01"
+msgstr "Arbeta inte under osäkra eller olämpliga förhållanden"
+
+msgid "anim03_message_02"
+msgstr "Var inte rädd att be om hjälp"
+
+msgid "anim03_end"
+msgstr "“Se upp – lid inte i tysthet”"
+
+msgid "anim04_message_01"
+msgstr "Tänk dig för innan du lyfter och bär någonting"
+
+msgid "anim04_message_02"
+msgstr "Använd den utrustning som finns"
+
+msgid "anim04_message_03"
+msgstr "Försök alltid att lätta på bördan"
+
+msgid "anim04_end"
+msgstr "“Se upp – du bryter bara ryggen en gång”"
+
+msgid "anim02_message_01"
+msgstr "Arbeta inte i mörker"
+
+msgid "anim02_message_02"
+msgstr "Improvisera inte om det riskerar din säkerhet"

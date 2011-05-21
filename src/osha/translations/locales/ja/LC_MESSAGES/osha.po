@@ -1,0 +1,4068 @@
+# Translation of plone.pot to Japanese
+# Gettext Message File for Plone
+# Robert <rbh@okihawg.org>, 2002
+# Yusei <yusei@domen.cx>, 2002
+# Retsu <tyam@mac.com>, 2003-2004
+# Mai <capibara@users.sourceforge.net> 2003-2004
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone 2.0\n"
+"POT-Creation-Date: 2004-11-10 05:02+0000\n"
+"PO-Revision-Date: 2004-03-24 03:57+0900\n"
+"Last-Translator: Retsu <tyam@mac.com>\n"
+"Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: ja\n"
+"Domain: plone\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Preferred-Encodings: utf-8\n"
+"X-Is-Fallback-For: ja-jp\n"
+"Language-Name: 日本語\n"
+
+msgid "title_agency"
+msgstr "European Agency<br />for Safety and Health<br />at Work"
+
+msgid "slogan_hw2010_campaign"
+msgstr "Healthy Workplaces"
+
+msgid "subslogan_hw2010_campaign"
+msgstr "Good for you.<br/>Good for business.<br/>"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "A European campaign on Safe Maintenance"
+
+
+
+msgid "heading_ew2005_stopthatnoise"
+msgstr "STOP THAT NOISE!"
+
+msgid " OK "
+msgstr " OK "
+
+msgid "Accept Request"
+msgstr "Accept Request"
+
+msgid "Add"
+msgstr "新規追加"
+
+msgid "Add / Propose"
+msgstr "Add / Propose"
+
+msgid "Add Board"
+msgstr "Add Board"
+
+msgid "Add Dyno Content"
+msgstr "Add Dyno Content"
+
+msgid "Add Event"
+msgstr "Add event"
+
+msgid "Add File"
+msgstr "Add file"
+
+msgid "Add News Article"
+msgstr "Add News Article"
+
+msgid "Add new items to this folder"
+msgstr "このフォルダに新規アイテムを追加"
+
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+msgid "Add this location to My Favorites"
+msgstr "Add this location to My Favorites"
+
+msgid "Add to selected Collections"
+msgstr "Add to selected Collections"
+
+msgid "Add to selected Newsletters"
+msgstr "Add to selected Newsletters"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Advanced"
+msgstr "アドバンスト"
+
+msgid "Agency Information"
+msgstr "Agency Information"
+
+msgid "Agency logo"
+msgstr "Agency logo"
+
+msgid "Als Entwurf speichern"
+msgstr "Save as Draft"
+
+msgid "Amendment"
+msgstr "Amendment"
+
+msgid "Apply for new Board"
+msgstr "Apply for new Board"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Assign"
+msgstr "Assign"
+
+msgid "Assign Local Role to Selected Group(s)"
+msgstr "ローカルロールを選んだグループに割当てる"
+
+msgid "Assign Local Role to Selected User(s)"
+msgstr "ローカルロールを選んだユーザに与える"
+
+msgid "Attachments"
+msgstr "Attachments"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Bind Board"
+msgstr "Bind Board"
+
+msgid "Bind to Center"
+msgstr "Bind to Center"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Calendar week view"
+msgstr "Calendar week view"
+
+msgid "Cancel"
+msgstr "取り消し"
+
+msgid "Change"
+msgstr "Change"
+
+msgid "Change active state"
+msgstr "Change active state"
+
+msgid "Check entry"
+msgstr "Check entry"
+
+msgid "Checkin"
+msgstr "Checkin"
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Click here to view our partner websites [opens popup window]"
+msgstr "Click here to view our partner websites [opens popup window]"
+
+msgid "Close Board"
+msgstr "Close board"
+
+msgid "Close window"
+msgstr "Close window"
+
+msgid "Collection"
+msgstr "Collection"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Complete"
+msgstr "Complete"
+
+msgid "Contents"
+msgstr "コンテンツ"
+
+msgid "Copy to list"
+msgstr "Copy to list"
+
+msgid "Copy to selected"
+msgstr "Copy to selected"
+
+msgid "Create default document"
+msgstr "デフォルトの文書を作成"
+
+msgid "Current users workitems items"
+msgstr "Current users workitems"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete Folder"
+msgstr "Delete folder"
+
+msgid "Delete Selected Role(s)"
+msgstr "選んだロールを削除"
+
+msgid "Directive"
+msgstr "Directive"
+
+msgid "Disable Navigation view"
+msgstr "Disable Navigation view"
+
+msgid "Disable Syndication"
+msgstr "外部配信を無効にする"
+
+msgid "Discard Changes"
+msgstr "Discard Changes"
+
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+msgid "Discussion Article listing"
+msgstr "Discussion Article listing"
+
+msgid "Discussion Board"
+msgstr "Discussion Board"
+
+msgid "Discussion Board listing"
+msgstr "Discussion Board listing"
+
+msgid "Discussion Center"
+msgstr "Discussion Center"
+
+msgid "Document"
+msgstr "文書"
+
+msgid "Download as File"
+msgstr "Download as File"
+
+msgid "Dyno Container"
+msgstr "Dyno Container"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Enable Navigation view"
+msgstr "Enable Navigation view"
+
+msgid "Enable syndication"
+msgstr "外部配信を有効にする"
+
+msgid "European Agency for Safety and Health at Work"
+msgstr "European Agency for Safety and Health at Work"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "FAQ Folder"
+msgstr "FAQ Folder"
+
+msgid "February"
+msgstr "2月"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Folder"
+msgstr "フォルダ"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Generate File"
+msgstr "Generate File"
+
+msgid "Glossary Folder"
+msgstr "Glossary Folder"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Hierarchical thesaurus"
+msgstr "Hierarchical thesaurus"
+
+msgid "History"
+msgstr "履歴"
+
+msgid "I18NLayer"
+msgstr "I18NLayer"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Index of keywords"
+msgstr "Index of keywords"
+
+msgid "Internationale Nachrichten"
+msgstr "International News"
+
+msgid "Ja"
+msgstr "Yes"
+
+msgid "January"
+msgstr "1月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Layout table"
+msgstr "Layout table"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "Link to our site"
+msgstr "Link to our site"
+
+msgid "Local Roles"
+msgstr "Local Roles"
+
+msgid "Locked"
+msgstr "Locked"
+
+msgid "Log in"
+msgstr "ログイン"
+
+msgid "Log out"
+msgstr "ログアウト"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Looking for something specific?"
+msgstr "Looking for something specific?"
+
+msgid "March"
+msgstr "3月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Metadata Set"
+msgstr "Metadata Set"
+
+msgid "Modification"
+msgstr "Modification"
+
+msgid "Move"
+msgstr "Move"
+
+msgid "Move item down"
+msgstr "下へ移動"
+
+# # 2 more: ./elevateIT/skins/eIT_content/navigation_contents.pt,
+# ./elevateIT/skins/eIT_templates/folder_contents.pt
+msgid "Move item to bottom"
+msgstr "Move item to bottom"
+
+# # 2 more: ./elevateIT/skins/eIT_content/navigation_contents.pt,
+# ./elevateIT/skins/eIT_templates/folder_contents.pt
+msgid "Move item to top"
+msgstr "Move item to top"
+
+msgid "Move item up"
+msgstr "上へ移動"
+
+msgid "Move to"
+msgstr "Move to"
+
+msgid "My Folder"
+msgstr "マイフォルダ"
+
+msgid "My Settings"
+msgstr "My Settings"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Nein"
+msgstr "No"
+
+msgid "Neues Verzeichnis erstellen"
+msgstr "Create new folder"
+
+msgid "News Article"
+msgstr "News Article"
+
+msgid "News Board"
+msgstr "News Board"
+
+msgid "No"
+msgstr "No"
+
+msgid "Notify me now"
+msgstr "Notify me now"
+
+msgid "November"
+msgstr "11月"
+
+msgid "OSH_Article"
+msgstr "OSH Article"
+
+msgid "OSH_Case"
+msgstr "OSH Case"
+
+msgid "OSH_Institute"
+msgstr "OSH Institute"
+
+msgid "OSH_Link"
+msgstr "OSH Link"
+
+msgid "OSH_Product"
+msgstr "OSH Product"
+
+msgid "OSH_Project"
+msgstr "OSH Project"
+
+msgid "OSH_Publisher"
+msgstr "OSH Publisher"
+
+msgid "OSH_Substance"
+msgstr "OSH Substance"
+
+msgid "Object locked"
+msgstr "オブジェクトがロックされています"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Open Board"
+msgstr "Open board"
+
+msgid "Ownership"
+msgstr "所有権"
+
+msgid "Perform Search"
+msgstr "検索する"
+
+msgid "Plone Member Preferences"
+msgstr "Ploneメンバーの個人設定"
+
+msgid "Portal Setup"
+msgstr "Portal Setup"
+
+msgid "Portlet"
+msgstr "Portlet"
+
+msgid "Portlets"
+msgstr "Portlets"
+
+msgid "Pose Question"
+msgstr "Pose Question"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "Proposal"
+msgstr "Proposal"
+
+msgid "RSS Feed"
+msgstr "RSS配信"
+
+msgid "RSS feed of these search results"
+msgstr "この検索結果のRSS配信"
+
+msgid "Reassign"
+msgstr "Reassign"
+
+msgid "Refine Search"
+msgstr "Refine Search"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Reject"
+msgstr "却下"
+
+msgid "Reject Request"
+msgstr "Reject Request"
+
+# # 1 more: ./elevateIT/skins/eIT_content/configure_portlets_form.cpt
+msgid "Remove from slot"
+msgstr "Remove from slot"
+
+msgid "Rename All"
+msgstr "すべての名前を変更"
+
+msgid "Report broken link"
+msgstr "Report broken link"
+
+msgid "Request Discussion Board"
+msgstr "Request Discussion Board"
+
+msgid "Required"
+msgstr "必須項目"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Reset Rating"
+msgstr "Reset Rating"
+
+msgid "Reset all Slots"
+msgstr "Reset all Slots"
+
+# # 1 more: ./elevateIT/skins/eIT_templates/folder_contents.pt
+msgid "Reset default image"
+msgstr "Reset default image"
+
+msgid "Restore Version"
+msgstr "Restore Version"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Save and View"
+msgstr "Save and View"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search this site"
+msgstr "Search this site"
+
+msgid "See latest Reply"
+msgstr "See latest Reply"
+
+# # 5 more: ./elevateIT/skins/eIT_content/metadataelement_contents.pt,
+# ./elevateIT/skins/eIT_content/navigation_contents.pt,
+# ./elevateIT/skins/eIT_forms/user_quicksearch_form.cpt,
+# ./elevateIT/skins/eIT_templates/folder_contents.pt,
+# ./OSHA/skins/osha/keywordListing.pt
+msgid "Select"
+msgstr "選択"
+
+msgid "Select all items"
+msgstr "アイテムすべてを選択"
+
+# # 2 more: ./elevateIT/skins/eIT_content/navigation_contents.pt,
+# ./elevateIT/skins/eIT_templates/folder_contents.pt
+msgid "Select item"
+msgstr "Select item"
+
+msgid "Send"
+msgstr "送る"
+
+msgid "Send Request"
+msgstr "Send Request"
+
+msgid "Send me my password"
+msgstr "パスワードを自分へ送る"
+
+msgid "Send to somebody"
+msgstr "Send to somebody"
+
+msgid "September"
+msgstr "9月"
+
+msgid "Set Permissions for Roles"
+msgstr "Set Permissions for Roles"
+
+msgid "Set default image"
+msgstr "Set default image"
+
+msgid "Set default language"
+msgstr "Set default language"
+
+msgid "Show Result"
+msgstr "Show Result"
+
+msgid "Show address"
+msgstr "Show address"
+
+msgid "Show result"
+msgstr "Show result"
+
+msgid "Site Map"
+msgstr "サイトマップ"
+
+msgid "Site Update"
+msgstr "Site Update"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Submit Query"
+msgstr "Submit Query"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Subscribe To Alert"
+msgstr "Subscribe To Alert"
+
+msgid "Suggest interesting link"
+msgstr "Suggest interesting link"
+
+msgid "Syndicate Board"
+msgstr "Syndicate Board"
+
+msgid "Syndicated Document"
+msgstr "Syndicated Document"
+
+msgid "Syndication"
+msgstr "Syndication"
+
+msgid "Test Notification"
+msgstr "Test Notification"
+
+msgid "The OSH Network"
+msgstr "The OSH Network"
+
+msgid "Topic"
+msgstr "トピック"
+
+msgid "Topic Document"
+msgstr "Topic Document"
+
+msgid "Translation Help"
+msgstr "Translation Help"
+
+msgid "Translations listing"
+msgstr "Translations listing"
+
+msgid "Treelike folder structure"
+msgstr "Treelike folder structure"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Undo"
+msgstr "元に戻す"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update File"
+msgstr "Update File"
+
+msgid "Upload Users"
+msgstr "Update File"
+
+msgid "Values"
+msgstr "Values"
+
+msgid "Verschieben nach"
+msgstr "Move to"
+
+msgid "View"
+msgstr "閲覧"
+
+msgid "Vote"
+msgstr "Vote"
+
+msgid "Wealth of OSH information"
+msgstr "Wealth of OSH information"
+
+msgid "Worklist"
+msgstr "Worklist"
+
+msgid "Write Article"
+msgstr "Write article"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Your network to a safer and healthier working environment"
+msgstr "Your network to a safer and healthier working environment"
+
+msgid "a"
+msgstr "a"
+
+msgid "accesskeys-breadcrumbs"
+msgstr "accesskeys-breadcrumbs"
+
+msgid "accesskeys-search"
+msgstr "s"
+
+msgid "action_advanced_search"
+msgstr "Advanced search"
+
+msgid "action_firstlogin_proceed"
+msgstr "Proceed to your personal settings"
+
+msgid "action_ldap_savepersonaldata"
+msgstr "Save personal data"
+
+msgid "action_ldap_savesecurityquestion"
+msgstr "Save security dialog"
+
+msgid "alert_day_periodical"
+msgstr "<span tal:replace=\"options/notification_period\"/> day periodical"
+
+msgid "alert_no_searchqueries"
+msgstr "No search queries have been specified by you"
+
+msgid "alertservice_information_changed"
+msgstr "The following information is new or has changed:"
+
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_information_changed_since"
+msgstr "The following Information is new or has changed since ${date}"
+
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_notification_report"
+msgstr "Notification Report"
+
+# # 2 more:
+# ./eITAlertService/skins/eITAlertService/alert_special_notification_template.pt,
+# ./OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_notification_sentby"
+msgstr "Notification mail sent by"
+
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_notification_service"
+msgstr "Notification Service"
+
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_onlyfirst_shown"
+msgstr "only the first ${number} are shown"
+
+msgid "alertservice_requested_info"
+msgstr "You have requested info by the following Parameters"
+
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_results_found"
+msgstr "Results have been found"
+
+msgid "alphabetical_index"
+msgstr "Alphabetical Index"
+
+msgid "answer"
+msgstr "Reply"
+
+msgid "answer_all"
+msgstr "Reply all"
+
+msgid "april"
+msgstr "April"
+
+msgid "attachment"
+msgstr "attachment"
+
+msgid "august"
+msgstr "August"
+
+msgid "back_to"
+msgstr "back to"
+
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} 個のアイテムが検索条件に該当しました"
+
+msgid "bcc"
+msgstr "BCC"
+
+msgid "before"
+msgstr "Before"
+
+msgid "box_about"
+msgstr "概要"
+
+msgid "box_agency_fullname"
+msgstr "European Agency for Safety and Health at Work"
+
+msgid "box_created_by"
+msgstr "作成者"
+
+msgid "box_last_modified"
+msgstr "最終変更日"
+
+msgid "box_oshmail_subscribe"
+msgstr "Subscribe to our <a href=\"http://osha.eu.int/oshmail/\">${newsletter}</a>"
+
+msgid "box_oshmail_subscribers"
+msgstr "subscribers"
+
+msgid "box_provided_by"
+msgstr "Information provided by"
+
+msgid "box_this_url"
+msgstr "This document's URL"
+
+msgid "button_alert_addsearchquery"
+msgstr "Add new searchquery"
+
+msgid "calendar day view"
+msgstr "calendar day view"
+
+msgid "calender_hopefully"
+msgstr "calendar date picker box"
+
+msgid "cc"
+msgstr "CC"
+
+msgid "character_coding"
+msgstr "Character encoding"
+
+msgid "check_link"
+msgstr "Get new Mail"
+
+msgid "choose Paths"
+msgstr "choose Paths"
+
+msgid "cmfcollection_body_not_visible"
+msgstr "Body is not visible"
+
+msgid "cmfcollection_body_visible"
+msgstr "Body is visible"
+
+msgid "cmfmetadata_editmetadata"
+msgstr "Edit Metadata"
+
+msgid "compose_link"
+msgstr "Compose"
+
+msgid "contains_keywords"
+msgstr "Contains the Keywords"
+
+msgid "convert to pdf"
+msgstr "convert to pdf"
+
+msgid "copyright"
+msgstr "Copyright 1998-${thisyear} European Agency for Safety and Health at Work"
+
+msgid "date_ever"
+msgstr "ever"
+
+msgid "date_last_month"
+msgstr "last month"
+
+msgid "date_last_week"
+msgstr "last week"
+
+msgid "date_yesterday"
+msgstr "yesterday"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+msgid "day"
+msgstr "Day"
+
+msgid "days"
+msgstr "days"
+
+msgid "december"
+msgstr "December"
+
+msgid "default"
+msgstr "default"
+
+msgid "delete"
+msgstr "delete"
+
+msgid "delete_folder_alert"
+msgstr "<u>Warning !</u> Deleting folder(s) will delete ALL messages in this folder(s) "
+
+msgid "delete_folder_title"
+msgstr "Deleting folder(s)"
+
+msgid "desc_my_working_copies"
+msgstr "These are your working copies that are not yet published"
+
+msgid "desc_my_working_copies_admin"
+msgstr "You have Manager role in this context. Therefore you see all working copies present in this context."
+
+msgid "description_add_alert"
+msgstr "Subscribe to Alerts for this object"
+
+msgid "description_add_new_item"
+msgstr "フォルダに追加したいアイテムの種類を選んでください"
+
+msgid "description_advanced_search"
+msgstr "この検索フォームではより多くの条件を指定してコンテンツを探せます。<br/>もちろんどこからでも使えるクイック検索で大抵の場合は十分間に合うでしょう。この検索フォームはさらに限定的に絞り込みむためのものです"
+
+msgid "description_alert_searchqueries"
+msgstr "List of search queries specified by you. Click on its title to view or change a search query."
+
+msgid "description_change_ownership"
+msgstr "このフォームを使って簡単にオブジェクト所有権を他のメンバーに変更できます"
+
+msgid "description_checkin"
+msgstr "Check in will add a new version and transfer all changes of the working copy to the original object."
+
+msgid "description_cmpage_addgroup"
+msgstr "Use this to add new groups of this Content Management Page."
+
+msgid "description_cmpage_editcmplink"
+msgstr "Use this to edit existing links of this Content Management Page."
+
+msgid "description_cmpage_editgroup"
+msgstr "Use this to edit existing groups of this Content Management Page."
+
+msgid "description_configure_user_alreadyregistered"
+msgstr "You are registered successfully. You can change your personal data at \"My Settings\"."
+
+msgid "description_configure_user_welcome"
+msgstr "Welcome at the account management of the European Agency webservices."
+
+msgid "description_dc_grantboard"
+msgstr "Someone requested a new board at this center. Check the proposed settings for the new board. If you confirm, the new board is created. If you reject, no board is created and the request gets disposed. The requesting user will be informed about your decision by mail."
+
+msgid "description_discard_changes"
+msgstr "Discard Changes removes the working copy and by that restores the state from just before the checkout. All changes since then will be lost."
+
+msgid "description_discussionboard_configure"
+msgstr "Here you can change the configuration settings of this Discussion Board. "
+
+msgid "description_discussioncenter_applyforboard"
+msgstr "At least fill in the marked fields."
+
+msgid "description_discussioncenter_bind_boards"
+msgstr "Select one or more stand alone Boards from the list to bind them to this Discussion Center."
+
+msgid "description_discussioncenter_configure"
+msgstr "Here you can change the configuration settings of this Discussion Center. If you check the prescribe checkbox of a property, the admin of a board is not able to change the property in a bound or remote syndicated board."
+
+msgid "description_discussioncenter_configure_discussionboard"
+msgstr "Here the settings for this Discussion Board are listed, which are prescribable for this board."
+
+msgid "description_document_addattachments"
+msgstr "At least fill in the marked fields."
+
+msgid "description_document_configure"
+msgstr "Here you can change the configuration settings of this document."
+
+msgid "description_document_editattachments"
+msgstr "You can add files to this ${itemtype}"
+
+msgid "description_download_file"
+msgstr "Click here to get the file"
+
+msgid "description_dynocontent_edit"
+msgstr "Here you can edit the attributes of this object."
+
+msgid "description_edit_document"
+msgstr "この文書の詳細を記入してください"
+
+msgid "description_edit_file"
+msgstr "追加するファイルの詳細を下に記入します。「ブラウズ」ボタンでファイルを指定し、「保存」をクリックしてください"
+
+# # 6 more: ./eITNewsletterManager/skins/newsletter/newsletter_edit_form.cpt,
+# ./eITForum/skins/eIT_forum/discussionboard_edit_form.cpt,
+# ./eITForum/skins/eIT_forum/discussioncenter_edit_form.cpt,
+# ./eITCalendar/skins/eIT_calendar/calendar_edit_form.cpt,
+# ./eITDynoContent/skins/eIT_dynocontent/dynocontainer_edit_form.cpt,
+# ./eITFAQ/skins/eIT_faq/faq_folder_edit_form.cpt
+msgid "description_edit_item"
+msgstr "Fill in the details of this object."
+
+msgid "description_edit_link_item"
+msgstr "リンクはインターネットやイントラネット上のある場所を指すポインタです。関連事項を下に入力したうえで、「保存」をクリックしてください"
+
+msgid "description_edit_properties"
+msgstr "この情報は<em>メタデータ</em>とも呼ばれるもので、オブジェクトの分類、又は開始･終了年月日や言語、キーワードの割り当てに利用される情報の集まりです"
+
+msgid "description_edit_syndocument"
+msgstr "Fill in the details of this syndicated document."
+
+msgid "description_failed_login_link"
+msgstr "パスワードを忘れてしまったら、ここをクリックするとＥメールでパスワードが届きます"
+
+msgid "description_failed_login_link_slc_ldap"
+msgstr "Click here to have your password reset if you have forgotten it."
+
+msgid "description_folder_configure"
+msgstr "Here you can add and edit rules of redirection for this folder with: Either an evaluation Method or a TALES Expression."
+
+msgid "description_group_shares"
+msgstr "グループはアイテムを何人かのユーザで共有するのに便利です。ひとつ又は複数のグループ名と割り当てたいロールを選んでください"
+
+msgid "description_item_new"
+msgstr "At least fill in the marked fields."
+
+msgid "description_ldap_assignedgroups"
+msgstr "You have been assigned to the following user groups:"
+
+msgid "description_ldap_assignedroles"
+msgstr "These are the roles assigned to the current user."
+
+msgid "description_localrole_select_member"
+msgstr "一人あるいは複数のメンバーと割り当てるロールを選んでください"
+
+msgid "description_logged_in_explain"
+msgstr "右上のバーが変わりました。いくつかの個人別の項目が含まれています。これらを使って個人設定や個人別領域の設定をコントロールします。ログインしている間ずっとあります"
+
+msgid "description_logged_out"
+msgstr "<p>私たちのサービスを楽しんでもらえたことを願っています。またのご利用をお待ちしています。</p><p>敬具 <br/>   ${portal_title} チーム一同 </p>"
+
+msgid "description_lost_password"
+msgstr "ユーザ名を下に入力し、<strong>パスワードの送信</strong>をクリックしてください。登録されたメールアドレスが有効であれば、パスワードがメールで送られます。もしユーザ名を忘れたりメールアドレスを入力していない等の理由でうまくいかない場合は、こちらまでメールしてください: "
+
+msgid "description_lost_password_slc_ldap"
+msgstr "Please enter your user ID or email address in the form. Please click the tab <strong>Check entry</strong> . <br/> In case of loss of user ID please send an email to"
+
+msgid "description_manage_languages"
+msgstr "Add new languages for this Object here."
+
+msgid "description_managemetadata"
+msgstr "Metadata management"
+
+msgid "description_metadatavalue_edit"
+msgstr "Use this to edit a Metadata Value"
+
+msgid "description_my_addresses"
+msgstr "Your personal addresses."
+
+msgid "description_navigation_edit"
+msgstr "Edit links of the Navigation Box"
+
+msgid "description_navigation_editlink"
+msgstr "Use this form to edit existing links of the Sites Navigation Box"
+
+msgid "description_newbie_pointers"
+msgstr "ご自分のコンテンツをチェックするには${your_folder}をご覧ください。そこでコンテンツを自由に追加できます。また、お好きなように環境の${set_up_your_preferences}をしてみてください"
+
+msgid "description_newsarticle_edit"
+msgstr "Fill in the details for this news article."
+
+msgid "description_newsboard_configure"
+msgstr "Here you can change the configuration settings of this News Board. "
+
+msgid "description_no_content_in_feed"
+msgstr "There is currently no content in this feed."
+
+msgid "description_no_default_folder_create_new"
+msgstr "通常のアイテムリストの代わりにこのフォルダのデフォルトページを作りたい場合は、このボタンをクリックしてください"
+
+msgid "description_no_items_in_feed"
+msgstr "There are currently no items in this feed."
+
+msgid "description_no_items_in_folder"
+msgstr "現在このフォルダ内にはアイテムが存在しません"
+
+msgid "description_no_results_found"
+msgstr "該当する結果が見つかりませんでした"
+
+msgid "description_no_visible_items_add_paste"
+msgstr "このフォルダには見ることができるアイテムがありません。コンテンツを追加するには、追加ボタンを押すか、他の所からのコンテンツを貼り付けてください"
+
+msgid "description_not_logged_in_username_incorrect"
+msgstr "現在ログインしていません。ユーザ名かパスワード、もしくはその両方が間違っている可能性があります"
+
+msgid "description_not_logged_in_username_incorrect_slc_ldap"
+msgstr "You are not currently logged in. Your user ID and/or password may be incorrect."
+
+msgid "description_not_versionable"
+msgstr "Versioning is not possible because this object is not versionable."
+
+msgid "description_object_owned_by"
+msgstr "This object is curently owned by:"
+
+msgid "description_oshasite_config"
+msgstr "A set configuration scripts for the OSHA specific settings of this Site."
+
+msgid "description_oshasite_editimages"
+msgstr "The multilingual images of the osha skin and portlets are stored in the folder &quot;img&quot; in the portal root. Use the link below to reach the folder and edit images if needed."
+
+msgid "description_personal_profile"
+msgstr "Additional information about yourself and your interests."
+
+msgid "description_portlet_edit"
+msgstr "Fill in the details for this Portlet."
+
+msgid "description_portlet_type"
+msgstr "This Portlet is derived from:"
+
+msgid "description_portlets_configure_1"
+msgstr "Here you can change the portlets in the right and left slot of the portal."
+
+msgid "description_publishing_process"
+msgstr "誰がアイテムを見ることができるのかはアイテムの状態(審査状態とも呼ばれます)によって決まります。<strong>プライベート</strong>のアイテムは、その所有者とサイト管理者だけが見ることができます。<strong>公開</strong>されたアイテムのみがと一般メンバーとログインしていない匿名ユーザに公開されます。公開するためには、アイテムをこのサイトの審査員のうちの１人にチェックしてもらわねばなりません。チェックを依頼する際は、<strong>提出</strong>をクリックしてください。<br />アイテムの公開をコントロールするもうひとつの方法は、アイテムの<strong>開始年月日</strong>です。この開始年月日以前には、<em>たとえ状態が<strong>公開</strong>に設定されていたとしても、</em>アイテムは公開されません"
+
+msgid "description_quicksearch_users"
+msgstr "You can search here for users by email, user id, first name and last name. Since this search only returns users that contain all the words in your query, refining or narrowing your search is as simple as adding more words to the search terms you have already entered. Your new query will return a smaller subset of the users that were found for your original &quot;too-broad&quot; query."
+
+msgid "description_ratings_configure"
+msgstr "Here you can change the settings for the rating."
+
+msgid "description_registered_alerts"
+msgstr "List of Alerts registered by you."
+
+msgid "description_rename_item"
+msgstr "各アイテムは名前とタイトルを持っています。アイテムの名前とタイトルは下のフォームで変更できます"
+
+msgid "description_resumee"
+msgstr "See Resumee (Description)"
+
+msgid "description_selectcat"
+msgstr "Please select a value to be used for this metadatum."
+
+msgid "description_selectsubject"
+msgstr "Please select one or more Subjects to be set for this object."
+
+msgid "description_send_page_to"
+msgstr "ページを送りたいお友達のメールアドレスを入力してください"
+
+msgid "description_share_folders_items_current_shares"
+msgstr "アイテム毎やあるいはコンテンツを含むフォルダのどちらについても権限を共有することができます。これらのユーザが特権を持っています:"
+
+msgid "description_sharing_item"
+msgstr "共有は共同作業をするためにコンテンツへのアクセス権を他の人にも与える簡単な方法です。このアイテムを共有するには、下のフォームから名前やメールアドレスで人を検索し、適切なロールを割り当てます。最も一般的な使い方は管理者の許可を与える事です。アイテムとその中のコンテンツ（もしあれば）へのすべての操作ができるようになります"
+
+msgid "description_signin_fail_cookies"
+msgstr "ブラウザでクッキーが有効に設定されていないため、ログインができません。あなたのブラウザの設定が ${link} なのを確認してください"
+
+msgid "description_signin_fail_cookies_link"
+msgstr "クッキーを受け入れる"
+
+msgid "description_site_error"
+msgstr "リクエストに回答しようとしてエラーが発生しました。エラーの詳細は以下の通りです:"
+
+msgid "description_site_error_double_check_or_search"
+msgstr "URL を再確認してください。あるいは検索機能を使ってお探しのコンテンツを見つけてください"
+
+msgid "description_still_failure"
+msgstr "ブラウザの設定が正しいのにこのページが表示される場合には、以下の可能性をチェックしてみてください:"
+
+msgid "description_still_failure_reason1"
+msgstr "クッキーを使えなくするウェブフィルターソフトを使っていませんか？　もしそうなら、${url} からのクッキーを受け入れるよう、そのソフトウェアを設定し直してください"
+
+msgid "description_still_failure_reason2"
+msgstr "ご利用のコンピュータがファイアーウォール又はプロキシの向こう側にあるため、クッキーの送受信ができなくなっている場合が考えられます。その場合は、システム管理者にお問い合わせください。"
+
+msgid "description_syndication_properties"
+msgstr "フォルダの外部配信により、他のウェブサイトからこのフォルダに同期できるようになります"
+
+msgid "description_translation_search"
+msgstr "This search form enables you to find content on the site which needs translation."
+
+msgid "description_versioning_disabled"
+msgstr "Versioning is disabled. You can enable it in the repository tool."
+
+msgid "description_versionmanagement"
+msgstr "In Version Management, you can manually check in/out and restore Versions of this <span tal:replace=\"here/portal_type\"/> . Checking out an object creates a working copy. After finishing work on your working copy, you check it in to create the new version of your object."
+
+msgid "description_view_viewlet"
+msgstr "Click here to view the viewlet"
+
+msgid "description_workingcopy_present"
+msgstr "There is a working copy"
+
+msgid "description_you_are_registered"
+msgstr "メンバーとして登録されました"
+
+msgid "description_you_can_log_on_now"
+msgstr "すぐにログインするのにボタンをクリックしてください"
+
+msgid "deselect"
+msgstr "deselect"
+
+msgid "deselect this search parameter"
+msgstr "deselect this search parameter"
+
+# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
+msgid "details_about_authors"
+msgstr "Get the byline - contains details about author and modification date."
+
+msgid "document_type"
+msgstr "Document Type:"
+
+msgid "download"
+msgstr "download"
+
+msgid "draft"
+msgstr "Draft"
+
+msgid "edit portlet content"
+msgstr "edit portlet content"
+
+msgid "email_title"
+msgstr "List Manager E-Mail"
+
+msgid "empty_trash"
+msgstr "empty trash"
+
+msgid "event_type"
+msgstr "Event Type(s)"
+
+msgid "examples_queries"
+msgstr "<a name=\"3-120\"> </a> Here are some examples queries and their results to show how the <code>level</code> attribute works:"
+
+msgid "expresses_interest_in"
+msgstr "Expresses interest in"
+
+# # 3 more: ./OSHA/skins/osha/index_providers.pt,
+# ./OSHA/skins/osha/index_sme.pt, ./OSHA/skins/osha/index_topic.pt
+msgid "feature_back_to_mainpage"
+msgstr "Back to ${title} main page"
+
+msgid "february"
+msgstr "February"
+
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+msgid "feedback_comment"
+msgstr "コメント"
+
+msgid "feedback_country"
+msgstr "From Country:"
+
+msgid "feedback_from_name"
+msgstr "Name:"
+
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+msgid "feedback_link"
+msgstr "リンク"
+
+msgid "feedback_mailtemplate_body"
+msgstr "This feedback is sent by:"
+
+msgid "feedback_organization_size"
+msgstr "Organization size:"
+
+msgid "feedback_sender"
+msgstr "Type of sender:"
+
+msgid "feedback_sender_mssg_1"
+msgstr "Dear Sir / Madam,"
+
+msgid "feedback_sender_mssg_2"
+msgstr "Thank you for your feedback. We appreciate your comments about the European Agency for Safety and Health at Work and we try, wherever possible, to answer your emails. Unfortunately, due to the large volume of correspondence we receive, we are unable to offer a personal reply in each case. However, we read all your comments, and we use your feedback to improve our websites and services."
+
+msgid "feedback_sender_mssg_3"
+msgstr "You can stay up to date with new developments to our website by visiting our “What’s New” pages [http://osha.eu.int/whats_new/index_en.htm] and subscribing to our electronic newsletter OSHmail [http://osha.eu.int/oshmail]. "
+
+msgid "feedback_sender_mssg_from"
+msgstr "European Agency for Safety and Health at Work"
+
+msgid "feedback_sender_mssg_thankyou"
+msgstr "Yours sincerely,"
+
+msgid "feedback_sent_by"
+msgstr "This feedback is sent by:"
+
+msgid "flag_search"
+msgstr "Show only flagged Messages"
+
+msgid "folder"
+msgstr "フォルダ"
+
+msgid "folder_option"
+msgstr "Folder management"
+
+msgid "folders_link"
+msgstr "Folders"
+
+msgid "forward"
+msgstr "Forward"
+
+msgid "from"
+msgstr "差出人"
+
+msgid "go_to_calendar"
+msgstr "Up to Calendar"
+
+msgid "go_to_folder_localroles"
+msgstr "Up to folder local roles"
+
+msgid "go_to_parent_url"
+msgstr "一つ上に移動"
+
+msgid "header_active"
+msgstr "Active"
+
+msgid "header_title"
+msgstr "タイトル"
+
+msgid "heading_actions"
+msgstr "アクション"
+
+msgid "heading_add_alert"
+msgstr "Subscribe to Alerts for: ${itemtitle}"
+
+msgid "heading_add_new_item"
+msgstr "新しいアイテムを追加"
+
+msgid "heading_add_sharing_permissions"
+msgstr "${item} へ共有権を追加"
+
+msgid "heading_additemtocollections"
+msgstr "Add Item to Collections"
+
+msgid "heading_additemtonewsletters"
+msgstr "Add Item to Newsletters"
+
+msgid "heading_admin_actions"
+msgstr "Administrative Actions"
+
+msgid "heading_advanced_search"
+msgstr "コンテンツをアドバンス検索"
+
+msgid "heading_alert_add_searchquer"
+msgstr "Add new Searchquery"
+
+msgid "heading_alert_edit_searchquer"
+msgstr "Edit Searchquery &quot; ${itemtype} &quot;"
+
+msgid "heading_alerts_generalinterests"
+msgstr "My general interests"
+
+msgid "heading_alerts_specialinterests"
+msgstr "My special interests"
+
+msgid "heading_assign_workitem"
+msgstr "Assign Workitem to user"
+
+msgid "heading_calendar_views"
+msgstr "Calendar views"
+
+msgid "heading_change_ownership"
+msgstr "所有権を変更"
+
+msgid "heading_complete_workitem"
+msgstr "Complete Task"
+
+msgid "heading_configure_user"
+msgstr "Set up account"
+
+msgid "heading_confirmationform"
+msgstr "Do you want to proceed?"
+
+msgid "heading_content_nav"
+msgstr "Content navigation"
+
+msgid "heading_currently_assigned_shares"
+msgstr "フォルダ ${folder} の現在の共有許可"
+
+msgid "heading_dc_grantboard"
+msgstr "Add a new Discussion Board requested by"
+
+msgid "heading_discussioncenter_applyforboard"
+msgstr "Request Discussion Board"
+
+msgid "heading_discussioncenter_bind_board"
+msgstr "Bind Discussion Board"
+
+msgid "heading_discussioncenter_configure_discussionboard"
+msgstr "Special configuration settings for Discussion Board"
+
+msgid "heading_document_actions"
+msgstr "Document Actions"
+
+msgid "heading_document_addattachments"
+msgstr "Add new Attachments"
+
+msgid "heading_document_editattachments"
+msgstr "Attachments"
+
+msgid "heading_dynocontent_edit"
+msgstr "Edit Attributes"
+
+msgid "heading_edit_folder_properties"
+msgstr "フォルダのプロパティを編集"
+
+msgid "heading_edit_item"
+msgstr "${itemtype} を編集"
+
+msgid "heading_edit_properties"
+msgstr "プロパティを編集"
+
+msgid "heading_exception_details"
+msgstr "例外の詳細"
+
+msgid "heading_feedback_comments"
+msgstr "Comments"
+
+msgid "heading_file_contents"
+msgstr "ファイルのコンテンツ"
+
+msgid "heading_group_shares"
+msgstr "共有許可をグループへ追加"
+
+msgid "heading_hierarchical_index"
+msgstr "Hierarchical Index"
+
+msgid "heading_index_by_nace"
+msgstr "Index by NACE"
+
+msgid "heading_index_by_providers"
+msgstr "Index by Providers"
+
+msgid "heading_index_by_sme"
+msgstr "Index by SME"
+
+msgid "heading_index_by_topic"
+msgstr "Index by Topic"
+
+msgid "heading_item_configure"
+msgstr "Configure ${itemtype}"
+
+msgid "heading_item_managemetadata"
+msgstr "Manage Metadata of this ${itemtype}"
+
+msgid "heading_ldapresults"
+msgstr "LDAP results"
+
+msgid "heading_link_to"
+msgstr "リンク先:"
+
+msgid "heading_link_to_this_site"
+msgstr "Link to this site"
+
+msgid "heading_lost_password"
+msgstr "パスワードを忘れてしまったら"
+
+msgid "heading_manage_languages"
+msgstr "Manage Languages of this ${itemtype}"
+
+msgid "heading_memberdocs_search"
+msgstr "Find Documents"
+
+msgid "heading_metadata_element"
+msgstr "Metadata Element"
+
+msgid "heading_metadata_values"
+msgstr "Vocabulary of this Metadata Element"
+
+msgid "heading_metadataelement_renderedview"
+msgstr "Metadata Element rendered view"
+
+msgid "heading_my_addresses"
+msgstr "Addresses of"
+
+msgid "heading_my_notifications"
+msgstr "My Notifications"
+
+msgid "heading_my_portalsettings"
+msgstr "Portal Settings for"
+
+msgid "heading_my_preferences"
+msgstr "個人設定"
+
+msgid "heading_newsboard_latest_news"
+msgstr "Recent News"
+
+msgid "heading_newsboard_previousnews"
+msgstr "Previous News of board&quot; ${boardname}"
+
+msgid "heading_osha_siteconfig"
+msgstr "Configure OSHA Site Settings"
+
+msgid "heading_oshasite_editimages"
+msgstr "Edit multilingual core images"
+
+msgid "heading_oshasite_editprops"
+msgstr "Edit OSHA sitewide Properties"
+
+msgid "heading_oshcontent_seealso"
+msgstr "See also"
+
+msgid "heading_portlets_configure"
+msgstr "Configure Portlets"
+
+msgid "heading_pose_faqentry"
+msgstr "Pose Question"
+
+msgid "heading_publishing_process"
+msgstr "公開プロセス"
+
+msgid "heading_questionnaire_result"
+msgstr "Current result"
+
+msgid "heading_quicksearch_users"
+msgstr "Quicksearch Users"
+
+msgid "heading_rating_statistics"
+msgstr "Rating Statistics for"
+
+msgid "heading_ratings_configure"
+msgstr "Configure rating options"
+
+msgid "heading_registration_form"
+msgstr "登録フォーム"
+
+msgid "heading_rename_item"
+msgstr "アイテムの名前を変更"
+
+msgid "heading_search"
+msgstr "Search <span tal:content=\"here/title_or_id\"> Title or id</span>"
+
+msgid "heading_search_results"
+msgstr "検索結果"
+
+msgid "heading_search_results_memberdocs"
+msgstr "Search result for Documents"
+
+msgid "heading_search_results_members"
+msgstr "Search result for Persons"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+msgid "heading_search_results_rss"
+msgstr "Remote Search results"
+
+msgid "heading_sections"
+msgstr "セクション"
+
+msgid "heading_send_page_to"
+msgstr "友達にこのページを送る"
+
+msgid "heading_sign_in_failure_auth"
+msgstr "ログインできませんでした"
+
+msgid "heading_signed_out"
+msgstr "ログアウトしました"
+
+msgid "heading_signin_fail_cookies"
+msgstr "クッキーを有効にしてください"
+
+# # 1 more: ./OSHA/skins/osha/search_form.pt
+msgid "heading_simple_search"
+msgstr "Search for content"
+
+msgid "heading_sinconfig"
+msgstr "Configure Portal Sin Tool"
+
+msgid "heading_site_error"
+msgstr "サイトエラー"
+
+msgid "heading_siteupdate"
+msgstr "Site Update"
+
+msgid "heading_start_simple_process"
+msgstr "Start Workflow"
+
+msgid "heading_syndication_properties"
+msgstr "外部配信のプロパティ"
+
+msgid "heading_transfer_permissions"
+msgstr "Transfer Permissions"
+
+msgid "heading_translator_search_results"
+msgstr "Translator Search results"
+
+msgid "heading_views"
+msgstr "表示"
+
+msgid "heading_welcome"
+msgstr "ようこそ！"
+
+msgid "heading_wf_comments"
+msgstr "Comments of Process Instance"
+
+msgid "heading_wf_instructions"
+msgstr "Instructions of Process Instance"
+
+msgid "heading_you_are_now_logged_in"
+msgstr "ログインしました"
+
+msgid "help nace code"
+msgstr "Help to search by nace code"
+
+msgid "help_adresswahl"
+msgstr "Select your address"
+
+msgid "help_alert_path"
+msgstr "If changes within the here specified areas are made, you will be alerted."
+
+msgid "help_alert_schedule"
+msgstr "Specify a period to be notified."
+
+msgid "help_alert_titlesearchquery"
+msgstr "Please enter a title for your specified search query."
+
+msgid "help_allow_discussion"
+msgstr "'Default' ではサイト全体への設定が適用されます"
+
+msgid "help_allow_rating"
+msgstr "'Default' will use the site-wide setting for rating."
+
+msgid "help_also_ldap_group"
+msgstr "Its safe to leave this checked until you really know what you're doing."
+
+msgid "help_alt_url"
+msgstr "Enter the alternative URL for a edit form."
+
+msgid "help_change_ownership"
+msgstr "現在のオブジェクトの所有権を変更します"
+
+msgid "help_change_status"
+msgstr "このアイテムの新しい状態を選びます"
+
+msgid "help_comment_to_link"
+msgstr "このリンクへのコメントを記入します"
+
+msgid "help_condition"
+msgstr "Enter a <a href='http://zope.org/Documentation/Books/ZopeBook/2_6Edition/AppendixC.stx' target='zope'>TALES condition</a> for the link to be displayed in the Navigation Box. The following names may be used:   (<i> object_url, folder_url, portal_url, object, folder, portal, nothing, request, modules, member</i>)"
+
+msgid "help_confidentialquestion"
+msgstr "Please type in a question."
+
+msgid "help_confidentialquestion_answer"
+msgstr "Please type in the answer for the confidential question."
+
+msgid "help_confirm_password"
+msgstr "もう一度パスワードを入力します。完全に一致しなければなりません"
+
+msgid "help_confirmtumpassword"
+msgstr "Please confirm the new password"
+
+msgid "help_contact"
+msgstr "You can enter Contact information here."
+
+msgid "help_contributors"
+msgstr "このアイテムに協力した人たちの名前です。一行につき一名づつの名前を入力します"
+
+msgid "help_copyrights"
+msgstr "このアイテムの著作権情報"
+
+msgid "help_country_abbrev"
+msgstr "The country abbreviations in this property are used for narrowing the search. They are displayed in the refine search box next to the search results."
+
+msgid "help_criteria_field_name"
+msgstr "選べるフィールドのリスト"
+
+msgid "help_criteria_type"
+msgstr "条件の種類をリスト"
+
+msgid "help_data_text"
+msgstr "The data_text source."
+
+msgid "help_dc_standaloneboards"
+msgstr "Select one or more Boards from this list to bind them to this Discussion Center."
+
+msgid "help_decision"
+msgstr "The Decision or a Statement for completing this task."
+
+msgid "help_description"
+msgstr "このアイテムの簡潔な説明"
+
+msgid "help_description_link"
+msgstr "このリンクの簡潔な説明"
+
+msgid "help_display_condition"
+msgstr "Enter the condition that must be true for the box to be displayed."
+
+msgid "help_edit_condition"
+msgstr "Enter the condition that must be true for the edit button to be displayed."
+
+msgid "help_edit_contents"
+msgstr "これはテキストファイルです。コンテンツを直接編集できます"
+
+msgid "help_edit_form_text_text"
+msgstr "The edit_form_text source."
+
+msgid "help_edit_logic_text_text"
+msgstr "The edit_logic_text source."
+
+msgid "help_effective_date"
+msgstr "アイテムが公開される日付です。もちろんアイテムは公開状態になっている必要があります。この日付を設定しない場合は、公開状態になり次第すぐに公開されます"
+
+msgid "help_email_creation"
+msgstr "メールアドレスを入力します。これはパスワードを忘れた時に必要になります。あなたのプライバシーは尊重され、メールアドレスが第三者に渡ったりどこかで公開されることはありません"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "help_email_creation_slc_ldap"
+msgstr "Enter your email address. You can use this address to log in to the system This email address is used to send you mail alerts for your subscribed topics. We respect your privacy, and will not give the address away to any third parties or expose it anywhere."
+
+msgid "help_email_crosschecker"
+msgstr "The email address for the workflow group cross checker. If no email address is specified, the site administrators email address is used."
+
+msgid "help_email_projectmanager"
+msgstr "The email address for the workflow group project manager. If no email address is specified, the site administrators email address is used."
+
+msgid "help_expiration_date"
+msgstr "アイテムの公開が終了する日付です。この日付以降は自動的に他のユーザからはアイテムが見えなくなります。日付が設定されていなければ公開は終了しません"
+
+msgid "help_external_url"
+msgstr "You can enter an additional external URL here."
+
+msgid "help_file"
+msgstr "「ブラウズ」ボタンをクリックして、アップロードしたいファイルを選びます"
+
+msgid "help_first_name_creation"
+msgstr "Enter first name, eg. John."
+
+msgid "help_folder_ruletargets"
+msgstr "Enter a target that will be displayed if the condition is TRUE. A valid target can be any object that lies in the current folder. <br/> You can also change a rule's priority by moving it up or down."
+
+# # 1 more: ./elevateIT/skins/eIT_wysiwyg/wysiwyg_support.pt
+msgid "help_format"
+msgstr "If you are unsure of which format to use, just select Plain Text and type the document as you usually do."
+
+msgid "help_full_name_creation"
+msgstr "フルネームを入力します。例: Hanako Suzuki"
+
+msgid "help_id"
+msgstr "Enter an ID for the attachment"
+
+msgid "help_include_subfolders"
+msgstr "これを選ぶとPloneはサブフォルダ内のすべてのコンテンツを公開しようとします"
+
+msgid "help_inherit_criteria"
+msgstr "条件の継承をオン/オフします。継承とは、例えば現トピックより上のトピックに「過去三日間からのアイテムのみが表示される」よう設定したとすると、その検索条件が自動的に現トピックにも採用されることです"
+
+msgid "help_instruction"
+msgstr "A brief instruction for the new user."
+
+msgid "help_keyword"
+msgstr "キーワードにより様々な種類のコンテンツが分類されています。カテゴリをたくさんを選びすぎないようにしてください"
+
+msgid "help_language_abbrev"
+msgstr "The language abbreviations in this property are used for narrowing the search. They are displayed in the refine search box next to the search results."
+
+msgid "help_last_name_creation"
+msgstr "Enter last name, eg. Smith."
+
+msgid "help_list_size"
+msgstr "Enter the list size for the box to be displayed."
+
+msgid "help_login_slc_ldap"
+msgstr "You can use this address to log in to the system. This address is used to send you mail alerts to your subscribed topics."
+
+msgid "help_mds_namespace_prefix"
+msgstr "The namespace Prefix for this Metadata Set"
+
+msgid "help_mds_namespace_uri"
+msgstr "The namespace URI for this Metadata Set"
+
+msgid "help_method"
+msgstr "Enter an evaluation Method."
+
+msgid "help_mimetype"
+msgstr "アイテムの MIME-type です。わからない場合は空欄のままにします"
+
+msgid "help_new_keyword"
+msgstr "新しいキーワードは、一行に一つずつ入力します"
+
+msgid "help_newsarticle_description"
+msgstr "Enter the Summary of the News Article. This will shown in every news listing."
+
+msgid "help_notifications"
+msgstr "Please select the topics you want to receive Site updates of."
+
+msgid "help_password_creation"
+msgstr "最低５文字必要です"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "help_password_secret_question_creation"
+msgstr "Enter a reminder that may be used in case you forget your password. Please observe: The confidential question must be selected very carefully, it should not be easy for the others to decipher and the answer to which should be of permanent nature and comprising of just one word."
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "help_password_secret_question_response_creation"
+msgstr "Enter the answer to the reminder."
+
+msgid "help_portlet_appearance"
+msgstr "Change portlet box Color settings, if needed. Please use color definitions for HTML. Either hexadecimal Color values (#XXXXXX) or the common Color names. If left empty, the default Colors are used (depending on the skin scheme). Please use either the input field or the selector."
+
+msgid "help_portlet_cache_duration"
+msgstr "Enter the duration in seconds in which this portlet may be cached. This may improve rendering speed a lot and makes sense if the displayed information does not have to be cutting-edge. Makes sense for static content, too!"
+
+msgid "help_portlet_edit_popup"
+msgstr "Shall the edit form be opened in a separate (popup) window?"
+
+msgid "help_portlet_edit_size"
+msgstr "Enter a size for the edit window."
+
+msgid "help_portlet_logic_text"
+msgstr "The Logic source."
+
+msgid "help_presentation_text"
+msgstr "The Presentation source."
+
+# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
+msgid "help_publisher"
+msgstr "The full formal name of the entity or person responsible for publishing the resource."
+
+msgid "help_publishing_comments"
+msgstr "公開履歴に追加されます。複数のアイテムを選んでいる場合、このコメントがそのすべてのアイテムに付加されます"
+
+msgid "help_ratingoptions"
+msgstr "Options of the Rating."
+
+msgid "help_search_author"
+msgstr "特定のユーザによって作成されたアイテムを検索します"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+msgid "help_search_available_languages"
+msgstr "Return items available in the selected languages."
+
+msgid "help_search_countries"
+msgstr "Return items available in the selected country."
+
+msgid "help_search_description"
+msgstr "この単語に合致するアイテムを検索します。複数の単語は <strong>AND</strong> や <strong>OR</strong> を使って複数の単語でも探せます"
+
+msgid "help_search_item_type"
+msgstr "特定の種類のアイテムを検索します"
+
+msgid "help_search_keywords"
+msgstr "このうちの１つ又は複数のキーワードに合致するアイテムを探します。複数の語は<strong>Ctrl</strong>キーを左クリックと同時に押して選びます。(MacはAppleキーを押しながら)"
+
+msgid "help_search_new_items_since"
+msgstr "最後にログインしてから、あるいは先週から等、ある時より後に新しく追加されたアイテムを探します"
+
+msgid "help_search_path"
+msgstr "Search only for objects below this object in the site hierarchy."
+
+msgid "help_search_review_status"
+msgstr "審査員として審査状態を基準にアイテムを探すこともあるでしょう。ある特定の審査状態にあるアイテムに絞り込みたい場合にこのリストから選びます"
+
+msgid "help_search_rssextension"
+msgstr "You can extend your search by selecting one ore more peer sites to be used as remote search sources. <br/>"
+
+msgid "help_search_text"
+msgstr "単純なテキスト検索として、ここに検索語を入力します。<strong>AND</strong>や<strong>OR</strong>を間に入れて複数単語を組み合わせることができます。テキストはアイテムのコンテンツ、タイトル、説明と照合されます"
+
+msgid "help_search_title"
+msgstr "このタイトルに合致するアイテムを検索します"
+
+msgid "help_selected_portlet"
+msgstr "This is the portlet you have selected."
+
+msgid "help_send_from"
+msgstr "あなたのメールアドレスです（送信人）"
+
+msgid "help_send_to_mail"
+msgstr "メール受取人のアドレスです（受信人）"
+
+msgid "help_shortname"
+msgstr "ショートネームはアイテムのURLの一部となるものです。スペース(空白)や下線、大文字、記号を混ぜることは避けます"
+
+msgid "help_site_identifier"
+msgstr "This is the site identifier to represent the upload source for items in this site."
+
+msgid "help_slidetext"
+msgstr "Select the file to be added by clicking the 'Browse' button."
+
+msgid "help_sourcelanguages"
+msgstr "Select from which languages you are able to translate."
+
+msgid "help_subobjects"
+msgstr "選ばれていると、含まれているすべてのオブジェクトを変更します"
+
+msgid "help_subtitle"
+msgstr "Enter the Headline of the document."
+
+msgid "help_support_email"
+msgstr "This email address is used for sending the support form and the broken link form. If no email address is specified, the site administrators email address is used."
+
+msgid "help_syndication_max_items"
+msgstr "外部配信するアイテムの最大個数です"
+
+msgid "help_syndication_update_base"
+msgstr "この日付から更新のためのカウントが開始されます。例えば毎週火曜日に更新したい場合、この日付が火曜日となるよう設定します"
+
+msgid "help_syndication_update_frequency"
+msgstr "更新の頻度の設定です。例えば隔週ごとに更新したい場合、上欄で &quot;週毎 &quot; を選び、ここで &quot;2&quot; を選びます"
+
+msgid "help_syndication_update_period"
+msgstr "チャンネル更新の頻度の設定です"
+
+msgid "help_tales_expression"
+msgstr "Enter a TALES Expression."
+
+msgid "help_targetlanguages"
+msgstr "Select to which languages you want to translate."
+
+msgid "help_titelpost"
+msgstr "You can change your titelpost here."
+
+msgid "help_titelpre"
+msgstr "You can change your titelpre here."
+
+msgid "help_title"
+msgstr "Enter the Title of the attachment."
+
+msgid "help_topic_criteriatouse"
+msgstr "Help Criteria to use"
+
+# # 3 more: ./elevateIT/skins/eIT_content/topicdocument_edit_form.cpt,
+# ./eITNews/skins/eIT_news/newsarticle_edit_form.cpt,
+# ./eITFAQ/skins/eIT_faq/faq_entry_edit_form.cpt
+msgid "help_translation_complete"
+msgstr "If you check this box, this language version will be marked as completely translated. Every change to the document without checking here will set the translation status to incomplete again."
+
+msgid "help_tumzopepasswordanswer"
+msgstr "Please type in the answer for the password question."
+
+msgid "help_tumzopepasswortfrage"
+msgstr "Please type in a question."
+
+# # 1 more: ./eITNews/skins/eIT_news/newsarticle_edit_form.cpt
+msgid "help_upload_text"
+msgstr "Uploaded files will replace the body text entered above."
+
+msgid "help_uploads"
+msgstr "ファイルをアップロードすると、上に入力された本文が置き換わります"
+
+msgid "help_url"
+msgstr "接頭部は任意で、付いてない場合リンクは相対的に解釈されます"
+
+msgid "help_use_portlet_box"
+msgstr "Select if portlet should be displayed inside a box."
+
+msgid "help_user_name_creation_casesensitive"
+msgstr "希望のユーザ名を入力します(例: ksasaki)。スペースや特殊文字は使えません。大文字と小文字は区別されます。caps lockキーに注意してください。ユーザ名はログインに使われる名前です"
+
+msgid "help_user_name_slc_ldap"
+msgstr "You can enter your user ID or email address here."
+
+msgid "help_validtags"
+msgstr "Help for valid_tags of tagfilter object."
+
+msgid "help_wf_uploads"
+msgstr "You can upload files to this workitem."
+
+msgid "here/portal_type"
+msgstr "here/portal_type"
+
+msgid "hour"
+msgstr "Hour"
+
+msgid "id"
+msgstr "Id"
+
+msgid "info_alert_searchagent"
+msgstr "You can specify a search query for objects you want to monitor. You will be alerted when they were modified."
+
+msgid "info_allowed_content_rendering"
+msgstr "These types of content rendering are allowed here. Plain Text is always allowed and therefore not listed. Toggle selections with Ctrl+Click. "
+
+msgid "info_board_moderated"
+msgstr "Do you want postings be reviewed (moderated)?"
+
+msgid "info_configure_user_choosepassword"
+msgstr "Please choose a new password."
+
+# # 4 more: ./elevateIT/skins/eIT_forms/confirmation_copying_form.cpt,
+# ./elevateIT/skins/eIT_forms/confirmation_deletelang_form.cpt,
+# ./elevateIT/skins/eIT_forms/confirmation_form.pt,
+# ./elevateIT/skins/eIT_forms/form_confirmation.cpt
+msgid "info_confirmationform_confirmfollowing"
+msgstr "This will confirm the following action"
+
+msgid "info_content_not_allowed"
+msgstr "Sorry, you are not allowed to see the content of this object."
+
+msgid "info_dateformat"
+msgstr "Date format must be YYYY-MM-DD HH:MM."
+
+msgid "info_discussion_allowed"
+msgstr "Is it allowed to add Comments to the Articles?"
+
+msgid "info_discussionboard_allowed_posters"
+msgstr "A list of users who may post to this board, even if posting is restricted. "
+
+msgid "info_discussionboard_allowed_readers"
+msgstr "A list of users who may read articles of this board, even if reading is restricted."
+
+msgid "info_discussionboard_bindings"
+msgstr "This Discussion Board is standalone and can be bound to a Discussion Center:"
+
+msgid "info_discussionboard_blacklist"
+msgstr "The listed users are blocked from posting to this center/board. "
+
+msgid "info_discussionboard_boundto_center"
+msgstr "This Discussion Board is bound to Discussion Center"
+
+msgid "info_discussionboard_equivalent_roles"
+msgstr "These roles have rights equivalent to 'Board Moderators' and are thus allowed to moderate. To change settings, please use 'Local Roles'. "
+
+msgid "info_discussionboard_equivalent_roles_posters"
+msgstr "These roles have rights equivalent to 'Board Posters' and are thus allowed to post. To change settings, please use 'Local Roles'."
+
+msgid "info_discussionboard_equivalent_roles_readers"
+msgstr "These roles have rights equivalent to 'Board Readers' and are thus allowed to read. To change settings, please use 'Local Roles'."
+
+msgid "info_discussionboard_list_article_text"
+msgstr "Should a small part of the articles body be shown in the article listing of the discussion board?"
+
+msgid "info_discussionboard_moderated"
+msgstr "Do you want to moderate postings of the Board? "
+
+msgid "info_discussionboard_moderators"
+msgstr "Fill in a list of users who may moderate this Board."
+
+msgid "info_discussionboard_no_articles"
+msgstr "Currently there are no Discussion Articles in this Discussion Board."
+
+msgid "info_discussionboard_posting_restricted"
+msgstr "If you select \"yes\", posting will be restricted only to allowed users. Below you can configure a list for allowed users."
+
+msgid "info_discussionboard_reading_restricted"
+msgstr "If you select \"yes\", reading will be restricted only to allowed users. Below you can configure a list for allowed users."
+
+msgid "info_discussionboard_status"
+msgstr "After creating the board you can change the status to \"Posting not possible\". "
+
+msgid "info_discussioncenter_applyforboard"
+msgstr "Click &quot;Send Request&quot; to send your Application to the Center Administrator."
+
+msgid "info_discussioncenter_blacklist"
+msgstr "The listed users are blocked from posting to this center/board. "
+
+msgid "info_discussioncenter_boardclosing_allowed"
+msgstr "Is it allowed for the board admin to stop posting for the bound or remote syndicated board? "
+
+msgid "info_discussioncenter_discussion_allowed"
+msgstr "Discussion of articles allowed. "
+
+msgid "info_discussioncenter_list_article_text"
+msgstr "Should a small part of the articles body be shown in the article listing of the discussion center?"
+
+msgid "info_discussioncenter_moderated"
+msgstr "Do you want to moderate postings of the Center? "
+
+msgid "info_discussioncenter_no_boards"
+msgstr "Currently there are no Discussion Boards in this Discussion Center."
+
+msgid "info_discussioncenter_no_boardurl"
+msgstr "Board url was omitted from the request"
+
+msgid "info_discussioncenter_posting_restricted"
+msgstr "If you select \"yes\", posting will be restricted only to allowed users."
+
+msgid "info_discussioncenter_reading_restricted"
+msgstr "If you select \"yes\", reading will be restricted only to allowed users."
+
+msgid "info_document_attachments_fileupload_notallowed"
+msgstr "File upload is not allowed"
+
+msgid "info_document_filenumexceeded"
+msgstr "Number of Files exceeded."
+
+msgid "info_document_no_attachments"
+msgstr "In the moment there are no attachments in here."
+
+msgid "info_feedback_message_checkbefore"
+msgstr "Before you send a question, please check our ${link1} and ${link2} pages."
+
+msgid "info_feedback_message_publications"
+msgstr "All the Agency's publications are ${link} . We have no additional information apart from that which is on our network of websites.&quot;"
+
+msgid "info_feedback_message_writemessage"
+msgstr "You can write to us in any of the 20 official EU languages, but please bear in mind that there may be some delay while we translate your message and our reply. Messages in English are likely to be answered more quickly because it is spoken by all Agency staff. We aim to answer questions as soon as possible."
+
+msgid "info_fileupload_allowed"
+msgstr "May attachments be added to postings? "
+
+msgid "info_first_user"
+msgstr "The first User the Task is assigned to."
+
+msgid "info_folder_name"
+msgstr "Warning! The new folder name must not contain the character &quot;dot&quot; (.). <br/>Folder names are case sensitive."
+
+msgid "info_join_form"
+msgstr "Marked fields must be filled in: <span class=\"fieldRequired\" i18n:attributes=\"title\" i18n:translate=\"label_required\" title=\"Required\">(Required)</span>"
+
+msgid "info_language_change_default"
+msgstr "Change the default languge of this object to <em>${source_language}</em> ."
+
+msgid "info_language_copy"
+msgstr "Copy the contents of the selected language <em>${source_language}</em> to the current language <em>${current_language}</em> . <br/> All data in the current language will be lost."
+
+msgid "info_language_delete"
+msgstr "Delete the contents of the selected language <em>${source_language}</em> . The object itself is not removed."
+
+msgid "info_language_unavailable"
+msgstr "This object is not available in the language you requested ( ${language} ). It is therefore shown in ${language_used} . Translated versions are available in following languages:"
+
+msgid "info_link_to_this_site"
+msgstr "If you would like to place a link on your site to this page, you can do so by using the following code:"
+
+msgid "info_max_filenum"
+msgstr "If attachments are allowed, fill in the quantity limit. Leave empty to enable unlimited number of files."
+
+msgid "info_max_filesize"
+msgstr "If attachments are allowed, fill in size limit! Leave empty to enable unlimited filesize."
+
+msgid "info_metadata_values"
+msgstr "If this Metadata element needs to provide a Vocabulary the user can select values from, use &quot;Add new Metadata Value&quot; in the action bar to add values."
+
+msgid "info_metadataelement_renderedview"
+msgstr "This is the rendered view of this metadata element as it looks like for the user."
+
+msgid "info_newsboard_moderators"
+msgstr "Fill in a list of users who may moderate this Board."
+
+msgid "info_newsletter_content_editing"
+msgstr "Note: Changes made to the Copy of items in the Newsletter will show up in the Newsletter only (original content can be changed by clicking on the item's title and editing the original)."
+
+msgid "info_no_entry"
+msgstr "no entry found"
+
+msgid "info_no_events_in_calendar"
+msgstr "There are currenty no Events in this Calendar"
+
+msgid "info_portlet_does_not_exist"
+msgstr "Portlet nicht vorhanden."
+
+msgid "info_portlet_feature_links"
+msgstr "Select one of the following links to view content grouped by a special criterium."
+
+msgid "info_priority"
+msgstr "Priority for the task"
+
+msgid "info_process"
+msgstr "Which Workflow should be started?"
+
+msgid "info_questionnaire_login"
+msgstr "To take part in this survey, please log in."
+
+msgid "info_recent_changes"
+msgstr "Changes that have been made since your last login."
+
+msgid "info_reset_portlet_slots"
+msgstr "The portlet configuration on this object has been changed manually. If you want it to be inherited from a parent object, click on &quot;Reset all Slots&quot;."
+
+msgid "info_responsible_user"
+msgstr "This user has administrative priviledges on this center/board. He is contact person for all issues related to this center/board. "
+
+# # 1 more: ./OSHA/skins/osha/search_form.pt
+msgid "info_search_translation_search"
+msgstr "To specify your search according to language versions, please try the <a href=\"translation_search_form\">${url}</a>"
+
+msgid "info_searchinfolder"
+msgstr "In welchem Verzeichnis soll gesucht werden?"
+
+msgid "info_sin_configfile"
+msgstr "The config file for the Sin Tool"
+
+msgid "info_start_simple_process"
+msgstr "Start a workflow process by adding the details and information needed to work on this Task."
+
+msgid "info_tagfilter_syntaxvalidation"
+msgstr "Syntax Validation"
+
+msgid "info_topic_query"
+msgstr "Queries can consist of several criteria. Every criterion must have its own line. The syntax is:<br/><b>Fieldname: Value</b><p><b>Value</b> can be a single expression, or a number of expression separated by a comma.<br/><dl>Examples:    <dt>path: /folder1</dt>    <dd>Finds all objects where the path begins with '/folder1'. Works also with VHM.</dd>    <dt>portal_type: Folder, Document</dt>    <dd>Finds all objects which have Folder or Document as portal type.</dd>    <dt>modified: DateTime()-2<br/>     modified_usage: range:min</dt>     <dd>Finds all objects that have been modified within the last 2 days.</dd> </dl>"
+
+msgid "info_transfer_permissions"
+msgstr "Here you can allocate roles and extended permissions. <br/> The safety mechanism of ZOPE differentiates between 'permissions', i.e. the authorisation to atomic actions (for e.g. view) of an object and 'roles'. Roles can be seen as a container for groups of permissions, which facilitates bundling of authorisation that might be needed to complete a task (for e.g. to add an article one would require the permission 'Add Content' and 'Manage Content', and these two can be bundled together under 'publisher') 'user' on the other hand cannot avail individual permissions and will be allocated only 'roles'. In order to keep this system as flexible as possible one can transfer the 'permissions' of one 'role' to another 'role'. Thus, without having the knowledge of required permissions it is possible to transfer permissions to a group of users. <br/> In doing so one could for e.g. transfer to one of the 'employee' the role of a 'publisher' and reversed respectively. <br/> Please note that the role itself is not transferred; should there be a tick under the caption 'Authenticated' in the 'Owner' column, it would mean that the member (i.e. user) with the role 'Authenticated' not automatically has got the role 'Owner'. It only implies that with regards to this particular object the member in the role of 'Authenticated' has the same permissions as the member of the role of 'Owner'. A container of roles within the roles is currently not supported by the ZOPE security. The basic roles ('Basis') are listed in captions, beneath which there are checkboxes with roles, whose permissions can be transferred. A tick would mean that the basis of given role is at par with regards to the permissions it contains. <br/> Transfer of roles: By ticking an empty box the permissions of the marked column ('Permissions are :') will be transferred to the basis once the form is sent. <br/> Cancelling of roles: By ticking off a checked box the permissions of the marked column will be deleted once the form is sent, i.e. if the to be cancelled permissions do not have any other roles attached to it."
+
+msgid "info_translator_search"
+msgstr "The following list shows all multilingual objects in this site and their translation state for the selected source and target languages."
+
+msgid "info_user_not_owner"
+msgstr "Current user is not owner of this task. Please reassign first to complete the task!"
+
+msgid "info_version_changed"
+msgstr "and <b>changed</b> <br/>"
+
+msgid "info_version_checked_in"
+msgstr "checked in"
+
+msgid "info_version_checked_out"
+msgstr "checked out"
+
+msgid "info_version_in_state"
+msgstr "in state"
+
+msgid "info_wf_responsible_user"
+msgstr "The User responsible for this Process"
+
+msgid "is"
+msgstr "is"
+
+msgid "is_filed_under_the_subject"
+msgstr "Is filed under the Subject"
+
+msgid "item workflow logging"
+msgstr "workflow logging"
+
+msgid "january"
+msgstr "January"
+
+msgid "july"
+msgstr "July"
+
+msgid "june"
+msgstr "June"
+
+msgid "keywords"
+msgstr "キーワード"
+
+msgid "label_Login"
+msgstr "Your Login and primary email address."
+
+msgid "label_Viewlet"
+msgstr "Viewlet"
+
+msgid "label_abstract_article"
+msgstr "Abstract / Article"
+
+msgid "label_add_item"
+msgstr "追加するアイテムを選択"
+
+msgid "label_add_new_item"
+msgstr "新規アイテムを追加"
+
+msgid "label_address"
+msgstr "Address"
+
+msgid "label_admin"
+msgstr "Administration"
+
+msgid "label_affected_content"
+msgstr "影響を受けるコンテンツ"
+
+msgid "label_alert_titlesearchquery"
+msgstr "Title of the search query"
+
+msgid "label_all"
+msgstr "All"
+
+msgid "label_allow_discussion"
+msgstr "このアイテムでの議論を許可する"
+
+msgid "label_allow_rating"
+msgstr "Allow rating"
+
+msgid "label_allowed_content_rendering"
+msgstr "Allowed content rendering types"
+
+msgid "label_any_author"
+msgstr "どの作者でも"
+
+msgid "label_any_country"
+msgstr "Any Country"
+
+msgid "label_any_language"
+msgstr "Any language"
+
+msgid "label_author"
+msgstr "作成者"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+msgid "label_available_languages"
+msgstr "Available Languages"
+
+msgid "label_back_to_errorlog"
+msgstr "エラーログへ戻る"
+
+msgid "label_board_admin"
+msgstr "Board administrator"
+
+msgid "label_board_moderated"
+msgstr "Board moderated"
+
+msgid "label_body_text"
+msgstr "本文"
+
+msgid "label_broaden_search"
+msgstr "Broaden Search"
+
+msgid "label_by"
+msgstr "by"
+
+msgid "label_change_status"
+msgstr "状態を変更"
+
+msgid "label_checkin_message"
+msgstr "コメント"
+
+msgid "label_choose_mime"
+msgstr "MIME-typeを選ぶ"
+
+msgid "label_choose_portlet_definition"
+msgstr "Choose Portlet Definition"
+
+msgid "label_city"
+msgstr "City"
+
+msgid "label_closed"
+msgstr "closed"
+
+msgid "label_comment"
+msgstr "コメント"
+
+msgid "label_comments"
+msgstr "Comments"
+
+msgid "label_confirm_password"
+msgstr "パスワードを確認"
+
+msgid "label_contact"
+msgstr "Contact"
+
+msgid "label_contact_email"
+msgstr "連絡先メールアドレス"
+
+msgid "label_contact_name"
+msgstr "連絡先名称"
+
+msgid "label_contact_phone"
+msgstr "連絡先電話番号"
+
+msgid "label_contributors"
+msgstr "協力者"
+
+msgid "label_copyrights"
+msgstr "著作権"
+
+msgid "label_countries"
+msgstr "Countries"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "label_country"
+msgstr "Country"
+
+msgid "label_country_prefs"
+msgstr "Informations from which countries do you prefer?"
+
+msgid "label_creator"
+msgstr "Creator"
+
+msgid "label_criteria_field_name"
+msgstr "フィールド名"
+
+msgid "label_criteria_type"
+msgstr "条件の種類"
+
+msgid "label_current_decision"
+msgstr "Current Decision"
+
+msgid "label_current_owner"
+msgstr "Current owner"
+
+msgid "label_currentversion_edit_original"
+msgstr "You are now editing the <b>original version</b> of this object. <br/> There is a working copy available."
+
+msgid "label_currentversion_edit_workingcopy"
+msgstr "You are now editing the <b>working copy</b> of this object. <br/> Do you want to edit the original version?"
+
+msgid "label_currentversion_view_original"
+msgstr "You are now viewing the <b>original version</b> of this object. <br/> There is a working copy available."
+
+msgid "label_currentversion_view_workingcopy"
+msgstr "You are now viewing the <b>working copy</b> of this object. <br/> Do you want to view the original version?"
+
+msgid "label_date"
+msgstr "日付"
+
+msgid "label_decision"
+msgstr "Decision"
+
+msgid "label_default_language"
+msgstr "デフォルトの言語"
+
+msgid "label_delivery_date"
+msgstr "Deadline"
+
+msgid "label_description"
+msgstr "説明"
+
+msgid "label_discussion_default"
+msgstr "デフォルト"
+
+msgid "label_discussion_disabled"
+msgstr "許可しない"
+
+msgid "label_discussion_enabled"
+msgstr "許可する"
+
+msgid "label_discussionboard_allowed_posters"
+msgstr "Allowed posters"
+
+msgid "label_discussionboard_allowed_readers"
+msgstr "Allowed readers"
+
+msgid "label_discussionboard_blacklist"
+msgstr "Blacklist"
+
+msgid "label_discussionboard_discussion_allowed"
+msgstr "Allow discussion"
+
+msgid "label_discussionboard_equivalent_roles"
+msgstr "Equivalent roles"
+
+msgid "label_discussionboard_list_article_text"
+msgstr "Show article text preview"
+
+msgid "label_discussionboard_moderated"
+msgstr "Moderation"
+
+msgid "label_discussionboard_moderators"
+msgstr "Moderators"
+
+msgid "label_discussionboard_posting_restricted"
+msgstr "Restrict posting"
+
+msgid "label_discussionboard_reading_restricted"
+msgstr "Restrict reading"
+
+msgid "label_discussionboard_responsibility"
+msgstr "Responsibility"
+
+msgid "label_discussionboard_status"
+msgstr "Status of Board"
+
+msgid "label_discussioncenter_blacklist"
+msgstr "Blacklist"
+
+msgid "label_discussioncenter_boardclosing_allowed"
+msgstr "Allow Board closing"
+
+msgid "label_discussioncenter_discussion_allowed"
+msgstr "Allow discussion"
+
+msgid "label_discussioncenter_list_article_text"
+msgstr "Show article text preview"
+
+msgid "label_discussioncenter_moderated"
+msgstr "Moderation"
+
+msgid "label_discussioncenter_posting_restricted"
+msgstr "Restrict posting"
+
+msgid "label_discussioncenter_reading_restricted"
+msgstr "Restict reading"
+
+msgid "label_discussioncenter_standaloneboards"
+msgstr "Stand alone Boards"
+
+msgid "label_edit_contents"
+msgstr "コンテンツを編集"
+
+msgid "label_effective_date"
+msgstr "開始年月日"
+
+msgid "label_email"
+msgstr "Ｅメール"
+
+msgid "label_email_address"
+msgstr "メールアドレス"
+
+# # 1 more: ./eITCalendar/skins/eIT_calendar/event_view.pt
+msgid "label_end_date"
+msgstr "End Date"
+
+msgid "label_end_time"
+msgstr "End Time"
+
+msgid "label_endusergroup_prefs"
+msgstr "What subjects are you most interested in?"
+
+msgid "label_error"
+msgstr "エラー"
+
+msgid "label_error_message"
+msgstr "エラーメッセージ"
+
+msgid "label_error_time"
+msgstr "リクエスト実行日時"
+
+msgid "label_error_type"
+msgstr "エラーの種類"
+
+msgid "label_error_value"
+msgstr "エラー値"
+
+msgid "label_eventType"
+msgstr "イベントの種類"
+
+msgid "label_event_location"
+msgstr "イベント開催場所"
+
+msgid "label_event_type"
+msgstr "イベントの種類"
+
+msgid "label_event_url"
+msgstr "イベントのURL"
+
+msgid "label_exception_type"
+msgstr "Exception Type"
+
+msgid "label_exception_value"
+msgstr "Exception Value"
+
+msgid "label_existing_keywords"
+msgstr "既存のキーワード"
+
+msgid "label_expiration_date"
+msgstr "終了年月日"
+
+msgid "label_faq_answertext"
+msgstr "Body text of the answer"
+
+msgid "label_faq_questiontext"
+msgstr "Body text of the question"
+
+msgid "label_female"
+msgstr "female"
+
+msgid "label_field_type"
+msgstr "Field Type:"
+
+msgid "label_file"
+msgstr "ファイル"
+
+msgid "label_file_type"
+msgstr "ファイルの種類"
+
+msgid "label_files"
+msgstr "files"
+
+msgid "label_fileupload_allowed"
+msgstr "Allow file upload"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "label_first_name"
+msgstr "First Name"
+
+msgid "label_firstname"
+msgstr "First name"
+
+msgid "label_focalpoint"
+msgstr "Focalpoint"
+
+msgid "label_folder_method"
+msgstr "Method ID"
+
+msgid "label_full_name"
+msgstr "フルネーム"
+
+msgid "label_fullname"
+msgstr "フルネーム"
+
+msgid "label_glossaryentry_explanation"
+msgstr "Explanation"
+
+msgid "label_go_to_more_profilesettings"
+msgstr "More Profile Settings ..."
+
+msgid "label_hidden"
+msgstr "hidden"
+
+# # 2 more: ./eITCalendar/skins/eIT_calendar/calendar_view.pt,
+# ./eITCalendar/skins/eIT_calendar/calendar_week_view.pt
+msgid "label_hidden_calendar_eventsforthisday"
+msgstr "Events for this day"
+
+msgid "label_include_subfolders"
+msgstr "サブフォルダを含む"
+
+msgid "label_index_field"
+msgstr "Index Field?"
+
+msgid "label_index_type"
+msgstr "Index Type:"
+
+msgid "label_information_topics"
+msgstr "Information Topics:"
+
+msgid "label_inherit_criteria"
+msgstr "条件の継承"
+
+msgid "label_instruction"
+msgstr "Instruction"
+
+msgid "label_is_active"
+msgstr "Active?"
+
+msgid "label_item_type"
+msgstr "アイテムの種類"
+
+msgid "label_itemtype"
+msgstr "種類"
+
+msgid "label_keywords"
+msgstr "キーワード"
+
+msgid "label_language"
+msgstr "言語"
+
+msgid "label_language_prefs"
+msgstr "Language Preferences"
+
+msgid "label_last_comment"
+msgstr "Last Comment"
+
+# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
+msgid "label_last_edited_by"
+msgstr "Last edited by"
+
+msgid "label_last_instruction"
+msgstr "Last Instruction"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "label_last_name"
+msgstr "Last Name"
+
+msgid "label_lastname"
+msgstr "Last Name"
+
+msgid "label_ldap_address"
+msgstr "Address"
+
+msgid "label_ldap_adresseemail"
+msgstr "Email address"
+
+msgid "label_ldap_c/o"
+msgstr "c / o"
+
+msgid "label_ldap_confidentialquestion"
+msgstr "Confidential question"
+
+msgid "label_ldap_confidentialquestion_answer"
+msgstr "Answer for confidential question"
+
+msgid "label_ldap_dateofbirth"
+msgstr "Date of Birth"
+
+msgid "label_ldap_displaylanguage"
+msgstr "Display language"
+
+msgid "label_ldap_enabled_login_is"
+msgstr "User ID or email address:"
+
+msgid "label_ldap_isstandardaddress"
+msgstr "This is the default address"
+
+msgid "label_ldap_mobil"
+msgstr "Mobile phone number"
+
+msgid "label_ldap_nationality"
+msgstr "Nationality"
+
+msgid "label_ldap_password_query"
+msgstr "My confidential question is:"
+
+msgid "label_ldap_password_response"
+msgstr "The answer to my confidential question is:"
+
+msgid "label_ldap_passwordconfirmation"
+msgstr "Password confirmation"
+
+msgid "label_ldap_plzortland"
+msgstr "ZIP Code, City and Country"
+
+msgid "label_ldap_securityquestion"
+msgstr "Security question"
+
+msgid "label_ldap_securityquestion_answer"
+msgstr "Answer for security question"
+
+msgid "label_ldap_setnewpassword"
+msgstr "Set new password"
+
+msgid "label_ldap_sex"
+msgstr "Gender"
+
+msgid "label_ldap_strassehausnummer"
+msgstr "Street address"
+
+msgid "label_ldap_telefax"
+msgstr "Fax number"
+
+msgid "label_ldap_telefon"
+msgstr "Phone number"
+
+msgid "label_ldap_titelpost"
+msgstr "Trailing titles"
+
+msgid "label_ldap_titelpre"
+msgstr "Prefixed titles"
+
+msgid "label_ldap_url"
+msgstr "Website"
+
+msgid "label_ldapquery"
+msgstr "LDAP Query"
+
+msgid "label_link"
+msgstr "リンク"
+
+msgid "label_localrole_to_assign"
+msgstr "割り当てるロール"
+
+msgid "label_localrole_typetouse"
+msgstr "Type to use"
+
+msgid "label_mail_password"
+msgstr "パスワードをメールで送ってもらう"
+
+msgid "label_male"
+msgstr "Male"
+
+# # 1 more: ./OSHA/skins/osha/global_languagemenu.pt
+msgid "label_manage_languages"
+msgstr "Manage Languages"
+
+msgid "label_max_filenum"
+msgstr "Maximum number of files"
+
+msgid "label_max_filesize"
+msgstr "Maximum file size"
+
+msgid "label_mds_initialized"
+msgstr "Initialized"
+
+msgid "label_mds_namespace_prefix"
+msgstr "Namespace Prefix"
+
+msgid "label_mds_namespace_uri"
+msgstr "Namespace URI"
+
+msgid "label_message"
+msgstr "Message"
+
+msgid "label_mimetype"
+msgstr "MIME Type"
+
+msgid "label_modified_items_since"
+msgstr "Modified items since"
+
+msgid "label_more_information"
+msgstr "More Information"
+
+msgid "label_moveto"
+msgstr "Move to ..."
+
+msgid "label_my_user_name_is"
+msgstr "私のユーザ名は"
+
+msgid "label_name"
+msgstr "名前"
+
+msgid "label_new_items_since"
+msgstr "アイテムの追加時点"
+
+msgid "label_new_keywords"
+msgstr "新しいキーワード"
+
+msgid "label_new_ldap_password_assigned"
+msgstr "Please note, a new password has been allotted:"
+
+msgid "label_new_owner"
+msgstr "新しい所有者"
+
+msgid "label_new_title"
+msgstr "新しいタイトル"
+
+msgid "label_news_for_this_category"
+msgstr "News for this Category"
+
+msgid "label_newsarticle_external_url"
+msgstr "External URL"
+
+msgid "label_newsarticle_headline"
+msgstr "Headline"
+
+msgid "label_newsboard_discussion_allowed"
+msgstr "Allow discussion"
+
+msgid "label_newsboard_moderators"
+msgstr "Moderators"
+
+msgid "label_newsletter_available"
+msgstr "This newsletter is available in: <span tal:omit-tag=\"\" tal:repeat=\"lang lang_supported\"> <a href=\"#\" tal:attributes=\"href python: '%s/newsletter_view?body_language=%s' % (nl_url,lang)\"><span tal:content=\"lang\"/></a> </span>"
+
+msgid "label_no_panels_available"
+msgstr "個人設定パネルがありません"
+
+msgid "label_notifications"
+msgstr "Notifications"
+
+msgid "label_organisation"
+msgstr "Organisation"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "label_organization_size"
+msgstr "Size of organization"
+
+msgid "label_organization_type"
+msgstr "I am a member of..."
+
+msgid "label_osha_Agency_ProjectManager_Email"
+msgstr "Agency Project ManagerEmail Address"
+
+msgid "label_osha_TC_CrossChecker_Email"
+msgstr "TC Cross Checker Email Address"
+
+msgid "label_osha_searchcountries"
+msgstr "Refine search parameter &quot;countries&quot;"
+
+msgid "label_osha_searchlanguages"
+msgstr "Refine search parameter &quot;languages&quot;"
+
+msgid "label_osha_support_email"
+msgstr "Support Email Address"
+
+msgid "label_osha_uploadsource"
+msgstr "Upload source"
+
+msgid "label_owned_by"
+msgstr "Task owned by"
+
+msgid "label_password"
+msgstr "パスワード"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "label_password_secret_question"
+msgstr "Confidential question"
+
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+msgid "label_password_secret_question_response"
+msgstr "Answer for confidential question"
+
+msgid "label_password_will_be_mailed"
+msgstr "登録プロセスを完了させるため、パスワードが自動生成されてメールで送信されます"
+
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/alert_member_query_form.cpt
+msgid "label_path"
+msgstr "Path"
+
+msgid "label_pixel"
+msgstr "Pixel"
+
+msgid "label_portlet_alt_url"
+msgstr "Alternative edit URL"
+
+msgid "label_portlet_appearance"
+msgstr "Appearance"
+
+msgid "label_portlet_cacheduration"
+msgstr "Cache Duration"
+
+msgid "label_portlet_cacheduration_desc"
+msgstr "seconds"
+
+msgid "label_portlet_condition_box"
+msgstr "TAL Condition for displaying the box"
+
+msgid "label_portlet_condition_editicon"
+msgstr "TAL Condition for displaying the edit icon"
+
+msgid "label_portlet_data"
+msgstr "Data"
+
+msgid "label_portlet_edit_popup"
+msgstr "Use popup window for editing"
+
+msgid "label_portlet_edit_size"
+msgstr "Size of edit window (popup only)"
+
+msgid "label_portlet_editform"
+msgstr "Edit form"
+
+msgid "label_portlet_editlogic"
+msgstr "Edit logic (Phyton code)"
+
+msgid "label_portlet_invertediticon"
+msgstr "Show Edit icon inverse?"
+
+msgid "label_portlet_listsize"
+msgstr "List size"
+
+msgid "label_portlet_logic"
+msgstr "Logic"
+
+msgid "label_portlet_presentation"
+msgstr "Presentation"
+
+msgid "label_portlet_selectportlet"
+msgstr "Initialize portlet with default Value"
+
+msgid "label_portlet_useportletbox"
+msgstr "Use Portlet box?"
+
+msgid "label_position"
+msgstr "Position"
+
+msgid "label_prescribe"
+msgstr "prescribe"
+
+msgid "label_priority"
+msgstr "Priority"
+
+msgid "label_process"
+msgstr "Type of Workflow"
+
+msgid "label_process_description"
+msgstr "Process Descripton"
+
+# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
+msgid "label_process_title"
+msgstr "Process Title"
+
+msgid "label_profession"
+msgstr "Profession"
+
+msgid "label_profile"
+msgstr "Profile"
+
+msgid "label_project_description"
+msgstr "Project description"
+
+msgid "label_projects"
+msgstr "Projects"
+
+msgid "label_publications"
+msgstr "Publications"
+
+# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
+msgid "label_publisher"
+msgstr "Publisher"
+
+msgid "label_publishing_effective"
+msgstr "開始"
+
+msgid "label_purpose"
+msgstr "I want to send a ..."
+
+msgid "label_rating_average"
+msgstr "average"
+
+msgid "label_rating_cumulative"
+msgstr "cumulative"
+
+msgid "label_rating_numberofvotes"
+msgstr "Number of Votes"
+
+msgid "label_rating_ratingoptions"
+msgstr "Rating Options"
+
+msgid "label_remember_my_name"
+msgstr "ユーザ名を記憶する"
+
+msgid "label_request_url"
+msgstr "Request URL"
+
+msgid "label_required"
+msgstr "(必須項目)"
+
+msgid "label_responsible_user"
+msgstr "Responsible user"
+
+msgid "label_review_status"
+msgstr "審査状態"
+
+msgid "label_rewards"
+msgstr "Rewards"
+
+msgid "label_roles"
+msgstr "ロール"
+
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/alert_member_query_form.cpt
+msgid "label_schedule"
+msgstr "Schedule"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+msgid "label_search_peersites"
+msgstr "Peer Sites"
+
+msgid "label_search_term"
+msgstr "検索用語"
+
+msgid "label_search_text"
+msgstr "検索テキスト"
+
+msgid "label_searchtext"
+msgstr "検索テキスト"
+
+msgid "label_sector"
+msgstr "Sector"
+
+msgid "label_select"
+msgstr "選択"
+
+msgid "label_select_allornone"
+msgstr "Select All/None"
+
+msgid "label_select_group"
+msgstr "グループを${name}を選択"
+
+msgid "label_select_language"
+msgstr "Select Language"
+
+msgid "label_select_user"
+msgstr "ユーザ${user}を選択"
+
+msgid "label_select_usergroup"
+msgstr "ユーザ／グループ${role}を選択"
+
+msgid "label_send_from"
+msgstr "差出人"
+
+msgid "label_send_to_mail"
+msgstr "宛先 (メールアドレス)"
+
+msgid "label_short_name"
+msgstr "ショートネーム"
+
+msgid "label_sin_configfile"
+msgstr "Configuration File"
+
+msgid "label_size"
+msgstr "サイズ"
+
+# , fuzzy
+msgid "label_skiptocontent"
+msgstr "コンテンツへジャンプする"
+
+msgid "label_sourcelanguages"
+msgstr "Source Languages"
+
+# # 1 more: ./eITCalendar/skins/eIT_calendar/event_view.pt
+msgid "label_start_date"
+msgstr "Start Date"
+
+msgid "label_start_time"
+msgstr "Start Time"
+
+# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
+msgid "label_started_by"
+msgstr "Started by"
+
+msgid "label_state"
+msgstr "状態"
+
+msgid "label_store_multilingual_input"
+msgstr "Should user input be stored multilingual?"
+
+msgid "label_subject"
+msgstr "題目"
+
+msgid "label_subobjects"
+msgstr "サブオブジェクト"
+
+msgid "label_surname"
+msgstr "Last Name"
+
+msgid "label_syndication_channel_description"
+msgstr "チャンネルの説明"
+
+msgid "label_syndication_channel_title"
+msgstr "チャンネルのタイトル"
+
+msgid "label_syndication_channel_url"
+msgstr "Channel URL"
+
+msgid "label_syndication_max_items"
+msgstr "最大アイテム数"
+
+msgid "label_syndication_update_base"
+msgstr "更新時計算の基準日時"
+
+msgid "label_syndication_update_frequency"
+msgstr "更新頻度"
+
+msgid "label_syndication_updateperiod"
+msgstr "更新の期間"
+
+msgid "label_synsource"
+msgstr "Syndication Source"
+
+msgid "label_tagfilter_validtags"
+msgstr "Valid Tags"
+
+msgid "label_targetlanguages"
+msgstr "Target Languages"
+
+msgid "label_time"
+msgstr "時間"
+
+msgid "label_title"
+msgstr "タイトル"
+
+msgid "label_topic_criteriatouse"
+msgstr "Criteria to use"
+
+msgid "label_topic_query"
+msgstr "Query"
+
+msgid "label_topic_useadvanced"
+msgstr "Query (Advanced view)"
+
+msgid "label_topic_usesimple"
+msgstr "Criteria (Simple view)"
+
+msgid "label_topics_of_interest"
+msgstr "Topics of interest"
+
+msgid "label_translation_complete"
+msgstr "Translation complete"
+
+msgid "label_translation_out_of_date"
+msgstr "Translation out of date"
+
+msgid "label_type"
+msgstr "種類"
+
+msgid "label_type_of_sender"
+msgstr "I am ..."
+
+# # 1 more: ./OSHA/skins/osha/osha_siteconfig_form.cpt
+msgid "label_up_to_elevateIT_setup"
+msgstr "Up to elevateIT Setup"
+
+msgid "label_up_to_preferences"
+msgstr "個人設定へ移動"
+
+msgid "label_up_to_profilesettings"
+msgstr "Up to Profile Settings"
+
+msgid "label_upload_contents_optional"
+msgstr "コンテンツのアップロード (任意)"
+
+msgid "label_uploadsource"
+msgstr "Upload Source"
+
+msgid "label_url"
+msgstr "URL"
+
+msgid "label_user"
+msgstr "ユーザ"
+
+msgid "label_user_group_name"
+msgstr "ユーザ/グループ名"
+
+msgid "label_user_name"
+msgstr "ユーザ名"
+
+msgid "label_user_name_slc_ldap"
+msgstr "User ID or email address"
+
+# # 1 more: ./elevateIT/skins/eIT_templates/content_stagechooser.pt
+msgid "label_versioning_information"
+msgstr "VERSIONING INFORMATION"
+
+msgid "label_your_mwnid"
+msgstr "Your MWN-ID"
+
+# # 1 more: ./elevateIT/skins/eIT_forms/configure_user_form.cpt
+msgid "label_your_name"
+msgstr "Your Name"
+
+# # 3 more: ./elevateIT/skins/eIT_content/topicdocument_edit_form.cpt,
+# ./eITNews/skins/eIT_news/newsarticle_edit_form.cpt,
+# ./eITFAQ/skins/eIT_faq/faq_entry_edit_form.cpt
+msgid "lable_translation_complete"
+msgstr "Translation complete"
+
+msgid "language"
+msgstr "言語"
+
+msgid "Language"
+msgstr "Language"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+msgid "language_help"
+msgstr "Select your language."
+
+msgid "lastrun"
+msgstr "Last Run"
+
+msgid "legend_account_details"
+msgstr "アカウントの詳細"
+
+# , fuzzy
+msgid "legend_acquired_roles"
+msgstr "獲得したロール"
+
+msgid "legend_add_new_topic_criteria"
+msgstr "新しいトピック条件を追加"
+
+msgid "legend_address_info"
+msgstr "メールアドレス情報"
+
+msgid "legend_addresses"
+msgstr "Addresses"
+
+msgid "legend_alert_searchquery"
+msgstr "Alerts search query"
+
+msgid "legend_assign_workitem"
+msgstr "Assign Workitem"
+
+msgid "legend_assigned_roles"
+msgstr "${folder} に割当てられたロール"
+
+msgid "legend_available_groups"
+msgstr "選択可能なグループ"
+
+msgid "legend_available_members"
+msgstr "選択可能なメンバー"
+
+msgid "legend_change_ownership"
+msgstr "所有者の変更"
+
+msgid "legend_complete_workitem"
+msgstr "Complete Task"
+
+msgid "legend_completedata"
+msgstr "Complete your data"
+
+msgid "legend_configure"
+msgstr "Configuration-Settings"
+
+msgid "legend_configure_left_slot"
+msgstr "Configure left slot"
+
+msgid "legend_configure_right_slot"
+msgstr "Configure right slot"
+
+msgid "legend_country_prefs"
+msgstr "Country preferences"
+
+msgid "legend_default_properties"
+msgstr "Default Properties"
+
+msgid "legend_definition"
+msgstr "Definition"
+
+msgid "legend_details"
+msgstr "Details"
+
+msgid "legend_discussionboard_binding"
+msgstr "Binding"
+
+# # 1 more: ./eITForum/skins/eIT_forum/discussionboard_apply_form.cpt
+msgid "legend_discussionboard_settings"
+msgstr "Board Settings"
+
+msgid "legend_document_details"
+msgstr "文書の詳細"
+
+msgid "legend_education"
+msgstr "Education"
+
+msgid "legend_endusergroup_prefs"
+msgstr "End user group"
+
+msgid "legend_event_details"
+msgstr "イベントの詳細"
+
+# # 1 more: ./eITFAQ/skins/eIT_faq/faq_entry_pose_form.cpt
+msgid "legend_faqentry_details"
+msgstr "FAQ Entry Details"
+
+msgid "legend_file_details"
+msgstr "ファイルの詳細"
+
+msgid "legend_folder_details"
+msgstr "フォルダの詳細"
+
+msgid "legend_folder_rulefromexpression"
+msgstr "Create Rule from TALES Expression"
+
+msgid "legend_folder_rulefrommethod"
+msgstr "Add rule with evaluation method"
+
+msgid "legend_folder_rulefromtales"
+msgstr "Add Rule from TALES Expression"
+
+msgid "legend_folder_ruletargets"
+msgstr "Determine targets for redirection"
+
+msgid "legend_folder_setnavigationview"
+msgstr "Navigation view"
+
+msgid "legend_generate_ldapquery"
+msgstr "Generate LDAP Query"
+
+msgid "legend_items_available"
+msgstr "利用できるアイテム"
+
+msgid "legend_language_prefs"
+msgstr "Language preferences"
+
+msgid "legend_ldap_securityquestion"
+msgstr "Security dialog"
+
+msgid "legend_link_details"
+msgstr "リンクの詳細"
+
+msgid "legend_localrole_generatefile"
+msgstr "Generate File"
+
+msgid "legend_login_and_password"
+msgstr "Login and password"
+
+msgid "legend_memberships"
+msgstr "Memberships"
+
+msgid "legend_message_details"
+msgstr "Message Details"
+
+msgid "legend_more_information"
+msgstr "More Information"
+
+msgid "legend_newsarticle_details"
+msgstr "News Article Details"
+
+msgid "legend_newsarticle_from_board"
+msgstr "News from Board"
+
+msgid "legend_oshaprops"
+msgstr "OSHA Properties"
+
+msgid "legend_oshcontent_featurelist"
+msgstr "Features including this element"
+
+msgid "legend_oshcontent_keywordlist"
+msgstr "Similar Information by keyword"
+
+msgid "legend_personal_data"
+msgstr "Personal data"
+
+msgid "legend_personal_details"
+msgstr "個人の詳細"
+
+msgid "legend_portlet_details"
+msgstr "Portlet Details"
+
+msgid "legend_portlet_details_advanced"
+msgstr "Advanced Portlet Details"
+
+msgid "legend_process_details"
+msgstr "Details"
+
+msgid "legend_processinstance_details"
+msgstr "Process Instance Details"
+
+msgid "legend_profession"
+msgstr "Profession"
+
+msgid "legend_profile"
+msgstr "Profile"
+
+msgid "legend_projects"
+msgstr "Projects"
+
+msgid "legend_publications"
+msgstr "Publications"
+
+msgid "legend_publishing_details"
+msgstr "公開の詳細"
+
+msgid "legend_rating_summary"
+msgstr "Summary"
+
+msgid "legend_reset_portlet_slots"
+msgstr "Reset Slots"
+
+msgid "legend_rewards"
+msgstr "Rewards"
+
+msgid "legend_search_advancedterms"
+msgstr "Advanced Search Terms"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+msgid "legend_search_global"
+msgstr "Global Search"
+
+msgid "legend_search_standard_terms"
+msgstr "Standard Search Terms"
+
+msgid "legend_search_terms"
+msgstr "検索する文字列"
+
+msgid "legend_state_information"
+msgstr "State Information"
+
+msgid "legend_syndication_details"
+msgstr "RSS配信の詳細"
+
+msgid "legend_syndocument_details"
+msgstr "Syndicated Document Details"
+
+msgid "legend_topic_criteria_advanced"
+msgstr "Advanced Settings"
+
+msgid "legend_uploadsource"
+msgstr "Upload Source"
+
+msgid "legend_uploadusers"
+msgstr "Upload Users from File"
+
+msgid "legend_usage_settings"
+msgstr "Usage settings"
+
+msgid "legend_user_details"
+msgstr "メンバーの詳細"
+
+msgid "legend_userroles"
+msgstr "User roles"
+
+msgid "legend_usersearch_found_users"
+msgstr "Users found"
+
+msgid "legend_usersearch_quicksearch"
+msgstr "Quicksearch for Users"
+
+msgid "legend_usersearch_selected_users"
+msgstr "Users already selected"
+
+msgid "legend_viewlet_details"
+msgstr "Viewlet Details"
+
+msgid "link_address"
+msgstr "リンクのURLは:"
+
+msgid "link_advanced_view"
+msgstr "Advanced View"
+
+msgid "link_back_to_nace"
+msgstr "Back to NACE overview"
+
+msgid "link_back_to_providers"
+msgstr "Back to Providers overview"
+
+msgid "link_back_to_sme"
+msgstr "Back to SME overview"
+
+msgid "link_back_to_topic"
+msgstr "Back to topic overview"
+
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+msgid "link_breadcrumbs_home"
+msgstr "ホーム"
+
+msgid "link_check_worklist"
+msgstr "Check my worklist"
+
+msgid "link_errorlog_displayastext"
+msgstr "Display traceback as text"
+
+msgid "link_feedback_message"
+msgstr "message to the Portal team"
+
+msgid "link_go_to_originalversion"
+msgstr "GO TO THE ORIGINAL VERSION"
+
+msgid "link_go_to_workingcopy"
+msgstr "GO TO THE WORKING COPY"
+
+msgid "link_jump_to_last_page"
+msgstr "Click here to jump to the last page visited"
+
+msgid "link_news_exturl"
+msgstr "Further details"
+
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
+msgid "link_news_readmore"
+msgstr "Read more"
+
+msgid "link_newsboard_previousnews"
+msgstr "Show previous news"
+
+msgid "link_newsboard_recentnews"
+msgstr "Back to recent news"
+
+msgid "link_no_keywords"
+msgstr "No Keywords"
+
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+msgid "link_page_top"
+msgstr "Top of the page"
+
+msgid "link_report_link"
+msgstr "report a broken link to the Portal team"
+
+# # 2 more: ./OSHA/skins/osha/search_members.cpt,
+# ./OSHA/skins/osha/search_members_form.cpt
+msgid "link_search_member_docs"
+msgstr "Find Documents"
+
+msgid "link_search_member_docs_again"
+msgstr "<b>Find Again</b> Documents"
+
+# # 2 more: ./OSHA/skins/osha/search_memberdocs_form.cpt,
+# ./OSHA/skins/osha/search_members_form.cpt
+msgid "link_search_members"
+msgstr "Find Persons"
+
+msgid "link_search_members_again"
+msgstr "<b>Find Again</b> Persons"
+
+msgid "link_simple_view"
+msgstr "Simple View"
+
+msgid "link_wf_show_comments"
+msgstr "Show all Comments"
+
+msgid "link_wf_show_instructions"
+msgstr "Show all Instructions"
+
+msgid "link_whats_new"
+msgstr "For older updates, click here"
+
+msgid "link_xml_view"
+msgstr "XML View"
+
+msgid "listingheader_action"
+msgstr "アクション"
+
+msgid "listingheader_articles"
+msgstr "Articles"
+
+msgid "listingheader_articlesandreplies"
+msgstr "Articles"
+
+msgid "listingheader_author"
+msgstr "作成者"
+
+msgid "listingheader_comment"
+msgstr "コメント"
+
+# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
+msgid "listingheader_date"
+msgstr "日付"
+
+msgid "listingheader_date_and_time"
+msgstr "日時"
+
+# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
+msgid "listingheader_latestchanges"
+msgstr "Latest Changes"
+
+msgid "listingheader_modified"
+msgstr "変更日"
+
+msgid "listingheader_name"
+msgstr "名前"
+
+msgid "listingheader_newsletter_sentby"
+msgstr "Sent By"
+
+msgid "listingheader_newsletter_senton"
+msgstr "Sent On"
+
+msgid "listingheader_order"
+msgstr "順序"
+
+msgid "listingheader_owner"
+msgstr "Owner"
+
+msgid "listingheader_performed_by"
+msgstr "実行者"
+
+msgid "listingheader_priority"
+msgstr "Priority"
+
+msgid "listingheader_replies"
+msgstr "Replies"
+
+msgid "listingheader_status"
+msgstr "状態"
+
+msgid "listingheader_title"
+msgstr "タイトル"
+
+msgid "listingheader_type"
+msgstr "種類"
+
+msgid "lives_in_the_country"
+msgstr "Lives in the Country"
+
+msgid "locked"
+msgstr "locked"
+
+msgid "login_with_new_password_slc_ldap"
+msgstr "You can now login with your new password. Please change it at once under &quot;My Preferences&quot;."
+
+msgid "march"
+msgstr "March"
+
+msgid "may"
+msgstr "May"
+
+msgid "minute"
+msgstr "Minute"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+msgid "month"
+msgstr "Month"
+
+msgid "move down"
+msgstr "Move Down"
+
+msgid "move down 4"
+msgstr "Move Down 4"
+
+msgid "move to bottom"
+msgstr "move to bottom"
+
+msgid "move to top"
+msgstr "move to top"
+
+msgid "move up"
+msgstr "move up"
+
+msgid "move up 4"
+msgstr "move up 4"
+
+msgid "name_of_the_folder"
+msgstr "Name of the new folder"
+
+msgid "needed"
+msgstr "required"
+
+msgid "new_folder_title"
+msgstr "Create new IMAP folder in"
+
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
+msgid "news_by"
+msgstr "by"
+
+msgid "newsletter_copys_state"
+msgstr "Copy's State"
+
+msgid "newsletter_newsletter_archive"
+msgstr "Newsletter Archive"
+
+msgid "newsletter_originals_state"
+msgstr "Original's State"
+
+msgid "next"
+msgstr "next"
+
+msgid "no_alerts"
+msgstr "No alerts have been registered by you."
+
+msgid "no_file_uploaded"
+msgstr "(ファイルはまだアップロードされていません)"
+
+msgid "no_mail"
+msgstr "no mail"
+
+msgid "no_members_found"
+msgstr "あなたの<strong>検索条件</strong>に当てはまるメンバーが見つかりませんでした"
+
+msgid "no_metadata_values"
+msgstr "There is no default value defined for this Metadata Element."
+
+msgid "no_new_news"
+msgstr "何も新しいニュースがありません"
+
+msgid "no_slidetext_uploaded"
+msgstr "(No slidetext has been uploaded yet)"
+
+msgid "no_subject"
+msgstr "[No subject]"
+
+msgid "not allowed"
+msgstr "not allowed"
+
+msgid "notification_email"
+msgstr "Notification E-Mail"
+
+msgid "november"
+msgstr "November"
+
+msgid "number_of_messages"
+msgstr "message(s)"
+
+msgid "object"
+msgstr "Object"
+
+msgid "october"
+msgstr "October"
+
+msgid "of_mail_quota"
+msgstr " space used"
+
+# # 1 more: ./OSHA/skins/osha/search_members_form.cpt
+msgid "option_please_choose"
+msgstr "Please choose"
+
+msgid "option_site_error_email_admin"
+msgstr "Write an email to the Site admin ${adminmail}"
+
+msgid "option_site_error_feedback_report"
+msgstr "If you know you have the correct web address but are encountering an error, please ${feedback}"
+
+msgid "option_site_error_feedback_support"
+msgstr "Send a ${feedback}"
+
+msgid "option_site_error_path"
+msgstr "Parts of the requested url that exist on this server:"
+
+msgid "option_site_error_search"
+msgstr "Search the site:"
+
+msgid "option_site_error_sitemap"
+msgstr "Use the ${link}"
+
+msgid "osha_informationportlet_link"
+msgstr "Your Link to Safety and Health at Work"
+
+msgid "osha_networkportlet_info"
+msgstr "Our network contains websites worldwide providing national and institutional information on OSH"
+
+msgid "osha_networkportlet_link"
+msgstr "Show partner websites"
+
+msgid "oshacontenttypes_amendment_view_abstract"
+msgstr "Abstract:"
+
+msgid "oshacontenttypes_directive_view_FullText"
+msgstr "Read the full text"
+
+msgid "oshacontenttypes_directive_view_FullText_of"
+msgstr "read the full text of ${type}  ${nr}  ${number}"
+
+msgid "oshacontenttypes_directive_view_abstract"
+msgstr "Abstract:"
+
+msgid "oshacontenttypes_directive_view_amendments"
+msgstr "Amendments"
+
+msgid "oshacontenttypes_directive_view_date"
+msgstr "( Date: <span tal:replace=\"python:toPortalTime(modification.getOj_date())\"/> )"
+
+msgid "oshacontenttypes_directive_view_modifications"
+msgstr "Modifications"
+
+msgid "oshacontenttypes_directive_view_proposals"
+msgstr "Proposals"
+
+msgid "oshaconttypes_directive_view_Note"
+msgstr "Note:"
+
+msgid "portal_status_message"
+msgstr "<div metal:use-macro=\"here/global_statusmessage/macros/portal_message\"> Portal status message </div>  <form method=\"post\" name=\"search_form\" tal:attributes=\"action string:${here/getId}/${template/getId}\"> <fieldset> <legend i18n:translate=\"search_criteria\">Suchkriterien</legend> <div class=\"field\"> <label for=\"IMAPName\" i18n:translate=\"search_in_folder\">In Verzeichnis</label> <div class=\"formHelp\" i18n:translate=\"info_searchinfolder\"> In welchem Verzeichnis soll gesucht werden? </div> <select id=\"IMAPName\" name=\"IMAPName\" tal:attributes=\"tabindex tabindex/next\"> <metal:block tal:repeat=\"imf folders\"> <option tal:attributes=\"value imfname; selected python:test(request.get('IMAPName', foldername) == imfname, '1', '')\" tal:content=\"structure python:here.getIndentation(folder=imf)+rdname\" tal:define=\"imfname imf/getImapName; rdname imf/getReadableName; rdname python:test(imfname == sentMailName, here.getSentMailRdName(), rdname); rdname python:test(imfname == draftName, here.getDraftRdName(), rdname); rdname python:test(imfname == trashName, here.getTrashRdName(), rdname);\"/> </metal:block> </select> </div> <div class=\"field\"> <label for=\"search_line\" i18n:translate=\"search_term\">Suchtext</label> <div class=\"formHelp\"/> <input id=\"search_line\" name=\"search_line\" size=\"60\" tabindex=\"\" tal:attributes=\"value request/search_line|nothing; tabindex tabindex/next;\" type=\"text\"/> </div> <div class=\"field\"> <label for=\"search_where\" i18n:translate=\"search_in\">In</label> <div class=\"formHelp\"/> <select id=\"search_where\" name=\"search_where\" tal:attributes=\"tabindex tabindex/next\"> <option i18n:translate=\"the_body_message\" tal:attributes=\"value val; selected python:request.get('search_where', 'BODY') == val\" tal:define=\"val string:BODY\">Nachrichttext</option> <option i18n:translate=\"the_subject_of_message\" tal:attributes=\"value val; selected python:request.get('search_where', 'BODY') == val\" tal:define=\"val string:SUBJECT\">Betreff</option> <option i18n:translate=\"the_from_field\" tal:attributes=\"value val; selected python:request.get('search_where', 'BODY') == val\" tal:define=\"val string:FROM\">Absender</option> <option i18n:translate=\"the_to_field\" tal:attributes=\"value val; selected python:request.get('search_where', 'BODY') == val\" tal:define=\"val string:TO\">Empfnger</option> </select> </div> <div class=\"field\" tal:attributes=\"class python:test(error, 'field error', 'field')\" tal:define=\"error errors/datestring|nothing; todaysdate python:DateTime(); day string:01; month string:01; year python:DateTime().strftime('%Y');\"> <label i18n:translate=\"search_date\">Datum</label> <div class=\"formHelp\"/> <div i18n:translate=\"\" tal:content=\"error\">Validation error output</div> <select name=\"search_when\" tal:attributes=\"tabindex tabindex/next\"> <option i18n:translate=\"since\" tal:attributes=\"value val; selected python:request.get('search_when', 'SINCE') == val\" tal:define=\"val string:SINCE\">Seit</option> <option i18n:translate=\"the\" tal:attributes=\"value val; selected python:request.get('search_when', 'SINCE') == val\" tal:define=\"val string:ON\">Am</option> <option i18n:translate=\"before\" tal:attributes=\"value val; selected python:request.get('search_when', 'SINCE') == val\" tal:define=\"val string:BEFORE\">Vor</option> </select><input maxlength=\"2\" name=\"search_day\" size=\"2\" tabindex=\"\" tal:attributes=\"value request/search_day|day; tabindex tabindex/next;\" type=\"text\"/><select i18n:domain=\"elevateIT\" name=\"search_month\" tal:attributes=\"tabindex tabindex/next\"> <option i18n:translate=\"january\" tal:attributes=\"value val; selected python:test(request.get('search_month', '') == val, '1', test(month == '01', '1', ''))\" tal:define=\"val string:Jan\">January</option> <option i18n:translate=\"february\" tal:attributes=\"value val; selected python:test(request.get('search_month', '') == val, '1', test(month == '02', '1', ''))\" tal:define=\"val string:Feb\">February</option> <option i18n:translate=\"marc"
+
+msgid "portlet_oshmail_email"
+msgstr "email address"
+
+msgid "previous"
+msgstr "previous"
+
+msgid "published"
+msgstr "公開"
+
+msgid "quota_alert"
+msgstr " Warning : mail space soon full."
+
+msgid "quota_alert_message"
+msgstr "Biggest messages can't be moved to trash or other folders."
+
+msgid "read"
+msgstr "read"
+
+msgid "registered_disabled"
+msgstr "クッキー認証が無効になっています"
+
+msgid "replied"
+msgstr "replied"
+
+msgid "replyto"
+msgstr "Reply-To"
+
+# # 4 more: ./OSHA/skins/osha/index_providers.pt,
+# ./OSHA/skins/osha/index_sme.pt, ./OSHA/skins/osha/index_topic.pt,
+# ./OSHA/skins/osha/topicdocument_view.pt
+msgid "res/portal_type"
+msgstr "res/portal_type"
+
+msgid "results_by_author"
+msgstr "作成者: ${author} 最終変更日: ${date}"
+
+msgid "role_equivalence"
+msgstr "Role Equivalences"
+
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+msgid "schedule"
+msgstr "Schedule"
+
+msgid "search"
+msgstr "Search "
+
+msgid "search_criteria"
+msgstr "Search Criteria"
+
+msgid "search_date"
+msgstr "日付"
+
+msgid "search_fulltext"
+msgstr "Search in text"
+
+msgid "search_in"
+msgstr "Search in"
+
+msgid "search_in_folder"
+msgstr "In Folder"
+
+msgid "search_link"
+msgstr "検索"
+
+msgid "search_results_advanced"
+msgstr "お探しのコンテンツが見つからない場合、${advanced_search} にてさらに詳細な検索オプションをお試しください"
+
+msgid "search_term"
+msgstr "検索用語"
+
+msgid "searchresults"
+msgstr "検索結果"
+
+msgid "select_ldappersonalizeaddress_01"
+msgstr "Personalise address"
+
+msgid "sendto_mailtemplate_body"
+msgstr "このメールは ${portal_title} サイトのページを読んだあなたのお友達からの依頼に基づいて、${portal_url} から送信されたものです。メール送信依頼人からのコメントは以下の通りです: ${comment} お友達からの推奨ウェブページ: ${document_title} ${document_description} ${document_url}"
+
+msgid "september"
+msgstr "September"
+
+msgid "show next day"
+msgstr "show next day"
+
+msgid "show next month"
+msgstr "show next month"
+
+msgid "show next week"
+msgstr "show next week"
+
+msgid "show next year"
+msgstr "show next year"
+
+msgid "show previous day"
+msgstr "show previous day"
+
+msgid "show previous month"
+msgstr "show previous month"
+
+msgid "show previous week"
+msgstr "show previous week"
+
+msgid "show previous year"
+msgstr "show previous year"
+
+msgid "since"
+msgstr "Since"
+
+msgid "source"
+msgstr "source"
+
+msgid "speaks_the_language"
+msgstr "Speaks the language"
+
+msgid "subheading_portlet_contents"
+msgstr "Portlet Contents"
+
+msgid "subheading_portlet_representation"
+msgstr "Portlet Box Representation"
+
+msgid "subject"
+msgstr "題目"
+
+msgid "switch to html"
+msgstr "switch to html"
+
+msgid "switch to plain"
+msgstr "switch to plain text"
+
+msgid "tabs_home"
+msgstr "ホーム"
+
+msgid "text_ note"
+msgstr "Note Text:"
+
+msgid "text_abstract"
+msgstr "Abstract:"
+
+msgid "text_check_working_copies"
+msgstr "Check my working copies..."
+
+msgid "text_errlog_notfound"
+msgstr "指定されたエントリは見つかりませんでした。期限切れかもしれません"
+
+msgid "the"
+msgstr "The"
+
+msgid "the_body_message"
+msgstr "Message body"
+
+msgid "the_from_field"
+msgstr "Sender field"
+
+msgid "the_subject_of_message"
+msgstr "題目"
+
+msgid "the_to_field"
+msgstr "Recipient field"
+
+msgid "this"
+msgstr "This"
+
+msgid "time_ever"
+msgstr "いつでも"
+
+msgid "time_expired"
+msgstr "期限切れ"
+
+msgid "time_last_month"
+msgstr "先月"
+
+msgid "time_last_week"
+msgstr "先週"
+
+msgid "time_yesterday"
+msgstr "昨日"
+
+msgid "title"
+msgstr "タイトル"
+
+msgid "to"
+msgstr "To"
+
+msgid "total_messages"
+msgstr "Number of messages"
+
+# # 1 more: ./OSHA/skins/osha/search_form.pt
+msgid "translation_search_url"
+msgstr "Translation search form"
+
+msgid "trash"
+msgstr "Trash"
+
+msgid "txt_try_the"
+msgstr "Try the:"
+
+msgid "type your query"
+msgstr "type your query"
+
+msgid "unread"
+msgstr "Unread"
+
+msgid "url"
+msgstr "URL"
+
+msgid "versioning_disabled"
+msgstr "No Working copy available, versioning is not enabled."
+
+msgid "worklist_editor"
+msgstr "Editor:"
+
+msgid "worklist_instructions"
+msgstr "Instructions:"
+
+msgid "worklist_no_items"
+msgstr "There are currently no workitems in your worklist."
+
+msgid "worklist_process"
+msgstr "Process:"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+msgid "year"
+msgstr "Year"
+
+#. Default: "Upcoming Events"
+#: CMFPlone/skins/plone_deprecated/portlet_events.pt:16
+msgid "box_events"
+msgstr "これからのイベント"
+
+#. <label for="path" i18n:translate="search_only_this_folder" >
+#. Search only in this folder</label>
+#: osha/skins/osha2/portlet_oshsearch None
+msgid "search_only_this_folder"
+msgstr "Search only this folder"
+
+#. <p i18n:translate="info_extended_searchform">To perform a more
+#. detailed search try the <a href="advanced_search_form">
+#: osha/skins/osha2/search_form
+msgid "info_extended_searchform"
+msgstr "To perform a more detailled search try the ${url}"
+
+msgid "portlet_campaign_ew2007_title"
+msgstr "European campaign 2007"
+
+msgid "portlet_campaign_ew2007_text"
+msgstr "Lighten the load!"
+
+# ERO
+msgid "European Risk Observatory"
+msgstr "European Risk Observatory"
+
+# Anticipating Change
+msgid "portlet_riskob_text"
+msgstr "Anticipating change!"
+
+# Most visited
+msgid "Most visited"
+msgstr "Most visited"
+
+msgid "portlet_oshsearch_advanced"
+msgstr "Advanced Search"
+
+msgid "portlet_oshsearch_atoz"
+msgstr "A-Z Index"
+
+msgid "Free Newsletter"
+msgstr "Free Newsletter"
+
+msgid "portlet_oshmail_text"
+msgstr "Monthly review of strategic news<br/> - Subscribe -"
+
+msgid "Alert Service"
+msgstr "Alert Service"
+
+# updated on topics ... subscribe
+msgid "portlet_alertservice_text"
+msgstr "Updates on topics of your choice<br/>- Subscribe -"
+
+msgid "Campaigns"
+msgstr "Campaigns"
+
+msgid "portlet_campaign_hwi_title"
+msgstr "Healthy Workplace Initiative"
+
+msgid "portlet_campaign_hwi_text"
+msgstr "Good for you - Good for business"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Broken Link"
+msgstr "Broken Link"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Site&nbsp;Update"
+msgstr "Site Update"
+
+msgid "Site&nbsp;Map"
+msgstr "Site Map"
+
+msgid "Translation&nbsp;Help"
+msgstr "Translation Help"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "box_firsttime"
+msgstr "First time here?"
+
+#. Duplicate msgstr
+msgid "education"
+msgstr "Education"
+
+#. Duplicate msgstr
+msgid "Abschicken"
+msgstr "送る"
+
+#. Duplicate msgstr
+msgid "label_see_also"
+msgstr "See also"
+
+#. Duplicate msgstr
+msgid "osha_label_pressbox_campaigns"
+msgstr "Campaigns"
+
+#. Duplicate msgstr
+msgid "label_login_for_more_services"
+msgstr "ログイン"
+
+#. Duplicate msgstr
+msgid "gender"
+msgstr "Gender"
+
+#. Duplicate msgstr
+msgid "heading_publications"
+msgstr "Publications"
+
+#. Duplicate msgstr
+msgid "osha_label_pressbox_publications"
+msgstr "Publications"

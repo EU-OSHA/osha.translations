@@ -1,0 +1,589 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 18:48+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: mt\n"
+"Language-Name: Malthese\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-subsites\n"
+
+
+msgid "ew2003-navtitle_navigation"
+msgstr "Navigation"
+
+msgid "ew2003-navtitle_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2003-navdescription_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2003-navtitle_getinvolved"
+msgstr "Getting involved"
+
+msgid "ew2003-navdescription_getinvolved"
+msgstr "Getting involved"
+
+msgid "ew2003-navtitle_campaignpack"
+msgstr "Pakkett dwar il-kampanja"
+
+msgid "ew2003-navdescription_campaignpack"
+msgstr "Pakkett dwar il-kampanja"
+
+msgid "ew2003-navtitle_activities"
+msgstr "Attivitajiet"
+
+msgid "ew2003-navdescription_activities"
+msgstr "Attivitajiet"
+
+msgid "ew2003-navtitle_national_contacts"
+msgstr "Kuntatti nazzjonali"
+
+msgid "ew2003-navdescription_national_contacts"
+msgstr "Kuntatti nazzjonali"
+
+msgid "ew2003-navtitle_goodpractice"
+msgstr "Premjijiet għal prattici tajba fix-xogħol"
+
+msgid "ew2003-navdescription_goodpractice"
+msgstr "Premjijiet għal prattici tajba fix-xogħol"
+
+msgid "ew2003-navtitle_22_04_2003"
+msgstr "22_04_2003"
+
+msgid "ew2003-navtitle_23_04_2003"
+msgstr "23_04_2003"
+
+msgid "ew2003-navtitle_24_04_2003"
+msgstr "24_04_2003"
+
+msgid "ew2003-navtitle_27_03_2003"
+msgstr "27_03_2003"
+
+msgid "ew2003-navtitle_closingevent"
+msgstr "L-Avveniment ta’ l-egħluq"
+
+msgid "ew2003-navdescription_closingevent"
+msgstr "L-Avveniment ta’ l-egħluq"
+
+msgid "ew2003-navtitle_press_releases"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "ew2003-navdescription_press_releases"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "ew2003-navtitle_05_03_2002"
+msgstr "05_03_2002"
+
+msgid "ew2003-navtitle_05_05_2003"
+msgstr "05_05_2003"
+
+msgid "ew2003-navtitle_11_06_2003"
+msgstr "11_06_2003"
+
+msgid "ew2003-navtitle_12_05_2003"
+msgstr "12_05_2003"
+
+msgid "ew2003-navtitle_13_05_2003"
+msgstr "13_05_2003"
+
+msgid "ew2003-navtitle_14_05_2003"
+msgstr "14_05_2003"
+
+msgid "ew2003-navtitle_15_05_2003"
+msgstr "15_05_2003"
+
+msgid "ew2003-navtitle_17_12_2003"
+msgstr "17_12_2003"
+
+msgid "ew2003-navtitle_18_11_2003"
+msgstr "18_11_2003"
+
+msgid "ew2003-navtitle_21_02_2001"
+msgstr "21_02_2001"
+
+msgid "ew2003-navtitle_22_01_2004"
+msgstr "22_01_2004"
+
+msgid "ew2003-navtitle_22_10_2003"
+msgstr "22_10_2003"
+
+msgid "ew2003-navtitle_24_11_2003"
+msgstr "24_11_2003"
+
+msgid "ew2003-navtitle_27_04_2001"
+msgstr "27_04_2001"
+
+msgid "ew2003-navtitle_27_11_2003"
+msgstr "27_11_2003"
+
+msgid "ew2003-navtitle_28_11_2003"
+msgstr "28_11_2003"
+
+msgid "ew2003-navtitle_31_10_2003"
+msgstr "31_10_2003"
+
+msgid "ew2003-navtitle_15_06_2003"
+msgstr "15_06_2003"
+
+msgid "ew2003-navtitle_archive"
+msgstr "archive"
+
+msgid "ew2003-navtitle_nationalcontacts"
+msgstr "nationalcontacts"
+
+msgid "ew2003-navtitle_quoteslist"
+msgstr "quoteslist"
+
+msgid "ew2003-navtitle_otherresources"
+msgstr "otherresources"
+
+msgid "ew2003-navtitle_08_04_2003"
+msgstr "08_04_2003"
+
+msgid "ew2003-navtitle_publications"
+msgstr "publications"
+
+msgid "ew2003-navtitle_factsheets"
+msgstr "factsheets"
+
+msgid "ew2003-navtitle_forum"
+msgstr "forum"
+
+msgid "ew2003-navtitle_magazine"
+msgstr "magazine"
+
+msgid "ew2003-navtitle_newsletter"
+msgstr "newsletter"
+
+msgid "ew2003-navtitle_reports"
+msgstr "reports"
+
+msgid "ew2004-navtitle_navigation"
+msgstr "Navigation"
+
+msgid "ew2004-navtitle_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2004-navdescription_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2004-navtitle_why_construction"
+msgstr "Għaliex il-kostruzzjoni"
+
+msgid "ew2004-navdescription_why_construction"
+msgstr "Għaliex il-kostruzzjoni"
+
+msgid "ew2004-navtitle_sign_the_charter"
+msgstr "Iffirma l-karta"
+
+msgid "ew2004-navdescription_sign_the_charter"
+msgstr "Iffirma l-karta"
+
+msgid "ew2004-navtitle_campmaterials"
+msgstr "Materjali tal-kampanja"
+
+msgid "ew2004-navdescription_campmaterials"
+msgstr "Materjali tal-kampanja"
+
+msgid "ew2004-navtitle_logoslogan"
+msgstr "Il-Logo u s-slogan"
+
+msgid "ew2004-navdescription_logoslogan"
+msgstr "Il-Logo u s-slogan"
+
+msgid "ew2004-navtitle_activities"
+msgstr "Attivitajiet Nazzjonali"
+
+msgid "ew2004-navdescription_activities"
+msgstr "Attivitajiet Nazzjonali"
+
+msgid "ew2004-navtitle_nationalcontacts"
+msgstr "Kuntatti nazzjonali"
+
+msgid "ew2004-navdescription_nationalcontacts"
+msgstr "Kuntatti nazzjonali"
+
+msgid "ew2004-navtitle_awards2004"
+msgstr "Premjijiet għal prattici tajba fix-xogħol"
+
+msgid "ew2004-navdescription_awards2004"
+msgstr "Premjijiet għal prattici tajba fix-xogħol"
+
+msgid "ew2004-navtitle_scheme"
+msgstr "scheme"
+
+msgid "ew2004-navtitle_closingevent"
+msgstr "Summit Ewropew dwar is-Sigurtà fil-Kostruzzjoni"
+
+msgid "ew2004-navdescription_closingevent"
+msgstr "Summit Ewropew dwar is-Sigurtà fil-Kostruzzjoni"
+
+msgid "ew2004-navtitle_broadcast"
+msgstr "broadcast"
+
+msgid "ew2004-navtitle_webinterface"
+msgstr "webinterface"
+
+msgid "ew2004-navtitle_programme"
+msgstr "programme"
+
+msgid "ew2004-navtitle_press_room"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "ew2004-navdescription_press_room"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "ew2004-navtitle_pictures"
+msgstr "Pictures"
+
+msgid "ew2004-navdescription_pictures"
+msgstr "Pictures"
+
+msgid "ew2005-navtitle_navigation"
+msgstr "Kun infurmat"
+
+msgid "ew2005-navtitle_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2005-navtitle_whynoise"
+msgstr "Għaliex l-istorbju"
+
+msgid "ew2005-navtitle_campaign_materials"
+msgstr "Materjal ta’ kampanji"
+
+msgid "ew2005-navtitle_european noise summit"
+msgstr "Summit  Ewropew dwar l-Istorjbu"
+
+msgid "ew2005-navtitle_press_room"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "ew2005-navtitle_photographs"
+msgstr "Photographs"
+
+msgid "ew2005-navdescription_photographs"
+msgstr "Photographs"
+
+msgid "ew2006-navtitle_navigation"
+msgstr "Sir af"
+
+msgid "ew2006-navtitle_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2006-navtitle_why"
+msgstr "Għaliex iż-żgħażagħ"
+
+msgid "ew2006-navtitle_campaign_materials"
+msgstr "Materjal tal-kampanja"
+
+msgid "ew2006-navtitle_european noise summit"
+msgstr "Summit Ewropew dwar l-Istorjbu"
+
+msgid "ew2006-navtitle_sign"
+msgstr "Iffirma l-karta"
+
+msgid "ew2006-navtitle_nationalcontactsandactivities"
+msgstr "Kuntatti u Attivitajiet Nazzjonali"
+
+msgid "ew2006-navtitle_goodpracticeawards"
+msgstr "Premjijiet ta’ Prattika Tajba"
+
+msgid "ew2006-navtitle_accident_zone"
+msgstr "Żona ta’ inċidenti"
+
+msgid "ew2006-navtitle_ideas_for_action"
+msgstr "Ideat għal azzjoni"
+
+msgid "ew2006-navtitle_logoandslogan"
+msgstr "Logo u Slogan"
+
+msgid "ew2006-navtitle_agencypub"
+msgstr "Agency publications"
+
+msgid "ew2006-navtitle_factsheets"
+msgstr "Factsheets"
+
+msgid "ew2006-navtitle_reports"
+msgstr "Reports"
+
+msgid "ew2006-navtitle_magazins"
+msgstr "Magazins"
+
+msgid "ew2006-navtitle_agencywebfeatures"
+msgstr "Agency Webfeatures"
+
+msgid "ew2006-navtitle_webfeatures"
+msgstr "Webfeatures"
+
+msgid "ew2006-navtitle_photo competition"
+msgstr "Photo Competition"
+
+msgid "ew2006-navtitle_video competition"
+msgstr "Kompetizzjoni Vidjo"
+
+msgid "ew2006-navtitle_case_studies"
+msgstr "Case Studies"
+
+msgid "ew2006-navtitle_press_room"
+msgstr "Kamra ta’ l-istampa"
+
+msgid "ew2006-navtitle_events"
+msgstr "Avvenimenti"
+
+msgid "ew2006-navtitle_ecards"
+msgstr "E-cards"
+
+msgid "ew2007-navtitle_navigation"
+msgstr "Sir af"
+
+msgid "ew2007-navtitle_about"
+msgstr "Dwar il-kampanja"
+
+msgid "ew2007-navtitle_why"
+msgstr "Għalfejn l-MSDs?"
+
+msgid "ew2007-navtitle_campaign_materials"
+msgstr "Materjal tal-kampanja"
+
+msgid "ew2007-navtitle_european noise summit"
+msgstr "Summit Ewropew dwar l-Istorjbu"
+
+msgid "ew2007-navtitle_sign"
+msgstr "Iffirma l-karta"
+
+msgid "ew2007-navtitle_nationalcontactsandactivities"
+msgstr "Kuntatti u Attivitajiet Nazzjonali"
+
+msgid "ew2007-navtitle_goodpracticeawards"
+msgstr "Premjijiet ta’ Prattika Tajba"
+
+msgid "ew2007-navtitle_logoandslogan"
+msgstr "Logo u Slogan"
+
+msgid "ew2007-navtitle_agencypub"
+msgstr "Agency publications"
+
+msgid "ew2007-navtitle_factsheets"
+msgstr "Factsheets"
+
+msgid "ew2007-navtitle_reports"
+msgstr "Reports"
+
+msgid "ew2007-navtitle_magazins"
+msgstr "Magazins"
+
+msgid "ew2007-navtitle_agencywebfeatures"
+msgstr "Agency Webfeatures"
+
+msgid "ew2007-navtitle_webfeatures"
+msgstr "Webfeatures"
+
+msgid "ew2007-navtitle_photo competition"
+msgstr "Photo Competition"
+
+msgid "ew2007-navtitle_video competition"
+msgstr "Kompetizzjoni Vidjo"
+
+msgid "ew2007-navtitle_accident_zone"
+msgstr "Żona ta’ inċidenti"
+
+msgid "ew2007-navtitle_ideas_for_action"
+msgstr "Ideat għal azzjoni"
+
+msgid "ew2007-navtitle_case_studies"
+msgstr "Case Studies"
+
+msgid "ew2007-navtitle_press_room"
+msgstr "Kamra ta’ l-istampa"
+
+msgid "ew2007-navtitle_events"
+msgstr "Avvenimenti"
+
+msgid "ew2007-navtitle_ecards"
+msgstr "E-cards"
+
+msgid "ew2007-navtitle_navigation_link.2007-06-01.3873178933"
+msgstr "Napo"
+
+msgid "sme-navtitle_navigation"
+msgstr "Navigation"
+
+msgid "sme-navtitle_sme_good_practices"
+msgstr "Prattiki Tajba għal SME"
+
+msgid "sme-navdescription_sme_good_practices"
+msgstr "Prattiki Tajba għal SME"
+
+msgid "sme-navtitle_gp_sectors"
+msgstr "Setturi"
+
+msgid "sme-navdescription_gp_sectors"
+msgstr "Setturi"
+
+msgid "sme-navtitle_gp_fisheries"
+msgstr "Settur tal-pixkeriji"
+
+msgid "sme-navdescription_gp_fisheries"
+msgstr "Settur tal-pixkeriji"
+
+msgid "sme-navtitle_gp_construction"
+msgstr "Construction"
+
+msgid "sme-navdescription_gp_construction"
+msgstr "Construction"
+
+msgid "sme-navtitle_gp_topics"
+msgstr "Temi"
+
+msgid "sme-navdescription_gp_topics"
+msgstr "Temi"
+
+msgid "sme-navtitle_gp_dangerous_substances"
+msgstr "Sustanzi Perikolużi"
+
+msgid "sme-navdescription_gp_dangerous_substances"
+msgstr "Sustanzi Perikolużi"
+
+msgid "sme-navtitle_gp_stress"
+msgstr "Stress fuq ix-xogħol"
+
+msgid "sme-navdescription_gp_stress"
+msgstr "Stress fuq ix-xogħol"
+
+msgid "sme-navtitle_gp_priority_groups"
+msgstr "Gruppi ta’ Priorità"
+
+msgid "sme-navdescription_gp_priority_groups"
+msgstr "Gruppi ta’ Priorità"
+
+msgid "sme-navtitle_gp_disabled_people"
+msgstr "Nies b’ diżabilità"
+
+msgid "sme-navdescription_gp_disabled_people"
+msgstr "Nies b’ diżabilità"
+
+msgid "sme-navtitle_agency_publications"
+msgstr "Pubblikazzjonijiet ta’ l-Aġenzija"
+
+msgid "sme-navdescription_agency_publications"
+msgstr "Pubblikazzjonijiet ta’ l-Aġenzija"
+
+msgid "sme-navtitle_pub_factsheets"
+msgstr "Folji tal-fatti"
+
+msgid "sme-navdescription_pub_factsheets"
+msgstr "Folji tal-fatti"
+
+msgid "sme-navtitle_pub_reports"
+msgstr "Rapporti"
+
+msgid "sme-navdescription_pub_reports"
+msgstr "Rapporti"
+
+msgid "sme-navtitle_about"
+msgstr "Dwar dan is-sit"
+
+msgid "sme-navdescription_about"
+msgstr "Dwar dan is-sit"
+
+msgid "sme-navtitle_pressroom"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "sme-navdescription_pressroom"
+msgstr "Il-Kamra ta’ l-istampa"
+
+msgid "sme-navtitle_sme_funding_schemes"
+msgstr "Skemi ta’ Fondi ta’ SME"
+
+msgid "sme-navdescription_sme_funding_schemes"
+msgstr "Skemi ta’ Fondi ta’ SME"
+
+msgid "sme-navtitle_2001_2002"
+msgstr "2001-2002"
+
+msgid "sme-navdescription_2001_2002"
+msgstr "2001-2002"
+
+msgid "sme-navtitle_2002_2003"
+msgstr "2002-2003"
+
+msgid "sme-navdescription_2002_2003"
+msgstr "2002-2003"
+
+msgid "sme-navtitle_2003_2004"
+msgstr "2003-2004"
+
+msgid "sme-navdescription_2003_2004"
+msgstr "2003-2004"
+
+msgid "sme-navtitle_sme_fs_evaluations"
+msgstr "SME Funding Scheme Evaluations"
+
+msgid "sme-navdescription_sme_fs_evaluations"
+msgstr "SME Funding Scheme Evaluations"
+
+msgid "sme-navtitle_sme_assistance_schemes"
+msgstr "Skemi ta’ Assistenza ta’ SME"
+
+msgid "sme-navdescription_sme_assistance_schemes"
+msgstr "Skemi ta’ Assistenza ta’ SME"
+
+msgid "sme-navtitle_schemes_by_type"
+msgstr "Skemi skond it-tip"
+
+msgid "sme-navdescription_schemes_by_type"
+msgstr "Skemi skond it-tip"
+
+msgid "hwi-navtitle_navigation"
+msgstr "Affarijiet essenzjali għall-valutazzjoni tar-riskji"
+
+msgid "hwi-navtitle_risk_assessment_essentials"
+msgstr "Listi ta' kontroll għall-valutazzjoni tar-riskji tal-HWI"
+
+msgid "hwi-navtitle_checklists"
+msgstr "Listi ta' kontroll minn sorsi oħra"
+
+msgid "hwi-navtitle_brochure"
+msgstr "Fuljett informattiv fuq l-affarijiet essenzjali ta' l-OHS"
+
+msgid "newoshera-navtitle_navigation"
+msgstr "Menu"
+
+msgid "newoshera-navtitle_about"
+msgstr "About NEW OSH ERA"
+
+msgid "newoshera-navtitle_background"
+msgstr "Background"
+
+msgid "newoshera-navtitle_objectives"
+msgstr "Objectives"
+
+msgid "newoshera-navtitle_work_content"
+msgstr "Work content"
+
+msgid "newoshera-navtitle_orga"
+msgstr "Organisation Structure"
+
+msgid "newoshera-navtitle_participants"
+msgstr "Participants"
+
+msgid "newoshera-navtitle_progress"
+msgstr "Project Progress"
+
+msgid "newoshera-navtitle_contact"
+msgstr "Contact"
+
+msgid "newoshera-navtitle_links"
+msgstr "Links"
+
+msgid "newoshera-navtitle_extranet"
+msgstr "Extranet (for Members only)"
+

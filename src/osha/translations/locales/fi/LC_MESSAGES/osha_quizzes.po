@@ -1,0 +1,675 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: fi\n"
+"Language-Name: Suomesksi\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Latautuu"
+
+msgid "score_label"
+msgstr "Pisteesi:"
+
+msgid "restart_label"
+msgstr "Käynnistä uudelleen"
+
+msgid "true"
+msgstr "Oikein"
+
+msgid "false"
+msgstr "Väärin"
+
+msgid "yes"
+msgstr "Kyllä"
+
+msgid "no"
+msgstr "Ei"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Siirrä merkki oikeaan kohtaan)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Melukysymyksiä"
+
+#: Title:
+msgid "nq_subline"
+msgstr "Mitä tiedät melusta? Kokeile pikakyselyä"
+
+#: 1. Kysymys
+msgid "nq_question_1"
+msgstr "On parempi käyttää kuulonsuojaimia kuin pyrkiä rajoittamaan melua?"
+
+#: 2. Kysymys
+msgid "nq_question_2"
+msgstr "Koko työpäivä 100 desibelin melussa ei haittaa"
+
+#: 3. Kysymys
+msgid "nq_question_3"
+msgstr "Kuulon heikkeneminen koskee vain vanhempia ihmisiä"
+
+#: 4. Kysymys
+msgid "nq_question_4"
+msgstr "Kuka tahansa voi arvioida melutason vain kuuntelemalla"
+
+#: 5. Kysymys
+msgid "nq_question_5"
+msgstr "Korvien soiminen on varoitusmerkki"
+
+#: 6. Kysymys
+msgid "nq_question_6"
+msgstr "Taajuus tarkoittaa melun voimakkuutta (äänekkyyttä)"
+
+#: 7. Kysymys
+msgid "nq_question_7"
+msgstr "Kuulon heikkeneminen tapahtuu aina nopeasti"
+
+#: 8. Kysymys
+msgid "nq_question_8"
+msgstr "Kuulosuojaimia pitäisi käyttää viimeisenä keinona"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Varoitus! Voit menettää kuulosi, jos et suojaa sitä."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "\"Toimi nyt!\" On olemassa asioita, jotka Sinun pitäisi tuntea kuulon suojaamisesta."
+
+#: Käytännön ratkaisut
+msgid "nq_good_result"
+msgstr "Olet pelkkänä korvana! Sinun on täytynyt kuulla siitä, miten kuuloa voi suojata."
+
+
+
+#: ********** -{}-Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Kysymyksiä vastuusta"
+
+#: Title:
+msgid "rq_subline"
+msgstr "Onko seuraavista seikoista huolehtiminen Sinun vastuullasi?"
+
+#: 1. Kysymys
+msgid "rq_question_1"
+msgstr "Sinun on huolehdittava omasta terveydestäsi ja turvallisuudestasi."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Sinun omalla vastuullasi on huolehtia omasta terveydestäsi ja turvallisuudestasi osallistumalla tarjottuun opastukseen ja koulutukseen. Muut ihmiset eivät ole vastuussa, jos et itse välitä ohjeista tai jos itse menettelet ajattelemattomasti tai välinpitämättömästi."
+
+#: 2. Kysymys
+msgid "rq_question_2"
+msgstr "Sinun on huolehdittava mahdollisimman paljon muista ihmisistä ympärilläsi noudattamalla annettuja ohjeita ja koulutusta."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Oma käytöksesi voi vaikuttaa muiden ihmisten terveyteen ja turvallisuuteen. Näin tapahtuu suoraan oman toimintasi perusteella tai epäsuorasti sen perusteella, mihin et pysty."
+
+#: 3. Kysymys
+msgid "rq_question_3"
+msgstr "Uusien välineiden käytön oppiminen tapahtuu parhaiten omakohtaisen yrittämisen ja erehtymisen kautta."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Jos Sinua on kehotettu käyttämään suojeluvälineitä, Sinulla pitäisi myös näyttää, miten niitä käytetään turvallisella tavalla. JOS OLET EPÄVARMA, KYSY."
+
+#: 4. Kysymys
+msgid "rq_question_4"
+msgstr "Sinun on toimittava yhteistyössä esimiesten ja työnjohdon kanssa."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Työnantajasi vastuulla on tarjota Sinulle turvallinen työympäristö, mutta on omalla vastuullasi käyttää suojalaitteita turvallisella tavalla ja noudattaa ohjeita."
+
+#: 5. Kysymys
+msgid "rq_question_5"
+msgstr "Jos havaitset vaaratekijän, vältä sitä ja unohda loput. Joku muu voi ilmoittaa siitä ja hoitaa asian kuntoon."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Käytössä pitäisi olla menettelyjä, joita voit noudattaa vaaratekijöistä ilmoittamisessa. Niitä voivat olla epävirallinen ilmoittaminen esimiehelle tai muodollisemmat ilmoitusjärjestelyt. ÄLÄ KOSKAAN PELKÄÄ ASIOIDEN PUHEEKSI OTTAMISTA - vuoto, liukas lattia, rikkoutunut pistoke tai mikä tahansa, mitä pidät mainitsemisen arvoisena."
+
+#: 6. Kysymys
+msgid "rq_question_6"
+msgstr "Sinun on tunnettava koko työterveys- ja työturvallisuuslainsäädäntö ennen kuin voit aloittaa uuden työsi."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Tätä ei vaadita, mutta on hyvä tietää ainakin hieman. Tutustu tämän sivuston tarjontaan."
+
+#: 7. Kysymys
+msgid "rq_question_7"
+msgstr "Sinun on noudatettava kaikkia työpaikalle asennettuja ohjeita, opasteita ja sääntöjä."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Turvaopasteet ovat Sinun suojelemistasi varten ja ne ovat lakisääteisiä. Sinä olet velvollinen ottamaan ne huomioon ja noudattamaan niitä."
+
+#: 8. Kysymys
+msgid "rq_question_8"
+msgstr "Sinun on itse hankittava ja maksettava suojavaatteet ja suojeluvälineet , joita tarvitset voidaksesi työskennellä turvallisesti."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Työnantajasi on annettava maksutta käyttöösi suojeluvälineet, joita tarvitset turvallisessa työssä (kypärä, kasvojensuojain, suojakäsineet, suojajalkineet jne.). Henkilökohtaisia suojavälineitä on käytettävä asianmukaisella tavalla ja käytön jälkeen ne on palautettava omille paikoilleen."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Suuri riski - olet onnettomuusvaarassa."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Keskimääräinen riski - hyvä aloitus, mutta Sinulla on vielä opittavaa."
+
+#: Käytännön ratkaisut
+msgid "rq_good_result"
+msgstr "Pieni riski - olet aloittamassa turvallisesti - hyvin tehty!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Kysymyksiä työnantajasta"
+
+#: Title:
+msgid "eq_subline"
+msgstr "Pomosi täytyy..."
+
+#: 1. Kysymys
+msgid "eq_question_1"
+msgstr "Tarjottava käyttöön ja ylläpidettävä sellaista työpaikkaa ja sellaisia työjärjestelyjä, jotka ovat turvallisia ja jotka eivät aiheuta vaaraa kenenkään terveydelle."
+
+#: 2. Kysymys
+msgid "eq_question_2"
+msgstr "Varmista, että tavaroiden ja aineiden käyttö, käsittely, varastointi ja kuljettaminen tapahtuvat niin turvallisesti, että ne eivät vaaranna kenenkään terveyttä."
+
+#: 3. Kysymys
+msgid "eq_question_3"
+msgstr "Tarjoa työturvallisuus- ja työterveysasioita koskevaa tietoa, ohjausta, koulutusta ja valvontaa kaikille henkilöstöön kuuluville."
+
+#: 4. Kysymys
+msgid "eq_question_4"
+msgstr "Pidä työpaikka turvallisessa ja terveellisessä kunnossa."
+
+#: 5. Kysymys
+msgid "eq_question_5"
+msgstr "Suorita riskinarviointeja (tunnista ja tarkista mahdolliset riskitekijät) ja merkitse riskitekijät muistiin."
+
+#: 6. Kysymys
+msgid "eq_question_6"
+msgstr "Kehitä käyttöön terveys- ja turvallisuusjärjestelmät ja -menettelyt."
+
+#: 7. Kysymys
+msgid "eq_question_7"
+msgstr "Kysy työntekijöiden mielipidettä ja toimi yhteistyössä heidän sekä kaikkien heidän kanssaan toimivien alihankkijoiden kanssa."
+
+#: 8. Kysymys
+msgid "eq_question_8"
+msgstr "Noudata työterveys- ja työturvallisuuslain kaikkia määräyksiä."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Suuri riski - Sinun on tarpeen saada enemmän tietoa siitä, mitä pomosi on tehtävä voidakseen huolehtia Sinun turvallisuudestasi ja terveydestäsi työpaikalla"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Keskimääräinen riski - hyvä aloitus, mutta Sinulla on vielä opittavaa."
+
+#: Käytännön ratkaisut
+msgid "eq_good_result"
+msgstr "Pieni riski - tiedät sangen hyvin, mitä pomosi täytyy tehdä"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Numeropeli"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Tuki- ja liikuntaelimistön sairaudet (TULE-sairaudet) ovat 27 EU-maan yleisin työperäinen terveysongelma. Miten laaja tämä ongelma on? Mitä mieltä ihmiset ovat työoloistaan? Kokeile tietovisaamme saadaksesi selville nämä asiat:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Kuinka suuri osuus työntekijöistä ilmoittaa kärsivänsä työperäisistä selkäkivuista?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Kuinka suurella määrällä ihmisistä on lihaskipua työnsä takia?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Mikä suuntaus tapahtui vuosien 2000 ja 2005 välillä niiden eurooppalaisten työntekijöiden määrässä, jotka ilmoittivat joutuvansa tekemään toistuvia liikkeitä vähintään neljänneksen työajastaan?"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. Se pysyi täsmälleen samana"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. Se väheni 5 %"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. Se pysyi melkein samana"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. Se kasvoi 5 %"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Mikä on yleisin työhön liittyvä vaiva?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Päänsärky"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Selkäsärky"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Väsymys"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stressi"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Kuinka monet sanovat joutuvansa tekemään toistuvia kädenliikkeitä vähintään neljänneksen työajastaan?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Millä aloilla Euroopassa naiset joutuvat todennäköisimmin nostamaan tai siirtämään ihmisiä työssään?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. opetus ja terveydenhuolto"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. liikkeet ja tavaratalot"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. rahoituspalvelut"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. julkishallinto"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Kuinka suuri osuus työntekijöistä käyttää työssään tietokonetta koko ajan tai suurimman osan ajasta?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Mihin ikäryhmään kuuluvat työntekijät ilmoittavat joutuvansa tekemään eniten ruumiillista työtä työpaikassaan?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Alle 25-vuotiaat"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. 25―44-vuotiaat"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45―54-vuotiaat"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Yli 55-vuotiaat"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Tämä tietovisa perustuu Euroopan unionin tilastotoimiston Eurostatin tietoihin sekä Euroopan elin- ja työolojen kehittämissäätiön toteuttamasta neljännestä Euroopan työolokyselystä (EWCS 2005) saatuihin tietoihin."
+
+
+
+#: Järjestäkää tietovisa turvallisuudesta
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Turvaopasteita koskevia kysymyksiä"
+
+#: Title:
+msgid "ssq_subline"
+msgstr "Tunnetko työpaikkasi turvaopasteet? Tarkista tietämyksesi turvaopasteita koskevan tietokilpailumme avulla!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Aurinkolaseja myytävänä"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Ilmainen näöntarkastus"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Käytä suojalaseja"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Optikko"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Ei"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Ensiapu"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Älä astu nurmikolle"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Sairaala"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Varo merirosvoja"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Hautausmaa"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Vaara"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Myrkyllisiä aineita"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Kännykkämyynti"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Kännykkäkielto"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Hiljainen vyöhyke"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Puhelinhuolto"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Tiskijukan työpaikka"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Käytä kuulosuojaimia"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Melualue"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Suojaa korvasi kylmyydeltä"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Aarre haudattuna"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Myrsky lähestyy"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Sähköä"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Vaara - käärmeitä lähistöllä"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Jumppasali"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Kuntoilukeskus"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Varauloskäynti"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Sisäänkäynti"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Tupakointialue"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Ei avotulta"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Tupakkaa myytävänä"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Tupakointi kielletty"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Suuri riski - olet onnettomuusvaarassa."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Keskimääräinen riski - hyvä aloitus, mutta Sinulla on vielä opittavaa."
+
+#: Käytännön ratkaisut
+msgid "ssq_good_result"
+msgstr "Pieni riski - olet aloittamassa turvallisesti - hyvin tehty!"
+
+
+
+#: ********** -{}-MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Tuki- ja liikuntaelimistön sairauksia koskevia kysymyksiä"
+
+#: Title:
+msgid "mq_subline"
+msgstr "Mitä tiedät tuki- ja liikuntaelimistön sairauksista (TULES) ja selkäkivuista? Kokeile pikakyselyä"
+
+#: 1. Kysymys
+msgid "mq_question_1"
+msgstr "EU:n jäsenvaltioissa on voimassa erityislainsäädäntöä, joka koskee raskaiden taakkojen nostamista"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "On olemassa käsin tapahtuvaa taakkojen käsittelyä koskeva EU-direktiivi, jonka EU:n jäsenvaltiot ovat ottaneet osaksi omaa lainsäädäntöään."
+
+#: 2. Kysymys
+msgid "mq_question_2"
+msgstr "Raskaana olevat naiset voivat nostaa vaaratta raskaita taakkoja"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Raskaana olevat tai vastikään synnyttäneiden naisten ei pitäisi nostaa raskaita taakkoja , sillä mitä pidemmälle raskaus on edennyt, sitä suurempi on terveysriski."
+
+#: 3. Kysymys
+msgid "mq_question_3"
+msgstr "Tärinälle altistuminen työssä voi lisätä 'toistuvasta rasituksesta johtuvien vammojen' riskiä"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Jos saat kipuja toistuvia liikkeitä sisältävästä työstä tai nostelemisesta, särkylääkkeet ovat paras konsti."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Jos jatkat kyseenalaisissa oloissa työskentelyä särkylääkkeiden avulla, pahennat vain ongelmaa, joka voi muuttua pysyväksi vammaksi"
+
+#: 5. Kysymys
+msgid "mq_question_5"
+msgstr "Voit saada tuki- ja liikuntaelimistön sairauden (TULES) liikkumattakin"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Jos pysyt jossakin tietyssä asennossa, kehosi työskentelee edelleen. Tätä kutsutaan 'staattiseksi kuormaksi'. Keho on suunniteltu liikkumaan. Yhdessä ja samassa asennossa pysyminen, mukaan lukien pitkään istuminen tai seisominen, ei ole hyväksi."
+
+#: 6. Kysymys
+msgid "mq_question_6"
+msgstr "Kylmät ja kosteat olosuhteet ovat riskitekijä tuki- ja liikuntaelimistön sairauksia ajatellen."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Tietokonehiiren käyttö ei voi aiheuttaa tuki- ja liikuntaelimistön sairauksia"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "On olemassa joitakin yksinkertaisia ohjeita hiiren oikeanlaista käyttöä varten; käsivartta ja käsiä on mm. tuettava riittävästi ja ne on pidettävä lähellä kehoa, ja lisäksi on pidettävä taukoja tarpeeksi usein."
+
+#: 8. Kysymys
+msgid "mq_question_8"
+msgstr "Tietokonepäätteeltä olisi voitava poistua tauolle ainakin 2 tunnin välein."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Suosituksena on pitää jokaisen 50 minuutin päätetyöskentelyjakson jälkeen 10 minuutin tauko, jonka aikana tehdään jotakin muuta."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Ai! Sinulla on suuri riski saada MSD-sairaus."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Satunnaisia kipuja ja tuntemuksia! Ota selville, miten voit paremmin suojata kehoasi."
+
+#: Käytännön ratkaisut
+msgid "mq_good_result"
+msgstr "Työsi sujuu mukavasti! Olet selvillä rasitustekijöistä, mutta älä kuitenkaan unohda soveltaa tietojasi käytäntöön."
+
+
+
+
+

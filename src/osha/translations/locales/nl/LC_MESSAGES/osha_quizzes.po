@@ -1,0 +1,671 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: nl\n"
+"Language-Name: Dutch\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Laden"
+
+msgid "score_label"
+msgstr "Uw score:"
+
+msgid "restart_label"
+msgstr "Opnieuw beginnen"
+
+msgid "true"
+msgstr "juist"
+
+msgid "false"
+msgstr "fout"
+
+msgid "yes"
+msgstr "juist"
+
+msgid "no"
+msgstr "fout"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Breng het teken in de juiste positie)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Lawaaiquiz"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Wat weet u van lawaai? Probeer deze snelle quiz"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Kun je beter oorbeschermers dragen dan proberen het geluid te reduceren?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Het is niet erg om de hele dag te werken bij 100 decibels"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Alleen oudere mensen kunnen te maken krijgen met gehoorverlies"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Iedereen kan geluid meten door gewoon te luisteren"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Oren die tuiten moeten een waarschuwing zijn"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Frequentie heeft betrekking op de intensiteit (volume) van geluid"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Je hebt al gauw gehoorverlies"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Oorbeschermers of oordopjes mogen eigenlijk alleen als laatste middel gebruikt worden"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Pas op! U kunt uw gehoor verliezen als u uw oren niet beschermt."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Ga over tot actie! Wilt u uw oren beschermen, dan moet u nog bepaalde dingen weten."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "U bent een en al oor! U moet hebben geleerd hoe u uw oren beschermt."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Verantwoordelijkheidsquiz"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Bent u verantwoordelijk voor het volgende?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "U moet voor uw eigen veiligheid en gezondheid zorgen."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "U moet zelf voor uw eigen gezondheid en veiligheid zorgen na de instructies en scholing die men u heeft gegeven. Anderen zijn niet verantwoordelijk als u instructies negeert of als u zich dom of roekeloos gedraagt."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "U moet zo goed mogelijk letten op andere mensen in uw omgeving, na de instructies en scholing die men u heeft gegeven."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Uw gedrag kan van invloed zijn op de gezondheid en veiligheid van anderen. Dat kan direct door uw daden gebeuren of indirect door dingen die u nalaat te doen."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Wanneer u nieuwe installaties gebruikt, kunt u het beste deze gewoon uitproberen en zo met vallen en opstaan leren."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Als u gevraagd wordt nieuwe installaties te gaan gebruiken, dan moet men u laten zien hoe u daarmee veilig kunt omgaan.  HEEFT U TWIJFELS - STEL DAN VRAGEN."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "U moet samenwerken met uw managers en chefs."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Het is de taak van uw werkgever te zorgen voor een veilige werkomgeving, maar het is úw taak apparatuur op de juiste manier te gebruiken en de instructies na te leven."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Bespeurt u een gevaar, vermijd en negeer dit dan. Het is de taak van iemand anders om dit te melden en voor een oplossing te zorgen."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Er moeten procedures zijn die u kunt volgen om potentiële risico's te melden. U zou hierover informeel met uw chef kunnen praten of ze langs formelere weg rapporteren. WEES NOOIT BANG OM IETS TE MELDEN - gemorst materiaal, een gladde vloer, een kapotte stekker of wat dan ook dat u meent te moeten doorgeven."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "U moet alle gezondheids- en veiligheidswetten kennen voordat u aan het werk kunt."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Dat is niet nodig, maar het is wel goed om hiervan enig idee te hebben. Kijk eens naar de informatiebronnen op deze website."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "U moet alle instructies, signalen en voorschriften op de werkplaats in acht nemen."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Waarschuwingstekens zijn er voor uw bescherming en zijn door de wet voorgeschreven. Het is uw verantwoordelijkheid hiervan nota te nemen en de instructies te volgen."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "U moet alle beschermende kleding en uitrusting die u nodig hebt om uw werk veilig te kunnen verrichten, zelf aanschaffen en betalen."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Uw werkgever moet u gratis alle beschermende uitrusting ter beschikking stellen, die u nodig hebt om uw werk veilig te kunnen verrichten (helm, masker, handschoenen, buitenkleding, beschermende laarzen enz.). U moet deze persoonlijke beschermingsmiddelen op de juiste wijze gebruiken en na gebruik op de juiste plaats opbergen."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Groot risico - u loopt gevaar op uw werk een ongeval te krijgen."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Gemiddeld risico - u bent redelijk goed begonnen maar moet nog een en ander leren."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Gering risico - u bent op de goede weg - prima!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Werkgeversquiz"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Uw baas moet..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "zorgen voor installaties (op de arbeidsplaats) en werksystemen die veilig zijn en blijven en geen risico's opleveren voor de gezondheid van wie dan ook."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "zich ervan vergewissen dat het gebruik, de be- en verwerking, de opslag en het transport van goederen en stoffen veilig zijn en geen gevaar vormen voor de gezondheid van wie dan ook."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "ervoor zorgen dat al zijn werknemers informatie, instructie, scholing en toezicht op het gebied van veiligheid en gezondheid krijgen."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "de werkplaats gezond en veilig houden."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "risicobeoordelingen verrichten (gevaren vaststellen en beheersen) en de bevindingen vastleggen."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "gezondheids- en veiligheidssystemen en -procedures ontwikkelen."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "met de werknemers en alle contractanten die voor hem werken overleggen en samenwerken."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "alle relevante wetgeving op het gebied van veiligheid en gezondheid op het werk naleven."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Groot risico - u moet meer te weten komen over wat uw baas moet doen om u veilig en gezond op het werk te houden"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Gemiddeld risico - u bent goed begonnen maar moet nog een en ander leren."
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Gering risico - u weet goed wat uw baas moet doen"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Het getallenspel"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Spier- en skeletaandoeningen (aandoeningen aan het bewegingsapparaat) worden het meest genoemd als arbeidsgerelateerd gezondheidsprobleem in de 27 lidstaten van de Europese Unie. Hoe groot is het probleem? Wat vinden de mensen van hun arbeidsomstandigheden? Doe mee aan onze quiz:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Hoe hoog is het percentage van de werknemers dat klaagt over rugpijn wegens het werk?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Hoeveel mensen klagen over rugpijn wegens hun werk?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Is tussen 2000 en 2005 het percentage van de werknemers in Europa dat meldde tijdens hun werk ten minste een kwart van de tijd steeds weer dezelfde bewegingen te moeten maken "
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. precies gelijk gebleven?"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. 5% afgenomen?"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. ongeveer gelijk gebleven?"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. 5% toegenomen?"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Welk arbeidsgerelateerd symptoom komt het meest voor?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Hoofdpijn"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Rugpijn"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Vermoeidheid"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Hoeveel mensen beweren dat zij ten minste een kwart van de tijd steeds dezelfde hand- en armbewegingen moeten maken?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "In welke sectoren in Europa zullen vrouwen voor hun werk mensen moeten tillen of verplaatsen? "
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. onderwijs en gezondheidszorg"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. winkels en warenhuizen"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. financiële dienstverlening"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. overheidsdienst"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Hoe hoog is het percentage werknemers dat (vrijwel) voortdurend gebruik van de computer maakt? "
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Welke leeftijdscategorie van de werknemers meldt dat zij het meeste fysieke werk moet verzetten?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Jonger dan 25 jaar"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. 25- tot 44-jarigen"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. 45- tot 54-jarigen"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Ouder dan 55 jaar"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Deze quiz is gebaseerd op informatie van Eurostat, het bureau voor de statistiek van de Europese Unie en van de vierde Europese enquête naar de arbeidsomstandigheden (EWCS 2005) van de Europese Stichting voor de Verbetering van de Levens- en Arbeidsomstandigheden."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of safety signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Quiz over waarschuwingsborden"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Kent u uw waarschuwingsborden? Test uw kennis met onze Waarschuwingsborden-quiz!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Zonnebrillen te koop"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Gratis ogentest"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Veiligheidsbrillen verplicht"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Opticiens"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Pas op: kruispunt"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Eerste Hulp"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Verboden het gras te betreden"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Ziekenhuis"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Pas op: piratenschip"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Begraafplaats"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Gevaar"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Giftige stoffen"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Mobiele telefoons te koop"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobiele telefoons verboden"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Stiltegebied"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Telefoonreparatie"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "DJ's aan het werk"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Gehoorbescherming verplicht"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Lawaai"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Houd uw oren altijd warm"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Hier is een schat begraven"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Storm op komst"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Hoogspanning"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Gevaar - slangen!"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobics"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitness-centrum"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Branduitgang"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Deuropening"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Rookruimte"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Geen open vuur"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Sigaretten te koop"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Verboden te roken"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Groot risico - u loopt gevaar op uw werk een ongeval te krijgen."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Gemiddeld risico - u bent goed begonnen maar moet nog een en ander leren."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Gering risico - u bent op de goede weg - prima!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "SSA-quiz"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Wat weet u van spier- en skeletaandoeningen (SSA's) en rugpijn? Probeer deze snelle quiz"
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "Er bestaan specifieke arbeidswetten in de lidstaten van de EU met betrekking tot het heffen van lasten"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Er bestaat een Europese Richtlijn betreffende de minimum veiligheids- en gezondheidsvoorschriften voor het manueel hanteren van lasten, die alle lidstaten in hun eigen wetgeving hebben opgenomen."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Zwangere vrouwen mogen lasten tillen zolang zij hiervan geen schade ondervinden"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Vrouwen die zwanger zijn of zojuist een kind hebben gekregen mogen geen zware lasten tillen; naarmate de zwangerschap vordert loopt de werkneemster een groter risico op letsel."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Blootstelling aan trillingen op het werk kan het risico op het krijgen van RSI (repetitive strain injury) vergroten"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Als u chronisch pijn heeft of pijnscheuten krijgt van repetitief werk of van het tillen van lasten, vormen pijnstillers de beste oplossing."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Als u onder onveilige omstandigheden blijft doorwerken en met pijnstillers overeind blijft, maakt u het probleem alleen maar erger en dit kan leiden tot definitieve invaliditeit."
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "U kunt een spier- of skeletaandoening (SSA) krijgen door niet te bewegen."
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Ook al blijft u in dezelfde houding zitten/staan, dan werkt uw lichaam toch. Dit wordt \"statische belasting\" genoemd. Het lichaam is op beweging ingesteld. Een statische belasting, zoals lange tijd blijven zitten of staan, is niet goed voor u."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Koude en vocht vormen een risicofactor voor het krijgen van spier- en skeletaandoeningen."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Het gebruik van computermuizen kan geen SSA's veroorzaken"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Er zijn enkele eenvoudige richtsnoeren voor een juist gebruik van de computermuis: zorg bv. voor goede ondersteuning, dicht bij uw lichaam, van de onderarmen en handen en neem af en toe een pauze."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "U moet om de twee uur uw werk aan de computer even onderbreken."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Aanbevolen wordt na 50 minuten werken op een toetsenbord het werk 10 minuten te onderbreken en even iets anders te doen."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Oef! U loopt een groot risico een SSA op te lopen."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Af en toe pijn en tintelingen! Leer meer over de wijze waarop u uw lichaam kunt beschermen."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "U werkt zonder pijn! U weet veel, maar vergeet niet uw kennis in de praktijk te brengen."
+

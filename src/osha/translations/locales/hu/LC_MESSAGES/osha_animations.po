@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: hu\n"
+"Language-Name: Magyar\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQ zóna"
+
+msgid "Discover Safe Start "
+msgstr "Fedezd fel a Biztos Kezdetet!"
+
+msgid "Why RISQ it?"
+msgstr "Miért RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Mit RISQ?"
+
+msgid "Competitions"
+msgstr "Versenyek"
+
+msgid "On the edge of safety"
+msgstr "A biztonság keskeny mezsgyéjén"
+
+# animations
+msgid "anim_restart"
+msgstr "Újraindítás"
+
+msgid "anim01_message_01"
+msgstr "Ellenőrizze a létra lábát, mielőtt mászni kezd!"
+
+msgid "anim01_message_02"
+msgstr "Állítsa a létrát a falhoz a helyes szögben!"
+
+msgid "anim01_message_03"
+msgstr "Magas létra esetén mindig álljon valaki a létra lábánál!"
+
+msgid "anim01_end"
+msgstr "“Vigyázat! - Esésvédelem”"
+
+msgid "anim02_end"
+msgstr "“Vigyázat! - Esésvédelem”"
+
+msgid "anim03_message_01"
+msgstr "Ne dolgozzon nem biztonságos vagy nem megfelelő munkaviszonyok"
+
+msgid "anim03_message_02"
+msgstr "Bátran kérjen segítséget!"
+
+msgid "anim03_end"
+msgstr "“Vigyázat! – Ne tűrjön csendben!"
+
+msgid "anim04_message_01"
+msgstr "Mielőtt bármit megemel vagy megmozgat – gondolkozzék!"
+
+msgid "anim04_message_02"
+msgstr "Használja a munkavégzéshez biztosított felszereléseket!"
+
+msgid "anim04_message_03"
+msgstr "Mindig próbálja meg könnyebbé tenni a terhet!"
+
+msgid "anim04_end"
+msgstr "“Vigyázat! – A hát csak egyszer törik!"
+
+msgid "anim02_message_01"
+msgstr "Sötétben ne dolgozzon!"
+
+msgid "anim02_message_02"
+msgstr "Ne rögtönözzön, ha ezzel a biztonságot kockáztatja!"

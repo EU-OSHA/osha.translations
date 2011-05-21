@@ -1,0 +1,142 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: nl\n"
+"Language-Name: Dutch\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Europese Week voor veiligheid en gezondheid op het werk ${year}"
+
+#: Titel
+msgid "certificate_title"
+msgstr "Bevestiging"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Dit certificaat bevestigt dat"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "het handvest van de Europese Week ${year} heeft getekend en zo heeft toegezegd zich actief in te zetten voor "
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">de campagne van de Europese Week van dit jaar</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Vertil je niet"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Deelnamecertificaat"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Met dit certificaat wordt de deelname bevestigd van"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "aan <font face=\"ArialItalic\">Vertil je niet</font>, een Europese campagne waarmee beoogd wordt het aantal beroepsgebonden aandoeningen aan het bewegingsapparaat te verminderen en de werkplek veiliger en gezonder te maken."
+
+msgid "director"
+msgstr "Directeur"
+
+msgid "email_text_1"
+msgstr "Hartelijk dank dat u het handvest van de Europese Week hebt ondertekend."
+
+msgid "email_text_2"
+msgstr "Bij dit bericht is een pdf-versie van het handvest gevoegd, dat u kunt afdrukken."
+
+msgid "email_text_3"
+msgstr "Ga voor meer informatie over de Europese Week-campagne naar de website:"
+
+msgid "feedback_text_1"
+msgstr "Hartelijk dank dat u het handvest van de Europese Week hebt ondertekend."
+
+msgid "feedback_text_2"
+msgstr "Terug naar het certificaat"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "DEELNAMECERTIFICAAT"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "Dit certificaat is een bewijs van deelname van"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "aan ‘Een gezonde werkplek - Goed voor jou en voor de zaak.’"
+
+msgid "contribution_headline_2008_2"
+msgstr "Een Europese campagne voor de promotie van een geïntegreerde aanpak van risicobeheersing waarbij rekening wordt gehouden met de verschillende stappen van risicobeoordeling."
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Een gezonde werkplek"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Goed voor jou en voor de zaak."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Deelnamecertificaat"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Met dit certificaat wordt de deelname bevestigd van"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "aan de campagne 'Een gezonde werkplek' 2010-2011 over veilig onderhoud."
+
+#: Director 
+msgid "director_2010"
+msgstr "Directeur van het Europees Agentschap voor veiligheid en gezondheid op het werk (EU-OSHA)"
+

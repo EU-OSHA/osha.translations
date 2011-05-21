@@ -1,0 +1,671 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: el\n"
+"Language-Name: Greek\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Φόρτωση"
+
+msgid "score_label"
+msgstr "Η βαθμολογία σας:"
+
+msgid "restart_label"
+msgstr "Επανεκκίνηση"
+
+msgid "true"
+msgstr "Σωστό"
+
+msgid "false"
+msgstr "Λάθος"
+
+msgid "yes"
+msgstr "Ναι"
+
+msgid "no"
+msgstr "Όχι"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Μετακινήστε το σημείο στη σωστή θέση)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Κουίζ σχετικά με το θόρυβο"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Πόσα γνωρίζετε για το θόρυβο; Απαντήστε στο ακόλουθο κουίζ"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Η χρήση ωτοασπίδων είναι προτιμότερη από την προσπάθεια μείωσης του θορύβου;"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Η έκθεση σε θόρυβο ύψους 100 ντεσιμπέλ κατά την εργασία δεν συνεπάγεται κίνδυνο για την υγεία"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Η απώλεια της ακοής επηρεάζει μόνο τους ηλικιωμένους"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Οποιοσδήποτε μπορεί να μετρήσει το θόρυβο απλώς μέσω της ακοής"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Το κουδούνισμα στα αφτιά αποτελεί προειδοποίηση"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Η συχνότητα αναφέρεται στην ένταση(ακουστότητα)του θορύβου "
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Η απώλεια της ακοής είναι ραγδαία"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Οι ωτοασπίδες και τα προστατευτικά βύσματα αφτιού πρέπει να  αποτελούν την ύστατη λύση"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Προσοχή! Μπορεί να χάσετε την ακοή σας αν δεν την προστατέψετε."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Ενεργήστε τώρα! Ενημερωθείτε σχετικά με την προστασία της ακοής σας."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Να έχετε τα αφτιά σας ανοιχτά! Πρέπει να γνωρίζετε για τους τρόπους προστασίας της ακοής σας."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Κουίζ ευθύνης"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Είναι δική σας ευθύνη να πράττετε τα ακόλουθα;"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Πρέπει να φροντίζετε την προσωπική σας υγεία και ασφάλεια."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Αποτελεί δική σας ευθύνη η φροντίδα της προσωπικής σας υγείας και ασφάλειας σύμφωνα με τις οδηγίες και την εκπαίδευση που έχετε λάβει. Δεν είναι οι άλλοι υπεύθυνοι, εάν αγνοείτε τις οδηγίες και ενεργείτε ανόητα και απερίκεπτα φέρετε εσείς οι ίδιοι την αποκλειστική ευθύνη των πράξεών σας."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Πρέπει να μεριμνείτε, στο μέτρο του δυνατού, για τα άτομα γύρω σας ακολουθώντας τις οδηγίες και την εκπαίδευση που έχετε λάβει."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Η συμπεριφορά σας μπορεί να επηρρεάσει την υγεία και την ασφάλεια των άλλων. Κάτι τέτοιο μπορεί να αποτελέσει άμεση συνέπεια της συμπεριφοράς που τηρείτε ή αδυνατείτε να τηρήσετε."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Όταν χρησιμοποιείτε κάποιον εξοπλισμό για πρώτη φορά ο καλύτερος τρόπος να εξοικειωθείτε με αυτόν είναι να προσπαθήσετε να τον χρησιμοποιήσετε μόνος σας μέσω της δοκιμής και του σφάλματος."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Σε περίπτωση που σας ζητηθεί να χρησιμοποιήσετε κάποιον εξοπλισμό πρέπει να προηγηθεί επίδειξη ασφαλούς χρήσης του. ΣΕ ΠΕΡΙΠΤΩΣΗ ΠΟΥ ΕΧΕΤΕ ΑΠΟΡΙΕΣ - ΡΩΤΗΣΤΕ."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Πρέπει να συνεργάζεστε με τους διευθυντές και τους προϊστάμενούς σας."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Είναι ευθύνη του εργοδότη σας να σας παρέχει ένα ασφαλές περιβάλλον στο οποίο μπορείτε να εργαστείτε, αλλά είναι δική σας ευθύνη να χρησιμοποιείτε τον εξοπλισμό σωστά και να ακολουθείτε τις οδηγίες που σας έχουν παρασχεθεί."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Σε περίπτωση που εντοπίσετε κάποιον κίνδυνο αποφύγετέ τον και αγνοήστε τον. Η αναφορά και η αντιμετώπισή του αποτελεί καθήκον τρίτου."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Πρέπει να υπάρχουν διαδικασίες τις οποίες μπορείτε να ακολουθήσετε για την αναφορά πιθανών κινδύνων. Μπορείτε να πράξετε κάτι τέτοιο μέσω ανεπίσημης αναφοράς στον προϊστάμενό σας ή επισήμως προτείνοντας σχετικές διευθετήσεις. ΜΗΝ ΦΟΒΗΘΕΙΤΕ ΠΟΤΕ ΝΑ ΑΝΑΦΕΡΕΤΕ ΟΤΙΔΗΠΟΤΕ - είτε πρόκειται για μια διαρροή,ένα ολισθηρό πάτωμα, μια ελαττωματική πρίζα ή οτιδήποτε άλλο σας φαίνεται περίεργο."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Πρέπει να γνωρίζετε πλήρως τη νομοθεσία σχετικά με την υγεία και την ασφάλεια προτού ξεκινήσετε να εργάζεστε."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Αυτό δεν είναι απαραίτητο, αλλά είναι καλό να έχετε μια ιδέα. Ρίξτε μια ματιά στα περιεχόμενα της παρούσας ιστοθέσης."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Πρέπει να ακολουθείτε κάθε είδους οδηγίες, σημάνσεις  και κανόνες που υπάρχουν στο χώρο εργασίας σας."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Η σήμανση ασφαλείας υφίσταται για την ασφάλειά σας και επιβάλεται από τη νομοθεσία. Είναι ευθύνη σας να τη λαμβάνετε υπόψη και να την ακολουθείτε."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Πρέπει να προμηθευτείτε και να πληρώσετε για κάθε είδους προστατευτικό ρουχισμό και εξοπλισμό ο οποίος απατείται για την ασφαλή εκτέλεση της εργασίας σας."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Ο εργοδότης σας πρέπει να σας προμηθεύσει δωρεάν με κάθε είδους εξοπλισμό προστασίας ο οποίος απαιτείται για την ασφάλεια στην εργασία (προστατευτικά κράνη, μάσκες, γάντια, ρουχισμό εξωτερικού χώρου, προστατευτικές μπότες κ.λπ.). Πρέπει να κάνετε ορθή χρήση του εν λόγω εξοπλισμού και, μετά τη χρήση, να τον επιστρέφετε στη θέση του."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Υψηλός κίνδυνος - κινδυνεύετε να υποστείτε ατύχημα."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Μέτριος κίνδυνος - ικανοποιητική αρχή αλλά υπάρχουν πολλά ακόμη που πρέπει να μάθετε."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Χαμηλός κίνδυνος - ξεκινήσατε από την αρχή με ασφάλεια - συγχαρητήρια!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Κουίζ εργοδότη"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Ο εργοδότης σας πρέπει να..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Παρέχει και να συντηρεί εγκαταστάσεις (το χώρο εργασίας) και συστήματα εργασίας που είναι ασφαλή και δεν θέτουν την υγεία κανενός σε κίνδυνο."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Διασφαλίζει ότι η χρήση, ο χειρισμός, η αποθήκευση και η μεταφορά προϊόντων και ουσιών είναι ασφαλής και δεν θέτει την υγεία κανενός σε κίνδυνο."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Παρέχει πληροφορίες, οδηγίες, εκπαίδευση και επίβλεψη σχετικά με μέτρα υγείας και ασφάλειας για όλους τους υπαλλήλους του."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Διατηρεί το χώρο εργασίας σε ασφαλή και υγιεινή κατάσταση."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Διεξάγει εκτιμήσεις κινδύνου (εντοπισμός και έλεγχος κινδύνων) και να καταγράφει τα συμπεράσματα."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Αναπτύσει συστήματα και διαδικασίες υγείας και ασφάλειας."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Συμβουλεύεται και να συνεργάζεται με όλους τους υπαλλήλους και εργολήπτες οι οποίοι εργάζονται για αυτόν."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Συμμορφώνεται πλήρως προς τη σχετική νομοθεσία περί υγείας και ασφάλειας."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Υψηλός κίνδυνος - πρέπει να μάθετε περισσότερα σχετικά με τα μέτρα που πρέπει να λαμβάνει ο εργοδότης σας για να διασφαλίζει την ασφάλεια και την υγεία σας στην εργασία"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Μέτριος κίνδυνος - ικανοποιητική αρχή αλλά υπάρχουν πολλά ακόμη τα οποία πρέπει να μάθετε "
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Χαμηλός κίνδυνος - έχετε καλή γνώση των όσων οφείλει να πράττει ο εργοδότης σας"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Παιχνίδι με αριθμούς"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Οι «μυοσκελετικές παθήσεις» (MΣΠ) αποτελούν το συνηθέστερο πρόβλημα υγείας που σχετίζεται με την εργασία στην ΕΕ των 27. Ποια είναι η έκταση του προβλήματος αυτού; Τι πιστεύουν οι άνθρωποι για τις εργασιακές τους συνθήκες; Για να μάθετε περισσότερα δοκιμάστε το παρακάτω κουίζ:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Τι ποσοστό εργαζομένων παραπονούνται για πόνους στην πλάτη λόγω της δουλειάς τους;"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Τι ποσοστό εργαζομένων παραπονούνται για μυϊκούς πόνους λόγω της δουλειάς τους;"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Μεταξύ 2000 και 2005 το ποσοστό Ευρωπαίων εργαζομένων που δήλωσαν ότι εκτελούν επαναλαμβανόμενες κινήσεις τουλάχιστον κατά το ένα τέταρτο του χρόνου τους:"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. παρέμεινε σταθερό"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. μειώθηκε κατά 5%"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. έμεινε περίπου στα ίδια επίπεδα"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. αυξήθηκε κατά 5%"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Ποιο είναι το συνηθέστερο σύμπτωμα που σχετίζεται με την εργασία;"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. πονοκέφαλος"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. πόνος στην πλάτη"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. κόπωση"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. άγχος"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Πόσοι άνθρωποι δηλώνουν ότι εκτελούν επαναλαμβανόμενες κινήσεις χειρών και βραχιόνων τουλάχιστον στο ένα τέταρτο του χρόνου τους;"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Σε ποιον επαγγελματικό τομέα στην Ευρώπη οι γυναίκες είναι αυτές που σηκώνουν ή μετακινούν περισσότερα άτομα στα πλαίσια της εργασίας τους;"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. εκπαίδευση και υγεία"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. πωλήσεις και αποθήκευση"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. οικονομικές υπηρεσίες"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. δημόσια διοίκηση"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Τι ποσοστό εργαζομένων χρησιμοποιούν στην εργασία τους ηλεκτρονικό υπολογιστή σε όλο ή στον περισσότερο χρόνο τους;"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Ποιοι εργαζόμενοι δηλώνουν ότι βαρύνονται με το μεγαλύτερο όγκο σωματικής εργασίας;"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. οι κάτω των 25 ετών"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. οι μεταξύ 25-44 ετών"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. οι μεταξύ 45-54 ετών"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. οι άνω των 55 ετών"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Tο κουίζ αυτό βασίστηκε σε στοιχεία αφενός της Eurostat, της Στατιστικής Υπηρεσίας της Ευρωπαϊκής Ένωσης, και αφετέρου της 4ης Eυρωπαϊκής Έρευνας περί Εργασιακών Συνθηκών (EWCS 2005) που πραγματοποιήθηκε από τον Ευρωπαϊκό Οργανισμό Βελτίωσης Συνθηκών Διαβίωσης και Εργασίας"
+
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Κουίζ σήμανσης ασφαλείας"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr " Γνωρίζετε τη σήμανση ασφαλείας που αφορά την εργασία σας; Ελέγξτε τις γνώσεις σας απαντώντας στο κουίζ που αφορά τη σήμανση ασφαλείας!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr " Εδώ πωλούνται γυαλιά ηλίου "
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Δωρεάν οφθαλμολογική εξέταση"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Απαιτείται η χρήση γυαλιών ασφαλείας "
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Οπτικοί"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr " Προσοχή! Διασταύρωση "
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Πρώτες βοήθειες"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Μην πλησιάζετε το γρασίδι"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr " Νοσοκομείο"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr " Προσοχή! Πειρατικά πλοία "
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Χώρος ενταφιασμού "
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Κίνδυνος"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Τοξικές ουσίες"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr " Εδώ πωλούνται κινητά τηλέφωνα "
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr " Απαγορεύεται η χρήση κινητών τηλεφώνων "
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Ζώνη ησυχίας"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Επισκευές τηλεφώνων"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr " Χώρος εργασίας ντισκ τζόκεϊ (DJs)"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Απαιτείται η χρήση προστατευτικών μέσων κατά του θορύβου"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Θορυβώδης περιοχή"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr " Να προστατεύετε τα αφτιά σας συνεχώς από το κρύο"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Εδώ βρίσκεται θαμμένος θησαυρός"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Κίνδυνος καταιγίδας"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Ηλεκτρισμός"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Κίνδυνος - Φίδια και ερπετά!"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Μάθημα αεροβικής"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Γυμναστήριο"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Έξοδος πυρκαγιάς"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Είσοδος θύρας"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Αίθουσα καπνιστών"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Απαγορεύονται οι εργασίες που παράγουν γυμνές φλόγες"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Εδώ πωλούνται τσιγάρα "
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr " Απαγορεύεται το κάπνισμα "
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Υψηλός κίνδυνος - κινδυνεύετε να υποστείτε ατύχημα."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr " Μέτριος κίνδυνος - ικανοποιητική αρχή αλλά υπάρχουν πολλά ακόμη τα οποία πρέπει να μάθετε."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr " Χαμηλός κίνδυνος - ξεκινήσατε από την αρχή με ασφάλεια - συγχαρητήρια!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Κουίζ σχετικά με τις μυοσκελετικές παθήσεις (MSD)"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr " Τι γνωρίζετε για τις μυοσκελετικές παθήσεις(MSDs) και την οσφυαλγία; Απαντήστε στο ακόλουθο σύντομο κουίζ."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr " Υπάρχει ειδική εργατική νομοθεσία στα κράτη μέλη της ΕΕ η οποία καλύπτει την ανύψωση φορτίων"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr " Υπάρχει ευρωπαϊκή οδηγία σχετικά με τις απαιτήσεις ασφάλειας και υγείας κατά τη χειρωνακτική διακίνηση φορτίων την οποία όλα τα κράτη μέλη έχουν εντάξει στην εθνική νομοθεσία τους."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Οι γυναίκες που κυοφορούν μπορούν να ανυψώνουν φορτία χωρίς να προκαλούν βλάβη στις ίδιες"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr " Οι γυναίκες που κυοφορούν ή γέννησαν πρόσφατα δεν πρέπει να ανυψώνουν βαριά φορτία. Καθώς η κύηση εξελίσσεται η εργαζόμενη διατρέχει υψηλότερο κίνδυνο τραυματισμού."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr " Η έκθεση σε δονήσεις στο χώρο εργασίας μπορεί να ενισχύσει τον κίνδυνο εμφάνισης 'κακώσεων λόγω επαναλαμβανόμενης καταπόνησης' "
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr " Σε περίπτωση που νιώθετε πόνο εξαιτίας επαναλαμβανόμενης εργασίας ή ανύψωσης, τα αναλγητικά είναι η καλύτερη λύση."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr " Σε περίπτωση που εξακολουθείτε να εργάζεστε σε μη ασφαλείς συνθήκες κάνοντας χρήση αναλγητικών θα επιδεινώσετε το πρόβλημα και, ενδεχομένως να οδηγηθείτε σε μόνιμη αναπηρία"
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Υπάρχει το ενδεχόμενο να υποστείτε Μυοσκελετικές παθήσεις (MSD) εξαιτίας της έλλειψης κίνησης"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Ακόμη και όταν το σώμα σας βρίσκεται σε μία συγκεκριμένη θέση εξακολουθεί να εργάζεται. Η θέση αυτή ονομάζεται 'στατικό φορτίο'. Το σώμα είναι κατασκευασμένο για να κινείται. Η συνεχής ίδια στάση του σώματος καθώς και η παρατεταμένη καθιστή ή όρθια στάση, δεν κάνει καλό."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr " Το κρύο/Η υγρασία είναι παράγοντες που αυξάνουν τον κίνδυνο εμφάνισης μυοσκελετικών παθήσεων."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Η χρήση του ποντικιού ηλεκτρονικού υπολογιστή δεν δημιουργεί μυοσκελετικές παθήσεις"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr " Υπάρχουν κάποιες απλές οδηγίες για την ορθή χρήση του ποντικιού, όπως η επαρκής παροχή στήριξης του αντιβραχίονα και του χεριού σε μικρή απόσταση από το σώμα και τα διαλείμματα ανάπαυσης "
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Πρέπει να κάνετε διάλειμμα από τη χρήση του πληκτρολογίου ηλεκτρονικού υπολογιστή κάθε 2 ώρες."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr " Συνιστάται διάλειμμα 10 λεπτών για να κάνετε κάτι διαφορετικό, ύστερα από εργασία 50 λεπτών σε πληκτρολόγιο ηλεκτρονικού υπολογιστή."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Προσοχή! Κινδυνεύετε σοβαρά να υποστείτε μυοσκελετικές παθήσεις."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr " Παροδικός πόνος και μούδιασμα! Μάθετε περισσότερα για τους τρόπους προστασίας του οργανισμού σας."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr " Εργάζεστε σε άνετες συνθήκες! Γνωρίζετε αρκετά, αλλά μην ξεχνάτε να εφαρμόζετε τις γνώσεις σας στην πράξη."

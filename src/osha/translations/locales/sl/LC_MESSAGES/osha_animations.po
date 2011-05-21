@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sl\n"
+"Language-Name: Slovakia\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RISQ – območje tveganja"
+
+msgid "Discover Safe Start "
+msgstr "Odkrijte »Varen začetek«"
+
+msgid "Why RISQ it?"
+msgstr "Zakaj RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Kaj lahko RISQ?"
+
+msgid "Competitions"
+msgstr "Natečaji"
+
+msgid "On the edge of safety"
+msgstr "Na robu varnosti"
+
+# animations
+msgid "anim_restart"
+msgstr "Ponovni zagon"
+
+msgid "anim01_message_01"
+msgstr "Preden začnete plezati po lestvi, preverite, ali je dobro postavljena."
+
+msgid "anim01_message_02"
+msgstr "Lestev pristavite k steni pod pravilnim kotom."
+
+msgid "anim01_message_03"
+msgstr "Ob vznožju visoke lestve naj vedno stoji ena oseba."
+
+msgid "anim01_end"
+msgstr "„Pazite – ne tvegajte!“"
+
+msgid "anim02_end"
+msgstr "„Pazite – ne tvegajte!“"
+
+msgid "anim03_message_01"
+msgstr "Izogibajte se delu v nevarnih ali neprimernih pogojih."
+
+msgid "anim03_message_02"
+msgstr "Naj vas ne bo strah prositi za pomoč."
+
+msgid "anim03_end"
+msgstr "„Pazite – ne trpite molče!“"
+
+msgid "anim04_message_01"
+msgstr "Premislite, preden karkoli dvignete in nosite."
+
+msgid "anim04_message_02"
+msgstr "Uporabljate opremo, ki je na voljo."
+
+msgid "anim04_message_03"
+msgstr "Vedno poskušajte zmanjšati težo bremena."
+
+msgid "anim04_end"
+msgstr "„Pazite – hrbtenico si lahko zlomite samo enkrat!“"
+
+msgid "anim02_message_01"
+msgstr "Ne delajte v temi!"
+
+msgid "anim02_message_02"
+msgstr "Ne improvizirajte, kadar s tem ogrožate varnost!"

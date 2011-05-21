@@ -1,0 +1,141 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sl\n"
+"Language-Name: Slovenian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Evropski teden varnosti in zdravja pri delu ${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Potrdilo"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "To potrdilo potrjuje, da je"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "podpisal/a/o listino evropskega tedna ${year}, s čimer se zavezuje k aktivnemu sodelovanju v letošnji"
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">kampanji evropskega tedna</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Naredite si breme lažje"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Potrdilo o sodelovanju"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "To potrdilo potrjuje sodelovanje"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "pri <font face=\"ArialItalic\">evropski kampanji „Naredite si breme lažje“</font>, katere cilj je zmanjšati število z delom povezanih kostno-mišičnih obolenj ter da bi postala delovna mesta varnejša in bolj zdrava."
+
+msgid "director"
+msgstr "Direktor"
+
+msgid "email_text_1"
+msgstr "Hvala, ker ste podpisali listino evropskega tedna."
+
+msgid "email_text_2"
+msgstr "K temu elektronskemu sporočilu pripenjamo listino v PDF formatu, ki jo lahko natisnete."
+
+msgid "email_text_3"
+msgstr "Več informacij o kampanji evropskega tedna najdete na naši spletni strani:"
+
+msgid "feedback_text_1"
+msgstr "Hvala, ker ste podpisali listino evropskega tedna"
+
+msgid "feedback_text_2"
+msgstr "Nazaj na potrdilo"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "POTRDILO O UDELEŽBI"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "S tem potrjujemo, da se je"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "udeležilo evropske kampanje, ki spodbuja celostni pristop k upravljanju varnosti in zdravja pri delu, ki upošteva različne korake ocene tveganja,"
+
+msgid "contribution_headline_2008_2"
+msgstr "Zdravo delovno okolje – Dobro za vas. Dobro za posel."
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Zdravo delovno okolje"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Dobro za vas. Dobro za posel."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Potrdilo o sodelovanju"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Potrjujemo, da je"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "sodeloval/a pri kampanji Zdravo delovno okolje 2010-2011 za varnost pri vzdrževalnih delih."
+
+#: Director 
+msgid "director_2010"
+msgstr "Direktor Evropske agencije za varnost in zdravje pri delu (EU-OSHA)"
+

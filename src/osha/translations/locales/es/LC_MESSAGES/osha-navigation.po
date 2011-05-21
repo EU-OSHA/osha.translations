@@ -1,0 +1,561 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 17:55+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: es\n"
+"Language-Name: Spanish\n"
+"Preferred-Encodings: latin1 UTF-8\n"
+"Domain: osha-navigation\n"
+"X-Is-Fallback-For: es-bo es-cl es-co es-cr es-do es-ec es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+
+
+msgid "osha_nav_title_navigation"
+msgstr "Menu"
+
+msgid "osha_nav_description_navigation"
+msgstr ""
+
+msgid "osha_nav_title_about_us"
+msgstr "Acerca de la Agencia"
+
+msgid "osha_nav_description_about_us"
+msgstr "Sobre la Agencia, el director, puestos de trabajo vacantes, licitaciones, asociados..."
+
+msgid "osha_nav_title_navigation_link.2006-12-11.9313292189"
+msgstr "Quiénes somos y a qué nos dedicamos"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.9313292189"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-12-11.9680652044"
+msgstr "Cómo estamos organizados"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.9680652044"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-12-11.0084311637"
+msgstr "Cómo cooperamos con nuestros socios"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.0084311637"
+msgstr ""
+
+msgid "osha_nav_title_director_corner"
+msgstr "Espacio del Director"
+
+msgid "osha_nav_description_director_corner"
+msgstr ""
+
+msgid "osha_nav_title_jobs"
+msgstr "Ofertas de empleo"
+
+msgid "osha_nav_description_jobs"
+msgstr ""
+
+msgid "osha_nav_title_calls"
+msgstr "Contratación - convocatorias"
+
+msgid "osha_nav_description_calls"
+msgstr ""
+
+msgid "osha_nav_title_navigation_link.2006-12-11.0774460327"
+msgstr "Información de contacto"
+
+msgid "osha_nav_description_navigation_link.2006-12-11.0774460327"
+msgstr ""
+
+msgid "osha_nav_title_good_practice"
+msgstr "Buenas Prácticas"
+
+msgid "osha_nav_description_good_practice"
+msgstr "Información sobre buenas prácticas en materia de salud y seguridad en el lugar de trabajo..."
+
+msgid "osha_nav_title_awards_2007"
+msgstr "Galardones a las buenas prácticas 2007"
+
+msgid "osha_nav_description_awards_2007"
+msgstr "Premios a las Buenas Prácticas 2007"
+
+msgid "osha_nav_title_forums"
+msgstr "Foro de debate sobre la SST"
+
+msgid "osha_nav_description_forums"
+msgstr "Foro de debate sobre la SST"
+
+msgid "osha_nav_title_provider"
+msgstr "Proveedores"
+
+msgid "osha_nav_description_provider"
+msgstr "Proveedor de información para buenas prácticas"
+
+msgid "osha_nav_title_implementation"
+msgstr "Estrategia de Implementación"
+
+msgid "osha_nav_description_implementation"
+msgstr "Aproximaciones sistemáticas para reducer el riesgo en el lugar de trabajo."
+
+msgid "osha_nav_title_sector"
+msgstr "Sectores"
+
+msgid "osha_nav_description_sector"
+msgstr "Información sobre buenas practices por sectores"
+
+msgid "osha_nav_title_risk_obs"
+msgstr "Observatorio de riesgos"
+
+msgid "osha_nav_description_risk_obs"
+msgstr "Visión de conjunto de la Seguridad y la Salud en el Trabajo en Europa, tendencias, factores de riesgo, anticipación de los cambios..."
+
+msgid "osha_nav_title_topics"
+msgstr "Temas"
+
+msgid "osha_nav_description_topics"
+msgstr "Prevención de accidentes, Empresas, fomento de la salud en el lugar de trabajo, TME (Trastornos Musculoesqueléticos)..."
+
+msgid "osha_nav_title_Accident Prevention"
+msgstr "Prevención de accidentes"
+
+msgid "osha_nav_description_Accident Prevention"
+msgstr "Prevención de Accidentes"
+
+msgid "osha_nav_title_business"
+msgstr "Aspectos empresariales de la SST"
+
+msgid "osha_nav_description_business"
+msgstr " Aspectos empresariales de la SST "
+
+msgid "osha_nav_title_change"
+msgstr "El cambiante mundo del trabajo"
+
+msgid "osha_nav_description_change"
+msgstr "Cambiando el Mundo del Trabajo"
+
+msgid "osha_nav_title_ds"
+msgstr "Sustancias peligrosas"
+
+msgid "osha_nav_description_ds"
+msgstr "Sustancias Peligrosas"
+
+msgid "osha_nav_title_osheducation"
+msgstr "SST y educacin"
+
+msgid "osha_nav_description_osheducation"
+msgstr " SST y Educación "
+
+msgid "osha_nav_title_msds"
+msgstr "Trastornos musculoesqueléticos"
+
+msgid "osha_nav_description_msds"
+msgstr "Trastornos Musculoesqueléticos"
+
+msgid "osha_nav_title_noise"
+msgstr "El ruido en el trabajo"
+
+msgid "osha_nav_description_noise"
+msgstr "Ruido"
+
+msgid "osha_nav_title_stress"
+msgstr "Estrés y riesgos psicosociales"
+
+msgid "osha_nav_description_stress"
+msgstr "Stress y riesgos psicosociales"
+
+msgid "osha_nav_title_whp"
+msgstr "Promoción de la salud en el lugar de trabajo"
+
+msgid "osha_nav_description_whp"
+msgstr "Promoción de la salud en el Lugar de Trabajo"
+
+msgid "osha_nav_title_sectors"
+msgstr "Sectores"
+
+msgid "osha_nav_description_sectors"
+msgstr "Agricultura, construcción, pesca, sanidad, educación..."
+
+msgid "osha_nav_title_agriculture"
+msgstr "Agricultura"
+
+#. Agriculture
+msgid "osha_nav_description_agriculture"
+msgstr "Agricultura"
+
+#. Construction
+msgid "osha_nav_title_construction"
+msgstr "Construcción"
+
+msgid "osha_nav_description_construction"
+msgstr "Construcción"
+
+msgid "osha_nav_title_education"
+msgstr "Educación"
+
+msgid "osha_nav_description_education"
+msgstr "Educación"
+
+#. Fisheries
+msgid "osha_nav_title_fisheries"
+msgstr "Pesca"
+
+msgid "osha_nav_description_fisheries"
+msgstr "Pesca"
+
+#. Health Care
+msgid "osha_nav_title_healthcare"
+msgstr "Sector sanitario"
+
+msgid "osha_nav_description_healthcare"
+msgstr ""
+
+msgid "osha_nav_title_priority_groups"
+msgstr "Grupos prioritarios"
+
+msgid "osha_nav_description_priority_groups"
+msgstr "Personas con discapacidades, mujeres, jóvenes, PYMES..."
+
+msgid "osha_nav_title_ageingworkers"
+msgstr " Envejecimiento de los Trabajadores"
+
+msgid "osha_nav_description_ageingworkers"
+msgstr "Envejecimiento de los Trabajadores"
+
+msgid "osha_nav_title_disability"
+msgstr "Personas con discapacidad"
+
+msgid "osha_nav_description_disability"
+msgstr "Personas con discapacidad"
+
+msgid "osha_nav_title_sme"
+msgstr "PYMES"
+
+msgid "osha_nav_description_sme"
+msgstr "Pequeñas y medianas empresas"
+
+msgid "osha_nav_title_gender"
+msgstr "La mujer y la salud en el trabajo"
+
+msgid "osha_nav_description_gender"
+msgstr "Mujer y Salud en el Trabajo"
+
+msgid "osha_nav_title_young_people"
+msgstr "Los jóvenes"
+
+msgid "osha_nav_description_young_people"
+msgstr "Jóvenes"
+
+msgid "osha_nav_title_campaigns"
+msgstr "Campañas"
+
+msgid "osha_nav_description_campaigns"
+msgstr "Semana Europea, Iniciativa “Lugar de Trabajo Saludable”..."
+
+msgid "osha_nav_title_press_room"
+msgstr "Sala de prensa"
+
+msgid "osha_nav_description_press_room"
+msgstr "Comunicados de prensa…"
+
+msgid "osha_nav_title_publications"
+msgstr "Publicaciones"
+
+msgid "osha_nav_description_publications"
+msgstr "Factsheet, e-facts, informes, Forum, revista..."
+
+msgid "osha_nav_title_magazine"
+msgstr "Revistas"
+
+msgid "osha_nav_description_magazine"
+msgstr "Magazines"
+
+msgid "osha_nav_title_factsheets"
+msgstr "Hojas informativas"
+
+msgid "osha_nav_description_factsheets"
+msgstr "Hojas informativas"
+
+msgid "osha_nav_title_efacs"
+msgstr "E-facts"
+
+msgid "osha_nav_description_efacs"
+msgstr ""
+
+msgid "osha_nav_title_reports"
+msgstr "Informes"
+
+msgid "osha_nav_title_forum"
+msgstr "Forums"
+
+msgid "osha_nav_description_forum"
+msgstr ""
+
+msgid "osha_nav_title_conference"
+msgstr "Procedimientos de Conferencias"
+
+msgid "osha_nav_title_annual_report"
+msgstr "Informe Anual"
+
+msgid "osha_nav_title_work_programmes"
+msgstr "Programas de trabajo"
+
+msgid "osha_nav_title_evaluation_reports"
+msgstr "Evaluación de informes"
+
+msgid "osha_nav_title_research"
+msgstr "Investigación"
+
+msgid "osha_nav_description_research"
+msgstr "Visión de conjunto de la Seguridad y la Salud en el Trabajo en Europa, tendencias, factores de riesgo, anticipación de los cambios..."
+
+msgid "osha_nav_title_framework"
+msgstr "Programa Marco"
+
+msgid "osha_nav_description_framework"
+msgstr " Guía para la seguridad y los aspectos sanitarios de la UE 6 º Programa Marco de Investigación "
+
+msgid "osha_nav_title_background"
+msgstr "Antecedentes"
+
+msgid "osha_nav_description_background"
+msgstr "Antecedentes"
+
+msgid "osha_nav_title_institutions"
+msgstr "Instituciones de investigación"
+
+msgid "osha_nav_description_institutions"
+msgstr "Instituciones de investigación"
+
+msgid "osha_nav_title_funding"
+msgstr "Financiación para la investigación"
+
+msgid "osha_nav_description_funding"
+msgstr "Financiación para la investigación"
+
+msgid "osha_nav_title_projects"
+msgstr "Programas y proyectos de investigación"
+
+msgid "osha_nav_description_projects"
+msgstr "Programas y proyectos de investigación"
+
+msgid "osha_nav_title_rpublications"
+msgstr "Publicaciones de investigación"
+
+msgid "osha_nav_description_rpublications"
+msgstr "Publicaciones de investigación"
+
+msgid "osha_nav_title_rtopics"
+msgstr "Temas específicos de investigación"
+
+msgid "osha_nav_description_rtopics"
+msgstr "Temas específicos de investigación"
+
+msgid "osha_nav_title_legislation"
+msgstr "Legislación"
+
+msgid "osha_nav_description_legislation"
+msgstr "Legislación europea sobre Seguridad y Salud en el Trabajo..."
+
+msgid "osha_nav_title_eulegislation"
+msgstr "Legislación Europea"
+
+msgid "osha_nav_description_eulegislation"
+msgstr " Legislación Europea "
+
+msgid "osha_nav_title_directives"
+msgstr " Legislación Europea - Directrices"
+
+msgid "osha_nav_description_directives"
+msgstr "EU directices"
+
+msgid "osha_nav_title_proposals"
+msgstr " Legislación Europea - Propuesta de la UE"
+
+msgid "osha_nav_description_proposals"
+msgstr "Propuestas para directrices"
+
+msgid "osha_nav_title_standards"
+msgstr " Legislación Europea - Standards"
+
+msgid "osha_nav_description_standards"
+msgstr "SST standards"
+
+msgid "osha_nav_title_guidelines"
+msgstr " Legislación Europea - Directrices"
+
+msgid "osha_nav_description_guidelines"
+msgstr "Directrices de la SST relativas a la legislación"
+
+msgid "osha_nav_title_statistics"
+msgstr "European OSH Statistics"
+
+msgid "osha_nav_description_statistics"
+msgstr " Estadísticas europeas de SST "
+
+msgid "osha_nav_title_surveys"
+msgstr "Encuestas Europeas sobre SST"
+
+msgid "osha_nav_description_surveys"
+msgstr " Encuestas Europeas sobre SST "
+
+msgid "osha_nav_title_other"
+msgstr "Otras informaciones relacionadas"
+
+msgid "osha_nav_description_other"
+msgstr " Otras informaciones relacionadas "
+
+msgid "osha_nav_title_istatistics"
+msgstr "Estadísticas internacionales"
+
+msgid "osha_nav_description_istatistics"
+msgstr "Información sobre estadísticas internacionales, vb OIT, OMS."
+
+msgid "osha_nav_title_isurveys"
+msgstr " Encuestas internacionales"
+
+msgid "osha_nav_description_isurveys"
+msgstr " Encuestas internacionales "
+
+msgid "osha_nav_title_noneu_statistics"
+msgstr "Estadísticas no comunitarias "
+
+msgid "osha_nav_description_noneu_statistics"
+msgstr " Estadísticas de fuera de la UE "
+
+msgid "osha_nav_title_noneu_surveys"
+msgstr "Encuestas no comunitarias "
+
+msgid "osha_nav_description_noneu_surveys"
+msgstr "Encuestas no comunitarias "
+
+msgid "osha_nav_title_other_iinfo"
+msgstr "Otras informaciones internacionales relacionadas"
+
+msgid "osha_nav_description_other_iinfo"
+msgstr "Otras informaciones internacionales relacionadas"
+
+msgid "osha_nav_title_systems"
+msgstr "Organizaciones"
+
+msgid "osha_nav_description_systems"
+msgstr ""
+
+msgid "osha_nav_title_osh_systems"
+msgstr "Sistemas SST"
+
+msgid "osha_nav_description_osh_systems"
+msgstr "Sistemas SST"
+
+msgid "osha_nav_title_osm"
+msgstr "Sistemas de Monitorización SST"
+
+msgid "osha_nav_description_osm"
+msgstr "Sistemas de Monitorización SST"
+
+msgid "osha_nav_title_organisations"
+msgstr "Instituciones/ Organizaciones"
+
+msgid "osha_nav_description_organisations"
+msgstr "Instituciones/ Organizaciones"
+
+msgid "osha_nav_title_strategies"
+msgstr "Estrategias SST"
+
+msgid "osha_nav_description_strategies"
+msgstr "Estrategias SST"
+
+msgid "osha_nav_title_programmes"
+msgstr "Programas SST"
+
+msgid "osha_nav_description_programmes"
+msgstr "Programas SST"
+
+msgid "osha_nav_title_osh_strategy"
+msgstr "Futura estrategia comunitaria en seguridad y salud en el trabajo"
+
+msgid "osha_nav_description_osh_strategy"
+msgstr "Información relacionada sobre la futura estrategia comunitaria en seguridad y salud en el trabajo "
+
+msgid "osha_nav_title_int_systems"
+msgstr "Sistemas internacionales"
+
+msgid "osha_nav_description_int_systems"
+msgstr " Esta sección proporciona información sobre las principales organizaciones internacionales y no los sistemas de la UE en el ámbito de la seguridad y salud en el trabajo."
+
+msgid "osha_nav_title_non_eu_systems"
+msgstr "Sistemas en países no comunitarios"
+
+msgid "osha_nav_description_non_eu_systems"
+msgstr "Sistemas no comunitarios"
+
+msgid "osha_nav_title_int_institutions"
+msgstr "Instituciones y organizaciones internacionales"
+
+msgid "osha_nav_description_int_institutions"
+msgstr "Esta página proporciona información sobre la clave no administraciones de los países de la UE, las organizaciones e instituciones en el ámbito de la seguridad y la salud en el trabajo. A continuación encontrará una lista de las organizaciones pertinentes y enlaces a la Internet de cada organización de servicios. También hay descripciones de las actividades relacionadas con la seguridad y la salud de cada organización en el trabajo. "
+
+msgid "osha_nav_title_non_eu_institutions"
+msgstr " Instituciones y organizaciones no comunitarias"
+
+msgid "osha_nav_description_non_eu_institutions"
+msgstr " Instituciones/ organizaciones no comunitarias"
+
+msgid "osha_nav_title_int_strategies"
+msgstr "Estrategias internatcionales"
+
+msgid "osha_nav_description_int_strategies"
+msgstr " Esta sección proporciona información clave sobre la no-estrategias de la UE en el ámbito de la seguridad y salud en el trabajo."
+
+msgid "osha_nav_title_non_eu_strategies"
+msgstr "Estrategias en países no comunitarios"
+
+msgid "osha_nav_description_non_eu_strategies"
+msgstr "Estrategias no comunitarias"
+
+msgid "osha_nav_title_int_programmes"
+msgstr "Programas internacionales"
+
+msgid "osha_nav_description_int_programmes"
+msgstr " Esta sección proporciona información sobre las principales organizaciones internacionales y no programas de la UE en el ámbito de la seguridad y salud en el trabajo."
+
+msgid "osha_nav_title_non_eu_programmes"
+msgstr "Programas en países no comunitarios"
+
+msgid "osha_nav_description_non_eu_programmes"
+msgstr "Programas no comunitarios "
+
+msgid "osha_nav_title_risks"
+msgstr "Riesgos Emergentes"
+
+msgid "osha_nav_description_risks"
+msgstr "Riesgos Emergentes"
+
+msgid "osha_nav_title_chemical"
+msgstr "Químicos"
+
+msgid "osha_nav_description_chemical"
+msgstr "Riesgos Emergentes"
+
+msgid "osha_nav_title_biological"
+msgstr "Biológicos"
+
+msgid "osha_nav_description_biological"
+msgstr "Riesgos Emergentes"
+
+msgid "osha_nav_title_physical"
+msgstr "Físicos"
+
+msgid "osha_nav_description_physical"
+msgstr "Riesgos Emergentes"
+
+msgid "osha_nav_description_psycho"
+msgstr "Riesgos Emergentes"
+
+msgid "osha_nav_title_psycho"
+msgstr "Psycosociales/organizativos"
+

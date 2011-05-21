@@ -1,0 +1,675 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: hu\n"
+"Language-Name: Magyar\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Betöltés"
+
+msgid "score_label"
+msgstr "Pontszámod:"
+
+msgid "restart_label"
+msgstr "Újraindítás"
+
+msgid "true"
+msgstr "Igaz"
+
+msgid "false"
+msgstr "Hamis"
+
+msgid "yes"
+msgstr "Igen"
+
+msgid "no"
+msgstr "Nem"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Állítsd a jelzést a helyez pozícióba)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Zaj-kvíz"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Mennyit tudsz a zajról? Tedd magad próbára ezzel a gyorskvízzel!"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Jobb-e fülvédőt hordani, mint megpróbálni megszüntetni a zajt?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Helyénvaló-e egész nap 100 decibeles zajban dolgozni?"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "A halláskárosodás csak az idős embereket érinti"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "A zaj mértékét bárki felmérheti egyszerűen hallás útján"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "A fülcsengést figyelmeztető jelnek kell tekinteni"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "A frekvencia a zaj intenzitására (hangosságára) vonatkozik"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "A halláskárosodás gyorsan következik be"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "A fülvédőket vagy füldugókat csak végső megoldásként szabad alkalmazni"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Vigyázat! Ha nem védekezel, elveszítheted a hallásodat."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Most cselekedj! Tudnod kell néhány dolgot arról, hogy hogyan védheted meg a hallásodat."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Csupa fül vagy! Biztosan hallottál róla, hogy hogyan védheted meg a hallásodat."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Felelősségi kvíz"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Vajon te vagy-e a felelős az alábbiakért?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Vigyáznod kell a saját egészségedre és biztonságodra."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Te vagy a felelős azért, hogy a kapott képzés és utasítások betartásával vigyázz a saját egészségedre és biztonságodra. Nem mások a felelősök azért, ha figyelmen kívül hagyod a kapott utasításokat vagy meggondolatlanul vagy hanyag módon jársz el."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "A kapott képzés és utasítások betartásával a lehető legnagyobb mértékben oda kell figyelned a körülötted lévők biztonságára."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Viselkedésed hatással lehet mások egészségére és biztonságára. Ez a hatás közvetlenül tetteid által nyilvánul meg, közvetetten pedig azáltal, amit elmulasztasz megtenni."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Amikor új felszerelést használsz, a tanulás legjobb módja az, ha a próbálgatásos módszert alkalmazod."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Ha valaki arra kér, hogy használj egy berendezést, akkor azt is meg kell mutatnia, hogy miként kell azt biztonságosan használni. HA VALAMIBEN NEM VAGY BIZTOS - KÉRDEZZ RÁ!"
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Együtt kell működnöd vezetőiddel és feletteseiddel."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "A munkáltatód felelős azért, hogy biztonságos munkakörnyezetet biztosítson számodra, te pedig azért, hogy megfelelően használd a berendezéseket és betartsd az utasításokat."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Ha felfigyelsz egy veszélyforrásra, kerüld el és ne vegyél róla tudomást. Nem a te dolgod, hogy jelentsd és orvosold azt."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "A lehetséges veszélyek jelentésére eljárásokat kell kidolgozni. Ez lehetne a probléma nem hivatalos szóvá tétele a felettes irányában, vagy hivatalosabb jelentéstétel. SOHA NE FÉLJ MEGEMLÍTENI VALAMIT - legyen az kifröccsent anyag, csúszós padló, hibás csatlakozódugasz, vagy bármi más, amit veszélyesnek ítélsz."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Csak akkor kezdhetsz el dolgozni, ha már ismered az egészségvédelemre és biztonságra vonatkozó valamennyi jogszabályt."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Ez nem követelmény, de jó, ha van némi fogalmad róla. Nézd át a weboldalon található forrásokat."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Be kell tartanod és követned kell a munkahelyeden kitett valamennyi utasítást, jelzést és szabályt."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "A biztonsági jelzések a te védelmedet szolgálják, és kitételüket törvény írja elő. Felelős vagy azért, hogy észrevedd és kövesd azokat."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Be kell szerezned és meg kell vásárolnod a munkavégzés biztonságossá tétele érdekében szükséges valamennyi védőöltözetet és védőfelszerelést."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Munkáltatód köteles térítésmentesen ellátni a munkavégzés biztonságossága érdekében szükséges valamennyi védőfelszereléssel (védősisak, maszkok, kesztyűk, kültéri ruházat, védőbakancsok stb.). A személyes védőfelszereléseket előírásszerűen kell használnod, és használatuk után vissza kell vinned azokat a helyükre."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Magas kockázat - balesetveszélyben vagy."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Közepes kockázat - jó kezdet, de van még mit tanulnod."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Alacsony kockázat - Biztos kezdet - jól csináltad!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Munkáltatói kvíz"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "A főnököd köteles..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "olyan üzemet (munkahelyet) és munkarendszereket kialakítani, amelyek biztonságosak és senkinek az egészségét nem veszélyeztetik."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "biztosítani, hogy az áruk és anyagok használata, kezelése, raktározása és szállítása biztonságos legyen, és senkinek az egészségét ne veszélyeztesse."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "valamennyi alkalmazott számára tájékoztatást, útmutatást, képzést és felügyeletet biztosítani az egészségvédelmi és biztonsági témákkal kapcsolatban."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "biztonságos és egészséges körülményeket biztosítani a munkahelyen."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "kockázatértékeléseket végrehajtani (azonosítani és ellenőrizni a veszélyeket) és feljegyezni azok eredményét."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "egészségvédelmi és biztonsági rendszereket és eljárásokat kialakítani."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "konzultálni és együttműködni az alkalmazottakkal és minden neki dolgozó alvállalkozóval."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "betartani valamennyi vonatkozó egészségvédelmi és biztonsági jogszabály."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Magas kockázat - többet kell megtudnod arról, mit kell tennie a főnöködnek, hogy egészséges és biztonságos munkahelyet biztosítson számodra"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Közepes kockázat - jó kezdet, de van még mit tanulnod"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Alacsony kockázat - alapos ismereteid vannak arról, hogy mik a főnököd kötelességei"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "A számok játéka"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "A váz- és izomrendszeri megbetegedések a leggyakrabban előforduló munkahelyi egészségügyi problémák a EU27 tagállamaiban. Milyen jellegű a probléma? Mit gondolnak az emberek munkakörülményeikről? Ha többet szeretne megtudni, próbálja ki a kvízt:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "A munkavállalók hány százaléka panaszkodik hátfájásra munkája miatt?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "A munkavállalók hány százaléka panaszkodik izomfájdalmakra munkája miatt?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Hogyan változott 2000 és 2005 között azon munkavállalók száma, akik arról számoltak be, hogy munkaidejük egynegyedében vagy ennél hosszabb ideig ismétlődő mozdulatsorokat kell végezniük? "
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. Számarányuk nem változott"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. 5%-kal csökkent"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. Számarányuk majdnem ugyanaz maradt"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. 5%-kal nőtt"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Mi a leggyakoribb munkahelyi egészségügyi tünet?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Fejfájás"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Hátfájás"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Fáradtság"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stressz"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Hányan számolnak be arról, hogy ismétlődő kéz és karmozgásokat kell végezniük munkaidejük egynegyedében vagy ennél hosszabb ideig?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "Mely iparágakban fordul elő a leggyakrabban Európában, hogy a nőknek embereket kell mozgatniuk vagy meg kell emelniük őket munkájuk során?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. oktatás-és egészségügy"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. boltok és áruházak"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. pénzügyi szolgáltatások"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. közigazgatás"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "A munkavállalók mekkora hányada használ számítógépet teljes munkaidejében vagy annak nagy részében?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Mely munkavállalók végzik a legtöbb fizikai munkát?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. 25 év alattiak"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. a 25 és -44 közöttiek"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. a 45 és -54 közöttiek"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. az 55 év felettiek"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Ez a kvíz a Eurostat, az Európai Unió statisztikai hivatala által szolgáltatott információkon és a Európai Alapítvány az Élet- és Munkakörülmények Javításáért megbízásából a negyedik Európai munkakörülmény-felmérés (EWCS 2005) adatain alapul."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Biztonsági jelzések kvíz"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Ismered a biztonsági jelzéseket? Teszteld le a tudásodat Biztonsági jelzések kvízünkkel!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Napszemüvegek itt kaphatók"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Ingyenes szemtesztek"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Védőszemüveg viselése kötelező!"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Látszerészek"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Vigyázat,kereszteződés!"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Vészhelyzeti elsősegély"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Fűre lépni tilos!"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Kórház"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Kalózhajó közeleg!"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Temető"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Veszély"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Mérgező anyagok"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Mobiltelefonok itt kaphatók"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobiltelefonok használata tilos!"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Csendzóna"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Telefonjavítás"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "Itt DJ-k dolgoznak"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Hallásvédő eszközök használata kötelező!"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Zajos terület"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Tartsd a füled mindig melegen!"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Itt elásott kincs van"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Vihar jön!"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elektromosság"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Vigyázat - kígyók!"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Aerobik óra"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitneszközpont"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Vészkijárat"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Ajtó"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Dohányzásra kijelölt terület"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Nyílt láng használata tilos!"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Cigaretta itt kapható"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Dohányozni tilos!"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Magas kockázat - balesetveszélyben vagy."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Közepes kockázat - jó kezdet, de van még mit tanulnod."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Alacsony kockázat - Biztos kezdet - jól csináltad!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "MSD-kvíz"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Mit tudsz a váz- és izomrendszeri zavarokról (MSD) és a hátfájdalomról? Tedd próbára magad e gyorskvíz segítségével."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "Az EU tagállamaiban specifikus munkavédelmi törvények vonatkoznak a terhek emelésére"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Létezik egy a kézi tehermozgatásra vonatkozó egészségvédelmi és biztonsági követelményekről szóló európai irányelv, melyet valamennyi tagállam átültetett a saját jogrendszerébe."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Várandós nők számára nem jelent kockázatot, ha terheket emelnek"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Az olyan nők, akik várandósak vagy nemrég szültek, nem emelhetnek nehéz terheket; a terhesség előrehaladtával növekszik a sérülés kockázata."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "A vibrációkkal szembeni munkahelyi expozíció növelheti az \"ismétlődő megterheléses sérülések\" kockázatát"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Ha az ismétlődő jellegű munka és a terhek emelése következtében fájdalmak lépnek föl, a legjobb válasz a fájdalomcsillapítók használata."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Ha a nem biztonságos munkakörülmények közt úgy folytatod a munkát, hogy fájdalomcsillapítókat szedsz, azzal csak rontasz a helyzeten, és ez maradandó rokkantságot is eredményezhet"
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "A mozgás hiánya váz- és izomrendszeri rendellenességhez (MSD) vezethet"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "A tested akkor is dolgozik, ha mindvégig csupán egy testhelyzetben maradsz. Ezt úgy hívják, hogy \"statikus terhelés\". A test természetes állapota a mozgás. Ha hosszú ideig egy testhelyzetben maradsz, beleértve az ülést vagy állást is, azzal ártasz magadnak."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "A hideg/nedves munkakörnyezet kockázati tényezőt jelent a váz- és izomrendszeri rendellenességek kialakulása szempontjából."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Számítógépes egér használata nem okozhat MSD-t"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Az egér helyes használatát illetően van néhány alapszabály. Ezek egyike, hogy az alkart és a kézfejet - megfelelően alátámasztva - a testhez közel kell mozgatni, és pihenőket kell tartani."
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Számítógép melletti munka esetén kétóránként szünetet kell tartani."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Minden 50 perc számítógép melletti munkavégzést ajánlatos 10 perc egyéb tevékenységgel eltöltött pihenőidővel megszakítani."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Vigyázz! Nagy a kockázata váz- és izomrendszeri rendellenességek kialakulásának!"
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Alkalmi fájdalmak és bizsergések! Tudj meg többet arról, hogy hogyan védheted meg a testedet!"
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Dolgozz nyugodt körülmények között! Sokat tudsz, de fontos, hogy a tudásodat átültesd a gyakorlatba."
+
+
+
+
+

@@ -1,0 +1,670 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: mt\n"
+"Language-Name: Malthese\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "loading_label"
+msgstr "Loading"
+
+msgid "score_label"
+msgstr "Il-punteġġ tiegħek:"
+
+msgid "restart_label"
+msgstr "Erġa' ibda"
+
+msgid "true"
+msgstr "Veru"
+
+msgid "false"
+msgstr "Falz"
+
+msgid "yes"
+msgstr "Iva"
+
+msgid "no"
+msgstr "Le"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Ċaqlaq is-sinjal fil-post it-tajjeb)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Kwizz dwar l-istorbju"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Kemm taf dwar l-istorbju? Ipprova għamel dan il-kwizz malajr"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Jekk tilbes il-kuffji huwa aħjar milli tipprova tnaqqas l-istorbju?"
+
+#: 2. Question
+msgid "nq_question_2"
+msgstr "Huwa tajjeb li taħdem il-ġurnata kollha f'100 deċibels"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "It-telf tas-smigħ jaffetwa biss l-anzjani"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Kulħadd jista' jkejjel l-istorbju sempliċement billi jisma'"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Tisfir fil-widnejn għandu jkun sinjal ta' twissija"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Il-frekwenza tirreferi għall-intensità (volum) ta' l-istorbju "
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "It-telf tas-smigħ jiġri malajr"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Il-kuffji għall-widnejn għandhom biss jintużaw bħala l-aħħar rimedju"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Oqgħod attent! Tista' titlef is-smigħ jekk ma tieħux ħsieb."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Aġixxi issa! Hemm affarijiet li hemm bżonn li tkun taf dwar il-protezzjoni tas-smigħ tiegħek."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Smajt tajjeb! Jidher li taf dwar kif għandek tipproteġi s-smigħ tiegħek."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Kwizz tar-responsabbiltajiet"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Hija r-responsabbiltà tiegħek li tagħmel dan li ġej?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Għandek tieħu ħsieb tas-saħħa u s-sigurtà tiegħek stess."
+
+#: 1. Solution
+msgid "rq_solution_1"
+msgstr "Hija r-responsabbilità tiegħek li tieħu ħsieb tas-saħħa u s-sigurtà tiegħek stess billi ssegwi l-istruzzjonijiet u t-taħriġ li ingħatajt. Nies oħra mhux responsabbli jekk int ma tagħtix kas ta' l-istruzzjonijiet jew jekk tkun traskurat fl-imġieba tiegħek. "
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Int għandek tieħu kemm jista' jkun ħsieb ta' nies oħra madwarek u ssegwi l-istruzzjonijiet u t-taħriġ li ngħatajt."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "L-imġieba tiegħek tista' taffetwa s-saħħa u s-sigurtà ta' oħrajn. Dan jista' jiġri b'mod dirett minħabba l-azzjonijiet tiegħek jew indirettament minħabba affarijiet li tonqos milli tagħmel."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Meta tuża apparat ġdid, l-aħjar mod kif titgħallem huwa li tipprova int stess u tara x'jiġri."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Jekk int mitlub li tuża xi apparat, allura f'dan il-każ għandek tiġi muri kif tużah b'mod sigur. JEKK TKUN FID-DUBJU - SAQSI."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Trid tikoopera mal-maniġers u ta' fuqek."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Hija r-responsabbiltà ta' min iħaddmek sabiex jipprovdi ambjent tax-xogħol mingħajr periklu, imma hija r-responsabbilità tiegħek sabiex tuża t-tagħmir kif suppost u ssegwi l-istruzzjonijiet. "
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Jekk tara xi periklu, tevitah u ma tagħtix kas. Huwa f'idejn xi ħadd ieħor sabiex jirraportah u jirranġa s-sitwazzjoni."
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Għandu jkun hemm proċeduri li tista' ssegwi sabiex tirraporta perikli li jistgħu jiġru. Dawn jistgħu jkunu billi ssemmihom informalment lil ta' fuqek jew billi tagħmel dan permezz ta' proċeduri iktar formali. QATT TIBŻA' SSEMMI XI ĦAĠA - tqattir, art li tiżloq, plagg li ma taħdimx tajjeb, jew dak kollu li int tħoss li għandu jiġi rrapurtat.."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Int għandek tkun taf bil-liġijiet kollha dwar is-saħħa u s-sigurtà qabel ma tibda taħdem."
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "Dan mhux meħtieġ, imma jkun tajjeb kieku jkollok idea tagħhom. Agħti daqqa t'għajn lir-riżorsi li jinsabu fuq din il-websajt. "
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Għandek issegwi l-istruzzjonijiet kollha, sinjali u regoli mpoġġija fil-post tax-xogħol."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Is-sinjali ta' sigurtà huma mpoġġija għall-protezzjoni tiegħek u jinsabu hemm bil-liġi. Int għandek ir-risponsabbilità li tosservhom u timxi fuqhom."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Int għandek tipprovdi u tħallas għal kull tagħmir u ħwejjeġ protettivi li jkollok bżonn sabiex tagħmel ix-xogħol fis-sigurtà."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Min iħaddmek għandu jipprovdik, mingħajr ħlas, b'kull tagħmir protettiv li jista' jkollok bżonn għas-sigurtà fuq ix-xogħol (elmi, maskri, ingwanti, ħwejjeġ għal barra, stivali protettivi eċċ. Int trid tagħmel użu tajjeb ta' dan it-tagħmir ta' protezzjoni personali u wara li tkun użajtu, tirritornah fejn suppost jintrefa'."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Riskju għoli - tinsab fil-periklu li jkollok aċċident."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Riskju medju - bidu tajjeb imma għandek iktar x'titgħallem."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Riskju baxx - Bdejt bit-Tajjeb - prosit!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "kwizz għal min iħaddem"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "L-imgħallem tiegħek għandu/għandha..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Jipprovdi u jżomm il-post u s-sistemi tax-xogħol f'kundizzjoni ta' sigurtà u li ma jkunux ta' riskju għas-saħħa ta' ħadd."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Jassigura li l-użu, l-itrattar, il-ħażna u t-trasport ta' merkanzija u sustanzi jsiru mingħajr periklu u mingħajr riskju għas-saħħa ta' ħadd."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Jipprovdi informazzjoni, istruzzjoni, taħriġ u kontroll fuq il-kwistjonijiet ta' saħħa u sigurtà għall-ħaddiema kollha tiegħu. "
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Jara li l-post tax-xogħol jibqa' post mingħajr periklu u ma jagħmilx ħsara lis-saħħa."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Jagħmel evalwazzjonijiet tar-riskju (jidentifika u jikkontrolla perikli) u jieħu nota tar-riżultati."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Jiżviluppa sistemi u proċeduri ta' saħħa u sigurtà."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Jikkonsulta u jikkoopera mal-ħaddiema u kuntratturi li jaħdmu miegħu "
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Jimxi skond il-leġiżlazzjoni kollha rigward is-saħħa u s-sigurtà ."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Riskju għoli - għandek bżonn tkun taf iktar dwar dak li l-imgħallem tiegħek għandu jagħmel sabiex int tibqa' b'saħħtek u ma tiffaċjax periklu fuq ix-xogħol"
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Riskju medju - bidu tajjeb imma għandek iktar x'titgħallem"
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Riskju baxx - għandek għarfien tajjeb ta' dak li l-imgħallem tiegħek għandu jagħmel"
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Il-Logħba tan-numri "
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Id-disturbi Muskuloskeletali (MSDs) huma l-iktar problema tas-saħħa relatata mal-post tax-xogħol komuni fl-UE27. Kemm hi kbira l-problema? X’jaħsbu n-nies dwar il-kundizzjonijiet tax-xogħol tagħhom? Biex tkun taf aktar ipprova l-kwizz tagħna: "
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Liema % tal-ħaddiema jilmentaw mill-uġigħ fid-dahar minħabba n-natura tax-xogħol tagħhom?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Liema % tan-nies jilmentaw minn uġigħ fil-muskoli minħabba n-natura tax-xogħol tagħhom?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Bejn is-sena 2000 u s-sena 2005 il-% tal-ħaddiema fl-Ewropa li rrapputaw li kienu qed jiġu esposti għall-moviment repettittivi fi kwart tal-ħin jew iktar"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. Baqa’ l-istess eżżatt?"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. Naqas b’ 5%?"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. Baqa’ kważi l-istess?"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. Żdied b’ 5%?"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Liema huwa l-iktar sintomu tas-saħħa komuni relatat mal-post tax-xogħol? "
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. Uġigħ fir-ras"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. Uġigħ fid-dahar"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. Għejja"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. Stress"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Kemm –il persuna tħid li hija esposta għall-movimenti repettitivi ta’ l-idejn jew tad-dirgħajn fi kwart jew iktar tal-ħin?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "F’liema setturi ta’ l-industrija fl-Ewropa huwa aktar probabbli li n-nisa jerfgħu jew iċaqalqu nies minħabba n-natura tax-xogħol tagħhom?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. edukazzjoni u saħħa"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. ħwienet u mħażen"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. servizzi finanzjarji"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. amministrazzjoni pubblika"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Liema proporzjon ta’ ħaddiema jużaw il-kompjuter il-ħin kollu jew fil-maġġoranza tal-ħin, biex jagħmlu x-xogħol tagħhom?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Liema ħaddiema jirrappurtaw li għandhom l-għola ammont ta’ xogħol fiżiku fix-xogħol tagħhom?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. Dawk li għandhom taħt –il 25 sena"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. Dawk li għandhom bejn –il 25 u l-44 "
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. Dawk li għandhom bejn –il 45 u l-54 "
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. Dawk li għandhom iktar minn 55 sena"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Dan il-kwizz huwa bbażat fuq informazzjoni mill-Eurostat, l-uffiċċju ta’ l-istatistika ta’ l-Unjoni Ewropea, u mir-raba’ Stħarriġ Ewropew dwar il-Kundizzjonijiet tax-Xogħol (EWCS 2005) li sar mill-Fondazzjoni Ewropea għat-Titjib tal-Kundizzjonijiet ta’ l-Għixien u tax-Xogħol."
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Kwizz għas-Sinjali tas-Sigurtà "
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Tafhom is-sinjali ta' sigurtà? Ittestja l-għarfien tiegħek bil-kwizz tagħna dwar is-Sinjali ta' Sigurtà!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Nuċċalijiet tax-xemx għal bejgħ hawnhekk"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Testijiet ta' l-għajnejn b'xejn"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Għandhom jintlibsu n-nuċċalijiet tas-sigurtà"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Speċjalisti ta' l-għajnejn"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Salib it-toroq fil-viċin"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "L-ewwel għajnuna għall-emerġenza"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Tirfisx fuq il-ħaxix"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Sptar"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Vapur pirata fil-viċin"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Art għall-irdim"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Periklu"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Sustanzi tossiċi"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Telefoni ċellulari għall-bejgħ hawnhekk"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Telefoni ċellulari mhux permessi"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Żona ta' kwiet"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Tiswijiet tat-telefowns"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "DJs qed jaħdmu hawn"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Għandu jintlibes protezzjoni għal widnejn"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Żona ta' storbju"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Żomm widnejk dejjem sħan"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Teżor mirdum hawnhekk"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Tempesti fil-viċin"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Elettriku"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Periklu - sriep fil-viċin"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Klassi ta' l-ajrobika"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Ċentru għall-isport"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Ħruġ f'każ ta' nar"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Trejqa għall-bieb"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Żona għat-tipjip"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "M'hemmx fjammi mhux mgħottija"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Sigaretti jinbiegħu hawn"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Ma tistax tpejjep"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Riskju għoli - tinsab fil-periklu li jkollok aċċident."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Riskju medju - bidu tajjeb imma għandek iktar x'titgħallem."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Riskju baxx - Bdejt bit-Tajjeb - prosit!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Kwizz MSD"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Kemm taf dwar il-problemi muskuloskeletali (Musculoskeletal Disorders (MSDs) u wġigħ fid-dahar? Ipprova dan il-kwizz."
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "Jeżistu liġijiet speċifiċi fuq ix-xogħol fl-Istati Membri ta' l-UE li jkopru l-irfigħ ta' tagħbija"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Teżisti Direttiva Ewropea dwar il-ħtiġijiet minimi tas-saħħa u s-sigurtà għat-tqandil manwali tat-tagħbija li kull Stat Membru poġġa fil-liġijiet tiegħu."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Nisa tqal jistgħu jerfgħu tagħbija mingħajr ma jkunu qed jagħmlu ħsara"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Nisa li huma tqal jew li ma ilhomx li welldu m'għandhomx jerfgħu tagħbijat tqal; iktar ma timxi l-quddiem fit-tqala, il-ħaddiema tkun taħt riskju akbar li tkorri."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Espożizzjoni għall-vibrazzjonijiet fuq il-post tax-xogħol jistgħu jżidu r-riskju ta' 'repetitive strain injury'"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Jekk ikollok uġigħ minn xogħol ripettitiv jew rfigħ, l-aħjar soluzzjoni jkunu l-pilloli ta' kontra l-uġigħ."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Jekk tkompli taħdem f'kondizzjonijiet perikolużi billi tuża l-pilloli biex itaffu l-uġigħ tkun qiegħed biss tagħmel il-problema agħar, u dan jista' jwassal għal problema permanenti"
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Jista' jkollok Problemi Muskuloskeltali j(MSD) jekk ma tiċċaqlaqx "
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Jekk int tibqa' f'pożizzjoni waħda, ġismek xorta jkun qiegħed jaħdem. Dan jisejjaħ 'tagħbija statika'. Il-ġisem magħmul biex jiċċaqlaq. Ma jagħmillekx tajjeb għal saħħtek jekk tibqa' dejjem fl-istess pożizzjoni, inkluż jekk iddum ħafna bilqiegħda jew bilwieqfa."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Kundizzjonijiet kesħin/imxarrba huma fattur ta' riskju għal-problemi muskuloskeletali."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "L-użu tal-maws tal-kompjuter jista' jikkawża MSD"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Jeżistu xi linji gwida sempliċi dwar kif l-aħjar li tuża l-maws, inkluż li sserraħ dirgħajk u idejk kif suppost, u tieħu pawżi ta' mistrieħ"
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr " Għandek tieħu brejk mit-tastiera tal-kompjuter kull sagħtejn."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Ir-rakkomandazzjoni hija dik li wara li tkun għamilt 50 minuta taħdem fuq il-kompjuter tieqaf għal 10 minuti u tagħmel xi ħaġa differenti."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Ajma! Qiegħed taħt riskju għoli ta' problemi muskuloskeletali"
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Uġigħ u tingiż okkażjonali! Tgħallem iktar dwar kif għandek tipproteġi ġismek."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Qed taħdem mingħajr problemi! Taf ħafna, imma tinsiex sabiex tpoġġi l-għarfien tiegħek fil-prattika."
+

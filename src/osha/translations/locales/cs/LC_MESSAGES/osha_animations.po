@@ -1,0 +1,87 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: cs\n"
+"Language-Name: Czech\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Zóna RISQ"
+
+msgid "Discover Safe Start "
+msgstr "Objevte BO(Z)P na start!"
+
+msgid "Why RISQ it?"
+msgstr "Proč to RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Co můžete RISQ?"
+
+msgid "Competitions"
+msgstr "Soutěže"
+
+msgid "On the edge of safety"
+msgstr "Na pokraji bezpečnosti"
+
+
+# animations
+msgid "anim_restart"
+msgstr "Za?철znovu"
+
+msgid "anim01_message_01"
+msgstr "Než začneš lézt po žebříku, zkontroluj, jak je na tom jeho spodní část"
+
+msgid "anim01_message_02"
+msgstr "Opři žebřík o zeď ve správném úhlu"
+
+msgid "anim01_message_03"
+msgstr "Vysoký žebřík musí dole vždy někdo přidržovat"
+
+msgid "anim01_end"
+msgstr "„Bacha – nespadni do toho po hlavě“"
+
+msgid "anim02_end"
+msgstr "„Bacha – nespadni do toho po hlavě“"
+
+msgid "anim03_message_01"
+msgstr "Nepracuj v nebezpečných nebo nevhodných podmínkách"
+
+msgid "anim03_message_02"
+msgstr "Neboj se požádat o pomoc"
+
+msgid "anim03_end"
+msgstr "Buď proaktivní – netrap se v tichosti"
+
+msgid "anim04_message_01"
+msgstr "Než začneš něco zvedat nebo nosit, rozmysli si, jak na to"
+
+msgid "anim04_message_02"
+msgstr "Používej poskytnuté vybavení"
+
+msgid "anim04_message_03"
+msgstr "Vždy si zkus náklad odlehčit"
+
+msgid "anim04_end"
+msgstr "Dávej pozor – se zlomenou páteří už pak nic nenaděláš"
+
+msgid "anim02_message_01"
+msgstr "Nepracuj potmě"
+
+msgid "anim02_message_02"
+msgstr "Neimprovizuj, pokud tím ohrozíš bezpečnost"

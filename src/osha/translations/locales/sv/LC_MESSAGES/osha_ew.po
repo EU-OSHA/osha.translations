@@ -1,0 +1,143 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@elevateit.org>, 2004-2007
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sv\n"
+"Language-Name: Svenska\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the generation of the web-charter of EW 2006.
+#: In order to adapt the 'Sign the charter' section for a new EW,
+#: just add a msgid named 'campaign_slogan_YYYY', where YYYY is the year.
+
+#: Campaign Slogan EW2006
+msgid "campaign_slogan_2006"
+msgstr "Safe Start!"
+
+#: EW Slogan
+msgid "ew_slogan"
+msgstr "Europeiska arbetsmiljöveckan ${year}"
+
+#: Title
+msgid "certificate_title"
+msgstr "Bekräftelse"
+
+#: Certificate for
+msgid "certificate_for"
+msgstr "Detta intyg bekräftar att"
+
+#: Contriubution
+msgid "contribution_headline"
+msgstr "har skrivit under kampanjkontraktet för Europeiska arbetsmiljöveckan ${year} och åtar sig att aktivt bidra till årets"
+
+
+#: Contribution
+msgid "contribution_subline"
+msgstr "<font face=\"ArialBold\">arbetsmiljöveckas kampanj</font> <font face=\"ArialItalic\">\"${campaign_slogan}\"</font> by:"
+
+#: RISQ portlet text
+msgid "RISQ Zone for young people"
+msgstr "RISQ Zone for young people"
+
+
+###############################################
+# Translations for ew2007
+###############################################
+
+#: Campaign Slogan EW2007
+msgid "campaign_slogan_2007"
+msgstr "Belasta rätt"
+
+#: Title 2007
+msgid "certificate_title_2007"
+msgstr "Deltagarintyg"
+
+#: Certificate for 2007
+msgid "certificate_for_2007"
+msgstr "Härmed intygas att"
+
+#: Contriubution
+msgid "contribution_headline_2007"
+msgstr "deltagit i <font face=\"ArialItalic\">Belasta rätt</font>, en europeisk kampanj för att minska antalet arbetsrelaterade belastningsbesvär och göra arbetsplatserna säkrare och hälsosammare."
+
+msgid "director"
+msgstr "Direktören"
+
+msgid "email_text_1"
+msgstr "Tack för att du skriver under Europeiska arbetsmiljöveckans kampanjkontrakt."
+
+msgid "email_text_2"
+msgstr "Bifogat finns en utskriftsvänlig pdf-version av kampanjkontraktet."
+
+msgid "email_text_3"
+msgstr "Mer information om Europeiska arbetsmiljöveckans kampanj finns på webbplatsen:"
+
+msgid "feedback_text_1"
+msgstr "Tack för att du skriver under Europeiska arbetsmiljöveckans kampanjkontrakt."
+
+msgid "feedback_text_2"
+msgstr "Tillbaka till intyget"
+###############################################
+# Translations for hw2008
+###############################################
+
+#: Campaign Slogan HW2008
+msgid "campaign_slogan_2008"
+msgstr "Healthy Workplaces - Good for you. Good for business."
+
+#: Title 2007
+msgid "certificate_title_2008"
+msgstr "DELTAGARDIPLOM"
+
+#: Certificate for 2008
+msgid "certificate_for_2008"
+msgstr "Det här diplomet är ett bevis på att"
+
+#: Contriubution
+msgid "contribution_headline_2008_1"
+msgstr "deltagit i Ett hälsosamt arbetsliv. Bra för alla. "
+
+msgid "contribution_headline_2008_2"
+msgstr "– En europeisk kampanj för främjande av en integrerad styrmetod som uppmärksammar de olika stegen som ingår i riskbedömning."
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Ett hälsosamt arbetsliv"
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Bra för alla."
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Deltagarintyg"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Detta intyg bekräftar deltagandet av"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "i kampanjen Ett hälsosamt arbetsliv 2010-2011 för säkert underhållsarbete."
+
+#: Director 
+msgid "director_2010"
+msgstr "Direktör för Europeiska arbetsmiljöbyrån(EU-Osha)"
+
+

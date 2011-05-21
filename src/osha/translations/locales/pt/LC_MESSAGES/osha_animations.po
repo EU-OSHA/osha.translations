@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: pt\n"
+"Language-Name: Portogues\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Zona RISQ"
+
+msgid "Discover Safe Start "
+msgstr "Descubra Crescer em Segurança"
+
+msgid "Why RISQ it?"
+msgstr "Por que correr RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "O que colocas em RISQ?"
+
+msgid "Competitions"
+msgstr "Concursos"
+
+msgid "On the edge of safety"
+msgstr "Segurança em risco"
+
+# animations
+msgid "anim_restart"
+msgstr "Reiniciar"
+
+msgid "anim01_message_01"
+msgstr "Verifique se a escada de mão está bem apoiada antes de começar a"
+
+msgid "anim01_message_02"
+msgstr "Encoste a escada de mão à parede formando o ângulo mais seguro."
+
+msgid "anim01_message_03"
+msgstr "Deve estar sempre uma pessoa no chão a segurar uma escada de"
+
+msgid "anim01_end"
+msgstr "“Cuidado! Não caia nessa”"
+
+msgid "anim02_end"
+msgstr "“Cuidado! Não caia nessa”"
+
+msgid "anim03_message_01"
+msgstr "Não trabalhe em más condições ou sem segurança."
+
+msgid "anim03_message_02"
+msgstr "Não tenha medo de pedir ajuda."
+
+msgid "anim03_end"
+msgstr "“Cuidado! Não sofra calado”"
+
+msgid "anim04_message_01"
+msgstr "Pense bem antes de levantar ou transportar uma carga."
+
+msgid "anim04_message_02"
+msgstr "Utilize os equipamentos fornecidos."
+
+msgid "anim04_message_03"
+msgstr "Tente sempre aligeirar a carga."
+
+msgid "anim04_end"
+msgstr "“Cuidado! Quando se parte a espinha é de vez”"
+
+msgid "anim02_message_01"
+msgstr "Não trabalhe às escuras."
+
+msgid "anim02_message_02"
+msgstr "Não improvise se isso puser em risco a segurança."

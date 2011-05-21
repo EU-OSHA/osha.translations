@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: fr\n"
+"Language-Name: French\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Zone RISQ"
+
+msgid "Discover Safe Start "
+msgstr "Comment démarrer en toute sécurité?"
+
+msgid "Why RISQ it?"
+msgstr "Pourquoi tu RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "Qu’est-ce que tu RISQ?"
+
+msgid "Competitions"
+msgstr "Concours"
+
+msgid "On the edge of safety"
+msgstr "En marge de la sécurité"
+
+# animations
+msgid "anim_restart"
+msgstr "Recommencez"
+
+msgid "anim01_message_01"
+msgstr "Contrôle les pieds de ton échelle avant d’y grimper."
+
+msgid "anim01_message_02"
+msgstr "Place ton échelle dans le bon angle contre le mur."
+
+msgid "anim01_message_03"
+msgstr "Si tu montes sur une grande échelle, demande toujours à quelqu'un de"
+
+msgid "anim01_end"
+msgstr "«Fais gaffe: ça ne vaut pas le coup de te briser le cou!»"
+
+msgid "anim02_end"
+msgstr "«Fais gaffe: ça ne vaut pas le coup de te briser le cou!»"
+
+msgid "anim03_message_01"
+msgstr "Ne travaille pas dans des situations dangereuses ou malsaines."
+
+msgid "anim03_message_02"
+msgstr "N’aie pas peur de demander de l’aide."
+
+msgid "anim03_end"
+msgstr "« Attention ! Ne souffre pas en silence!»"
+
+msgid "anim04_message_01"
+msgstr "Réfléchis avant de soulever et de porter quelque chose."
+
+msgid "anim04_message_02"
+msgstr "Utilise l’équipement fourni."
+
+msgid "anim04_message_03"
+msgstr "Essaie toujours d’alléger la charge."
+
+msgid "anim04_end"
+msgstr "«Prends garde … Le dos ne se brise qu'une seule fois!»"
+
+msgid "anim02_message_01"
+msgstr "Ne travaille pas dans le noir."
+
+msgid "anim02_message_02"
+msgstr "N’improvise pas si la sécurité est menacée!"

@@ -1,0 +1,2108 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-02-01 12:00+0100\n"
+"Last-Translator: EU\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: en\n"
+"Domain: osha\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Preferred-Encodings: UTF-8\n"
+"X-Is-Fallback-For: en-au en-bz en-ca en-ie en-jm en-nz en-ph en-za en-tt en-gb en-us en-zw\n"
+"Language-Name: English\n"
+
+
+msgid "title_agency"
+msgstr "European Agency<br />for Safety and Health<br />at Work"
+
+msgid "slogan_hw2010_campaign"
+msgstr "Healthy Workplaces"
+
+msgid "subslogan_hw2010_campaign"
+msgstr "Good for you.<br/>Good for business.<br/>"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "A European campaign on Safe Maintenance"
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Without proper maintenance things can go dramatically wrong in the workplace."
+
+msgid "hw2010_carousel_getitright"
+msgstr "Basics and best practices on how to do safe maintenance."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "The Healthy Workplaces Campaign is open for participation to all organisations and individuals. Get active!"
+
+msgid "hw2010_carousel_resources"
+msgstr "A wide variety of Campaign material is available for download from this section."
+
+msgid "hw2010_carousel_about"
+msgstr "The Europe-wide Healthy Workplaces Campaign 2010-11 will promote accident-free safe maintenance. "
+
+msgid "hw2010_carousel_partners"
+msgstr "A wide range of different partners contribute to the Healthy Workplaces Campaign on safe maintenance. Get to know them!"
+
+msgid "hw2010_carousel_press"
+msgstr "Catch up with our latest press releases and consult our multimedia resources!"
+
+msgid "heading_ew2005_stopthatnoise"
+msgstr "STOP THAT NOISE!"
+
+msgid "title_campaign_beinformed"
+msgstr "Be informed"
+
+msgid "Calendar week view"
+msgstr "Calendar week view"
+
+#. <input class="standalone" i18n:attributes="value" name="form.button.Cancel"
+#. tabindex="" tal:attributes="tabindex tabindex/next;" type="submit"
+#. value="Cancel"/>
+# # 11 more: ./plone_content/file_edit_form.cpt,
+# ./plone_content/folder_edit_form.cpt, ./plone_content/image_edit_form.cpt,
+# ./plone_content/link_edit_form.cpt, ./plone_content/metadata_edit_form.cpt,
+# ./plone_content/newsitem_edit_form.cpt,
+# ./plone_forms/content_status_history.cpt,
+# ./plone_forms/folder_rename_form.cpt, ./plone_prefs/password_form.pt,
+# ./plone_prefs/personalize_form.cpt, ./plone_prefs/reconfig_form.cpt
+#: elevateIT/skins/eIT_content/cmpgroup_add_form.cpt
+#: elevateIT/skins/eIT_content/file_edit_form.cpt
+#: eITAlertService/skins/eITAlertService/alert_addform.cpt
+msgid "Cancel"
+msgstr "Cancel"
+
+#. <input class="searchButton" i18n:attributes="value" id="searchButton"
+#. type="submit" value="Change"/>
+#: OSHA/skins/osha/global_languagebox.pt
+msgid "Change"
+msgstr "Change"
+
+#. <input class="context" i18n:attributes="value" name="check" tabindex=""
+#. tal:attributes="tabindex tabindex/next;" type="submit" value="Check
+#. entry"/>
+#: elevateIT/skins/eIT_forms/mail_password_form.pt
+msgid "Check entry"
+msgstr "Check entry"
+
+#. <a href="" i18n:attributes="title" onclick="handleClick(event, 'show it');
+#. return false" onkeypress="handleClick(event, 'show it'); return true"
+#. tal:attributes="href string:${here/portal_url}/network_overview"
+#. title="Click here to view our partner websites [opens popup window]">
+#: OSHA/skins/osha/portlet_oshnetwork.pt
+msgid "Click here to view our partner websites [opens popup window]"
+msgstr "Click here to view our partner websites [opens popup window]"
+
+#. <input class="context" i18n:attributes="value" name="form.button.Complete"
+#. tal:condition="isActor" type="submit" value="Complete"/>
+#: elevateIT/skins/eIT_workflow/activity_view.cpt
+#: elevateIT/skins/eIT_workflow/simple_process_decide_form.cpt
+msgid "Complete"
+msgstr "Complete"
+
+#. <input class="context" i18n:attributes="value"
+#. name="object_delete_lang:method" tabindex="" tal:attributes="tabindex
+#. tabindex/next" type="submit" value="Delete"/>
+#: elevateIT/skins/eIT_content/manage_languages_form.cpt
+#: elevateIT/skins/eIT_content/topicdocument_criteria_form.cpt
+#: elevateIT/skins/eIT_topic/topic_subtopics_form.cpt
+msgid "Delete"
+msgstr "Delete"
+
+#. <img alt="Agency logo" border="0" i18n:attributes="alt title"
+#. src="agency_portlet.gif" tal:attributes="src
+#. string:${here/portal_url}/img/agency_portlet.gif" title="European Agency
+#. for Safety and Health at Work"/>
+#: OSHA/skins/osha/portlet_oshainfo.pt
+msgid "European Agency for Safety and Health at Work"
+msgstr "European Agency for Safety and Health at Work"
+
+msgid "Required"
+msgstr "Required"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Save"
+msgstr "Save"
+
+
+#. <input class="context" i18n:attributes="value" name="submit" tabindex=""
+#. tal:attributes="tabindex tabindex/next;" type="submit" value="Search"/>
+#: elevateIT/skins/eIT_forms/advanced_search_form.pt
+#: elevateIT/skins/eIT_forms/user_quicksearch_form.cpt
+#: eITDynoContent/skins/eIT_dynocontent/dynocontainer_search_form.cpt
+msgid "Search"
+msgstr "Search"
+
+#. <link href="" i18n:attributes="title" rel="search" tal:attributes="href
+#. string:$portal_url/search_form" title="Search this site"/>
+#: eITNewsletterManager/skins/newsletter/newsletter_header.pt
+msgid "Search this site"
+msgstr "Search this site"
+
+#. <span class="hiddenLabel" i18n:translate="Select">
+# # 5 more: ./elevateIT/skins/eIT_content/metadataelement_contents.pt,
+# ./elevateIT/skins/eIT_content/navigation_contents.pt,
+# ./elevateIT/skins/eIT_forms/user_quicksearch_form.cpt,
+# ./elevateIT/skins/eIT_templates/folder_contents.pt,
+# ./OSHA/skins/osha/keywordListing.pt
+#: elevateIT/skins/eIT_content/configure_portlets_form.cpt
+#: elevateIT/skins/eIT_forms/user_quicksearch_form.cpt
+#: OSHA/skins/osha/keywordListing.pt
+msgid "Select"
+msgstr "Select"
+
+msgid "Visit our OSH Network"
+msgstr "Visit our OSH Network"
+
+msgid "Discover our European &amp; International Partners"
+msgstr "Discover our European &amp; International Partners"
+
+msgid "Yes"
+msgstr "Yes"
+
+#. <a href=" " i18n:domain="elevateIT" i18n:translate="action_advanced_search"
+#. tal:attributes="href string:$purl/search_form">
+#: OSHA/skins/osha/portlet_oshsearch.pt
+msgid "action_advanced_search"
+msgstr "Advanced search"
+
+#. <TITLE i18n:translate="alertservice_notification_service">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_notification_service"
+msgstr "Notification service"
+
+#. <span i18n:translate="alertservice_onlyfirst_shown">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+msgid "alertservice_onlyfirst_shown"
+msgstr "only the first ${number} are shown"
+
+#. <span i18n:translate="alertservice_requested_info">
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+#: OSHA/skins/osha/alert_notification_template.pt
+msgid "alertservice_requested_info"
+msgstr "You have requested info by the following parameters"
+
+#. <span i18n:translate="alertservice_results_found">
+# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
+#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
+msgid "alertservice_results_found"
+msgstr "Results have been found"
+
+#. <h1 class="heading_alphabetical_index" i18n:translate="alphabetical_index">
+#: OSHA/skins/osha/index_alphabetical.pt
+msgid "alphabetical_index"
+msgstr "Alphabetical index"
+
+#. <span i18n:translate="batch_x_items_matching_your_criteria">
+# # 1 more: ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/search.pt OSHA/skins/osha/search.pt
+#: OSHA/skins/osha/search_members.cpt
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} items match your criteria"
+
+
+#. <legend i18n:translate="box_about">
+#: elevateIT/skins/eIT_content/show_history.pt
+msgid "box_about"
+msgstr "About"
+
+#. <span i18n:translate="box_agency_fullname">
+#: OSHA/skins/osha/footer.pt
+msgid "box_agency_fullname"
+msgstr "European Agency for Safety and Health at Work"
+
+#. <label for="creator" i18n:translate="box_created_by">
+#: elevateIT/skins/eIT_content/show_history.pt
+msgid "box_created_by"
+msgstr "Created by"
+
+#. <label for="modification_date" i18n:translate="box_last_modified">
+#: elevateIT/skins/eIT_content/show_history.pt OSHA/skins/osha/footer.pt
+msgid "box_last_modified"
+msgstr "Last modified"
+
+#. <span i18n:translate="box_oshmail_subscribers">
+#: OSHA/skins/osha/portlet_oshmail.pt
+msgid "box_oshmail_subscribersrs"
+msgstr "subscribers"
+
+#. <span i18n:translate="box_provided_by">
+#: OSHA/skins/osha/footer.pt
+msgid "box_provided_by"
+msgstr "Information provided by"
+
+#. <span i18n:translate="box_this_url">
+#: OSHA/skins/osha/footer.pt
+msgid "box_this_url"
+msgstr "This document's URL"
+
+#. <a href="#" i18n:translate="button_alert_addsearchquery"
+#. tal:attributes="href string:${here/absolute_url}/alert_member_query_form;
+#. tabindex tabindex/next">
+#: eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+msgid "button_alert_addsearchquery"
+msgstr "Add new search query"
+
+#. <table cellpadding="0" cellspacing="0" class="calendarView"
+#. i18n:attributes="summary" summary="calendar day view" width="100%">
+#: eITCalendar/skins/eIT_calendar/calendar_day_view.pt
+msgid "calendar day view"
+msgstr "calendar day view"
+
+#. <div i18n:translate="calender_hopefully" metal:use-
+#. macro="here/calendar_slot/macros/calendarDatePickerBox">
+#: eITNews/skins/eIT_news/newsarticle_edit_form.cpt
+msgid "calender_hopefully"
+msgstr "calendar date picker box"
+
+#. <span i18n:domain="elevateIT" i18n:translate="copyright">
+#: OSHA/skins/osha/footer.pt
+msgid "copyright"
+msgstr "Copyright 1998-${thisyear} European Agency for Safety and Health at Work"
+
+#. <span class="hiddenFloatLabel" i18n:domain="elevateIT"
+#. i18n:translate="day">
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: elevateIT/skins/eIT_3rdParty/calendar/calendar_slot.pt
+msgid "day"
+msgstr "Day"
+
+#. <span i18n:translate="days">
+#: eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+msgid "days"
+msgstr "days"
+
+#. <a href="" i18n:translate="delete" tal:attributes="href
+#. python:here.absolute_url()+'/manage_deleteMessages'+chr(38)+'IMAPName='+imapname+chr(38)+'IMAPIds='+IMAPId">
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "delete"
+msgstr "delete"
+
+#. <p i18n:translate="description_advanced_search">
+#: elevateIT/skins/eIT_forms/advanced_search_form.pt
+msgid "description_advanced_search"
+msgstr "This search form enables you to find content on the site by specifying one or more search terms. <br/> Remember that you can use the quick search anytime, it's normally good enough, this search form is just if you want to be more specific."
+
+#. <strong i18n:translate="description_no_results_found">
+# # 1 more: ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/search.pt
+msgid "description_no_results_found"
+msgstr "No results were found."
+
+#. <tal:block i18n:translate="description_view_viewlet">
+#: Viewlet/skins/viewlets/viewlet_view.pt
+msgid "description_view_viewlet"
+msgstr "Click here to view the viewlet"
+
+#. <img alt="deselect" border="0" height="13" i18n:attributes="alt"
+#. src="minus_icon.gif" tal:attributes="src
+#. string:${here/portal_url}/minus_icon.gif" width="13"/>
+#: OSHA/skins/osha/portlet_refine_search.pt
+msgid "deselect"
+msgstr "deselect"
+
+#. <a href="" i18n:attributes="title" tal:attributes="href
+#. python:path+'?'+utiltool.stripQueryString(qs, [index[0]])" title="deselect
+#. this search parameter">
+#: OSHA/skins/osha/portlet_refine_search.pt
+msgid "deselect this search parameter"
+msgstr "deselect this search parameter"
+
+#. <a href="" i18n:translate="feature_back_to_mainpage" tal:attributes="href
+#. here/absolute_url">
+# # 3 more: ./OSHA/skins/osha/index_providers.pt,
+# ./OSHA/skins/osha/index_sme.pt, ./OSHA/skins/osha/index_topic.pt
+#: OSHA/skins/osha/index_nace.pt OSHA/skins/osha/index_providers.pt
+msgid "feature_back_to_mainpage"
+msgstr "Back to ${title} main page"
+
+#. <span i18n:translate="feedback_comment" tal:omit-tag="">
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: elevateIT/skins/eIT_templates/feedback_template.pt
+msgid "feedback_comment"
+msgstr "Comment"
+
+#. <span i18n:translate="feedback_country" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_country"
+msgstr "From country:"
+
+#. <span i18n:translate="feedback_from_name" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_from_name"
+msgstr "Name:"
+
+#. <span i18n:translate="feedback_link" tal:omit-tag="">
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: elevateIT/skins/eIT_templates/feedback_template.pt
+msgid "feedback_link"
+msgstr "Link"
+
+#. <div i18n:translate="feedback_mailtemplate_body" tal:omit-tag="">
+#: elevateIT/skins/eIT_templates/feedback_template.pt
+msgid "feedback_mailtemplate_body"
+msgstr "This feedback is sent by:"
+
+#. <span i18n:translate="feedback_organization_size" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_organization_size"
+msgstr "Organization size:"
+
+#. <span i18n:translate="feedback_sender" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_sender"
+msgstr "Type of sender:"
+
+#. <div i18n:translate="feedback_sender_mssg_1" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_1"
+msgstr "Dear Sir / Madam,"
+
+#. <div i18n:translate="feedback_sender_mssg_2" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_2"
+msgstr "Thank you for your feedback. We appreciate your comments about the European Agency for Safety and Health at Work and we try, wherever possible, to answer your emails. Unfortunately, due to the large volume of correspondence we receive, we are unable to offer a personal reply in each case. However, we read all your comments, and we use your feedback to improve our websites and services."
+
+#. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_3"
+msgstr "You can stay up to date with new developments to our website by visiting our “What’s New” pages [http://osha.eu.int/whats_new/index_en.htm] and subscribing to our electronic newsletter OSHmail [http://osha.eu.int/oshmail]. "
+
+#. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_from"
+msgstr "European Agency for Safety and Health at Work"
+
+#. <div i18n:translate="feedback_sender_mssg_thankyou" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template_sender.pt
+msgid "feedback_sender_mssg_thankyou"
+msgstr "Yours sincerely,"
+
+#. <div i18n:translate="feedback_sent_by" tal:omit-tag="">
+#: OSHA/skins/osha/feedback_template.pt
+msgid "feedback_sent_by"
+msgstr "This feedback is sent by:"
+
+
+#. <h1 class="documentFirstHeading"
+#. i18n:translate="heading_feedback_comments">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "heading_feedback_comments"
+msgstr "Comments"
+
+#. <h1 i18n:translate="heading_hierarchical_index">
+#: OSHA/skins/osha/index_hierarchical.pt
+msgid "heading_hierarchical_index"
+msgstr "Hierarchical index"
+
+#. <h1 i18n:translate="heading_search_results">
+# # 3 more: ./plone_forms/folder_localrole_form.pt,
+# ./plone_forms/member_search_results.pt, ./plone_forms/search.pt
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "heading_search_results"
+msgstr "Search results"
+
+#. <h1 i18n:translate="heading_send_page_to">
+#: elevateIT/skins/eIT_forms/sendto_form.cpt
+msgid "heading_send_page_to"
+msgstr "Send this page to somebody"
+
+#. <h1 i18n:translate="heading_simple_search">
+# # 1 more: ./OSHA/skins/osha/search_form.pt
+#: elevateIT/skins/eIT_forms/search_form.pt
+#: elevateIT/skins/eIT_forms/translation_search_form.pt
+msgid "heading_simple_search"
+msgstr "Search for content"
+
+#. <h1 i18n:translate="heading_site_error">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "heading_site_error"
+msgstr "Site error"
+
+#. <h1 class="documentFirstHeading" i18n:domain="elevateIT"
+#. i18n:translate="heading_siteupdate">
+#: OSHA/skins/osha/site_update.pt
+msgid "heading_siteupdate"
+msgstr "Site update"
+
+msgid "help_external_url"
+msgstr "You can enter an additional external URL here."
+
+#. <p i18n:translate="info_feedback_message_checkbefore">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "info_feedback_message_checkbefore"
+msgstr "Before you send a question, please check our ${link1} and ${link2} pages."
+
+#. <p i18n:translate="info_feedback_message_publications">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "info_feedback_message_publications"
+msgstr "All the Agency's publications are ${link} . We have no additional information apart from that which is on our network of websites."
+
+#. <p i18n:translate="info_feedback_message_writemessage">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "info_feedback_message_writemessage"
+msgstr "You can write to us in any of the 20 official EU languages, but please bear in mind that there may be some delay while we translate your message and our reply. Messages in English are likely to be answered more quickly because it is spoken by all Agency staff. We aim to answer questions as soon as possible."
+
+#. <label for="address" i18n:translate="label_address">
+#: OSHA/skins/osha/join_form.cpt
+msgid "label_address"
+msgstr "Address"
+
+#. <label for="Creator" i18n:translate="label_author">
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "label_author"
+msgstr "Author"
+
+#. <label for="AvailableLanguages" i18n:translate="label_available_languages">
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "label_available_languages"
+msgstr "Available languages"
+
+#. <label for="city" i18n:translate="label_city">
+#: OSHA/skins/osha/join_form.cpt
+msgid "label_city"
+msgstr "City"
+
+#. <span class="expired" i18n:translate="label_closed"
+#. tal:condition="not:here/isOpen">
+#: eITForum/skins/eIT_forum/discussionboard_contents.pt
+msgid "label_closed"
+msgstr "closed"
+
+#. <label for="comment" i18n:translate="label_comment">
+#: elevateIT/skins/eIT_forms/sendto_form.cpt
+msgid "label_comment"
+msgstr "Comment"
+
+#. <label for="comment" i18n:translate="label_comments">
+#: elevateIT/skins/eIT_forms/content_status_history.cpt
+msgid "label_comments"
+msgstr "Comments"
+
+#. <label for="contact" i18n:domain="elevateIT"
+#. i18n:translate="label_contact">
+#: eITNews/skins/eIT_news/newsarticle_edit_form.cpt
+msgid "label_contact"
+msgstr "Contact"
+
+#. <label for="osha_Country" i18n:translate="label_countries">
+#: OSHA/skins/osha/search_macros.pt
+msgid "label_countries"
+msgstr "Countries"
+
+#. <label for="country" i18n:translate="label_country">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_country"
+msgstr "Country"
+
+#. <label i18n:translate="label_creator">
+#: elevateIT/skins/eIT_workflow/start_simple_process_form.cpt
+msgid "label_creator"
+msgstr "Creator"
+
+#. <span i18n:translate="label_date">
+#: elevateIT/skins/eIT_content/syndocument_view.pt
+msgid "label_date"
+msgstr "Date"
+
+#. <label for="discussion_off" i18n:translate="label_discussion_disabled">
+#: elevateIT/skins/eIT_content/metadata_edit_form.cpt
+msgid "label_discussion_disabled"
+msgstr "Disabled"
+
+#. <label for="discussion_on" i18n:translate="label_discussion_enabled">
+#: elevateIT/skins/eIT_content/metadata_edit_form.cpt
+msgid "label_discussion_enabled"
+msgstr "Enabled"
+
+#. <label i18n:translate="label_email">
+# # 2 more: ./plone_prefs/personalize_form.cpt,
+# ./plone_prefs/prefs_user_details.pt
+#: elevateIT/skins/eIT_forms/configure_user_form.cpt
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_email"
+msgstr "E-mail"
+
+#. <th i18n:translate="label_email_address">
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "label_email_address"
+msgstr "E-mail address"
+
+#. <label for="error" i18n:translate="label_error">
+#: elevateIT/skins/eIT_forms/configure_user_form.cpt
+msgid "label_error"
+msgstr "Error"
+
+#. <dt i18n:translate="label_error_message">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "label_error_message"
+msgstr "Error message"
+
+
+
+#. <label for="slcFirstName" i18n:translate="label_first_name">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_first_name"
+msgstr "First name"
+
+#. <label for="ldapattr_slcFirstName" i18n:translate="label_firstname">
+#: elevateIT/skins/eIT_prefs/prefs_user_details.cpt
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "label_firstname"
+msgstr "First name"
+
+#. <label for="fullname" i18n:translate="label_full_name">
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_full_name"
+msgstr "Full name"
+
+#. <label for="fullname" i18n:translate="label_fullname">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_fullname"
+msgstr "Full name"
+
+#. <label i18n:translate="label_keywords">
+#: elevateIT/skins/eIT_content/metadata_edit_form.cpt
+#: elevateIT/skins/eIT_templates/search_macros.pt
+#: OSHA/skins/osha/search_macros.pt
+msgid "label_keywords"
+msgstr "Keywords"
+
+#. <label class="hiddenFloatLabel" for="source_language"
+#. i18n:translate="label_language">
+#: elevateIT/skins/eIT_content/manage_languages_form.cpt
+msgid "label_language"
+msgstr "Language"
+
+#. <label for="slcLastName" i18n:translate="label_last_name">
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
+#: elevateIT/skins/eIT_forms/join_form.cpt
+msgid "label_last_name"
+msgstr "Last name"
+
+#. <label for="lastname" i18n:domain="elevateIT"
+#. i18n:translate="label_lastname">
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "label_lastname"
+msgstr "Last name"
+
+#. <label for="link" i18n:translate="label_link">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_link"
+msgstr "Link"
+
+#. <label for="ldapattr_tumGeschlecht_m" i18n:translate="label_male">
+#: elevateIT/skins/eIT_forms/configure_user_form.cpt
+#: elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+msgid "label_male"
+msgstr "male"
+
+#. <span class="bold" i18n:translate="label_more_information">
+#: OSHA_ContentTypes/skins/osha_contenttypes/oshcontent_view.pt
+msgid "label_more_information"
+msgstr "More information"
+
+#. Original text
+#. More...
+msgid "label_more"
+msgstr "More..."
+
+#. <label for="title" i18n:translate="label_name">
+# # 1 more: ./plone_prefs/prefs_group_details.pt
+#: elevateIT/skins/eIT_content/cmpgroup_add_form.cpt
+msgid "label_name"
+msgstr "Name"
+
+msgid "label_required"
+msgstr "(Required)"
+
+#. <label for="search_term" i18n:translate="label_search_term">
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "label_search_term"
+msgstr "Search term"
+
+#. <label for="SearchableText" i18n:translate="label_search_text">
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "label_search_text"
+msgstr "Search text"
+
+#. <span class="hiddenLabel" i18n:translate="label_searchtext">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "label_searchtext"
+msgstr "Search text"
+
+#. <label for="sector" i18n:translate="label_sector">
+#: OSHA/skins/osha/join_form.cpt
+msgid "label_sector"
+msgstr "Sector"
+
+#. <option i18n:translate="label_select" value="Select">
+# # 1 more: ./plone_templates/folder_contents.pt
+#: elevateIT/skins/eIT_content/metadataelement_contents.pt
+msgid "label_select"
+msgstr "Select"
+
+#. <span i18n:translate="label_size">
+# # 1 more: ./plone_content/image_view.pt
+#: elevateIT/skins/eIT_content/file_view.pt
+msgid "label_size"
+msgstr "Size"
+
+#. <a class="hiddenStructure" href="#documentContent"
+#. i18n:translate="label_skiptocontent">
+#: eITNewsletterManager/skins/newsletter/newsletter_template.pt
+#: OSHA/skins/osha/main_template.pt
+msgid "label_skiptocontent"
+msgstr "Skip to content."
+
+#. <label for="subject" i18n:domain="elevateIT"
+#. i18n:translate="label_subject">
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "label_subject"
+msgstr "Subject"
+
+#. <label for="ldapattr_slcLastName" i18n:translate="label_surname">
+#: elevateIT/skins/eIT_prefs/prefs_user_details.cpt
+msgid "label_surname"
+msgstr "Last name"
+
+#. <label for="sender" i18n:translate="label_type_of_sender">
+#: OSHA/skins/osha/feedback_message_form.cpt
+msgid "label_type_of_sender"
+msgstr "I am ..."
+
+#. <label for="uri" i18n:translate="label_url">
+#: elevateIT/skins/eIT_content/link_edit_form.cpt
+msgid "label_url"
+msgstr "URL"
+
+#. <legend i18n:translate="legend_search_global">
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: elevateIT/skins/eIT_templates/search_macros.pt
+msgid "legend_search_global"
+msgstr "Global search"
+
+#. <legend i18n:translate="legend_search_standard_terms">
+#: elevateIT/skins/eIT_forms/advanced_search_form.pt
+msgid "legend_search_standard_terms"
+msgstr "Standard search terms"
+
+#. <legend i18n:translate="legend_search_terms">
+# # 1 more: ./plone_forms/search_form.pt
+#: elevateIT/skins/eIT_forms/folder_localrole_form.pt
+msgid "legend_search_terms"
+msgstr "Search terms"
+
+#. <a i18n:translate="link_breadcrumbs_home" tal:attributes="href portal_url">
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+#: OSHA/skins/osha/default_error_message.pt
+msgid "link_breadcrumbs_home"
+msgstr "Home"
+
+#. <span i18n:translate="link_news_exturl">
+#: eITNews/skins/eIT_news/newsboard_view.pt
+msgid "link_news_exturl"
+msgstr "Further details"
+
+#. <span i18n:translate="link_news_readmore">
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
+#: eITNews/skins/eIT_news/news.pt
+msgid "link_news_readmore"
+msgstr "Read more"
+
+#. <a href="" i18n:translate="link_newsboard_previousnews"
+#. tal:attributes="href string:${here/absolute_url}/newsboard_view_archive"
+#. xclass="link-parent">
+#: eITNews/skins/eIT_news/newsboard_view.pt
+msgid "link_newsboard_previousnews"
+msgstr "Show previous news"
+
+#. <a class="link-parent" href="" i18n:translate="link_newsboard_recentnews"
+#. tal:attributes="href string:${here/absolute_url}/newsboard_view">
+#: eITNews/skins/eIT_news/newsboard_view_archive.pt
+msgid "link_newsboard_recentnews"
+msgstr "Back to recent news"
+
+#. <a href="#top" i18n:translate="link_page_top">
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+#: OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+msgid "link_page_top"
+msgstr "Top of the page"
+
+#. <a class="bold" href="" i18n:translate="link_report_link"
+#. tal:attributes="href
+#. string:${here/absolute_url}/feedback_message_form?purpose=Report about a
+#. broken link'">
+#: OSHA/skins/osha/default_error_message.pt
+msgid "link_report_link"
+msgstr "report a broken link to the Portal team"
+
+#. <span class="hiddenFloatLabel" i18n:domain="elevateIT"
+#. i18n:translate="month">
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: elevateIT/skins/eIT_3rdParty/calendar/calendar_slot.pt
+msgid "month"
+msgstr "Month"
+
+#. <option i18n:translate="option_please_choose" value="">
+# # 1 more: ./OSHA/skins/osha/search_members_form.cpt
+#: OSHA/skins/osha/search_members_form.cpt
+msgid "option_please_choose"
+msgstr "Please choose"
+
+#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#: OSHA/skins/osha/portlet_oshainfo.pt
+msgid "osha_informationportlet_link"
+msgstr "Your link to Safety and Health at Work"
+
+#. <span i18n:translate="osha_networkportlet_info" style="font-size:80%">
+#: OSHA/skins/osha/portlet_oshnetwork.pt
+msgid "osha_networkportlet_info"
+msgstr "Our network contains websites worldwide providing national and institutional information on OSH"
+
+#. <a href="" i18n:translate="osha_networkportlet_link"
+#. onclick="handleClick(event, 'show it'); return false"
+#. onkeypress="handleClick(event, 'show it'); return true"
+#. tal:attributes="href string:${here/portal_url}/network_overview">
+#: OSHA/skins/osha/portlet_oshnetwork.pt
+msgid "osha_networkportlet_link"
+msgstr "Show partner websites"
+
+#. <label class="hiddenStructure" for="emailaddress"
+#. i18n:translate="portlet_oshmail_email">
+#: OSHA/skins/osha/portlet_oshmail.pt
+msgid "portlet_oshmail_email"
+msgstr "email address"
+
+#. <img alt="previous" height="11" i18n:attributes="alt"
+#. src="arrorLeftAlternative.gif" tal:attributes="src
+#. string:${portal_url}/arrowLeftAlternative.gif" width="7"/>
+#: eITWebMail/skins/eIT_webmail/message_view.pt
+msgid "previous"
+msgstr "previous"
+
+#. <label for="search_line" i18n:translate="search_term">
+#: eITWebMail/skins/eIT_webmail/webmail_search_form2.cpt
+msgid "search_term"
+msgstr "Search term"
+
+#. <span i18n:translate="searchresults">
+#: eITWebMail/skins/eIT_webmail/webmail_view.pt
+msgid "searchresults"
+msgstr "Search results"
+
+#. <div i18n:domain="elevateIT" i18n:translate="sendto_mailtemplate_body" tal
+#. :omit-tag="">
+#: elevateIT/skins/eIT_forms/send_mail_to_author.pt
+msgid "sendto_mailtemplate_body"
+msgstr "<p>This link is sent to you from ${portal_url} You are receiving this mail because someone read a page at ${portal_title} and thought it might interest you.</p> <p>It is sent by ${from_address} with the following comment:</p> <p>&quot; ${comment} &quot;</p> ${document_title}<br />  ${document_description}<br />  ${document_url}"
+
+#. Added on Fri Dec 17 12:37:55 2004
+#: None
+msgid "The OSH Network"
+msgstr "The OSH Network"
+
+msgid "Menu"
+msgstr "Menu"
+
+#. Added on Fri Dec 17 12:37:55 2004
+#: None
+msgid "Wealth of OSH information"
+msgstr "Wealth of OSH information"
+
+#. Added on Fri Dec 17 12:37:55 2004
+#: None
+msgid "Agency Information"
+msgstr "Agency Information"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_yesterday"
+msgstr "yesterday"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_last_week"
+msgstr "last week"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_last_month"
+msgstr "last month"
+
+#. Added on Fri Dec 17 12:38:29 2004
+#: None
+msgid "date_ever"
+msgstr "ever"
+
+#. Added on Fri Dec 17 12:38:47 2004
+#: None
+msgid "Close window"
+msgstr "Close window"
+
+#. Added on Fri Dec 17 12:39:06 2004
+#: None
+msgid "Refine Search"
+msgstr "Refine search"
+
+#. Added on Fri Dec 17 12:48:31 2004
+#: None
+msgid "label_position"
+msgstr "Position"
+
+#. Added on Fri Dec 17 12:48:31 2004
+#: None
+msgid "label_focalpoint"
+msgstr "Focal point"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_education"
+msgstr "Education"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_memberships"
+msgstr "Memberships"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_rewards"
+msgstr "Rewards"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "label_rewards"
+msgstr "Rewards"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_projects"
+msgstr "Projects"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "label_projects"
+msgstr "Projects"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "legend_publications"
+msgstr "Publications"
+
+#. Added on Fri Dec 17 12:48:35 2004
+#: None
+msgid "label_publications"
+msgstr "Publications"
+
+msgid "Your network to a safer and healthier working environment"
+msgstr "Your network to a safer and healthier working environment"
+
+msgid "Send to somebody"
+msgstr "Send to somebody"
+
+msgid "Link to our site"
+msgstr "Link to our site"
+
+msgid "Suggest interesting link"
+msgstr "Suggest interesting link"
+
+msgid "Report broken link"
+msgstr "Report broken link"
+
+msgid "Subscribe To Alert"
+msgstr "Subscribe to alert"
+
+msgid "txt_try_the"
+msgstr "Try the:"
+
+msgid "Looking for something specific?"
+msgstr "Looking for something specific?"
+
+#. <a href="" tal:attributes="href pub/absolute_url"
+#.    i18n:translate="download_full_publication">
+#: None
+msgid "download_full_publication"
+msgstr "Download the full publication in PDF format"
+
+##. <p class="header_link" 
+#.     i18n:translate="publication_read_our">Read our 
+#.     <a href="" i18n:name="pubtype" 
+#.     tal:attributes="href sub/absolute_url" 
+#.     tal:content="sub/Title" /></p>
+#: @@publications-list
+msgid "publication_read_our"
+msgstr "Read our ${pubtype}"
+
+#. <div class="pullquote" 
+#.     i18n:translate="all_agency_publications">
+#: @@publications-list
+msgid "all_agency_publications"
+msgstr "All of the Agency&acute;s publications can be downloaded free of charge."
+
+#: @@publications-list
+msgid "download_adobe_reader"
+msgstr "To be able to see our most recent PDF publications, you will need to have installed the latest version of the Adobe Acrobat Reader, available at ${reader_download}."
+
+#: @@publications-list
+msgid "label_eu_bookshop"
+msgstr "Access all the EU publications on the ${link_eu_bookshop}"
+
+#. <label for="path" i18n:translate="">Search only in this folder</label>
+#: Products/OSHA/skins/osha2/portlet_oshsearch.pt
+msgid "Search only in this folder"
+msgstr "Search only this folder"
+
+#. <p i18n:translate="info_extended_searchform">To perform a more
+#. detailed search try the <a href="advanced_search_form">
+#: osha/skins/osha2/search_form
+msgid "info_extended_searchform"
+msgstr "To perform a more detailled search try the ${url}"
+
+msgid "contact_us_personal"
+msgstr "If your question has not been answered with this standard reply, you may send us a personal message. Please proceed to the ${contact_form_name}."
+
+msgid "contact_form"
+msgstr "contact form"
+
+#. PDA version
+msgid "PDA version"
+msgstr "PDA version"
+
+msgid "label_archive"
+msgstr "Archive"
+
+msgid "portlet_campaign_ew2007_title"
+msgstr "European campaign 2007"
+
+msgid "portlet_campaign_ew2007_text"
+msgstr "Lighten the load!"
+
+# ERO
+msgid "European Risk Observatory"
+msgstr "European Risk Observatory"
+
+# Anticipating Change
+msgid "portlet_riskob_text"
+msgstr "Anticipating change!"
+
+# Most visited
+msgid "Most visited"
+msgstr "Most visited"
+
+msgid "portlet_oshsearch_advanced"
+msgstr "Advanced Search"
+
+msgid "portlet_oshsearch_atoz"
+msgstr "A-Z Index"
+
+msgid "Free Newsletter"
+msgstr "Free Newsletter"
+
+msgid "portlet_oshmail_text"
+msgstr "Monthly review of strategic news<br/> - Subscribe -"
+
+msgid "Alert Service"
+msgstr "Alert Service"
+
+# updated on topics ... subscribe
+msgid "portlet_alertservice_text"
+msgstr "Updates on topics of your choice<br/>- Subscribe -"
+
+msgid "Campaigns"
+msgstr "Campaigns"
+
+msgid "portlet_campaign_hwi_title"
+msgstr "Healthy Workplace Initiative"
+
+msgid "portlet_campaign_hwi_text"
+msgstr "Good for you - Good for business"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Broken Link"
+msgstr "Broken Link"
+
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Site&nbsp;Update"
+msgstr "Site Update"
+
+msgid "Site&nbsp;Map"
+msgstr "Site Map"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Translation&nbsp;Help"
+msgstr "Translation Help"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "box_firsttime"
+msgstr "First time here?"
+
+msgid "header_oshtopic_dynamic"
+msgstr "All ${portal_type} items on ${subject}"
+
+msgid "oshmail_header_subscribe"
+msgstr "Subscribe OSHMail"
+
+msgid "oshmail_header_unsubscribe"
+msgstr "Unsubscribe OSHMail"
+
+msgid "oshmail_label_enter_emaiL"
+msgstr "enter e-mail here"
+
+#. Default: "Agency's resources"
+msgid "heading_agencys_resources"
+msgstr "Agency's resources"
+
+#. Default: "Search in the USEFUL LINKS DATABASE"
+msgid "heading_search_useful_links"
+msgstr "Search in the USEFUL LINKS DATABASE"
+
+#. Default: "Search in the RISK ASSESSMENT TOOLS DATABASE"
+msgid "heading_search_risk_assessment_tools"
+msgstr "Search in the RISK ASSESSMENT TOOLS DATABASE"
+
+#. Default: "Search in the CASE STUDIES DATABASE"
+msgid "heading_search_case_studies"
+msgstr "Search in the CASE STUDIES DATABASE"
+
+#. Default: "Search in the PROVIDERS DATABASE"
+msgid "heading_search_providers"
+msgstr "Search in the PROVIDERS DATABASE"
+
+#. Default: "Filter your search by selecting one or more of the filters. You
+#. can always remove any filter again by selecting the empty entry or by
+#. clicking the Reset button."
+msgid "help_advanced_search"
+msgstr "Filter your search by selecting one or more of the filters. You can always remove any filter again by selecting the empty entry or by clicking the Reset button."
+
+#. Default: "Select the database types you want to search."
+msgid "help_advanced_search_database"
+msgstr "Select the database types you want to search."
+
+#. Default: "Category"
+msgid "label_category"
+msgstr "Category"
+
+#. Default: "Subcategory"
+msgid "label_subcategory"
+msgstr "Subcategory"
+
+#. Default: "Practical solutions"
+msgid "heading_practical_solutions"
+msgstr "Practical solutions"
+
+#. Default: "Publications"
+msgid "heading_publications"
+msgstr "Publications"
+
+#. Default: "Useful links"
+msgid "label_useful_links"
+msgstr "Useful links"
+
+#. Default: "Risk assessment tools"
+msgid "label_risk_assessment_tools"
+msgstr "Risk assessment tools"
+
+#. Default: "Case studies"
+msgid "label_case_studies"
+msgstr "Case studies"
+
+#. Default: "Providers"
+msgid "label_providers"
+msgstr "Providers"
+
+#. Default: "Topics"
+msgid "heading_topics"
+msgstr "Topics"
+
+#. Default: "Latest additions"
+msgid "heading_latest_additions"
+msgstr "Latest additions"
+
+#. Default: "Languages"
+msgid "label_languages"
+msgstr "Languages"
+
+#. Default: "See also"
+msgid "label_see_also"
+msgstr "See also"
+
+#. Default: "Authorities"
+msgid "heading_authorities"
+msgstr "Authorities"
+
+#. Default: "Social Partners"
+msgid "heading_social_partners"
+msgstr "Social Partners"
+
+#. Default: "Research organisations"
+msgid "heading_research_organisations"
+msgstr "Research organisations"
+
+#. Default: "Other national sites"
+msgid "heading_other_national_sites"
+msgstr "Other national sites"
+
+#. Default: "More related content"
+msgid "heading_more_related_content"
+msgstr "More related content"
+
+#. Default: "Upcoming Events"
+#: CMFPlone/skins/plone_deprecated/portlet_events.pt:16
+msgid "box_events"
+msgstr "Upcoming Events"
+
+# Press Room
+msgid "osha_label_pressbox_pressreleases"
+msgstr "Press Releases"
+
+msgid "osha_description_pressbox_pressreleases"
+msgstr "These are our press releases:"
+
+msgid "osha_label_pressbox_campaigns"
+msgstr "Campaigns"
+
+msgid "osha_label_pressbox_photos"
+msgstr "Images and Audiovisual"
+
+msgid "osha_label_pressbox_articles"
+msgstr "Articles and Interviews"
+
+msgid "osha_label_pressbox_aboutus"
+msgstr "About Us"
+
+msgid "osha_label_pressbox_publications"
+msgstr "Publications"
+
+msgid "label_pressroom_link"
+msgstr "Back to the press room"
+
+# FOP
+
+# FOP Portlets osa.fop
+        
+# Default "Further information"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.pt
+msgid "label_main_fop_website"
+msgstr "Further information"
+        
+# Default "Belgian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_belgium"
+msgstr "Belgian Focal Point"
+
+# Default "Bulgarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_bulgaria"
+msgstr "Bulgarian Focal Point"
+
+# Default "Czech Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_czech-republic"
+msgstr "Czech Focal Point"
+
+# Default "Danish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_denmark"
+msgstr "Danish Focal Point"
+
+# Default "German Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_germany"
+msgstr "German Focal Point"
+
+# Default "Estonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_estonia"
+msgstr "Estonian Focal Point"
+
+# Default "Irish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_ireland"
+msgstr "Irish Focal Point"
+
+# Default "Greek Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_greece"
+msgstr "Greek Focal Point"
+
+# Default "Spanish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_spain"
+msgstr "Spanish Focal Point"
+
+# Default "French Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_france"
+msgstr "French Focal Point"
+
+# Default "Italian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_italy"
+msgstr "Italian Focal Point"
+
+# Default "Cypriot Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_cyprus"
+msgstr "Cypriot Focal Point"
+
+# Default "Latvian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_latvia"
+msgstr "Latvian Focal Point"
+
+# Default "Lithuanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_lithuania"
+msgstr "Lithuanian Focal Point"
+
+# Default "Luxembourgish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_luxembourg"
+msgstr "Luxembourgish Focal Point"
+
+# Default "Hungarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_hungary"
+msgstr "Hungarian Focal Point"
+
+# Default "Maltese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_malta"
+msgstr "Maltese Focal Point"
+
+# Default "Dutch Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_netherlands"
+msgstr "Dutch Focal Point"
+
+# Default "Austrian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_austria"
+msgstr "Austrian Focal Point"
+
+# Default "Polish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_poland"
+msgstr "Polish Focal Point"
+
+# Default "Portuguese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_portugal"
+msgstr "Portuguese Focal Point"
+
+# Default "Romanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_romania"
+msgstr "Romanian Focal Point"
+
+# Default "Slovenian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_slovenia"
+msgstr "Slovenian Focal Point"
+
+# Default "Slovakian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_slovakia"
+msgstr "Slovakian Focal Point"
+
+# Default "Finnish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_finland"
+msgstr "Finnish Focal Point"
+
+# Default "Swedish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_sweden"
+msgstr "Swedish Focal Point"
+
+# Default "British Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_united-kingdom"
+msgstr "British Focal Point"
+
+# Default "Icelandic Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_iceland"
+msgstr "Icelandic Focal Point"
+
+# Default "Liechtenstein Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_liechtenstein"
+msgstr "Liechtenstein Focal Point"
+
+# Default "Norwegian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_norway"
+msgstr "Norwegian Focal Point"
+
+# Default "Swiss Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_switzerland"
+msgstr "Swiss Focal Point"
+
+# Default "Croatian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_croatia"
+msgstr "Croatian Focal Point"
+
+# Default "Macedonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
+msgstr "Macedonian Focal Point"
+
+# Default "Turkish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_turkey"
+msgstr "Turkish Focal Point"
+
+# Default "Albanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_albania"
+msgstr "Albanian Focal Point"
+
+# Default "Bosnian, Herzegovinian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
+msgstr "Bosnian, Herzegovinian Focal Point"
+
+# Default "Kosovar Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
+msgstr "Kosovar Focal Point"
+
+# Default "Montenegrin Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_montenegro"
+msgstr "Montenegrin Focal Point"
+
+# Default "Serbian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+msgid "heading_main_fop_portlet_serbia"
+msgstr "Serbian Focal Point"
+
+# Default "Check for more results in EN"
+# osha/theme/browser/templates/publicationsearch.pt
+# osha/theme/browser/templates/practical_solution.pt
+msgid "label_more_results_in_en"
+msgstr "Check for more results in EN"      
+
+
+# Default "Back to the Focal Points overview"
+msgid "label_back_to_fop_overview"
+msgstr "Back to the Focal Points overview"
+
+msgid "label_publications_by_type"
+msgstr "Publications – sorted by type of publication"
+
+# oshmail
+
+
+msgid "osha_label_eu_media_coverage"
+msgstr "EU media coverage"
+
+msgid "oshmail_intro_welcome"
+msgstr "Welcome to ${oshmail}, the electronic newsletter issued by the European Agency for Safety and Health at Work."
+
+msgid "oshmail_intro_every_month"
+msgstr "Every month, ${oshmail} informs you of the latest developments in occupational safety and health:"
+
+msgid "oshmail_list_1"
+msgstr "the latest safety and health news from around the world;"
+
+msgid "oshmail_list_3"
+msgstr "updates on campaigns and activities organised by the Agency;"
+
+msgid "oshmail_list_4"
+msgstr "forthcoming events;"
+
+msgid "oshmail_list_5"
+msgstr "the latest Agency publications;"
+
+msgid "oshmail_list_6"
+msgstr "updates on EU legislation;"
+
+msgid "oshmail_list_7"
+msgstr "in 22 languages..."
+
+msgid "label_latest_issue"
+msgstr "Latest issue"
+
+msgid "label_previous_issues"
+msgstr "previous issues"
+
+# Load older newsletters.
+msgid "label_load_older"
+msgstr "Load ${link}."
+
+msgid "label_older_newsletters"
+msgstr "older newsletters"
+
+msgid "label_competitions"
+msgstr "Competitions"
+msgid "label_more_competitions"
+msgstr "More competitions"
+msgid "label_older_competitions"
+msgstr "older competitions"
+msgid "label_ongoing_competitions"
+msgstr "Ongoing competitions"
+msgid "label_learn_more"
+msgstr "Learn more"
+msgid "label_closed_competitions"
+msgstr "Closed competitions"
+msgid "label_upcoming_competitions"
+msgstr "Upcoming competitions"
+
+####
+# Alertservice
+
+
+msgid "label_subjects_of_interest"
+msgstr "Subjects of interest"
+
+msgid "label_item_type"
+msgstr "Item type"
+
+msgid "daily"
+msgstr "daily"
+
+msgid "weekly"
+msgstr "weekly"
+
+msgid "monthly"
+msgstr "monthly"
+
+msgid "OSH Link"
+msgstr "OSH Link"
+
+msgid "Publication"
+msgstr "Publication"
+
+msgid "Case Study"
+msgstr "Case Study"
+
+msgid "label_additional_languages"
+msgstr "Additional languages"
+
+msgid "select_multiple_help"
+msgstr "In order to choose more than one item from the list, press the key 'control' on your keyboard, and select the item with your mouse."
+
+msgid "description_alertservice_languageselector"
+msgstr "Alerts are sent in English. If the content is translated, you can choose to receive it in additional languages."
+
+msgid "description_subscribe_oshmail"
+msgstr "I also want to receive OSHmail, the free monthly newsletter"
+
+msgid "oshmail_learn_more"
+msgstr "learn more..."
+
+msgid "alertservice_notification_report"
+msgstr "OSHA Notification Report"
+
+msgid "alert_label_more"
+msgstr "More"
+
+msgid "alertservice_alert_request"
+msgstr "EU-OSHA received a request to start sending alerts to"
+
+msgid "alertservice_verify_request"
+msgstr "Verify this EU-OSHA alert request:"
+
+msgid "alertservice_cancel_request"
+msgstr "Cancel this EU-OSHA alert request:"
+
+msgid "alertservice_alternative_verification"
+msgstr "If you are not able to click on the link, you can cut and paste it into your browser's address bar."
+
+msgid "alertservice_ignore"
+msgstr "If you did not initiate this request or believe it was sent in error you can safely ignore this message."
+
+msgid "alertservice_email_footer1"
+msgstr "Thanks,"
+
+msgid "alertservice_email_footer2"
+msgstr "The EU-OSHA Alerts Team"
+
+
+#############################################
+## keywords
+#############################################
+
+msgid "accident_prevention"
+msgstr "Accident Prevention"
+
+msgid "ageing"
+msgstr "Ageing workers"
+
+msgid "agriculture"
+msgstr "Agriculture"
+
+msgid "businessOSH"
+msgstr "Business aspects of OSH"
+
+msgid "cleaners"
+msgstr "Cleaning workers"
+
+msgid "construction"
+msgstr "Construction"
+
+msgid "csr"
+msgstr "Corporate Social Responsibility"
+
+msgid "cww"
+msgstr "Changing world of work"
+
+msgid "dangerous_substances"
+msgstr "Dangerous substances"
+
+msgid "disability"
+msgstr "Disabled people"
+
+msgid "education"
+msgstr "Education"
+
+msgid "emerging_risks"
+msgstr "Emerging risks"
+
+msgid "fisheries"
+msgstr "Fisheries"
+
+msgid "gender"
+msgstr "Gender"
+
+msgid "healthcare"
+msgstr "Health care"
+
+msgid "horeca"
+msgstr "Horeca"
+
+msgid "hwi"
+msgstr "Healthy workplaces"
+
+msgid "legislation"
+msgstr "Legislation"
+
+msgid "msd"
+msgstr "Musculoskeletal Disorders"
+
+msgid "noise"
+msgstr "Noise"
+
+msgid "organisation"
+msgstr "Organisation and strategies"
+
+msgid "osheducation"
+msgstr "Mainstreaming OSH into Education"
+
+msgid "research"
+msgstr "Research"
+
+msgid "risks"
+msgstr "Emerging Risks"
+
+msgid "risk_assessment"
+msgstr "Risk assessment"
+
+msgid "risk_observatory"
+msgstr "Risk observatory"
+
+msgid "road_transport"
+msgstr "Road Transport"
+
+msgid "statistics"
+msgstr "Statistics"
+
+msgid "stress"
+msgstr "Stress"
+
+msgid "transport"
+msgstr "Transport"
+
+msgid "young_people"
+msgstr "Young people"
+
+msgid "whp"
+msgstr "Workplace Health Promotion"
+
+msgid "maintenance"
+msgstr "Maintenance"
+
+msgid "migrant_workers"
+msgstr "Migrant Workers"
+
+msgid "nanotechnology"
+msgstr "Nanotechnology"
+
+msgid "prevention"
+msgstr "Prevention"
+
+msgid "economic_incentives"
+msgstr "Economic incentives"
+
+####
+
+msgid "Our Events"
+msgstr "Our Events"
+
+
+####
+# NAPO
+
+
+msgid "title_napo_episode_1_0"
+msgstr "Best signs story"
+
+msgid "title_napo_episode_1_1"
+msgstr "Danger"
+
+msgid "title_napo_episode_1_2"
+msgstr "Danger - suspended load  "
+
+msgid "title_napo_episode_1_3"
+msgstr "Danger - fork-lift trucks  "
+
+msgid "title_napo_episode_1_4"
+msgstr "Prohibition signs"
+
+msgid "title_napo_episode_1_5"
+msgstr "No smoking"
+
+msgid "title_napo_episode_1_6"
+msgstr "No fork-lift trucks  "
+
+msgid "title_napo_episode_1_7"
+msgstr "Mandantory signs"
+
+msgid "title_napo_episode_1_8"
+msgstr "Safety goggles must be worn  "
+
+msgid "title_napo_episode_1_9"
+msgstr "Hearing protection must be worn  "
+
+msgid "title_napo_episode_1_10"
+msgstr "Safety helmet must be worn  "
+
+msgid "title_napo_episode_1_11"
+msgstr "Rescue signs"
+
+msgid "title_napo_episode_1_12"
+msgstr "Rescue route  "
+
+msgid "title_napo_episode_1_13"
+msgstr "First aid  "
+
+msgid "title_napo_episode_1_14"
+msgstr "Fire protection signs"
+
+msgid "title_napo_episode_1_15"
+msgstr "Fire-extinguishing equipment  "
+
+msgid "title_napo_episode_1_16"
+msgstr "Fire alarm system  "
+
+msgid "title_napo_episode_1_17"
+msgstr "The end"
+
+msgid "title_napo_episode_2_0"
+msgstr "The adventures of NAPO  "
+
+msgid "title_napo_episode_2_1"
+msgstr "The importance of signposting"
+
+msgid "title_napo_episode_2_2"
+msgstr "Signposting is not sufficient"
+
+msgid "title_napo_episode_2_3"
+msgstr "Labels should be read"
+
+msgid "title_napo_episode_2_4"
+msgstr "Choose public transports"
+
+msgid "title_napo_episode_2_5"
+msgstr "The right protection at the right time"
+
+msgid "title_napo_episode_2_6"
+msgstr "Improvising means risk taking"
+
+msgid "title_napo_episode_2_7"
+msgstr "Each product has its own packaging"
+
+msgid "title_napo_episode_2_8"
+msgstr "Too much pressure is likely to be harmful"
+
+msgid "title_napo_episode_2_9"
+msgstr "Unsuitable material + incompetence = accident"
+
+msgid "title_napo_episode_3_0"
+msgstr "Scratch and sniff - chemical risks at work"
+
+msgid "title_napo_episode_3_1"
+msgstr "Harmful"
+
+msgid "title_napo_episode_3_2"
+msgstr "Irritant"
+
+msgid "title_napo_episode_3_3"
+msgstr "Flammable"
+
+msgid "title_napo_episode_3_4"
+msgstr "Corrosive"
+
+msgid "title_napo_episode_3_5"
+msgstr "Toxic"
+
+msgid "title_napo_episode_3_6"
+msgstr "Dangerous for the environment"
+
+msgid "title_napo_episode_3_7"
+msgstr "The end"
+
+msgid "title_napo_episode_4_0"
+msgstr "Clean Sweep"
+
+msgid "title_napo_episode_4_1"
+msgstr "Change of plan"
+
+msgid "title_napo_episode_4_2"
+msgstr "Work at height"
+
+msgid "title_napo_episode_4_3"
+msgstr "Enough is enough"
+
+msgid "title_napo_episode_4_4"
+msgstr "Safety plan"
+
+msgid "title_napo_episode_4_5"
+msgstr "Yellow card"
+
+msgid "title_napo_episode_4_6"
+msgstr "Bodybuilding"
+
+msgid "title_napo_episode_4_7"
+msgstr "Safety angels"
+
+msgid "title_napo_episode_4_8"
+msgstr "The end"
+
+
+msgid "title_napo_episode_5_0"
+msgstr "Napo - safe on site"
+
+msgid "title_napo_episode_5_1"
+msgstr "Building in safety"
+
+msgid "title_napo_episode_5_2"
+msgstr "Don't fall for it"
+
+msgid "title_napo_episode_5_3"
+msgstr "Heading for a fall"
+
+msgid "title_napo_episode_5_4"
+msgstr "Champions of the world"
+
+msgid "title_napo_episode_5_5"
+msgstr "Lightning strike"
+
+msgid "title_napo_episode_5_6"
+msgstr "Keep them apart"
+
+msgid "title_napo_episode_5_7"
+msgstr "Five star treatment"
+
+msgid "title_napo_episode_5_8"
+msgstr "Bad dream"
+
+msgid "title_napo_episode_5_9"
+msgstr "Safe landing"
+
+msgid "title_napo_episode_6_0"
+msgstr "Napo in stop that noise !"
+
+msgid "title_napo_episode_6_1"
+msgstr "Irreparable"
+
+msgid "title_napo_episode_6_2"
+msgstr "Didn't hear it coming "
+
+msgid "title_napo_episode_6_3"
+msgstr "Noise in the office"
+
+msgid "title_napo_episode_6_4"
+msgstr "Problem pregnancy"
+
+msgid "title_napo_episode_6_5"
+msgstr "Out in the cold"
+
+msgid "title_napo_episode_6_6"
+msgstr "Don't make things worse"
+
+msgid "title_napo_episode_6_7"
+msgstr "The end"
+
+msgid "title_napo_episode_7_0"
+msgstr "Safe start"
+
+msgid "title_napo_episode_7_1"
+msgstr "Don't hesitate to ask questions"
+
+msgid "title_napo_episode_7_2"
+msgstr "Attention listen up"
+
+msgid "title_napo_episode_7_3"
+msgstr "Information overload"
+
+msgid "title_napo_episode_7_4"
+msgstr "Watch out for others too"
+
+msgid "title_napo_episode_7_5"
+msgstr "Overconfidence is dangerous"
+
+msgid "title_napo_episode_7_6"
+msgstr "The end"
+
+msgid "title_napo_episode_8_0"
+msgstr "Start"
+
+msgid "title_napo_episode_8_1"
+msgstr "Modern stressful times"
+
+msgid "title_napo_episode_8_2"
+msgstr "Divide and rule"
+
+msgid "title_napo_episode_8_3"
+msgstr "Radical ergonomics"
+
+msgid "title_napo_episode_8_4"
+msgstr "Twist and shout"
+
+msgid "title_napo_episode_8_5"
+msgstr "No grip"
+
+msgid "title_napo_episode_8_6"
+msgstr "Working height"
+
+msgid "title_napo_episode_8_7"
+msgstr "Bad vibrations"
+
+msgid "title_napo_episode_8_8"
+msgstr "The duel"
+
+msgid "title_napo_episode_8_9"
+msgstr "Think to move"
+
+msgid "title_napo_episode_8_10"
+msgstr "Hold me tight"
+
+msgid "title_napo_episode_8_11"
+msgstr "The end"
+
+msgid "title_napo_episode_9_0"
+msgstr "Introduction"
+
+msgid "title_napo_episode_9_1"
+msgstr "Assess the risk"
+
+msgid "title_napo_episode_9_2"
+msgstr "Identify the unknown"
+
+msgid "title_napo_episode_9_3"
+msgstr "Act on risks"
+
+msgid "title_napo_episode_9_4"
+msgstr "Risky combination"
+
+msgid "title_napo_episode_9_5"
+msgstr "Eliminate the hazard"
+
+msgid "title_napo_episode_9_6"
+msgstr "Safety pays"
+
+msgid "title_napo_episode_9_7"
+msgstr "The end"
+
+msgid "title_napo_film_1"
+msgstr "Best Signs Story"
+
+msgid "description_napo_film_1"
+msgstr "The first film in the Napo series provides a basic introduction to health and safety signs and symbols found in the workplace. It provides a useful guide for new employees and a valuable refresher for other workers. Different workplace situations are shown where safety signs are important. This film is suitable for all sectors and all levels of employees but especially for young people in training or work experience.<br/><br/>It is designed to inform the audience about safety signs at work, to promote the importance of respecting the signs, and to learn and identify the meaning of the signs through their form and the colour. There are thirteen sketches. Each sketch concerns a working situation where Napo is confronted by the signs that come to life to teach him their meaning and the importance of safety. The sequences show what happens if the signs are not obeyed, and the technical and organisational obstacles against the efficient working of the signs."
+
+msgid "title_napo_film_2"
+msgstr "The Adventures of Napo"
+
+msgid "description_napo_film_2"
+msgstr "The film looks at common risks in the workplace and is ideal for young people who have little or no experience of work. It highlights risk awareness, the need to work safely and the importance or training.This film is suitable for all sectors and for all levels of employees but especially for young people in training or work experience.The objectives are to raise awareness of basic risks and to invite the audience to reflect about accidents and discuss how they can be prevented.There are nine misadventures and each is typical of an individual or collective risk in an enterprise. The film highlights the importance of accurately signposting risks, understanding warning labels, safety when traveling to and from work, the use of appropriate personal protective equipment, not taking risks, using the correct and most appropriate packaging, the importance of not taking short cuts and the importance of work equipment being operated by trained workers."
+
+msgid "title_napo_film_3"
+msgstr "Scratch and Sniff - Chemical Risks at Work"
+
+msgid "description_napo_film_3"
+msgstr "Napo is involved in a series of short sketches working with chemicals, including those that are irritants, flammable, corrosive, toxic or a danger to the environment. Each sketch is followed by a brief sequence showing how to prevent accidents by safe working practices.This film is suitable for all sectors and all levels of employees but especially for young people in training and work experience.The objective is to draw attention to the importance of labeling chemical products. Napo is confronted with using chemical substances. Six sequences show first the wrong way with the serious consequences then the right way by respecting the safety instructions. The film covers six of the nine safety symbols, and covers briefly the risk of explosives."
+
+msgid "title_napo_film_4"
+msgstr "Napo in Safe on Site"
+
+msgid "description_napo_film_4"
+msgstr "Napo is working on a construction site and the film shows some of the common hazards and risks on site. As an employee, Napo is faced with many hazardous situations but manages to survive his ordeal.The film is produced for building and construction workers but is suitable for all sectors and all levels of employees, especially young people in training and work experience.The objectives are to raise awareness of the most frequent risks found on a building site and to give the opportunity to reflect on prevention measures adapted to the situation. The introduction shows different characters, Napo as a building worker, a colleague, the boss and the architect. Different risk situations are shown in seven short stories. Anti chute, falls from height, obstacle course, back pain, organisation of transport routes, hygiene and security of the site."
+
+msgid "title_napo_film_5"
+msgstr "Napo in Clean Sweep"
+
+msgid "description_napo_film_5"
+msgstr "This film shows the health and safety risks faced by workers in the cleaning and contracting industry including slips and trips, falls, manual handling and working alone.The target audience is cleaning contractors and enterprises but the film is suitable for all sectors and all levels of employees, especially young people in training and work experience.The objectives are to make people aware of the common risks in cleaning, and the opportunity to indicate prevention measures.Sometimes Napo takes care and at other times he takes risks. With Nanette, his colleague, his boss and the clients, he faces different levels of risk. The situations give the opportunity to speak about the organisation and planning of the work, safety signs, using ladders and steps, manual handling problems, working together, and circulation of information."
+
+msgid "title_napo_film_6"
+msgstr "Napo in Stop that Noise"
+
+msgid "description_napo_film_6"
+msgstr "Noise at work affects thousands of workers. The film is designed to illustrate some of the main causes of hearing loss and to emphasise the need to control noise at source, to take preventive measures and to wear appropriate hearing protection when necessary.This film is suitable for all sectors and all levels of employees but especially for young people in training and work experience."
+
+
+msgid "title_napo_film_7"
+msgstr "Napo in Safe Start"
+
+msgid "description_napo_film_7"
+msgstr "The film is designed to raise awareness of the issues faced by young people starting a new job or starting in a new work place. Napo is an ideal way to reach a young audience, especially young people in training or work experience. The film is also suitable for all new entrants to the labour market, including migrant and temporary workers.There are seven scenes showing typical situations faced by a new entrant to the workplace."
+
+msgid "title_napo_film_8"
+msgstr "Napo in Lighten the Load"
+
+msgid "description_napo_film_8"
+msgstr "Musculoskeletal disorders (MSDs) are the most common work-related health problem in Europe, affecting millions of workers - at some point in their life as many as 90 percent of people will suffer from back pain, upper limb disorders, and repetitive strain injuries.<br/><br/> 'Lighten the load' supports an integrated management approach to tackling MSDs, and the need to address the 'whole load on the body', which covers all the stresses and strains, environmental factors such as cold working conditions, the pace at which the work is being carried out, and the load being moved.<br/> The film shows Napo confronting different work situations and is suitable for all workers, including migrant and temporary workers. There are eleven scenes showing typical situations faced in the workplace."
+
+msgid "title_napo_film_9"
+msgstr "Napo in Risky Business"
+
+msgid "description_napo_film_9"
+msgstr "Risk assessment is the theme of the European campaign in 2008/09. Risky business is a about hazards and risks at work, and the need to assess risks and act on the findings to make workplaces safer and healthier. The film looks at hazards and some of the most common workplace risks, and the need to: ‘Stop, Think and Act’ to reduce the number of workplace accidents and the incidence of occupational ill health. The film is designed for use as a training aid to introduce risk assessment and the concepts of hazard and risk."
+
+msgid "title_napo_film_11"
+msgstr "Napo in: \"Safety in… and outside of work\""
+
+msgid "description_napo_film_11"
+msgstr "<p>The film tells the story of Napo, a model workman. After work, however, he ignores the risks and rules in different situations. This leads to many near-accidents and finally to a sports injury that lands Napo in hospital. The leisure time situations cover driving, home, lifestyle, social and sport. A short quiz is available to download from the website (or DVD), and can be used to go over some of the rules with the audience.</p><p>The primary target audience for this Napo film is the employees in a firm. It is intended as a tool to deal with the subject of leisure time safety. But the film is also suited for management training in connection with absence management.</p>"
+
+
+msgid "label_napo_view_episodes"
+msgstr "View episodes"
+
+msgid "label_napo_click_to_see_film"
+msgstr "Click the image to see the film..."
+
+msgid "label_napo_download_film_as"
+msgstr "Download this film as"
+
+msgid "label_napo_download_episode_as"
+msgstr "Download this film as"
+
+msgid "label_avi"
+msgstr "AVI"
+
+msgid "label_wmv"
+msgstr "WMV"
+
+msgid "label_or"
+msgstr "or"
+
+
+
+# ---------- New Napo Film Number 12    Danger: Chemicals
+msgid "title_napo_film_12"
+msgstr "Napo in... Danger: chemicals!"
+
+msgid "description_napo_film_12"
+msgstr "<p>This film is a revised version of ‘Scratch and Sniff – chemical risks at work’ produced in 2003. It introduces changes to harmonise the signs (pictograms) used in the transport of dangerous goods and the signs used in product classification, labelling and packaging (CLP) of chemicals. The existing seven pictograms are to be replaced with nine.</p><p>The key dates are: 1 December 2010, when substances must be reclassified and labelled in line with the new global system (GHS); and 1 June 2015, when the same process will be applied to mixtures (formerly called preparations).</p><p>Napo is involved in a series of short sketches working with chemicals, including those that are irritants, flammable, corrosive, toxic or a danger to the environment. Each sketch is followed by a brief sequence showing how to prevent accidents by safe working practices. This film is suitable for all sectors and all levels of employees. The objective is to draw attention to the importance of labelling chemical products. After an explosive opening scene, six sequences show first the wrong way with the serious consequences then the right way by respecting the safety instructions. </p>"
+
+msgid "title_napo_episode_12_1"
+msgstr "Chemical risks at work"
+
+msgid "title_napo_episode_12_2"
+msgstr "Harmful"
+
+msgid "title_napo_episode_12_3"
+msgstr "Irritant"
+
+msgid "title_napo_episode_12_4"
+msgstr "Flammable"
+
+msgid "title_napo_episode_12_5"
+msgstr "Corrosive"
+
+msgid "title_napo_episode_12_6"
+msgstr "Toxic"
+
+msgid "title_napo_episode_12_7"
+msgstr "Dangerous for the environment"
+
+msgid "title_napo_episode_12_8"
+msgstr "The end"
+
+
+# ---------- New Napo Film Number 13    Protect your Skin
+msgid "title_napo_film_13"
+msgstr "Napo in... Protect your skin!"
+
+msgid "description_napo_film_13"
+msgstr "<p>The film raises awareness of the dangers of exposing the skin to harmful (and sometimes not so harmful) substances, the situations where exposures occur, and what can be done to avoid risks, protect the skin and prevent damage. Napo discovers many different situations where exposure to chemicals and other substances can cause skin problems. He learns about the amazing qualities of the skin, and strips naked to show the audience: ‘Everything you always wanted to know about... your skin’. He identifies measures to prevent problems and has three important messages: Avoid – Protect – Check.</p><p>Avoiding or minimising contact with chemicals is achieved through elimination - using a mechanical method instead of a chemical one; by substitution - using a safer alternative; and by employing a safe working distance - using tools rather than handling directly. Personal protective equipment (PPE) is designed to protect the skin but Napo reminds us of the importance of taking care of the skin by showing prompt removal of contamination, washing skin properly, drying skin thoroughly and applying skin creams regularly.Finally Napo recommends regular checks for early signs of skin problems. </p>"
+
+
+# ---------- New Napo Film Number 14   Safe Maintenance 
+msgid "title_napo_film_14"
+msgstr "Napo in... Safe maintenance"
+
+msgid "description_napo_film_14"
+msgstr "<p>Poor standards of maintenance are a major cause of accidents and occupational diseases. Many accidents happen during maintenance work, or because of lack of maintenance or as a result of poor quality maintenance.</p><p>This film shows Napo in a variety of situations; sometimes he is the maintenance worker, at other times he is an employee. We see the importance of isolating or ‘lock-off’ when maintenance is being carried out on machinery, the problems of ‘hidden hazards’, work in confined spaces, and the importance of competent persons carrying out maintenance work, particularly inspection and testing.</p> <p>This film, which is suitable for all sectors and all levels of employees, seeks to promote good practice and draws attention to the importance of safe maintenance. </p>"
+
+msgid "title_napo_episode_14_1"
+msgstr "Lock out"
+
+msgid "title_napo_episode_14_2"
+msgstr "Hidden hazards"
+
+msgid "title_napo_episode_14_3"
+msgstr "Don’t improvise!"
+
+msgid "title_napo_episode_14_4"
+msgstr "In a rush"
+
+msgid "title_napo_episode_14_5"
+msgstr "Danger within!"
+
+msgid "title_napo_episode_14_6"
+msgstr "One, two, what to do?"

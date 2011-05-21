@@ -1,0 +1,86 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: es\n"
+"Language-Name: Espana\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "Zona RISQ"
+
+msgid "Discover Safe Start "
+msgstr "Descubre Comienzo Seguro"
+
+msgid "Why RISQ it?"
+msgstr "¿Por qué RISQ?"
+
+msgid "What can you RISQ?"
+msgstr "¿Qué es RISQ?"
+
+msgid "Competitions"
+msgstr "Concursos"
+
+msgid "On the edge of safety"
+msgstr "Al límite de la seguridad"
+
+# animations
+msgid "anim_restart"
+msgstr "Reiniciar"
+
+msgid "anim01_message_01"
+msgstr "Comprueba la base de tu escalera de mano antes de subir"
+
+msgid "anim01_message_02"
+msgstr "Coloca la escalera de mano en el ángulo correcto respecto a la pared"
+
+msgid "anim01_message_03"
+msgstr "Asegúrate de que siempre hay alguien apostado en la base de la"
+
+msgid "anim01_end"
+msgstr "“Cuidado – evita las caídas”"
+
+msgid "anim02_end"
+msgstr "“Cuidado – evita las caídas”"
+
+msgid "anim03_message_01"
+msgstr "No trabajes en condiciones poco seguras o inapropiadas"
+
+msgid "anim03_message_02"
+msgstr "No tengas miedo de pedir ayuda"
+
+msgid "anim03_end"
+msgstr "“Cuidado – No sufras en silencio”"
+
+msgid "anim04_message_01"
+msgstr "Piensa antes de levantar o transportar una carga"
+
+msgid "anim04_message_02"
+msgstr "Utiliza el equipo puesto a tu disposición"
+
+msgid "anim04_message_03"
+msgstr "Intenta siempre aligerar la carga"
+
+msgid "anim04_end"
+msgstr "“Cuidado – La espalda sólo se rompe una vez”"
+
+msgid "anim02_message_01"
+msgstr "No trabajes en la oscuridad"
+
+msgid "anim02_message_02"
+msgstr "No improvises a costa de la seguridad"

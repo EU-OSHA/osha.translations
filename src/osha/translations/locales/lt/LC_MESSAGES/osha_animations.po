@@ -1,0 +1,85 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: lt\n"
+"Language-Name: Lithuanian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_animations\n"
+"X-Is-Fallback-For: \n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 animations 
+
+# additional EW2006 stuff
+msgid "RISQ Zone"
+msgstr "RIZQ Zona"
+
+msgid "Discover Safe Start "
+msgstr "Sužinokite apie „Saugią pradžią“"
+
+msgid "Why RISQ it?"
+msgstr "Ar verta RIZQ?"
+
+msgid "What can you RISQ?"
+msgstr "Kokia yra RIZQ?"
+
+msgid "Competitions"
+msgstr "Konkursai"
+
+msgid "On the edge of safety"
+msgstr "Ties nesaugaus darbo riba"
+
+# animations
+msgid "anim_restart"
+msgstr "Pradėti iš naujo"
+
+msgid "anim01_message_01"
+msgstr "Prieš pradėdami lipti kopėčiomis patikrinkite jų atraminį pagrindą"
+
+msgid "anim01_message_02"
+msgstr "Tinkamu kampu atremkite kopėčias į sieną"
+
+msgid "anim01_message_03"
+msgstr "Naudojantis aukštomis kopėčiomis jų apačioje visada turėtų būti žmogus"
+
+msgid "anim01_end"
+msgstr "„Dėmesio – būkite apdairūs”"
+
+msgid "anim02_end"
+msgstr "„Dėmesio – būkite apdairūs”"
+
+msgid "anim03_message_01"
+msgstr "Nedirbkite nesaugioje arba netinkamai sutvarkytoje aplinkoje"
+
+msgid "anim03_message_02"
+msgstr "Nebijokite paprašyti pagalbos"
+
+msgid "anim03_end"
+msgstr "„Būkite budrūs – nekentėkite sukandę dantų“"
+
+msgid "anim04_message_01"
+msgstr "Prieš keldami ir nešdami daiktą - pagalvokite"
+
+msgid "anim04_message_02"
+msgstr "Naudokitės suteikta įranga"
+
+msgid "anim04_message_03"
+msgstr "Visada stenkitės palengvinti svorį"
+
+msgid "anim04_end"
+msgstr "„Atsargiai – nugara lūžta tik vieną kartą“"
+
+msgid "anim02_message_01"
+msgstr "Nedirbkite tamsoje"
+
+msgid "anim02_message_02"
+msgstr "Neimprovizuokite, jei tai kelia pavojų saugumui"

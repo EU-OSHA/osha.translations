@@ -1,0 +1,669 @@
+# Gettext Message File for OSHA
+# Alexander Pilz <info@elevateit.org>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: elevateIT 1.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: Alexander Pilz <pilz at syslab com>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sl\n"
+"Language-Name: Slovenian\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_quizzes\n"
+
+#: This MessageCatalog is used especially for the translation of the EW2006 quizzes
+
+#: ********* Generals ***************
+msgid "score_label"
+msgstr "Vaš rezultat:"
+
+msgid "restart_label"
+msgstr "Ponovni zagon"
+
+msgid "true"
+msgstr "pravilno"
+
+msgid "false"
+msgstr "Napačno"
+
+msgid "yes"
+msgstr "Da"
+
+msgid "no"
+msgstr "Ne"
+
+msgid "drag_and_drop_instruction"
+msgstr "(Premaknite znak na pravilni položaj)"
+
+
+#: ***** NOISE QUIZ -nq- ********** [True/False]
+#: Title of the quiz
+msgid "nq_title"
+msgstr "Kviz o hrupu"
+
+#: Title-Subline
+msgid "nq_subline"
+msgstr "Koliko veste o hrupu? Rešite ta kratki kviz"
+
+#: 1. Question
+msgid "nq_question_1"
+msgstr "Nošenje naušnikov je bolje kot da skušamo odpraviti hrup?"
+
+#: 2.
+msgid "nq_question_2"
+msgstr "V redu je, da delate celi dan pri 100 decibelih"
+
+#: 3. Question
+msgid "nq_question_3"
+msgstr "Izguba sluha prizadene le starejše ljudi"
+
+#: 4. Question
+msgid "nq_question_4"
+msgstr "Vsakdo lahko meri hrup enostavno s poslušanjem"
+
+#: 5. Question
+msgid "nq_question_5"
+msgstr "Zvonenje v ušesih naj bo svarilo"
+
+#: 6. Question
+msgid "nq_question_6"
+msgstr "Pogostost se nanaša na intenzivnost(glasnost) hrupa"
+
+#: 7. Question
+msgid "nq_question_7"
+msgstr "Do izgube sluha pride hitro"
+
+#: 8. Question
+msgid "nq_question_8"
+msgstr "Naušniki ali čepi naj bi se uporabljali kot zadnja rešitev"
+
+#: Bad Result
+msgid "nq_bad_result"
+msgstr "Pazi! Lahko izgubite sluh, če ga ne zaščitite."
+
+#: Average Result
+msgid "nq_average_result"
+msgstr "Ukrepajte zdaj! So stvari, ki jih morate vedeti o zaščiti svojega sluha."
+
+#: Good Result
+msgid "nq_good_result"
+msgstr "Pozorno poslušate!  Gotovo ste že slišali, kako je treba zaščititi svoj sluh."
+
+
+
+#: ********** Responsiblitity-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "rq_title"
+msgstr "Kviz o odgovornosti"
+
+#: Title-Subline
+msgid "rq_subline"
+msgstr "Ali ste odgovorni za naslednje?"
+
+#: 1. Question
+msgid "rq_question_1"
+msgstr "Sami morate skrbeti za svoje zdravje in varnost."
+
+#: 1. Rešitev
+msgid "rq_solution_1"
+msgstr "Vi ste odgovorni za to, da skrbite za svoje zdravje in varnost, v skladu z navodili in usposabljanjem, ki ste jih prejeli. Niso drugi odgovorni za to, če ignorirate navodila, oziroma se vedete nespametno in brezbrižno."
+
+#: 2. Question
+msgid "rq_question_2"
+msgstr "Kolikor mogoče morate skrbeti za druge ljudi okoli sebe, skladno z navodili in usposabljanjem, ki ste ga prejeli."
+
+#: 2. Solution
+msgid "rq_solution_2"
+msgstr "Vaše vedenje lahko vpliva na zdravje in varnost drugih. In sicer bodisi neposredno, z dejanji, ali posredno s stvarmi, ki jih ne narediš."
+
+#: 3. Question
+msgid "rq_question_3"
+msgstr "Kadar uporabljate novo opremo, je najboljši način, da se kaj naučite ta, da poskusite sami ter pri tem uporabite metodo preizkusa in napake."
+
+#: 3. Solution
+msgid "rq_solution_3"
+msgstr "Če vam kdo reče, naj uporabljate neko opremo, vam mora tudi pokazati, kako se le-ta varno uporablja. KADAR STE V DVOMIH - VPRAŠAJTE."
+
+#: 4. Question
+msgid "rq_question_4"
+msgstr "Sodelovati morate z vodji in nadzorniki."
+
+#: 4. Solution
+msgid "rq_solution_4"
+msgstr "Vaš delodajalec je odgovoren za varno okolje, v katerem lahko delate, vendar ste vi odgovorni za pravilno uporabo opreme ter za to, da sledite navodilom."
+
+#: 5. Question
+msgid "rq_question_5"
+msgstr "Če zasledite nevarnost, se ji izognite in jo prezrite. Nekdo drug je odgovoren za to, da jo prijavi in odstrani."
+
+
+#: 5. Solution
+msgid "rq_solution_5"
+msgstr "Obstajati bi morali postopki,ki jim bi lahko sledili kadar bi morali poročati o možnih nevarnostih.   Ti načini bi bili lahko npr. neformalna omemba zadeve svojemu nadzorniku, ali pa bolj formalno poročanje. NIKOLI SE NE BOJTE OMENITI NEČESA - razlitja, spolzkih tal, pomanjkljive vtičnice ali česar koli, za kar menite, da bi morali omeniti."
+
+#: 6. Question
+msgid "rq_question_6"
+msgstr "Poznati morate vse zakone o zdravju in varnosti preden začnete delati. "
+
+#: 6. Solution
+msgid "rq_solution_6"
+msgstr "To se ne zahteva, vendar je dobro imeti vsaj idejo o tem. Oglejte si vire na tej spletni strani."
+
+#: 7. Question
+msgid "rq_question_7"
+msgstr "Slediti morate vsem navodilom, znakom ali pravilom, ki so prikazani okoli delovnega mesta."
+
+#: 7. Solution
+msgid "rq_solution_7"
+msgstr "Varnostni znaki so prikazani za vašo zaščito ter so nameščeni v skladu z zakonom. Odgovorni ste za to, da jih opazite in jim sledite."
+
+#: 8. Question
+msgid "rq_question_8"
+msgstr "Zagotoviti in plačati morate vsakršno zaščitno obleko in opremo, ki jo potrebujete, da bi varno izvajali svoje delo."
+
+#: 8. Solution
+msgid "rq_solution_8"
+msgstr "Vaš delodajalec mora brezplačno zagotoviti vsakršno zaščitno opremo, ki jo potrebujete za varnost na delovnem mestu (čelado, masko, rokavice, oblačila za delo zunaj, zaščitne škornje, itd)???.  Vi pa morate to osebno zaščitno opremo pravilno uporabljati ter jo po uporabi vrniti za svoje mesto."
+
+#: Bad Result
+msgid "rq_bad_result"
+msgstr "Visoko tveganje - grozi vam nesreča."
+
+#: Average Result
+msgid "rq_average_result"
+msgstr "Srednje tveganje - dober začetek sicer, vendar se morate naučiti več."
+
+#: Good Result
+msgid "rq_good_result"
+msgstr "Nizko tveganje - Varen začetek dela - bravo!"
+
+
+#: ********** Empolyer Quiz -eq- ************ [True/False]
+#: Title of the quiz
+msgid "eq_title"
+msgstr "Kviz o delodajalcih"
+
+#: Title-Subline
+msgid "eq_subline"
+msgstr "Va ef mora..."
+
+#: 1. Question
+msgid "eq_question_1"
+msgstr "Nuditi in vzdrževati varno tovarno (delovno mesto) in varne sisteme dela, ki ne predstavljajo nikakršnega tveganja za nikogaršnje zdravje."
+
+#: 2. Question
+msgid "eq_question_2"
+msgstr "Zagotoviti, da je uporaba, rokovanje, skladiščenje in transport proizvodov in snovi varen ter brez tveganja za zdravje kogar koli."
+
+#: 3. Question
+msgid "eq_question_3"
+msgstr "Nuditi informacije, navodila in usposabljanje v zvezi z zadevami, povezanimi z zdravjem in varnostjo, ter te zadeve nadzorovati."
+
+#: 4. Question
+msgid "eq_question_4"
+msgstr "Delovno mesto ohranjati v varnem in zdravju prijaznem stanju."
+
+#: 5. Question
+msgid "eq_question_5"
+msgstr "Izvajati ocene tveganja (ugotavljati in nadzirati nevarnosti) in beležiti ugotovitve."
+
+#: 6. Question
+msgid "eq_question_6"
+msgstr "Razvijati sisteme in postopke zdravja in varnosti."
+
+#: 7. Question
+msgid "eq_question_7"
+msgstr "Posvetovati se in sodelovati z uslužbenci in katerimi koli pogodbeniki, ki delajo zanje."
+
+#: 8. Question
+msgid "eq_question_8"
+msgstr "Delovati v skladu z vso ustrezno zakonodajo s področja varnosti in zdravja."
+
+#: Bad Result
+msgid "eq_bad_result"
+msgstr "Visoko tveganje - več morate izvedeti o tem, kaj mora vaš nadrejeni narediti, da bi vam zagotovil varnost in zdravje pri delu."
+
+#: Average Result
+msgid "eq_average_result"
+msgstr "Srednje tveganje - dober začetek sicer, vendar se morate naučiti več."
+
+#: Good Result
+msgid "eq_good_result"
+msgstr "Nizko tveganje - dobro ste obveščeni o obveznostih vašega nadrejenega."
+
+
+#: ********** Statistics Quiz -sq- ************ [Muliple Choice]
+#: Title of the quiz
+msgid "sq_title"
+msgstr "Igra s številkami"
+
+#: Title-Subline
+msgid "sq_subline"
+msgstr "Kostno-mišična obolenja so najpogostejša z delom povezana težava v EU27. Kako obsežen je ta problem? Kaj ljudje menijo o svojih delovnih pogojih? Če želite izvedeti več o tem, rešite naslednji kviz:"
+
+#: Description
+msgid "sq_description"
+msgstr ""
+
+#: 1. Question
+msgid "sq_question_1"
+msgstr "Kakšen odstotek delavcev se pritožuje zaradi bolečin v hrbtu, ki so posledica njihovega dela?"
+
+#: 1. Question - Answer A
+msgid "sq_question_1_answer_a"
+msgstr "A. 5%"
+
+#: 1. Question - Answer B
+msgid "sq_question_1_answer_b"
+msgstr "B. 10%"
+
+#: 1. Question - Answer C
+msgid "sq_question_1_answer_c"
+msgstr "C. 25%"
+
+#: 1. Question - Answer D
+msgid "sq_question_1_answer_d"
+msgstr "D. 35%"
+
+
+#: 2. Question
+msgid "sq_question_2"
+msgstr "Kakšen odstotek delavcev se pritožuje zaradi bolečin v mišicah, ki so posledica njihovega dela?"
+
+#: 2. Question - Answer A
+msgid "sq_question_2_answer_a"
+msgstr "A. 10%"
+
+#: 2. Question - Answer B
+msgid "sq_question_2_answer_b"
+msgstr "B. 15%"
+
+#: 2. Question - Answer C
+msgid "sq_question_2_answer_c"
+msgstr "C. 23%"
+
+#: 2. Question - Answer D
+msgid "sq_question_2_answer_d"
+msgstr "D. 31%"
+
+
+#: 3. Question
+msgid "sq_question_3"
+msgstr "Ali je med letoma 2000 in 2005 odstotek delavcev v Evropi, ki so izjavili, da so izpostavljeni ponavljajočim se gibom četrtino svojega delovnega časa ali dlje,"
+
+#: 3. Question - Answer A
+msgid "sq_question_3_answer_a"
+msgstr "A. ostal popolnoma enak?"
+
+#: 3. Question - Answer B
+msgid "sq_question_3_answer_b"
+msgstr "B. padel za 5 %?"
+
+#: 3. Question - Answer C
+msgid "sq_question_3_answer_c"
+msgstr "C. ostal skorajda enak?"
+
+#: 3. Question - Answer D
+msgid "sq_question_3_answer_d"
+msgstr "D. narasel za 5 %?"
+
+
+#: 4. Question
+msgid "sq_question_4"
+msgstr "Kateri je najpogostejši z delom povezani bolezenski simptom?"
+
+#: 4. Question - Answer A
+msgid "sq_question_4_answer_a"
+msgstr "A. glavobol"
+
+#: 4. Question - Answer B
+msgid "sq_question_4_answer_b"
+msgstr "B. bolečina v hrbtu"
+
+#: 4. Question - Answer C
+msgid "sq_question_4_answer_c"
+msgstr "C. utrujenost"
+
+#: 4. Question - Answer D
+msgid "sq_question_4_answer_d"
+msgstr "D. stres"
+
+
+#: 5. Question
+msgid "sq_question_5"
+msgstr "Koliko ljudi trdi, da so njihove dlani in roke izpostavljene ponavljajočim se gibom četrtino njihovega delovnega časa ali dlje?"
+
+#: 5. Question - Answer A
+msgid "sq_question_5_answer_a"
+msgstr "A. 55%"
+
+#: 5. Question - Answer B
+msgid "sq_question_5_answer_b"
+msgstr "B. 33%"
+
+#: 5. Question - Answer C
+msgid "sq_question_5_answer_c"
+msgstr "C. 40%"
+
+#: 5. Question - Answer D
+msgid "sq_question_5_answer_d"
+msgstr "D. 62%"
+
+
+#: 6. Question
+msgid "sq_question_6"
+msgstr "V katerih industrijskih sektorjih ženske pogosteje dvigujejo ali premikajo ljudi v okviru svojega dela?"
+
+#: 6. Question - Answer A
+msgid "sq_question_6_answer_a"
+msgstr "A. v izobraževanju in zdravstvu"
+
+#: 6. Question - Answer B
+msgid "sq_question_6_answer_b"
+msgstr "B. v trgovinah in skladiščih"
+
+#: 6. Question - Answer C
+msgid "sq_question_6_answer_c"
+msgstr "C. v sektorju finančnih storitev"
+
+#: 6. Question - Answer D
+msgid "sq_question_6_answer_d"
+msgstr "D. v javni upravi"
+
+
+#: 7. Question
+msgid "sq_question_7"
+msgstr "Kakšen odstotek delavcev pri svojem delu uporablja računalnike tekom celotnega ali večino svojega delovnega časa?"
+
+#: 7. Question - Answer A
+msgid "sq_question_7_answer_a"
+msgstr "A. 12%"
+
+#: 7. Question - Answer B
+msgid "sq_question_7_answer_b"
+msgstr "B. 27%"
+
+#: 7. Question - Answer C
+msgid "sq_question_7_answer_c"
+msgstr "C. 33%"
+
+#: 7. Question - Answer D
+msgid "sq_question_7_answer_d"
+msgstr "D. 45"
+
+
+#: 8. Question
+msgid "sq_question_8"
+msgstr "Kateri delavci trdijo, da pri svojem delu opravljajo največjo količino fizičnih opravil?"
+
+#: 8. Question - Answer A
+msgid "sq_question_8_answer_a"
+msgstr "A. delavci, mlajši od 25 let"
+
+#: 8. Question - Answer B
+msgid "sq_question_8_answer_b"
+msgstr "B. delavci med 25. in 44. letom starosti"
+
+#: 8. Question - Answer C
+msgid "sq_question_8_answer_c"
+msgstr "C. delavci med 45. in 54. letom starosti"
+
+#: 8. Question - Answer D
+msgid "sq_question_8_answer_d"
+msgstr "D. delavci, starejši od 55 let"
+
+#: Good Result
+msgid "sq_good_result"
+msgstr "Kviz temelji na podatkih Eurostata, Statističnega urada Evropske unije, in na podatkih iz 4. evropske raziskave o delovnih razmerah (EWSC 2005), ki jo je izvedla Evropska fundacija za izboljšanje življenjskih in delovnih razmer."
+
+
+
+#: *********** Safety Signs Quiz -ssq- *************** [Multiple Choice]
+#: Questions are images of saftey signs
+#: Title of the quiz
+msgid "ssq_title"
+msgstr "Kviz o varnostnih znakih"
+
+#: Title-Subline
+msgid "ssq_subline"
+msgstr "Poznate varnostne znake? Preskusite svoje znanje s kvizom o varnostnih znakih!"
+
+#: 1. Question - Answer A
+msgid "ssq_question_1_answer_a"
+msgstr "Sončna očala naprodaj tu"
+
+#: 1. Question - Answer B
+msgid "ssq_question_1_answer_b"
+msgstr "Brezplačno testiranje vida"
+
+#: 1. Question - Answer C
+msgid "ssq_question_1_answer_c"
+msgstr "Nosite zaščitna očala"
+
+#: 1. Question - Answer D
+msgid "ssq_question_1_answer_d"
+msgstr "Optiki"
+
+
+#: 2. Question - Answer A
+msgid "ssq_question_2_answer_a"
+msgstr "Križišče"
+
+#: 2. Question - Answer B
+msgid "ssq_question_2_answer_b"
+msgstr "Prva pomoč v sili"
+
+#: 2. Question - Answer C
+msgid "ssq_question_2_answer_c"
+msgstr "Ne hodi po travi"
+
+#: 2. Question - Answer D
+msgid "ssq_question_2_answer_d"
+msgstr "Bolnišnica"
+
+
+#: 3. Question - Answer A
+msgid "ssq_question_3_answer_a"
+msgstr "Piratska ladja blizu"
+
+#: 3. Question - Answer B
+msgid "ssq_question_3_answer_b"
+msgstr "Pokopališče"
+
+#: 3. Question - Answer C
+msgid "ssq_question_3_answer_c"
+msgstr "Nevarnost"
+
+#: 3. Question - Answer D
+msgid "ssq_question_3_answer_d"
+msgstr "Strupene snovi"
+
+
+#: 4. Question - Answer A
+msgid "ssq_question_4_answer_a"
+msgstr "Mobilni telefoni naprodaj"
+
+#: 4. Question - Answer B
+msgid "ssq_question_4_answer_b"
+msgstr "Mobilni telefoni prepovedani"
+
+#: 4. Question - Answer C
+msgid "ssq_question_4_answer_c"
+msgstr "Območje tišine"
+
+#: 4. Question - Answer D
+msgid "ssq_question_4_answer_d"
+msgstr "Popravila telefonov"
+
+
+#: 5. Question - Answer A
+msgid "ssq_question_5_answer_a"
+msgstr "DJ-ji na delu"
+
+#: 5. Question - Answer B
+msgid "ssq_question_5_answer_b"
+msgstr "Nosite zaščitne slušalke"
+
+#: 5. Question - Answer C
+msgid "ssq_question_5_answer_c"
+msgstr "Glasno območje"
+
+#: 5. Question - Answer D
+msgid "ssq_question_5_answer_d"
+msgstr "Poskrbite, da bodo vaša ušesa stalno topla"
+
+
+#: 6. Question - Answer A
+msgid "ssq_question_6_answer_a"
+msgstr "Zakopan zaklad"
+
+#: 6. Question - Answer B
+msgid "ssq_question_6_answer_b"
+msgstr "Približujejo se viharji"
+
+#: 6. Question - Answer C
+msgid "ssq_question_6_answer_c"
+msgstr "Električni tok"
+
+#: 6. Question - Answer D
+msgid "ssq_question_6_answer_d"
+msgstr "Pozor - kače in gadje v bližini"
+
+
+#: 7. Question - Answer A
+msgid "ssq_question_7_answer_a"
+msgstr "Tečaj aerobike"
+
+#: 7. Question - Answer B
+msgid "ssq_question_7_answer_b"
+msgstr "Fitness center"
+
+#: 7. Question - Answer C
+msgid "ssq_question_7_answer_c"
+msgstr "Izhod v primeru požara"
+
+#: 7. Question - Answer D
+msgid "ssq_question_7_answer_d"
+msgstr "Vratna odprtina"
+
+
+#: 8. Question - Answer A
+msgid "ssq_question_8_answer_a"
+msgstr "Območje za kadilce"
+
+#: 8. Question - Answer B
+msgid "ssq_question_8_answer_b"
+msgstr "Ni živega ognja"
+
+#: 8. Question - Answer C
+msgid "ssq_question_8_answer_c"
+msgstr "Cigarete naprodaj tu"
+
+#: 8. Question - Answer D
+msgid "ssq_question_8_answer_d"
+msgstr "Kaditi prepovedano"
+
+#: Bad Result
+msgid "ssq_bad_result"
+msgstr "Visoko tveganje - grozi vam nesreča."
+
+#: Average Result
+msgid "ssq_average_result"
+msgstr "Srednje tveganje - dober začetek sicer, vendar se morate naučiti več."
+
+#: Good Result
+msgid "ssq_good_result"
+msgstr "Nizko tveganje - Varen začetek dela - bravo!"
+
+
+
+#: ********** MSD-Quiz -rq- ********* [True/False]
+#: Title of the quiz
+msgid "mq_title"
+msgstr "Kviz o kostno-mišičnih obolenjih"
+
+#: Title-Subline
+msgid "mq_subline"
+msgstr "Kaj veš o kostno-mišičnih obolenjih in bolečinah v hrbtenici?  Rešite ta kratki kviz"
+
+#: 1. Question
+msgid "mq_question_1"
+msgstr "V državah članicah EU obstajajo posebni zakoni o delu, ki govorijo o dvigovanju bremen"
+
+#: 1. Solution
+msgid "mq_solution_1"
+msgstr "Obstaja evropska Direktiva o zahtevah varnosti in zdravja pri ročenem rokovanju bremen, ki jih morajo vse države članice vključiti v svojo zakonodajo."
+
+#: 2. Question
+msgid "mq_question_2"
+msgstr "Noseče ženske lahko dvigujejo bremena brez da bi jim to lahko škodilo"
+
+#: 2. Solution
+msgid "mq_solution_2"
+msgstr "Ženske, ki so noseče ali so pred kratkim rodile naj nebi dvigovale težkih bremen; bolj ko nosečnost napreduje, večja je nevarnost poškodbe."
+
+#: 3. Question
+msgid "mq_question_3"
+msgstr "Izpostavljenost vibracijam pri deli lahko poveča tveganje 'poškodb zaradi ponavljajočih se gibov'"
+
+#: 3. Solution
+msgid "mq_solution_3"
+msgstr " "
+
+#: 4. Question
+msgid "mq_question_4"
+msgstr "Če imate bolečine zaradi ponavljajočega se dela ali dvigovanja, so najboljša rešitev zdravila proti bolečinam."
+
+#: 4. Solution
+msgid "mq_solution_4"
+msgstr "Če nadaljujete z delom v ne-varnih pogojih ter jemljete zdravila proti bolečinam, boste problem le povčali in vas bo to lahko vodilo v trajno nesposobnost."
+
+#: 5. Question
+msgid "mq_question_5"
+msgstr "Če se ne gibljete, lahko dobite kostno kostno-mišična obolenja"
+
+#: 5. Solution
+msgid "mq_solution_5"
+msgstr "Če ste v istem položaju, vaše telo še vedno deluje. To se imenuje 'statični položaj'.  Telo je narejeno za gibanje. Če je telo predolgo v istem položaju, vključno z dolgotrajnejšim sedenjem ali stanjem, ni dobro za vas."
+
+#: 6. Question
+msgid "mq_question_6"
+msgstr "Hladni/vlažni pogoji predstavljajo faktor tveganja za kostno-mišična obolenja."
+
+#: 6. Solution
+msgid "mq_solution_6"
+msgstr " "
+
+#: 7. Question
+msgid "mq_question_7"
+msgstr "Uporaba računalniške miške ne more povzročiti kostno-mišičnih obolenj"
+
+#: 7. Solution
+msgid "mq_solution_7"
+msgstr "Obstajajo nekatera enostavna vodila za pravilno uporabo miške, vključno s tem, da roko in dlan držimo ustrezno podprti, blizu telesa ter med delom delamo premore. "
+
+#: 8. Question
+msgid "mq_question_8"
+msgstr "Pri delu z računalniško tipkovnico bo morali vsaki dve uri narediti premor."
+
+#: 8. Solution
+msgid "mq_solution_8"
+msgstr "Priporoča se, da po 50 minutah dela na računalniški tipkovnici naredite 10 premora, v katerem delate nekaj drugega."
+
+#: Bad Result
+msgid "mq_bad_result"
+msgstr "Ou! Obstaja visoko tveganje, da dobite mišično kostno obolenje."
+
+#: Average Result
+msgid "mq_average_result"
+msgstr "Občasne bolečine in zbadanje! Naučite se več o tem, kako zaščititi svoje telo."
+
+#: Good Result
+msgid "mq_good_result"
+msgstr "Delate udobno! Mnogo veste, vendar ne pozabite uporabljati svoje znanje v praksi."
+

@@ -1,0 +1,47 @@
+# Gettext Message File for OSHA
+# Syslab.com <info@syslab.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: osha\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2005-09-19 17:43+0100\n"
+"Last-Translator: EU translation center via OSHA\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: no\n"
+"Language-Name: Norsk\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha_ew\n"
+
+
+###############################################
+# Translations for hw2010
+###############################################
+
+#: Campaign Name HW2010
+msgid "campaign_name_2010"
+msgstr "Et sikkert og godt arbeidsmiljø."
+
+#: Campaign Slogan HW2010
+msgid "campaign_slogan_2010"
+msgstr "Bra for både deg og din arbeidsplass"
+
+#: Title 2010
+msgid "certificate_title_2010"
+msgstr "Sertifikat for deltakelse"
+
+#: Certificate for 2010
+msgid "certificate_for_2010"
+msgstr "Dette sertifikatet erkjenner deltakelse av"
+
+#: Contriubution
+msgid "contribution_headline_2010"
+msgstr "i Et sikkert og godt arbeidsmiljø-kampanjen 2010-11 på Safe vedlikehold."
+
+#: Director 
+msgid "director_2010"
+msgstr "Direktør for det europeiske arbeidsmiljøorganet (EU-OSHA)"
+

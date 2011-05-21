@@ -1,0 +1,848 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: osha 3.0\n"
+"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"PO-Revision-Date: 2007-08-10 18:28+0100\n"
+"Last-Translator: European Agency for Safety and Health at Work <translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: it\n"
+"Language-Name: Italiano\n"
+"Preferred-Encodings: UTF-8\n"
+"Domain: osha-subsites\n"
+"X-Is-Fallback-For: it-ch\n"
+
+
+msgid "ew2000-navtitle_about"
+msgstr "SETTIMANA EUROPEA 2000"
+
+msgid "ew2000-navtitle_1"
+msgstr "Che cosè la Settimana europea della salute e della sicurezza sul lavoro?"
+
+msgid "ew2000-navtitle_2"
+msgstr "Perché lEuropa deve prestare attenzione alle patologie muscoloscheletriche connesse allattività lavorativa?"
+
+msgid "ew2000-navtitle_3"
+msgstr "Partecipate alla Settimana europea 2000!"
+
+msgid "ew2000-navtitle_4"
+msgstr "In che modo partecipare?"
+
+msgid "ew2000-navtitle_5"
+msgstr "Dove ottenere informazioni ? Chi contattare?"
+
+msgid "ew2000-navtitle_41"
+msgstr "Evaluation of the European Week 2000: Final report"
+
+msgid "ew2000-navtitle_activities"
+msgstr "ATTIVITA"
+
+msgid "ew2000-navtitle_26"
+msgstr "Funded projects"
+
+msgid "ew2000-navtitle_27"
+msgstr "National activities in EU Member States"
+
+msgid "ew2000-navtitle_28"
+msgstr "Closing event"
+
+msgid "ew2000-navtitle_36"
+msgstr "National activities in other countries"
+
+msgid "ew2000-navtitle_global_news"
+msgstr "NOTIZIE"
+
+msgid "ew2000-navtitle_38"
+msgstr "COMUNICATO STAMPA: Il mal di schiena dell'Europa"
+
+msgid "ew2000-navtitle_39"
+msgstr "News release: Work-related musculoskeletal disorders are fast becoming the greatest health and safety challenge for Europe"
+
+msgid "ew2000-navtitle_40"
+msgstr "News release: European colloquium concludes that more action is needed to combat work-related musculoskeletal disorders"
+
+msgid "ew2000-navtitle_12"
+msgstr "25.2.2000: Disturbi degli arti superiori e del collo relativi all’attività lavorativa – un problema crescente in Europa"
+
+msgid "ew2000-navtitle_37"
+msgstr "News release: European workplaces turn their backs on work-related musculoskeletal disorders"
+
+msgid "ew2000-navtitle_35"
+msgstr "News release: European Parliament and Commission back campaign to prevent work-related musculoskeletal disorders"
+
+msgid "ew2000-navtitle_25"
+msgstr "26.5.2000: Good  Practice Awards - Invitation for Nominations"
+
+msgid "ew2000-navtitle_11"
+msgstr "11.2.2000: Una campagna europea per ridurre l’incidenza dei disturbi muscoloscheletrici legati all’attività lavorativa"
+
+msgid "ew2000-navtitle_resources"
+msgstr "RISORSE"
+
+msgid "ew2000-navtitle_43"
+msgstr "Information Resources on Musculoskeletal Disorders"
+
+msgid "ew2000-navtitle_contacts"
+msgstr "CONTATTI"
+
+msgid "ew2000-navtitle_agency"
+msgstr "Agenzia europea per la sicurezza e la salute sul l avoro"
+
+msgid "ew2000-navtitle_at"
+msgstr "Austria"
+
+msgid "ew2000-navtitle_be"
+msgstr "Belgio"
+
+msgid "ew2000-navtitle_de"
+msgstr "Germania"
+
+msgid "ew2000-navtitle_dk"
+msgstr "Danimarca"
+
+msgid "ew2000-navtitle_el"
+msgstr "Grecia"
+
+msgid "ew2000-navtitle_es"
+msgstr "Spagna"
+
+msgid "ew2000-navtitle_fi"
+msgstr "Finlandia"
+
+msgid "ew2000-navtitle_fr"
+msgstr "Francia"
+
+msgid "ew2000-navtitle_ie"
+msgstr "Irlanda"
+
+msgid "ew2000-navtitle_it"
+msgstr "Italia"
+
+msgid "ew2000-navtitle_lu"
+msgstr "Lussemburgo"
+
+msgid "ew2000-navtitle_nl"
+msgstr "Paesi Bassi"
+
+msgid "ew2000-navtitle_pt"
+msgstr "Portogallo"
+
+msgid "ew2000-navtitle_sv"
+msgstr "Svezia"
+
+msgid "ew2000-navtitle_uk"
+msgstr "Regno Unito"
+
+msgid "ew2000-navtitle_pr"
+msgstr "MATERIALE PROMOZIONALE"
+
+msgid "ew2000-navtitle_46"
+msgstr "Materiale Promozionale"
+
+msgid "ew2001-navtitle_about"
+msgstr "Settimana europea 2001"
+
+msgid "ew2001-navtitle_1"
+msgstr "CHE COS'È la Settimana europea per la sicurezza e la salute sul lavoro?"
+
+msgid "ew2001-navtitle_2"
+msgstr "PERCHÉ l'Europa deve affrontare il problema degli infortuni sul lavoro?"
+
+msgid "ew2001-navtitle_3"
+msgstr "IMPEGNARSI"
+
+msgid "ew2001-navtitle_4"
+msgstr "DOVE si possono avere più informazioni sulla Settimana? A chi rivolgersi?"
+
+msgid "ew2001-navtitle_activities"
+msgstr "ATTIVITA"
+
+msgid "ew2001-navtitle_6"
+msgstr "National activities in EU Member States"
+
+msgid "ew2001-navtitle_global_news"
+msgstr "NOTIZIE"
+
+msgid "ew2001-navtitle_13"
+msgstr "<a href='http://agency.osha.eu.int/publications/magazine/4/en/index.htm'>09.11.2001: Magazine 4: Preventing accidents at work</a>"
+
+msgid "ew2001-navtitle_14"
+msgstr "12.11.2001: News release: Conference to Tackle EU Deaths at Work"
+
+msgid "ew2001-navtitle_7"
+msgstr "28.2.2001: Settimana europea per la sicurezza e la salute sul lavoro"
+
+msgid "ew2001-navtitle_8"
+msgstr "3.4.2001: LUnione europea sostiene la prevenzione degli infortuni sul lavoro"
+
+msgid "ew2001-navtitle_9"
+msgstr "27.4.2001: LAgenzia invita a presentare proposte di progetti per la prevenzione degli infortuni nelle piccole e medie imprese (PMI)"
+
+msgid "ew2001-navtitle_11"
+msgstr "23.7.2001: Current Status"
+
+msgid "ew2001-navtitle_12"
+msgstr "28.9.2001: Il successo non è un .incidente"
+
+msgid "ew2001-navtitle_16"
+msgstr "15.03.2002. EU funding scheme targets safety and health risks in small and medium-sized enterprises (SMEs)"
+
+msgid "ew2001-navtitle_15"
+msgstr "10.12.2001:L'Agenzia annuncia l'assegnazione di sussidi per 4,5 milioni"
+
+msgid "ew2001-navtitle_resources"
+msgstr "RISORSE"
+
+msgid "ew2001-navtitle_10"
+msgstr "Resources"
+
+msgid "ew2001-navtitle_pr"
+msgstr "MATERIALE PROMOZIONALE"
+
+msgid "ew2001-navtitle_17"
+msgstr "Promotional material"
+
+msgid "ew2001-navtitle_contacts"
+msgstr "CONTATTI"
+
+msgid "ew2001-navtitle_5"
+msgstr "DOVE si possono avere più informazioni sulla Settimana? A chi rivolgersi?"
+
+msgid "ew2002-navtitle_about"
+msgstr "Settimana europea 2002"
+
+msgid "ew2002-navtitle_1"
+msgstr "CHE COS'È la Settimana europea per la sicurezza e la salute sul lavoro?"
+
+msgid "ew2002-navtitle_2"
+msgstr "PERCHÉ lEuropa deve affrontare il problema dei rischi psicosociali sul lavoro?"
+
+msgid "ew2002-navtitle_7"
+msgstr "PARTECIPARE"
+
+msgid "ew2002-navtitle_activities"
+msgstr "ATTIVITA"
+
+msgid "ew2002-navtitle_18"
+msgstr "Closing Event of the European Week for Safety and Health at Work 2002"
+
+msgid "ew2002-navtitle_94"
+msgstr "National activities for the European Week in EU member states and Candidate Countries"
+
+msgid "ew2002-navtitle_103"
+msgstr "Premio Per La Buona Prassi 2002"
+
+msgid "ew2002-navtitle_global_news"
+msgstr "NOTIZIE"
+
+msgid "ew2002-navtitle_106"
+msgstr "2002.11.29: European social partners committed to solving stress problems at work"
+
+msgid "ew2002-navtitle_107"
+msgstr "2002.11.25: Stress at work must and can be prevented"
+
+msgid "ew2002-navtitle_105"
+msgstr "European conference to tackle stress at work"
+
+msgid "ew2002-navtitle_101"
+msgstr "Closing event of the European week for safety and health at work 2002."
+
+msgid "ew2002-navtitle_13"
+msgstr "2002.07.02. Prima campagna paneuropea per combattere lo stress legato al lavoro"
+
+msgid "ew2002-navtitle_12"
+msgstr "2002.06.20: European Week to be launched at the European Parliament in Strasbourg on 2 July 2002"
+
+msgid "ew2002-navtitle_8"
+msgstr "2002.05.08: Premio Per La Buona Prassi 2002"
+
+msgid "ew2002-navtitle_resources"
+msgstr "RISORSE"
+
+msgid "ew2002-navtitle_104"
+msgstr "Resources"
+
+msgid "ew2002-navtitle_6"
+msgstr "Dedicated web pages in Member States and Candidate Countries"
+
+msgid "ew2002-navtitle_pr"
+msgstr "MATERIALE PROMOZIONALE"
+
+msgid "ew2002-navtitle_4"
+msgstr "Pictures from the European Good Practice Awards Ceremony"
+
+msgid "ew2002-navtitle_5"
+msgstr "Pictures of the Closing Event"
+
+msgid "ew2002-navtitle_9"
+msgstr "Promotional Material"
+
+msgid "ew2002-navtitle_14"
+msgstr "PressPack"
+
+msgid "ew2002-navtitle_15"
+msgstr "Pictures from European Week Launch"
+
+msgid "ew2002-navtitle_16"
+msgstr "Seminar presentations from the European Week launch"
+
+msgid "ew2002-navtitle_contacts"
+msgstr "CONTATTI"
+
+msgid "ew2002-navtitle_3"
+msgstr "DOVE si possono avere più informazioni sulla Settimana? A chi rivolgersi?"
+
+msgid "ew2003-navtitle_about"
+msgstr "Sulla campagna"
+
+msgid "ew2003-navdescription_about"
+msgstr "Sulla campagna"
+
+msgid "ew2003-navtitle_getinvolved"
+msgstr "Partecipare"
+
+msgid "ew2003-navdescription_getinvolved"
+msgstr "Partecipare"
+
+msgid "ew2003-navtitle_campaignpack"
+msgstr "Materiale informativo della campagna"
+
+msgid "ew2003-navdescription_campaignpack"
+msgstr "Materiale informativo della campagna"
+
+msgid "ew2003-navtitle_activities"
+msgstr "Attivitá"
+
+msgid "ew2003-navdescription_activities"
+msgstr "Attivitá"
+
+msgid "ew2003-navtitle_national_contacts"
+msgstr "Contatti Nazionali"
+
+msgid "ew2003-navdescription_national_contacts"
+msgstr "Contatti Nazionali"
+
+msgid "ew2003-navtitle_goodpractice"
+msgstr "Premio per la buona prassi"
+
+msgid "ew2003-navdescription_goodpractice"
+msgstr "Premio per la buona prassi"
+
+msgid "ew2003-navtitle_22_04_2003"
+msgstr "22_04_2003"
+
+msgid "ew2003-navtitle_23_04_2003"
+msgstr "23_04_2003"
+
+msgid "ew2003-navtitle_24_04_2003"
+msgstr "24_04_2003"
+
+msgid "ew2003-navtitle_27_03_2003"
+msgstr "27_03_2003"
+
+msgid "ew2003-navtitle_closingevent"
+msgstr "Evento Conclusivo"
+
+msgid "ew2003-navdescription_closingevent"
+msgstr "Evento Conclusivo"
+
+msgid "ew2003-navtitle_press_releases"
+msgstr "Sala Stampa"
+
+msgid "ew2003-navdescription_press_releases"
+msgstr "Sala Stampa"
+
+msgid "ew2003-navtitle_05_03_2002"
+msgstr "05_03_2002"
+
+msgid "ew2003-navtitle_05_05_2003"
+msgstr "05_05_2003"
+
+msgid "ew2003-navtitle_11_06_2003"
+msgstr "11_06_2003"
+
+msgid "ew2003-navtitle_12_05_2003"
+msgstr "12_05_2003"
+
+msgid "ew2003-navtitle_13_05_2003"
+msgstr "13_05_2003"
+
+msgid "ew2003-navtitle_14_05_2003"
+msgstr "14_05_2003"
+
+msgid "ew2003-navtitle_15_05_2003"
+msgstr "15_05_2003"
+
+msgid "ew2003-navtitle_17_12_2003"
+msgstr "17_12_2003"
+
+msgid "ew2003-navtitle_18_11_2003"
+msgstr "18_11_2003"
+
+msgid "ew2003-navtitle_21_02_2001"
+msgstr "21_02_2001"
+
+msgid "ew2003-navtitle_22_01_2004"
+msgstr "22_01_2004"
+
+msgid "ew2003-navtitle_22_10_2003"
+msgstr "22_10_2003"
+
+msgid "ew2003-navtitle_24_11_2003"
+msgstr "24_11_2003"
+
+msgid "ew2003-navtitle_27_04_2001"
+msgstr "27_04_2001"
+
+msgid "ew2003-navtitle_27_11_2003"
+msgstr "27_11_2003"
+
+msgid "ew2003-navtitle_28_11_2003"
+msgstr "28_11_2003"
+
+msgid "ew2003-navtitle_31_10_2003"
+msgstr "31_10_2003"
+
+msgid "ew2003-navtitle_15_06_2003"
+msgstr "15_06_2003"
+
+msgid "ew2003-navtitle_archive"
+msgstr "archive"
+
+msgid "ew2003-navtitle_nationalcontacts"
+msgstr "nationalcontacts"
+
+msgid "ew2003-navtitle_quoteslist"
+msgstr "quoteslist"
+
+msgid "ew2003-navtitle_otherresources"
+msgstr "otherresources"
+
+msgid "ew2003-navtitle_08_04_2003"
+msgstr "08_04_2003"
+
+msgid "ew2003-navtitle_publications"
+msgstr "publications"
+
+msgid "ew2003-navtitle_factsheets"
+msgstr "factsheets"
+
+msgid "ew2003-navtitle_forum"
+msgstr "forum"
+
+msgid "ew2003-navtitle_magazine"
+msgstr "magazine"
+
+msgid "ew2003-navtitle_newsletter"
+msgstr "newsletter"
+
+msgid "ew2003-navtitle_reports"
+msgstr "reports"
+
+msgid "ew2004-navtitle_about"
+msgstr "Sulla campagna"
+
+msgid "ew2004-navdescription_about"
+msgstr "Sulla campagna"
+
+msgid "ew2004-navtitle_why_construction"
+msgstr "Perché la costruzione?"
+
+msgid "ew2004-navdescription_why_construction"
+msgstr "Perché la costruzione?"
+
+msgid "ew2004-navtitle_sign_the_charter"
+msgstr "Sottoscrivere la Carta della campagna"
+
+msgid "ew2004-navdescription_sign_the_charter"
+msgstr "Sottoscrivere la Carta della campagna"
+
+msgid "ew2004-navtitle_campmaterials"
+msgstr "Materiale di sensibilizzazione"
+
+msgid "ew2004-navdescription_campmaterials"
+msgstr "Materiale di sensibilizzazione"
+
+msgid "ew2004-navtitle_logoslogan"
+msgstr "Logo e slogan"
+
+msgid "ew2004-navdescription_logoslogan"
+msgstr "Logo e slogan"
+
+msgid "ew2004-navtitle_activities"
+msgstr "Attività nazionali"
+
+msgid "ew2004-navdescription_activities"
+msgstr "Attività nazionali"
+
+msgid "ew2004-navtitle_nationalcontacts"
+msgstr "Contatti Nazionali"
+
+msgid "ew2004-navdescription_nationalcontacts"
+msgstr "Contatti Nazionali"
+
+msgid "ew2004-navtitle_awards2004"
+msgstr "Premio per la buona prassi"
+
+msgid "ew2004-navdescription_awards2004"
+msgstr "Premio per la buona prassi"
+
+msgid "ew2004-navtitle_scheme"
+msgstr "scheme"
+
+msgid "ew2004-navtitle_closingevent"
+msgstr "Vertice europeo sulla sicurezza nell'edilizia"
+
+msgid "ew2004-navdescription_closingevent"
+msgstr "Vertice europeo sulla sicurezza nell'edilizia"
+
+msgid "ew2004-navtitle_broadcast"
+msgstr "broadcast"
+
+msgid "ew2004-navtitle_webinterface"
+msgstr "webinterface"
+
+msgid "ew2004-navtitle_programme"
+msgstr "programme"
+
+msgid "ew2004-navtitle_press_room"
+msgstr "Sala Stampa"
+
+msgid "ew2004-navdescription_press_room"
+msgstr "Sala Stampa"
+
+msgid "ew2004-navtitle_pictures"
+msgstr "Pictures"
+
+msgid "ew2004-navdescription_pictures"
+msgstr "Pictures"
+
+msgid "ew2005-navtitle_navigation"
+msgstr "Informatevi"
+
+msgid "ew2005-navtitle_about"
+msgstr "Sulla campagna"
+
+msgid "ew2005-navtitle_whynoise"
+msgstr "Perché il rumore"
+
+msgid "ew2005-navtitle_campaign_materials"
+msgstr "Materiale della campagna"
+
+msgid "ew2005-navtitle_european noise summit"
+msgstr "Vertice europeo sul rumore"
+
+msgid "ew2005-navtitle_press_room"
+msgstr "Sala Stampa"
+
+msgid "ew2005-navtitle_photographs"
+msgstr "Photographs"
+
+msgid "ew2005-navdescription_photographs"
+msgstr "Photographs"
+
+msgid "ew2006-navtitle_navigation"
+msgstr "Informazioni"
+
+msgid "ew2006-navtitle_about"
+msgstr "Sulla campagna"
+
+msgid "ew2006-navtitle_why"
+msgstr "Perché i giovani"
+
+msgid "ew2006-navtitle_campaign_materials"
+msgstr "Materiali della campagna"
+
+msgid "ew2006-navtitle_european noise summit"
+msgstr "Vertice europeo sul rumore"
+
+msgid "ew2006-navtitle_sign"
+msgstr "Firma la Carta"
+
+msgid "ew2006-navtitle_nationalcontactsandactivities"
+msgstr "Contatti e attività nazionali"
+
+msgid "ew2006-navtitle_goodpracticeawards"
+msgstr "Premi Buona prassi"
+
+msgid "ew2006-navtitle_accident_zone"
+msgstr "Area infortuni"
+
+msgid "ew2006-navtitle_ideas_for_action"
+msgstr "Idee di azione"
+
+msgid "ew2006-navtitle_logoandslogan"
+msgstr "Logo &amp; Slogan"
+
+msgid "ew2006-navtitle_agencypub"
+msgstr "Agency publications"
+
+msgid "ew2006-navtitle_factsheets"
+msgstr "Factsheets"
+
+msgid "ew2006-navtitle_reports"
+msgstr "Reports"
+
+msgid "ew2006-navtitle_magazins"
+msgstr "Magazins"
+
+msgid "ew2006-navtitle_agencywebfeatures"
+msgstr "Agency Webfeatures"
+
+msgid "ew2006-navtitle_webfeatures"
+msgstr "Webfeatures"
+
+msgid "ew2006-navtitle_photo competition"
+msgstr "Photo Competition"
+
+msgid "ew2006-navtitle_video competition"
+msgstr "Concorso video"
+
+msgid "ew2006-navtitle_case_studies"
+msgstr "Case Studies"
+
+msgid "ew2006-navtitle_press_room"
+msgstr "Sala Stampa"
+
+msgid "ew2006-navtitle_events"
+msgstr "Eventi"
+
+msgid "ew2006-navtitle_ecards"
+msgstr "genitori"
+
+msgid "ew2007-navtitle_navigation"
+msgstr "Informazioni"
+
+msgid "ew2007-navtitle_about"
+msgstr "Sulla campagna"
+
+msgid "ew2007-navtitle_why"
+msgstr "Perché i disturbi muscoloscheletrici (MSD)?"
+
+msgid "ew2007-navtitle_campaign_materials"
+msgstr "Materiali della campagna"
+
+msgid "ew2007-navtitle_european noise summit"
+msgstr "Vertice europeo sul rumore"
+
+msgid "ew2007-navtitle_sign"
+msgstr "Firma la Carta"
+
+msgid "ew2007-navtitle_nationalcontactsandactivities"
+msgstr "Contatti e attività nazionali"
+
+msgid "ew2007-navtitle_goodpracticeawards"
+msgstr "Premi Buona prassi"
+
+msgid "ew2007-navtitle_logoandslogan"
+msgstr "Logo & Slogan"
+
+msgid "ew2007-navtitle_agencypub"
+msgstr "Agency publications"
+
+msgid "ew2007-navtitle_factsheets"
+msgstr "Factsheets"
+
+msgid "ew2007-navtitle_reports"
+msgstr "Reports"
+
+msgid "ew2007-navtitle_magazins"
+msgstr "Magazins"
+
+msgid "ew2007-navtitle_agencywebfeatures"
+msgstr "Agency Webfeatures"
+
+msgid "ew2007-navtitle_webfeatures"
+msgstr "Webfeatures"
+
+msgid "ew2007-navtitle_photo competition"
+msgstr "Photo Competition"
+
+msgid "ew2007-navtitle_video competition"
+msgstr "Concorso video"
+
+msgid "ew2007-navtitle_accident_zone"
+msgstr "Area infortuni"
+
+msgid "ew2007-navtitle_ideas_for_action"
+msgstr "Idee di azione"
+
+msgid "ew2007-navtitle_case_studies"
+msgstr "Case Studies"
+
+msgid "ew2007-navtitle_press_room"
+msgstr "Sala Stampa"
+
+msgid "ew2007-navtitle_events"
+msgstr "Eventi"
+
+msgid "ew2007-navtitle_ecards"
+msgstr "genitori"
+
+msgid "ew2007-navtitle_navigation_link.2007-06-01.3873178933"
+msgstr "Napo"
+
+msgid "sme-navtitle_sme_good_practices"
+msgstr "Buona prassi per le PMI"
+
+msgid "sme-navdescription_sme_good_practices"
+msgstr "Buona prassi per le PMI"
+
+msgid "sme-navtitle_gp_sectors"
+msgstr "Settore"
+
+msgid "sme-navdescription_gp_sectors"
+msgstr "Settore"
+
+msgid "sme-navtitle_gp_fisheries"
+msgstr "Pesca"
+
+msgid "sme-navdescription_gp_fisheries"
+msgstr "Pesca"
+
+msgid "sme-navtitle_gp_construction"
+msgstr "Edilizia"
+
+msgid "sme-navdescription_gp_construction"
+msgstr "Edilizia"
+
+msgid "sme-navtitle_gp_topics"
+msgstr "Tematiche"
+
+msgid "sme-navdescription_gp_topics"
+msgstr "Tematiche"
+
+msgid "sme-navtitle_gp_dangerous_substances"
+msgstr "Sostanze pericolose"
+
+msgid "sme-navdescription_gp_dangerous_substances"
+msgstr "Sostanze pericolose"
+
+msgid "sme-navtitle_gp_stress"
+msgstr "Stress sul lavoro"
+
+msgid "sme-navdescription_gp_stress"
+msgstr "Stress sul lavoro"
+
+msgid "sme-navtitle_gp_priority_groups"
+msgstr "Gruppi prioritari"
+
+msgid "sme-navdescription_gp_priority_groups"
+msgstr "Gruppi prioritari"
+
+msgid "sme-navtitle_gp_disabled_people"
+msgstr "Persone disabili"
+
+msgid "sme-navdescription_gp_disabled_people"
+msgstr "Persone disabili"
+
+msgid "sme-navtitle_agency_publications"
+msgstr "Pubblicazioni dell' Agenzia"
+
+msgid "sme-navdescription_agency_publications"
+msgstr "Pubblicazioni dell&#39;Agenzia"
+
+msgid "sme-navtitle_pub_factsheets"
+msgstr "Factsheet"
+
+msgid "sme-navdescription_pub_factsheets"
+msgstr "Factsheet"
+
+msgid "sme-navtitle_pub_reports"
+msgstr "Relazioni"
+
+msgid "sme-navdescription_pub_reports"
+msgstr "Relazioni"
+
+msgid "sme-navtitle_about"
+msgstr "Riguardo a questo sito"
+
+msgid "sme-navdescription_about"
+msgstr "Riguardo a questo sito"
+
+msgid "sme-navtitle_pressroom"
+msgstr "Sala Stampa"
+
+msgid "sme-navdescription_pressroom"
+msgstr "Sala Stampa"
+
+msgid "sme-navtitle_sme_funding_schemes"
+msgstr "PMI-schema di finanziamento"
+
+msgid "sme-navdescription_sme_funding_schemes"
+msgstr "PMI-schema di finanziamento"
+
+msgid "sme-navtitle_2001_2002"
+msgstr "2001-2002"
+
+msgid "sme-navdescription_2001_2002"
+msgstr "2001-2002"
+
+msgid "sme-navtitle_2002_2003"
+msgstr "2002-2003"
+
+msgid "sme-navdescription_2002_2003"
+msgstr "2002-2003"
+
+msgid "sme-navtitle_2003_2004"
+msgstr "2003-2004"
+
+msgid "sme-navdescription_2003_2004"
+msgstr "2003-2004"
+
+msgid "sme-navtitle_sme_fs_evaluations"
+msgstr "SME Funding Scheme Evaluations"
+
+msgid "sme-navdescription_sme_fs_evaluations"
+msgstr "SME Funding Scheme Evaluations"
+
+msgid "sme-navtitle_sme_assistance_schemes"
+msgstr "Schema d' assistenza alle PMI"
+
+msgid "sme-navdescription_sme_assistance_schemes"
+msgstr "Schema d&#39; assistenza alle PMI"
+
+msgid "sme-navtitle_schemes_by_type"
+msgstr "Schemi per tipologia"
+
+msgid "sme-navdescription_schemes_by_type"
+msgstr "Schemi per tipologia"
+
+msgid "newoshera-navtitle_navigation"
+msgstr "Menu"
+
+msgid "newoshera-navtitle_about"
+msgstr "About NEW OSH ERA"
+
+msgid "newoshera-navtitle_background"
+msgstr "Background"
+
+msgid "newoshera-navtitle_objectives"
+msgstr "Objectives"
+
+msgid "newoshera-navtitle_work_content"
+msgstr "Work content"
+
+msgid "newoshera-navtitle_orga"
+msgstr "Organisation Structure"
+
+msgid "newoshera-navtitle_participants"
+msgstr "Participants"
+
+msgid "newoshera-navtitle_progress"
+msgstr "Project Progress"
+
+msgid "newoshera-navtitle_contact"
+msgstr "Contact"
+
+msgid "newoshera-navtitle_links"
+msgstr "Links"
+
+msgid "newoshera-navtitle_extranet"
+msgstr "Extranet (for Members only)"
+
