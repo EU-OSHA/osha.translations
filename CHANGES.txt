@@ -1,7 +1,9 @@
 osha.translations Changelog
 ===========================
 
-1.0 (unreleased)
+1.0 (2011-05-23)
 ----------------
 
-- Initial release; translation files moved from osha.theme
+- Initial release; translation files moved from osha.theme [thomasw]
+- Added TR translations for NAPO, provided by PR [thomasw]
+

@@ -13,13 +13,7 @@ version = '1.0'
 long_description = (
     read('README.txt')
     + '\n' +
-    'Change history\n'
-    '**************\n'
-    + '\n' +
     read('CHANGES.txt')
-    + '\n' +
-    'Detailed Documentation\n'
-    '**********************\n'
     + '\n' +
     read('src', 'osha', 'translations', 'README.txt')
     )
