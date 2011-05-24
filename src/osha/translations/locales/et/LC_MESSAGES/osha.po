@@ -10174,7 +10174,7 @@ msgid "heading_napo-015-safe-moves-episode-006-circus-number"
 msgstr "Tsirkusenumber"
 
 msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
-msgstr "Ebastabiilne  last (Auk tees)"
+msgstr "Ebastabiilne last"
 
 msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
 msgstr "Hea nähtavus"
