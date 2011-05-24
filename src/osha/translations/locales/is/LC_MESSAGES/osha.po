@@ -2015,7 +2015,7 @@ msgid "description_napo_film_9"
 msgstr "Áhættumat er þema evrópsku herferðarinnar 2008/09.  Hættuleg viðskipti er um hættur og áhættur á vinnustað og þörfina á að meta hættur og bregðast við niðurstöðunum til að gera vinnustaðinn öruggari og heilsusamlegri.  Kvikmyndin lítur á hættur og helstu áhættur á vinnustöðum, og þörfina á að: „Stöðva, hugsa og framkvæma“ til að draga úr fjölda slysa á vinnustað og tíðni atvinnusjúkdóma.  Kvikmyndin er ætluð til nota sem hluti að kynningu á áhættumati og hugtökunum hætta og áhætta." 
 
 msgid "title_napo_film_11"
-msgstr "Napo í: \ Öryggi á… og utan vinnu  \""
+msgstr "Napo í: \"Öryggi á… og utan vinnu\""
 
 msgid "description_napo_film_11"
 msgstr "<p>Þessi kvikmynd fjallar um Napo þar sem hann er fyrirmyndar starfsmaður.  Eftir vinnu hundsar hann hins vegar hættur og reglur, í ólíkum aðstæðum.  Þetta leiðir til margra tilfella þar sem litlu munar að slys verði og loks verður hann fyrir íþróttameiðslum og Napo endar á sjúkrahúsi.  Þessar aðstæður í frítíma ná yfir akstur, heimilið, lífsstíl, félagslíf og íþróttir.  Hægt er að niðurhala stuttu skyndiprófi á heimasíðunni (eða DVD), og er hægt að nota til að fara yfir nokkrar af reglunum með áheyrendum.</p><p>Helsti markhópur þessarar Napo myndar er starfsfólk fyrirtækis.  Ætlunin er að nota hana til umfjöllunar um að nýta frítíma sinn á öruggan hátt.  Kvikmyndin er einnig góð fyrir stjórnunarþjálfun í sambandi við viðveru- og fjarverustjórnun.</p>"
