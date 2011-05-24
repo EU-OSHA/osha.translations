@@ -10130,6 +10130,42 @@ msgstr "Periklu!"
 msgid "title_napo_episode_14_6"
 msgstr "Min se jagħmel xiex?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo... films minghajr periklu"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Dan id-DVD jiffoka l-aktar fuq it-trasport fil-post tax-xogħol, b’mod partikolari fuq l-użu ta’ fork-lift truck flimkien ma` meżżi oħra ta` transport. Il-film juri xeni ta` żoni mingħajr perikli, sigurta tan-nies, sigurta tal-makkinarju, manutenzjoni, viżibbilta ċara, riversjar u l-ħatt ta` tagħbija. Il-messaġġ tal-film huwa ta` importanza għall-haddiema b`mod partikolari għal dawk ġodda jew żgħażagħ.</p><p>Dan il-film jenfasiżża b’mod speċjali li t-trasport fuq il-post tax-xogħol għandu jkun organiżżat u mmaniġġjat tajjeb. Għalhekk irid ikun ippjanat, implimentat u mmonitorjat mill- management. Irid dejjem isir risk assessment biex jiġu stabbiliti il-perikli u r-riskji fuq il-post tax-xogħol, u għandha tittieħed kull azzjoni neċessarja f`każ ta` bżonn. Min-naħa tal-ħaddiema, dawn għandhom ikunu imħarrġa u ssorveljati tajjeb, u jkun hemm koperazzjoni sabiex ir-riskji jiġu mnaqqsa u il-perikli jkunu kkontrollati.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Nippjanaw għas-sigurta"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Periklu – ħatt ta` taghbija"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Manutenzjoni batuta"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Mitluf fil-ħsibijet"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Direzzjoni opposta"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Fiċ-ċirklu"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Tagħbija li mhix stabbli"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Viżjoni ċara"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Sinjali ta` periklu"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Tmiem"
 ####
 # Alertservice
 

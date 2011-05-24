@@ -434,3 +434,40 @@ msgstr "Danger within!"
 
 msgid "title_napo_episode_14_6"
 msgstr "One, two, what to do?"
+
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo in... Safe moves"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Основное внимание в фильме уделяется  работе на транспортных средствах. Центральное место – автопогрузчики и другие виды  внешнего и внутрицехового транспорта.</p><p>В фильме содержатся сцены о технике безопасности на объекте, безопасности людей, безопасности транспортных средств, техническом обслуживании, видимости объектов, безопасности при движении задним ходом и погрузке/разгрузке транспортного средства. Данный фильм предназначен для всех работников, особенно для новых сотрудников и молодых работников.</p><p>Основная мысль фильма заключается в том, что рабочее место на транспортном средстве должно быть хорошо организовано и работа на нем должна контролироваться.   Это требует планирования, постоянного контроля и выполнения необходимых мероприятий  со стороны старших руководителей, проведения оценки рисков для выявления опасностей, и принятие соответствующих корректирующих мер.</p><p>Для этого также необходимо уделять внимание подготовке сотрудников, включая поведенческий подход, осуществлять постоянный контроль совместные действия, направленные на снижение рисков и эффективное и своевременное устранение  опасностей.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planning for safety"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Danger – unloading!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Poor maintenance"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Carried away"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Separate ways"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Circus number"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Unstable load"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Clear vision"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Danger calling"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "The end game"

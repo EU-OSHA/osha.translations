@@ -2109,6 +2109,42 @@ msgstr "Hætta að innan!"
 msgid "title_napo_episode_14_6"
 msgstr "Einn, tveir, hvað skal gera?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo í ... öryggismyndum"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Áherslan er lögð á flutning á varningi í fyrirtækjum. Lyftarinn er í aðalhlutverki en einnig er fjallað um önnur flutningstæki, bæði innan og utna dyra.</p><p>Í myndinni eru atriði um  öryggi við vinnu er varðar fólk, tæki, viðhaldsvinnu, góða yfirsýn og útsýni, þegar ekdið er áfram, afturábak og þegar verið er að hlaða eða afhlaða. Myndin er gerð fyrir alla starfsmenn en þó sérstaklega fyrir nýliða í starfi og unga starfsmenn.</p><p>Megin áherslan í myndinni er að flutningar á efni þurfa að vera vel skipulagðir og vel stjórnað. Þetta krefst skipulags, stjórnunar og vöktunar af reyndum stjórnanda, áhættumats til að greina hættur og áhættur, til að geta brugðist við þeim með viðeigandi hætti. Krafan er líka sú að hegðun starfsmanns sé almennileg og í samræmi við þjálfun hans og kröfur vinnustaðarins. Verkstjórn og samvinna þarf að vera í lagi svo að áhætta sé lágmörkuð og hættum sé stjórnað á viðunandi hátt.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Skipulag öryggismála"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Hætta - afferming"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Lélegt viðhald"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Borinn í burtu"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Mismunandi leiðir"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Atriði í fjölleikahúsi"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Losaraleg hleðsla - hola í gólfinu"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Gott útsýni"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Hættuleg símhringing"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Síðasti leikurinn"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt

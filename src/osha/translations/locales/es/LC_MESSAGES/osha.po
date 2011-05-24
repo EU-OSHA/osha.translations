@@ -9431,6 +9431,42 @@ msgstr "Peligro: espacio confinado"
 msgid "title_napo_episode_14_6"
 msgstr "¿Qué hace cada cual?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo en... Moverse seguro"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>La película se centra en el transporte en el lugar de trabajo, dirigiendo especial atención al transporte mediante carretilla elevadora, entre otras formas de transporte interno y externo.</p><p>La película incluye escenas sobre la seguridad del lugar, de las personas y de los vehículos, así como sobre el mantenimiento, la visibilidad, los cambios, y las actividades de carga y descarga. Está dirigida a todos los trabajadores, pero sobre todo a los nuevos y a los trabajadores jóvenes.</p><p>El mensaje principal de la película es que el transporte en el lugar de trabajo debe estar bien organizado y bien gestionado. Esto requiere una implicación de la dirección en la correcta planificación, ejecución y seguimiento, así como  en la evaluación de riesgos para identificar los peligros y riesgos, y en la adopción de las medidas necesarias. También exige un comportamiento adecuado de los trabajadores que deben estar debidamente capacitados y ser supervisados; y mediante un enfoque participativo lograr que los riesgos se reduzcan y se gestionen adecuadamente.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "La planificación de la seguridad"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "¡Peligro descargando!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Mantenimiento deficiente"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "¿Te subes?"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Vías de paso"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Número circense"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Carga inestable"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Verlo claro da seguridad"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Peligro de llamada"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Centrarse en los cambios"
 ####
 # Alertservice
 
@@ -9615,7 +9651,6 @@ msgstr "Prevention"
 
 msgid "economic_incentives"
 msgstr "Incentivos económicos"
-
 ####
 
 msgid "Our Events"

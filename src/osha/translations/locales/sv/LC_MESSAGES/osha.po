@@ -10190,6 +10190,43 @@ msgstr "Därinne är det farligt"
 msgid "title_napo_episode_14_6"
 msgstr "Vad göra?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo i ...säkra rörelser"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Fokus är på transporter inom arbetsplatsen. Gaffeltrucken är central i filmen men även andra typer av interna och externa transportfordon förekommer.</p><p>Filmen innehåller scener om personsäkerhet, arbetsplatssäkerhet, fordonssäkerhet, underhåll, siktförhållanden samt lastning och lossning. Den är lämplig för alla på arbetsplatsen, särskilt för nyanställda och unga.</p><p>Filmens huvudtema är att transporter på en arbetsplats måste hanteras och organiseras på ett bra sätt. Detta kräver planering, genomförande och övervakning av seniora ledare, riskbedömningar för att identifiera faror och risker samt att vidta de åtgärder som behövs. Det behövs också lämpligt beteende från arbetstagarna som ska få rätt träning och ledning, samt en inställning på arbetsplatsen så att alla arbetar för att reducera risker.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planera för säkerhet"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Fara - avlastning"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Dåligt underhåll"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Distraherad"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Skilda vägar"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Cirkusnummer"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Gropen"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Fri sikt"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Olyckan ringer"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Sista draget"
+
 ####
 # Alertservice
 

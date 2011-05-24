@@ -10409,6 +10409,42 @@ msgstr "Gevaar in een afgesloten ruimte"
 msgid "title_napo_episode_14_6"
 msgstr "Informatie gaat verloren"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo in... Veilig intern transport"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>De nadruk ligt op het intern transport. In deze film staat de vorkheftruck centraal naast andere vormen van intern en extern transport.</p><p>De film bevat scènes over veiligheid op de arbeidsplaats: de veiligheid voor de werknemers, de voertuigveiligheid, het onderhoud, de zichtbaarheid, het omkeren, en het laden en het lossen. Hij is geschikt voor alle werknemers; maar vooral voor nieuwe en jonge werknemers.</p><p>Een goede organisatie en een passend beheer van het intern transport vormen het belangrijkste thema in deze film. Dit vereist planning, uitvoering en controle door senior managers, risicobeoordeling om gevaren en risico's te identificeren, en de behoefte om geschikte  maatregelen te nemen. Het vereist ook het juiste gedrag van de werknemers die een passende opleiding moeten hebben gevolgd en die goed worden gecontroleerd. Het vereist verder een coöperatieve aanpak zodat de risico's worden verminderd en de gevaren op de juiste manier worden beheerd en beheerst.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Alles volgens plan"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Gevaar bij het lossen"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Slecht onderhoud"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Meegesleept"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Gescheiden wegen"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Rijp voor het circus"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Onstabiele lading"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Duidelijk zicht"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Gevaarlijke oproep"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "De finale"
 ####
 # Alertservice
 

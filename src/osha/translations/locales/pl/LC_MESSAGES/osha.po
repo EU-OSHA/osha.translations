@@ -10150,6 +10150,42 @@ msgstr "Sam sobie wrogiem"
 msgid "title_napo_episode_14_6"
 msgstr "I co dalej?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo i bezpieczeństwo transportu"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Tematyka filmu koncentruje się wokół problematyki transportu w miejscu pracy. Motywem przewodnim jest wózek widłowy, a także inne formy transportu wewnętrznego i zewnętrznego.</p><p>Film składa się z sekwencji dotyczących zapewnienia bezpieczeństwa miejsca pracy, pracowników, procesów konserwacji, a także widoczności i bezpieczeństwa podczas cofania oraz załadunku i rozładunku pojazdów. Adresatami filmu są wszyscy pracownicy, a w szczególności nowozatrudnieni i ludzie młodzi.</p><p>Tematem wiodącym filmu jest prawidłowa organizacja i zarządzanie transportem w miejscu pracy. Zagadnienie to wymaga odpowiedniego planowania, realizacji i monitorowania przez menedżerów wyższego szczebla, a także oceny ryzyka w celu zidentyfikowania zagrożeń i podjęcia odpowiednich działań. Niezbędne są także prawidłowe zachowania ze strony pracowników, ich przeszkolenie, współpraca z nimi  i nadzorowanie pracy. Wszystko to składa się na skuteczne zarządzanie bezpieczeństwem pracy. </p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planowanie dla bezpieczeństwa"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Rozładunek - zagrożenie!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Kiepska konserwacja"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Niedźwiedzia przysługa"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Oddzielne drogi"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Cyrkowy numer"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Chwiejny ładunek"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Jasna wizja"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Niebezpieczny fach"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Końcowa gra"
 ####
 # Alertservice
 

@@ -10152,7 +10152,42 @@ msgstr "Invendig fare!"
 msgid "title_napo_episode_14_6"
 msgstr "Hvem gør hvad?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Sikker transport"
 
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Filmen har fokus på transportopgaver i en virksomhed. Det drejer sig primært om opgaver med gaffeltruck og andre former for intern og ekstern transport.</p><p>Filmen indeholder scener om sikkerhed på virksomhedens område, personsikkerhed, transportmidlets sikkerhedsindretning, vedligeholdelse, sigtbarhed, bakkemanøvre, lastning og losning. Filmen henvender sig til alle arbejdstagere, men især nyansatte og unge.</p><p>Filmens hovedtema er, at transport på arbejdspladsen skal være planlagt og organiseret på en forsvarlig måde. Det kræver planlægning og tilsyn af ledelsen samt identifikation og vurdering af risici for at kunne tage de fornødne forholdsregler. Det kræver også hensigtsmæssig adfærd af de ansatte, som skal have passende uddannelse og instruktion. De ansatte skal tillige være indstillet på samarbejde, så risici bliver så få som muligt og at de risici, der ikke kan undgås, bliver håndteret på en god måde.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planlægning af sikkerheden"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Fare – aflæsning!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Dårlig vedligeholdelse"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Opløftet stemning"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Sine egne veje"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Cirkusnummer"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Ustabil last – Hul i vejen"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Klart syn"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Farligt opkald"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Slutspillet"
 ####
 # Alertservice
 
@@ -10337,7 +10372,6 @@ msgstr "Prevention"
 
 msgid "economic_incentives"
 msgstr "Økonomiske incitamenter"
-
 
 ####
 

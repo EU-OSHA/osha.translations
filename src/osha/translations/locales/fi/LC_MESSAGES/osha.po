@@ -10175,6 +10175,43 @@ msgstr "Vaara suljetussa tilassa"
 msgid "title_napo_episode_14_6"
 msgstr "Kuka tekee mitä?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo ... Turvalliset siirrot"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Filmi käsittelee työpaikan liikennettä. Erityisesti keskitytään trukkiliikenteeseen sekä muuhun sisäiseen ja ulkoiseen liikenteeseen.</p><p>Filmi sisältää kohtauksia työmaan turvallisuudesta, henkilöturvallisuudesta, liikennevälineiden turvallisuudesta, kunnossapidosta, näkyvyydestä, peruuttamisesta sekä kuorman lastauksesta ja purusta. Se sopii kaikille, mutta on suunnattu erityisesti uusille ja nuorille työntekijöille.</p><p>Filmin kantavana ajatuksena on työpaikan liikenteen suunnittelun ja ohjauksen tärkeys. Suunnittelu, käytännön toteutus ja toteutuksen seuranta vaatii ylemmän johdon osallistumista, vaarojen tunnistamista, riskien arviointia ja tarvittavien toimenpiteiden toteuttamista. Työntekijät on myös opastettava oikeisiin toimintatapoihin ja yhteisten sääntöjen noudattamista on valvottava. Parhaan tuloksen saavuttamiseksi vaaroja tulee torjua ja riskejä hallita yhteistyössä.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Suunnittelulla turvalliseksi"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Vaara - kuorman purku!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Heikkoa kunnossapitoa"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Kuljetus"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Erilliset reitit"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Sirkusesitys"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Epävakaa taakka"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Selkeä näkökenttä"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Vaara kutsuu"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Leikin loppu"
+
 ####
 # Alertservice
 

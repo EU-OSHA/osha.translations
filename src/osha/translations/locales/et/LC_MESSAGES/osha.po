@@ -10148,6 +10148,43 @@ msgstr "Suletud ruumide ohud"
 msgid "title_napo_episode_14_6"
 msgstr "Kes teeb mida?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo … liigub ohutult"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Tähelepanu keskmes on siin töökoha transport. Filmi jaoks peamine on kahveltõstuk koos muude sise- ja välistranspordi vahenditega.</p><p>Film sisaldab stseene tööterritooriumi , inimeste  ja  transpordivahendi ohutusest, hooldus- ja remonditööst, vaateulatusest, tagurdamisest ning peale ja maha laadimisest. Film sobib kõigile töötajatele, aga eriti uutele ja noortele töötajatele.</p><p>Filmi põhiteema - transport töökohal peab olema hästi organiseeritud ja hästi juhitud. See nõuab tippjuhtide poolset plaanimist, elluviimist, seiret  ja riskihindamist, tuvastamaks ohud ja riskid ning vajaduse võtta vastavaid meetmeid. Samuti nõuab see asjakohast käitumist töötajailt, kes peaksid olema põhjalikult välja õpetatud ja hästi järele valvatud, ning koostöövalmidust, et riskid oleksid vähendatud ja ohud korralikult ohjatud.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Kõik algab plaanist"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Ettevaatust oht – maha laadimine!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Vilets hooldus"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Satub hoogu"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Eraldi teed"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Tsirkusenumber"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Ebastabiilne  last (Auk tees)"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Hea nähtavus"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Ohtlik helin"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Lõppmäng"
+
 ####
 # Alertservice
 

@@ -9999,6 +9999,42 @@ msgstr "Spazi confinati"
 msgid "title_napo_episode_14_6"
 msgstr "Perdita di informazioni"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo in... Trasporti sicuri"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Il video è centrato sui rischi collegati ai trasporti sui luoghi di lavoro effettuati principalmente con i carrelli elevatori ma anche con altri mezzi utilizzati sia all’interno che all’esterno dell’azienda.</p><p>Il film comprende episodi sulla sicurezza dei luoghi di lavoro e dei lavoratori, sulla manutenzione, sui rischi legati alla guida dei veicoli anche in retromarcia, e al carico/scarico delle merci. E’ indirizzato a tutti i lavoratori, in special modo ai neo-assunti e ai lavoratori giovani.</p><p>Il tema principale del film riguarda la buona organizzazione e la corretta gestione dei trasporti nei luoghi di lavoro.</p><p>Per ottenerle sono necessari, da parte della dirigenza aziendale, pianificazioni, azioni e monitoraggi, ed anche la valutazione dei rischi per individuare le fonti di pericolo nonché tutto quanto si renda necessario per mettere in atto adeguati interventi.</p><p>È però fondamentale che i lavoratori assumano un comportamento corretto ed un approccio collaborativo e vengano sottoposti ad una formazione corretta e ad una adeguata supervisione al fine di ridurre i rischi e tenere sotto controllo i pericoli.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Organizzare la circolazione"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Scarico pericoloso"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Risparmiare sulla manutenzione"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Carrelli spericolati"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Percorsi separati"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Numero da circo"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Carico instabile"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Vederci chiaro"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Chiamate pericolose"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Il finale"
 ####
 # Alertservice
 

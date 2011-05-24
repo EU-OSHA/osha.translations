@@ -10144,6 +10144,42 @@ msgstr "Uždara patalpa: atsargiai pavojus!"
 msgid "title_napo_episode_14_6"
 msgstr "Kas ką daro?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo... ir saugus eismas"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Dėmesys skiriamas transportui darbo vietoje. Filmo centre yra šakinis autokrautuvas ir kitos vidinio bei išorinio transporto rūšys.</p><p>Filme yra scenos apie darbo vietos saugą, žmonių saugą, transporto priemonės saugumą, techninę priežiūrą, matomumą, važiavimą atbuline eiga ir krovos darbus. Filmas yra tinkamas visiems darbuotojams, bet ypač naujiems ar jauniems darbuotojams.</p><p>Pagrindinė filmo idėja yra, kad transporto eismas darbo vietoje privalo būti gerai organizuotas ir gerai valdomas. Tai reikalauja planavimo, įgyvendinimo ir stebėsenos iš vyresniųjų vadovų pusės, rizikos vertinimo siekiant nustatyti pavojus ir riziką, ir būtinybės imtis atitinkamų veiksmų. Tai, taipogi, reikalauja atitinkamos elgsenos iš darbuotojų, kurie turėtų būti tinkamai apmokyti ir gerai prižiūrimi, ir kooperatyvinio požiūrio, kad rizika būtų sumažinta, o pavojai tinkamai valdomi.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planavimas dėl saugos"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Pavojus - krovos darbai"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Prasta techninė priežiūra"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Nesusivalde"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Atskirti keliai"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Cirko numeris"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Nestabilus krovinys - Duobė"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Geras matomumas"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Pavojingas skambutis"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Žaidimo pabaiga"
 #####
 # Alertservice
 

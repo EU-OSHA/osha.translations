@@ -10131,6 +10131,42 @@ msgstr "Risks slēgtā telpā"
 msgid "title_napo_episode_14_6"
 msgstr "Kā rīkoties?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo ... droša pārvietošanās"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Filmas tēma ir  darba vietas transports - auto krāvēji, kā ar cita veida iekšējais un ārējais transports.</p><p>Filma aptver šādu tematiku:  darba vietas drošība, cilvēku drošība, transportlīdzekļu drošība, apkope, redzamība, drošība strādājot atpakaļgaitā, drošība iekraujot/izkraujot kravu.</p><p>Filma piemērota visiem,  kas saistīti ar darba vietas transportu, bet īpaši -  jauniem darbiniekiem.</p><p>Transportam darba vietā ir jābūt labi organizētam un labi pārvaldītam – tāda ir filmas galvenā tēma. Tas prasa plānošanu, ieviešanu un uzraudzību no vadības puses, kā arī riska novērtēšanu, lai identificētu briesmas un riskus, un vajadzības gadījumā veiktu atbilstošus pasākumus.</p><p>Lai mazinātu riskus un briesmas pienācīgi uzraudzītas, darbiniekiem ir jābūt pienācīgi apmācītiem, kā arī jābūt izstrādātai sadarbībai visos uzņēmuma līmeņos.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Drošības plānošana"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Uzmanību-izkraušana!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Slikta apkope"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Rīcība bez apdoma"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Iezīmēti ceļi"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Ķēdes reakcija"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Nedroša krava"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Laba redzamība"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Bīstamais telefons"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Spēles beigas"
 ####
 # Alertservice
 

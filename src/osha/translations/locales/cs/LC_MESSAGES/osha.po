@@ -9670,6 +9670,42 @@ msgstr "Něco tu nehraje!"
 msgid "title_napo_episode_14_6"
 msgstr "A co teď?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "NAPO a... Bezpečnost v pohybu"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Film je zaměřen na vnitrozávodovou dopravu. Ústředním tématem je obsluha zdvižných vozíků spolu s dalšími formami dopravy na pracovišti.</p><p>Film obsahuje scénky o bezpečnosti práce na pracovišti, o bezpečnosti pracovníků, o bezpečnosti motorových prostředků, údržbě, dobré viditelnosti, couvání a nakládání a vykládání nákladu. Je vhodný pro všechny zaměstnance, a zejména je vhodný pro nové zaměstnance a mladistvé.</p><p>Nosnou myšlenkou filmu je, že doprava na pracovišti musí být dobře organizována a řízena. To vyžaduje plánování, řízení provozu a monitorování nadřízenými, a v neposlední řadě vyhodnocení nebezpečí a rizik a přijetí hodných opatření k jejich omezení. Od zaměstnanců se vyžaduje odpovědný přístup a také je nutné, aby byli vhodně vyškoleni a setrvale pod dohledem nadřízeného. Úspěch přinese jen úzká spolupráce mezi zaměstnanci a zaměstnavateli.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Všechno podle plánu"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Pozor – vykládka!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Špatná údržba"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Dáváte si pozor?"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Každý zvlášť"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Cirkusové číslo"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Nestabilní náklad"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Výhled bez překážek"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Pozor na riziko"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Řešení je nasnadě"
 
 ####
 # Alertservice

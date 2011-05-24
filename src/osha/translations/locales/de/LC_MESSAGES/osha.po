@@ -10059,6 +10059,42 @@ msgstr "Vergiftetes  Klima"
 msgid "title_napo_episode_14_6"
 msgstr "Bitte weitersagen!"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo in... Sicher unterwegs"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>In diesem Video geht es um innerbetrieblichen Verkehr. Neben anderen Transportmitteln steht der Gabelstapler im Mittelpunkt.</p><p>Die einzelnen Szenen behandeln sichere Verkehrswege, richtiges Fahrverhalten, Personenschutz, regelmäßige Wartung, Laden und Entladen. Das Video ist für die Unterweisung aller Beschäftigten, insbesondere aber für junge und neu eintretende geeignet.</p><p>Der innerbetriebliche Verkehr muss gut durchdacht und organisiert sein. Das erfordert Planung, Umsetzung und Kontrolle durch den Arbeitgeber. Dieser muss auch etwaige Gefahren ermitteln und die notwendigen Maßnahmen setzen. Von den Beschäftigten verlangt der innerbetriebliche Verkehr das richtige Verhalten und gegebenenfalls auch eine nachweisliche Ausbildung. Nur wenn Arbeitgeber und Beschäftigte an <em>einem</em> Strang ziehen, können Gefahren verringert und Unfälle vermieden werden.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Alles nach Plan"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Rollende Güter"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Unerwartet - ungewartet"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Gefährlicher Freundschaftsdienst"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Getrennte Wege"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Zirkusreif"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Hochstapeln kommt vor dem Fall"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Trübe Aussichten"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Immer auf Empfang"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Das Finale"
 ####
 # Alertservice
 

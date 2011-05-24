@@ -10162,6 +10162,42 @@ msgstr "Notranja nevarnost"
 msgid "title_napo_episode_14_6"
 msgstr "Povej naprej!"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo se giblje varno"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Film se osredotoča na transport na delovnem mestu. Glavni poudarek filma je na varni uporabi viličarja, kakor tudi na drugih oblikah notranjega in zunanjega transporta.</p><p>Film vključuje prizore v zvezi z varnostjo na delovnih mestih, varnostjo ljudi, varnostjo transportnih sredstev, vzdrževanjem, vidljivostjo, vzvratno vožnjo ter nakladanjem in razkladanjem tovora. Namenjen je vsem delavcem, še posebej mladim in novo zaposlenim.</p><p>Glavno sporočilo filma je, da mora biti transport na delovnem mestu dobro organiziran in dobro upravljan. To zahteva od vodilnih delavcev načrtovanje transportnega sistema, njegovo uvedbo in nadzorovanje, pa tudi izvedbo postopka ocenjevanja tveganj, da se določijo nevarnosti in tveganja ter izvedejo ustrezni ukrepi. Prav tako je pomembno pravilno ravnanje zaposlenih, ki morajo biti ustrezno usposobljeni in nadzirani. Sodelovanje vseh vpletenih zagotavlja zmanjšanje in obvladovanje tveganj.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Načrtovanje varnosti"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Nevarno raztovarjanje"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Slabo vzdrževanje"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Navdusenje ga je zanesio"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Ločene poti"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Cirkuška točka"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Nestabilen tovor"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Dobra vidljivost"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Nevarnost kliče"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Zakljucna igra"
 ####
 # Alertservice
 

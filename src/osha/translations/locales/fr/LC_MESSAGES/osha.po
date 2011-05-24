@@ -10420,6 +10420,42 @@ msgstr "Danger en espace confiné"
 msgid "title_napo_episode_14_6"
 msgstr "Qui fait quoi?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo dans... Circulez, y’a tout à voir!"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Ce film traite de la circulation en entreprise et présente principalement des chariots élévateurs à fourche ainsi que d’autres types de transport.</p><p>Il met en scène la sécurité des locaux, des personnes, des véhicules et aborde également les problématiques de maintenance, de visibilité, de renversement et de chargement/déchargement. Il s’adresse à tous les travailleurs, et en particulier, aux nouveaux embauchés et aux jeunes.</p><p>La circulation en entreprise doit faire l’objet d’une bonne organisation et d’une bonne gestion. Cela nécessite une démarche de planification, de réalisation et de suivi de la part de la direction de l’entreprise, mais aussi une évaluation des risques et des dangers ainsi que la mise en place d’actions appropriées. Cela suppose également que les salariés soient dûment formés et encadrés et qu’une démarche collaborative soit mise en place afin de réduire les risques et de bien maîtriser les dangers.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planning casse-tête!"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Attention déchargement!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Piètre maintenance!"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Les collègues ne sont pas des colis!"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "A chacun sa voie!"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "A l’arrimage!"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Charge instable sur sol accidenté!"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Voir et être vu!"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Le téléphone en sourdine!"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Tête en l’air!"
 ####
 # Alertservice
 

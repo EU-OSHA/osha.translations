@@ -10142,6 +10142,42 @@ msgstr "Pozor nebezpečenstvo!"
 msgid "title_napo_episode_14_6"
 msgstr "A čo ďalej?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo ... Bezpečne na ceste"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Dôraz je kladený na dopravu na pracovisku. Ústredným motívom filmu je motorový vozík vedľa iných foriem internej a externej dopravy.</p><p>Film obsahuje scény o bezpečnosti na pracovisku, bezpečnosti osôb, bezpečnosti vozidiel, údržbe, viditeľnosti, cúvaní, nakládke a vykládke. Je vhodný pre všetkých, ale predovšetkým pre nových a mladých zamestnancov.</p><p>Hlavnou témou filmu je upozornenie, že doprava na pracovisku musí byť dobre organizovaná a riadená. To si vyžaduje plánovanie, realizáciu a monitorovanie zo strany vedúcich manažérov, posúdenie rizika na identifikáciu nebezpečenstva a rizika. Je  potrebné prijať primerané opatrenia, čo vyžaduje zodpovedné správanie  zamestnancov, ktorí by mali byť riadne vyškolení a správnym spôsobom riadení a kooperatívny prístup tak, aby sa znížilo riziko a nebezpečenstvá boli pod kontrolou.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Bezpečné plánovanie"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Nebezpečie pri vykládke"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Nedostatočná údržba"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Odvezený"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Oddelené cesty"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Artistický úkon"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Nestabilný náklad"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Jasné videnie"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Stále dosiahnuteľný"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Koniec hry"
 ####
 # Alertservice
 

@@ -10180,6 +10180,42 @@ msgstr "O perigo dos espaços confinados"
 msgid "title_napo_episode_14_6"
 msgstr "Quem faz o quê e quando?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo: movimentos seguros"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Este filme centra-se no tema do transporte nos locais de trabalho. Dando destaque à utilização das empilhadoras apresenta, contudo, outros exemplos de formas de transporte interno e externo.</p><p>Inclui cenas relativas à segurança dos locais de trabalho, das pessoas, dos veículos, da manutenção, cargas e descargas e cuidados a ter para uma melhor visibilidade, nas manobras, bem como nas inversões de marcha. É adequado a todos os trabalhadores, em especial aos recém chegados ao mercado de trabalho e aos trabalhadores jovens.</p><p>A mensagem principal do filme é que o transporte nos locais de trabalho deve ser bem organizado e bem gerido. Tal requer planeamento, implementação e monitorização por parte das chefias, bem como avaliações de riscos e a concretização de acções apropriadas por parte dos trabalhadores, a quem deve ser disponibilizada formação adequada, devendo ser convenientemente supervisionados e adoptando uma abordagem de cooperação, para uma efectiva gestão dos riscos.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planear a segurança"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Cargas e Descargas"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Falta de Manutenção"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Amizades perigosas"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Trajectos separados"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Número de Circo"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Carga instável"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Fraca visibilidade"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Ligações perigosas"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "O jogo final"
 ####
 # Alertservice
 

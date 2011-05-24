@@ -2125,6 +2125,43 @@ msgstr "Fare innendørs!"
 msgid "title_napo_episode_14_6"
 msgstr "Hva gjør vi nå?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo i... sikker transport"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Filmen er rettet mot transportbransjen. Sentralt i filmen er gaffeltruck sammen med andre former for transport. Filmen omhandler sikkerhet for arbeidstakerne på arbeidsstedet, sikkerhet ved bruk av kjøretøy, vedlikehold, sikt, rygging, lasting og lossing. Den passer for alle arbeidstakere, men særlig for nyansatte og unge arbeidstakere. Hovedtema er at transport på arbeidsplassen må organiseres og håndteres på en god måte. Dette krever planlegging, iverksetting og overvåking av ledelsen. I tillegg kreves kartlegging for å identifisere farer og risiko og behovet for å sette i verk nødvendige tiltak. Det krever også korrekt oppførsel fra arbeidstakerne som har behov for opplæring og tilsyn. I tillegg er det viktig med samarbeid for å forebygge risiko slik at farer blir håndtert korrekt.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planlegg for sikkert arbeid"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Fare – lossing!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Dårlig vedlikehold"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Revet med"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Hver sin vei"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Sirkusnummer"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Ustabil last – hull i veien"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Klar sikt"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Fare truer"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Sluttspillet"
+###
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt

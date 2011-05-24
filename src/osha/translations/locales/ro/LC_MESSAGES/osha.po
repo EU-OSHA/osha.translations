@@ -9563,6 +9563,42 @@ msgstr "Pericol în spaţiu închis"
 msgid "title_napo_episode_14_6"
 msgstr "Ce face fiecare?"
 
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo...Mişcare în siguranţă"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>Filmul are ca obiect transportul la locul de muncă. In mod special, este vorba despre căruciorul elevator cu furcă împreună cu alte forme de transport intern şi extern.</p><p>Filmul cuprinde diverse aspecte privind securitatea la locul de muncă, securitatea lucrătorilor, securitatea vehiculelor, mentenanţa, vizibilitatea, reversia, încărcarea/descărcarea. Filmul se adresează tuturor lucrătorilor dar, în mod special, noilor angajaţi şi lucrătorilor tineri.</p><p>Tema principală a filmului o constituie necesitatea ca transportul la locul de muncă să fie bine organizat şi controlat. Aceasta presupune planificarea, implementarea şi monitorizarea de către personalul de conducere, evaluarea riscurilor pentru identificarea pericolelor şi riscurilor existente precum şi necesitatea unei acţiuni adecvate.</p><p>De asemenea, este necesar un comportament adecvat la locul de muncă din partea angajaţilor care trebuie instruiţi şi monitorizaţi. În esenţă, este necesară o abordare coordonată astfel încât să se reducă riscurile iar pericolele să fie monitorizate corespunzător.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planificarea securităţii în muncă"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Pericol - se descarcă!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Intreţinere deficitară"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Pericol de cedare"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Traiectorii separate"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Număr de circ"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Sarcină instabilă"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Vizibilitate bună de securitate"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Pericol - apelaţi telefonic"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "Joc final"
 ####
 # Alertservice
 
