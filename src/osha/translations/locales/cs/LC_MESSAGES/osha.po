@@ -20,9 +20,12 @@ msgid "title_agency"
 msgstr "Evropská agentura pro<br />bezpečnost a ochranu<br />zdraví při práci"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Dobré pro Vás<br />Dobré pro podnikání."
+msgstr "Zdravé pracoviště"
 
 msgid "subslogan_hw2010_campaign"
+msgstr "Dobré pro Vás<br />Dobré pro podnikání."
+
+msgid "slogan_statment_hw2010_campaign"
 msgstr "Evropská kampaň za bezpečnost práce při údržbě"
 
 msgid "heading_ew2005_stopthatnoise"
@@ -9862,8 +9865,7 @@ msgstr "Naše akce"
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
 msgid "label_date_to_be_confirmed" 
-msgstr "
-Datum bude upřesněno"
+msgstr "Datum bude upřesněno"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
