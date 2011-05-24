@@ -994,13 +994,6 @@ msgstr "A következő információ új vagy megváltozott:"
 msgid "alertservice_information_changed_since"
 msgstr " A következő információ új vagy ${date}óta megváltozott"
 
-#. <span i18n:translate="alertservice_notification_report">
-# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
-#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
-#: OSHA/skins/osha/alert_notification_template.pt
-msgid "alertservice_notification_report"
-msgstr "Jelentés az értesítésekről"
-
 #. <span i18n:translate="alertservice_notification_sentby">
 # # 2 more:
 # ./eITAlertService/skins/eITAlertService/alert_special_notification_template.pt,
@@ -4134,11 +4127,6 @@ msgstr "Utasítás"
 #: elevateIT/skins/eIT_content/metadataelement_view.cpt
 msgid "label_is_active"
 msgstr "Aktív?"
-
-#. <label i18n:translate="label_item_type">
-#: elevateIT/skins/eIT_templates/search_macros.pt
-msgid "label_item_type"
-msgstr "Elem típusa"
 
 #. <label for="itemtype" i18n:translate="label_itemtype">
 #: elevateIT/skins/eIT_content/show_history.pt
@@ -8997,16 +8985,8 @@ msgid "heading_more_related_content"
 msgstr "Egyéb kapcsolódó tartalom"
 
 #. Duplicate msgstr
-msgid "education"
-msgstr "Tanulmányok"
-
-#. Duplicate msgstr
 msgid "label_see_also"
 msgstr "Lásd még"
-
-#. Duplicate msgstr
-msgid "gender"
-msgstr "Nem"
 
 #. Duplicate msgstr
 msgid "heading_publications"

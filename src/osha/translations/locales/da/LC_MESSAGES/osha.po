@@ -993,13 +993,6 @@ msgstr "Følgende information er ny eller ændret:"
 msgid "alertservice_information_changed_since"
 msgstr "Følgende information er ny eller ændret siden ${date}"
 
-#. <span i18n:translate="alertservice_notification_report">
-# # 1 more: ./OSHA/skins/osha/alert_notification_template.pt
-#: eITAlertService/skins/eITAlertService/alert_notification_template.pt
-#: OSHA/skins/osha/alert_notification_template.pt
-msgid "alertservice_notification_report"
-msgstr "Rapport over beskeder"
-
 #. <span i18n:translate="alertservice_notification_sentby">
 # # 2 more:
 # ./eITAlertService/skins/eITAlertService/alert_special_notification_template.pt,
@@ -4133,11 +4126,6 @@ msgstr "Instruktion"
 #: elevateIT/skins/eIT_content/metadataelement_view.cpt
 msgid "label_is_active"
 msgstr "Aktiv?"
-
-#. <label i18n:translate="label_item_type">
-#: elevateIT/skins/eIT_templates/search_macros.pt
-msgid "label_item_type"
-msgstr "Elementtype"
 
 #. <label for="itemtype" i18n:translate="label_itemtype">
 #: elevateIT/skins/eIT_content/show_history.pt
@@ -9007,16 +8995,8 @@ msgid "heading_more_related_content"
 msgstr "Mere indhold i tilknytning hertil"
 
 #. Duplicate msgstr
-msgid "education"
-msgstr "Uddannelse"
-
-#. Duplicate msgstr
 msgid "label_see_also"
 msgstr "Se også"
-
-#. Duplicate msgstr
-msgid "gender"
-msgstr "Køn"
 
 #. Duplicate msgstr
 msgid "heading_publications"
