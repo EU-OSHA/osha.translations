@@ -2106,3 +2106,40 @@ msgstr "Danger within!"
 
 msgid "title_napo_episode_14_6"
 msgstr "One, two, what to do?"
+
+# NAPO 15 "Safe moves"
+msgid "heading_napo-015-safe-moves"
+msgstr "Napo in... Safe moves"
+
+msgid "description_napo-015-safe-moves"
+msgstr "<p>The focus is on workplace transport. Central to the film is the fork-lift truck alongside other forms of internal and external transport.</p><p>The film includes scenes about site safety, people safety, vehicle safety, maintenance, visibility, reversing, and loading/unloading. It is suitable for all workers but especially for new employees and young workers.</p><p>The main theme of the film is that transport in the workplace must be well organised and well managed. This requires planning, implementation and monitoring by senior managers, risk assessment to identify hazards and risks, and the need to take appropriate action. It also requires appropriate behaviour from employees who should be properly trained and well supervised, and a cooperative approach so that risks are reduced and hazards are properly managed.</p>"
+
+msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
+msgstr "Planning for safety"
+
+msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
+msgstr "Danger – unloading!"
+
+msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
+msgstr "Poor maintenance"
+
+msgid "heading_napo-015-safe-moves-episode-004-carried-away"
+msgstr "Carried away"
+
+msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
+msgstr "Separate ways"
+
+msgid "heading_napo-015-safe-moves-episode-006-circus-number"
+msgstr "Circus number"
+
+msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
+msgstr "Unstable load"
+
+msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
+msgstr "Clear vision"
+
+msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
+msgstr "Danger calling"
+
+msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
+msgstr "The end game"
