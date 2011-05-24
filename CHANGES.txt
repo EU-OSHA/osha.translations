@@ -4,7 +4,12 @@ osha.translations Changelog
 1.0.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Fixed some typos in CS, IS, NO [thomasw]
+- Adjusted 2010 slogan in CS #3234 [thomasw]
+- Added translations for NAPO 15 "Safe moves", provided by PR, refs #3165
+  [thomasw]
+- Added simple script checkSoundness to the locales dir that warns about
+  syntax errors etc in the po files [thomasw]
 
 
 1.0 (2011-05-23)
