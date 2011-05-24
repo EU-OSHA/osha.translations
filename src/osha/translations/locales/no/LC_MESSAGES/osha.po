@@ -2134,10 +2134,5 @@ msgstr "Datoen vil bli bekreftet på et senere tidspunkt"
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
 msgid "abbr_date_to_be_confirmed" 
-msgstr "
-Vil bli bekreftet på et senere tidspunkt"
-
-
-
-
+msgstr "Vil bli bekreftet på et senere tidspunkt"
 
