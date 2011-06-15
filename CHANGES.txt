@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-1.0.1 (unreleased)
+1.0.1 (2011-06-15)
 ------------------
 
 - Fixed some typos in CS, IS, NO [thomasw]
