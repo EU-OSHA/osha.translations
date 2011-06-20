@@ -4,7 +4,7 @@ osha.translations Changelog
 1.0.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Adding translations for the FAQ view #2385 [deroiste]
 
 
 1.0.1 (2011-06-15)
