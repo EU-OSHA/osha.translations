@@ -10664,3 +10664,25 @@ msgstr "à confirmer"
 
 
 
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "FAQs"
+msgstr "FAQ"
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_no_faq_results"
+msgstr "Aucune FAQ dans cette catégorie."
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_frequently_asked_questions"
+msgstr "Foire aux questions"
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_help_center_intro"
+msgstr "Rechercher ${text_frequently_asked_questions} ou rechercher par catégorie."
+
+
+

@@ -10383,3 +10383,23 @@ msgstr "Potvrdí sa neskôr"
 
 
 
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "FAQs"
+msgstr "FAQ"
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_no_faq_results"
+msgstr "Táto kategória neobsahuje často kladené otázky."
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_frequently_asked_questions"
+msgstr "Často kladené otázky"
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_help_center_intro"
+msgstr "Hľadať ${text_frequently_asked_questions} alebo prehľadávať podľa kategórií."
+

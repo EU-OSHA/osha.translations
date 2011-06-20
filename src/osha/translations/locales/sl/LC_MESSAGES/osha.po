@@ -10403,3 +10403,22 @@ msgstr "Za potrditev"
 
 
 
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "FAQs"
+msgstr "Pogosto zastavljena vprašanja"
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_no_faq_results"
+msgstr "V tej kategoriji ni pogosto zastavljenih vprašanj."
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_frequently_asked_questions"
+msgstr "Pogosto zastavljena vprašanja"
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_help_center_intro"
+msgstr "Išči po ${text_frequently_asked_questions} ali brskaj po kategoriji."

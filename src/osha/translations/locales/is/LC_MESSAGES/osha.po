@@ -2161,3 +2161,24 @@ msgstr "á eftir að staðfesta"
 
 
 
+
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "FAQs"
+msgstr "Algengar spurningar"
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_no_faq_results"
+msgstr "Það eru engar algengar spurningar  í þessum flokki"
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_frequently_asked_questions"
+msgstr "Algengar spurningar"
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_help_center_intro"
+msgstr "Leitaðu í  ${text_frequently_asked_questions} eða leitaðu eftir flokki."
+

@@ -10417,3 +10417,24 @@ msgstr "Vahvistetaan myöhemmin"
 
 
 
+
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "FAQs"
+msgstr "UKK"
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_no_faq_results"
+msgstr "Tähän luokkaan kuuluvia usein kysyttyjä kysymyksiä ei ole."
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_frequently_asked_questions"
+msgstr "Usein kysytyt kysymykset"
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_help_center_intro"
+msgstr "Etsi ${text_frequently_asked_questions} tai hae luokan mukaan."
+

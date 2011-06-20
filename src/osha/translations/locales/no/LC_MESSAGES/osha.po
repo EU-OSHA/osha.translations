@@ -2173,3 +2173,23 @@ msgstr "Datoen vil bli bekreftet på et senere tidspunkt"
 msgid "abbr_date_to_be_confirmed" 
 msgstr "Vil bli bekreftet på et senere tidspunkt"
 
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "FAQs"
+msgstr "Ofte stilte spørsmål"
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_no_faq_results"
+msgstr "Det er ingen ofte stilte spørsmål i denne kategorien."
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_frequently_asked_questions"
+msgstr "Ofte stilte spørsmål"
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_help_center_intro"
+msgstr "Søk blant ${text_frequently_asked_questions} eller vis spørsmål etter kategori."
+

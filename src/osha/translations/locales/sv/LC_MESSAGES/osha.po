@@ -10433,3 +10433,24 @@ msgstr "Ska bekräftas"
 
 
 
+
+#. Default: FAQs
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid ”FAQs”
+msgstr ”Frågor och svar”
+
+#. Default: There are no FAQs in this category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid ”text_no_faq_results”
+msgstr ”Det finns inga frågor i denna kategori.”
+
+#. Default: Frequently Asked Questions
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid ”text_frequently_asked_questions”
+msgstr ”Frågor och svar”
+
+#. Default: Search the ${text_frequently_asked_questions} or browse by category.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid ”text_help_center_intro”
+msgstr ”Sök bland ${text_frequently_asked_questions} eller bläddra igenom en kategori.”
+
