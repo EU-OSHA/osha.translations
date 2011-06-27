@@ -5,7 +5,7 @@ osha.translations Changelog
 ------------------
 
 - Adding translations for the FAQ view #2385 [deroiste]
-
+- Fixing old links osha.eu.int -> osha.europa.eu #3008 [deroiste]
 
 1.0.1 (2011-06-15)
 ------------------
