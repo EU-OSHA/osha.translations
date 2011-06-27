@@ -1112,7 +1112,7 @@ msgstr "Ultimul modificat"
 #. <span i18n:translate="box_oshmail_subscribe">
 #: OSHA/skins/osha/portlet_oshmail.pt
 msgid "box_oshmail_subscribe"
-msgstr "Abonare la <a href=\"http://agency.osha.eu.int/oshmail/\">${newsletter}</a>"
+msgstr "Abonare la <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #. <span i18n:translate="box_oshmail_subscribers">
 #: OSHA/skins/osha/portlet_oshmail.pt
@@ -1838,7 +1838,7 @@ msgstr "Vă mulţumim pentru feedback-ul dvs. Apreciem comentariile dvs. despre 
 #. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
 msgid "feedback_sender_mssg_3"
-msgstr "Puteţi fi la curent cu noile construcţii pe situl nostru web prin vizitarea paginilor „Ce este nou” [http://agency.osha.eu.int/whats_new/index_en.htm] prin abonarea la newsletterul nostru electronic OSHmail [http://agency.osha.eu.int/oshmail]. "
+msgstr "Puteţi fi la curent cu noile construcţii pe situl nostru web prin vizitarea paginilor „Ce este nou” [http://osha.europa.eu/whats_new/index_en.htm] prin abonarea la newsletterul nostru electronic OSHmail [http://osha.europa.eu/oshmail]. "
 
 #. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
@@ -5994,7 +5994,7 @@ msgstr "Căutaţi situl:"
 msgid "option_site_error_sitemap"
 msgstr "Folosiţi ${link}"
 
-#. <a href="http://agency.osha.eu.int"
+#. <a href="http://osha.europa.eu"
 #. i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"

@@ -1112,7 +1112,7 @@ msgstr "Utoljára módosította"
 #. <span i18n:translate="box_oshmail_subscribe">
 #: OSHA/skins/osha/portlet_oshmail.pt
 msgid "box_oshmail_subscribe"
-msgstr "Rendelje meg <a href=\"http://osha.eu.int/oshmail/\">${newsletter}</a> ünket "
+msgstr "Rendelje meg <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a> ünket "
 
 #. <span i18n:translate="box_oshmail_subscribers">
 #: OSHA/skins/osha/portlet_oshmail.pt
@@ -1838,7 +1838,7 @@ msgstr "Köszönjük a visszajelzést. Nagyra értékeljük az Európai Munkahel
 #. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
 msgid "feedback_sender_mssg_3"
-msgstr "Honlapunk változásait nyomon követheti, ha ellátogat “Aktuális” oldalainkra [http://osha.eu.int/whats_new/index_en.htm], és megrendeli elektronikus hírlevelünket, az OSHmail-t [http://osha.eu.int/oshmail]. "
+msgstr "Honlapunk változásait nyomon követheti, ha ellátogat “Aktuális” oldalainkra [http://osha.europa.eu/whats_new/index_en.htm], és megrendeli elektronikus hírlevelünket, az OSHmail-t [http://osha.europa.eu/oshmail]. "
 
 #. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
@@ -5994,7 +5994,7 @@ msgstr "Keresse a honlapon:"
 msgid "option_site_error_sitemap"
 msgstr "Használja a ${link}"
 
-#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#. <a href="http://osha.europa.eu" i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"
 msgstr "Európai Munkavédelmi Ügynökség"
@@ -7738,7 +7738,7 @@ msgstr "Fogalomtár"
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
-#. Search:<a href="http://osha.eu.int/search?osha_MTSubject=/00001A/00041B">
+#. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
 #. 
 #: thesaurusitem_view
@@ -7815,7 +7815,7 @@ msgstr "Nincs kapcsolódó elem"
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
-#. <a href="http://osha.eu.int/ThesaurusProxy/00001A/thesaurusitem_view" class
+#. <a href="http://osha.europa.eu/ThesaurusProxy/00001A/thesaurusitem_view" class
 #. ="link-parent">
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:

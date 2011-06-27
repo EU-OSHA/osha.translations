@@ -1127,7 +1127,7 @@ msgstr "Zuletzt geändert"
 #. <span i18n:translate="box_oshmail_subscribe">
 #: OSHA/skins/osha/portlet_oshmail.pt
 msgid "box_oshmail_subscribe"
-msgstr "Abonnieren Sie unseren <a href=\"http://osha.eu.int/oshmail/\">${newsletter}</a>"
+msgstr "Abonnieren Sie unseren <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #. <span i18n:translate="box_oshmail_subscribers">
 #: OSHA/skins/osha/portlet_oshmail.pt
@@ -1852,7 +1852,7 @@ msgstr "Vielen Dank für Ihr Feedback. Ihre Bemerkungen zur Europäischen Agentu
 #. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
 msgid "feedback_sender_mssg_3"
-msgstr "Um sich über alle neuen Entwicklungen auf unserer Website zu informieren, besuchen Sie regelmäßig unsere 'Was gibt es Neues'-Seiten [http://osha.eu.int/whats_new/index_en.htm] und abonnieren Sie unseren elektronischen Newsletter OSHMail [http://osha.eu.int/oshmail]. "
+msgstr "Um sich über alle neuen Entwicklungen auf unserer Website zu informieren, besuchen Sie regelmäßig unsere 'Was gibt es Neues'-Seiten [http://osha.europa.eu/whats_new/index_en.htm] und abonnieren Sie unseren elektronischen Newsletter OSHMail [http://osha.europa.eu/oshmail]. "
 
 #. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
@@ -6011,7 +6011,7 @@ msgstr "Website durchsuchen:"
 msgid "option_site_error_sitemap"
 msgstr "Verwenden Sie ${link}"
 
-#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#. <a href="http://osha.europa.eu" i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"
 msgstr "Ihre Verknüpfung zu Sicherheit und Gesundheit am Arbeitsplatz"
@@ -7484,7 +7484,7 @@ msgid "What is the Agency?"
 msgstr "Die Agentur stellt sich vor"
 
 msgid "newsletter_template_copyright"
-msgstr "  <a href=\"http://osha.eu.int/news/oshmail\">OSHmail</a>: Sollten Sie w&uuml;nschen, von unserer Adressatenliste gestrichen zu   werden, senden Sie uns bitte eine E-Mail an die folgende Adresse <a href=\"mailto:listserv@listserv.osha.eu.int\">listserv@listserv.osha.eu.int</a>   mit folgendem Wortlaut als Mitteilung: Unsubscribe OSHMAIL</p><p>&copy; <a href=\"http://osha.eu.int/about/\">Europ&auml;ische Agentur f&uuml;r Sicherheit und Gesundheitsschutz am   Arbeitsplatz</a> 2005. Reproduktion f&uuml;r nicht-kommerzielle Zwecke vorbehaltlich   der Nennung der Quelle gestattet. <a href=\"http://osha.eu.int/news/oshmail#disclaimer\">Haftungsausschluss</a></p>"
+msgstr "  <a href=\"http://osha.europa.eu/news/oshmail\">OSHmail</a>: Sollten Sie w&uuml;nschen, von unserer Adressatenliste gestrichen zu   werden, senden Sie uns bitte eine E-Mail an die folgende Adresse <a href=\"mailto:listserv@listserv.osha.europa.eu\">listserv@listserv.osha.europa.eu</a>   mit folgendem Wortlaut als Mitteilung: Unsubscribe OSHMAIL</p><p>&copy; <a href=\"http://osha.europa.eu/about/\">Europ&auml;ische Agentur f&uuml;r Sicherheit und Gesundheitsschutz am   Arbeitsplatz</a> 2005. Reproduktion f&uuml;r nicht-kommerzielle Zwecke vorbehaltlich   der Nennung der Quelle gestattet. <a href=\"http://osha.europa.eu/news/oshmail#disclaimer\">Haftungsausschluss</a></p>"
 
 msgid "News - DE"
 msgstr "Neuigkeiten - DE"
@@ -7658,7 +7658,7 @@ msgstr "nach oben zum Thesaurus"
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
-#. Search:<a href="http://osha.eu.int/search?osha_MTSubject=/00001A/00041B">
+#. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
 #. 
 #: thesaurusitem_view
@@ -7735,7 +7735,7 @@ msgstr "Keine ähnlichen Begriffe"
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
-#. <a href="http://osha.eu.int/ThesaurusProxy/00001A/thesaurusitem_view" class
+#. <a href="http://osha.europa.eu/ThesaurusProxy/00001A/thesaurusitem_view" class
 #. ="link-parent">
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:

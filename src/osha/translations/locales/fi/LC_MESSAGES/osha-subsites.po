@@ -168,7 +168,7 @@ msgid "ew2001-navtitle_global_news"
 msgstr "VIIMEISIMMÄT UUTISET"
 
 msgid "ew2001-navtitle_13"
-msgstr "<a href='http://agency.osha.eu.int/publications/magazine/4/en/index.htm'>09.11.2001: Magazine 4: Preventing accidents at work</a>"
+msgstr "<a href='http://osha.europa.eu/publications/magazine/4/en/index.htm'>09.11.2001: Magazine 4: Preventing accidents at work</a>"
 
 msgid "ew2001-navtitle_14"
 msgstr "12.11.2001: News release: Conference to Tackle EU Deaths at Work"

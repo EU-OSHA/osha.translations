@@ -764,7 +764,7 @@ msgstr "Mánuður"
 msgid "option_please_choose"
 msgstr "Vinsamlegast veldu"
 
-#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#. <a href="http://osha.europa.eu" i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"
 msgstr "Þín slóð á heilbrigði og öryggi á vinnustað"

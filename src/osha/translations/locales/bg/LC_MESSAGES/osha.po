@@ -1108,7 +1108,7 @@ msgstr "Последна промяна"
 #. <span i18n:translate="box_oshmail_subscribe">
 #: OSHA/skins/osha/portlet_oshmail.pt
 msgid "box_oshmail_subscribe"
-msgstr "Запишете се в нашата <a href=\"http://osha.eu.int/oshmail/\">${newsletter}</a>"
+msgstr "Запишете се в нашата <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #. <span i18n:translate="box_oshmail_subscribers">
 #: OSHA/skins/osha/portlet_oshmail.pt
@@ -1834,7 +1834,7 @@ msgstr "Thank you for your feedback. We appreciate your comments about the Europ
 #. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
 msgid "feedback_sender_mssg_3"
-msgstr "You can stay up to date with new developments to our website by visiting our “What’s New” pages [http://osha.eu.int/whats_new/index_en.htm] and subscribing to our electronic newsletter OSHmail [http://osha.eu.int/oshmail]. "
+msgstr "You can stay up to date with new developments to our website by visiting our “What’s New” pages [http://osha.europa.eu/whats_new/index_en.htm] and subscribing to our electronic newsletter OSHmail [http://osha.europa.eu/oshmail]. "
 
 #. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
@@ -5990,7 +5990,7 @@ msgstr "Търси в сайта:"
 msgid "option_site_error_sitemap"
 msgstr "Използвайте ${link}"
 
-#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#. <a href="http://osha.europa.eu" i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"
 msgstr "вашата връзка към Безопасност и Здраве при Работа"

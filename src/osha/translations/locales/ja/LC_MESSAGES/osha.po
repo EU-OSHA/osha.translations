@@ -772,7 +772,7 @@ msgid "box_last_modified"
 msgstr "最終変更日"
 
 msgid "box_oshmail_subscribe"
-msgstr "Subscribe to our <a href=\"http://osha.eu.int/oshmail/\">${newsletter}</a>"
+msgstr "Subscribe to our <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 msgid "box_oshmail_subscribers"
 msgstr "subscribers"
@@ -1222,7 +1222,7 @@ msgid "feedback_sender_mssg_2"
 msgstr "Thank you for your feedback. We appreciate your comments about the European Agency for Safety and Health at Work and we try, wherever possible, to answer your emails. Unfortunately, due to the large volume of correspondence we receive, we are unable to offer a personal reply in each case. However, we read all your comments, and we use your feedback to improve our websites and services."
 
 msgid "feedback_sender_mssg_3"
-msgstr "You can stay up to date with new developments to our website by visiting our “What’s New” pages [http://osha.eu.int/whats_new/index_en.htm] and subscribing to our electronic newsletter OSHmail [http://osha.eu.int/oshmail]. "
+msgstr "You can stay up to date with new developments to our website by visiting our “What’s New” pages [http://osha.europa.eu/whats_new/index_en.htm] and subscribing to our electronic newsletter OSHmail [http://osha.europa.eu/oshmail]. "
 
 msgid "feedback_sender_mssg_from"
 msgstr "European Agency for Safety and Health at Work"

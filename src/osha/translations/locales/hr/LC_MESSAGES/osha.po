@@ -300,7 +300,7 @@ msgstr "Informacije slične po ključnim riječima"
 msgid "link_breadcrumbs_home"
 msgstr "Početna stranica"
 
-#. <a href="http://agency.osha.eu.int"
+#. <a href="http://osha.europa.eu"
 #. i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"

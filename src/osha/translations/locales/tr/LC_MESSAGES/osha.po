@@ -1106,7 +1106,7 @@ msgstr "Last modified"
 #. <span i18n:translate="box_oshmail_subscribe">
 #: OSHA/skins/osha/portlet_oshmail.pt
 msgid "box_oshmail_subscribe"
-msgstr "Subscribe to our <a href=\"http://agency.osha.eu.int/oshmail/\">${newsletter}</a>"
+msgstr "Subscribe to our <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #. <span i18n:translate="box_oshmail_subscribers">
 #: OSHA/skins/osha/portlet_oshmail.pt
@@ -6021,7 +6021,7 @@ msgstr "Search the site:"
 msgid "option_site_error_sitemap"
 msgstr "Use the ${link}"
 
-#. <a href="http://agency.osha.eu.int"
+#. <a href="http://osha.europa.eu"
 #. i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"

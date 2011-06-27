@@ -1112,7 +1112,7 @@ msgstr "Paskutinis pakeitimas"
 #. <span i18n:translate="box_oshmail_subscribe">
 #: OSHA/skins/osha/portlet_oshmail.pt
 msgid "box_oshmail_subscribe"
-msgstr "Prisijunkite prie mūsų <a href=\"http://osha.eu.int/oshmail/\">${newsletter}</a>"
+msgstr "Prisijunkite prie mūsų <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #. <span i18n:translate="box_oshmail_subscribers">
 #: OSHA/skins/osha/portlet_oshmail.pt
@@ -1838,7 +1838,7 @@ msgstr "Dėkojame už jūsų atsiliepimą. Mes vertiname jūsų pastabas apie Eu
 #. <div i18n:translate="feedback_sender_mssg_3" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
 msgid "feedback_sender_mssg_3"
-msgstr "Jūs galite sekti naujausius mūsų svetainės patobulinimus, apsilankę mūsų puslapiuose „Naujienos” [http://osha.eu.int/whats_new/index_en.htm] ir užsisakę mūsų elektroninį informacinį biuletenį OSHmail [http://osha.eu.int/oshmail]. "
+msgstr "Jūs galite sekti naujausius mūsų svetainės patobulinimus, apsilankę mūsų puslapiuose „Naujienos” [http://osha.europa.eu/whats_new/index_en.htm] ir užsisakę mūsų elektroninį informacinį biuletenį OSHmail [http://osha.europa.eu/oshmail]. "
 
 #. <div i18n:translate="feedback_sender_mssg_from" tal:omit-tag="">
 #: OSHA/skins/osha/feedback_template_sender.pt
@@ -5994,7 +5994,7 @@ msgstr "Atlikti paiešką svetainėje:"
 msgid "option_site_error_sitemap"
 msgstr "Naudoti ${link}"
 
-#. <a href="http://osha.eu.int" i18n:translate="osha_informationportlet_link">
+#. <a href="http://osha.europa.eu" i18n:translate="osha_informationportlet_link">
 #: OSHA/skins/osha/portlet_oshainfo.pt
 msgid "osha_informationportlet_link"
 msgstr "Jūs kreipėtės į Darbuotojų saugos ir sveikatos "
@@ -7735,7 +7735,7 @@ msgstr "Atgal į tezaurą"
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
-#. Search:<a href="http://osha.eu.int/search?osha_MTSubject=/00001A/00041B">
+#. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
 #. 
 #: thesaurusitem_view
@@ -7812,7 +7812,7 @@ msgstr "Nėra susijusių elementų"
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
-#. <a href="http://osha.eu.int/ThesaurusProxy/00001A/thesaurusitem_view" class
+#. <a href="http://osha.europa.eu/ThesaurusProxy/00001A/thesaurusitem_view" class
 #. ="link-parent">
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:
