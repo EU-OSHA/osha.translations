@@ -17,7 +17,7 @@ msgstr ""
 "X-Is-Fallback-For: sv-fi\n"
 "Language-Name: Svenska\n"
 
-msgid "title_agency"
+msgid title_agency"
 msgstr "Europeiska<br />arbetsmiljöbyrån"
 
 msgid "slogan_hw2010_campaign"
