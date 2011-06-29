@@ -30,6 +30,7 @@ def usage(stream, msg=None):
     sys.exit(0)
 
 dirs = [x for x in os.listdir('.') if len(x)==2 and os.path.isdir(x)]
+houstonwehaveaproblem = False
 for dirname in dirs:
     path = "%s/LC_MESSAGES" % dirname
     names = [x for x in os.listdir(path) if x.endswith('po')]
@@ -55,3 +56,7 @@ for dirname in dirs:
             if problems:
                 print "\n%s/%s" % (path, name)
                 print "\n".join(problems)
+                houstonwehaveaproblem = True
+
+if houstonwehaveaproblem:
+    sys.exit('FAILURE')
