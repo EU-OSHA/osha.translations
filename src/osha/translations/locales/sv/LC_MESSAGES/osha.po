@@ -10445,6 +10445,6 @@ msgstr "Frågor och svar"
 
 #. Default: Search the ${text_frequently_asked_questions} or browse by category.
 #: osha/theme/browser/templates/osha_help_center_view.pt
-msgid text_help_center_intro"
+msgid "text_help_center_intro"
 msgstr "Sök bland ${text_frequently_asked_questions} eller bläddra igenom en kategori."
 
