@@ -9848,6 +9848,9 @@ msgstr "Organizace a strategie"
 msgid "osheducation"
 msgstr "Zaměření BOZP na vzdělávání"
 
+msgid "provider"
+msgstr "Poskytovatel"
+
 msgid "research"
 msgstr "Výzkum"
 

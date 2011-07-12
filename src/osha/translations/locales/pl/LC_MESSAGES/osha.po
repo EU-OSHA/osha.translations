@@ -10276,6 +10276,9 @@ msgstr "Aspekty biznesowe BHP"
 msgid "cleaners"
 msgstr "Pracowników do czyszczenia"
 
+msgid "competitions"
+msgstr "Konkursy"
+
 msgid "construction"
 msgstr "Budownictwo"
 
@@ -10326,6 +10329,9 @@ msgstr "Organizacja i strategie"
 
 msgid "osheducation"
 msgstr "Włączanie BHP do głównego nurtu kształcenia"
+
+msgid "provider"
+msgstr "Dostarczyciel informacji"
 
 msgid "research"
 msgstr "Badania"

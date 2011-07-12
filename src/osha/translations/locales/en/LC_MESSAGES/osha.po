@@ -1580,6 +1580,9 @@ msgstr "Business aspects of OSH"
 msgid "cleaners"
 msgstr "Cleaning workers"
 
+msgid "competitions"
+msgstr "Competitions"
+
 msgid "construction"
 msgstr "Construction"
 
@@ -1630,6 +1633,9 @@ msgstr "Organisation and strategies"
 
 msgid "osheducation"
 msgstr "Mainstreaming OSH into Education"
+
+msgid "provider"
+msgstr "Provider"
 
 msgid "research"
 msgstr "Research"

@@ -10270,6 +10270,9 @@ msgstr "OSH verslo aspektai"
 msgid "cleaners"
 msgstr "Valytojams"
 
+msgid "competitions"
+msgstr "Konkursai"
+
 msgid "construction"
 msgstr "Statyba"
 
@@ -10320,6 +10323,9 @@ msgstr "Organizavimas ir strategijos"
 
 msgid "osheducation"
 msgstr "OSH įtraukimas į švietimą"
+
+msgid "provider"
+msgstr "Tiekėjas"
 
 msgid "research"
 msgstr "Tyrimai"

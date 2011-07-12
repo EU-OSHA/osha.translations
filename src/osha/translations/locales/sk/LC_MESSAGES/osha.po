@@ -10268,6 +10268,9 @@ msgstr "Podnikateľské aspekty BOZP"
 msgid "cleaners"
 msgstr "čistenie pracovníkov"
 
+msgid "competitions"
+msgstr "Súťaže"
+
 msgid "construction"
 msgstr "Stavebníctvo"
 
@@ -10318,6 +10321,9 @@ msgstr "Organizácie a stratégie"
 
 msgid "osheducation"
 msgstr "Prenikanie BOZP do vzdelania"
+
+msgid "provider"
+msgstr "Poskytovatelia"
 
 msgid "research"
 msgstr "Výskum"

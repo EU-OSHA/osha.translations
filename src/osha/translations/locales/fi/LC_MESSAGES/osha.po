@@ -10301,6 +10301,9 @@ msgstr "Työsuojelu ja liiketoiminta"
 msgid "cleaners"
 msgstr "Siivoustyöntekijöitä"
 
+msgid "competitions"
+msgstr "Kilpailuja"
+
 msgid "construction"
 msgstr "Rakentaminen"
 
@@ -10351,6 +10354,9 @@ msgstr "Organisaatio ja strategiat"
 
 msgid "osheducation"
 msgstr "TTT-asiat osaksi koulusta"
+
+msgid "provider"
+msgstr "Tiedon tuottajia"
 
 msgid "research"
 msgstr "Tutkimus"

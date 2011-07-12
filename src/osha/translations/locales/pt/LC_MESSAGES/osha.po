@@ -10306,6 +10306,9 @@ msgstr "Aspectos empresariais da SST"
 msgid "cleaners"
 msgstr "Trabalhadores de limpeza"
 
+msgid "competitions"
+msgstr "Concursos"
+
 msgid "construction"
 msgstr "Construção"
 
@@ -10356,6 +10359,9 @@ msgstr "Organizações e estratégias"
 
 msgid "osheducation"
 msgstr "Integração da SST na educação"
+
+msgid "provider"
+msgstr "Fornecedor de informação"
 
 msgid "risks"
 msgstr "Riscos emergentes"

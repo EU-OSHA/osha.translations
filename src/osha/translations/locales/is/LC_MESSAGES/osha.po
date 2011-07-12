@@ -1581,6 +1581,9 @@ msgstr "Viðskiptahlið OSH"
 msgid "cleaners"
 msgstr "Hreinsitæknar"
 
+msgid "competitions"
+msgstr "Samkeppnir"
+
 msgid "construction"
 msgstr "Byggingariðnaður"
 
@@ -1624,13 +1627,16 @@ msgid "msd"
 msgstr "Vöðva-og beinasjúkdómar "
 
 msgid "noise"
-msgstr " Hávaði"
+msgstr "Hávaði"
 
 msgid "organisation"
 msgstr "Samtök og stefnur"
 
 msgid "osheducation"
 msgstr "Að beina OSH inn í menntun"
+
+msgid "provider"
+msgstr "Provider"
 
 msgid "research"
 msgstr "Rannsóknir"

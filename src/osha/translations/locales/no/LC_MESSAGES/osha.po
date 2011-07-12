@@ -1598,6 +1598,9 @@ msgstr "Forretningsmessige sider ved HMS"
 msgid "cleaners"
 msgstr "Renholdsarbeidere"
 
+msgid "competitions"
+msgstr "Konkurranser"
+
 msgid "construction"
 msgstr "Bygg og anlegg"
 
@@ -1648,6 +1651,9 @@ msgstr "Organisasjon og strategier"
 
 msgid "osheducation"
 msgstr "HMS inn i undervisningen"
+
+msgid "provider"
+msgstr "Provider"
 
 msgid "research"
 msgstr "Forsking"

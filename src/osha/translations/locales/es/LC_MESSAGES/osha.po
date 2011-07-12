@@ -9556,6 +9556,9 @@ msgstr "Aspectos económicos de la SST"
 msgid "cleaners"
 msgstr "Trabajadores de la limpiez"
 
+msgid "competitions"
+msgstr "Concursos"
+
 msgid "construction"
 msgstr "Construcción"
 
@@ -9606,6 +9609,9 @@ msgstr "Organización y estrategias"
 
 msgid "osheducation"
 msgstr "Integración de la SST en la educación"
+
+msgid "provider"
+msgstr "Proveedores"
 
 msgid "research"
 msgstr "Investigación"

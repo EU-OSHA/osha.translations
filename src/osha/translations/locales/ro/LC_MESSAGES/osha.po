@@ -9689,6 +9689,9 @@ msgstr "Aspecte economice ale SSM"
 msgid "cleaners"
 msgstr "Personalului de curăţenie"
 
+msgid "competitions"
+msgstr "Competiţii"
+
 msgid "construction"
 msgstr "Construcţii"
 
@@ -9736,6 +9739,9 @@ msgstr "Zgomot"
 
 msgid "organisation"
 msgstr "Organizare şi strategii"
+
+msgid "provider"
+msgstr "Provider"
 
 msgid "osheducation"
 msgstr "Integrarea SSM în educaţie"

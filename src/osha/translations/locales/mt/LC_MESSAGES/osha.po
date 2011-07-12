@@ -10256,6 +10256,9 @@ msgstr "Aspetti kummerċjali tal-OHS"
 msgid "cleaners"
 msgstr "ħaddiema tat-tindif"
 
+msgid "competitions"
+msgstr "Kompetizzjonijiet"
+
 msgid "construction"
 msgstr "Il-kostruzzjoni"
 
@@ -10306,6 +10309,9 @@ msgstr "Organizzazzjoni u strateġiji"
 
 msgid "osheducation"
 msgstr "L-implimentazzjoni tal-OHS fl-Edukazzjoni"
+
+msgid "provider"
+msgstr "Provditur"
 
 msgid "research"
 msgstr "Riċerka"

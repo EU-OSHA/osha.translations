@@ -10586,6 +10586,9 @@ msgstr "Organisaties en strategieën"
 msgid "osheducation"
 msgstr "Het integreren van veiligheid en gezondheid op het werk in het onderwijs"
 
+msgid "provider"
+msgstr "Verstrekker"
+
 msgid "research"
 msgstr "Onderzoek"
 

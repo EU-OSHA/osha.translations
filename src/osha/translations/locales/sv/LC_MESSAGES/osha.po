@@ -10317,6 +10317,9 @@ msgstr "Företagsaspekter av arbetsmiljöfrågor"
 msgid "cleaners"
 msgstr "Städpersonal"
 
+msgid "competitions"
+msgstr "Tävlingar"
+
 msgid "construction"
 msgstr "Byggsektorn"
 
@@ -10367,6 +10370,9 @@ msgstr "Organisation och strategier"
 
 msgid "osheducation"
 msgstr "Integrera arbetsmiljön i utbildningen"
+
+msgid "provider"
+msgstr "Uppgiftslämnare"
 
 msgid "research"
 msgstr "Forskning"

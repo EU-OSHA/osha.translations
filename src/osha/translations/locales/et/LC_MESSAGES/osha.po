@@ -10275,6 +10275,9 @@ msgstr "Tööohutuse ja töötervishoiu ärilised küljed"
 msgid "cleaners"
 msgstr "Puhastus töötajate"
 
+msgid "competitions"
+msgstr "Konkursid"
+
 msgid "construction"
 msgstr "Ehitus"
 
@@ -10325,6 +10328,9 @@ msgstr "Organisatsioon ja strateegiad"
 
 msgid "osheducation"
 msgstr "Tööohutuse ja töötervishoiu süvalaiendamine hariduses"
+
+msgid "provider"
+msgstr "Varustaja"
 
 msgid "research"
 msgstr "Teadusuuringud"

@@ -9747,6 +9747,9 @@ msgstr "Организация и стратегии"
 msgid "osheducation"
 msgstr "Включване на БЗУТ в образованието"
 
+msgid "provider"
+msgstr "Provider"
+
 msgid "research"
 msgstr "Изследвания"
 

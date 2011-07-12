@@ -10287,6 +10287,9 @@ msgstr "Poslovni vidiki varnosti in zdravja pri delu"
 msgid "cleaners"
 msgstr "čiščenje delavci"
 
+msgid "competitions"
+msgstr "Natečaji"
+
 msgid "construction"
 msgstr "Gradbeništvo"
 
@@ -10337,6 +10340,9 @@ msgstr "Organizacija in strategije"
 
 msgid "osheducation"
 msgstr "Vključevanje varnosti in zdravja pri delu v izboraževanje"
+
+msgid "provider"
+msgstr "Ponudnik"
 
 msgid "research"
 msgstr "Raziskovanje"

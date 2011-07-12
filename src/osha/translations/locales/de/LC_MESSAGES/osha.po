@@ -10185,6 +10185,9 @@ msgstr "Betriebswirtschaftliche Aspekte von Sicherheit und Gesundheitsschutz bei
 msgid "cleaners"
 msgstr "Reinigungskräfte"
 
+msgid "competitions"
+msgstr "Wettbewerbe"
+
 msgid "construction"
 msgstr "Baugewerbe"
 
@@ -10235,6 +10238,9 @@ msgstr "Organisation und Strategien"
 
 msgid "osheducation"
 msgstr "Einbeziehung des Themas Sicherheit und Gesundheitsschutz bei der Arbeit in die Bildung"
+
+msgid "provider"
+msgstr "Informationsanbieter"
 
 msgid "research"
 msgstr "Forschung"

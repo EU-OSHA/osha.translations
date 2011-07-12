@@ -10257,6 +10257,9 @@ msgstr "DDV uzņēmējdarbības aspekti"
 msgid "cleaners"
 msgstr "Uzkopšanas darbiniekiem"
 
+msgid "competitions"
+msgstr "Konkursi"
+
 msgid "construction"
 msgstr "Būvniecība"
 
@@ -10307,6 +10310,9 @@ msgstr "Organizācija un stratēģijas"
 
 msgid "osheducation"
 msgstr "DDV popularizēšana izglītībā"
+
+msgid "provider"
+msgstr "Sniedzējs"
 
 msgid "research"
 msgstr "Pētniecība"

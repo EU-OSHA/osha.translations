@@ -10276,6 +10276,9 @@ msgstr "Επιχειρηματικές πτυχές της ΕΑΥ"
 msgid "cleaners"
 msgstr "καθαρισμού εργαζομένων"
 
+msgid "competitions"
+msgstr "Διαγωνισμοί"
+
 msgid "construction"
 msgstr "Κατασκευές"
 
@@ -10326,6 +10329,9 @@ msgstr "Οργάνωση και στρατηγικές"
 
 msgid "osheducation"
 msgstr "Ένταξη της Επαγγελματικής Ασφάλειας & Υγείας στην εκπαίδευση"
+
+msgid "provider"
+msgstr "Πηγές πληροφοριών"
 
 msgid "research"
 msgstr "Έρευνα"

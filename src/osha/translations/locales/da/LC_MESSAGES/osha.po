@@ -10277,6 +10277,9 @@ msgstr "Forretningsmæssige aspekter ved arbejdsmiljø"
 msgid "cleaners"
 msgstr "rengøring arbejdstagere"
 
+msgid "competitions"
+msgstr "Konkurrencer"
+
 msgid "construction"
 msgstr "Bygge- og anlægsvirksomhed"
 
@@ -10324,6 +10327,9 @@ msgstr "Støj"
 
 msgid "organisation"
 msgstr "Organisation og strategier"
+
+msgid "provider"
+msgstr "Formidlere"
 
 msgid "osheducation"
 msgstr "Integration af arbejdsmiljø i uddannelse"

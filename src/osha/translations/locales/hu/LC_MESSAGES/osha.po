@@ -10270,6 +10270,9 @@ msgstr "A munkahelyi biztonság és egészségvédelem üzleti oldalai"
 msgid "cleaners"
 msgstr "Takarító személyzet"
 
+msgid "competitions"
+msgstr "Versenyek"
+
 msgid "construction"
 msgstr "Építőipar"
 
@@ -10320,6 +10323,9 @@ msgstr "Szervezés és stratégiák"
 
 msgid "osheducation"
 msgstr "A munkavédelem beépítése az oktatásba"
+
+msgid "provider"
+msgstr "Adatközlő"
 
 msgid "research"
 msgstr "Kutatás"
