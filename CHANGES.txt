@@ -1,11 +1,13 @@
 osha.translations Changelog
 ===========================
 
-1.0.2 (unreleased)
+1.0.2 (2011-07-21)
 ------------------
 
 - Adding translations for the FAQ view #2385 [deroiste]
 - Fixing old links osha.eu.int -> osha.europa.eu #3008 [deroiste]
+- Added 'competitions' #3407 [thomasw]
+
 
 1.0.1 (2011-06-15)
 ------------------
