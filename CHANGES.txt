@@ -1,11 +1,10 @@
 osha.translations Changelog
 ===========================
 
-1.0.3 (unreleased)
+1.0.3 (2011-08-09)
 ------------------
 
-- Nothing changed yet.
-
+- copy & pasted Catalan translations for NAPO provided by PR #3487 (thomasw)
 
 1.0.2 (2011-07-21)
 ------------------
