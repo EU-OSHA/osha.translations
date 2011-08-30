@@ -8339,7 +8339,7 @@ msgid "osha_label_press_room"
 msgstr "Lehdistöhuone"
 
 msgid "osha_label_pressbox_pressreleases"
-msgstr "Lehdistötiedotteets"
+msgstr "Lehdistötiedotteet"
 
 msgid "osha_description_pressbox_pressreleases"
 msgstr "These are our press releases:"
