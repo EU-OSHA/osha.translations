@@ -1,10 +1,10 @@
 osha.translations Changelog
 ===========================
 
-1.0.4 (unreleased)
+1.0.4 (2011-09-21)
 ------------------
 
-- Nothing changed yet.
+- Fixed typo in FI #3524 [thomasw]
 
 
 1.0.3 (2011-08-09)
