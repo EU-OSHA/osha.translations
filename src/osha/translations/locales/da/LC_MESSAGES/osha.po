@@ -10188,6 +10188,14 @@ msgstr "Farligt opkald"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Slutspillet"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo i ... lunger på arbejde"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Eksponering for tobaksrøg er skadelig for både rygeres og ikke-rygeres sundhed. Det kan forårsage alvorlige problemer som kardiovaskulære sygdomme og luftvejssygdomme. Det kan være være dødeligt som følge af kræft, koronarhjertesygdom eller slagtilfælde. Alligevel eksponeres tusindvis af arbejdstagere stadig for tobaksrøg på deres arbejdspladser. I dette korte klip giver Napo sit eget unikke bidrag til støtte for røgfrie arbejdspladser."
+
 ####
 # Alertservice
 

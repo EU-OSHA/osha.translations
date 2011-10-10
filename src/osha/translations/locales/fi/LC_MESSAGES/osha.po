@@ -10212,6 +10212,13 @@ msgstr "Vaara kutsuu"
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Leikin loppu"
 
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo: keuhkot työssä"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Altistus tupakansavulle on haitallista sekä tupakoitsijoiden että tupakoimattomien terveydelle. Se voi aiheuttaa vakavia ongelmia, kuten sydän- ja verisuonitauteja sekä hengityselinten sairauksia. Se voi myös aiheuttaa kuoleman syövän, sepelvaltimotaudin tai aivohalvauksen seurauksena. Silti tuhannet työntekijät altistuvat yhä tupakansavulle työpaikallaan. Tässä lyhyessä filminpätkässä Napo antaa oman ainutlaatuisen panoksensa työpaikkojen savuttomuuden edistämiseksi."
+
 ####
 # Alertservice
 

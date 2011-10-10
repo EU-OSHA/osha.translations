@@ -10456,6 +10456,14 @@ msgstr "Le téléphone en sourdine!"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Tête en l’air!"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo dans … les poumons au travail"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "L'exposition à la fumée de tabac est néfaste tant pour la santé des fumeurs que pour celle des non-fumeurs. Elle peut entraîner de graves atteintes telles que des maladies cardiovasculaires et respiratoires. Elle peut en outre avoir des conséquences fatales dues à des cancers, à des coronaropathies ou à des accidents vasculaires cérébraux. Cependant, des milliers de travailleurs sont encore exposés à la fumée de tabac sur leur lieu de travail. Dans cette courte vidéo, Napo apporte, à sa façon, sa contribution à la cause des lieux de travail sans fumée."
+
 ####
 # Alertservice
 

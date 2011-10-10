@@ -10198,6 +10198,14 @@ msgstr "Nevarnost kliče"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Zakljucna igra"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo v kratkem filmu ... Pljuča na delu"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Izpostavljenost tobačnemu dimu škoduje zdravju kadilcev in nekadilcev. Povzroči lahko resne težave, kot so bolezni srca in ožilja ter bolezni dihal, pripelje pa lahko tudi do smrti zaradi raka, koronarnih bolezni srca ali možganske kapi, kljub vsemu temu pa je na tisoče delavcev še vedno izpostavljenih tobačnemu dimu na delovnem mestu. Napo v tem kratkem filmu na svoj način prispeva k opuščanju kajenja na delovnih mestih."
+
 ####
 # Alertservice
 

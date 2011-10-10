@@ -10216,6 +10216,14 @@ msgstr "Ligações perigosas"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "O jogo final"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo em ... “Os pulmões no trabalho”"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "A exposição ao fumo do tabaco prejudica quer a saúde dos fumadores quer a dos não-fumadores. Pode causar graves problemas de saúde, nomeadamente doenças cardiovasculares e respiratórias. Pode também provocar a morte em consequência de cancro, doença coronária ou acidente vascular cerebral. Não obstante, milhares de trabalhadores continuam expostos ao fumo do tabaco no seu local de trabalho. Neste pequeno vídeo, o Napo dá o seu contributo inconfundível para a causa dos locais de trabalho livres de fumo."
+
 ####
 # Alertservice
 

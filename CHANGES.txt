@@ -4,8 +4,7 @@ osha.translations Changelog
 1.0.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Added translations for NAPO "Lungs at Work" #3486 [thomasw]
 
 1.0.4 (2011-09-21)
 ------------------

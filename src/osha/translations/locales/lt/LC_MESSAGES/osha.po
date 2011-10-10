@@ -10180,6 +10180,14 @@ msgstr "Pavojingas skambutis"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Žaidimo pabaiga"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo ... saugokime plaučius darbe"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Tabako dūmai kenkia ir rūkančiųjų, ir nerūkančiųjų sveikatai. Jie gali sukelti sunkių sveikatos sutrikimų, kaip antai širdies ir kraujagyslių ligas ar kvėpavimo takų ligas. Be to, sukeldami vėžį, širdies arterijų ligą ar insultą, jie gali lemti žmogaus mirtį. Tačiau tūkstančiai darbuotojų vis dar kenčia žalingą tabako dūmų poveikį savo darbo vietoje. Šiame trumpame vaizdo siužete parodoma, ką daro Napas, kad darbo vietose netektų kvėpuoti tabako dūmais."
+
 #####
 # Alertservice
 

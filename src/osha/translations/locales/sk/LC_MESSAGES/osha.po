@@ -10178,6 +10178,14 @@ msgstr "Stále dosiahnuteľný"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Koniec hry"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo vo filme .... pľúca v práci"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Vystavenie tabakovému dymu je rovnako škodlivé pre fajčiarov ako pre nefajčiarov. Môže spôsobiť vážne problémy, napr. srdcovocievne choroby a choroby dýchacích ciest. Môže zapríčiniť smrť v dôsledku rakoviny, koronárnej choroby srdca alebo mozgovej príhody. Napriek tomu tisíce zamestnancov sú na svojich pracoviskách stále vystavené tabakovému dymu. V tomto krátkom filme Napo takisto prispieva svojou troškou k problematike bezfajčiarskych pracovísk."
+
 ####
 # Alertservice
 

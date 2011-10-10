@@ -10185,6 +10185,13 @@ msgstr "Ohtlik helin"
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Lõppmäng"
 
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo ja...kopsud tööl"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Kokkupuude tubakasuitsuga kahjustab nii suitsetajate kui ka mittesuitsetajate tervist. Tubakasuits võib põjustada raskeid terviseprobleeme, näiteks südame-veresoonkonna ja hingamisteede haigusi. Tubakasuitsu tõttu võib surra, kui see tekitab vähkkasvajaid, südame isheemiatõbe ja insulti. Samas peavad tuhanded töötajad seda töökohas ikka sisse hingama. Selles lühikese videoklipis annab Napo oma ainulaadse panuse suitsuvaba töökoha loomisse."
+
 ####
 # Alertservice
 

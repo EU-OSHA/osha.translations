@@ -288,7 +288,6 @@ msgstr ""
 msgid "legend_oshcontent_featurelist"
 msgstr ""
 
-#. Default: Url:
 #. Default: URL
 #: src/osha/theme/browser/collageviews/oshlink_full.pt:92
 #: src/osha/theme/browser/templates/rssfeeds.pt:115
@@ -1048,7 +1047,7 @@ msgstr ""
 msgid "label_note"
 msgstr ""
 
-#. Default: Click the "Add to Any" button, if your service is not in the list
+#. Default: Click the "Add to Any" button, if your service is not in the list.
 #: src/osha/theme/browser/templates/rssfeeds.pt:38
 msgid "help_use_online_service_step2"
 msgstr ""

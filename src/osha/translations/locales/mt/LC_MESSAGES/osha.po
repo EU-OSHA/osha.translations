@@ -10166,6 +10166,14 @@ msgstr "Sinjali ta` periklu"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Tmiem"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo fi … il-pulmuni fuq il-post tax-xogħol"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "L-espożizzjoni għad-duħħan tat-tabakk hija ħażina kemm għas-saħħa ta’ dawk li jpejpu u kemm għas-saħħa ta’ dawk li ma jpejpux. Id-duħħan tat-tabakk jista’ jikkawża problemi serji bħal mard kardjovaskulari u respiratorju. Dan jista’ jikkawża mewt kaġun tal-kanċer, tal-mard tal-qalb jew ta' puplesija. Il-prevenzjoni ta' impatt negattiv tad-duħħan tat-tabakk fuq il-post tax-xogħol F’dan il-filmat qasir, Napo jagħti l-kontribut uniku tiegħu stess favur il-kawża ta’ postijiet tax-xogħol ħielsa mit-tipjip."
+
 ####
 # Alertservice
 

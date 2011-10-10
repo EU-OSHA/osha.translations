@@ -2167,6 +2167,14 @@ msgstr "Fare truer"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Sluttspillet"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo i … Lunger i arbeid"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Eksponering for tobakksrøyk er helseskadelig både for røykere og ikke-røykere. Det kan få alvorlige følger som hjerte- og karsykdommer og luftveissykdommer. Det kan forårsake dødelige sykdommer som kreft, hjertesykdom og slag. Likevel utsettes fortsatt tusenvis av arbeidstakere for tobakksrøyk på arbeidsplassen. I dette korte klippet yter Napo sitt bidrag til kampen for røykfrie arbeidsplasser."
+
 ###
 
 #. Default: Date to be confirmed

@@ -471,3 +471,11 @@ msgstr "Danger calling"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "The end game"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo in … lungs at work"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Exposure to tobacco smoke is bad for both smokers’ and non-smokers’ health. It can cause serious problems such as cardiovascular and respiratory diseases. It can cause death due to cancers, coronary heart disease or stroke. Yet thousands of workers are still exposed to tobacco smoke at their workplace. In this short clip, Napo makes his own unique contribution to the cause of smoke-free workplaces."
+

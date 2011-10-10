@@ -10227,6 +10227,13 @@ msgstr "Olyckan ringer"
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Sista draget"
 
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo i … lungor i arbete"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Att exponeras för tobaksrök är dåligt för hälsan, både hos rökare och icke-rökare. Det kan orsaka allvarliga problem som hjärt- och kärlsjukdomar och sjukdomar i andningsvägarna. Det kan också orsaka dödsfall i cancer, kranskärlssjukdom eller stroke (slaganfall). Trots detta exponeras fortfarande tusentals arbetstagare för tobaksrök på arbetsplatsen. I det här korta klippet ger Napo sitt eget unika bidrag till rökfria arbetsplatser."
+
 ####
 # Alertservice
 

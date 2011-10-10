@@ -10095,6 +10095,14 @@ msgstr "Immer auf Empfang"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Das Finale"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo in ... Lungen bei der Arbeit"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Tabakrauch ist sowohl für Raucher als auch für Passivraucher schädlich. Er kann ernsthafte Gesundheitsprobleme, wie Herz-Kreislauf- und Atemwegserkrankungen verursachen. Außerdem kann es zum Tode durch Krebs, koronare Herzkrankheiten oder Infarkt führen. Trotzdem werden Tausende Arbeiter bei der Arbeit dem Tabakrauch immer noch unfreiwillig ausgesetzt. In dem kurzen Animationsfilm leistet Napo seinen eigenen Beitrag zu rauchfreien Arbeitsplätzen."
+
 ####
 # Alertservice
 

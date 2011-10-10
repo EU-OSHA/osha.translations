@@ -10181,6 +10181,13 @@ msgstr "Veszély – telefon!"
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Végjáték"
 
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo – Munkában a tüdő"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "A dohányfüst belégzése a dohányosok és a nemdohányzók egészségére egyaránt ártalmas. Az ártalom súlyos egészségügyi problémák forrása lehet, például szív- és érrendszeri, valamint légzőszervi betegségeket okozhat. A különféle daganatos megbetegedések, a koszorúér-betegség vagy a stroke halálos kimenetelű is lehet. Mégis munkavállalók ezrei lélegeznek be dohányfüstöt munkahelyükön. Ebben a rövid videoklipben Napo egyedi módon járul hozzá a füstmentes munkahelyek megteremtéséhez."
+
 ###
 # Alertservice
 

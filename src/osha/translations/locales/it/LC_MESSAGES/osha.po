@@ -10035,6 +10035,14 @@ msgstr "Chiamate pericolose"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Il finale"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo in ... Lungs at work (I polmoni al lavoro)"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "L'esposizione al fumo di tabacco nuoce alla salute sia dei fumatori sia dei non fumatori: non soltanto può provocare gravi disturbi come malattie cardiovascolari e respiratorie, ma può anche causare la morte per tumori, coronaropatie o infarti. Ciononostante sono ancora migliaia i lavoratori che subiscono il fumo di tabacco sul luogo di lavoro. Con il videoclip che vi proponiamo anche Napo si schiera per liberare dal fumo gli ambienti di lavoro."
+
 ####
 # Alertservice
 

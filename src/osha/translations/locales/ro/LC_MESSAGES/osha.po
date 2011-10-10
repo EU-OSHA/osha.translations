@@ -9599,6 +9599,14 @@ msgstr "Pericol - apelaţi telefonic"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Joc final"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo în … Plămânii la lucru"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Expunerea la fumul de ţigară este nefastă atât pentru sănătatea fumătorilor, cât şi pentru cea a nefumătorilor. Poate fi sursa unor probleme grave, precum afecţiuni cardiovasculare şi respiratorii. Poate cauza decesul determinat de diverse tipuri de cancer, afecţiuni cardiace coronariene sau accidente cerebrale. Şi totuşi mii de lucrători sunt expuşi în continuare la fum de ţigară la locul lor de muncă. În acest scurt material video, Napo îşi aduce contribuţia unică la cauza locurilor de muncă fără fum de ţigară."
+
 ####
 # Alertservice
 

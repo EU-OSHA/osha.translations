@@ -10167,6 +10167,14 @@ msgstr "Bīstamais telefons"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Spēles beigas"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo ... Plaušas darbavietā"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Tabakas dūmi nelabvēlīgi ietekmē gan smēķētāju, gan nesmēķētāju veselību. Tabakas dūmu iedarbība var radīt nopietnas problēmas, piemēram, izraisīt sirds un asinsvadu, kā arī elpošanas ceļu slimības. Tie var izraisīt nāvi vēža, koronārās sirds saslimšanas vai insulta dēļ. Tomēr joprojām tūkstošiem darbinieku savā darbavietā ir pakļauti tabakas dūmu iedarbībai. Šajā īsajā filmiņā ir vērojami Napo veiktie darbi, lai atbrīvotu darbavietas no tabakas dūmiem."
+
 ####
 # Alertservice
 

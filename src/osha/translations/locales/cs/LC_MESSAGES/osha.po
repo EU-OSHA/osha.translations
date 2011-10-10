@@ -9707,6 +9707,13 @@ msgstr "Pozor na riziko"
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Řešení je nasnadě"
 
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo v … plíce při práci"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Expozice tabákovému kouři je škodlivá pro zdraví kuřáků i nekuřáků. Může způsobovat závažné problémy, jako jsou kardiovaskulární a respirační onemocnění. Může vést k úmrtí v důsledku rakoviny, ischemické choroby srdeční nebo mozkové mrtvice. Přesto jsou tisíce pracovníků na svém pracovišti tabákovému kouři stále vystaveny. V tomto krátkém filmovém klipu Napo svým vlastním osobitým způsobem přispívá ke vzniku nekuřáckých pracovišť."
+
 ####
 # Alertservice
 

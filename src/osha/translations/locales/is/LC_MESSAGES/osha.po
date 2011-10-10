@@ -2152,6 +2152,13 @@ msgstr "Hættuleg símhringing"
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Síðasti leikurinn"
 
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo í ... lungu í vinnunni"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Nálægð við tóbaksreyk er skaðleg heilsu þess sem reykir og þess sem reykir ekki. Tóbaksreykur getur valdið alvarlegum vandamálum, svo sem hjarta- og æðasjúkdómum og öndunarfærasjúkdómum. Hann getur leitt til dauða af völdum krabbameins, kransæðasjúkdóma eða heilablóðfalls. Samt sem áður eru þúsundir starfsmanna í návígi við tóbaksreyk á vinnustað sínum. Í þessu stutta myndbroti, leggur Napo sitt af mörkunum fyrir málstað reyklausra vinnustaða."
+
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
 msgid "label_date_to_be_confirmed" 

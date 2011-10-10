@@ -10186,6 +10186,14 @@ msgstr "Niebezpieczny fach"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Końcowa gra"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "Napo a... płuca w pracy"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "Narażenie na dym tytoniowy jest niekorzystne zarówno dla zdrowia osób palących, jak i osób niepalących. Może powodować poważne problemy, jak choroby układu krążenia i układu oddechowego. Może ono także prowadzić do zgonów w związku z rakiem (zwłaszcza rakiem płuc), chorobą niedokrwienną serca lub udarem. Jednakże tysiące pracowników jest wciąż narażonych na dym tytoniowy w miejscu pracy. W tym krótkim filmie Napo przedstawia swój wyjątkowy wkład w walkę na rzecz miejsc pracy wolnych od dymu tytoniowego."
+
 ####
 # Alertservice
 
