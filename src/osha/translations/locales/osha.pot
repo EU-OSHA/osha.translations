@@ -1037,7 +1037,7 @@ msgstr ""
 msgid "heading_general_information"
 msgstr ""
 
-#. Default: The current language is . If you want to subscribe to feeds in another
+#. Default: The current language is ${language}. If you want to subscribe to feeds in another
 #. language, change the language of this page first.
 #: src/osha/theme/browser/templates/rssfeeds.pt:46
 msgid "note_language"
@@ -1058,7 +1058,7 @@ msgstr ""
 msgid "help_use_online_service_step1"
 msgstr ""
 
-#. Default:
+#. Default: If you use an online RSS service, use a shortcut:
 #: src/osha/theme/browser/templates/rssfeeds.pt:32
 msgid "help_use_online_service"
 msgstr ""
@@ -1073,12 +1073,12 @@ msgstr ""
 msgid "help_use_aggregator_step1"
 msgstr ""
 
-#. Default:  ():
+#. Default: To view one of the feeds in your RSS Aggregator
 #: src/osha/theme/browser/templates/rssfeeds.pt:22
 msgid "help_use_aggregator"
 msgstr ""
 
-#. Default: This page contains an overview over the RSS () feeds currently
+#. Default: This page contains an overview over the RSS (${link}) feeds currently
 #. available at osha.europa.eu. Subscribe to our RSS (Really Simple Syndication)
 #. feeds to get information delivered directly to your desktop!
 #: src/osha/theme/browser/templates/rssfeeds.pt:18
@@ -1217,6 +1217,10 @@ msgstr ""
 #: src/osha/theme/portlets/collection.pt:52 src/osha/theme/portlets/oshevents.pt:67
 #: src/osha/theme/portlets/oshnews.pt:48
 msgid "info_whatis_rss"
+msgstr ""
+
+#. Default: What is an Aggregator
+msgid "info_whatis_aggregator"
 msgstr ""
 
 #. Default: More&hellip;
