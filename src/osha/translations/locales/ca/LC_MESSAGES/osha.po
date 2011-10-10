@@ -20,36 +20,59 @@ msgstr ""
 # NAPO
 
 
-msgid "title_napo_episode_1_7"
-msgstr "Señales de obligación"
-
-msgid "title_napo_episode_1_8"
-msgstr "Protección obligatoria de la vista"
-
-msgid "title_napo_episode_1_9"
-msgstr "Protección obligatoria del oído"
-
 msgid "title_napo_episode_1_0"
-msgstr "Protección obligatoria de la cabeza"
+msgstr "Introducció"
 
 msgid "title_napo_episode_1_1"
-msgstr "Señales de salvamento o socorro"
+msgstr "Senyals d’advertència"
 
 msgid "title_napo_episode_1_2"
-msgstr "Vía/salida de socorro"
+msgstr "Càrrega suspesa"
 
 msgid "title_napo_episode_1_3"
-msgstr "Primeros auxilios"
+msgstr "Senyals en bon estat"
 
 msgid "title_napo_episode_1_4"
-msgstr "Señalización de equipos de lucha contra incendios"
+msgstr "Senyals de prohibició"
 
 msgid "title_napo_episode_1_5"
-msgstr "Extintor"
+msgstr "Prohibició: no fumar"
 
 msgid "title_napo_episode_1_6"
-msgstr "Teléfono para lucha contra incendios"
+msgstr "Prohibit el pas als carretons elevadors"
 
+msgid "title_napo_episode_1_7"
+msgstr "Senyals d’obligació"
+
+msgid "title_napo_episode_1_8"
+msgstr "Protecció obligatòria de la vista"
+
+msgid "title_napo_episode_1_9"
+msgstr "Protecció obligatòria de l’oïda"
+
+msgid "title_napo_episode_1_10"
+msgstr "El casc de seguretat s’ha de portar"
+
+msgid "title_napo_episode_1_11"
+msgstr "Senyals de salvament o socors"
+
+msgid "title_napo_episode_1_12"
+msgstr "Sortida d’emergència"
+
+msgid "title_napo_episode_1_13"
+msgstr "Primers auxilis"
+
+msgid "title_napo_episode_1_14"
+msgstr "Senyals d’equips de protecció contra incendis"
+
+msgid "title_napo_episode_1_15"
+msgstr "Equips de lluita contra incendis"
+
+msgid "title_napo_episode_1_16"
+msgstr "Sistema d’alarma d’incendis"
+
+msgid "title_napo_episode_1_17"
+msgstr "Final"
 msgid "title_napo_episode_2_0"
 msgstr "Les aventures d’en Napo"
 
@@ -81,7 +104,7 @@ msgid "title_napo_episode_2_9"
 msgstr "Mitjans de treball inadequats + manca de formació = accident"
 
 msgid "title_napo_episode_3_0"
-msgstr "CONTACTO E INHALACIÓN DE SUSTANCIAS QUÍMICAS EN EL TRABAJO"
+msgstr "Contacte i inhalació de substàncies químiques a la feina"
 
 msgid "title_napo_episode_3_1"
 msgstr "Nociu"
@@ -156,7 +179,7 @@ msgid "title_napo_episode_5_9"
 msgstr "Final feliç"
 
 msgid "title_napo_episode_6_0"
-msgstr "En Napo presenta: “Deixa de fer soroll”."
+msgstr "En Napo presenta “Deixa de fer soroll!”."
 
 msgid "title_napo_episode_6_1"
 msgstr "Irreparable"
@@ -241,10 +264,10 @@ msgstr "Final"
 
 
 msgid "title_napo_film_1"
-msgstr "«BEST SIGNS STORY» (LA HISTORIA DE LAS MEJORES SEÑALES)"
+msgstr "«BEST SIGNS STORY» (LA HISTÒRIA DELS MILLORS SENYALS)"
 
 msgid "description_napo_film_1"
-msgstr "La primera película de la serie Napo ofrece una introducción básica a las señales de salud y seguridad y a los símbolos que se encuentran en los lugares de trabajo. Ofrece una guía útil para los nuevos empleados y es un excelente recordatorio para otros trabajadores. Se muestran diferentes situaciones del lugar de trabajo en donde las señales de seguridad son importantes. La película es válida para todos los sectores y para empleados de cualquier nivel, pero especialmente para jóvenes en prácticas o en período de formación.<br/><br/>Está pensada para informar a los espectadores sobre las señales de seguridad en el trabajo, para promover la importancia de respetar las señales y para aprender e identificar el significado de las señales a través de su forma y su color. Se trata de trece sketches. Cada sketch muestra una situación de trabajo en la que Napo se encuentra con señales que cobran vida para enseñarle sus significados y la importancia de la seguridad. Las secuencias muestran lo que sucede si no se obedecen las señales, y los obstáculos técnicos y organizativos que impiden el funcionamiento eficaz de las señales."
+msgstr "<p>La primera pel·lícula de la sèrie Napo ofereix una introducció bàsica als senyals de salut i seguretat i als símbols que es troben als llocs de treball. Ofereix una guia útil per als nous empleats i és un excel·lent recordatori per a d'altres treballadors. Es mostren diferents situacions del lloc de treball on els senyals de seguretat són importants. La pel·lícula és vàlida per a tots els sectors i per a empleats de qualsevol nivell, però especialment per a joves en pràctiques o en període de formació.</p><p>Està pensada per informar als espectadors sobre els senyals de seguretat en el treball, per promoure la importància de respectar els senyals i per aprendre i identificar el significat dels senyals mitjançant la seva forma i color. La pel·lícula està formada per tretze escenes, cadascuna de les quals mostra una situació de treball on Napo es troba amb senyals que cobren vida per ensenyar-li els seus significats i la importància de la seguretat. Les seqüències mostren el que passa si no s'obeeixen els senyals, i els obstacles tècnics i organitzatius que impedeixen el funcionament eficaç dels senyals.</p>"
 
 msgid "title_napo_film_2"
 msgstr "LES AVENTURES D’EN NAPO"
@@ -259,13 +282,13 @@ msgid "description_napo_film_3"
 msgstr "En Napo participa en una sèrie d'escenes breus on apareix treballant amb productes químics, entre els quals n’hi ha d’irritants, inflamables, corrosius, tòxics o perillosos per al medi ambient. Cada escena va seguida d'una breu seqüència que mostra com prevenir accidents amb pràctiques de treball segures. Aquesta pel·lícula és apropiada per a tots els sectors industrials i activitats laborals. L'objectiu és atraure l'atenció sobre la importància d'etiquetar els productes químics. Després d'una explosiva escena inicial, hi ha sis seqüències que mostren, en primer lloc, la forma errònia de procedir, i mostren les possibles -i greus- conseqüències que se’n poden derivar;  tot seguit s’exposa la forma correcta d’actuar, que és seguint les instruccions de seguretat. La pel·lícula cobreix sis dels nou símbols de seguretat, i tracta breument també el risc que comporten els explosius."
 
 msgid "title_napo_film_4"
-msgstr "En Napo a “La seguretat a l’obra”"
+msgstr "EN NAPO A “LA SEGURETAT A L’OBRA”"
 
 msgid "description_napo_film_4"
-msgstr "En aquesta pel·lícula en Napo treballa en una obra de construcció i això li permet mostrar alguns dels perills i riscos més habituals al sector. Com a treballador, en Napo afronta nombroses situacions de perill però aconsegueix superar aquests mals tràngols. La pel·lícula està pensada per a treballadors de la construcció, però és apta per a tots els sectors i tots els nivells de treballadors, especialment joves en formació o en pràctiques. L’objectiu és conscienciar  dels riscos més freqüents a les obres i donar als espectadors l’oportunitat de reflexionar sobre les mesures preventives més adaptades a cada situació. En set històries curtes es mostren diferents aspectes de la seguretat a una obra: els sistemes anticaiguda, el risc de caigudes d'altura, la presència d'obstacles, el mal d'esquena, la importància d’organitzar les rutes de transport, entre d’altres."
+msgstr "En aquesta pel·lícula en Napo treballa en una obra de construcció i això li permet mostrar alguns dels perills i riscos més habituals al sector. Com a treballador, en Napo afronta nombroses situacions de perill però aconsegueix superar aquests mals tràngols. La pel·lícula està pensada per a treballadors de la construcció, però és apta per a tots els sectors i tots els nivells de treballadors, especialment joves en formació o en pràctiques. L’objectiu és conscienciar  dels riscos més freqüents a les obres i donar als espectadors l’oportunitat de reflexionar sobre les mesures preventives més adaptades a cada situació. En set històries curtes es mostren diferents aspectes de la seguretat a una obra: els sistemes anticaiguda, el risc de caigudes d'altura, la presència d'obstacles, el mal d'esquena o la importància d’organitzar les rutes de transport, entre d’altres."
 
 msgid "title_napo_film_5"
-msgstr "En Napo i la neteja a fons"
+msgstr "EN NAPO I LA NETEJA A FONS"
 
 msgid "description_napo_film_5"
 msgstr "<p>Aquesta pel·lícula presenta els riscos per a la seva salut i seguretat que corren els treballadors del sector de la contractació i la neteja, entre els quals hi ha les relliscades i les ensopegades, les caigudes, així com els riscos derivats de la manipulació de càrregues i del treball en solitari. “En Napo i la neteja a fons” s’adreça a empreses i contractistes de neteja, però és apta per a tots els sectors i tots els nivells d'empleats, especialment joves en formació i en pràctiques. L’objectiu de la pel·lícula és sensibilitzar sobre els riscos més habituals que comporta el treball de neteja i assenyalar quines són les mesures preventives adequades.</p><p>De vegades en Napo és prudent i en canvi d’altres vegades corre riscos. Amb la Napette, el seu company, el seu cap i els clients, s’exposa a diferents nivells de risc. Les situacions que mostra la pel·lícula ofereixen l'oportunitat de parlar sobre l'organització i la planificació del treball, els senyals de seguretat, la utilització d'escales i passos, els problemes de la manipulació de càrregues, el treball en equip i la difusió d'informació.</p>"
@@ -274,11 +297,11 @@ msgid "title_napo_film_6"
 msgstr "EN NAPO A “DEIXA DE FER SOROLL!”"
 
 msgid "description_napo_film_6"
-msgstr "El soroll en el treball afecta milers de treballadors. Aquesta pel·lícula té per objectiu mostrar algunes de les principals causes de pèrdua d'audició i subratllar la necessitat de controlar el soroll en el seu origen, així com de prendre mesures preventives i d'utilitzar la protecció auditiva adequada en cada moment. “Deixa de fer soroll!” és apta per a tots els sectors i per a empleats de qualsevol nivell, però especialment per als joves en formació o en pràctiques"
+msgstr "El soroll en el treball afecta milers de treballadors. Aquesta pel·lícula té per objectiu mostrar algunes de les principals causes de pèrdua d'audició i subratllar la necessitat de controlar el soroll en el seu origen, així com de prendre mesures preventives i d'utilitzar la protecció auditiva adequada en cada moment. “Deixa de fer soroll!” és apta per a tots els sectors i per a empleats de qualsevol nivell, però especialment per als joves en formació o en pràctiques."
 
 
 msgid "title_napo_film_7"
-msgstr "En Napo presenta: “Créixer amb seguretat”."
+msgstr "EN NAPO PRESENTA “CRÉIXER AMB SEGURETAT”"
 
 msgid "description_napo_film_7"
 msgstr "La pel·lícula vol conscienciar sobre diferents qüestions a les quals s'han d'enfrontar els joves que comencen una nova feina o que canvien de lloc de treball. Napo és una manera ideal d'arribar a l'audiència jove, especialment joves en pràctiques o en període de formació. La pel·lícula també està pensada per a les persones que accedeixen per primera vegada al mercat laboral. Es composa de set escenes que mostren situacions típiques d'una persona que ocupa per primera vegada un lloc de treball."
@@ -355,7 +378,7 @@ msgid "description_napo_film_12"
 msgstr "<p>Aquesta pel·lícula és una versió revisada de “Scratch and Sniff, - Riscos químics en el lloc de treball” produïda l’any 2003. A la revisió s’han introduït canvis per harmonitzar els símbols (pictogrames) utilitzats en el transport de mercaderies perilloses i els signes utilitzats en la classificació, etiquetatge i embalatge de productes químics, però els set pictogrames existents passaran a ser nou. L’1 de desembre de 2010 era la data límit a fi que totes les substàncies fossin reclassificades i etiquetades en línia amb el nou sistema global (GHS), i abans de l'1 de juny de 2015 s’haurà d’haver conclòs el mateix procés amb les mescles (anteriorment denominades \"preparats\").</p><p>En Napo participa en una sèrie d'escenes breus on apareix treballant amb productes químics, entre els quals n’hi ha d’irritants, inflamables, corrosius, tòxics o perillosos per al medi ambient. Cada escena va seguida d'una breu seqüència que mostra com prevenir accidents amb pràctiques de treball segures. Aquesta pel·lícula és apropiada per a tots els sectors industrials i activitats laborals. L'objectiu és atraure l'atenció sobre la importància d'etiquetar els productes químics. Després d'una explosiva escena inicial, hi ha sis seqüències que mostren, en primer lloc, la forma errònia de procedir, i mostren les possibles –i greus- conseqüències que se’n poden derivar; tot seguit s’exposa la forma correcta d’actuar, que és seguint les instruccions de seguretat.</p>"
 
 msgid "title_napo_episode_12_1"
-msgstr "riesgos químicos en el trabajo"
+msgstr "Riscos químics a la feina"
 
 msgid "title_napo_episode_12_2"
 msgstr "Nociu"
@@ -383,7 +406,7 @@ msgid "title_napo_film_13"
 msgstr "EN NAPO PRESENTA “PROTEGEIX LA TEVA PELL”"
 
 msgid "description_napo_film_13"
-msgstr "<p>Aquesta pel·lícula pretén conscienciar dels perills d'exposar la pell a substàncies perilloses (i de vegades, no tan perilloses), sobre les situacions en què es produeix l’exposició i sobre el que es pot fer per evitar riscos i protegir la pell. En Napo descobreix moltes situacions en les quals l'exposició als productes químics i altres substàncies poden causar problemes de pell. A la pel·lícula, a més, en Napo ho aprèn tot sobre les impressionants qualitats de la pell, i es mostra nu davant el públic. En Napo troba les mesures adequades per prevenir problemes i transmet tres missatges importants: – evitar-protegir-comprovar.</p><p>Evitar o minimitzar el contacte amb els productes químics s’aconsegueix per eliminació (emprant un mètode mecànic en lloc d’un de químic), per substitució (utilitzant una alternativa més segura), o amb l’establiment d’una distància de treball segura (utilitzant eines, en lloc de manipular el producte químic directament). L'Equip de Protecció Personal (EPP) està dissenyat per protegir la pell, però en Napo ens recorda la importància de tenir cura de la nostra pell, i ens mostra com s'elimina la contaminació: rentant la pell de forma adequada, assecant-la bé i aplicant cremes regularment.</p>"
+msgstr "<p>Aquesta pel·lícula pretén conscienciar dels perills d'exposar la pell a substàncies perilloses (i de vegades, no tan perilloses), sobre les situacions en què es produeix l’exposició i sobre el que es pot fer per evitar riscos i protegir la pell. En Napo descobreix moltes situacions en les quals l'exposició als productes químics i altres substàncies poden causar problemes de pell. A la pel·lícula, a més, en Napo ho aprèn tot sobre les impressionants qualitats de la pell, i es mostra nu davant el públic. En Napo troba les mesures adequades per prevenir problemes i transmet tres missatges importants: – evitar-protegir-comprovar.</p><p>Evitar o minimitzar el contacte amb els productes químics s’aconsegueix per eliminació (emprant un mètode mecànic en lloc d’un de químic), per substitució (utilitzant una alternativa més segura), o amb l’establiment d’una distància de treball segura (utilitzant eines, en lloc de manipular el producte químic directament). L'Equip de Protecció Individual (EPI) està dissenyat per protegir la pell, però en Napo ens recorda la importància de tenir cura de la nostra pell, i ens mostra com s'elimina la contaminació: rentant la pell de forma adequada, assecant-la bé i aplicant cremes regularment.</p>"
 
 # ---------- New Napo Film Number 14   Safe Maintenance 
 msgid "title_napo_film_14"
@@ -415,7 +438,7 @@ msgid "heading_napo-015-safe-moves"
 msgstr "EN NAPO A “MOURE’S SEGUR”"
 
 msgid "description_napo-015-safe-moves"
-msgstr "<p>La pel·lícula es centra en el transport en el lloc de treball, dirigint especial atenció al transport mitjançant un carretó elevador, entre d’altres formes de transport intern i extern.</p><p>La pel·lícula inclou escenes sobre la seguretat del lloc, de les persones i dels vehicles, així com també sobre el manteniment, la visibilitat, els canvis i les activitats de càrrega i descàrrega. Està dirigida a tots els treballadors, però sobretot als nous i als joves.</p><p>El missatge principal de la pel·lícula és que el transport en el lloc de treball ha d’estar ben organitzat i ben gestionat. Això requereix una implicació de la direcció en la correcta planificació, execució i seguiment, així com també en l’avaluació de riscos per identificar els perills i els riscs, i en l’adopció de les mesures necessàries. També exigeix un comportament adequat dels treballadors, que han d’estar degudament capacitats i ser supervisats; i mitjançant un enfocament participatiu aconseguir que els riscos es redueixin i es gestionin adequadament.</p>"
+msgstr "<p>La pel·lícula se centra en el transport en el lloc de treball, dirigint especial atenció al transport mitjançant un carretó elevador, entre d’altres formes de transport intern i extern.</p><p>La pel·lícula inclou escenes sobre la seguretat del lloc, de les persones i dels vehicles, així com també sobre el manteniment, la visibilitat, els canvis i les activitats de càrrega i descàrrega. Està dirigida a tots els treballadors, però sobretot als nous i als joves.</p><p>El missatge principal de la pel·lícula és que el transport en el lloc de treball ha d’estar ben organitzat i ben gestionat. Això requereix una implicació de la direcció en la correcta planificació, execució i seguiment, així com també en l’avaluació de riscos per identificar els perills i els riscos, i en l’adopció de les mesures necessàries. També exigeix un comportament adequat dels treballadors, que han d’estar degudament capacitats i ser supervisats; i mitjançant un enfocament participatiu aconseguir que els riscos es redueixin i es gestionin adequadament.</p>"
 
 msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
 msgstr "Recopilació “MOURE’S SEGUR”"
@@ -446,3 +469,11 @@ msgstr "Perill de trucada"
 
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Centrar-se en el canvi"
+
+# NAPO 16 "Lungs at Work"
+msgid "heading_napo-016-lungs-at-work"
+msgstr "En Napo presenta... els pulmons al lloc de treball"
+
+msgid "description_napo-016-lungs-at-work"
+msgstr "L’exposició al fum del tabac és perjudicial per a la salut dels fumadors i dels no fumadors. Pot causar problemes greus, com per exemple malalties cardiovasculars i respiratòries. I pot provocar la mort per un càncer, una malaltia cardíaca coronària o un ictus. Malgrat això, milers de treballadors segueixen exposats al fum al seu lloc de treball. Amb aquest breu videoclip, en Napo fa una gran contribució a la causa dels llocs de treball sense fum."
+
