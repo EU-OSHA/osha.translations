@@ -474,8 +474,8 @@ msgstr "The end game"
 
 # NAPO 16 "Lungs at Work"
 msgid "heading_napo-016-lungs-at-work"
-msgstr "Napo in … lungs at work"
+msgstr "Напо в.... легкие на работе."
 
 msgid "description_napo-016-lungs-at-work"
-msgstr "Exposure to tobacco smoke is bad for both smokers’ and non-smokers’ health. It can cause serious problems such as cardiovascular and respiratory diseases. It can cause death due to cancers, coronary heart disease or stroke. Yet thousands of workers are still exposed to tobacco smoke at their workplace. In this short clip, Napo makes his own unique contribution to the cause of smoke-free workplaces."
+msgstr "Воздействие табачного дыма одинаково плохо как для курящих так и для некурящих. Оно может вызвать такие серьезные проблемы как сердечно-сосудистые и респираторные заболевания. Оно может привести к смерти по причине рака, ишемической болезни сердца или инсульта. В этом коротком клипе, Напо делает свой собственный уникальный вклад в дело создания и продвижения рабочих мест, свободных от курения и табачного дыма."
 
