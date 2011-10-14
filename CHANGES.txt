@@ -5,6 +5,7 @@ osha.translations Changelog
 ------------------
 
 - Added translations for NAPO "Lungs at Work" #3486 [thomasw]
+- Amended translations for NAPO in Catalan #3487
 
 1.0.4 (2011-09-21)
 ------------------
