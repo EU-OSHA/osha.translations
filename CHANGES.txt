@@ -4,7 +4,7 @@ osha.translations Changelog
 1.0.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Adding translation for Press and Multimedia #3846 [deroiste]
 
 
 1.0.5 (2011-10-14)
