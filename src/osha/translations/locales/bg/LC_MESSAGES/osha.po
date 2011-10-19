@@ -6805,21 +6805,21 @@ msgid "default"
 msgstr "по подразбиране"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "Вашата мрежа за здраве и безопасност при работа"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6827,9 +6827,9 @@ msgid "Site Update"
 msgstr "Новости в сайта"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6837,9 +6837,9 @@ msgid "Translation Help"
 msgstr "Помощ за превод"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6847,9 +6847,9 @@ msgid "My Folder"
 msgstr "Моя Папка"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6857,9 +6857,9 @@ msgid "My Settings"
 msgstr "Мои настройки"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6867,9 +6867,9 @@ msgid "Undo"
 msgstr "Отмени"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6877,9 +6877,9 @@ msgid "Portal Setup"
 msgstr "Настройка на портала"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6887,9 +6887,9 @@ msgid "Log out"
 msgstr "Изход"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6897,9 +6897,9 @@ msgid "Layout table"
 msgstr "Layout table"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6907,9 +6907,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Йерархичен речник"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6917,9 +6917,9 @@ msgid "Index of keywords"
 msgstr "Индекс на ключови думи"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6927,9 +6927,9 @@ msgid "Contents"
 msgstr "Съдържание"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6937,9 +6937,9 @@ msgid "View"
 msgstr "Преглед"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6947,9 +6947,9 @@ msgid "Edit"
 msgstr "Редакция"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6957,9 +6957,9 @@ msgid "Properties"
 msgstr "Свойства"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -6967,64 +6967,64 @@ msgid "Add / Propose"
 msgstr "Добави / Предложи"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "История"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Портлети"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Синхронизация"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Собственост"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Локална роля"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7032,31 +7032,31 @@ msgid "published"
 msgstr "публикуван"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Отказ"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Разширен"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7064,9 +7064,9 @@ msgid "Calendar"
 msgstr "Календар"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7074,9 +7074,9 @@ msgid "Collection"
 msgstr "Колекция"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7084,9 +7084,9 @@ msgid "Directive"
 msgstr "Директива"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7094,9 +7094,9 @@ msgid "Discussion Board"
 msgstr "Форум"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7104,9 +7104,9 @@ msgid "Discussion Center"
 msgstr "Дискусионен център"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7114,9 +7114,9 @@ msgid "Document"
 msgstr "Документ"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7124,9 +7124,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7134,9 +7134,9 @@ msgid "FAQ Folder"
 msgstr "Папка ЧЗВ"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7144,9 +7144,9 @@ msgid "File"
 msgstr "Файл"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7154,9 +7154,9 @@ msgid "Folder"
 msgstr "Папка"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7164,9 +7164,9 @@ msgid "Glossary Folder"
 msgstr "Glossary Folder"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7174,9 +7174,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7184,9 +7184,9 @@ msgid "Image"
 msgstr "Изображение"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7194,9 +7194,9 @@ msgid "Link"
 msgstr "Връзка"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7204,9 +7204,9 @@ msgid "Metadata Set"
 msgstr "Metadata Set"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7214,9 +7214,9 @@ msgid "Navigation"
 msgstr "Навигация"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7224,9 +7224,9 @@ msgid "News Article"
 msgstr "Новина"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7234,9 +7234,9 @@ msgid "News Board"
 msgstr "Табло новини"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7244,9 +7244,9 @@ msgid "OSH_Article"
 msgstr "OSH Article"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7254,9 +7254,9 @@ msgid "OSH_Case"
 msgstr "OSH Case"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7264,9 +7264,9 @@ msgid "OSH_Institute"
 msgstr "OSH Institute"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7274,9 +7274,9 @@ msgid "OSH_Link"
 msgstr "OSH Link"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7284,9 +7284,9 @@ msgid "OSH_Product"
 msgstr "OSH Product"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7294,9 +7294,9 @@ msgid "OSH_Project"
 msgstr "OSH Project"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7304,9 +7304,9 @@ msgid "OSH_Publisher"
 msgstr "OSH Publisher"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7314,9 +7314,9 @@ msgid "OSH_Substance"
 msgstr "OSH Substance"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7324,9 +7324,9 @@ msgid "Syndicated Document"
 msgstr "Синхронизиран документ"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7334,9 +7334,9 @@ msgid "Topic"
 msgstr "Тема"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7344,9 +7344,9 @@ msgid "Topic Document"
 msgstr "Документ"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7354,9 +7354,9 @@ msgid "Send to somebody"
 msgstr "Изпрати на приятел"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7364,9 +7364,9 @@ msgid "Link to our site"
 msgstr "Връзка към нашия сайт"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7374,9 +7374,9 @@ msgid "Suggest interesting link"
 msgstr "Предложете интересна връзка"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7384,9 +7384,9 @@ msgid "Report broken link"
 msgstr "Съобщете за невалидна връзка"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7420,16 +7420,16 @@ msgstr "Updates to your favourite topics"
 msgid "Plone Member Preferences"
 msgstr "Потребителски предпочитания"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Прочетете нашите/нашия ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -7468,9 +7468,9 @@ msgid "Europe"
 msgstr "Европа"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 13, Column 9
-#. 
+#.
 #. Orginal text:
 #. Portal
 #: /osha_neu/index_html/newsboard_view
@@ -7478,9 +7478,9 @@ msgid "Portal"
 msgstr "Портал"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 9, Column 4
-#. 
+#.
 #. Orginal text:
 #. OSHA Network
 #: /osha_neu/index_html/newsboard_view
@@ -7488,19 +7488,19 @@ msgid "heading_network"
 msgstr "OSHA мрежа"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 28, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #: /osha_neu/index_html/newsboard_view
 msgid " "
 msgstr " "
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 59, Column 28
-#. 
+#.
 #. Orginal text:
 #. accesskeys-navigation
 #: /osha_neu/index_html/newsboard_view
@@ -7508,9 +7508,9 @@ msgid "accesskeys-navigation"
 msgstr "клавиши за достъп-навигация"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 33, Column 8
-#. 
+#.
 #. Orginal text:
 #. Agency Web Features
 #: /osha_neu/index_html/newsboard_view
@@ -7518,9 +7518,9 @@ msgid "Agency Web Features"
 msgstr "Функционални възможности на Интернет страницата на Агенцията"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 4
-#. 
+#.
 #. Orginal text:
 #. sign the charter
 #: /osha_neu/index_html/newsboard_view
@@ -7528,9 +7528,9 @@ msgid "sign the charter"
 msgstr "подпиши хартата"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 109, Column 4
-#. 
+#.
 #. Orginal text:
 #. Events for this month
 #: /osha_neu/index_html/newsboard_view
@@ -7538,9 +7538,9 @@ msgid "events_for_this_month"
 msgstr "събития през този месец"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHMail
 #: /osha_neu/portlet_oshmail
@@ -7548,9 +7548,9 @@ msgid "OSHMail"
 msgstr "OSH поща"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 51
-#. 
+#.
 #. Orginal text:
 #. free newsletter
 #: /osha_neu/portlet_oshmail
@@ -7558,9 +7558,9 @@ msgid "label_free_newsletter"
 msgstr "безплатен бюлетин"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close
 #: /osha_neu/index_html/newsboard_view
@@ -7568,9 +7568,9 @@ msgid "close"
 msgstr "затвори"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close window
 #: /osha_neu/index_html/newsboard_view
@@ -7578,21 +7578,21 @@ msgid "close window"
 msgstr "затвори прозореца"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 28, Column 16
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.                 Up to the thesaurus
-#. 
+#.
 #: None
 msgid "up_to_thesaurus"
 msgstr "нагоре към тезауруса"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 53, Column 121
-#. 
+#.
 #. Orginal text:
 #. Display information about "${title}"
 #: None
@@ -7600,9 +7600,9 @@ msgid "link_thesaurus_search"
 msgstr " покажи информация за "
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 59, Column 19
-#. 
+#.
 #. Orginal text:
 #. Identifier
 #: None
@@ -7610,9 +7610,9 @@ msgid "Identifier"
 msgstr "Идентификатор"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 69, Column 22
-#. 
+#.
 #. Orginal text:
 #. Subordinate entries
 #: None
@@ -7620,9 +7620,9 @@ msgid "mt_child_entries"
 msgstr "Второстепенни записи"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 92, Column 19
-#. 
+#.
 #. Orginal text:
 #. Translations
 #: None
@@ -7630,9 +7630,9 @@ msgid "Translations"
 msgstr "Преводи"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 98, Column 20
-#. 
+#.
 #. Orginal text:
 #. Synonyms
 #: None
@@ -7640,9 +7640,9 @@ msgid "Synonyms"
 msgstr "Синоними"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 106, Column 12
-#. 
+#.
 #. Orginal text:
 #. No Synonyms
 #: None
@@ -7650,9 +7650,9 @@ msgid "No Synonyms"
 msgstr "Няма синоними"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 107, Column 19
-#. 
+#.
 #. Orginal text:
 #. Related Items
 #: None
@@ -7660,9 +7660,9 @@ msgid "Related Items"
 msgstr "Сродни материали"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
+#.
 #. Line 115, Column 12
-#. 
+#.
 #. Orginal text:
 #. No Related Items
 #: None
@@ -7670,21 +7670,21 @@ msgid "No Related Items"
 msgstr "Няма сродни материали"
 
 #. Added on Mon Dec 12 13:31:47 2005
-#. 
+#.
 #. Line 44, Column 43
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.                 Up to superordinate entry "${title}"
-#. 
+#.
 #: None
 msgid "up_to_thesaurusitem_parent"
 msgstr "Нагоре към първостепенен запис"
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 144
-#. 
+#.
 #. Orginal text:
 #. Extended search form
 #: None
@@ -7692,20 +7692,20 @@ msgid "extended_search_url"
 msgstr " Форма за разширено търсене "
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 122
-#. 
+#.
 #. Orginal text:
 #. To perform a more detailed search try the ${url}
-#. 
+#.
 #: None
 msgid "info_extended_searchform"
 msgstr " За по-детайлно търсене използвайте "
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Nace
 #: None
@@ -7713,9 +7713,9 @@ msgid "Nace"
 msgstr "Класификатор на икономическите дейности в ЕС"
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Country Code
 #: None
@@ -7723,9 +7723,9 @@ msgid "Country Code"
 msgstr "Код на държавата"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Call for Contractors
 #: None
@@ -7733,9 +7733,9 @@ msgid "Call for Contractors"
 msgstr "Заявка за контрактори"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Job Vacancy
 #: None
@@ -7743,9 +7743,9 @@ msgid "Job Vacancy"
 msgstr "Свободни работни места"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_DBContent
 #: None
@@ -7753,9 +7753,9 @@ msgid "OSH_DBContent"
 msgstr "OSH съдържание на база данни"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHmail
 #: None
@@ -7763,9 +7763,9 @@ msgid "OSHmail"
 msgstr "OSH поща"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Back
 #: None
@@ -7773,9 +7773,9 @@ msgid "Back"
 msgstr "Oбратно"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Top of Page
 #: None
@@ -7783,9 +7783,9 @@ msgid "Top of Page"
 msgstr "Начало на страницата"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 23, Column 88
-#. 
+#.
 #. Orginal text:
 #. Configure
 #: None
@@ -7793,9 +7793,9 @@ msgid "Configure"
 msgstr "Конфигуриране"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 229, Column 44
-#. 
+#.
 #. Orginal text:
 #. Id
 #: None
@@ -7803,9 +7803,9 @@ msgid "Id"
 msgstr "Id"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 248, Column 28
-#. 
+#.
 #. Orginal text:
 #. visible
 #: None
@@ -7813,42 +7813,42 @@ msgid "visible"
 msgstr "видим"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 33, Column 74
-#. 
+#.
 #. Orginal text:
 #. Channels
-#. 
+#.
 #: None
 msgid "Channels"
 msgstr "Канали"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Make private
-#. 
+#.
 #: None
 msgid "Make private"
 msgstr "Направи частен"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Publish
-#. 
+#.
 #: None
 msgid "Publish"
 msgstr "Публикувай"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 66, Column 16
-#. 
+#.
 #. Orginal text:
 #. private
 #: None
@@ -7856,20 +7856,20 @@ msgid "private"
 msgstr "частен"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Submit
-#. 
+#.
 #: None
 msgid "Submit"
 msgstr "Потвърди"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 16, Column 8
-#. 
+#.
 #. Orginal text:
 #. back to board
 #: None
@@ -7877,9 +7877,9 @@ msgid "back to board"
 msgstr "обратно към новини"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 17, Column 64
-#. 
+#.
 #. Orginal text:
 #. Up
 #: None
@@ -7887,9 +7887,9 @@ msgid "Up"
 msgstr "Нагоре"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 20, Column 18
-#. 
+#.
 #. Orginal text:
 #. Back to
 #: None
@@ -7897,9 +7897,9 @@ msgid "Back to"
 msgstr "Обратно към"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 30, Column 8
-#. 
+#.
 #. Orginal text:
 #. previous article
 #: None
@@ -7907,9 +7907,9 @@ msgid "previous article"
 msgstr "предишна статия"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 38, Column 81
-#. 
+#.
 #. Orginal text:
 #. Browse in articles
 #: None
@@ -7917,9 +7917,9 @@ msgid "Browse in articles"
 msgstr "прегледай статиите"
 
 #. Added on Mon Dec 12 14:58:37 2005
-#. 
+#.
 #. Line 42, Column 12
-#. 
+#.
 #. Orginal text:
 #. Go
 #: /osha_neu/index_html/newsboard_view
@@ -9621,7 +9621,7 @@ msgstr "Ежедневно"
 
 msgid "weekly"
 msgstr "Седмично"
-	
+
 msgid "monthly"
 msgstr "Месечно"
 
@@ -9722,7 +9722,7 @@ msgstr "Рибарство"
 
 msgid "gender"
 msgstr "Пол"
-	
+
 msgid "healthcare"
 msgstr "Здравеопазване"
 
@@ -9991,65 +9991,65 @@ msgstr "The end"
 msgid "title_napo_episode_7_6"
 msgstr "The end"
 
-msgid "title_napo_episode_8_0" 
-msgstr "Облекчете товара!" 
+msgid "title_napo_episode_8_0"
+msgstr "Облекчете товара!"
 
-msgid "title_napo_episode_8_1" 
-msgstr "Съвременни случки" 
+msgid "title_napo_episode_8_1"
+msgstr "Съвременни случки"
 
-msgid "title_napo_episode_8_2" 
-msgstr "Разделяй и владей" 
+msgid "title_napo_episode_8_2"
+msgstr "Разделяй и владей"
 
-msgid "title_napo_episode_8_3" 
-msgstr "Радикална ергономия" 
+msgid "title_napo_episode_8_3"
+msgstr "Радикална ергономия"
 
-msgid "title_napo_episode_8_4" 
-msgstr "Завива ми се свят" 
+msgid "title_napo_episode_8_4"
+msgstr "Завива ми се свят"
 
-msgid "title_napo_episode_8_5" 
-msgstr "Няма хващане" 
+msgid "title_napo_episode_8_5"
+msgstr "Няма хващане"
 
-msgid "title_napo_episode_8_6" 
-msgstr "Работната височина" 
+msgid "title_napo_episode_8_6"
+msgstr "Работната височина"
 
-msgid "title_napo_episode_8_7" 
-msgstr "Проклетите вибрации" 
+msgid "title_napo_episode_8_7"
+msgstr "Проклетите вибрации"
 
-msgid "title_napo_episode_8_8" 
-msgstr "Двубоят" 
+msgid "title_napo_episode_8_8"
+msgstr "Двубоят"
 
-msgid "title_napo_episode_8_9" 
-msgstr "Помисли и за раздвижване" 
+msgid "title_napo_episode_8_9"
+msgstr "Помисли и за раздвижване"
 
-msgid "title_napo_episode_8_10" 
-msgstr "Дръж ме близо" 
+msgid "title_napo_episode_8_10"
+msgstr "Дръж ме близо"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Оцени риска" 
+msgid "title_napo_episode_9_1"
+msgstr "Оцени риска"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Определи опасността" 
+msgid "title_napo_episode_9_2"
+msgstr "Определи опасността"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Противодействай на риска" 
+msgid "title_napo_episode_9_3"
+msgstr "Противодействай на риска"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Комбинация от рискове" 
+msgid "title_napo_episode_9_4"
+msgstr "Комбинация от рискове"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Премахни риска" 
+msgid "title_napo_episode_9_5"
+msgstr "Премахни риска"
 
-msgid "title_napo_episode_9_6" 
-msgstr "Безопасността си струва парите" 
+msgid "title_napo_episode_9_6"
+msgstr "Безопасността си струва парите"
 
-msgid "title_napo_episode_9_7" 
-msgstr "The End" 
+msgid "title_napo_episode_9_7"
+msgstr "The End"
 
 msgid "title_napo_film_1"
 msgstr "РАЗКАЗ ЗА НАЙ-ДОБРИТЕ ЗНАЦИ"
@@ -10100,8 +10100,8 @@ msgstr "НАПО В \"ОБЛЕКЧЕТЕ ТОВАРА\"!"
 msgid "description_napo_film_8"
 msgstr "Мускулно-скелетните смущения (МСС) са най-честият свързан с труда здравен проблем в Европа, засягащ милиони работници - в даден момент от живота си до 90% от хората страдат от болки в гърба, увреждания на горните крайници и рецидивиращи разтежения.<br/><br/>\"Облекчете товара\" насърчава комплексен подход към борбата с МСС и необходимостта да се преодолее \"цялото натоварване на организма\", обхващащо всички натоварвания и опъвания, екологични фактори като студени условия на работа, ритъма на извършваната работа и преместваните товари.<br/><br/>Филмът показва Напо в различни ситуации на работното място и е подходящ за всички работници, включително за мигрантите и временните. Единайсет сцени показват типични ситуации на работното място."
 
-msgid "title_napo_film_9" 
-msgstr "Напо в ... рискова ситуация" 
+msgid "title_napo_film_9"
+msgstr "Напо в ... рискова ситуация"
 
 msgid "description_napo_film_9"
 msgstr "Оценката на риска е тема на Европейската кампания през 2008/09 г. Филмът „Напо в рискова ситуация“ разказва за опасностите и рисковете при работа и за необходимостта от оценка на риска и предприемане на действия по отношение на направените констатации, за да могат работните места да станат по-безопасни и здравословни. Филмът разглежда опасностите и някои от най-често срещаните рискове за: „Спри, помисли и действай“, за да се намали броят на злополуките на работното място и възникването на професионални заболявания. Филмът е предназначен да се използва като помощен материал в обучението за въвеждане на оценката на риска и понятията за опасност и риск."
@@ -10173,7 +10173,7 @@ msgid "description_napo_film_13"
 msgstr "<p>Филмът разкрива опасностите от излагането на кожата на вредни (понякога и не дотам вредни) вещества, описва ситуациите, в които може да се случи това, и пояснява как да избегнем рисковете, предпазим кожата си и предотвратим нанасянето на щети. Напо попада в най-различни ситуации, в които контактът с химикали и други вещества може да предизвика кожни проблеми. Той научава за невероятните свойства на кожата и се съблича, за да демонстрира новопридобитите си знания на зрителите: „Всичко, което винаги сте искали да научите за ... своята кожа“. Той обяснява как да избягваме проблемите и отправя три важни съвети: Избягвайте– Предпазвайте– Проверявайте.</p><p>Контактът с химикали може да се избегне или ограничи по пътя на изключването им, тоест, чрез използване на механичен, а не на химичен метод; чрез замяна - използване на по-безопасен вариант; и чрез спазване на безопасно работно разстояние - заместване на ръчни манипулации с инструменти. Освен личните предпазни средства, които можем за използваме за защита на кожата, Напо ни напомня колко е важно да се грижим за нея като своевременно я почистваме от замърсители, измиваме обилно, подсушаваме внимателно и редовно подхранваме с крем. Накрая, ако забележим начални признаци на кожни проблеми, Напо препоръчва да ходим редовно на лекар. Европейска седмица за безопасност и здраве при работа, 2009 г. </p>"
 
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Напо във филма... С поддръжката шега не бива"
 
@@ -10250,12 +10250,12 @@ msgstr "Наши събития"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Точната дата предстои да бъде потвърдена"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "TBC"
 
 
@@ -10283,3 +10283,5 @@ msgstr "Често задавани въпроси"
 msgid "text_help_center_intro"
 msgstr "Потърсете в ${text_frequently_asked_questions} или направете преглед по категория."
 
+msgid "osha_label_press_and_multimedia"
+msgstr "Преса и мултимедии"

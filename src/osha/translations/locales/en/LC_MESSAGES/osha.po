@@ -939,16 +939,16 @@ msgstr "Looking for something specific?"
 msgid "download_full_publication"
 msgstr "Download the full publication in PDF format"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Read our ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -1217,12 +1217,12 @@ msgstr "Back to the press room"
 # FOP
 
 # FOP Portlets osa.fop
-        
+
 # Default "Further information"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.pt
 msgid "label_main_fop_website"
 msgstr "Further information"
-        
+
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
 msgid "heading_main_fop_portlet_belgium"
@@ -1422,7 +1422,7 @@ msgstr "Serbian Focal Point"
 # osha/theme/browser/templates/publicationsearch.pt
 # osha/theme/browser/templates/practical_solution.pt
 msgid "label_more_results_in_en"
-msgstr "Check for more results in EN"      
+msgstr "Check for more results in EN"
 
 
 # Default "Back to the Focal Points overview"
@@ -2088,7 +2088,7 @@ msgid "description_napo_film_13"
 msgstr "<p>The film raises awareness of the dangers of exposing the skin to harmful (and sometimes not so harmful) substances, the situations where exposures occur, and what can be done to avoid risks, protect the skin and prevent damage. Napo discovers many different situations where exposure to chemicals and other substances can cause skin problems. He learns about the amazing qualities of the skin, and strips naked to show the audience: ‘Everything you always wanted to know about... your skin’. He identifies measures to prevent problems and has three important messages: Avoid – Protect – Check.</p><p>Avoiding or minimising contact with chemicals is achieved through elimination - using a mechanical method instead of a chemical one; by substitution - using a safer alternative; and by employing a safe working distance - using tools rather than handling directly. Personal protective equipment (PPE) is designed to protect the skin but Napo reminds us of the importance of taking care of the skin by showing prompt removal of contamination, washing skin properly, drying skin thoroughly and applying skin creams regularly.Finally Napo recommends regular checks for early signs of skin problems. </p>"
 
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo in... Safe maintenance"
 
@@ -2156,3 +2156,6 @@ msgstr "Napo in … lungs at work"
 
 msgid "description_napo-016-lungs-at-work"
 msgstr "Exposure to tobacco smoke is bad for both smokers’ and non-smokers’ health. It can cause serious problems such as cardiovascular and respiratory diseases. It can cause death due to cancers, coronary heart disease or stroke. Yet thousands of workers are still exposed to tobacco smoke at their workplace. In this short clip, Napo makes his own unique contribution to the cause of smoke-free workplaces."
+
+msgid "osha_label_press_and_multimedia"
+msgstr "Press and Multimedia"

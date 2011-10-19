@@ -6809,21 +6809,21 @@ msgid "default"
 msgstr "ipprogrammat minn qabel"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "In-network tiegħek għal ambjent iktar sigur u favur is-saħħa fuq il-post tax-xogħol "
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6831,9 +6831,9 @@ msgid "Site Update"
 msgstr "Aġġornament tas-sît "
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6841,9 +6841,9 @@ msgid "Translation Help"
 msgstr "Għajnuna fit-Traduzzjoni"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6851,9 +6851,9 @@ msgid "My Folder"
 msgstr "Il-Fowlder Tiegħi"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6861,9 +6861,9 @@ msgid "My Settings"
 msgstr "Is-Settings tiegħi"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6871,9 +6871,9 @@ msgid "Undo"
 msgstr "Erġa’ lura"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6881,9 +6881,9 @@ msgid "Portal Setup"
 msgstr "Is-Setup tal-Portal"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6891,9 +6891,9 @@ msgid "Log out"
 msgstr "Oħroġ"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6901,9 +6901,9 @@ msgid "Layout table"
 msgstr "It-tabella tal-preżentazzjoni"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6911,9 +6911,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Teżawru ta’ Ġerarkija"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6921,9 +6921,9 @@ msgid "Index of keywords"
 msgstr "L-indiċi tal-kliem kjavi"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6931,9 +6931,9 @@ msgid "Contents"
 msgstr "Kontenut"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6941,9 +6941,9 @@ msgid "View"
 msgstr "Ara"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6951,9 +6951,9 @@ msgid "Edit"
 msgstr "Editja"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6961,9 +6961,9 @@ msgid "Properties"
 msgstr "Proprjetajiet"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -6971,64 +6971,64 @@ msgid "Add / Propose"
 msgstr "Żid / Ipproponi"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "Storja"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Portlets"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Sindikazzjoni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Proprjetà"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Rwoli Lokali"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7036,31 +7036,31 @@ msgid "published"
 msgstr "ippublikat"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Irrifjuta"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Avvanzat"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7068,9 +7068,9 @@ msgid "Calendar"
 msgstr "Kalendarju"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7078,9 +7078,9 @@ msgid "Collection"
 msgstr "Kollezzjoni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7088,9 +7088,9 @@ msgid "Directive"
 msgstr "Direttiva"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7098,9 +7098,9 @@ msgid "Discussion Board"
 msgstr "Il-Bord ta’ Diskussjoni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7108,9 +7108,9 @@ msgid "Discussion Center"
 msgstr "Iċ-Ċentru ta’ Diskussjoni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7118,9 +7118,9 @@ msgid "Document"
 msgstr "Dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7128,9 +7128,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7138,9 +7138,9 @@ msgid "FAQ Folder"
 msgstr "Fowlder tal-mistoqsijiet frekwenti"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7148,9 +7148,9 @@ msgid "File"
 msgstr "Fajl"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7158,9 +7158,9 @@ msgid "Folder"
 msgstr "Fowlder"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7168,9 +7168,9 @@ msgid "Glossary Folder"
 msgstr "Fowlder tal-Glossarju"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7178,9 +7178,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7188,9 +7188,9 @@ msgid "Image"
 msgstr "Immaġni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7198,9 +7198,9 @@ msgid "Link"
 msgstr "Link"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7208,9 +7208,9 @@ msgid "Metadata Set"
 msgstr " Sett ta’ Metadata "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7218,9 +7218,9 @@ msgid "Navigation"
 msgstr "Navigazzjoni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7228,9 +7228,9 @@ msgid "News Article"
 msgstr "Artikolu ta’ l-Aħbarijiet"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7238,9 +7238,9 @@ msgid "News Board"
 msgstr "Bord ta’ l-Aħbarijiet"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7248,9 +7248,9 @@ msgid "OSH_Article"
 msgstr "Artikolu ta’ l-OHS "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7258,9 +7258,9 @@ msgid "OSH_Case"
 msgstr "Każ ta’ l-OHS"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7268,9 +7268,9 @@ msgid "OSH_Institute"
 msgstr "Istitut ta’ l-OHS "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7278,9 +7278,9 @@ msgid "OSH_Link"
 msgstr "Link ta’ l-OHS"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7288,9 +7288,9 @@ msgid "OSH_Product"
 msgstr "Prodott ta’ l-OHS"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7298,9 +7298,9 @@ msgid "OSH_Project"
 msgstr "Proġett ta’ l-OHS"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7308,9 +7308,9 @@ msgid "OSH_Publisher"
 msgstr "Pubblikatur ta’ l-OHS"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7318,9 +7318,9 @@ msgid "OSH_Substance"
 msgstr " Sustanza ta’ l-OHS"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7328,9 +7328,9 @@ msgid "Syndicated Document"
 msgstr " Dokument Sindakat"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7338,9 +7338,9 @@ msgid "Topic"
 msgstr "Suġġett"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7348,9 +7348,9 @@ msgid "Topic Document"
 msgstr "Dokument dwar is-Suġġett"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7358,9 +7358,9 @@ msgid "Send to somebody"
 msgstr "Ibgħat lil xi ħadd"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7368,9 +7368,9 @@ msgid "Link to our site"
 msgstr "Link għas-sît tagħna "
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7378,9 +7378,9 @@ msgid "Suggest interesting link"
 msgstr "Issuġġerixxi link interessanti"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7388,9 +7388,9 @@ msgid "Report broken link"
 msgstr "Irrapporta link problematiku"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7581,16 +7581,16 @@ msgid "download_full_publication"
 msgstr "Iddownlowdja l-pubblikazzjoni sħiħa f’ PDF format"
 
 #. <label for="path" i18n:translate="">Search only in this folder</label>
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Aqra l-/r-${pubtype} tagħna"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -7609,9 +7609,9 @@ msgid "Search only in this folder"
 msgstr "Search only this folder"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 13, Column 9
-#. 
+#.
 #. Orginal text:
 #. Portal
 #: newsboard_view
@@ -7619,9 +7619,9 @@ msgid "Portal"
 msgstr "Portal"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 9, Column 4
-#. 
+#.
 #. Orginal text:
 #. OSHA Network
 #: newsboard_view
@@ -7629,9 +7629,9 @@ msgid "heading_network"
 msgstr "Netwerk ta’ l-OSHA "
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 28, Column 8
-#. 
+#.
 #. Orginal text:
 #. &nbsp;
 #. Note:
@@ -7641,9 +7641,9 @@ msgid "&nbsp;"
 msgstr "&nbsp;"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 59, Column 28
-#. 
+#.
 #. Orginal text:
 #. accesskeys-navigation
 #. Note:
@@ -7653,9 +7653,9 @@ msgid "accesskeys-navigation"
 msgstr "accesskeys-navigation"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 33, Column 8
-#. 
+#.
 #. Orginal text:
 #. Agency Web Features
 #: newsboard_view
@@ -7663,9 +7663,9 @@ msgid "Agency Web Features"
 msgstr "Web Features ta’ l-Agenzija"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 4
-#. 
+#.
 #. Orginal text:
 #. sign the charter
 #: newsboard_view
@@ -7673,9 +7673,9 @@ msgid "sign the charter"
 msgstr "iffirma l-karta"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 109, Column 4
-#. 
+#.
 #. Orginal text:
 #. Events for this month
 #: newsboard_view
@@ -7683,9 +7683,9 @@ msgid "events_for_this_month"
 msgstr "Avvenimenti għal dan ix-xahar"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHMail
 #: /portlet_oshmail
@@ -7693,9 +7693,9 @@ msgid "OSHMail"
 msgstr "Posta ta’ l-OHS"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 51
-#. 
+#.
 #. Orginal text:
 #. free newsletter
 #: /portlet_oshmail
@@ -7703,9 +7703,9 @@ msgid "label_free_newsletter"
 msgstr "bullettin b’xejn"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close
 #: newsboard_view
@@ -7713,9 +7713,9 @@ msgid "close"
 msgstr "agħlaq"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close window
 #: newsboard_view
@@ -7723,31 +7723,31 @@ msgid "close window"
 msgstr "agħlaq it-tieqa"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Up to the thesaurus
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurus"
 msgstr "Lejn it-teżawru"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
 #. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
-#. 
+#.
 #: thesaurusitem_view
 msgid "link_thesaurus_search"
 msgstr "Uri l-informazzjoni dwar \"${title}\""
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Identifier
 #: thesaurusitem_view
@@ -7755,8 +7755,8 @@ msgid "Identifier"
 msgstr "Identifikatur"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Subordinate entries
 #: thesaurusitem_view
@@ -7764,8 +7764,8 @@ msgid "mt_child_entries"
 msgstr "Entrati sekondarji"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Translations
 #: thesaurusitem_view
@@ -7773,8 +7773,8 @@ msgid "Translations"
 msgstr "Traduzzjonijiet"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Synonyms
 #: thesaurusitem_view
@@ -7782,8 +7782,8 @@ msgid "Synonyms"
 msgstr "Sinonimi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Synonyms
 #: thesaurusitem_view
@@ -7791,8 +7791,8 @@ msgid "No Synonyms"
 msgstr "M’hemmx Sinonimi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Related Items
 #: thesaurusitem_view
@@ -7800,8 +7800,8 @@ msgid "Related Items"
 msgstr "Affarijiet relatati"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Related Items
 #: thesaurusitem_view
@@ -7809,9 +7809,9 @@ msgid "No Related Items"
 msgstr "Affarijiet Mhux Relatati"
 
 #. Added on Mon Dec 12 13:31:47 2005
-#. 
+#.
 #. Line 44, Column 43
-#. 
+#.
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
@@ -7820,15 +7820,15 @@ msgstr "Affarijiet Mhux Relatati"
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:
 #. The variable 'title' will be filled with the actual title
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurusitem_parent"
 msgstr "Lejn entrati prinċipali \"${title}\""
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 144
-#. 
+#.
 #. Orginal text:
 #. Extended search form
 #: None
@@ -7836,23 +7836,23 @@ msgid "extended_search_url"
 msgstr "Riċerka estiża"
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. To perform a more detailed search try the ${url}.
 #. Note:
 #. The link to and the translated name of the extended search form will be
 #. inserted
 #. into the variable 'url'
-#. 
+#.
 #: search_form
 msgid "info_extended_searchform"
 msgstr "Sabiex tagħmel riċerka iktar dettaljata ipprova l-${url}."
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Nace
 #: None
@@ -7860,9 +7860,9 @@ msgid "Nace"
 msgstr "Nace"
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Country Code
 #: None
@@ -7870,9 +7870,9 @@ msgid "Country Code"
 msgstr "Kodiċi tal-Pajjiż"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Call for Contractors
 #: None
@@ -7880,9 +7880,9 @@ msgid "Call for Contractors"
 msgstr "Sejħa għal Kuntratturi"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Job Vacancy
 #: None
@@ -7890,9 +7890,9 @@ msgid "Job Vacancy"
 msgstr "Postijiet ta’ Xogħol Battala"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_DBContent
 #. Note:
@@ -7901,15 +7901,15 @@ msgstr "Postijiet ta’ Xogħol Battala"
 #. from the various OSH databases.
 #. This content type is very similar to OSH Link, only that it has more
 #. properties.
-#. 
+#.
 #: None
 msgid "OSH_DBContent"
 msgstr "Kontenut tal-bażi ta’ dejta ta’ l-OHS"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHmail
 #: None
@@ -7917,9 +7917,9 @@ msgid "OSHmail"
 msgstr "Posta ta’ l-OHS"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Back
 #: None
@@ -7927,9 +7927,9 @@ msgid "Back"
 msgstr "Lura"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Top of Page
 #: None
@@ -7937,9 +7937,9 @@ msgid "Top of Page"
 msgstr "Fuq tal-Paġna"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 23, Column 88
-#. 
+#.
 #. Orginal text:
 #. Configure
 #: None
@@ -7947,9 +7947,9 @@ msgid "Configure"
 msgstr "Ikkonfigura"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 229, Column 44
-#. 
+#.
 #. Orginal text:
 #. Id
 #: None
@@ -7957,85 +7957,85 @@ msgid "Id"
 msgstr "Id"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 248, Column 28
-#. 
+#.
 #. Orginal text:
 #. visible
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "visible"
 msgstr "viżibbli"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 33, Column 74
-#. 
+#.
 #. Orginal text:
 #. Channels
 #. Note:
 #. This refers to syndication channels
-#. 
+#.
 #: None
 msgid "Channels"
 msgstr "Kanali"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Make private
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Make private"
 msgstr "Irrestrinġi l-użu pubbliku"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Publish
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Publish"
 msgstr "Ippubblika"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 66, Column 16
-#. 
+#.
 #. Orginal text:
 #. private
-#. 
+#.
 #: None
 msgid "private"
 msgstr "privat"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Submit
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Submit"
 msgstr "Daħħal"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 16, Column 8
-#. 
+#.
 #. Orginal text:
 #. back to board
 #: None
@@ -8043,9 +8043,9 @@ msgid "back to board"
 msgstr "Lura għall-Forum ta’ Diskussjoni"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 17, Column 64
-#. 
+#.
 #. Orginal text:
 #. Up
 #: None
@@ -8053,9 +8053,9 @@ msgid "Up"
 msgstr "Fuq"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 20, Column 18
-#. 
+#.
 #. Orginal text:
 #. Back to
 #: None
@@ -8063,9 +8063,9 @@ msgid "Back to"
 msgstr "Lura għal"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 30, Column 8
-#. 
+#.
 #. Orginal text:
 #. previous article
 #: None
@@ -8073,9 +8073,9 @@ msgid "previous article"
 msgstr "artiklu preċedenti"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 38, Column 81
-#. 
+#.
 #. Orginal text:
 #. Browse in articles
 #: None
@@ -8083,9 +8083,9 @@ msgid "Browse in articles"
 msgstr "Ara l-artikli"
 
 #. Added on Mon Dec 12 14:58:37 2005
-#. 
+#.
 #. Line 42, Column 12
-#. 
+#.
 #. Orginal text:
 #. Go
 #: /index_html/newsboard_view
@@ -9921,68 +9921,68 @@ msgstr "Min ma jismax dejjem waħdu"
 msgid "title_napo_episode_6_6"
 msgstr "Il-Protezzjoni anke għal barra tgħodd"
 
-msgid "title_napo_episode_7_6" 
-msgstr "The End" 
+msgid "title_napo_episode_7_6"
+msgstr "The End"
 
-msgid "title_napo_episode_8_0" 
-msgstr "Ħaffef il-Piż" 
+msgid "title_napo_episode_8_0"
+msgstr "Ħaffef il-Piż"
 
-msgid "title_napo_episode_8_1" 
-msgstr "Fi Żminjietna" 
+msgid "title_napo_episode_8_1"
+msgstr "Fi Żminjietna"
 
-msgid "title_napo_episode_8_2" 
-msgstr "Aqsam u Stagħna" 
+msgid "title_napo_episode_8_2"
+msgstr "Aqsam u Stagħna"
 
-msgid "title_napo_episode_8_3" 
-msgstr "Ergonomija Radikali" 
+msgid "title_napo_episode_8_3"
+msgstr "Ergonomija Radikali"
 
-msgid "title_napo_episode_8_4" 
-msgstr "‘Twist and Shout’" 
+msgid "title_napo_episode_8_4"
+msgstr "‘Twist and Shout’"
 
-msgid "title_napo_episode_8_5" 
-msgstr "Minn fejn Taqbad" 
+msgid "title_napo_episode_8_5"
+msgstr "Minn fejn Taqbad"
 
-msgid "title_napo_episode_8_6" 
-msgstr "L-Għoli tax-Xogħol" 
+msgid "title_napo_episode_8_6"
+msgstr "L-Għoli tax-Xogħol"
 
-msgid "title_napo_episode_8_7" 
-msgstr "Vibrazzjoni Ħażina" 
+msgid "title_napo_episode_8_7"
+msgstr "Vibrazzjoni Ħażina"
 
-msgid "title_napo_episode_8_8" 
-msgstr "Id-Dwell" 
+msgid "title_napo_episode_8_8"
+msgstr "Id-Dwell"
 
-msgid "title_napo_episode_8_9" 
-msgstr "Ara li Tiċċaqlaq" 
+msgid "title_napo_episode_8_9"
+msgstr "Ara li Tiċċaqlaq"
 
-msgid "title_napo_episode_8_10" 
-msgstr "Żommni Sew" 
+msgid "title_napo_episode_8_10"
+msgstr "Żommni Sew"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Evalwa r-riskji" 
+msgid "title_napo_episode_9_1"
+msgstr "Evalwa r-riskji"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Riskju li ma tafx bih" 
+msgid "title_napo_episode_9_2"
+msgstr "Riskju li ma tafx bih"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Ħu azzjoni fuq ir-riskji" 
+msgid "title_napo_episode_9_3"
+msgstr "Ħu azzjoni fuq ir-riskji"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Periklu wara l-ieħor" 
+msgid "title_napo_episode_9_4"
+msgstr "Periklu wara l-ieħor"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Elimina r-riskji" 
+msgid "title_napo_episode_9_5"
+msgstr "Elimina r-riskji"
 
-msgid "title_napo_episode_9_6" 
-msgstr "Is-sigurtà tirrendi" 
+msgid "title_napo_episode_9_6"
+msgstr "Is-sigurtà tirrendi"
 
-msgid "title_napo_episode_9_7" 
-msgstr "The End" 
+msgid "title_napo_episode_9_7"
+msgstr "The End"
 
 msgid "title_napo_film_1"
 msgstr "L-ISTORJA TAL-AĦJAR SINJALI"
@@ -10033,7 +10033,7 @@ msgstr "NAPO F’ĦAFFEF IL-PIŻ!"
 msgid "description_napo_film_8"
 msgstr "Id-Disturbi Muskolu-Skeletali (MSDs) jirrapreżentaw l-aktar problema komuni tas-saħħa relatata max-xogħol fl-Ewropa, li taffettwa miljuni ta’ ħaddiema – xi darba f’ħajjithom daqs 90% tan-nies isofru minn uġigħ fid-dahar, disturbi fil-parti ta’ fuq tad-dirgħajn, u korrimenti minħabba sforzi ripetittivi.<br/><br/>'Ħaffef il-piż' tappoġġja approċċ ta’ maniġment integrat li jindirizza Disturbi Muskolu-Skeletali, u l-ħtieġa li jiġi indirizzat il-'piż kollu fuq il-ġisem', li tkopri l-istress u l-isforzi kollha, fatturi ambjentali bħal kundizzjonijiet ta’ xogħol kesħin, il-pass li bih isir ix-xogħol, u l-piż li jkun qiegħed jitressaq.<br/><br/>Il-film juri lil Napo jikkonfronta sitwazzjonijiet differenti ta’ xogħol u huwa addattat għall-ħaddiema kollha, inklużi ħaddiema migranti u temporanji. Hemm ħdax-il xena li juru sitwazzjonijiet tipiċi li wieħed jiltaqa’ magħhom fuq il-post tax-xogħol."
 
-msgid "title_napo_film_9" 
+msgid "title_napo_film_9"
 msgstr "Napo u r-Riskji"
 
 msgid "description_napo_film_9"
@@ -10105,7 +10105,7 @@ msgstr "Napo fi... Ipproteġi l-ġilda tiegħek"
 msgid "description_napo_film_13"
 msgstr "<p>Il-filmat iqajjem kuxjenza dwar il-perikli tal-espożizzjoni tal-ġilda għal sustanzi li jagħmlu l-ħsara (u xi kultant mhux daqshekk ta' ħsara), is-sitwazzjonijiet meta l-espożizzjoni ssir, u x'jista' jsir biex jiġu evitati r-riskji, tipproteġi l-ġilda u tipprevjeni l-ħsara. Napo jiskopri ħafna sitwazzjonijiet differenti meta l-espożizzjoni għal sustanzi kimiċi u sustanzi oħra tista' tikkawża problemi tal-ġilda. Isir jaf dwar il-kwalitajiet tal-għaġeb li għandha l-ġilda, u jinża għarwien biex juri lill-pubbliku: ‘Dak kollu li dejjem xtaqt tkun taf dwar... il-ġilda tiegħek’. Jidentifika miżuri għall-prevenzjoni ta' problemi u għandu tliet messaġġi importanti x'jibgħat: Evita – Ipproteġi – Ikkontrolla.</p><p>Il-kuntatt ma' sustanzi kimiċi jiġi evitat jew minimizzat permezz tal-eliminazzjoni - bl-użu ta' metodu mekkaniku minflok wieħed kimiku; permezz tas-sostituzzjoni - bl-użu ta' alternattiva aktar sigura; u permezz ta' żamma ta' distanza sigura waqt ix-xogħol - bl-użu ta' għodda aktar milli kuntatt dirett. It-tagħmir ta' protezzjoni personali (PPE) huma ddisinjati biex jipproteġi l-ġilda iżda Napo jfakkarna fl-importanza li nieħdu ħsieb il-ġilda billi jurina t-tneħħija minnufih tal-kontaminazzjoni, il-ħasil tal-ġilda kif suppost, it-tnixxif bir-reqqa tal-ġilda u l-applikazzjoni regolari ta' kremi tal-ġilda.</p><p>Fl-aħħar Napo jirrakkomanda kontrolli regolari għal sinjali bikrin ta' problemi tal-ġilda. </p>"
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo f’... Manutenzjoni sikura"
 
@@ -10189,7 +10189,7 @@ msgstr "kuljum"
 
 msgid "weekly"
 msgstr "kull ġimgħa"
-	
+
 msgid "monthly"
 msgstr "kull xahar"
 
@@ -10293,7 +10293,7 @@ msgstr "Sajd"
 
 msgid "gender"
 msgstr "Sess"
-	
+
 msgid "healthcare"
 msgstr "Kura tas-saħħa"
 
@@ -10373,12 +10373,12 @@ msgstr "L-Avvenimenti Taghna"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Id-data għad trid tiġi kkonfermata"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "Għad trid tiġi kkonfermata"
 
 
@@ -10406,3 +10406,5 @@ msgstr "Mistoqsijiet Frekwenti"
 msgid "text_help_center_intro"
 msgstr "Fittex ${text_frequently_asked_questions} skont il-kategorija."
 
+msgid "osha_label_press_and_multimedia"
+msgstr "Stampa u Multimidja"

@@ -6801,21 +6801,21 @@ msgid "default"
 msgstr "výchozí hodnota"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "Vaše síť pro bezpečnější a zdravější pracovní prostředí"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6823,9 +6823,9 @@ msgid "Site Update"
 msgstr "Aktualizace stránek"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6833,9 +6833,9 @@ msgid "Translation Help"
 msgstr "Nápověda překladu"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6843,9 +6843,9 @@ msgid "My Folder"
 msgstr "Má složka"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6853,9 +6853,9 @@ msgid "My Settings"
 msgstr "Mé nastavení"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6863,9 +6863,9 @@ msgid "Undo"
 msgstr "Zpět na předchozí krok"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6873,9 +6873,9 @@ msgid "Portal Setup"
 msgstr "Nastavení portálu"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6883,9 +6883,9 @@ msgid "Log out"
 msgstr "Odhlášení"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6893,9 +6893,9 @@ msgid "Layout table"
 msgstr "Grafická tabulka"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6903,9 +6903,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Hierarchický tezaurus"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6913,9 +6913,9 @@ msgid "Index of keywords"
 msgstr "Index klíčových slov"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6923,9 +6923,9 @@ msgid "Contents"
 msgstr "Obsahy"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6933,9 +6933,9 @@ msgid "View"
 msgstr "Náhled"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6943,9 +6943,9 @@ msgid "Edit"
 msgstr "Upravit"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6953,9 +6953,9 @@ msgid "Properties"
 msgstr "Vlastnosti"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -6963,64 +6963,64 @@ msgid "Add / Propose"
 msgstr "Přidat / Navrhnout"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "Historie"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Moduly"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Syndikace"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Vlastnictví"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Lokální role"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7028,31 +7028,31 @@ msgid "published"
 msgstr "uveřejněno"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Odmítnout"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Pokročilý"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7060,9 +7060,9 @@ msgid "Calendar"
 msgstr "Kalendář"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7070,9 +7070,9 @@ msgid "Collection"
 msgstr "Sbírka"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7080,9 +7080,9 @@ msgid "Directive"
 msgstr "Směrnice"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7090,9 +7090,9 @@ msgid "Discussion Board"
 msgstr "Diskusní panel"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7100,9 +7100,9 @@ msgid "Discussion Center"
 msgstr "Diskusní centrum"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7110,9 +7110,9 @@ msgid "Document"
 msgstr "Dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7120,9 +7120,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7130,9 +7130,9 @@ msgid "FAQ Folder"
 msgstr "Složka FAQ"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7140,9 +7140,9 @@ msgid "File"
 msgstr "Soubor"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7150,9 +7150,9 @@ msgid "Folder"
 msgstr "Složka"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7160,9 +7160,9 @@ msgid "Glossary Folder"
 msgstr "Složka glosáře"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7170,9 +7170,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7180,9 +7180,9 @@ msgid "Image"
 msgstr "Obraz"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7190,9 +7190,9 @@ msgid "Link"
 msgstr "Odkaz"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7200,9 +7200,9 @@ msgid "Metadata Set"
 msgstr "Sada metadat"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7210,9 +7210,9 @@ msgid "Navigation"
 msgstr "Navigace"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7220,9 +7220,9 @@ msgid "News Article"
 msgstr "Článek z Krátkých zpráv"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7230,9 +7230,9 @@ msgid "News Board"
 msgstr "Panel Krátkých zpráv"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7240,9 +7240,9 @@ msgid "OSH_Article"
 msgstr "Článek BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7250,9 +7250,9 @@ msgid "OSH_Case"
 msgstr "Případ BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7260,9 +7260,9 @@ msgid "OSH_Institute"
 msgstr "Institut BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7270,9 +7270,9 @@ msgid "OSH_Link"
 msgstr "Odkaz BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7280,9 +7280,9 @@ msgid "OSH_Product"
 msgstr "Produkt BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7290,9 +7290,9 @@ msgid "OSH_Project"
 msgstr "Projekt BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7300,9 +7300,9 @@ msgid "OSH_Publisher"
 msgstr "Vydavatel BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7310,9 +7310,9 @@ msgid "OSH_Substance"
 msgstr "Předmět BOZP"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7320,9 +7320,9 @@ msgid "Syndicated Document"
 msgstr "Syndikovaný dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7330,9 +7330,9 @@ msgid "Topic"
 msgstr "Téma"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7340,9 +7340,9 @@ msgid "Topic Document"
 msgstr "Tematický dokument"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7350,9 +7350,9 @@ msgid "Send to somebody"
 msgstr "Zaslat někomu"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7360,9 +7360,9 @@ msgid "Link to our site"
 msgstr "Odkaz na naše stránky"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7370,9 +7370,9 @@ msgid "Suggest interesting link"
 msgstr "Navrhnout zajímavý odkaz"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7380,9 +7380,9 @@ msgid "Report broken link"
 msgstr "Ohlásit přerušený odkaz"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7578,16 +7578,16 @@ msgstr "O agentuře"
 msgid "download_full_publication"
 msgstr "Stáhněte si celou publikaci ve formátu PDF"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Přečtěte si naše ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -9461,68 +9461,68 @@ msgstr "Na druhé koleji"
 msgid "title_napo_episode_6_6"
 msgstr "Nedělejte to ještě horší"
 
-msgid "title_napo_episode_7_6" 
-msgstr "The End" 
+msgid "title_napo_episode_7_6"
+msgstr "The End"
 
-msgid "title_napo_episode_8_0" 
-msgstr "Posviťme si na břemena" 
+msgid "title_napo_episode_8_0"
+msgstr "Posviťme si na břemena"
 
-msgid "title_napo_episode_8_1" 
-msgstr "Moderní doba" 
+msgid "title_napo_episode_8_1"
+msgstr "Moderní doba"
 
-msgid "title_napo_episode_8_2" 
-msgstr "Rozděl a panuj" 
+msgid "title_napo_episode_8_2"
+msgstr "Rozděl a panuj"
 
-msgid "title_napo_episode_8_3" 
-msgstr "Ergonomie je zásadní" 
+msgid "title_napo_episode_8_3"
+msgstr "Ergonomie je zásadní"
 
-msgid "title_napo_episode_8_4" 
-msgstr "Otáčej se s rozumem" 
+msgid "title_napo_episode_8_4"
+msgstr "Otáčej se s rozumem"
 
-msgid "title_napo_episode_8_5" 
-msgstr "Bez úchytek?" 
+msgid "title_napo_episode_8_5"
+msgstr "Bez úchytek?"
 
-msgid "title_napo_episode_8_6" 
-msgstr "Správná výška" 
+msgid "title_napo_episode_8_6"
+msgstr "Správná výška"
 
-msgid "title_napo_episode_8_7" 
-msgstr "Vibrace" 
+msgid "title_napo_episode_8_7"
+msgstr "Vibrace"
 
-msgid "title_napo_episode_8_8" 
-msgstr "Kdo z koho" 
+msgid "title_napo_episode_8_8"
+msgstr "Kdo z koho"
 
-msgid "title_napo_episode_8_9" 
-msgstr "Protáhni se!" 
+msgid "title_napo_episode_8_9"
+msgstr "Protáhni se!"
 
-msgid "title_napo_episode_8_10" 
-msgstr "Drž mě pevně!" 
+msgid "title_napo_episode_8_10"
+msgstr "Drž mě pevně!"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
 
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Vyhodnoťte rizika" 
+msgid "title_napo_episode_9_1"
+msgstr "Vyhodnoťte rizika"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Identifikujte neznámé" 
+msgid "title_napo_episode_9_2"
+msgstr "Identifikujte neznámé"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Odstraňujte rizika" 
+msgid "title_napo_episode_9_3"
+msgstr "Odstraňujte rizika"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Kombinace rizik" 
+msgid "title_napo_episode_9_4"
+msgstr "Kombinace rizik"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Omezujte rizika" 
+msgid "title_napo_episode_9_5"
+msgstr "Omezujte rizika"
 
-msgid "title_napo_episode_9_6" 
-msgstr "Bezpečnost se vyplatí" 
+msgid "title_napo_episode_9_6"
+msgstr "Bezpečnost se vyplatí"
 
-msgid "title_napo_episode_9_7" 
+msgid "title_napo_episode_9_7"
 msgstr "The End"
 
 msgid "title_napo_film_1"
@@ -9574,8 +9574,8 @@ msgstr "NAPO VE FILMU POSVIŤME SI NA BŘEMENA"
 msgid "description_napo_film_8"
 msgstr "Muskuloskeletární poruchy (MSD) jsou nejčastějším pracovním zdravotním problémem v Evropě, který se dotýká milionů pracovníků - v určité fázi života až 90 % lidí trpí bolestí zad, poruchami horních končetin a poškozením z přetěžování opakovanými pohyby.<br/><br/>Film „Posviťme si na břemena“ podporuje integrovaný přístup k boji s MSD a potřebu řešit celé zatížení těla, které zahrnují veškerý stres a námahu, faktory prostředí jako podmínky práce v chladném pracovní prostředí, pracovní tempo a přemisťování nákladů.<br/><br/>Film ukazuje Napa v různých pracovních situacích a je vhodný pro všechny pracovníky, včetně migrujících a dočasných pracovníků. Film nabízí jedenáct scén zobrazujících typické situace na pracovišti."
 
-msgid "title_napo_film_9" 
-msgstr "Napo v … rizikové situaci" 
+msgid "title_napo_film_9"
+msgstr "Napo v … rizikové situaci"
 
 msgid "description_napo_film_9"
 msgstr "Tématem Evropské kampaně na období 2008/2009 je hodnocení rizik. Rizikové podnikání se týká nebezpečí a rizik při práci a potřeby provádět hodnocení rizik a řídit se podle jejich zjištění, aby pracoviště byla bezpečnější a zdravější. Film se věnuje nebezpečím, některým z nejběžnějších rizik na pracovišti a potřebě „zastavit, přemýšlet a jednat“ (angl. „Stop, Think and Act“), aby se snížil počet úrazů na pracovišti a omezil výskyt nemocí z povolání. Film je určený k použití jako školící pomůcka na úvod do hodnocení rizik a na vysvětlení pojmů nebezpečí a riziko."
@@ -9645,7 +9645,7 @@ msgstr "Napo ve filmu... Chraňte si pokožku!"
 msgid "description_napo_film_13"
 msgstr "<p>Tento film zvyšuje povědomí o nebezpečí expozice pokožky škodlivým (a někdy ne tak škodlivým) látkám, o situacích, kdy k takové expozici dochází, a co můžeme udělat, abychom se vyhnuli rizikům, chránili pokožku a předešli poškození. Napo objevuje mnoho různých situací, ve kterých expozice chemickým a jiným látkám může vést k problémům s pokožkou. Dozvídá se o neuvěřitelných vlastnostech pokožky a svlékne se donaha, aby publiku ukázal: „Vše co jste chtěli vědět o... své pokožce“. Představuje opatření jak se vyhnout problémům a předkládá tři důležitá poselství: Vyhnout se – Chránit se – Kontrolovat.</p><p>Kontaktu s chemickými látkami se vyhneme nebo ho minimalizujeme, pokud je nepoužíváme - použijeme mechanickou metodu namísto chemické; pokud je nahradíme - použijeme bezpečnější možnost; budeme pracovat v bezpečné vzdálenosti - použijeme nástroje a nebudeme s nimi pracovat přímo. Osobní ochranné pracovní prostředky (OOPP) jsou navrženy k tomu, aby chránily pokožku, ale Napo nám připomíná, jak je důležité o pokožku pečovat. Ukáže nám, jak rychle odstranit znečištění, jak pokožku dobře omýt, jak ji řádně vysušit a pravidelně používat ochranné krémy na pokožku.</p><p>Závěrem Napo doporučuje pravidelné kontroly raných příznaků potíží s pokožkou. </p>"
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo ve filmu... Bezpečná údržba"
 
@@ -9729,7 +9729,7 @@ msgstr "denně"
 
 msgid "weekly"
 msgstr "týdně"
-	
+
 msgid "monthly"
 msgstr "měsíčně"
 
@@ -9830,7 +9830,7 @@ msgstr "Rybolov"
 
 msgid "gender"
 msgstr "Pohlaví"
-	
+
 msgid "healthcare"
 msgstr "Zdravotnická péče"
 
@@ -9910,12 +9910,12 @@ msgstr "Naše akce"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Datum bude upřesněno"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "Bude upřesněno"
 
 
@@ -9942,3 +9942,5 @@ msgstr "Časté dotazy"
 msgid "text_help_center_intro"
 msgstr "Hledat ${text_frequently_asked_questions} nebo prohledávat podle kategorie."
 
+msgid "osha_label_press_and_multimedia"
+msgstr "Tisk a multimédia"

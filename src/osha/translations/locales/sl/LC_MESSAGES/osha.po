@@ -6806,21 +6806,21 @@ msgid "default"
 msgstr "Privzeto"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "Vaša mreža za varnejše in bolj zdravo delovno okolje"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6828,9 +6828,9 @@ msgid "Site Update"
 msgstr "Novosti"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6838,9 +6838,9 @@ msgid "Translation Help"
 msgstr "Pomoč pri prevodu"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6848,9 +6848,9 @@ msgid "My Folder"
 msgstr "Moja mapa"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6858,9 +6858,9 @@ msgid "My Settings"
 msgstr "Moje nastavitve"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6868,9 +6868,9 @@ msgid "Undo"
 msgstr "Razveljavi"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6878,9 +6878,9 @@ msgid "Portal Setup"
 msgstr "Vzpostavitev portala"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6888,9 +6888,9 @@ msgid "Log out"
 msgstr "Odjava"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6898,9 +6898,9 @@ msgid "Layout table"
 msgstr "Tabela oblike"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6908,9 +6908,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Hierarhični tezaver"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6918,9 +6918,9 @@ msgid "Index of keywords"
 msgstr "Kazalo ključnih besed"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6928,9 +6928,9 @@ msgid "Contents"
 msgstr "Vsebina"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6938,9 +6938,9 @@ msgid "View"
 msgstr "Pogled"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6948,9 +6948,9 @@ msgid "Edit"
 msgstr "Uredi"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6958,9 +6958,9 @@ msgid "Properties"
 msgstr "Lastnosti"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -6968,64 +6968,64 @@ msgid "Add / Propose"
 msgstr "Dodaj/Predlagaj"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "Zgodovina"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Spletne komponente"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Sindikacija"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Lastništvo"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Lokalne uporabniške vloge"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7033,31 +7033,31 @@ msgid "published"
 msgstr "Objavljeno"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Zavrni"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Napredno"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7065,9 +7065,9 @@ msgid "Calendar"
 msgstr "Koledar"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7075,9 +7075,9 @@ msgid "Collection"
 msgstr "Zbirka"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7085,9 +7085,9 @@ msgid "Directive"
 msgstr "Direktiva"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7095,9 +7095,9 @@ msgid "Discussion Board"
 msgstr "Razpravljalni forum"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7105,9 +7105,9 @@ msgid "Discussion Center"
 msgstr "Razpravljalni center"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7115,9 +7115,9 @@ msgid "Document"
 msgstr "Dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7125,9 +7125,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7135,9 +7135,9 @@ msgid "FAQ Folder"
 msgstr "Mapa s pogostimi vprašanji in odgovori"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7145,9 +7145,9 @@ msgid "File"
 msgstr "Datoteka"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7155,9 +7155,9 @@ msgid "Folder"
 msgstr "Mapa"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7165,9 +7165,9 @@ msgid "Glossary Folder"
 msgstr "Mapa z glosarjem"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7175,9 +7175,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7185,9 +7185,9 @@ msgid "Image"
 msgstr "Slika"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7195,9 +7195,9 @@ msgid "Link"
 msgstr "Povezava"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7205,9 +7205,9 @@ msgid "Metadata Set"
 msgstr "Nabor metapodatkov"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7215,9 +7215,9 @@ msgid "Navigation"
 msgstr "Navigacija"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7225,9 +7225,9 @@ msgid "News Article"
 msgstr "Novičarski članek"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7235,9 +7235,9 @@ msgid "News Board"
 msgstr "Novičarski razpravljalni forum"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7245,9 +7245,9 @@ msgid "OSH_Article"
 msgstr "Članek o varnosti in zdravju pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7255,9 +7255,9 @@ msgid "OSH_Case"
 msgstr "Primer varnosti in zdravja pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7265,9 +7265,9 @@ msgid "OSH_Institute"
 msgstr "Institut za varnost in zdravje pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7275,9 +7275,9 @@ msgid "OSH_Link"
 msgstr "Povezava z varnostjo in zdravjem pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7285,9 +7285,9 @@ msgid "OSH_Product"
 msgstr "Proizvod varnosti in zdravja pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7295,9 +7295,9 @@ msgid "OSH_Project"
 msgstr "Projekt varnosti in zdravja pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7305,9 +7305,9 @@ msgid "OSH_Publisher"
 msgstr "Založnik varnosti in zdravja pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7315,9 +7315,9 @@ msgid "OSH_Substance"
 msgstr "Vsebina varnosti in zdravja pri delu"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7325,9 +7325,9 @@ msgid "Syndicated Document"
 msgstr "Sindiciran dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7335,9 +7335,9 @@ msgid "Topic"
 msgstr "Tema"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7345,9 +7345,9 @@ msgid "Topic Document"
 msgstr "Tematski dokument"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7355,9 +7355,9 @@ msgid "Send to somebody"
 msgstr "Pošlji nekomu"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7365,9 +7365,9 @@ msgid "Link to our site"
 msgstr "Povezava z našo stranjo"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7375,9 +7375,9 @@ msgid "Suggest interesting link"
 msgstr "Predlagaj zanimivo povezavo"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7385,9 +7385,9 @@ msgid "Report broken link"
 msgstr "Poročaj o prekinjeni povezavi"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7580,16 +7580,16 @@ msgstr "Kaj je Agencija?"
 msgid "download_full_publication"
 msgstr "Naložite celotno publikacijo v PDF formatu"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Preberite naša/naše ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -7617,9 +7617,9 @@ msgid "info_extended_search_url"
 msgstr "Razširjeni obrazec za iskanje"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 13, Column 9
-#. 
+#.
 #. Orginal text:
 #. Portal
 #: newsboard_view
@@ -7627,9 +7627,9 @@ msgid "Portal"
 msgstr "Portal"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 9, Column 4
-#. 
+#.
 #. Orginal text:
 #. OSHA Network
 #: newsboard_view
@@ -7637,9 +7637,9 @@ msgid "heading_network"
 msgstr "Mreža Agencije o VZD"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 28, Column 8
-#. 
+#.
 #. Orginal text:
 #. &nbsp;
 #. Note:
@@ -7649,9 +7649,9 @@ msgid "&nbsp;"
 msgstr "&nbsp;"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 59, Column 28
-#. 
+#.
 #. Orginal text:
 #. accesskeys-navigation
 #. Note:
@@ -7661,9 +7661,9 @@ msgid "accesskeys-navigation"
 msgstr "accesskeys-navigation"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 33, Column 8
-#. 
+#.
 #. Orginal text:
 #. Agency Web Features
 #: newsboard_view
@@ -7671,9 +7671,9 @@ msgid "Agency Web Features"
 msgstr "Spletni prispevki Agencije"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 4
-#. 
+#.
 #. Orginal text:
 #. sign the charter
 #: newsboard_view
@@ -7681,9 +7681,9 @@ msgid "sign the charter"
 msgstr "podpišite listino"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 109, Column 4
-#. 
+#.
 #. Orginal text:
 #. Events for this month
 #: newsboard_view
@@ -7691,9 +7691,9 @@ msgid "events_for_this_month"
 msgstr "Dogodki v tem mesecu"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHMail
 #: /portlet_oshmail
@@ -7701,9 +7701,9 @@ msgid "OSHMail"
 msgstr "E-pošta o VZD"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 51
-#. 
+#.
 #. Orginal text:
 #. free newsletter
 #: /portlet_oshmail
@@ -7711,9 +7711,9 @@ msgid "label_free_newsletter"
 msgstr "brezplačno glasilo z novicami"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close
 #: newsboard_view
@@ -7721,9 +7721,9 @@ msgid "close"
 msgstr "zapri"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close window
 #: newsboard_view
@@ -7731,31 +7731,31 @@ msgid "close window"
 msgstr "zapri okno"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Up to the thesaurus
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurus"
 msgstr "vrni se v tezaver"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
 #. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
-#. 
+#.
 #: thesaurusitem_view
 msgid "link_thesaurus_search"
 msgstr "Prikaži informacije o \"${title}\""
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Identifier
 #: thesaurusitem_view
@@ -7763,8 +7763,8 @@ msgid "Identifier"
 msgstr "Oznaka"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Subordinate entries
 #: thesaurusitem_view
@@ -7772,8 +7772,8 @@ msgid "mt_child_entries"
 msgstr "Podrejeni izrazi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Translations
 #: thesaurusitem_view
@@ -7781,8 +7781,8 @@ msgid "Translations"
 msgstr "Prevodi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Synonyms
 #: thesaurusitem_view
@@ -7790,8 +7790,8 @@ msgid "Synonyms"
 msgstr "Sopomenke"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Synonyms
 #: thesaurusitem_view
@@ -7799,8 +7799,8 @@ msgid "No Synonyms"
 msgstr "Ni sopomenk"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Related Items
 #: thesaurusitem_view
@@ -7808,8 +7808,8 @@ msgid "Related Items"
 msgstr "Povezani izrazi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Related Items
 #: thesaurusitem_view
@@ -7817,9 +7817,9 @@ msgid "No Related Items"
 msgstr "Ni povezanih izrazov"
 
 #. Added on Mon Dec 12 13:31:47 2005
-#. 
+#.
 #. Line 44, Column 43
-#. 
+#.
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
@@ -7828,15 +7828,15 @@ msgstr "Ni povezanih izrazov"
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:
 #. The variable 'title' will be filled with the actual title
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurusitem_parent"
 msgstr "Vrni se do nadrejenega izraza \"${title}\""
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 144
-#. 
+#.
 #. Orginal text:
 #. Extended search form
 #: None
@@ -7844,23 +7844,23 @@ msgid "extended_search_url"
 msgstr "Razširjeni obrazec za iskanje"
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. To perform a more detailed search try the ${url}.
 #. Note:
 #. The link to and the translated name of the extended search form will be
 #. inserted
 #. into the variable 'url'
-#. 
+#.
 #: search_form
 msgid "info_extended_searchform"
 msgstr "Za podrobnejše iskanje pojdite na ${url}."
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Nace
 #: None
@@ -7868,9 +7868,9 @@ msgid "Nace"
 msgstr "Nace"
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Country Code
 #: None
@@ -7878,9 +7878,9 @@ msgid "Country Code"
 msgstr "Koda države"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Call for Contractors
 #: None
@@ -7888,9 +7888,9 @@ msgid "Call for Contractors"
 msgstr "Razpis za izvajalce"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Job Vacancy
 #: None
@@ -7898,9 +7898,9 @@ msgid "Job Vacancy"
 msgstr "Prosta delovna mesta"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_DBContent
 #. Note:
@@ -7909,15 +7909,15 @@ msgstr "Prosta delovna mesta"
 #. from the various OSH databases.
 #. This content type is very similar to OSH Link, only that it has more
 #. properties.
-#. 
+#.
 #: None
 msgid "OSH_DBContent"
 msgstr "Vsebina podatkovne baze o VZD"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHmail
 #: None
@@ -7925,9 +7925,9 @@ msgid "OSHmail"
 msgstr "E-pošta o VZD"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Back
 #: None
@@ -7935,9 +7935,9 @@ msgid "Back"
 msgstr "Nazaj"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Top of Page
 #: None
@@ -7945,9 +7945,9 @@ msgid "Top of Page"
 msgstr "Na vrh strani"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 23, Column 88
-#. 
+#.
 #. Orginal text:
 #. Configure
 #: None
@@ -7955,9 +7955,9 @@ msgid "Configure"
 msgstr "Konfiguriraj"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 229, Column 44
-#. 
+#.
 #. Orginal text:
 #. Id
 #: None
@@ -7965,85 +7965,85 @@ msgid "Id"
 msgstr "Id"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 248, Column 28
-#. 
+#.
 #. Orginal text:
 #. visible
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "visible"
 msgstr "vidno"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 33, Column 74
-#. 
+#.
 #. Orginal text:
 #. Channels
 #. Note:
 #. This refers to syndication channels
-#. 
+#.
 #: None
 msgid "Channels"
 msgstr "Kanali"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Make private
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Make private"
 msgstr "Naredi zasebno"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Publish
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Publish"
 msgstr "Objavi"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 66, Column 16
-#. 
+#.
 #. Orginal text:
 #. private
-#. 
+#.
 #: None
 msgid "private"
 msgstr "zasebno"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Submit
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Submit"
 msgstr "Predloži"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 16, Column 8
-#. 
+#.
 #. Orginal text:
 #. back to board
 #: None
@@ -8051,9 +8051,9 @@ msgid "back to board"
 msgstr "Nazaj do foruma za razpravo"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 17, Column 64
-#. 
+#.
 #. Orginal text:
 #. Up
 #: None
@@ -8061,9 +8061,9 @@ msgid "Up"
 msgstr "Gor"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 20, Column 18
-#. 
+#.
 #. Orginal text:
 #. Back to
 #: None
@@ -8071,9 +8071,9 @@ msgid "Back to"
 msgstr "Nazaj do"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 30, Column 8
-#. 
+#.
 #. Orginal text:
 #. previous article
 #: None
@@ -8081,9 +8081,9 @@ msgid "previous article"
 msgstr "prejšnji članek"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 38, Column 81
-#. 
+#.
 #. Orginal text:
 #. Browse in articles
 #: None
@@ -8091,9 +8091,9 @@ msgid "Browse in articles"
 msgstr "Prebrskaj med članki"
 
 #. Added on Mon Dec 12 14:58:37 2005
-#. 
+#.
 #. Line 42, Column 12
-#. 
+#.
 #. Orginal text:
 #. Go
 #: /index_html/newsboard_view
@@ -8101,7 +8101,7 @@ msgid "Go"
 msgstr "Začni"
 
 #. Added on 07.02.2006 13:37
-#. 
+#.
 #. Line 42, Column 12
 #. tal:define="actname python:transString('Bookmark this page')"
 #: /osha2/document_actions
@@ -8109,7 +8109,7 @@ msgid "Bookmark this page"
 msgstr "Dodaj med priljubljene"
 
 #. Added on 07.02.2006 13:37
-#. 
+#.
 #. Line 42, Column 12
 #. tal:define="actname python:transString('Make this your homepage')"
 #: /osha2/document_actions
@@ -9955,65 +9955,65 @@ msgstr "Če ne slišiš, si osamljen"
 msgid "title_napo_episode_6_6"
 msgstr "Hrup ni nikoli koristen"
 
-msgid "title_napo_episode_7_6" 
-msgstr "The End" 
+msgid "title_napo_episode_7_6"
+msgstr "The End"
 
-msgid "title_napo_episode_8_0" 
-msgstr "NAREDITE SI BREME LAŽJE" 
+msgid "title_napo_episode_8_0"
+msgstr "NAREDITE SI BREME LAŽJE"
 
-msgid "title_napo_episode_8_1" 
-msgstr "SODOBNI ČASI" 
+msgid "title_napo_episode_8_1"
+msgstr "SODOBNI ČASI"
 
-msgid "title_napo_episode_8_2" 
-msgstr "DELI IN VLADAJ" 
+msgid "title_napo_episode_8_2"
+msgstr "DELI IN VLADAJ"
 
-msgid "title_napo_episode_8_3" 
-msgstr "SKRAJEN PRISTOP K ERGONOMIJI" 
+msgid "title_napo_episode_8_3"
+msgstr "SKRAJEN PRISTOP K ERGONOMIJI"
 
-msgid "title_napo_episode_8_4" 
-msgstr "»TWIST AND SHOUT«" 
+msgid "title_napo_episode_8_4"
+msgstr "»TWIST AND SHOUT«"
 
-msgid "title_napo_episode_8_5" 
-msgstr "BREZ OPRIJEMA" 
+msgid "title_napo_episode_8_5"
+msgstr "BREZ OPRIJEMA"
 
-msgid "title_napo_episode_8_6" 
-msgstr "DELOVNA VIŠINA" 
+msgid "title_napo_episode_8_6"
+msgstr "DELOVNA VIŠINA"
 
-msgid "title_napo_episode_8_7" 
-msgstr "SLABE VIBRACIJE" 
+msgid "title_napo_episode_8_7"
+msgstr "SLABE VIBRACIJE"
 
-msgid "title_napo_episode_8_8" 
-msgstr "KDO JE MOČNEJŠI?" 
+msgid "title_napo_episode_8_8"
+msgstr "KDO JE MOČNEJŠI?"
 
-msgid "title_napo_episode_8_9" 
-msgstr "NE POZABITE SE RAZGIBATI" 
+msgid "title_napo_episode_8_9"
+msgstr "NE POZABITE SE RAZGIBATI"
 
-msgid "title_napo_episode_8_10" 
-msgstr "TESNO ME OBJEMI" 
+msgid "title_napo_episode_8_10"
+msgstr "TESNO ME OBJEMI"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Oceni tveganje!" 
+msgid "title_napo_episode_9_1"
+msgstr "Oceni tveganje!"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Opredeli neznano!" 
+msgid "title_napo_episode_9_2"
+msgstr "Opredeli neznano!"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Ukrepaj!" 
+msgid "title_napo_episode_9_3"
+msgstr "Ukrepaj!"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Tvegane kombinacije" 
+msgid "title_napo_episode_9_4"
+msgstr "Tvegane kombinacije"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Odpravi tveganje!" 
+msgid "title_napo_episode_9_5"
+msgstr "Odpravi tveganje!"
 
-msgid "title_napo_episode_9_6" 
-msgstr "Varnost se splača" 
+msgid "title_napo_episode_9_6"
+msgstr "Varnost se splača"
 
-msgid "title_napo_episode_9_7" 
-msgstr "The End" 
+msgid "title_napo_episode_9_7"
+msgstr "The End"
 
 msgid "title_napo_film_1"
 msgstr "ZGODBA O NAJBOLJŠIH ZNAKIH"
@@ -10064,8 +10064,8 @@ msgstr "NAPO V NAREDITE SI BREME LAŽJE!"
 msgid "description_napo_film_8"
 msgstr "Kostno-mišična obolenja so v Evropi najpogostejša z delom povezana zdravstvena težava, ki prizadene na milijone delavcev. Kar 90 % ljudi bo nekoč v svojem življenju trpelo zaradi bolečin v hrbtu, obolenj zgornjih okončin in poškodb zaradi ponavljajočih se gibov.<br/><br/>„Naredite si breme lažje“ podpira celostni pristop k reševanju problematike kostno-mišičnih obolenj ter potrebo po upoštevanju „celotne obremenitve telesa“, ki vključuje vse napore in obremenitve, okoljske dejavnike, kot so mraz na delovnem mestu, hitrost opravljanja dela in breme, ki se premešča.<br/><br/>Film prikazuje Napa v različnih delovnih situacijah in je primeren za vse delavce, tudi zdomce ali tiste, ki so na začasnem delu. Vključuje enajst prizorov, ki prikazujejo značilne situacije, s katerimi se srečujemo na delovnih mestih."
 
-msgid "title_napo_film_9" 
-msgstr "Napo … pri tveganih opravilih" 
+msgid "title_napo_film_9"
+msgstr "Napo … pri tveganih opravilih"
 
 msgid "description_napo_film_9"
 msgstr "Tema evropske kampanje v letu 2008/2009 je ocena tveganja. Tvegana opravila so povezana z nevarnostmi in tveganji pri delu in predstavljajo potrebo po oceni tveganja in odzivu nanjo, da se zagotovijo varnejša in bolj zdrava delovna mesta. Film se osredotoča na nevarnosti in nekatera najpogostejša tveganja na delovnem mestu ter potrebo po tem, da se „Ustavimo, premislimo in ukrepamo“, in s tem zmanjšamo število nezgod na delovnem mestu in poklicnih obolenj. Film je zasnovan kot pripomoček pri usposabljanju s predstavitvijo ocene tveganja in pojmov nevarnosti in tveganj."
@@ -10137,7 +10137,7 @@ msgid "description_napo_film_13"
 msgstr "<p>Namen filma je ozaveščanje o nevarnostih izpostavljanja kože škodljivim (pa tudi manj škodljivim) snovem, razmeram, ko se izpostavljenost pojavi, kaj storiti v izogib tveganjem, kako zaščititi kožo in preprečiti poškodbe. Napo prikazuje mnogo različnih situacij, ko lahko izpostavljenost kemikalijam in drugim snovem povzroči težave s kožo. Prikazuje izjemne lastnostih kože in ob slečenih oblačilih občinstvu prikaže: ‘vse kar ste vedno želeli vedeti o.....svoji koži’. Predstavi ukrepe za preprečevanje težav in pošilja tri pomembna sporočila: izogni se – zaščiti se – preveri.</p><p>Izogibanje stika s kemikalijami oziroma zmanjševanje stika z njimi se doseže z odstranjevanjem, tj. z uporabo mehanske metode namesto kemične, z nadomestitvijo, tj. z uporabo varnejše možnosti, ter z uporabo varne delovne razdalje, tj. z uporabo orodij namesto neposrednega ravnanja. Osebna varovalna oprema (OVO) je narejena tako, da ščiti kožo, Napo pa nas spomni tudi na pomembnost nege kože s takojšnjo odstranitvijo onesnaženja, pravilnim umivanjem, temeljitim sušenjem in redno uporabo negovalnih krem.</p><p>Na koncu Napo priporoči še redne preglede, s katerimi lahko znake težav s kožo odkrijemo dovolj zgodaj.</p>"
 
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo v… Varnem vzdrževanju"
 
@@ -10220,7 +10220,7 @@ msgstr "dnevno"
 
 msgid "weekly"
 msgstr "tedensko"
-	
+
 msgid "monthly"
 msgstr "mesečno"
 
@@ -10324,7 +10324,7 @@ msgstr "Ribištvo"
 
 msgid "gender"
 msgstr "Spol"
-	
+
 msgid "healthcare"
 msgstr "Zdravstvo"
 
@@ -10404,12 +10404,12 @@ msgstr "Naši dogodki"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Datum je treba še potrditi"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "Za potrditev"
 
 
@@ -10436,3 +10436,6 @@ msgstr "Pogosto zastavljena vprašanja"
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "text_help_center_intro"
 msgstr "Išči po ${text_frequently_asked_questions} ali brskaj po kategoriji."
+
+msgid "osha_label_press_and_multimedia"
+msgstr "Tisk in multimedija"

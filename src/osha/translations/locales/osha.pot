@@ -1848,3 +1848,6 @@ msgstr ""
 msgid "text_help_center_intro"
 msgstr ""
 
+#. Default: Press and Multimedia"
+msgid "osha_label_press_and_multimedia"
+msgstr ""

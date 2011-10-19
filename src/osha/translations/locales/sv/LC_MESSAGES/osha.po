@@ -6816,21 +6816,21 @@ msgid "default"
 msgstr "standardinställning"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "Ditt nätverk för en säkrare och sundare arbetsmiljö "
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6838,9 +6838,9 @@ msgid "Site Update"
 msgstr "Uppdatering"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6848,9 +6848,9 @@ msgid "Translation Help"
 msgstr "Översättningshjälp"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6858,9 +6858,9 @@ msgid "My Folder"
 msgstr "Min mapp"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6868,9 +6868,9 @@ msgid "My Settings"
 msgstr "Mina inställningar"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6878,9 +6878,9 @@ msgid "Undo"
 msgstr "Ångra inmatning"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6888,9 +6888,9 @@ msgid "Portal Setup"
 msgstr "Portalstruktur"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6898,9 +6898,9 @@ msgid "Log out"
 msgstr "Logga ut"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6908,9 +6908,9 @@ msgid "Layout table"
 msgstr "Layout tabell"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6918,9 +6918,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Hierarkisk tesaurus"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6928,9 +6928,9 @@ msgid "Index of keywords"
 msgstr "Nyckelordsindex"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6938,9 +6938,9 @@ msgid "Contents"
 msgstr "Innehåll"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6948,9 +6948,9 @@ msgid "View"
 msgstr "Visa"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6958,9 +6958,9 @@ msgid "Edit"
 msgstr "Redigera"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6968,9 +6968,9 @@ msgid "Properties"
 msgstr "Egenskaper"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -6978,64 +6978,64 @@ msgid "Add / Propose"
 msgstr "Lägg till/föreslå"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "Historia"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Portalmoduler"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Syndikalisering"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Äganderätt"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Lokala roller"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7043,31 +7043,31 @@ msgid "published"
 msgstr "publicerad"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Avvisa"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Avancerad"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7075,9 +7075,9 @@ msgid "Calendar"
 msgstr "Kalender"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7085,9 +7085,9 @@ msgid "Collection"
 msgstr "Samling"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7095,9 +7095,9 @@ msgid "Directive"
 msgstr "Direktiv"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7105,9 +7105,9 @@ msgid "Discussion Board"
 msgstr "Diskussionsanslagstavla"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7115,9 +7115,9 @@ msgid "Discussion Center"
 msgstr "Diskussionscenter"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7125,9 +7125,9 @@ msgid "Document"
 msgstr "Dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7135,9 +7135,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7145,9 +7145,9 @@ msgid "FAQ Folder"
 msgstr "Mapp för Frågor & svar"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7155,9 +7155,9 @@ msgid "File"
 msgstr "Fil"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7165,9 +7165,9 @@ msgid "Folder"
 msgstr "Mapp"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7175,9 +7175,9 @@ msgid "Glossary Folder"
 msgstr "Ordlista mapp"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7185,9 +7185,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7195,9 +7195,9 @@ msgid "Image"
 msgstr "Bild"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7205,9 +7205,9 @@ msgid "Link"
 msgstr "Länk"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7215,9 +7215,9 @@ msgid "Metadata Set"
 msgstr "Metadatauppsättning"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7225,9 +7225,9 @@ msgid "Navigation"
 msgstr "Navigation"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7235,9 +7235,9 @@ msgid "News Article"
 msgstr "Nyhetsartikel"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7245,9 +7245,9 @@ msgid "News Board"
 msgstr "Nyhetsanslagstavla"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7255,9 +7255,9 @@ msgid "OSH_Article"
 msgstr "Arbetsmiljöartikel"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7265,9 +7265,9 @@ msgid "OSH_Case"
 msgstr "Arbetsmiljöärende"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7275,9 +7275,9 @@ msgid "OSH_Institute"
 msgstr "Arbetsmiljöinstitut"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7285,9 +7285,9 @@ msgid "OSH_Link"
 msgstr "Arbetsmiljölänk"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7295,9 +7295,9 @@ msgid "OSH_Product"
 msgstr "Arbetsmiljöprodukt"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7305,9 +7305,9 @@ msgid "OSH_Project"
 msgstr "Arbetsmiljöprojekt"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7315,9 +7315,9 @@ msgid "OSH_Publisher"
 msgstr "Arbetsmiljöutgivare"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7325,9 +7325,9 @@ msgid "OSH_Substance"
 msgstr "Arbetsmiljösubstans"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7335,9 +7335,9 @@ msgid "Syndicated Document"
 msgstr "Syndikaliserat dokument"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7345,9 +7345,9 @@ msgid "Topic"
 msgstr "Ämne"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7355,9 +7355,9 @@ msgid "Topic Document"
 msgstr "Ämnesdokument"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7365,9 +7365,9 @@ msgid "Send to somebody"
 msgstr "Skicka till någon"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7375,9 +7375,9 @@ msgid "Link to our site"
 msgstr "Länk till vår webbplats"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7385,9 +7385,9 @@ msgid "Suggest interesting link"
 msgstr "Föreslå intressant länk"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7395,9 +7395,9 @@ msgid "Report broken link"
 msgstr "Rapportera bruten länk"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7628,16 +7628,16 @@ msgstr "Vad är arbetsmiljöbyrån?"
 msgid "download_full_publication"
 msgstr "Ladda ner hela publikationen i PDF format"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Läs våra ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -7657,9 +7657,9 @@ msgid "Search only in this folder"
 msgstr "Search only this folder"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 13, Column 9
-#. 
+#.
 #. Orginal text:
 #. Portal
 #: newsboard_view
@@ -7667,9 +7667,9 @@ msgid "Portal"
 msgstr "Portal"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 9, Column 4
-#. 
+#.
 #. Orginal text:
 #. OSHA Network
 #: newsboard_view
@@ -7677,9 +7677,9 @@ msgid "heading_network"
 msgstr "Arbetsmiljöbyråns nätverk"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 28, Column 8
-#. 
+#.
 #. Orginal text:
 #. &nbsp;
 #. Note:
@@ -7689,9 +7689,9 @@ msgid "&nbsp;"
 msgstr "&nbsp;"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 59, Column 28
-#. 
+#.
 #. Orginal text:
 #. accesskeys-navigation
 #. Note:
@@ -7701,9 +7701,9 @@ msgid "accesskeys-navigation"
 msgstr "accesskeys-navigation"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 33, Column 8
-#. 
+#.
 #. Orginal text:
 #. Agency Web Features
 #: newsboard_view
@@ -7711,9 +7711,9 @@ msgid "Agency Web Features"
 msgstr "Arbetsmiljöbyråns webbresurser"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 4
-#. 
+#.
 #. Orginal text:
 #. sign the charter
 #: newsboard_view
@@ -7721,9 +7721,9 @@ msgid "sign the charter"
 msgstr "underteckna kampanjkontraktet"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 109, Column 4
-#. 
+#.
 #. Orginal text:
 #. Events for this month
 #: newsboard_view
@@ -7731,9 +7731,9 @@ msgid "events_for_this_month"
 msgstr "Detta händer denna månad"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHMail
 #: /portlet_oshmail
@@ -7741,9 +7741,9 @@ msgid "OSHMail"
 msgstr "Arbetsmiljöpost"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 51
-#. 
+#.
 #. Orginal text:
 #. free newsletter
 #: /portlet_oshmail
@@ -7751,9 +7751,9 @@ msgid "label_free_newsletter"
 msgstr "gratis nyhetsbrev"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close
 #: newsboard_view
@@ -7761,9 +7761,9 @@ msgid "close"
 msgstr "stäng"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close window
 #: newsboard_view
@@ -7771,31 +7771,31 @@ msgid "close window"
 msgstr "stäng fönstret"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Up to the thesaurus
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurus"
 msgstr "Upp till ordlistan"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
 #. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
-#. 
+#.
 #: thesaurusitem_view
 msgid "link_thesaurus_search"
 msgstr "Visa information om \"${title}\""
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Identifier
 #: thesaurusitem_view
@@ -7803,8 +7803,8 @@ msgid "Identifier"
 msgstr "Identifikator"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Subordinate entries
 #: thesaurusitem_view
@@ -7812,8 +7812,8 @@ msgid "mt_child_entries"
 msgstr "Underordnade poster"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Translations
 #: thesaurusitem_view
@@ -7821,8 +7821,8 @@ msgid "Translations"
 msgstr "Översättningar"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Synonyms
 #: thesaurusitem_view
@@ -7830,8 +7830,8 @@ msgid "Synonyms"
 msgstr "Synonymer"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Synonyms
 #: thesaurusitem_view
@@ -7839,8 +7839,8 @@ msgid "No Synonyms"
 msgstr "Inga synonymer"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Related Items
 #: thesaurusitem_view
@@ -7848,8 +7848,8 @@ msgid "Related Items"
 msgstr "Liknande begrepp"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Related Items
 #: thesaurusitem_view
@@ -7857,9 +7857,9 @@ msgid "No Related Items"
 msgstr "Inga liknande begrepp"
 
 #. Added on Mon Dec 12 13:31:47 2005
-#. 
+#.
 #. Line 44, Column 43
-#. 
+#.
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
@@ -7868,15 +7868,15 @@ msgstr "Inga liknande begrepp"
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:
 #. The variable 'title' will be filled with the actual title
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurusitem_parent"
 msgstr "Upp till överordnade poster \"${title}\""
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 144
-#. 
+#.
 #. Orginal text:
 #. Extended search form
 #: None
@@ -7884,23 +7884,23 @@ msgid "extended_search_url"
 msgstr "Utökat sökformulär"
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. To perform a more detailed search try the ${url}.
 #. Note:
 #. The link to and the translated name of the extended search form will be
 #. inserted
 #. into the variable 'url'
-#. 
+#.
 #: search_form
 msgid "info_extended_searchform"
 msgstr "För en mer utförlig sökning, pröva ${url}."
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Nace
 #: None
@@ -7908,9 +7908,9 @@ msgid "Nace"
 msgstr "Nace"
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Country Code
 #: None
@@ -7918,9 +7918,9 @@ msgid "Country Code"
 msgstr "Landkod"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Call for Contractors
 #: None
@@ -7928,9 +7928,9 @@ msgid "Call for Contractors"
 msgstr "Anbudsinfordringar"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Job Vacancy
 #: None
@@ -7938,9 +7938,9 @@ msgid "Job Vacancy"
 msgstr "Lediga tjänster"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_DBContent
 #. Note:
@@ -7949,15 +7949,15 @@ msgstr "Lediga tjänster"
 #. from the various OSH databases.
 #. This content type is very similar to OSH Link, only that it has more
 #. properties.
-#. 
+#.
 #: None
 msgid "OSH_DBContent"
 msgstr "Arbetsmiljödatabasens innehåll"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHmail
 #: None
@@ -7965,9 +7965,9 @@ msgid "OSHmail"
 msgstr "Arbetsmiljöpost"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Back
 #: None
@@ -7975,9 +7975,9 @@ msgid "Back"
 msgstr "Tillbaka"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Top of Page
 #: None
@@ -7985,9 +7985,9 @@ msgid "Top of Page"
 msgstr "Sidans början"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 23, Column 88
-#. 
+#.
 #. Orginal text:
 #. Configure
 #: None
@@ -7995,9 +7995,9 @@ msgid "Configure"
 msgstr "Konfigurera"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 229, Column 44
-#. 
+#.
 #. Orginal text:
 #. Id
 #: None
@@ -8005,85 +8005,85 @@ msgid "Id"
 msgstr "Id"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 248, Column 28
-#. 
+#.
 #. Orginal text:
 #. visible
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "visible"
 msgstr "synlig"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 33, Column 74
-#. 
+#.
 #. Orginal text:
 #. Channels
 #. Note:
 #. This refers to syndication channels
-#. 
+#.
 #: None
 msgid "Channels"
 msgstr "Kanaler"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Make private
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Make private"
 msgstr "Skydda"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Publish
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Publish"
 msgstr "Offentliggör"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 66, Column 16
-#. 
+#.
 #. Orginal text:
 #. private
-#. 
+#.
 #: None
 msgid "private"
 msgstr "privat"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Submit
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Submit"
 msgstr "Skicka"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 16, Column 8
-#. 
+#.
 #. Orginal text:
 #. back to board
 #: None
@@ -8091,9 +8091,9 @@ msgid "back to board"
 msgstr "Tillbaka till diskussionssidan"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 17, Column 64
-#. 
+#.
 #. Orginal text:
 #. Up
 #: None
@@ -8101,9 +8101,9 @@ msgid "Up"
 msgstr "Upp"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 20, Column 18
-#. 
+#.
 #. Orginal text:
 #. Back to
 #: None
@@ -8111,9 +8111,9 @@ msgid "Back to"
 msgstr "Tillbaka till"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 30, Column 8
-#. 
+#.
 #. Orginal text:
 #. previous article
 #: None
@@ -8121,9 +8121,9 @@ msgid "previous article"
 msgstr "föregående artikel"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 38, Column 81
-#. 
+#.
 #. Orginal text:
 #. Browse in articles
 #: None
@@ -8131,9 +8131,9 @@ msgid "Browse in articles"
 msgstr "Bläddra bland artiklarna"
 
 #. Added on Mon Dec 12 14:58:37 2005
-#. 
+#.
 #. Line 42, Column 12
-#. 
+#.
 #. Orginal text:
 #. Go
 #: /index_html/newsboard_view
@@ -9980,68 +9980,68 @@ msgstr "Utanförskap"
 msgid "title_napo_episode_6_6"
 msgstr "Gör det inte värre!"
 
-msgid "title_napo_episode_7_6" 
-msgstr "The End" 
+msgid "title_napo_episode_7_6"
+msgstr "The End"
 
-msgid "title_napo_episode_8_0" 
-msgstr "Belasta rätt" 
+msgid "title_napo_episode_8_0"
+msgstr "Belasta rätt"
 
-msgid "title_napo_episode_8_1" 
-msgstr "Moderna tider" 
+msgid "title_napo_episode_8_1"
+msgstr "Moderna tider"
 
-msgid "title_napo_episode_8_2" 
-msgstr "Söndra och härska" 
+msgid "title_napo_episode_8_2"
+msgstr "Söndra och härska"
 
-msgid "title_napo_episode_8_3" 
-msgstr "Radikal ergonomi" 
+msgid "title_napo_episode_8_3"
+msgstr "Radikal ergonomi"
 
-msgid "title_napo_episode_8_4" 
-msgstr "Vrida och skrika" 
+msgid "title_napo_episode_8_4"
+msgstr "Vrida och skrika"
 
-msgid "title_napo_episode_8_5" 
-msgstr "Inget grepp" 
+msgid "title_napo_episode_8_5"
+msgstr "Inget grepp"
 
-msgid "title_napo_episode_8_6" 
-msgstr "Arbetshöjd" 
+msgid "title_napo_episode_8_6"
+msgstr "Arbetshöjd"
 
-msgid "title_napo_episode_8_7" 
-msgstr "Dåliga vibrationer" 
+msgid "title_napo_episode_8_7"
+msgstr "Dåliga vibrationer"
 
-msgid "title_napo_episode_8_8" 
-msgstr "Duellen" 
+msgid "title_napo_episode_8_8"
+msgstr "Duellen"
 
-msgid "title_napo_episode_8_9" 
-msgstr "Tänk på rörelse" 
+msgid "title_napo_episode_8_9"
+msgstr "Tänk på rörelse"
 
-msgid "title_napo_episode_8_10" 
-msgstr "Håll mig i ett fast grepp" 
+msgid "title_napo_episode_8_10"
+msgstr "Håll mig i ett fast grepp"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Bedöm risken" 
+msgid "title_napo_episode_9_1"
+msgstr "Bedöm risken"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Identifiera det okända" 
+msgid "title_napo_episode_9_2"
+msgstr "Identifiera det okända"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Risker - handla" 
+msgid "title_napo_episode_9_3"
+msgstr "Risker - handla"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Riskfylld kombination" 
+msgid "title_napo_episode_9_4"
+msgstr "Riskfylld kombination"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Eliminera risken" 
+msgid "title_napo_episode_9_5"
+msgstr "Eliminera risken"
 
-msgid "title_napo_episode_9_6" 
-msgstr "Säkerhet lönar sig" 
+msgid "title_napo_episode_9_6"
+msgstr "Säkerhet lönar sig"
 
-msgid "title_napo_episode_9_7" 
-msgstr "The End" 
+msgid "title_napo_episode_9_7"
+msgstr "The End"
 
 msgid "title_napo_film_1"
 msgstr "BÄSTA SKYLTAR"
@@ -10092,7 +10092,7 @@ msgstr "NAPO I LÄTTA PÅ LASTEN!"
 msgid "description_napo_film_8"
 msgstr "Belastningsskador är det vanligaste arbetsrelaterade hälsoproblemet i Europa och drabbar miljontals arbetstagare. Vid någon tidpunkt i livet lider så många som 90 % av alla människor av ryggont, besvär i nacke, axlar, armar och händer eller förslitningsskador.<br/><br/>I ”Lätta på lasten” tar man ett helhetsgrepp om problemet med belastningsskador och understryker att man måste se till ”den totala belastningen på kroppen”, vilket innefattar alla typer av påfrestning och ansträngning, miljöfaktorer som kyla, arbetstakt samt den last som ska flyttas.<br/><br/>Filmen visar Napo när han konfronteras med olika arbetssituationer. Den passar att visas för alla arbetstagare, även invandrare och tillfälligt anställda. Filmen består av elva scener som belyser typiska situationer som kan uppstå på arbetsplatsen."
 
-msgid "title_napo_film_9" 
+msgid "title_napo_film_9"
 msgstr "Napo i riskfylld verksamhet"
 
 msgid "description_napo_film_9"
@@ -10165,7 +10165,7 @@ msgid "description_napo_film_13"
 msgstr "<p>Denna film upplyser om farorna med att exponera huden för skadliga (och ibland inte så skadliga) ämnen, de situationer där exponering sker och vad man kan göra för att undvika riskerna, skydda huden och förhindra skador. Napo upptäcker många olika situationer där exponering för kemikalier och andra ämnen kan orsaka hudproblem. Han lär sig om hudens fantastiska egenskaper och klär av sig naken för att visa publiken: ‘Allt du alltid velat veta om... din hud’. Han ringar in åtgärder för att förebygga problem och har tre viktiga budskap: Undvik – Skydda – Kontrollera.</p><p>Man kan undvika eller minimera kontakten med kemikalier genom avlägsnande - att använda sig av en mekanisk i stället för kemisk metod; genom ersättning - att använda sig av ett säkrare alternativ, samt genom säkert arbetsavstånd - att använda sig av verktyg i stället för att hantera kemikalierna direkt. Även om personlig skyddsutrustning är utformad för att skydda huden påminner Napo oss om vikten av att ta hand om huden genom att snabbt ta bort förorenande ämnen, tvätta huden ordentligt, torka huden noggrant och använda hudkräm regelbundet.</p><p>Slutligen rekommenderar Napo att regelbundet leta efter tidiga tecken på hudproblem.</p>"
 
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo i... säkert underhållsarbete"
 
@@ -10249,7 +10249,7 @@ msgstr "dagligen"
 
 msgid "weekly"
 msgstr "varje vecka"
-	
+
 msgid "monthly"
 msgstr "varje månad"
 
@@ -10353,7 +10353,7 @@ msgstr "Fiske"
 
 msgid "gender"
 msgstr "Könselaterade frågor"
-	
+
 msgid "healthcare"
 msgstr "Hälso- och sjukvård"
 
@@ -10433,12 +10433,12 @@ msgstr "Våra evenemang"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Datum ska bekräftas"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "Ska bekräftas"
 
 #. Default: FAQs
@@ -10461,3 +10461,5 @@ msgstr "Frågor och svar"
 msgid "text_help_center_intro"
 msgstr "Sök bland ${text_frequently_asked_questions} eller bläddra igenom en kategori."
 
+msgid "osha_label_press_and_multimedia"
+msgstr "Press och multimedia"

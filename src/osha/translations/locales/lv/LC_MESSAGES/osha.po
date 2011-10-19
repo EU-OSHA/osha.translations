@@ -6806,21 +6806,21 @@ msgid "default"
 msgstr "pēc noklusēšanas"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "Jūsu tīkls ar informāciju par drošāku un veselīgāku darba vidi"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6828,9 +6828,9 @@ msgid "Site Update"
 msgstr "Vietnes atjaunināšana"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6838,9 +6838,9 @@ msgid "Translation Help"
 msgstr "Tulkošanas palīdzība"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6848,9 +6848,9 @@ msgid "My Folder"
 msgstr "Mana mape"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6858,9 +6858,9 @@ msgid "My Settings"
 msgstr "Mani iestatījumi"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6868,9 +6868,9 @@ msgid "Undo"
 msgstr "Atsaukt"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6878,9 +6878,9 @@ msgid "Portal Setup"
 msgstr "Portāla iestatīšana"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6888,9 +6888,9 @@ msgid "Log out"
 msgstr "Atteikšanās"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6898,9 +6898,9 @@ msgid "Layout table"
 msgstr "Izkārtojuma tabula"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6908,9 +6908,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Hierarhiskais tezaurs"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6918,9 +6918,9 @@ msgid "Index of keywords"
 msgstr "Atslēgvārdu rādītājs"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6928,9 +6928,9 @@ msgid "Contents"
 msgstr "Saturs"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6938,9 +6938,9 @@ msgid "View"
 msgstr "Skatīt"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6948,9 +6948,9 @@ msgid "Edit"
 msgstr "Rediģēt"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6958,9 +6958,9 @@ msgid "Properties"
 msgstr "Īpašības"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -6968,64 +6968,64 @@ msgid "Add / Propose"
 msgstr "Pievienot / Ierosināt"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "Vēsture"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Informācijas bloki "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Sindicēšana"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Īpašumtiesības"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Vietējās lomas"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7033,31 +7033,31 @@ msgid "published"
 msgstr "publicēts"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Noraidīt"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Uzlabots"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7065,9 +7065,9 @@ msgid "Calendar"
 msgstr "Kalendārs"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7075,9 +7075,9 @@ msgid "Collection"
 msgstr "Kolekcija"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7085,9 +7085,9 @@ msgid "Directive"
 msgstr "Direktīva"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7095,9 +7095,9 @@ msgid "Discussion Board"
 msgstr "Diskusiju forums"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7105,9 +7105,9 @@ msgid "Discussion Center"
 msgstr "Diskusiju centrs"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7115,9 +7115,9 @@ msgid "Document"
 msgstr "Dokuments"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7125,9 +7125,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7135,9 +7135,9 @@ msgid "FAQ Folder"
 msgstr "BUJ mape"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7145,9 +7145,9 @@ msgid "File"
 msgstr "Fails"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7155,9 +7155,9 @@ msgid "Folder"
 msgstr "Mape"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7165,9 +7165,9 @@ msgid "Glossary Folder"
 msgstr "Glosārija mape"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7175,9 +7175,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7185,9 +7185,9 @@ msgid "Image"
 msgstr "Attēls"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7195,9 +7195,9 @@ msgid "Link"
 msgstr "Saite"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7205,9 +7205,9 @@ msgid "Metadata Set"
 msgstr "Metadatu kopa"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7215,9 +7215,9 @@ msgid "Navigation"
 msgstr "Navigācija"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7225,9 +7225,9 @@ msgid "News Article"
 msgstr "Jaunumu ziņa"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7235,9 +7235,9 @@ msgid "News Board"
 msgstr "Jaunumu forums"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7245,9 +7245,9 @@ msgid "OSH_Article"
 msgstr "DDVA raksts"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7255,9 +7255,9 @@ msgid "OSH_Case"
 msgstr "DDVA gadījums"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7265,9 +7265,9 @@ msgid "OSH_Institute"
 msgstr "DDVA institūcija"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7275,9 +7275,9 @@ msgid "OSH_Link"
 msgstr "DDVA saite"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7285,9 +7285,9 @@ msgid "OSH_Product"
 msgstr "DDVA izstrādājums"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7295,9 +7295,9 @@ msgid "OSH_Project"
 msgstr "DDVA projekts"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7305,9 +7305,9 @@ msgid "OSH_Publisher"
 msgstr "DDVA publicētājs"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7315,9 +7315,9 @@ msgid "OSH_Substance"
 msgstr "DDVA būtība"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7325,9 +7325,9 @@ msgid "Syndicated Document"
 msgstr "Sindicēts dokuments"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7335,9 +7335,9 @@ msgid "Topic"
 msgstr "Tēma"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7345,9 +7345,9 @@ msgid "Topic Document"
 msgstr "Tēmas dokuments"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7355,9 +7355,9 @@ msgid "Send to somebody"
 msgstr "Nosūtīt kādam"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7365,9 +7365,9 @@ msgid "Link to our site"
 msgstr "Pievienot mūsu vietnei"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7375,9 +7375,9 @@ msgid "Suggest interesting link"
 msgstr "Ieteikt interesantu saiti"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7385,9 +7385,9 @@ msgid "Report broken link"
 msgstr "Ziņot par bojātu saiti"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7577,16 +7577,16 @@ msgstr "Kas ir šī Aģentūra?"
 msgid "download_full_publication"
 msgstr "Lejupielādēt pilnu publikāciju PDF formātā"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Lasiet ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -7606,9 +7606,9 @@ msgid "Search only in this folder"
 msgstr "Search only this folder"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 13, Column 9
-#. 
+#.
 #. Orginal text:
 #. Portal
 #: newsboard_view
@@ -7616,9 +7616,9 @@ msgid "Portal"
 msgstr "Portāls"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 9, Column 4
-#. 
+#.
 #. Orginal text:
 #. OSHA Network
 #: newsboard_view
@@ -7626,9 +7626,9 @@ msgid "heading_network"
 msgstr "DDVA tīkls"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 28, Column 8
-#. 
+#.
 #. Orginal text:
 #. &nbsp;
 #. Note:
@@ -7638,9 +7638,9 @@ msgid "&nbsp;"
 msgstr "&nbsp;"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 59, Column 28
-#. 
+#.
 #. Orginal text:
 #. accesskeys-navigation
 #. Note:
@@ -7650,9 +7650,9 @@ msgid "accesskeys-navigation"
 msgstr "accesskeys-navigation"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 33, Column 8
-#. 
+#.
 #. Orginal text:
 #. Agency Web Features
 #: newsboard_view
@@ -7660,9 +7660,9 @@ msgid "Agency Web Features"
 msgstr "Aģentūras tīmekļa sadaļas"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 4
-#. 
+#.
 #. Orginal text:
 #. sign the charter
 #: newsboard_view
@@ -7670,9 +7670,9 @@ msgid "sign the charter"
 msgstr "parakstīt hartu"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 109, Column 4
-#. 
+#.
 #. Orginal text:
 #. Events for this month
 #: newsboard_view
@@ -7680,9 +7680,9 @@ msgid "events_for_this_month"
 msgstr "Mēneša notikumi"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHMail
 #: /portlet_oshmail
@@ -7690,9 +7690,9 @@ msgid "OSHMail"
 msgstr "DDVApasts"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 51
-#. 
+#.
 #. Orginal text:
 #. free newsletter
 #: /portlet_oshmail
@@ -7700,9 +7700,9 @@ msgid "label_free_newsletter"
 msgstr "bezmaksas informatīvais biļetens"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close
 #: newsboard_view
@@ -7710,9 +7710,9 @@ msgid "close"
 msgstr "aizvērt"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close window
 #: newsboard_view
@@ -7720,31 +7720,31 @@ msgid "close window"
 msgstr "aizvērt logu"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Up to the thesaurus
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurus"
 msgstr "Augšup uz tēzauru"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
 #. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
-#. 
+#.
 #: thesaurusitem_view
 msgid "link_thesaurus_search"
 msgstr "Parādīt informāciju par \"${title}\""
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Identifier
 #: thesaurusitem_view
@@ -7752,8 +7752,8 @@ msgid "Identifier"
 msgstr "Identifikators"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Subordinate entries
 #: thesaurusitem_view
@@ -7761,8 +7761,8 @@ msgid "mt_child_entries"
 msgstr "Pakārtotie šķirkļi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Translations
 #: thesaurusitem_view
@@ -7770,8 +7770,8 @@ msgid "Translations"
 msgstr "Tulkojumi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Synonyms
 #: thesaurusitem_view
@@ -7779,8 +7779,8 @@ msgid "Synonyms"
 msgstr "Sinonīmi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Synonyms
 #: thesaurusitem_view
@@ -7788,8 +7788,8 @@ msgid "No Synonyms"
 msgstr "Sinonīmi nepastāv"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Related Items
 #: thesaurusitem_view
@@ -7797,8 +7797,8 @@ msgid "Related Items"
 msgstr "Saistītie vienumi"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Related Items
 #: thesaurusitem_view
@@ -7806,9 +7806,9 @@ msgid "No Related Items"
 msgstr "Saistītie vienumi nepastāv"
 
 #. Added on Mon Dec 12 13:31:47 2005
-#. 
+#.
 #. Line 44, Column 43
-#. 
+#.
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
@@ -7817,15 +7817,15 @@ msgstr "Saistītie vienumi nepastāv"
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:
 #. The variable 'title' will be filled with the actual title
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurusitem_parent"
 msgstr "Augšup uz augstākas kārtas vienumu \"${title}\""
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 144
-#. 
+#.
 #. Orginal text:
 #. Extended search form
 #: None
@@ -7833,23 +7833,23 @@ msgid "extended_search_url"
 msgstr "Paplašinātās meklēšanas veidlapa"
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. To perform a more detailed search try the ${url}.
 #. Note:
 #. The link to and the translated name of the extended search form will be
 #. inserted
 #. into the variable 'url'
-#. 
+#.
 #: search_form
 msgid "info_extended_searchform"
 msgstr "Veicot izvērstāku meklēšanu, izvēlieties ${url}."
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Nace
 #: None
@@ -7857,9 +7857,9 @@ msgid "Nace"
 msgstr "NACE kods"
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Country Code
 #: None
@@ -7867,9 +7867,9 @@ msgid "Country Code"
 msgstr "Valsts kods"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Call for Contractors
 #: None
@@ -7877,9 +7877,9 @@ msgid "Call for Contractors"
 msgstr "Aicinājums darbuzņēmējiem"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Job Vacancy
 #: None
@@ -7887,9 +7887,9 @@ msgid "Job Vacancy"
 msgstr "Darba piedāvājums"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_DBContent
 #. Note:
@@ -7898,15 +7898,15 @@ msgstr "Darba piedāvājums"
 #. from the various OSH databases.
 #. This content type is very similar to OSH Link, only that it has more
 #. properties.
-#. 
+#.
 #: None
 msgid "OSH_DBContent"
 msgstr "DDVA datubāzes saturs"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHmail
 #: None
@@ -7914,9 +7914,9 @@ msgid "OSHmail"
 msgstr "DDVApasts"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Back
 #: None
@@ -7924,9 +7924,9 @@ msgid "Back"
 msgstr "Atpakaļ"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Top of Page
 #: None
@@ -7934,9 +7934,9 @@ msgid "Top of Page"
 msgstr "Lapas sākums"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 23, Column 88
-#. 
+#.
 #. Orginal text:
 #. Configure
 #: None
@@ -7944,9 +7944,9 @@ msgid "Configure"
 msgstr "Konfigurēt"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 229, Column 44
-#. 
+#.
 #. Orginal text:
 #. Id
 #: None
@@ -7954,85 +7954,85 @@ msgid "Id"
 msgstr "Tas pats"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 248, Column 28
-#. 
+#.
 #. Orginal text:
 #. visible
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "visible"
 msgstr "redzams"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 33, Column 74
-#. 
+#.
 #. Orginal text:
 #. Channels
 #. Note:
 #. This refers to syndication channels
-#. 
+#.
 #: None
 msgid "Channels"
 msgstr "Kanāli"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Make private
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Make private"
 msgstr "Ierobežot piekļuvi"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Publish
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Publish"
 msgstr "Publiskot"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 66, Column 16
-#. 
+#.
 #. Orginal text:
 #. private
-#. 
+#.
 #: None
 msgid "private"
 msgstr "privāts"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Submit
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Submit"
 msgstr "Iesniegt"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 16, Column 8
-#. 
+#.
 #. Orginal text:
 #. back to board
 #: None
@@ -8040,9 +8040,9 @@ msgid "back to board"
 msgstr "Atpakaļ uz diskusiju forumu"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 17, Column 64
-#. 
+#.
 #. Orginal text:
 #. Up
 #: None
@@ -8050,9 +8050,9 @@ msgid "Up"
 msgstr "Augšup"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 20, Column 18
-#. 
+#.
 #. Orginal text:
 #. Back to
 #: None
@@ -8060,9 +8060,9 @@ msgid "Back to"
 msgstr "Atpakaļ uz"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 30, Column 8
-#. 
+#.
 #. Orginal text:
 #. previous article
 #: None
@@ -8070,9 +8070,9 @@ msgid "previous article"
 msgstr "iepriekšējais raksts"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 38, Column 81
-#. 
+#.
 #. Orginal text:
 #. Browse in articles
 #: None
@@ -8080,9 +8080,9 @@ msgid "Browse in articles"
 msgstr "Pārlūkot rakstus"
 
 #. Added on Mon Dec 12 14:58:37 2005
-#. 
+#.
 #. Line 42, Column 12
-#. 
+#.
 #. Orginal text:
 #. Go
 #: /index_html/newsboard_view
@@ -9921,68 +9921,68 @@ msgstr "Nošķirts no pasaules"
 msgid "title_napo_episode_6_6"
 msgstr "Troksnis paņem savu tiesu"
 
-msgid "title_napo_episode_7_6" 
-msgstr "The End" 
+msgid "title_napo_episode_7_6"
+msgstr "The End"
 
-msgid "title_napo_episode_8_0" 
-msgstr "Uzmanību - pārslodze!" 
+msgid "title_napo_episode_8_0"
+msgstr "Uzmanību - pārslodze!"
 
-msgid "title_napo_episode_8_1" 
-msgstr "Jaunie Laiki" 
+msgid "title_napo_episode_8_1"
+msgstr "Jaunie Laiki"
 
-msgid "title_napo_episode_8_2" 
-msgstr "Skaldi un Valdi" 
+msgid "title_napo_episode_8_2"
+msgstr "Skaldi un Valdi"
 
-msgid "title_napo_episode_8_3" 
-msgstr "Radikālā Ergonomika" 
+msgid "title_napo_episode_8_3"
+msgstr "Radikālā Ergonomika"
 
-msgid "title_napo_episode_8_4" 
-msgstr "Pagriezies pagriezies..." 
+msgid "title_napo_episode_8_4"
+msgstr "Pagriezies pagriezies..."
 
-msgid "title_napo_episode_8_5" 
-msgstr "Trūkst Tvēriena" 
+msgid "title_napo_episode_8_5"
+msgstr "Trūkst Tvēriena"
 
 msgid "title_napo_episode_8_6"
 msgstr "Darba Augstums"
 
-msgid "title_napo_episode_8_7" 
-msgstr "Sliktās Vibrācijas" 
+msgid "title_napo_episode_8_7"
+msgstr "Sliktās Vibrācijas"
 
-msgid "title_napo_episode_8_8" 
-msgstr "Divkauja" 
+msgid "title_napo_episode_8_8"
+msgstr "Divkauja"
 
-msgid "title_napo_episode_8_9" 
-msgstr "Domā par sevi!" 
+msgid "title_napo_episode_8_9"
+msgstr "Domā par sevi!"
 
-msgid "title_napo_episode_8_10" 
-msgstr "Turi mani cieši" 
+msgid "title_napo_episode_8_10"
+msgstr "Turi mani cieši"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Novērtē risku" 
+msgid "title_napo_episode_9_1"
+msgstr "Novērtē risku"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Noskaidro nezināmo" 
+msgid "title_napo_episode_9_2"
+msgstr "Noskaidro nezināmo"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Act on risks" 
+msgid "title_napo_episode_9_3"
+msgstr "Act on risks"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Riskanta kombinācija" 
+msgid "title_napo_episode_9_4"
+msgstr "Riskanta kombinācija"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Samazini risku" 
+msgid "title_napo_episode_9_5"
+msgstr "Samazini risku"
 
-msgid "title_napo_episode_9_6" 
-msgstr "Drošība atmaksājas" 
+msgid "title_napo_episode_9_6"
+msgstr "Drošība atmaksājas"
 
-msgid "title_napo_episode_9_7" 
-msgstr "The End" 
+msgid "title_napo_episode_9_7"
+msgstr "The End"
 
 msgid "title_napo_film_1"
 msgstr "LABĀKO ZĪMJU STĀSTS"
@@ -10033,8 +10033,8 @@ msgstr "NAPO: STOP-PĀRSLODZE!"
 msgid "description_napo_film_8"
 msgstr "Balsta un kustību aparāta slimības (BKAS) ir visizplatītākās ar darbu saistītās veselības problēmas Eiropā, kas skar miljoniem strādājošo – noteiktā dzīves posmā līdz pat 90% cilvēku cieš no muguras sāpēm, delma sāpēm vai atkārtotu sastiepumu izraisītām traumām.<br/><br/>Kampaņa \"Stop-pārslodzei!\" atbalsta integrētu pārvaldības pieeju, lai risinātu ar BKAS saistītās problēmas, un uzsver nepieciešamību runāt par \"visu slodzi uz ķermeni\", kas ietver dažādas slodzes un sastiepumus, vides faktorus, piemēram, aukstumu darbavietā, darba veikšanas tempu un svaru, ko nākas pārvietot.<br/><br/>Filmā Napo saskaras ar dažādām darba situācijām, un tā ir piemērota visiem strādājošajiem, tostarp migrantiem un pagaidu darbiniekiem. Filmā ir 11 sižeti, kuros attēlotas raksturīgas situācijas darbavietās."
 
-msgid "title_napo_film_9" 
-msgstr "Napo riskantā biznesā" 
+msgid "title_napo_film_9"
+msgstr "Napo riskantā biznesā"
 
 msgid "description_napo_film_9"
 msgstr "Riska novērtējums ir Eiropas kampaņas tēma 2008. -2009. gadā. Risks ir saistīts ar apdraudējumiem un riska veidiem darbavietā, kā arī ar nepieciešamību tos novērtēt un ņemt vērā darba rezultātus, lai  padarītu darbavietas drošākas un veselībai nekaitīgākas. Filmā aplūkoti dažādi apdraudējumi un darbavietā visbiežāk sastopami riska veidi, kā arī nepieciešamība „apstāties, padomāt un rīkoties”, lai mazinātu darbavietā notiekošo negadījumu skaitu un arodslimību rašanos. Filma uzņemta nolūkā informēt darbiniekus par riska novērtēšanu, kā arī radīt priekšstatu par apdraudējumu un risku."
@@ -10106,7 +10106,7 @@ msgid "description_napo_film_13"
 msgstr "<p>Filmā tiek vairota apziņa par kaitējumu, kāds iespējams, ādai nonākot kontaktā ar kaitīgām (un dažreiz ne tik kaitīgām) vielām, par apstākļiem, kādos šī iedarbība var rasties un par rīcību riska novēršanai, aizsargājot ādu un izvairoties no apdraudējuma. Napo atklāj daudz dažādu situāciju, kurās ķimikāliju un citu vielu iedarbība var izraisīt ādas problēmas. Viņš iegūst informāciju par ādas apbrīnojamām īpašībām un skatītāju priekšā izģērbjas: ‘Viss, ko Tu vienmēr esi vēlējies uzzināt par... savu ādu’. Viņš noskaidro problēmu novēršanas pasākumus un sniedz trīs brīdinājumus: Izvairies! – Aizsargā! – Pārbaudi!</p><p>Izvairīšanās no ķimikāliju lietošanas vai pēc iespējas mazāka saskare ar tām ir iespējama ar izslēdzošo paņēmienu: ķīmisku metodi iespējams aizvietot ar mehānisku - piemērojot drošāku alternatīvu un darba procesā saglabājot drošu attālumu - tiešas saskares vietā izvēloties aizsardzības rīkus. Individuālaie aizsardzības līdzekļi (IAL) ir izstrādāti, lai aizsargātu ādu, bet Napo mums atgādina par to, ka ir svarīgi par ādu rūpēties regulāri, parādot, kā ātri novērst kaitējumu, ādu pareizi nomazgājot, kārtīgi noslaukot un regulāri uzklājot tai krēmu.</p><p>Visbeidzot Napo iesaka ādu regulāri pārbaudīt, lai ādas problēmas savlaicīgi novērstu.</p>"
 
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo filmā „Droša apkope"
 
@@ -10190,7 +10190,7 @@ msgstr "katru dienu"
 
 msgid "weekly"
 msgstr "katru nedēļu"
-	
+
 msgid "monthly"
 msgstr "katru mēnesi"
 
@@ -10294,7 +10294,7 @@ msgstr "Zvejniecība"
 
 msgid "gender"
 msgstr "Dzimums"
-	
+
 msgid "healthcare"
 msgstr "Veselības aprūpe"
 
@@ -10375,12 +10375,12 @@ msgstr "Mūsų renginiai"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Apstiprināmais datums"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "TBC [tiks apstiprināts]"
 
 
@@ -10408,3 +10408,5 @@ msgstr "Bieži uzdoti jautājumi"
 msgid "text_help_center_intro"
 msgstr "Meklēt ${text_frequently_asked_questions} vai pārlūkot pēc kategorijām."
 
+msgid "osha_label_press_and_multimedia"
+msgstr "Prese un multivide"

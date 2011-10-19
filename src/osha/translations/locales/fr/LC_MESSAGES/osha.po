@@ -6846,21 +6846,21 @@ msgid "default"
 msgstr "valeur par défaut"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 65, Column 8
-#. 
+#.
 #. Orginal text:
-#. 
+#.
 #.             Your network to a safer and healthier working environment
-#. 
+#.
 #: None
 msgid "Your network to a safer and healthier working environment"
 msgstr "Votre réseau pour un environnement de travail plus sûr et plus sain"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Site Update
 #: None
@@ -6868,9 +6868,9 @@ msgid "Site Update"
 msgstr "Mise à jour du Site"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 30, Column 39
-#. 
+#.
 #. Orginal text:
 #. Translation Help
 #: None
@@ -6878,9 +6878,9 @@ msgid "Translation Help"
 msgstr "Aide Traduction"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Folder
 #: None
@@ -6888,9 +6888,9 @@ msgid "My Folder"
 msgstr "Mon dossier"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. My Settings
 #: None
@@ -6898,9 +6898,9 @@ msgid "My Settings"
 msgstr "Mes Paramètres"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Undo
 #: None
@@ -6908,9 +6908,9 @@ msgid "Undo"
 msgstr "Annuler"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Portal Setup
 #: None
@@ -6918,9 +6918,9 @@ msgid "Portal Setup"
 msgstr "Configuration du Portail"
 
 #. Added on Fri Dec 17 16:29:29 2004
-#. 
+#.
 #. Line 36, Column 15
-#. 
+#.
 #. Orginal text:
 #. Log out
 #: None
@@ -6928,9 +6928,9 @@ msgid "Log out"
 msgstr "Quitter"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 103, Column 0
-#. 
+#.
 #. Orginal text:
 #. Layout table
 #: None
@@ -6938,9 +6938,9 @@ msgid "Layout table"
 msgstr "Tableau de mise en page"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 16, Column 20
-#. 
+#.
 #. Orginal text:
 #. Hierarchical thesaurus
 #: None
@@ -6948,9 +6948,9 @@ msgid "Hierarchical thesaurus"
 msgstr "Glossaire hiérarchisé"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 19, Column 20
-#. 
+#.
 #. Orginal text:
 #. Index of keywords
 #: None
@@ -6958,9 +6958,9 @@ msgid "Index of keywords"
 msgstr "Index des Mots-clés"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Contents
 #: None
@@ -6968,9 +6968,9 @@ msgid "Contents"
 msgstr "Contenu"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. View
 #: None
@@ -6978,9 +6978,9 @@ msgid "View"
 msgstr "Affichage"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Edit
 #: None
@@ -6988,9 +6988,9 @@ msgid "Edit"
 msgstr "Mise en forme"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Properties
 #: None
@@ -6998,9 +6998,9 @@ msgid "Properties"
 msgstr "Propriétés"
 
 #. Added on Fri Dec 17 16:29:30 2004
-#. 
+#.
 #. Line 22, Column 88
-#. 
+#.
 #. Orginal text:
 #. Add / Propose
 #: None
@@ -7008,64 +7008,64 @@ msgid "Add / Propose"
 msgstr "Ajouter / Proposer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. History
-#. 
+#.
 #: None
 msgid "History"
 msgstr "Historique"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Portlets
-#. 
+#.
 #: None
 msgid "Portlets"
 msgstr "Portlets"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Syndication
-#. 
+#.
 #: None
 msgid "Syndication"
 msgstr "Syndication"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Ownership
-#. 
+#.
 #: None
 msgid "Ownership"
 msgstr "Propriété"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 34, Column 74
-#. 
+#.
 #. Orginal text:
 #. Local Roles
-#. 
+#.
 #: None
 msgid "Local Roles"
 msgstr "Rôles Locaux"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 68, Column 16
-#. 
+#.
 #. Orginal text:
 #. published
 #: None
@@ -7073,31 +7073,31 @@ msgid "published"
 msgstr "publié"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 84, Column 41
-#. 
+#.
 #. Orginal text:
 #. Reject
-#. 
+#.
 #: None
 msgid "Reject"
 msgstr "Rejeter"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 90, Column 20
-#. 
+#.
 #. Orginal text:
 #. Advanced
-#. 
+#.
 #: None
 msgid "Advanced"
 msgstr "Advancé"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Calendar
 #: None
@@ -7105,9 +7105,9 @@ msgid "Calendar"
 msgstr "Calendrier"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Collection
 #: None
@@ -7115,9 +7115,9 @@ msgid "Collection"
 msgstr "Sélection"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Directive
 #: None
@@ -7125,9 +7125,9 @@ msgid "Directive"
 msgstr "Directive"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Board
 #: None
@@ -7135,9 +7135,9 @@ msgid "Discussion Board"
 msgstr "Forum de Discussion"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Discussion Center
 #: None
@@ -7145,9 +7145,9 @@ msgid "Discussion Center"
 msgstr "Centre de Discussion"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Document
 #: None
@@ -7155,9 +7155,9 @@ msgid "Document"
 msgstr "Document"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Dyno Container
 #: None
@@ -7165,9 +7165,9 @@ msgid "Dyno Container"
 msgstr "Dyno Container"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. FAQ Folder
 #: None
@@ -7175,9 +7175,9 @@ msgid "FAQ Folder"
 msgstr "Dossier FAQ"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. File
 #: None
@@ -7185,9 +7185,9 @@ msgid "File"
 msgstr "Fichier"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Folder
 #: None
@@ -7195,9 +7195,9 @@ msgid "Folder"
 msgstr "Dossier"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Glossary Folder
 #: None
@@ -7205,9 +7205,9 @@ msgid "Glossary Folder"
 msgstr "Dossier du Glossaire"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. I18NLayer
 #: None
@@ -7215,9 +7215,9 @@ msgid "I18NLayer"
 msgstr "I18NLayer"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Image
 #: None
@@ -7225,9 +7225,9 @@ msgid "Image"
 msgstr "Image"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Link
 #: None
@@ -7235,9 +7235,9 @@ msgid "Link"
 msgstr "Lien"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Metadata Set
 #: None
@@ -7245,9 +7245,9 @@ msgid "Metadata Set"
 msgstr "Ensemble de Métadonnées"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Navigation
 #: None
@@ -7255,9 +7255,9 @@ msgid "Navigation"
 msgstr "Navigation"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Article
 #: None
@@ -7265,9 +7265,9 @@ msgid "News Article"
 msgstr "Article d’actualité"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. News Board
 #: None
@@ -7275,9 +7275,9 @@ msgid "News Board"
 msgstr "Forum d’Actualités"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Article
 #: None
@@ -7285,9 +7285,9 @@ msgid "OSH_Article"
 msgstr "Article sur la Santé et la Sécurité au Travail"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Case
 #: None
@@ -7295,9 +7295,9 @@ msgid "OSH_Case"
 msgstr "Étude de cas sur la Santé et la Sécurité au Travail"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Institute
 #: None
@@ -7305,9 +7305,9 @@ msgid "OSH_Institute"
 msgstr "Institut dédié à la Santé et la Sécurité au Travail "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Link
 #: None
@@ -7315,9 +7315,9 @@ msgid "OSH_Link"
 msgstr "Lien sur la Santé et la Sécurité au Travail "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Product
 #: None
@@ -7325,9 +7325,9 @@ msgid "OSH_Product"
 msgstr "Produit associé à la Santé et la Sécurité au Travail "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Project
 #: None
@@ -7335,9 +7335,9 @@ msgid "OSH_Project"
 msgstr "Projet sur la Santé et la Sécurité au Travail "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Publisher
 #: None
@@ -7345,9 +7345,9 @@ msgid "OSH_Publisher"
 msgstr "Éditeur d’informations sur la Santé et la Sécurité au Travail "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_Substance
 #: None
@@ -7355,9 +7355,9 @@ msgid "OSH_Substance"
 msgstr "Contenu associé à la Santé et la Sécurité au Travail "
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Syndicated Document
 #: None
@@ -7365,9 +7365,9 @@ msgid "Syndicated Document"
 msgstr "Document Syndiqué"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic
 #: None
@@ -7375,9 +7375,9 @@ msgid "Topic"
 msgstr "Thème"
 
 #. Added on Fri Dec 17 16:29:31 2004
-#. 
+#.
 #. Line 132, Column 22
-#. 
+#.
 #. Orginal text:
 #. Topic Document
 #: None
@@ -7385,9 +7385,9 @@ msgid "Topic Document"
 msgstr "Document Thématique"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Send to somebody
 #: None
@@ -7395,9 +7395,9 @@ msgid "Send to somebody"
 msgstr "Envoyer à quelqu’un"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Link to our site
 #: None
@@ -7405,9 +7405,9 @@ msgid "Link to our site"
 msgstr "Lien vers notre site"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Suggest interesting link
 #: None
@@ -7415,9 +7415,9 @@ msgid "Suggest interesting link"
 msgstr "Suggérer un lien intéressant"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Report broken link
 #: None
@@ -7425,9 +7425,9 @@ msgid "Report broken link"
 msgstr "Signaler un lien mort"
 
 #. Added on Fri Dec 17 16:29:32 2004
-#. 
+#.
 #. Line 17, Column 12
-#. 
+#.
 #. Orginal text:
 #. Subscribe To Alert
 #: None
@@ -7680,16 +7680,16 @@ msgstr "  <a href=\"http://osha.europa.eu/news/oshmail\">OSHmail</a>: Si vous ne
 msgid "download_full_publication"
 msgstr "Télédécharger la publication complète en format PDF"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Lire nos ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -7709,9 +7709,9 @@ msgid "Search only in this folder"
 msgstr "Rechercher uniquement dans ce dossier"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 13, Column 9
-#. 
+#.
 #. Orginal text:
 #. Portal
 #: newsboard_view
@@ -7719,9 +7719,9 @@ msgid "Portal"
 msgstr "Portail"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 9, Column 4
-#. 
+#.
 #. Orginal text:
 #. OSHA Network
 #: newsboard_view
@@ -7729,9 +7729,9 @@ msgid "heading_network"
 msgstr "Réseau AESS"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 28, Column 8
-#. 
+#.
 #. Orginal text:
 #. &nbsp;
 #. Note:
@@ -7741,9 +7741,9 @@ msgid "&nbsp;"
 msgstr "&nbsp;"
 
 #. Added on Mon Dec 12 13:30:26 2005
-#. 
+#.
 #. Line 59, Column 28
-#. 
+#.
 #. Orginal text:
 #. accesskeys-navigation
 #. Note:
@@ -7753,9 +7753,9 @@ msgid "accesskeys-navigation"
 msgstr "accesskeys-navigation"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 33, Column 8
-#. 
+#.
 #. Orginal text:
 #. Agency Web Features
 #: newsboard_view
@@ -7763,9 +7763,9 @@ msgid "Agency Web Features"
 msgstr "Pages web de l’Agence"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 4
-#. 
+#.
 #. Orginal text:
 #. sign the charter
 #: newsboard_view
@@ -7773,9 +7773,9 @@ msgid "sign the charter"
 msgstr "signez la charte"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 109, Column 4
-#. 
+#.
 #. Orginal text:
 #. Events for this month
 #: newsboard_view
@@ -7783,9 +7783,9 @@ msgid "events_for_this_month"
 msgstr "Evénements du mois"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHMail
 #: /portlet_oshmail
@@ -7793,9 +7793,9 @@ msgid "OSHMail"
 msgstr "OSHMail"
 
 #. Added on Mon Dec 12 13:30:27 2005
-#. 
+#.
 #. Line 16, Column 51
-#. 
+#.
 #. Orginal text:
 #. free newsletter
 #: /portlet_oshmail
@@ -7803,9 +7803,9 @@ msgid "label_free_newsletter"
 msgstr "lettre d’information gratuite"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close
 #: newsboard_view
@@ -7813,9 +7813,9 @@ msgid "close"
 msgstr "fermer"
 
 #. Added on Mon Dec 12 13:30:28 2005
-#. 
+#.
 #. Line 29, Column 73
-#. 
+#.
 #. Orginal text:
 #. close window
 #: newsboard_view
@@ -7823,31 +7823,31 @@ msgid "close window"
 msgstr "fermer la fenêtre"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Up to the thesaurus
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurus"
 msgstr "Vers thésaurus"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Display information about "${title}
 #. Example:
 #. Search:<a href="http://osha.europa.eu/search?osha_MTSubject=/00001A/00041B">
 #.      Display information about "Organisation of work"</a> (21)
-#. 
+#.
 #: thesaurusitem_view
 msgid "link_thesaurus_search"
 msgstr "Afficher information concernant \"${title}\""
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Identifier
 #: thesaurusitem_view
@@ -7855,8 +7855,8 @@ msgid "Identifier"
 msgstr "Identification"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Subordinate entries
 #: thesaurusitem_view
@@ -7864,8 +7864,8 @@ msgid "mt_child_entries"
 msgstr "Articles subordonnés"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Translations
 #: thesaurusitem_view
@@ -7873,8 +7873,8 @@ msgid "Translations"
 msgstr "Traductions"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Synonyms
 #: thesaurusitem_view
@@ -7882,8 +7882,8 @@ msgid "Synonyms"
 msgstr "Synonymes"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Synonyms
 #: thesaurusitem_view
@@ -7891,8 +7891,8 @@ msgid "No Synonyms"
 msgstr "Aucun synonyme"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. Related Items
 #: thesaurusitem_view
@@ -7900,8 +7900,8 @@ msgid "Related Items"
 msgstr "Concepts apparentés"
 
 #. Added on Mon Dec 12 13:31:42 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. No Related Items
 #: thesaurusitem_view
@@ -7909,9 +7909,9 @@ msgid "No Related Items"
 msgstr "Pas de concepts apparentés"
 
 #. Added on Mon Dec 12 13:31:47 2005
-#. 
+#.
 #. Line 44, Column 43
-#. 
+#.
 #. Orginal text:
 #. Up to superordinate entry "${title}"
 #. Example:
@@ -7920,15 +7920,15 @@ msgstr "Pas de concepts apparentés"
 #.      Up to superordinate entry "Political, social and economic conditions"
 #. Note:
 #. The variable 'title' will be filled with the actual title
-#. 
+#.
 #: thesaurusitem_view
 msgid "up_to_thesaurusitem_parent"
 msgstr "Vers article niveau supérieur \"${title}\""
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
+#.
 #. Line 58, Column 144
-#. 
+#.
 #. Orginal text:
 #. Extended search form
 #: None
@@ -7936,23 +7936,23 @@ msgid "extended_search_url"
 msgstr "Formulaire de recherche étendue"
 
 #. Added on Mon Dec 12 13:32:41 2005
-#. 
-#. 
+#.
+#.
 #. Orginal text:
 #. To perform a more detailed search try the ${url}.
 #. Note:
 #. The link to and the translated name of the extended search form will be
 #. inserted
 #. into the variable 'url'
-#. 
+#.
 #: search_form
 msgid "info_extended_searchform"
 msgstr "Pour effectuer une recherche plus détaillée, essayez ${url}."
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Nace
 #: None
@@ -7960,9 +7960,9 @@ msgid "Nace"
 msgstr "Nace"
 
 #. Added on Mon Dec 12 13:35:13 2005
-#. 
+#.
 #. Line 33, Column 16
-#. 
+#.
 #. Orginal text:
 #. Country Code
 #: None
@@ -7970,9 +7970,9 @@ msgid "Country Code"
 msgstr "Code pays"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Call for Contractors
 #: None
@@ -7980,9 +7980,9 @@ msgid "Call for Contractors"
 msgstr "Appel aux contractants"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. Job Vacancy
 #: None
@@ -7990,9 +7990,9 @@ msgid "Job Vacancy"
 msgstr "Emplois vacants"
 
 #. Added on Mon Dec 12 13:37:53 2005
-#. 
+#.
 #. Line 129, Column 22
-#. 
+#.
 #. Orginal text:
 #. OSH_DBContent
 #. Note:
@@ -8001,15 +8001,15 @@ msgstr "Emplois vacants"
 #. from the various OSH databases.
 #. This content type is very similar to OSH Link, only that it has more
 #. properties.
-#. 
+#.
 #: None
 msgid "OSH_DBContent"
 msgstr "Contenu base de données SST"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 23, Column 12
-#. 
+#.
 #. Orginal text:
 #. OSHmail
 #: None
@@ -8017,9 +8017,9 @@ msgid "OSHmail"
 msgstr "OSHmail"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Back
 #: None
@@ -8027,9 +8027,9 @@ msgid "Back"
 msgstr "Retour"
 
 #. Added on Mon Dec 12 13:37:54 2005
-#. 
+#.
 #. Line 18, Column 12
-#. 
+#.
 #. Orginal text:
 #. Top of Page
 #: None
@@ -8037,9 +8037,9 @@ msgid "Top of Page"
 msgstr "Haut de la page"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 23, Column 88
-#. 
+#.
 #. Orginal text:
 #. Configure
 #: None
@@ -8047,9 +8047,9 @@ msgid "Configure"
 msgstr "Configurer"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 229, Column 44
-#. 
+#.
 #. Orginal text:
 #. Id
 #: None
@@ -8057,85 +8057,85 @@ msgid "Id"
 msgstr "Identité"
 
 #. Added on Mon Dec 12 13:42:33 2005
-#. 
+#.
 #. Line 248, Column 28
-#. 
+#.
 #. Orginal text:
 #. visible
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "visible"
 msgstr "visible"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 33, Column 74
-#. 
+#.
 #. Orginal text:
 #. Channels
 #. Note:
 #. This refers to syndication channels
-#. 
+#.
 #: None
 msgid "Channels"
 msgstr "Canaux"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Make private
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Make private"
 msgstr "Rendre privé"
 
 #. Added on Mon Dec 12 13:42:48 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Publish
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Publish"
 msgstr "Publier"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 66, Column 16
-#. 
+#.
 #. Orginal text:
 #. private
-#. 
+#.
 #: None
 msgid "private"
 msgstr "privé"
 
 #. Added on Mon Dec 12 13:43:03 2005
-#. 
+#.
 #. Line 81, Column 41
-#. 
+#.
 #. Orginal text:
 #. Submit
 #. Note:
 #. workflow
-#. 
+#.
 #: None
 msgid "Submit"
 msgstr "Soumettre"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 16, Column 8
-#. 
+#.
 #. Orginal text:
 #. back to board
 #: None
@@ -8143,9 +8143,9 @@ msgid "back to board"
 msgstr "Retour au forum"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 17, Column 64
-#. 
+#.
 #. Orginal text:
 #. Up
 #: None
@@ -8153,9 +8153,9 @@ msgid "Up"
 msgstr "Vers le haut"
 
 #. Added on Mon Dec 12 13:43:13 2005
-#. 
+#.
 #. Line 20, Column 18
-#. 
+#.
 #. Orginal text:
 #. Back to
 #: None
@@ -8163,9 +8163,9 @@ msgid "Back to"
 msgstr "Retour à"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 30, Column 8
-#. 
+#.
 #. Orginal text:
 #. previous article
 #: None
@@ -8173,9 +8173,9 @@ msgid "previous article"
 msgstr "article précédent"
 
 #. Added on Mon Dec 12 13:43:39 2005
-#. 
+#.
 #. Line 38, Column 81
-#. 
+#.
 #. Orginal text:
 #. Browse in articles
 #: None
@@ -8183,9 +8183,9 @@ msgid "Browse in articles"
 msgstr "parcourir les articles"
 
 #. Added on Mon Dec 12 14:58:37 2005
-#. 
+#.
 #. Line 42, Column 12
-#. 
+#.
 #. Orginal text:
 #. Go
 #: /index_html/newsboard_view
@@ -10194,86 +10194,86 @@ msgstr "T’es sourd : t’es seul"
 msgid "title_napo_episode_6_6"
 msgstr "Il n'y a pas de bon bruit"
 
-msgid "title_napo_episode_7_0" 
-msgstr "PREMIERS PAS... ATTENTION !" 
+msgid "title_napo_episode_7_0"
+msgstr "PREMIERS PAS... ATTENTION !"
 
-msgid "title_napo_episode_7_5" 
-msgstr "LAISSE SUPERMAN AU VESTIAIRE or MEME LES HEROS PEUVENT SE PRENDRE LES PIEDS DANS LE TAPIS" 
+msgid "title_napo_episode_7_5"
+msgstr "LAISSE SUPERMAN AU VESTIAIRE or MEME LES HEROS PEUVENT SE PRENDRE LES PIEDS DANS LE TAPIS"
 
-msgid "title_napo_episode_7_3" 
-msgstr "TROP D'INFO TUE L'INFO" 
+msgid "title_napo_episode_7_3"
+msgstr "TROP D'INFO TUE L'INFO"
 
-msgid "title_napo_episode_7_4" 
-msgstr "COUP DE FEU: DANGER POUR TOUS" 
+msgid "title_napo_episode_7_4"
+msgstr "COUP DE FEU: DANGER POUR TOUS"
 
-msgid "title_napo_episode_7_2" 
-msgstr "LA SECURITE , C'EST PRO" 
+msgid "title_napo_episode_7_2"
+msgstr "LA SECURITE , C'EST PRO"
 
-msgid "title_napo_episode_7_1" 
-msgstr "TU NE SAIS PAS.... TU DEMANDES!" 
+msgid "title_napo_episode_7_1"
+msgstr "TU NE SAIS PAS.... TU DEMANDES!"
 
-msgid "title_napo_episode_7_6" 
-msgstr "The End" 
+msgid "title_napo_episode_7_6"
+msgstr "The End"
 
-msgid "title_napo_episode_8_0" 
-msgstr "Napo in: Allégez la charge !" 
+msgid "title_napo_episode_8_0"
+msgstr "Napo in: Allégez la charge !"
 
-msgid "title_napo_episode_8_1" 
-msgstr "Stress des temps modernes" 
+msgid "title_napo_episode_8_1"
+msgstr "Stress des temps modernes"
 
-msgid "title_napo_episode_8_2" 
-msgstr "Diviser pour régner" 
+msgid "title_napo_episode_8_2"
+msgstr "Diviser pour régner"
 
-msgid "title_napo_episode_8_3" 
-msgstr "Ergonomie radicale" 
+msgid "title_napo_episode_8_3"
+msgstr "Ergonomie radicale"
 
-msgid "title_napo_episode_8_4" 
-msgstr "Jeu de jambes" 
+msgid "title_napo_episode_8_4"
+msgstr "Jeu de jambes"
 
-msgid "title_napo_episode_8_5" 
-msgstr "Pas de prise" 
+msgid "title_napo_episode_8_5"
+msgstr "Pas de prise"
 
-msgid "title_napo_episode_8_6" 
-msgstr "Question de niveau" 
+msgid "title_napo_episode_8_6"
+msgstr "Question de niveau"
 
-msgid "title_napo_episode_8_7" 
-msgstr "Vibrations: danger !" 
+msgid "title_napo_episode_8_7"
+msgstr "Vibrations: danger !"
 
-msgid "title_napo_episode_8_8" 
-msgstr "Duel" 
+msgid "title_napo_episode_8_8"
+msgstr "Duel"
 
-msgid "title_napo_episode_8_9" 
-msgstr "On n'est pas de marbre !" 
+msgid "title_napo_episode_8_9"
+msgstr "On n'est pas de marbre !"
 
-msgid "title_napo_episode_8_10" 
-msgstr "De  près, c'est mieux" 
+msgid "title_napo_episode_8_10"
+msgstr "De  près, c'est mieux"
 
-msgid "title_napo_episode_8_11" 
-msgstr "The End" 
+msgid "title_napo_episode_8_11"
+msgstr "The End"
 
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-msgid "title_napo_episode_9_1" 
-msgstr "Evaluer le risque" 
+msgid "title_napo_episode_9_1"
+msgstr "Evaluer le risque"
 
-msgid "title_napo_episode_9_2" 
-msgstr "Identifier le danger" 
+msgid "title_napo_episode_9_2"
+msgstr "Identifier le danger"
 
-msgid "title_napo_episode_9_3" 
-msgstr "Agir sur le risque" 
+msgid "title_napo_episode_9_3"
+msgstr "Agir sur le risque"
 
-msgid "title_napo_episode_9_4" 
-msgstr "Combinaisons dangereuses" 
+msgid "title_napo_episode_9_4"
+msgstr "Combinaisons dangereuses"
 
-msgid "title_napo_episode_9_5" 
-msgstr "Eliminer le risque" 
+msgid "title_napo_episode_9_5"
+msgstr "Eliminer le risque"
 
-msgid "title_napo_episode_9_6" 
-msgstr "La sécurité paie" 
+msgid "title_napo_episode_9_6"
+msgstr "La sécurité paie"
 
-msgid "title_napo_episode_9_7" 
-msgstr "The End" 
+msgid "title_napo_episode_9_7"
+msgstr "The End"
 
 msgid "title_napo_film_1"
 msgstr "BEST SIGNS STORY... NAPO ET LA SIGNALISATION \"SANTÉ, SÉCURITÉ SUR LE LIEU DE TRAVAIL\""
@@ -10324,7 +10324,7 @@ msgstr "Napo dans... Allégez la charge !"
 msgid "description_napo_film_8"
 msgstr "Les troubles musculo-squelettiques (TMS) représentent la maladie professionnelle la plus courante en Europe et touchent plusieurs millions de travailleurs. Pas moins de 90 % d'Européens souffriront, au moins une fois dans leur vie, de maux de dos, de douleurs au niveau des membres supérieurs et de troubles musculo-squelettiques dus à une activité répétée.<br/><br/>Le film «Allégez la charge» met en avant une démarche de gestion intégrée des TMS et insiste sur la nécessité de traiter la question de la «charge globale pesant sur le corps», qui englobe non seulement la charge portée et déplacée par un travailleur, mais aussi toutes les tensions et tous les stress subis, les facteurs environnementaux tels que le froid et le rythme imposé pour la réalisation de la tâche.<br/><br/>Le film met en scène Napo dans différentes situations de travail pouvant s’appliquer à tous, y compris aux travailleurs migrants et temporaires. Onze scènes illustrent des cas typiques rencontrés en entreprise."
 
-msgid "title_napo_film_9" 
+msgid "title_napo_film_9"
 msgstr "Napo dans... Echec au risque"
 
 msgid "description_napo_film_9"
@@ -10359,7 +10359,7 @@ msgstr "or"
 
 # ---------- New Napo Film Number 12    Danger: Chemicals
 msgid "title_napo_film_12"
-msgstr "Napo dans... Attention produits chimiques!" 
+msgstr "Napo dans... Attention produits chimiques!"
 
 msgid "description_napo_film_12"
 msgstr "<p>Ce film est une nouvelle version de ‘Carton orange... – les risques chimiques au travail’, produit en 2003. Certaines modifications y ont été apportées afin harmoniser la signalisation (pictogrammes) utilisée pour le transport des produits dangereux ainsi que celle utilisée pour le classement, l'étiquetage et l'emballage des produits chimiques. Neuf pictogrammes doivent remplacer les sept actuels.</p><p>Les dates clés sont les suivantes: le 1er décembre 2010: les substances doivent être reclassées et étiquetées conformément au nouveau système global (SGH); et le 1er juin 2015: le même processus sera appliqué aux mélanges (auparavant appelés préparations).</p><p>Napo est le héros d'une série de sketchs de courte durée portant sur le travail avec des produits chimiques, notamment ceux qui sont irritants, enflammables, corrosifs, toxiques ou dangereux pour l'environnement. Chaque sketch est suivi d'une courte séquence montrant comment empêcher les accidents en prenant des habitudes de travail sûres. Ce film convient à quiconque travaille dans n'importe quel secteur. Il a pour objectif d'attirer l'attention sur l'importance d'étiqueter les produits chimiques. La scène d'introduction, explosive, est suivie de six séquences qui montrent d'abord comment il ne faut pas faire (avec les conséquences graves que cela implique), puis comment il faut faire en respectant les instructions de sécurité. </p>"
@@ -10395,7 +10395,7 @@ msgstr "Napo dans... Protégez votre peau"
 msgid "description_napo_film_13"
 msgstr "<p>Ce film attire l'attention sur les dangers qu'implique l'exposition de la peau à des substances (pas toujours si) nocives, dans quels cas a lieu l'exposition et ce qui peut être fait pour éviter les risques, protéger votre peau et éviter tout dommage. Napo découvre plusieurs situations différentes où l'exposition à des produits chimiques et à d'autres substances peut provoquer des problèmes de peau. Il apprend tout sur les qualités étonnantes de la peau et se met à nu pour montrer à son public: ‘Tout ce que vous avez toujours voulu savoir sur... votre peau’. Il décrit les mesures à prendre pour éviter tout problème et a trois messages importants à transmettre: éviter– protéger– vérifier.</p><p>Il est possible d'éviter ou de réduire au minimum les contacts avec les produits chimiques si on élimine ces produits - en utilisant une méthode mécanique plutôt que chimique; si on les remplace - en mettant en oeuvre une méthode alternative plus sûre; et si on travaille à une distance sûre - en utilisant des outils plutôt qu'en manipulant ces produits directement. L'équipement de protection individuelle (EPI) est conçu pour protéger la peau, mais NAPO nous rappelle qu'il est important de soigner sa peau en procédant rapidement à une décontamination, en se lavant la peau correctement, en séchant parfaitement la peau et en appliquant régulièrement des crèmes pour la peau.</p><p>Enfin, Napo recommende de vérifier régulièrement l'apparition de tout signe précoce de problèmes de peau.</p>"
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo dans... Attention Maintenance !"
 
@@ -10479,7 +10479,7 @@ msgstr "quotidien"
 
 msgid "weekly"
 msgstr "hebdomadaire"
-	
+
 msgid "monthly"
 msgstr "mensuel"
 
@@ -10583,7 +10583,7 @@ msgstr "Pêche"
 
 msgid "gender"
 msgstr "Dimension de genre"
-	
+
 msgid "healthcare"
 msgstr "Soins de santé"
 
@@ -10663,12 +10663,12 @@ msgstr "Nos manifestations"
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "La date reste à confirmer"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "à confirmer"
 
 
@@ -10698,5 +10698,5 @@ msgstr "Foire aux questions"
 msgid "text_help_center_intro"
 msgstr "Rechercher ${text_frequently_asked_questions} ou rechercher par catégorie."
 
-
-
+msgid "osha_label_press_and_multimedia"
+msgstr "Presse et multimédia"

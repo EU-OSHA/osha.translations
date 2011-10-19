@@ -946,16 +946,16 @@ msgstr "Leter du etter noe spesielt?"
 msgid "download_full_publication"
 msgstr "Last ned hele publikasjonen i PDF-format"
 
-##. <p class="header_link" 
-#.     i18n:translate="publication_read_our">Read our 
-#.     <a href="" i18n:name="pubtype" 
-#.     tal:attributes="href sub/absolute_url" 
+##. <p class="header_link"
+#.     i18n:translate="publication_read_our">Read our
+#.     <a href="" i18n:name="pubtype"
+#.     tal:attributes="href sub/absolute_url"
 #.     tal:content="sub/Title" /></p>
 #: @@publications-list
 msgid "publication_read_our"
 msgstr "Les vår ${pubtype}"
 
-#. <div class="pullquote" 
+#. <div class="pullquote"
 #.     i18n:translate="all_agency_publications">
 #: @@publications-list
 msgid "all_agency_publications"
@@ -1233,12 +1233,12 @@ msgstr "Tilbake til presserommet"
 # FOP
 
 # FOP Portlets osa.fop
-        
+
 # Default "Further information"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.pt
 msgid "label_main_fop_website"
 msgstr "Ytterligere informasjon"
-        
+
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
 msgid "heading_main_fop_portlet_belgium"
@@ -1438,7 +1438,7 @@ msgstr "Serbisk kontaktpunkt"
 # osha/theme/browser/templates/publicationsearch.pt
 # osha/theme/browser/templates/practical_solution.pt
 msgid "label_more_results_in_en"
-msgstr "Se flere resultater på EN"      
+msgstr "Se flere resultater på EN"
 
 
 # Default "Back to the Focal Points overview"
@@ -2106,7 +2106,7 @@ msgid "description_napo_film_13"
 msgstr "<p>Filmen retter søkelyset mot farene ved å utsette huden for skadelige (og noen ganger ikke så skadelige) stoffer, situasjoner hvor eksponering kan oppstå og hva som kan gjøres for å unngå risiko, beskytte huden og forhindre skade. Napo oppdager mange ulike situasjoner hvor eksponering for kjemikalier og andre stoffer kan forårsake hudproblemer. Han lærer om hudens fantastiske egenskaper og kler seg naken for å vise seerne \"Alt du noen gang ville vite om ... huden\". Han finner tiltak som forebygger problemer og har tre viktige budskap: Unngå – Beskytt – Sjekk.</p><p>Kontakt med kjemikalier kan unngås eller reduseres til et minimum gjennom eliminering – bruk en mekanisk metode i stedet for en kjemisk; gjennom substitusjon – velg et sikrere alternativ; og ved å holde trygg avstand under arbeidet – bruk redskaper i stedet for å håndtere stoffene direkte. Personlig verneutstyr er utformet for å beskytte huden, men Napo minner oss på hvor viktig det er å ta vare på huden ved å vise hvordan forurensende stoffer skal fjernes: vask huden skikkelig, tørk grundig og påfør hudkrem jevnlig. Til slutt anbefaler Napo at vi regelmessig sjekker om vi har tidlige tegn på hudproblemer. </p>"
 
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"
 msgstr "Napo i... Sikkert vedlikehold"
 
@@ -2179,12 +2179,12 @@ msgstr "Eksponering for tobakksrøyk er helseskadelig både for røykere og ikke
 
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "label_date_to_be_confirmed" 
+msgid "label_date_to_be_confirmed"
 msgstr "Datoen vil bli bekreftet på et senere tidspunkt"
 
 #. Default: TBC
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
-msgid "abbr_date_to_be_confirmed" 
+msgid "abbr_date_to_be_confirmed"
 msgstr "Vil bli bekreftet på et senere tidspunkt"
 
 #. Default: FAQs
@@ -2207,3 +2207,5 @@ msgstr "Ofte stilte spørsmål"
 msgid "text_help_center_intro"
 msgstr "Søk blant ${text_frequently_asked_questions} eller vis spørsmål etter kategori."
 
+msgid "osha_label_press_and_multimedia"
+msgstr "Presse og multimedia"
