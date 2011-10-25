@@ -10700,3 +10700,18 @@ msgstr "Rechercher ${text_frequently_asked_questions} ou rechercher par catégor
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Presse et multimédia"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Si vous ne trouvez pas de réponse à votre question,veuillez ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "nous contacter"
+
+
+
+

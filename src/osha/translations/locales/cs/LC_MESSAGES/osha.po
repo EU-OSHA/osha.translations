@@ -9944,3 +9944,17 @@ msgstr "Hledat ${text_frequently_asked_questions} nebo prohledávat podle katego
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Tisk a multimédia"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Pokud se vám nedaří nalézt odpověď na váš dotaz, ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "kontaktujte nás"
+
+
+

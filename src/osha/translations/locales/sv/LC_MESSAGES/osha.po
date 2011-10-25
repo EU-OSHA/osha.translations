@@ -10463,3 +10463,17 @@ msgstr "Sök bland ${text_frequently_asked_questions} eller bläddra igenom en k
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Press och multimedia"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Om du inte hittar svar på din fråga, var vänlig, ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "kontakta oss"
+
+
+

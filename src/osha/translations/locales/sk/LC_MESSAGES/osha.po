@@ -10419,3 +10419,17 @@ msgstr "Hľadať ${text_frequently_asked_questions} alebo prehľadávať podľa 
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Tlač a médiá"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Ak neviete nájsť odpoveď na svoju otázku, ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "kontaktujte nás"
+
+
+

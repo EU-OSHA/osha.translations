@@ -2197,3 +2197,17 @@ msgstr "Leitaðu í  ${text_frequently_asked_questions} eða leitaðu eftir flok
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Fjölmiðlar og margmiðlun"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Ef þú finnur ekki svar við fyrirspurn þinni, vinsamlegast, ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "hafðu samband við okkur"
+
+
+

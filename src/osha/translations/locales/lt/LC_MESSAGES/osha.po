@@ -10422,3 +10422,17 @@ msgstr "Ieškoti ${text_frequently_asked_questions} arba naršyti pagal kategori
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Žiniasklaida"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Jei neradote atsakymo į savo klausimą, prašome, ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "susisiekti su mumis"
+
+
+

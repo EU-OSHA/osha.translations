@@ -10428,3 +10428,16 @@ msgstr "Przeszukaj ${text_frequently_asked_questions} lub przeglądaj według ka
 
 msgid "osha_label_press_and_multimedia"
 msgstr "Prasa i multimedia"
+
+
+#. Default: If you cannot find the answer to your query, please, ${label_contact_us}.
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "text_if_no_answer_contact_us"
+msgstr "Prosimy o kontakt, jeżeli nie mogą Państwo znaleźć poszukiwanej, ${label_contact_us}."
+
+#. Default: contact us
+#: osha/theme/browser/templates/osha_help_center_view.pt
+msgid "label_contact_us"
+msgstr "informacji"
+
+
