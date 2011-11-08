@@ -2170,3 +2170,7 @@ msgstr "If you cannot find the answer to your query, please, ${label_contact_us}
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "label_contact_us"
 msgstr "contact us"
+
+#: src/osha/theme/browser/oshnews_view.py:30
+msgid "heading_newsboard_latest_news"
+msgstr "Recent news"
