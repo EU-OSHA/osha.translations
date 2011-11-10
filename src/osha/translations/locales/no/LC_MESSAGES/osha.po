@@ -1700,6 +1700,12 @@ msgstr "Forebyggende arbeid"
 msgid "economic_incentives"
 msgstr "Økonomiske insentiver"
 
+msgid "management_leadership"
+msgstr "ledelsens lederskap"
+
+msgid "worker_participation"
+msgstr "medarbeiderdeltakelse"
+
 ####
 
 msgid "Our Events"

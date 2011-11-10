@@ -10379,7 +10379,11 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Gazdasági ösztönzők"
 
+msgid "management_leadership"
+msgstr "irányítás vezetés"
 
+msgid "worker_participation"
+msgstr "dolgozói részvétel"
 ####
 
 msgid "Our Events"

@@ -10397,6 +10397,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Gospodarske spodbude"
 
+msgid "management_leadership"
+msgstr "prizadevanje vodstva"
+
+msgid "worker_participation"
+msgstr "soodločanje delavcev"
+
 ####
 
 msgid "Our Events"

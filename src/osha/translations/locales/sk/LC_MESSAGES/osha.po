@@ -10378,6 +10378,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Hospodárske stimuly"
 
+msgid "management_leadership"
+msgstr "spôsob vedenia na úrovni riadenia"
+
+msgid "worker_participation"
+msgstr "účasť zamestnancov"
+
 ####
 
 msgid "Our Events"

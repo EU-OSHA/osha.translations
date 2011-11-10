@@ -10295,6 +10295,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Wirtschaftliche Anreize"
 
+msgid "management_leadership"
+msgstr "Managementführung"
+
+msgid "worker_participation"
+msgstr "Arbeitnehmerbeteiligung"
+
 ####
 
 msgid "Our Events"

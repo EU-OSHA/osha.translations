@@ -9799,6 +9799,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Stimulente economice"
 
+msgid "management_leadership"
+msgstr "aptitudini de conducere şi de gestionare"
+
+msgid "worker_participation"
+msgstr "participarea lucrătorilor"
+
 ####
 
 msgid "Our Events"

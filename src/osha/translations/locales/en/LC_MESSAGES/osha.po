@@ -1682,6 +1682,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Economic incentives"
 
+msgid "management_leadership"
+msgstr "Management leadership"
+
+msgid "worker_participation"
+msgstr "Worker participation"
+
 ####
 
 msgid "Our Events"

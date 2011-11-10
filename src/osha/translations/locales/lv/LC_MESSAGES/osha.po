@@ -10367,6 +10367,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Ekonomiski stimuli"
 
+msgid "management_leadership"
+msgstr "vadītāju vadība"
+
+msgid "worker_participation"
+msgstr "darba ņēmēju dalība"
+
 ####
 
 msgid "Our Events"

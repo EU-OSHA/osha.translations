@@ -10426,6 +10426,11 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Ekonomiska incitament"
 
+msgid "management_leadership"
+msgstr "ledning och ledarskap"
+
+msgid "worker_participation"
+msgstr "arbetstagarnas medverkan"
 ####
 
 msgid "Our Events"

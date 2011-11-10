@@ -10642,6 +10642,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Economische stimulansen"
 
+msgid "management_leadership"
+msgstr "leiderschap door het management"
+
+msgid "worker_participation"
+msgstr "werknemersparticipatie"
+
 ####
 
 msgid "Our Events"

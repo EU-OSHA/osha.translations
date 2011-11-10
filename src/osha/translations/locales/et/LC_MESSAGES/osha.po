@@ -10384,6 +10384,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Majanduslikud stiimulid"
 
+msgid "management_leadership"
+msgstr "juhtkonna juhtimine"
+
+msgid "worker_participation"
+msgstr "töötajate osalemine"
+
 ####
 
 msgid "Our Events"

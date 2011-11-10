@@ -10386,6 +10386,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Οικονομικά κίνητρα"
 
+msgid "management_leadership"
+msgstr "ηγεσία της διοίκησης"
+
+msgid "worker_participation"
+msgstr "συμμετοχή των εργαζομένων"
+
 ####
 
 msgid "Our Events"

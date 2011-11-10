@@ -10366,6 +10366,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Inċentivi ekonomiċi"
 
+msgid "management_leadership"
+msgstr "tmexxija amministrattiva"
+
+msgid "worker_participation"
+msgstr "parteċipazzjoni tal-ħaddiema"
+
 ####
 
 msgid "Our Events"

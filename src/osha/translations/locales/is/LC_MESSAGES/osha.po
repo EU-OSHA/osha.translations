@@ -1683,6 +1683,12 @@ msgstr "Forvörn"
 msgid "economic_incentives"
 msgstr "Efnahagsleg frumkvæði"
 
+msgid "management_leadership"
+msgstr "Stjórnunarforysta"
+
+msgid "worker_participation"
+msgstr "Þátttaka starfsmanna"
+
 ####
 
 msgid "Our Events"

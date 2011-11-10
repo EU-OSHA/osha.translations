@@ -9903,6 +9903,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Ekonomické pobídky"
 
+msgid "management_leadership"
+msgstr "způsob vedení na úrovni managementu"
+
+msgid "worker_participation"
+msgstr "účast zaměstnanců"
+
 ####
 
 msgid "Our Events"

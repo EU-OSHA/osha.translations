@@ -10410,6 +10410,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Taloudelliset kannustimet"
 
+msgid "management_leadership"
+msgstr "hallinta"
+
+msgid "worker_participation"
+msgstr "työntekijöiden osallistuminen"
+
 ####
 
 msgid "Our Events"

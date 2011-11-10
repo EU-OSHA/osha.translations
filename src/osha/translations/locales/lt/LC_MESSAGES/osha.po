@@ -10380,6 +10380,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Ekonominės paskatos"
 
+msgid "management_leadership"
+msgstr "valdymo lyderystė"
+
+msgid "worker_participation"
+msgstr "darbuotojų dalyvavimas"
+
 ####
 
 msgid "Our Events"

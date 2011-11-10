@@ -10413,6 +10413,12 @@ msgstr "Prevention"
 msgid "economic_incentives"
 msgstr "Incemtivos económicos"
 
+msgid "management_leadership"
+msgstr "liderança da gestão"
+
+msgid "worker_participation"
+msgstr "participação dos trabalhadores"
+
 ####
 
 msgid "Our Events"
