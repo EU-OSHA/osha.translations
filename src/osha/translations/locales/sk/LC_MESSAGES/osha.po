@@ -10399,10 +10399,6 @@ msgstr "Dátum bude potvrdený neskôr"
 msgid "abbr_date_to_be_confirmed"
 msgstr "Potvrdí sa neskôr"
 
-
-
-
-
 #. Default: FAQs
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "FAQs"
@@ -10437,5 +10433,105 @@ msgstr "Ak neviete nájsť odpoveď na svoju otázku, ${label_contact_us}."
 msgid "label_contact_us"
 msgstr "kontaktujte nás"
 
+#. Default: Agency RSS Feeds
+#: src/osha/theme/browser/templates/rssfeeds.pt:16
+msgid "heading_agency_rss"
+msgstr "Agentúrne RSS kanály"
 
+#. Default: This page contains an overview over the RSS (${link}) feeds
+#. currently
+#. available at osha.europa.eu. Subscribe to our RSS (Really Simple
+#. Syndication)
+#. feeds to get information delivered directly to your desktop!
+#: src/osha/theme/browser/templates/rssfeeds.pt:18
+msgid "description_agency_rss"
+msgstr ""
+"Táto stránka obsahuje prehľad o RSS kanáloch (${link}), ktoré sú v súčasnosti"
+"dostupné na stránke osha.europa.eu. Odoberajte RSS kanály (Really Simple "
+"Syndication) a dostávajte informácie priamo na obrazovku vášho počítača!"
+
+#. Default: What is RSS?
+#: src/osha/theme/portlets/collection.pt:52
+#: src/osha/theme/portlets/oshevents.pt:67
+#: src/osha/theme/portlets/oshnews.pt:48
+msgid "info_whatis_rss"
+msgstr "Čo je RSS?"
+
+#. Default: To view one of the feeds in your RSS Aggregator
+#: src/osha/theme/browser/templates/rssfeeds.pt:22
+msgid "help_use_aggregator"
+msgstr "Pozrieť si niektorý z kanálov v agregátore RSS"
+
+#. Default: What is an Aggregator
+msgid "info_whatis_aggregator"
+msgstr "Čo je agregátor?"
+
+#. Default: Copy the URL/shortcut that corresponds to the topic that interests
+#. you.
+#: src/osha/theme/browser/templates/rssfeeds.pt:26
+msgid "help_use_aggregator_step1"
+msgstr ""
+"Skopírujte internetovú adresu URL alebo skratku (shortcut) zodpovedajúcu téme, ktorá vás zaujíma."
+
+#. Default: Paste the URL into your reader.
+#: src/osha/theme/browser/templates/rssfeeds.pt:28
+msgid "help_use_aggregator_step2"
+msgstr "Vložte URL do čítacieho softvéru."
+
+#. Default: If you use an online RSS service, use a shortcut:
+#: src/osha/theme/browser/templates/rssfeeds.pt:32
+msgid "help_use_online_service"
+msgstr "Ak využívate online službu RSS, použite skratku:"
+
+#. Default: Click on the shortcut button for your service.
+#: src/osha/theme/browser/templates/rssfeeds.pt:36
+msgid "help_use_online_service_step1"
+msgstr "Kiknite na tlačidlo skratky pre danú službu."
+
+#. Default: Click the "Add to Any" button, if your service is not in the list.
+#: src/osha/theme/browser/templates/rssfeeds.pt:38
+msgid "help_use_online_service_step2"
+msgstr "Ak daná služba nie je uvedená na zozname, kliknite na tlačidlo \"Add to Any\"."
+
+#. Default: Note
+#: src/osha/theme/browser/templates/rssfeeds.pt:45
+msgid "label_note"
+msgstr "Poznámka"
+
+#. Default: The current language is ${language}. If you want to subscribe to
+#. feeds in another
+#. language, change the language of this page first.
+#: src/osha/theme/browser/templates/rssfeeds.pt:46
+msgid "note_language"
+msgstr ""
+"Vybraným jazykom je momentálne angličtina ${language}. Ak chcete odoberať kanály v ""inom jazyku, najprv zmeňte jazyk na tejto prvej strane."
+
+#. Default: General Information
+#: src/osha/theme/browser/templates/rssfeeds.pt:53
+msgid "heading_general_information"
+msgstr "Všeobecné informácie"
+
+#. Default: Latest
+#: src/osha/theme/browser/templates/rssfeeds.pt:62
+msgid "label_latest"
+msgstr "Najnovšie"
+
+#. Default: Shortcut
+#: src/osha/theme/browser/templates/rssfeeds.pt:119
+#: src/osha/theme/browser/templates/rssfeeds.pt:92
+#: src/osha/theme/browser/templates/rssfeeds.pt:71
+msgid "label_shortcut"
+msgstr "Skratka"
+
+#. Default: Themes (including related news, events, publications and press
+#. releases)
+#: src/osha/theme/browser/templates/rssfeeds.pt:101
+msgid "heading_themes"
+msgstr ""
+"Témy (vrátane súvisiacich správ, podujatí a publikácií a tlačových správ)"
+
+#. Default: Theme
+#: src/osha/theme/browser/templates/rssfeeds.pt:110
+msgid "label_theme"
+msgstr "Téma"
 

@@ -10407,11 +10407,6 @@ msgstr "Οι ημερομηνίες είναι προς επιβεβαίωση"
 msgid "abbr_date_to_be_confirmed"
 msgstr "Επιβεβαίωση εκκρεμεί"
 
-
-
-
-
-
 #. Default: FAQs
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "FAQs"
@@ -10446,3 +10441,105 @@ msgstr "Εάν δεν μπορείτε να βρείτε απάντηση στο
 msgid "label_contact_us"
 msgstr "επικοινωνήστε μαζί μας"
 
+#. Default: Agency RSS Feeds
+#: src/osha/theme/browser/templates/rssfeeds.pt:16
+msgid "heading_agency_rss"
+msgstr "Ροές RSS (RSS feeds) του Οργανισμού"
+
+#. Default: This page contains an overview over the RSS (${link}) feeds
+#. currently
+#. available at osha.europa.eu. Subscribe to our RSS (Really Simple
+#. Syndication)
+#. feeds to get information delivered directly to your desktop!
+#: src/osha/theme/browser/templates/rssfeeds.pt:18
+msgid "description_agency_rss"
+msgstr ""
+"Η σελίδα αυτή περιλαμβάνει γενική παρουσίαση των ροών (${link}) RSS "
+"που υπάρχουν σήμερα διαθέσιμες στη διεύθυνση osha.europa.eu. Εγγραφείτε στις ροές RSS (Really Simple "
+"Syndication) του Οργανισμού ώστε να λαμβάνετε τις πληροφορίες απευθείας στην οθόνη σας!"
+
+#. Default: What is RSS?
+#: src/osha/theme/portlets/collection.pt:52
+#: src/osha/theme/portlets/oshevents.pt:67
+#: src/osha/theme/portlets/oshnews.pt:48
+msgid "info_whatis_rss"
+msgstr "Τι είναι το RSS?"
+
+#. Default: To view one of the feeds in your RSS Aggregator
+#: src/osha/theme/browser/templates/rssfeeds.pt:22
+msgid "help_use_aggregator"
+msgstr "Για να δείτε μία από τις ροές του προγράμματος ανάγνωσης (Aggregator) του RSS"
+
+#. Default: What is an Aggregator
+msgid "info_whatis_aggregator"
+msgstr "Τι είναι το πρόγραμμα ανάγνωσης (Aggregator)"
+
+#. Default: Copy the URL/shortcut that corresponds to the topic that interests
+#. you.
+#: src/osha/theme/browser/templates/rssfeeds.pt:26
+msgid "help_use_aggregator_step1"
+msgstr ""
+"Αντιγράψτε τη διεύθυνση URL ή τη συντόμευση (shortcut) που αντιστοιχεί στο θέμα που σας ενδιαφέρει."
+
+#. Default: Paste the URL into your reader.
+#: src/osha/theme/browser/templates/rssfeeds.pt:28
+msgid "help_use_aggregator_step2"
+msgstr "Επικολλήστε τη διεύθυνση URL στο πρόγραμμα ανάγνωσης."
+
+#. Default: If you use an online RSS service, use a shortcut:
+#: src/osha/theme/browser/templates/rssfeeds.pt:32
+msgid "help_use_online_service"
+msgstr "Εάν έχετε επιγραμμική (online) υπηρεσία RSS, χρησιμοποιήστε συντόμευση:"
+
+#. Default: Click on the shortcut button for your service.
+#: src/osha/theme/browser/templates/rssfeeds.pt:36
+msgid "help_use_online_service_step1"
+msgstr "Κάντε κλικ στη συντόμευση που αντιστοιχεί στην υπηρεσία σας."
+
+#. Default: Click the "Add to Any" button, if your service is not in the list.
+#: src/osha/theme/browser/templates/rssfeeds.pt:38
+msgid "help_use_online_service_step2"
+msgstr "μσγστρ “Κάντε κλικ στο τετραγωνίδιο ”Προσθήκη οπουδήποτε (Add to any)”, εάν η υπηρεσία σας δεν υπάρχει στον πίνακα."
+
+#. Default: Note
+#: src/osha/theme/browser/templates/rssfeeds.pt:45
+msgid "label_note"
+msgstr "Προσοχή"
+
+#. Default: The current language is ${language}. If you want to subscribe to
+#. feeds in another
+#. language, change the language of this page first.
+#: src/osha/theme/browser/templates/rssfeeds.pt:46
+msgid "note_language"
+msgstr ""
+"H τρέχουσα γλώσσα είναι τα ${language}. Εάν επιθυμείτε να εγγραφείτε σε ροές σε"
+"άλλη γλώσσα, αλλάξτε πρώτα τη γλώσσα αυτής της σελίδας."
+
+#. Default: General Information
+#: src/osha/theme/browser/templates/rssfeeds.pt:53
+msgid "heading_general_information"
+msgstr "Γενικές πληροφορίες"
+
+#. Default: Latest
+#: src/osha/theme/browser/templates/rssfeeds.pt:62
+msgid "label_latest"
+msgstr "Τελευταία"
+
+#. Default: Shortcut
+#: src/osha/theme/browser/templates/rssfeeds.pt:119
+#: src/osha/theme/browser/templates/rssfeeds.pt:92
+#: src/osha/theme/browser/templates/rssfeeds.pt:71
+msgid "label_shortcut"
+msgstr "Συντόμευση"
+
+#. Default: Themes (including related news, events, publications and press
+#. releases)
+#: src/osha/theme/browser/templates/rssfeeds.pt:101
+msgid "heading_themes"
+msgstr ""
+"Θέματα (περιλαμβάνονται σχετικές ειδήσεις, εκδηλώσεις, εκδόσεις και δελτία Τύπου)"
+
+#. Default: Theme
+#: src/osha/theme/browser/templates/rssfeeds.pt:110
+msgid "label_theme"
+msgstr "Θέμα"

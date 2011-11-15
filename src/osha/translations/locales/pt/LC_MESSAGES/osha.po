@@ -10434,11 +10434,6 @@ msgstr "Data a confirmar"
 msgid "abbr_date_to_be_confirmed"
 msgstr "A confirmar"
 
-
-
-
-
-
 #. Default: FAQs
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "FAQs"
@@ -10473,5 +10468,105 @@ msgstr "Se não conseguir encontrar a resposta à sua dúvida, por favor, ${labe
 msgid "label_contact_us"
 msgstr "contacte-nos"
 
+#. Default: Agency RSS Feeds
+#: src/osha/theme/browser/templates/rssfeeds.pt:16
+msgid "heading_agency_rss"
+msgstr "Feeds RSS da Agência"
 
+#. Default: This page contains an overview over the RSS (${link}) feeds
+#. currently
+#. available at osha.europa.eu. Subscribe to our RSS (Really Simple
+#. Syndication)
+#. feeds to get information delivered directly to your desktop!
+#: src/osha/theme/browser/templates/rssfeeds.pt:18
+msgid "description_agency_rss"
+msgstr ""
+"Esta página contém uma síntese dos feeds RSS (${link}) actualmente "
+"disponíveis em osha.europa.eu. Subscreva os nossos feeds RSS (Really Simple Syndication) para receber a informação directamente no seu computador!"
+
+#. Default: What is RSS?
+#: src/osha/theme/portlets/collection.pt:52
+#: src/osha/theme/portlets/oshevents.pt:67
+#: src/osha/theme/portlets/oshnews.pt:48
+msgid "info_whatis_rss"
+msgstr "O que é um RSS?"
+
+#. Default: To view one of the feeds in your RSS Aggregator
+#: src/osha/theme/browser/templates/rssfeeds.pt:22
+msgid "help_use_aggregator"
+msgstr "Para visualizar um dos feeds no seu agregador RSS"
+
+#. Default: What is an Aggregator
+msgid "info_whatis_aggregator"
+msgstr "O que é um agregador"
+
+#. Default: Copy the URL/shortcut that corresponds to the topic that interests
+#. you.
+#: src/osha/theme/browser/templates/rssfeeds.pt:26
+msgid "help_use_aggregator_step1"
+msgstr ""
+"Copie o URL/atalho correspondente ao tema que lhe interessa."
+
+#. Default: Paste the URL into your reader.
+#: src/osha/theme/browser/templates/rssfeeds.pt:28
+msgid "help_use_aggregator_step2"
+msgstr "Cole o URL no seu leitor RSS."
+
+#. Default: If you use an online RSS service, use a shortcut:
+#: src/osha/theme/browser/templates/rssfeeds.pt:32
+msgid "help_use_online_service"
+msgstr "Caso utilize um serviço RSS em linha, utilize um atalho:"
+
+#. Default: Click on the shortcut button for your service.
+#: src/osha/theme/browser/templates/rssfeeds.pt:36
+msgid "help_use_online_service_step1"
+msgstr "Clique no botão de atalho para o seu serviço."
+
+#. Default: Click the "Add to Any" button, if your service is not in the list.
+#: src/osha/theme/browser/templates/rssfeeds.pt:38
+msgid "help_use_online_service_step2"
+msgstr "Clique no botão \"Add to Any\", se o seu serviço não se encontrar na lista."
+
+#. Default: Note
+#: src/osha/theme/browser/templates/rssfeeds.pt:45
+msgid "label_note"
+msgstr "Nota"
+
+#. Default: The current language is ${language}. If you want to subscribe to
+#. feeds in another
+#. language, change the language of this page first.
+#: src/osha/theme/browser/templates/rssfeeds.pt:46
+msgid "note_language"
+msgstr ""
+"A língua actualmente seleccionada é ${language}. Se pretender subscrever os feeds em "
+"outra língua, altere a língua desta página."
+
+#. Default: General Information
+#: src/osha/theme/browser/templates/rssfeeds.pt:53
+msgid "heading_general_information"
+msgstr "Informação geral"
+
+#. Default: Latest
+#: src/osha/theme/browser/templates/rssfeeds.pt:62
+msgid "label_latest"
+msgstr "Últimas"
+
+#. Default: Shortcut
+#: src/osha/theme/browser/templates/rssfeeds.pt:119
+#: src/osha/theme/browser/templates/rssfeeds.pt:92
+#: src/osha/theme/browser/templates/rssfeeds.pt:71
+msgid "label_shortcut"
+msgstr "Atalho"
+
+#. Default: Themes (including related news, events, publications and press
+#. releases)
+#: src/osha/theme/browser/templates/rssfeeds.pt:101
+msgid "heading_themes"
+msgstr ""
+"Temas (incluindo notícias, eventos, publicações e comunicados de imprensa)"
+
+#. Default: Theme
+#: src/osha/theme/browser/templates/rssfeeds.pt:110
+msgid "label_theme"
+msgstr "Temas"
 

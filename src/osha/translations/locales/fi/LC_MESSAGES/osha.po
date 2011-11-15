@@ -10431,12 +10431,6 @@ msgstr "Päivämäärä vahvistetaan myöhemmin"
 msgid "abbr_date_to_be_confirmed"
 msgstr "Vahvistetaan myöhemmin"
 
-
-
-
-
-
-
 #. Default: FAQs
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "FAQs"
@@ -10471,6 +10465,107 @@ msgstr "Jos et löydä vastausta kysymykseesi, ole hyvä ja, ${label_contact_us}
 msgid "label_contact_us"
 msgstr "ota yhteyttä"
 
+#. Default: Agency RSS Feeds
+#: src/osha/theme/browser/templates/rssfeeds.pt:16
+msgid "heading_agency_rss"
+msgstr "Viraston RSS-syötteet"
 
+#. Default: This page contains an overview over the RSS (${link}) feeds
+#. currently
+#. available at osha.europa.eu. Subscribe to our RSS (Really Simple
+#. Syndication)
+#. feeds to get information delivered directly to your desktop!
+#: src/osha/theme/browser/templates/rssfeeds.pt:18
+msgid "description_agency_rss"
+msgstr ""
+"Sivulle on koottu  RSS (${link})-syötteet, "
+"joita tällä hetkellä voi tilata osoitteesta osha.europa.eu. Tilaa meiltä RSS (Really Simple "
+"Syndication)-syötteitä  saadaksesi tietoa suoraan tietokoneellesi!"
+
+#. Default: What is RSS?
+#: src/osha/theme/portlets/collection.pt:52
+#: src/osha/theme/portlets/oshevents.pt:67
+#: src/osha/theme/portlets/oshnews.pt:48
+msgid "info_whatis_rss"
+msgstr "Mitä  RSS on?"
+
+#. Default: To view one of the feeds in your RSS Aggregator
+#: src/osha/theme/browser/templates/rssfeeds.pt:22
+msgid "help_use_aggregator"
+msgstr "Näin voit avata yhden syötteen RSS-lukijaohjelmassasi"
+
+#. Default: What is an Aggregator
+msgid "info_whatis_aggregator"
+msgstr "Mitä lukijaohjelma on?"
+
+#. Default: Copy the URL/shortcut that corresponds to the topic that interests
+#. you.
+#: src/osha/theme/browser/templates/rssfeeds.pt:26
+msgid "help_use_aggregator_step1"
+msgstr ""
+"Kopoi sinua kiinnostavan aiheen URL/oikotie."
+
+#. Default: Paste the URL into your reader.
+#: src/osha/theme/browser/templates/rssfeeds.pt:28
+msgid "help_use_aggregator_step2"
+msgstr "Liimaa URL-resurssipaikannin lukijaasi."
+
+#. Default: If you use an online RSS service, use a shortcut:
+#: src/osha/theme/browser/templates/rssfeeds.pt:32
+msgid "help_use_online_service"
+msgstr "Valitse oikotie, jos käytät RSS-verkkopalvelua:"
+
+#. Default: Click on the shortcut button for your service.
+#: src/osha/theme/browser/templates/rssfeeds.pt:36
+msgid "help_use_online_service_step1"
+msgstr "Napsauta valitsemasi palvelun oikonäppäintä."
+
+#. Default: Click the "Add to Any" button, if your service is not in the list.
+#: src/osha/theme/browser/templates/rssfeeds.pt:38
+msgid "help_use_online_service_step2"
+msgstr "Napsauta \"Add to Any\" -näppäintä, jos haluamaasi palvelua ei ole luettelossa."
+
+#. Default: Note
+#: src/osha/theme/browser/templates/rssfeeds.pt:45
+msgid "label_note"
+msgstr "Huom."
+
+#. Default: The current language is ${language}. If you want to subscribe to
+#. feeds in another
+#. language, change the language of this page first.
+#: src/osha/theme/browser/templates/rssfeeds.pt:46
+msgid "note_language"
+msgstr ""
+"Nyt käytössä oleva kieli ${language}. Jos haluat tilata muunkielisiä syötteitä, "
+" sinun on ensin vaihdettava tämän sivun kieli."
+
+#. Default: General Information
+#: src/osha/theme/browser/templates/rssfeeds.pt:53
+msgid "heading_general_information"
+msgstr "Yleistä tietoa"
+
+#. Default: Latest
+#: src/osha/theme/browser/templates/rssfeeds.pt:62
+msgid "label_latest"
+msgstr "Uusimmat"
+
+#. Default: Shortcut
+#: src/osha/theme/browser/templates/rssfeeds.pt:119
+#: src/osha/theme/browser/templates/rssfeeds.pt:92
+#: src/osha/theme/browser/templates/rssfeeds.pt:71
+msgid "label_shortcut"
+msgstr "Oikotie"
+
+#. Default: Themes (including related news, events, publications and press
+#. releases)
+#: src/osha/theme/browser/templates/rssfeeds.pt:101
+msgid "heading_themes"
+msgstr ""
+"Aiheet (mukaan lukien asiaan liittyvät uutiset, tapahtumat, julkaisut ja lehdistötiedotteet)"
+
+#. Default: Theme
+#: src/osha/theme/browser/templates/rssfeeds.pt:110
+msgid "label_theme"
+msgstr "Aihe"
 
 

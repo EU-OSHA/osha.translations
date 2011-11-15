@@ -10401,11 +10401,6 @@ msgstr "Data dar nepatvirtinta"
 msgid "abbr_date_to_be_confirmed"
 msgstr "dar nepatvirtinta"
 
-
-
-
-
-
 #. Default: FAQs
 #: osha/theme/browser/templates/osha_help_center_view.pt
 msgid "FAQs"
@@ -10440,5 +10435,106 @@ msgstr "Jei neradote atsakymo į savo klausimą, prašome, ${label_contact_us}."
 msgid "label_contact_us"
 msgstr "susisiekti su mumis"
 
+#. Default: Agency RSS Feeds
+#: src/osha/theme/browser/templates/rssfeeds.pt:16
+msgid "heading_agency_rss"
+msgstr "Agentūros RSS pranešimai"
 
+#. Default: This page contains an overview over the RSS (${link}) feeds
+#. currently
+#. available at osha.europa.eu. Subscribe to our RSS (Really Simple
+#. Syndication)
+#. feeds to get information delivered directly to your desktop!
+#: src/osha/theme/browser/templates/rssfeeds.pt:18
+msgid "description_agency_rss"
+msgstr ""
+"Šiame puslapyje pateikiama šiuo metu tinklavietėje"
+"osha.europa.eu skelbiamų RSS pranešimų apžvalga (${link}). Užsisakykite mūsų RSS (angl. Really Simple"
+"Syndication) pranešimus ir informacija bus teikiama tiesiai į Jūsų kompiuterio darbalaukį!"
+
+#. Default: What is RSS?
+#: src/osha/theme/portlets/collection.pt:52
+#: src/osha/theme/portlets/oshevents.pt:67
+#: src/osha/theme/portlets/oshnews.pt:48
+msgid "info_whatis_rss"
+msgstr "RSS – kas tai?"
+
+#. Default: To view one of the feeds in your RSS Aggregator
+#: src/osha/theme/browser/templates/rssfeeds.pt:22
+msgid "help_use_aggregator"
+msgstr "Skaityti pranešimą naudojantis RSS skaitytuvu"
+
+#. Default: What is an Aggregator
+msgid "info_whatis_aggregator"
+msgstr "RSS skaitytuvas – kas tai?"
+
+#. Default: Copy the URL/shortcut that corresponds to the topic that interests
+#. you.
+#: src/osha/theme/browser/templates/rssfeeds.pt:26
+msgid "help_use_aggregator_step1"
+msgstr ""
+"Nukopijuokite Jus dominančio straipsnio universalųjį adresą (URL) arba nuorodą."
+
+#. Default: Paste the URL into your reader.
+#: src/osha/theme/browser/templates/rssfeeds.pt:28
+msgid "help_use_aggregator_step2"
+msgstr "Įdėkite šį URL adresą į skaitytuvą."
+
+#. Default: If you use an online RSS service, use a shortcut:
+#: src/osha/theme/browser/templates/rssfeeds.pt:32
+msgid "help_use_online_service"
+msgstr "Jei naudojatės internetine RSS paslauga, pateikite nuorodą:"
+
+#. Default: Click on the shortcut button for your service.
+#: src/osha/theme/browser/templates/rssfeeds.pt:36
+msgid "help_use_online_service_step1"
+msgstr "Spustelėkite savo paslaugos nuorodą."
+
+#. Default: Click the "Add to Any" button, if your service is not in the list.
+#: src/osha/theme/browser/templates/rssfeeds.pt:38
+msgid "help_use_online_service_step2"
+msgstr "Jei sąraše nerandate savo paslaugos, spustelėkite mygtuką \"Add to Any\"."
+
+#. Default: Note
+#: src/osha/theme/browser/templates/rssfeeds.pt:45
+msgid "label_note"
+msgstr "Pastaba"
+
+#. Default: The current language is ${language}. If you want to subscribe to
+#. feeds in another
+#. language, change the language of this page first.
+#: src/osha/theme/browser/templates/rssfeeds.pt:46
+msgid "note_language"
+msgstr ""
+"Dabar informacija pateikiama ${language} kalba. Jei norite užsisakyti pranešimus"
+"kita kalba, pirma pakeiskite šio puslapio kalbą."
+
+#. Default: General Information
+#: src/osha/theme/browser/templates/rssfeeds.pt:53
+msgid "heading_general_information"
+msgstr "Bendra informacija"
+
+#. Default: Latest
+#: src/osha/theme/browser/templates/rssfeeds.pt:62
+msgid "label_latest"
+msgstr "Naujausia informacija"
+
+#. Default: Shortcut
+#: src/osha/theme/browser/templates/rssfeeds.pt:119
+#: src/osha/theme/browser/templates/rssfeeds.pt:92
+#: src/osha/theme/browser/templates/rssfeeds.pt:71
+msgid "label_shortcut"
+msgstr "Nuoroda"
+
+#. Default: Themes (including related news, events, publications and press
+#. releases)
+#: src/osha/theme/browser/templates/rssfeeds.pt:101
+msgid "heading_themes"
+msgstr ""
+"Temos (taip pat aktualios naujienos, renginiai, publikacijos ir pranešimai spaudai)"
+
+#. Default: Theme
+#: src/osha/theme/browser/templates/rssfeeds.pt:110
+msgid "label_theme"
+msgstr "Temos"
 

@@ -4,8 +4,8 @@ osha.translations Changelog
 1.0.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- 2 new categories for next campaign #3558 [thomasw]
+- Translations for RSS feeds page #2081 [thomasw] 
 
 1.0.7 (2011-11-09)
 ------------------
