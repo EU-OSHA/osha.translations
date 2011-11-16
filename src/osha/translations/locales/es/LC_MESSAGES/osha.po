@@ -9752,7 +9752,7 @@ msgstr "Para ver uno de los feeds de su Agregador RSS"
 
 #. Default: What is an Aggregator
 msgid "info_whatis_aggregator"
-msgstr "¿Qué es un Agregador"
+msgstr "¿Qué es un Agregador?"
 
 #. Default: Copy the URL/shortcut that corresponds to the topic that interests
 #. you.
