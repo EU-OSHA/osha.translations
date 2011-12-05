@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-1.0.8 (unreleased)
+1.0.8 (2011-12-05)
 ------------------
 
 - 2 new categories for next campaign #3558 [thomasw]
