@@ -4,8 +4,7 @@ osha.translations Changelog
 1.0.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- change number of languages in the OSHmail page #4089 [thomasw]
 
 1.0.8 (2011-12-05)
 ------------------

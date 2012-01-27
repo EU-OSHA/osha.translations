@@ -9741,7 +9741,7 @@ msgid "oshmail_list_6"
 msgstr "aktualizáciách právnych predpisov EÚ,"
 
 msgid "oshmail_list_7"
-msgstr "a to všetko v 22 jazykoch ..."
+msgstr "a to všetko v 24 jazykoch ..."
 
 msgid "label_latest_issue"
 msgstr "Najnovšie vydanie"

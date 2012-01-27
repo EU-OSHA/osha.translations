@@ -1460,7 +1460,7 @@ msgid "oshmail_list_6"
 msgstr "updates on EU legislation;"
 
 msgid "oshmail_list_7"
-msgstr "in 22 languages..."
+msgstr "in 24 languages..."
 
 msgid "label_latest_issue"
 msgstr "Latest issue"

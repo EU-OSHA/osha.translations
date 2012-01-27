@@ -9782,7 +9782,7 @@ msgid "oshmail_list_6"
 msgstr "nova legislação comunitária;"
 
 msgid "oshmail_list_7"
-msgstr "em 22 línguas..."
+msgstr "em 24 línguas..."
 
 msgid "label_latest_issue"
 msgstr "Última edição"

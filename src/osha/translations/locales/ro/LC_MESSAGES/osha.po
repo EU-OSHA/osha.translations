@@ -9128,7 +9128,7 @@ msgid "oshmail_list_6"
 msgstr "noutăţi privind legislaţia UE;"
 
 msgid "oshmail_list_7"
-msgstr "în 22 de limbi..."
+msgstr "în 24 de limbi..."
 
 msgid "label_latest_issue"
 msgstr "Ultimul număr"

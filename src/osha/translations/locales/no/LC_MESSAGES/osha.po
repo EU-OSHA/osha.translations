@@ -1476,7 +1476,7 @@ msgid "oshmail_list_6"
 msgstr "oppdateringer om EUs regelverk,"
 
 msgid "oshmail_list_7"
-msgstr "på 22 språk..."
+msgstr "på 24 språk..."
 
 msgid "label_latest_issue"
 msgstr "Siste utgave"

@@ -9752,7 +9752,7 @@ msgid "oshmail_list_6"
 msgstr "opdateringer om EU-lovgivning"
 
 msgid "oshmail_list_7"
-msgstr "på 22 sprog ..."
+msgstr "på 24 sprog ..."
 
 msgid "label_latest_issue"
 msgstr "sidste nummer"

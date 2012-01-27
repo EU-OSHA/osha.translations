@@ -9271,7 +9271,7 @@ msgid "oshmail_list_6"
 msgstr "aktuální informace o právních předpisech EU,"
 
 msgid "oshmail_list_7"
-msgstr "a to ve 22 jazycích ..."
+msgstr "a to ve 24 jazycích ..."
 
 msgid "label_latest_issue"
 msgstr "Poslední číslo"

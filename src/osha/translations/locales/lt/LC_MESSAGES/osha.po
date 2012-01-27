@@ -9743,7 +9743,7 @@ msgid "oshmail_list_6"
 msgstr "naujausi ES teisės aktai;"
 
 msgid "oshmail_list_7"
-msgstr "visa tai pateikiama 22 kalbomis."
+msgstr "visa tai pateikiama 24 kalbomis."
 
 msgid "label_latest_issue"
 msgstr "Paskutinis numeris"

@@ -1460,7 +1460,7 @@ msgid "oshmail_list_6"
 msgstr "- uppfærsla á ESB löggjöf;"
 
 msgid "oshmail_list_7"
-msgstr "á 22 tungumál"
+msgstr "á 24 tungumál"
 
 msgid "label_latest_issue"
 msgstr "Nýjasta útgáfa"

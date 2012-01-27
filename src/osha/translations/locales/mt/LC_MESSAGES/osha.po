@@ -9732,7 +9732,7 @@ msgid "oshmail_list_6"
 msgstr "l-aġġornamenti dwar il-leġiżlazzjoni tal-UE;"
 
 msgid "oshmail_list_7"
-msgstr "kollox fi 22 lingwa ..."
+msgstr "kollox fi 24 lingwa ..."
 
 msgid "label_latest_issue"
 msgstr "L-aħħar ħarġa"

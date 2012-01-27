@@ -9764,7 +9764,7 @@ msgid "oshmail_list_6"
 msgstr "posodobitvah zakonodaje EU;"
 
 msgid "oshmail_list_7"
-msgstr "v 22 jezikih..."
+msgstr "v 24 jezikih..."
 
 msgid "label_latest_issue"
 msgstr "Zadnja številka"

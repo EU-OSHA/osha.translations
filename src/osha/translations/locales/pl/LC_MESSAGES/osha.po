@@ -9750,7 +9750,7 @@ msgid "oshmail_list_6"
 msgstr "najnowsze zmiany w prawodawstwie UE;"
 
 msgid "oshmail_list_7"
-msgstr "w 22 językach ..."
+msgstr "w 24 językach ..."
 
 msgid "label_latest_issue"
 msgstr "Najnowsze wydanie"

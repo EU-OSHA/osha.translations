@@ -9575,7 +9575,7 @@ msgid "oshmail_list_6"
 msgstr "актуализации на законодателството на ЕС;"
 
 msgid "oshmail_list_7"
-msgstr "на 22 езика..."
+msgstr "на 24 езика..."
 
 msgid "label_latest_issue"
 msgstr "Последен брой"

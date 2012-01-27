@@ -9980,7 +9980,7 @@ msgid "oshmail_list_6"
 msgstr "updates over EU-wetgeving;"
 
 msgid "oshmail_list_7"
-msgstr "in 22 talen..."
+msgstr "in 24 talen..."
 
 msgid "label_latest_issue"
 msgstr "laatste uitgave"

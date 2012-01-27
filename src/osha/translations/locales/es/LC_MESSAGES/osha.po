@@ -9031,7 +9031,7 @@ msgid "oshmail_list_6"
 msgstr "actualizaciones de la legislación comunitaria;"
 
 msgid "oshmail_list_7"
-msgstr "en 22 idiomas..."
+msgstr "en 24 idiomas..."
 
 msgid "label_latest_issue"
 msgstr "Última edición"

@@ -9582,7 +9582,7 @@ msgid "oshmail_list_6"
 msgstr "le informazioni sulle novità legislative nell'UE;"
 
 msgid "oshmail_list_7"
-msgstr "il tutto in 22 lingue ..."
+msgstr "il tutto in 24 lingue ..."
 
 msgid "label_latest_issue"
 msgstr "Ultimo numero"

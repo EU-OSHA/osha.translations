@@ -9750,7 +9750,7 @@ msgid "oshmail_list_6"
 msgstr "ενημερώσεις σε θέματα κοινοτικής νομοθεσίας·"
 
 msgid "oshmail_list_7"
-msgstr "σε 22 γλώσσες ..."
+msgstr "σε 24 γλώσσες ..."
 
 msgid "label_latest_issue"
 msgstr "Τελευταίο θέμα"

@@ -9657,7 +9657,7 @@ msgid "oshmail_list_6"
 msgstr "Aktuelles zum EU-Recht"
 
 msgid "oshmail_list_7"
-msgstr "in 22 Sprachen ..."
+msgstr "in 24 Sprachen ..."
 
 msgid "label_latest_issue"
 msgstr "Neueste Ausgabe"

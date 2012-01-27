@@ -9743,7 +9743,7 @@ msgid "oshmail_list_6"
 msgstr "az uniós jogszabályokkal kapcsolatos friss információkról;"
 
 msgid "oshmail_list_7"
-msgstr "22 nyelven ..."
+msgstr "24 nyelven ..."
 
 msgid "label_latest_issue"
 msgstr "Legfrissebb szám"

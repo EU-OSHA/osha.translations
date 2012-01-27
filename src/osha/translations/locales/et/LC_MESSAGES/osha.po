@@ -9748,7 +9748,7 @@ msgid "oshmail_list_6"
 msgstr "muudatused Euroopa Liidu õigusaktides;"
 
 msgid "oshmail_list_7"
-msgstr "ja seda kõike 22 keeles."
+msgstr "ja seda kõike 24 keeles."
 
 msgid "label_latest_issue"
 msgstr "Viimane väljaanne"

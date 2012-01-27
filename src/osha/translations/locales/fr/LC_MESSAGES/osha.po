@@ -9999,7 +9999,7 @@ msgid "oshmail_list_6"
 msgstr "les mises à jour sur la législation européenne;"
 
 msgid "oshmail_list_7"
-msgstr "dans 22 langues ..."
+msgstr "dans 24 langues ..."
 
 msgid "label_latest_issue"
 msgstr "Dernier numéro"
