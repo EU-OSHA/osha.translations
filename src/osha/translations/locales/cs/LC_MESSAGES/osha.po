@@ -10061,3 +10061,6 @@ msgstr ""
 #: src/osha/theme/browser/templates/rssfeeds.pt:110
 msgid "label_theme"
 msgstr "Téma"
+
+msgid "eu_osha_in_the_media"
+msgstr "EU-OSHA in the media"

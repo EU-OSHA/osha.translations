@@ -4,8 +4,7 @@ osha.translations Changelog
 1.0.10 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Added label for "EU-OSHA in the media" #4222 [thomasw]
 
 1.0.9 (2012-02-02)
 ------------------

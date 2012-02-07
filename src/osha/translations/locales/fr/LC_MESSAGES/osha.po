@@ -10809,4 +10809,6 @@ msgstr ""
 msgid "label_theme"
 msgstr "Thème"
 
+msgid "eu_osha_in_the_media"
+msgstr "EU-OSHA in the media"
 
