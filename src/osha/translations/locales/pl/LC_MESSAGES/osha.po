@@ -10194,6 +10194,35 @@ msgstr "Napo a... płuca w pracy"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Narażenie na dym tytoniowy jest niekorzystne zarówno dla zdrowia osób palących, jak i osób niepalących. Może powodować poważne problemy, jak choroby układu krążenia i układu oddechowego. Może ono także prowadzić do zgonów w związku z rakiem (zwłaszcza rakiem płuc), chorobą niedokrwienną serca lub udarem. Jednakże tysiące pracowników jest wciąż narażonych na dym tytoniowy w miejscu pracy. W tym krótkim filmie Napo przedstawia swój wyjątkowy wkład w walkę na rzecz miejsc pracy wolnych od dymu tytoniowego."
 
+
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo w ....Partnerstwo dla prewencji"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Partnerstwo dla prewencji"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Mniej teorii, więcej praktyki"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Diabeł tkwi w szczegółach"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "I kto jest tu mądry?"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Podziel się wiedzą"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Bezpieczeństwo popłaca"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "A teraz wszyscy razem"
+
 ####
 # Alertservice
 

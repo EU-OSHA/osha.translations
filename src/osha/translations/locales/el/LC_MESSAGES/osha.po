@@ -10194,6 +10194,35 @@ msgstr "Ο Napo στο… «Οι πνεύμονες στην εργασία»"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Η έκθεση στον καπνό του τσιγάρου είναι επιβλαβής για την υγεία τόσο των καπνιστών όσο και των μη καπνιστών. Μπορεί να προκαλέσει σοβαρά προβλήματα όπως καρδιαγγειακές και αναπνευστικές παθήσεις. Μπορεί να αποτελέσει αιτία θανάτου από διάφορες μορφές καρκίνου, στεφανιαία νόσο ή εγκεφαλικό. Ωστόσο, χιλιάδες εργαζόμενοι εξακολουθούν να εκτίθενται στον καπνό του τσιγάρου στον χώρο εργασίας τους. Σε αυτό το σύντομο κλιπ, ο Napo συνεισφέρει με τον δικό του μοναδικό τρόπο στην προσπάθεια απαλλαγής από τον καπνό στον χώρο εργασίας."
 
+
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Ο NAPO στο… Πρόληψη με την συμμετοχή όλων"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Πρόληψη με την συμμετοχή όλων"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Άλλο στην θεωρία άλλο στην πράξη"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Ιεράρχησε τον κίνδυνο"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Η συμβολή του εργαζόμενου"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Ενημέρωσε για το πρόβλημα"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Η ασφάλεια συμφέρει"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Ολοι μαζί λοιπόν"
+
 ####
 # Alertservice
 

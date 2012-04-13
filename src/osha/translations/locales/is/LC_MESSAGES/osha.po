@@ -2165,6 +2165,34 @@ msgstr "Napo í ... lungu í vinnunni"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Nálægð við tóbaksreyk er skaðleg heilsu þess sem reykir og þess sem reykir ekki. Tóbaksreykur getur valdið alvarlegum vandamálum, svo sem hjarta- og æðasjúkdómum og öndunarfærasjúkdómum. Hann getur leitt til dauða af völdum krabbameins, kransæðasjúkdóma eða heilablóðfalls. Samt sem áður eru þúsundir starfsmanna í návígi við tóbaksreyk á vinnustað sínum. Í þessu stutta myndbroti, leggur Napo sitt af mörkunum fyrir málstað reyklausra vinnustaða."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napa í ..... Allir vinna"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Vinnum saman - allir vinna"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Slæmar fréttir"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Smáatriðin"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Vinnum úr málunum"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Láta vita"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Öryggið borgar sig"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Allir saman nú"
+
 #. Default: Date to be confirmed
 #: src/osha/theme/browser/jbot/p4a.calendar.browser.events.pt
 msgid "label_date_to_be_confirmed"

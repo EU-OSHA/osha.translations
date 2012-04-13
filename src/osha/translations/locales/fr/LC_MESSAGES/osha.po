@@ -10459,6 +10459,34 @@ msgstr "Napo dans … les poumons au travail"
 msgid "description_napo-016-lungs-at-work"
 msgstr "L'exposition à la fumée de tabac est néfaste tant pour la santé des fumeurs que pour celle des non-fumeurs. Elle peut entraîner de graves atteintes telles que des maladies cardiovasculaires et respiratoires. Elle peut en outre avoir des conséquences fatales dues à des cancers, à des coronaropathies ou à des accidents vasculaires cérébraux. Cependant, des milliers de travailleurs sont encore exposés à la fumée de tabac sur leur lieu de travail. Dans cette courte vidéo, Napo apporte, à sa façon, sa contribution à la cause des lieux de travail sans fumée."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo dans... Travailler ensemble !"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Travailler ensemble !"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Mauvaise nouvelle !"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Le sens du détail !"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Des solutions de terrain !"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Des mots pour prévenir !"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Terrain d’entente !"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Vote unanime !"
+
 ####
 # Alertservice
 

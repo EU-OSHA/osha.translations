@@ -479,3 +479,32 @@ msgstr "Напо в.... легкие на работе."
 msgid "description_napo-016-lungs-at-work"
 msgstr "Воздействие табачного дыма одинаково плохо как для курящих так и для некурящих. Оно может вызвать такие серьезные проблемы как сердечно-сосудистые и респираторные заболевания. Оно может привести к смерти по причине рака, ишемической болезни сердца или инсульта. В этом коротком клипе, Напо делает свой собственный уникальный вклад в дело создания и продвижения рабочих мест, свободных от курения и табачного дыма."
 
+
+# NAPO 17 "Working Together"
+# RU translations are missing
+msgid "heading-napo-017-working-together"
+msgstr "Napo in... Working together"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Working together"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Bad news"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "The detail"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "We can work it out"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Speak up"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Safety pays"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "All together now"

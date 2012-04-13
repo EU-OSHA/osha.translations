@@ -10188,6 +10188,34 @@ msgstr "Napo ... saugokime plaučius darbe"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Tabako dūmai kenkia ir rūkančiųjų, ir nerūkančiųjų sveikatai. Jie gali sukelti sunkių sveikatos sutrikimų, kaip antai širdies ir kraujagyslių ligas ar kvėpavimo takų ligas. Be to, sukeldami vėžį, širdies arterijų ligą ar insultą, jie gali lemti žmogaus mirtį. Tačiau tūkstančiai darbuotojų vis dar kenčia žalingą tabako dūmų poveikį savo darbo vietoje. Šiame trumpame vaizdo siužete parodoma, ką daro Napas, kad darbo vietose netektų kvėpuoti tabako dūmais."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo ir... Bendromis jėgomis"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Bendromis jėgomis"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Blogos naujienos"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Smulkmena"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Mes galime tai išspręsti"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Kalbėkime atvirai"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Sauga apsimoka"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Dabar visi kartu"
+
 #####
 # Alertservice
 

@@ -8584,3 +8584,31 @@ msgstr "Napo... Çalışma ortamı ve Akciğerler"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Sigara dumanına maruz kalma, hem sigara içenler hem de içmeyenlerin sağlığı için oldukça zararlıdır. Bu maruziyet, kalp damar hastalıkları ve solunum sistemi ile ilgili hastalıklar gibi oldukça ciddi problemlerin yanısıra kanser ve koroner kalp hastalığına bağlı ölümlere de yol açabilir. Binlerce çalışan, halen işyerlerinde sigara dumanına maruz kalmaktadır. Bu kısa klip'te, sigarasız işyerleri için Napo'nun kendi değerli katkılarını bulacaksınız."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo… İşbirliği İçerisinde Çalışma !"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "İşbirliği İçerisinde Çalışma"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Kötü Haber"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Detaylar"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Sorunu Çözebiliriz"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Haberdar Et !"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "İş Güvenliği için Değer"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Şimdi Hep Birlikte"
+

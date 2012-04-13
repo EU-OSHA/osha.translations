@@ -10043,6 +10043,34 @@ msgstr "Napo in ... Lungs at work (I polmoni al lavoro)"
 msgid "description_napo-016-lungs-at-work"
 msgstr "L'esposizione al fumo di tabacco nuoce alla salute sia dei fumatori sia dei non fumatori: non soltanto può provocare gravi disturbi come malattie cardiovascolari e respiratorie, ma può anche causare la morte per tumori, coronaropatie o infarti. Ciononostante sono ancora migliaia i lavoratori che subiscono il fumo di tabacco sul luogo di lavoro. Con il videoclip che vi proponiamo anche Napo si schiera per liberare dal fumo gli ambienti di lavoro."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo in... Lavoriamo insieme"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Lavoriamo insieme"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Una cattiva immagine"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Il dettaglio"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Non coinvolgere funziona?"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Avverti!"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "La sicurezza conviene"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Alla fine…insieme!"
+
 ####
 # Alertservice
 

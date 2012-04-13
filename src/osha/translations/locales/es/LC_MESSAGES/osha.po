@@ -9475,6 +9475,34 @@ msgstr "Napo presenta ... los pulmones en el puesto de trabajo"
 msgid "description_napo-016-lungs-at-work"
 msgstr "La exposición al humo del tabaco es perjudicial para la salud de los fumadores y de los no fumadores. Puede causar problemas graves, como por ejemplo enfermedades cardiovasculares y respiratorias. Y puede provocar la muerte debido a un cáncer, una enfermedad cardíaca coronaria o un ictus. Sin embargo, miles de trabajadores siguen expuestos al humo del tabaco en el puesto de trabajo. En este breve videoclip, Napo ha aportado una contribución ejemplar a la causa de los lugares de trabajo sin humo."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo en … trabajando juntos"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Trabajando juntos"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Mala prensa"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Cuestión de prioridades"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "¡Las soluciones entre todos!"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "¡Informa!"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "La prevención es rentable"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "¡Ahora todos juntos!"
+
 ####
 # Alertservice
 

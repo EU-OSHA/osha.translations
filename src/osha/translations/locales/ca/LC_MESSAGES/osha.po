@@ -477,3 +477,31 @@ msgstr "En Napo presenta... els pulmons al lloc de treball"
 msgid "description_napo-016-lungs-at-work"
 msgstr "L’exposició al fum del tabac és perjudicial per a la salut dels fumadors i dels no fumadors. Pot causar problemes greus, com per exemple malalties cardiovasculars i respiratòries. I pot provocar la mort per un càncer, una malaltia cardíaca coronària o un ictus. Malgrat això, milers de treballadors segueixen exposats al fum al seu lloc de treball. Amb aquest breu videoclip, en Napo fa una gran contribució a la causa dels llocs de treball sense fum."
 
+# NAPO 17 "Working Together"
+# CA translations are missing
+msgid "heading-napo-017-working-together"
+msgstr "Napo in... Working together"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Working together"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Bad news"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "The detail"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "We can work it out"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Speak up"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Safety pays"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "All together now"

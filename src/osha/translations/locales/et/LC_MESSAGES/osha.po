@@ -10192,6 +10192,34 @@ msgstr "Napo ja...kopsud tööl"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Kokkupuude tubakasuitsuga kahjustab nii suitsetajate kui ka mittesuitsetajate tervist. Tubakasuits võib põjustada raskeid terviseprobleeme, näiteks südame-veresoonkonna ja hingamisteede haigusi. Tubakasuitsu tõttu võib surra, kui see tekitab vähkkasvajaid, südame isheemiatõbe ja insulti. Samas peavad tuhanded töötajad seda töökohas ikka sisse hingama. Selles lühikese videoklipis annab Napo oma ainulaadse panuse suitsuvaba töökoha loomisse."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "Napo ….Töötame üheskoos"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Töötame üheskoos"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Halvad uudised"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Detailid"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Sobivaim lahendus"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Ütle edasi"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Ohutus maksab"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Ja nüüd kõik üheskoos!"
+
 ####
 # Alertservice
 

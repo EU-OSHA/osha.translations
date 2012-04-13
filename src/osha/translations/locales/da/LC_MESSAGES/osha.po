@@ -10196,6 +10196,34 @@ msgstr "Napo i ... lunger på arbejde"
 msgid "description_napo-016-lungs-at-work"
 msgstr "Eksponering for tobaksrøg er skadelig for både rygeres og ikke-rygeres sundhed. Det kan forårsage alvorlige problemer som kardiovaskulære sygdomme og luftvejssygdomme. Det kan være være dødeligt som følge af kræft, koronarhjertesygdom eller slagtilfælde. Alligevel eksponeres tusindvis af arbejdstagere stadig for tobaksrøg på deres arbejdspladser. I dette korte klip giver Napo sit eget unikke bidrag til støtte for røgfrie arbejdspladser."
 
+# NAPO 17 "Working Together"
+msgid "heading-napo-017-working-together"
+msgstr "“Napo i …Samarbejde”"
+
+msgid "description-napo-017-working-together"
+msgstr ""
+
+msgid "heading-napo-017-working-together-episode-001-working-together"
+msgstr "Samarbejde"
+
+msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgstr "Dårlige nyheder"
+
+msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgstr "Sans for detaljen"
+
+msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Vi kan løse det sammen"
+
+msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgstr "Sig til og fra"
+
+msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgstr "Sikkerhed betaler sig"
+
+msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgstr "Alle i kor!"
+
 ####
 # Alertservice
 
