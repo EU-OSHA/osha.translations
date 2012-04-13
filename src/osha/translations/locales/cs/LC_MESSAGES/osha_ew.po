@@ -140,4 +140,11 @@ msgstr "na kampani Zdravé pracoviště týkající se bezpečné údržby na ob
 msgid "director_2010"
 msgstr "Ředitel Evropské agentury pro bezpečnost a ochranu zdraví při práci (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "na kampani Zdravé pracoviště týkající 2012-13."
 

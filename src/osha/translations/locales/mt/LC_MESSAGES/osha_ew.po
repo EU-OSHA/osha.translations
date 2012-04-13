@@ -140,3 +140,10 @@ msgid "director_2010"
 msgstr "Direttur tal-Aġenzija Ewropea għas-Saħħa u s-Sigurtà fuq il-Post tax-Xogħol (UE-OSHA)"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "il-Kampanja dwar is-saħħa fuq il-post tax-Xogħol, 2012-2013."
+

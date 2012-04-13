@@ -140,4 +140,11 @@ msgstr " à la campagne 2010-11 «Lieux de travail sains» dédiée à la mainte
 msgid "director_2010"
 msgstr "Directeur de l’Agence européenne pour la sécurité et la santé au travail (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr " à la campagne 2010-11 «Lieux de travail sains»."
 

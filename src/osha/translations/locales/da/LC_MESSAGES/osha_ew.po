@@ -140,3 +140,10 @@ msgid "director_2010"
 msgstr "Direktøren for Det Europæiske Arbejdsmiljøagentur (EU-OSHA)"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "deltager i kampagnen ”Et sikkert og sundt arbejdsmiljø” i 2012-13."
+

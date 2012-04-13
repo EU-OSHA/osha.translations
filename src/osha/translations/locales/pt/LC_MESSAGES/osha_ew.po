@@ -138,3 +138,11 @@ msgstr "na Campanha Locais de Trabalho Seguros e Saudáveis 2010-11 sobre trabal
 #: Director 
 msgid "director_2010"
 msgstr "Director da Agência Europeia para a Segurança e a Saúde no Trabalho (EU-OSHA)"
+
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "na Campanha Locais de Trabalho Seguros e Saudáveis 2012-13."
+

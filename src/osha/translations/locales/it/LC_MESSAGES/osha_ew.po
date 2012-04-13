@@ -140,4 +140,11 @@ msgstr "alla campagna Ambienti di lavoro sani sulla manutenzione sicura 2010-11.
 msgid "director_2010"
 msgstr "Direttore dell’Agenzia europea per la sicurezza e la salute sul lavoro (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "alla campagna Ambienti di lavoro sani 2012-13."
 

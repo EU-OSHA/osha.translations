@@ -141,3 +141,9 @@ msgstr "w kampanii „Zdrowe miejsce pracy” 2010-11 na rzecz bezpieczeństwa e
 msgid "director_2010"
 msgstr "Dyrektor Europejskiej Agencji Bezpieczeństwa i Zdrowia w Pracy(EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "w kampanii „Zdrowe miejsce pracy” 2012-13."

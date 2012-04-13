@@ -45,3 +45,10 @@ msgstr "i Et sikkert og godt arbeidsmiljø-kampanjen 2010-11 på Safe vedlikehol
 msgid "director_2010"
 msgstr "Direktør for det europeiske arbeidsmiljøorganet (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "i Et sikkert og godt arbeidsmiljø-kampanjen 2012-13."
+

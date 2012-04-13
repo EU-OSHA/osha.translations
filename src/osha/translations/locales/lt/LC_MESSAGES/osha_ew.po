@@ -140,4 +140,12 @@ msgstr "dalyvavo 2010–2011 m. Saugių darbo vietų kampanijoje saugios technin
 msgid "director_2010"
 msgstr "Europos darbuotojų saugos ir sveikatos agentūros(EU-OSHA) direktorius"
 
+###############################################
+# Translations for hw2012
+###############################################
+
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "dalyvavo 2012–2013 m. Saugių darbo vietų kampanijoje."
+
 

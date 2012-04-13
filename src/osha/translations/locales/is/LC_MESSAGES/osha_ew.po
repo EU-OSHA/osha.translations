@@ -45,3 +45,10 @@ msgstr "í Heilbrigði á vinnustað herferðinni 2010-11 um öryggi Viðhald."
 msgid "director_2010"
 msgstr "Forstöðumaður Vinnuverndarstofnun Evrópu (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "í Heilbrigði á vinnustað herferðinni 2012-13."
+

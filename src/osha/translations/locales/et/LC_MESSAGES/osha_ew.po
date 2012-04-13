@@ -140,3 +140,9 @@ msgid "director_2010"
 msgstr "Euroopa Tööohutuse ja Töötervishoiu Agentuuri direktor"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "Tervislikud töökohad 2012-2013."

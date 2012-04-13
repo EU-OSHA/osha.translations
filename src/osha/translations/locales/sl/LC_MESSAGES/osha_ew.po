@@ -139,3 +139,9 @@ msgstr "sodeloval/a pri kampanji Zdravo delovno okolje 2010-2011 za varnost pri 
 msgid "director_2010"
 msgstr "Direktor Evropske agencije za varnost in zdravje pri delu (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "sodeloval/a pri kampanji Zdravo delovno okolje 2012-2013."

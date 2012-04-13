@@ -140,3 +140,10 @@ msgstr "in the Healthy Workplaces Campaign 2010-11 on Safe Maintenance."
 msgid "director_2010"
 msgstr "Director of the European Agency for Safety and Health at Work (EU-OSHA)"
 
+###############################################
+# Translations for hw2012
+###############################################
+
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "in the Healthy Workplaces Campaign 2012-13 on Risk Prevention."

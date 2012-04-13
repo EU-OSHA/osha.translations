@@ -143,3 +143,9 @@ msgid "director_2010"
 msgstr "Direktor der Europäischen Agentur für Sicherheit und Gesundheitsschutz am Arbeitsplatz (EU-OSHA)"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "an der Kampagne für gesunde Arbeitsplätze 2012-2013 zum Thema Prävention."

@@ -140,4 +140,10 @@ msgstr "a biztonságos karbantartásról szóló 2010-2011. évi Egészséges mu
 msgid "director_2010"
 msgstr "az Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökség (EU-OSHA) igazgatója"
 
+###############################################
+# Translations for hw2012
+###############################################
 
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "a biztonságos karbantartásról szóló 2012-2013."

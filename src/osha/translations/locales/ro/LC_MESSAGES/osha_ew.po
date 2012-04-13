@@ -141,3 +141,10 @@ msgid "director_2010"
 msgstr "Directorul Agenţiei Europene pentru Sănătate şi Securitate în Muncă (EU-OSHA)"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "la campania pentru locuri de muncă sigure şi sănătoase 2012-13."
+

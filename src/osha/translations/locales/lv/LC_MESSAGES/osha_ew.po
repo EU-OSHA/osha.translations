@@ -141,3 +141,9 @@ msgid "director_2010"
 msgstr "Eiropas Darba drošības un veselības aizsardzības aģentūras (EU-OSHA) direktors"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "2012. līdz 2013. gada Veselībai nekaitīgu darbavietu."

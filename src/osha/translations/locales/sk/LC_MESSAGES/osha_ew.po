@@ -142,3 +142,9 @@ msgid "director_2010"
 msgstr "Riaditeľ Európskej agentúry pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)"
 
 
+###############################################
+# Translations for hw2012
+###############################################
+#: Contriubution
+msgid "contribution_headline_2012"
+msgstr "na kampani Zdravé pracoviská 2012 - 2013."
