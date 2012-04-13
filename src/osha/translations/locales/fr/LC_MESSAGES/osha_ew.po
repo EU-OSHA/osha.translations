@@ -148,3 +148,5 @@ msgstr "Directeur de l’Agence européenne pour la sécurité et la santé au t
 msgid "contribution_headline_2012"
 msgstr " à la campagne 2010-11 «Lieux de travail sains»."
 
+msgid "campaign_slogan_2012"
+msgid "Travailler ensemble pour la prévention des risques grâce la direction et la participation des travailleurs"

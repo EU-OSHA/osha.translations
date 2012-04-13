@@ -149,3 +149,5 @@ msgid "contribution_headline_2012"
 msgstr "dalyvavo 2012–2013 m. Saugių darbo vietų kampanijoje."
 
 
+msgid "campaign_slogan_2012"
+msgid "Bendromis jėgomis mažinkime riziką darbe dalyvaujant vadovams ir darbuotojams"

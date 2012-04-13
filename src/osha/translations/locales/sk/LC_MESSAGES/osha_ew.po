@@ -148,3 +148,6 @@ msgstr "Riaditeľ Európskej agentúry pre bezpečnosť a ochranu zdravia pri pr
 #: Contriubution
 msgid "contribution_headline_2012"
 msgstr "na kampani Zdravé pracoviská 2012 - 2013."
+
+msgid "campaign_slogan_2012"
+msgid "Spolupráca pri prevencii rizík prostredníctvom iniciatívneho manažmentu a účasti zamestnancov"

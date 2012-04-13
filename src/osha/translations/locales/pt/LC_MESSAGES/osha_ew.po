@@ -146,3 +146,5 @@ msgstr "Director da Agência Europeia para a Segurança e a Saúde no Trabalho (
 msgid "contribution_headline_2012"
 msgstr "na Campanha Locais de Trabalho Seguros e Saudáveis 2012-13."
 
+msgid "campaign_slogan_2012"
+msgid "Trabalhar em conjunto em prol da prevenção dos riscos através da liderança e da participação dos trabalhadores"

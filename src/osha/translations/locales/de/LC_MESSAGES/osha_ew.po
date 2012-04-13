@@ -149,3 +149,6 @@ msgstr "Direktor der Europäischen Agentur für Sicherheit und Gesundheitsschutz
 #: Contriubution
 msgid "contribution_headline_2012"
 msgstr "an der Kampagne für gesunde Arbeitsplätze 2012-2013 zum Thema Prävention."
+
+msgid "campaign_slogan_2012"
+msgid "Partnerschaft für Prävention durch Mitarbeiterführung und Arbeitnehmerbeteiligung"

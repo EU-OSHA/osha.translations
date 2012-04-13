@@ -147,3 +147,6 @@ msgstr "Dyrektor Europejskiej Agencji Bezpieczeństwa i Zdrowia w Pracy(EU-OSHA)
 #: Contriubution
 msgid "contribution_headline_2012"
 msgstr "w kampanii „Zdrowe miejsce pracy” 2012-13."
+
+msgid "campaign_slogan_2012"
+msgid "Partnerstwo dla prewencji poprzez Przywództwo i Udział pracowników"

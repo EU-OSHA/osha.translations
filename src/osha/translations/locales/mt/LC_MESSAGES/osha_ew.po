@@ -147,3 +147,5 @@ msgstr "Direttur tal-Aġenzija Ewropea għas-Saħħa u s-Sigurtà fuq il-Post ta
 msgid "contribution_headline_2012"
 msgstr "il-Kampanja dwar is-saħħa fuq il-post tax-Xogħol, 2012-2013."
 
+msgid "campaign_slogan_2012"
+msgid "Naħdmu flimkien biex nevitaw ir-riskji permez tat-tmexxija u tas-sehem tal-ħaddiema"

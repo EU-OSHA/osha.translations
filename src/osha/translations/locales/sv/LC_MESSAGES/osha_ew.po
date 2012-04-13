@@ -147,3 +147,6 @@ msgstr "Direktör för Europeiska arbetsmiljöbyrån(EU-Osha)"
 #: Contriubution
 msgid "contribution_headline_2012"
 msgstr "i kampanjen Ett hälsosamt arbetsliv 2012-2013."
+
+msgid "campaign_slogan_2012"
+msgid "Samverkan för att förebygga genom ledarskap och arbetstagarnas medverkan"

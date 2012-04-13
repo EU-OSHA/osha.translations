@@ -146,3 +146,7 @@ msgstr "Directeur van het Europees Agentschap voor veiligheid en gezondheid op h
 #: Contriubution
 msgid "contribution_headline_2012"
 msgstr "aan de campagne 'Een gezonde werkplek' 2012-2013."
+
+
+msgid "campaign_slogan_2012"
+msgid "Samen sterk voor preventie door leiderschap en werknemersparticipatie"

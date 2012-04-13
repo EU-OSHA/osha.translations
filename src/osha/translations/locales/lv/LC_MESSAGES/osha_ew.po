@@ -147,3 +147,6 @@ msgstr "Eiropas Darba drošības un veselības aizsardzības aģentūras (EU-OSH
 #: Contriubution
 msgid "contribution_headline_2012"
 msgstr "2012. līdz 2013. gada Veselībai nekaitīgu darbavietu."
+
+msgid "campaign_slogan_2012"
+msgid "Kopā novērsīsim darba vides riskus rādot vadības priekšzīmi un iesaistot darbiniekus"
