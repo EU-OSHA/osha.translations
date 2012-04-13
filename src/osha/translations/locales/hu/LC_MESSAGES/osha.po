@@ -10189,31 +10189,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "A dohányfüst belégzése a dohányosok és a nemdohányzók egészségére egyaránt ártalmas. Az ártalom súlyos egészségügyi problémák forrása lehet, például szív- és érrendszeri, valamint légzőszervi betegségeket okozhat. A különféle daganatos megbetegedések, a koszorúér-betegség vagy a stroke halálos kimenetelű is lehet. Mégis munkavállalók ezrei lélegeznek be dohányfüstöt munkahelyükön. Ebben a rövid videoklipben Napo egyedi módon járul hozzá a füstmentes munkahelyek megteremtéséhez."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo…. Dolgozzunk együtt!"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Dolgozzunk együtt!"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Rossz hír!"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Részletek!"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Meg tudjuk oldani!"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Szólj érte!"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "A biztonság megéri!"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "És most együtt!"
 
 ###

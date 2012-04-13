@@ -10187,31 +10187,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Vystavenie tabakovému dymu je rovnako škodlivé pre fajčiarov ako pre nefajčiarov. Môže spôsobiť vážne problémy, napr. srdcovocievne choroby a choroby dýchacích ciest. Môže zapríčiniť smrť v dôsledku rakoviny, koronárnej choroby srdca alebo mozgovej príhody. Napriek tomu tisíce zamestnancov sú na svojich pracoviskách stále vystavené tabakovému dymu. V tomto krátkom filme Napo takisto prispieva svojou troškou k problematike bezfajčiarskych pracovísk."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo pri...spolupráci"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Spolupráca"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Interview"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Detail"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Zaangažovanosť zamestnancov"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Nahlásenie závad"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Otázka priorít"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Tentoraz všetci spolu"
 
 ####

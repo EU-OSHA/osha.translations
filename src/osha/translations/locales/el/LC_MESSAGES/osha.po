@@ -10196,31 +10196,31 @@ msgstr "Η έκθεση στον καπνό του τσιγάρου είναι �
 
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Ο NAPO στο… Πρόληψη με την συμμετοχή όλων"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Πρόληψη με την συμμετοχή όλων"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Άλλο στην θεωρία άλλο στην πράξη"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Ιεράρχησε τον κίνδυνο"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Η συμβολή του εργαζόμενου"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Ενημέρωσε για το πρόβλημα"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Η ασφάλεια συμφέρει"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Ολοι μαζί λοιπόν"
 
 ####

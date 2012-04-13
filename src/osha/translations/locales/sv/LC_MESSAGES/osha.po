@@ -10235,31 +10235,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Att exponeras för tobaksrök är dåligt för hälsan, både hos rökare och icke-rökare. Det kan orsaka allvarliga problem som hjärt- och kärlsjukdomar och sjukdomar i andningsvägarna. Det kan också orsaka dödsfall i cancer, kranskärlssjukdom eller stroke (slaganfall). Trots detta exponeras fortfarande tusentals arbetstagare för tobaksrök på arbetsplatsen. I det här korta klippet ger Napo sitt eget unika bidrag till rökfria arbetsplatser."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo i …Arbeta tillsammans"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Arbeta tillsammans"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Dåliga nyheter"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Detaljen"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Vem har lösningen?"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Säg till!"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Säkerhet lönar sig"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Alla tillsammans"
 
 ####

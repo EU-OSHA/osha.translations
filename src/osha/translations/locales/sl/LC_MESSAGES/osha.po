@@ -10207,31 +10207,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Izpostavljenost tobačnemu dimu škoduje zdravju kadilcev in nekadilcev. Povzroči lahko resne težave, kot so bolezni srca in ožilja ter bolezni dihal, pripelje pa lahko tudi do smrti zaradi raka, koronarnih bolezni srca ali možganske kapi, kljub vsemu temu pa je na tisoče delavcev še vedno izpostavljenih tobačnemu dimu na delovnem mestu. Napo v tem kratkem filmu na svoj način prispeva k opuščanju kajenja na delovnih mestih."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo v … Delamo skupaj"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Delamo skupaj"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Slabe novice"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Vse se skriva v podrobnostih"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Rešitev lahko poiščemo skupaj"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Opozori!"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Varnost se izplača"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "In sedaj … vsi skupaj! "
 
 ####

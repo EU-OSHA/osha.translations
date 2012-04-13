@@ -10175,31 +10175,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "L-espożizzjoni għad-duħħan tat-tabakk hija ħażina kemm għas-saħħa ta’ dawk li jpejpu u kemm għas-saħħa ta’ dawk li ma jpejpux. Id-duħħan tat-tabakk jista’ jikkawża problemi serji bħal mard kardjovaskulari u respiratorju. Dan jista’ jikkawża mewt kaġun tal-kanċer, tal-mard tal-qalb jew ta' puplesija. Il-prevenzjoni ta' impatt negattiv tad-duħħan tat-tabakk fuq il-post tax-xogħol F’dan il-filmat qasir, Napo jagħti l-kontribut uniku tiegħu stess favur il-kawża ta’ postijiet tax-xogħol ħielsa mit-tipjip."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo……naħdmu flimkien"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Naħdmu flimkien"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Aħbarijiet ħżiena"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Id-dettal"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Nistgħu nsibu soluzzjoni"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Tkellem"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Is-sigurta` trendi"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "U issa  lkoll flimkien"
 
 ####

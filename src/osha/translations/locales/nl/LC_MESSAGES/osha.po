@@ -10449,31 +10449,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Blootstelling aan de rook van tabak is slecht voor de gezondheid van rokers en niet-rokers. Het kan leiden tot ernstige problemen als hart- en vaatziekten en aandoeningen van de luchtwegen. Het kan de oorzaak zijn van sterfgevallen als gevolg van kanker, van coronaire hartaandoeningen of een hersenbloeding. Toch worden duizenden werknemers nog steeds op hun werk aan sigarettenrook blootgesteld. In deze korte clip levert Napo zijn eigen unieke bijdrage aan de zaak van een rookvrije werkplek."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo in…… samenwerken"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Samenwerken!"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Schone schijn"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Prioriteiten stellen"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Samen komen we er uit"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Geef het door"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Veiligheid loont"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "En nu ... allen samen!"
 
 ####

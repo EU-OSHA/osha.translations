@@ -2182,31 +2182,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Eksponering for tobakksrøyk er helseskadelig både for røykere og ikke-røykere. Det kan få alvorlige følger som hjerte- og karsykdommer og luftveissykdommer. Det kan forårsake dødelige sykdommer som kreft, hjertesykdom og slag. Likevel utsettes fortsatt tusenvis av arbeidstakere for tobakksrøyk på arbeidsplassen. I dette korte klippet yter Napo sitt bidrag til kampen for røykfrie arbeidsplasser."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo i... samarbeid"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Samarbeid"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Dårlig nytt"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Sans for detaljer"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Hvem har løsningen?"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Si fra!"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Sikkerhet lønner seg"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Kom igjen, alle sammen! "
 
 ###

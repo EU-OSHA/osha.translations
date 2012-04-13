@@ -10176,31 +10176,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Tabakas dūmi nelabvēlīgi ietekmē gan smēķētāju, gan nesmēķētāju veselību. Tabakas dūmu iedarbība var radīt nopietnas problēmas, piemēram, izraisīt sirds un asinsvadu, kā arī elpošanas ceļu slimības. Tie var izraisīt nāvi vēža, koronārās sirds saslimšanas vai insulta dēļ. Tomēr joprojām tūkstošiem darbinieku savā darbavietā ir pakļauti tabakas dūmu iedarbībai. Šajā īsajā filmiņā ir vērojami Napo veiktie darbi, lai atbrīvotu darbavietas no tabakas dūmiem."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo… Rīkojas kopā!"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Rīkosimies kopā!"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Sliktā ziņa"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Uzmanību sīkumiem!"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Mēs paši varam ieteikt!"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Brīdini!"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Drošība atmaksājas!"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Un tagad visi kopā!"
 
 ####

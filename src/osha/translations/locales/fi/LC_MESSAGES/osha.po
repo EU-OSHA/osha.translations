@@ -10220,31 +10220,31 @@ msgid "description_napo-016-lungs-at-work"
 msgstr "Altistus tupakansavulle on haitallista sekä tupakoitsijoiden että tupakoimattomien terveydelle. Se voi aiheuttaa vakavia ongelmia, kuten sydän- ja verisuonitauteja sekä hengityselinten sairauksia. Se voi myös aiheuttaa kuoleman syövän, sepelvaltimotaudin tai aivohalvauksen seurauksena. Silti tuhannet työntekijät altistuvat yhä tupakansavulle työpaikallaan. Tässä lyhyessä filminpätkässä Napo antaa oman ainutlaatuisen panoksensa työpaikkojen savuttomuuden edistämiseksi."
 
 # NAPO 17 "Working Together"
-msgid "heading-napo-017-working-together"
+msgid "heading_napo-017-working-together"
 msgstr "Napo - Yhteistyöllä riskit hallintaan"
 
-msgid "description-napo-017-working-together"
+msgid "description_napo-017-working-together"
 msgstr ""
 
-msgid "heading-napo-017-working-together-episode-001-working-together"
+msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Yhteistyöllä riskit hallintaan"
 
-msgid "heading-napo-017-working-together-episode-002-bad-news"
+msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Huonoja uutisia"
 
-msgid "heading-napo-017-working-together-episode-003-the-detail"
+msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Pienet asiat"
 
-msgid "heading-napo-017-working-together-episode-004-we-can-work-it-out"
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Yhdessä tekemällä tuloksiin"
 
-msgid "heading-napo-017-working-together-episode-005-speak-up"
+msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Tiedonkulku"
 
-msgid "heading-napo-017-working-together-episode-006-safety-pays"
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Turvallisuudella tulosta"
 
-msgid "heading-napo-017-working-together-episode-007-all-together-now"
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Kaikki yhdessä"
 
 ####
