@@ -149,4 +149,4 @@ msgid "contribution_headline_2012"
 msgstr "la campania pentru locuri de muncă sigure şi sănătoase 2012-13."
 
 msgid "campaign_slogan_2012"
-msgid "Împreună pentru prevenirea riscurilor prin leadership si participarea lucrătorilor"
+msgstr "Împreună pentru prevenirea riscurilor prin leadership si participarea lucrătorilor"

@@ -149,4 +149,4 @@ msgid "contribution_headline_2012"
 msgstr "na kampani Zdravé pracoviště týkající 2012-13."
 
 msgid "campaign_slogan_2012"
-msgid "Partnerství při prevenci rizik prostřednictvím vedení zaměstnanců a jejich účasti"
+msgstr "Partnerství při prevenci rizik prostřednictvím vedení zaměstnanců a jejich účasti"

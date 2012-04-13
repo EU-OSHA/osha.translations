@@ -147,4 +147,4 @@ msgid "contribution_headline_2012"
 msgstr "sodeloval/a pri kampanji Zdravo delovno okolje 2012-2013."
 
 msgid "campaign_slogan_2012"
-msgid "Partnerstvo za preprečevanje tveganj z udeležbo vodstva in delavcev"
+msgstr "Partnerstvo za preprečevanje tveganj z udeležbo vodstva in delavcev"

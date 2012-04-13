@@ -149,4 +149,4 @@ msgid "contribution_headline_2012"
 msgstr "a biztonságos karbantartásról szóló 2012-2013."
 
 msgid "campaign_slogan_2012"
-msgid "Együtt a kockázatok megelőzéséért által Vezetés és Dolgozói részvétel"
+msgstr "Együtt a kockázatok megelőzéséért által Vezetés és Dolgozói részvétel"

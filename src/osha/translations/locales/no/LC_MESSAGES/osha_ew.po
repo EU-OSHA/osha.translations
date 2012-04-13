@@ -53,4 +53,4 @@ msgid "contribution_headline_2012"
 msgstr "i Et sikkert og godt arbeidsmiljø-kampanjen 2012-13."
 
 msgid "campaign_slogan_2012"
-msgid "Samarbeid for forebygging av risiko gjennom ledelse og arbeidstakers medvirkning"
+msgstr "Samarbeid for forebygging av risiko gjennom ledelse og arbeidstakers medvirkning"

@@ -147,6 +147,5 @@ msgstr "Direktøren for Det Europæiske Arbejdsmiljøagentur (EU-OSHA)"
 msgid "contribution_headline_2012"
 msgstr "deltager i kampagnen ”Et sikkert og sundt arbejdsmiljø” i 2012-13."
 
-
 msgid "campaign_slogan_2012"
-msgid "Samarbejde om risikoforebyggelse gennem lederskab og medarbejderdeltagelse"
+msgstr "Samarbejde om risikoforebyggelse gennem lederskab og medarbejderdeltagelse"

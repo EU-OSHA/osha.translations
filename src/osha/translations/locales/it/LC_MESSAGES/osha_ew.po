@@ -148,6 +148,5 @@ msgstr "Direttore dell’Agenzia europea per la sicurezza e la salute sul lavoro
 msgid "contribution_headline_2012"
 msgstr "alla campagna Ambienti di lavoro sani 2012-13."
 
-
 msgid "campaign_slogan_2012"
-msgid "Lavoriamo insieme per la prevenzione dei rischi attraverso la leadership e la partecipazione dei lavoratori"
+msgstr "Lavoriamo insieme per la prevenzione dei rischi attraverso la leadership e la partecipazione dei lavoratori"

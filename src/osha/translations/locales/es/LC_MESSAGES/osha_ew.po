@@ -150,4 +150,4 @@ msgid "contribution_headline_2012"
 msgstr "en la Campaña Trabajos Saludables 2012-13."
 
 msgid "campaign_slogan_2012"
-msgid "Trabajando juntos para la prevención de riesgos a través del liderazgo y la participación de los trabajadores"
+msgstr "Trabajando juntos para la prevención de riesgos a través del liderazgo y la participación de los trabajadores"

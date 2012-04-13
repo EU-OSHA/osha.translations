@@ -53,4 +53,4 @@ msgid "contribution_headline_2012"
 msgstr "í Heilbrigði á vinnustað herferðinni 2012-13."
 
 msgid "campaign_slogan_2012"
-msgid "Samvinna um Forvarnir meðal Stjórnenda og Starfsmanna"
+msgstr "Samvinna um Forvarnir meðal Stjórnenda og Starfsmanna"

@@ -148,4 +148,4 @@ msgid "contribution_headline_2012"
 msgstr "Tervislikud töökohad 2012-2013."
 
 msgid "campaign_slogan_2012"
-msgid "Ennetame riske üheskoos - juhtkonna ja töötajate osalus"
+msgstr "Ennetame riske üheskoos - juhtkonna ja töötajate osalus"
