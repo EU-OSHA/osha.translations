@@ -10224,7 +10224,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo - Yhteistyöllä riskit hallintaan"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Kaikki ei ole ihan miltä näyttää, kun tehtaan omistaja antaa medialle haastattelun yrityksen tuotantoa ja turvallisuutta koskevista luvuista. Eri tasoilla turvallisuuden kannalta puutteelliset työkäytännöt, asianmukaisten menettelyjen noudattamatta jättäminen ja tiedonkulun puutteellisuus ovat ristiriidassa sen kanssa, että hän sanoo työsuojelun olevan yrityksessä tärkeällä sijalla. Filmissä ‘Working together’ käsitellään kahta ennaltaehkäisyyn kuuluvaa asiaa: yrityskulttuuri ja käytös. Se korostaa, että esimiehet ja työntekijät voivat yhdessä luoda turvallisemman, terveyden kannalta paremman ja tuottavamman työpaikan, joka perustuu yhteistyöhön turvallisuuskulttuurin luomiseksi - \"meidän tapamme tehdä asiat\" - miten turvallisuus hoidetaan työpaikalla. Johtajat kulkevat edellä: jos he ovat tehokkaita, he osoittavat toiminnallaan sitoutumistaan. He edistävät työsuojelua ja johtavat näyttämällä esimerkkiä; he ovat näkyviä ja tietoisia tärkeistä asioista. Työntekijät kunnioittavat heitä ja luottavat heihin, koska yrityksessä harjoitetaan avointa viestintää ja keskustelua. He antavat tunnustusta, kun asiat tehdään hyvin, ja toimivat päättäväisesti, jos jokin menee huonosti. Työntekijöiden osallistuminen on kaksisuuntainen prosessi, jossa esimiehet ja työntekijät keskustelevat keskenään, kuuntelevat toistensa huolia, ratkaisevat ongelmia sekä jakavat näkemyksiä ja tietoa."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Yhteistyöllä riskit hallintaan"

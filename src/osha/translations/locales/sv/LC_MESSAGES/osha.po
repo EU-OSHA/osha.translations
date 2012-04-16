@@ -10239,7 +10239,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo i …Arbeta tillsammans"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Allt är inte som det ser ut när fabriksägaren intervjuas av medierna om fabrikens produktions- och säkerhetsdokumentation. Hennes påstående att säkerheten är en prioritetsfråga motsägs på flera sätt: arbetsmetoderna är osäkra, arbetsrutinerna följs inte och kommunikationen brister. Napofilmen om samarbete tar upp två aspekter i det förebyggande arbetet: kultur och beteende. Filmen understryker hur chefer och anställda genom att samarbeta kan skapa säkrare, hälsosammare och produktivare arbetsplatser. Detta samarbete bygger på en gemensam strategi för att förbättra säkerhetskulturen. Med ett samstämmigt ”så här går det till hos oss” hanteras säkerheten på arbetsplatsen. Chefer ska leda arbetet och effektiva ledare visar ansvar genom handling. De främjar åtgärder för arbetsmiljön och går före med gott exempel. De är synliga och medvetna om de centrala frågorna. De får respekt och har de anställdas tillit därför att det finns en öppen dialog och kommunikation. Cheferna visar uppskattning om något görs bra och beslutsamhet om något går fel. Arbetstagarmedverkan är en tvåvägsprocess där chefer och anställda talar med varandra, lyssnar på varandras bekymmer, löser problem och delar åsikter och information."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Arbeta tillsammans"

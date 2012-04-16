@@ -10193,7 +10193,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo…. Dolgozzunk együtt!"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "A látszat csal - a gyártulajdonos interjút ad a vállalat termelési és biztonsági eredményeiről. A valóságban meg a nem biztonságos munkamódszerek, az eljárások tiszteletben nem tartása és a nem megfelelő kommunikáció ellentmond a tulajdonos által hirdetett, biztonság a mindenek felett elvnek. „A közös munka\" két megelőzés témát tekint át: a kultúrát és a viselkedést. Azt hangsúlyozza, hogy az közös munka révén a vezetők és az munkavállalók biztonságosabb, egészségesebb és produktívabb munkahelyet tudnak létrehozni, amely együttműködésre épül, előmozdítandó a biztonság kultúráját - 'ahogy mi dolgozunk' - ahogy a munkahelyen a biztonsági irányítást valójában kezelik. A menedzserek vezetők. A hatékony vezetők elkötelezettségüket tevékenységükkel bizonyítják. Népszerűsítik a munkahelyi biztonságot és egészségvédelmet és példával járnak elöl, elérhetők és tudatában vannak a fő problémáknak. Dolgozóik tiszteletben tartják őket és megbíznak bennük, mert készek a kommunikációra és a párbeszédre. Elismerik, ha valami jól sikerül és határozottak, ha valami nem. A dolgozók bevonása egy kétoldalú folyamat, amely során a vezetők és a munkavállalók kommunikálnak egymással, meghallgatják egymás felvetéseit, megoldják a problémákat és megosztják a véleményeket és az információkat."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Dolgozzunk együtt!"

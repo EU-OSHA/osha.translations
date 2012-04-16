@@ -10180,7 +10180,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo… Rīkojas kopā!"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Ne viss ir tā, kā izskatās, kad rūpnīcas īpašniece sniedz interviju plašsaziņas līdzekļiem par uzņēmuma ražošanas apjomiem un drošības situāciju. Dažādos līmeņos novērotās nedrošās darba metodes, nespēja ievērot procedūras un nepietiekamā saziņa ir pretrunā viņas apgalvojumam, ka drošība ir pirmajā vietā. \"Strādāsim kopā\" pievēršas diviem profilakses virzieniem: kultūrai un uzvedībai. Tiek uzsvērts, ka, strādājot kopā, priekšnieki un padotie var radīt drošāku, veselīgāku un produktīvāku darba vietu, kuras pamatā ir sadarbības pieeja labākai drošības kultūrai – \"veids, kā mēs šeit strādājam\" – veids, kā šajā darba vietā tiek ievērota drošība. Priekšnieki ir vadībā; efektīva vadība parāda savu apņemšanos ar rīcību. Viņi sekmē DDVA un rāda priekšzīmi; viņi ir redzami un apzinās galvenās problēmas. Darbinieki viņus ciena un viņiem uzticas, jo pastāv atvērta saziņa un dialogs. Viņi izsaka atzinību par labi padarītu darbu un ir izlēmīgi gadījumos, ja kas netiek izpildīts pareizi. Darba ņēmēju iesaistīšana ir divvirzienu process, kurā vadītāji un darbinieki viens ar otru runā, uzklausa, kas otram rūp, risina problēmas un apmainās ar viedokļiem un informāciju. "
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Rīkosimies kopā!"

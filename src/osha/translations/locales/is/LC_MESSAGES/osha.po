@@ -2170,7 +2170,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napa í ..... Allir vinna"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Ekki er allt sem sýnist þegar verksmiðjueigandinn veitir fjölmiðlum viðtal um framleiðslu og öryggismál fyrirtækisins. Á mismunandi stigum stangast óöruggar starfsvenjur og misbrestur á að fylgja starfsferlum og slæm samskipti á við skilaboð hennar um að öryggismál séu í forgangi. „Vinnum saman“ tekur á tveimur forvarnarmálum: menningu og hegðun. Hún leggur áherslu á að með samvinnu geta stjórnendur og starfsmenn búið til öruggari, heilbrigðari og afkastameiri vinnustað sem byggir á samstarfi um að bæta öryggismenninguna - „hvernig við gerum hlutina hér“ - aðferðin sem notuð er til að stjórna öryggi á vinnustaðnum. Stjórnendur eru forystumenn; skilvirkir forystumenn sýna skuldbindingu sína við málefnið í verki. Þeir efla vinnuvernd og sýna forystu í verki; þeir eru sýnilegir og meðvitaðir um helstu mál. Þeir njóta virðingar og trausts starfsfólksins og opin samskipti og samræður eru til staðar. Þeir veita viðurkenningu þegar hlutir eru vel gerðir og eru afgerandi ef eitthvað fer úrskeiðis. Starfsmannaþátttaka er tvíhliða ferli, þar sem stjórnendur og starfsmenn ræða hver við annan, hlusta á áhyggjur hvers annars, leysa vandamál og deila skoðunum og upplýsingum. "
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Vinnum saman - allir vinna"

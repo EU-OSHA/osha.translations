@@ -10201,7 +10201,7 @@ msgid "heading_napo-017-working-together"
 msgstr "“Napo i …Samarbejde”"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Det giver et helt forkert billede, da fabriksejeren interviewes i medierne og fortæller om virksomhedens produktion og arbejdsmiljøstatistikker. Farlige arbejdsmetoder, manglende overholdelse af procedurer og dårlig kommunikation på forskellige niveauer er i modstrid med hendes udsagn om, at sikkerhed er en prioritet. \"Samarbejde\" handler om to emner inden for forebyggelse: kultur og adfærd. Denne film fremhæver, at ledere og medarbejdere ved at arbejde sammen kan skabe sikrere, sundere og mere produktive arbejdspladser på baggrund af en fælles tilgang til at forbedre sikkerhedskulturen - den måde, man \"plejer at gøre tingene på\" - den måde, hvorpå sikkerheden håndteres på arbejdspladsen. Chefer er ledere, og effektive ledere viser deres engagement gennem deres handlinger. De fremmer arbejdsmiljø og fører an på området, og de er synlige og er opmærksomme på de vigtigste spørgsmål. Arbejdstagerne respekterer dem og stoler på dem, fordi der er åben kommunikation og dialog. De viser anerkendelse, når noget gøres godt, og viser afstandtagen, hvis noget går galt. Arbejdstagernes inddragelse er en tovejsproces, hvor ledere og medarbejdere taler med hinanden, lytter til hinandens bekymringer, løser problemer og deler synspunkter og information med hinanden."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Samarbejde"

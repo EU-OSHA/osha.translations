@@ -10179,7 +10179,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo……naħdmu flimkien"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Mhux kull ma jleqq hu deheb hekk sid il-fabbrika kien qed jagħti intervista dwar ir-rekords ta' produzzjoni u sigurtà fil-kumpanija Fuq liveli differenti, prattiki ta' xogħol perikolużi, nuqqas ta' segwitu tal-proċeduri ta' sigurtà u komunikazzjoni fqira jikkontradixxu l-messaġġ li għaddiet li s-sigurtà hija prijorità. ‘Naħdmu flimkien’ tindirizza żewġ punti fil-prevenzjoni: il-kultura u l-imġiba. L-emfasi qiegħed fuq l-importanza ta' ħidma flimkien: kemm il-maniġers kif ukoll l-impjegati, jistgħu joħolqu post tax-xogħol aktar sigur, tajjeb għas-saħħa u produttiv jekk jikkollaboraw flimkien biex itejbu l-kultura ta' sigurtà - ‘il-mod kif isiru l-affarjiet hawnhekk’ - il-mod li bih is-sigurtà hija ġestita fuq il-post tax-xogħol. Il-maniġers huma l-mexxejja; mexxejja effiċjenti juru l-impenn tagħhom b'għemilhom. Huma jippromwovu s-saħħa u s-sigurtà fuq il-post tax-xogħol u jagħtu eżempju; il-preżenza tagħhom twassal messaġġ ta' għarfien tal-aktar punti importanti fejn jidħlu s-saħħa u s-sigurtà. Huma wkoll rispettati u afdati mill-ħaddiema kollha għax hemm komunikazzjoni miftuħa u djalogu. Huma jfaħħru l-approċċi tajbin u jieħdu deċiżjonijiet xierqa mea l-affarjiet ma jmorrux kif suppost. L-involviment tal-ħaddiema huwa proċess reċiproku fejn il-maniġers u l-impjegati jiddjalogaw flimkien; jisimgħu lil xulxin; isolvu l-problemi u jiskambjaw perspettivi u informazzjoni."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Naħdmu flimkien"

@@ -2186,7 +2186,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo i... samarbeid"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Alt er ikke som det ser ut som når direktøren intervjues av media om selskapets produksjon og sikkerhetsdokumentasjon. Usikre arbeidsrutiner, manglende overholdelse av rutinene og kommunikasjonssvikt på mange nivåer – alt er i strid med hennes budskap om at sikkerheten står i høysetet. \"Samarbeid\" tar opp to aspekter ved det forebyggende arbeidet: kultur og atferd. Filmen understreker hvordan ledere og arbeidstakere, ved å samarbeide, kan skape tryggere, sunnere og mer produktive arbeidsplasser med utgangspunkt i en samarbeidsbasert metode for å styrke sikkerhetskulturen – \"den måten vi gjør tingene på hos oss\". Lederne skal være ledere. Effektive ledere viser ansvar gjennom handling. De fremmer HMS-tiltak og går foran med et godt eksempel; de er synlige og bevisste på sentrale problemstillinger. De får respekt og har sine medarbeideres tillit fordi de har en åpen kommunikasjon seg imellom og dialog. De er oppmerksomme når ting blir gjort rett, og viser besluttsomhet når noe går gale. Arbeidstakermedvirkning er en toveis prosess der ledere og arbeidstakere snakker med hverandre, hører på hva den andre bekymrer seg for, løser problemer og utveksler synspunkter og informasjon."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Samarbeid"

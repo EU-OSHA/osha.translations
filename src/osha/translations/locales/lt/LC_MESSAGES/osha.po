@@ -10193,7 +10193,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo ir... Bendromis jėgomis"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Viskas ne taip gražu, kaip kalba fabriko savininkė pasakodama žiniasklaidai apie itin dideles bendrovės gamybos apimtis ir puikius saugos rezultatus. Jos teiginiui, kad saugumas – didžiausias prioritetas prieštarauja tai, kad įmonėje darbo procesai yra nesaugūs, dirbantieji nesilaiko taisyklių, o komunikacija – prasta. Leidinyje „Working together“ nagrinėjami du prevencijos klausimai: organizacinė kultūra ir dirbančiųjų elgesys. Pabrėžiama, kad bendradarbiaudami vadovai ir darbuotojai gali sukurti saugesnes, sveikesnes ir produktyvesnes darbo vietas ir kartu padėti užtikrinti saugią aplinką organizacijoje, „taip, kaip tai daroma pas mus“ – t.y. sauga rūpinamasi darbo vietose. Vadovai tampa aktyviais lyderiais, kurie tikėjimą iškeltais tikslais parodo savo darbu. Jie savo pavyzdžiu skatina spręsti DSS klausimus ir rodo iniciatyvą, yra aktyvūs ir suvokia, kokie klausimai turi didžiausią reikšmę. Darbuotojai juos gerbia ir jais pasitiki, nes įmonėje galima atvirai bendrauti ir diskutuoti. Vadovai įvertina gerai atliktus darbus ir elgiasi ryžtingai, kai nesiseka. Darbuotojų dalyvavimas - tai dvipusis procesas: vadovai ir dirbantieji bendrauja tarpusavyje, vieni kitiems išsako susirūpinimą keliančius klausimus, sprendžia problemas, dalinasi nuomonėmis ir informacija."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Bendromis jėgomis"

@@ -10453,7 +10453,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo in…… samenwerken"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Niets is wat het lijkt als de fabriekseigenaar een interview aan de media geeft over de productie- en veiligheidscijfers van het bedrijf. Haar boodschap dat veiligheid voorop staat, wordt op verschillende punten tegengesproken door onveilige werkpraktijken, niet-naleving van procedures en slechte communicatie. 'Samenwerken' gaat in op twee zaken bij preventie: cultuur en gedrag. Benadrukt wordt dat managers en werknemers door samen te werken een veiligere, gezondere en productievere werkomgeving kunnen creëren, die is gebaseerd op een samenwerkingsgerichte aanpak ter verbetering van de veiligheidscultuur - 'de manier waarop we hier de dingen doen' - de manier waarop met veiligheid op de werkplek wordt omgegaan. Managers zijn leiders; echte leiders tonen hun betrokkenheid in hun daden. Ze bevorderen de veiligheid op het werk en geven het goede voorbeeld; ze zijn zichtbaar en zich bewust van de hoofdzaken. Ze worden gerespecteerd en vertrouwd door de mensen op de werkvloer omdat er sprake is van open communicatie en dialoog. Ze geven erkenning als dingen goed gedaan worden en nemen besluiten als er dingen mis gaan. De betrokkenheid van werknemers is tweerichtingverkeer, waarbij managers en medewerkers met elkaar praten, naar elkaar luisteren, problemen oplossen en hun meningen en informatie delen."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Samenwerken!"

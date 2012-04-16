@@ -486,7 +486,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo in... Working together"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "<p>All is not what it appears as the factory owner gives a media interview about the production and safety records of the company. On different levels, unsafe work practices, a failure to follow procedures and poor communications contradict her message that safety is a priority.</p><p>‘Working together’ addresses two issues in prevention: culture and behaviour. It emphasises that by working together, managers and employees can create a safer, healthier and more productive workplace based on a collaborative approach to improve safety culture - ‘the way we do things around here’ - the way in which safety is managed in the workplace.</p><p>Managers are leaders; effective leaders demonstrate their commitment by their actions. They promote OSH and lead by example; they are visible and aware of key issues. They are respected and trusted by the workforce because there is open communication and dialogue. They give recognition when things are done well and are decisive if things go wrong. Worker involvement is a two-way process where managers and employees talk to one another; listen to one another's concerns; solve problems, and share views and information</p>"
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Working together"

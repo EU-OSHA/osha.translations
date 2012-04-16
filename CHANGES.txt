@@ -4,8 +4,8 @@ osha.translations Changelog
 1.0.14 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- NAPO 17 description (missing: DE, FR, IT, TR, RU, RO, CA) [thomasw]
+  # 4526
 
 1.0.13 (2012-04-13)
 -------------------

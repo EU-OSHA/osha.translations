@@ -10191,7 +10191,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo pri...spolupráci"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Keď majiteľka továrne poskytne rozhovor médiám o údajoch týkajúcich sa výroby a bezpečnosti v podniku, nie je všetko celkom tak, ako by sa na prvý pohľad mohlo zdať. Hoci tvrdí, že bezpečnosť je jej prioritou, skutočnosť je iná, o čom svedčia pracovné postupy, ktoré nie sú bezpečné, nedodržiavanie postupov a zlá komunikácia. Film s názvom Spolupráca sa zaoberá dvoma otázkami v oblasti prevencie: kultúrou a správaním. Zdôrazňuje, že prostredníctvom spolupráce medzi manažérmi a zamestnancami možno vytvoriť bezpečnejšie, zdravšie a produktívnejšie pracovisko, a to na základe spoločného úsilia o zlepšenie kultúry bezpečnosti –„toho, ako to tu chodí“ – spôsobu riadenia bezpečnosti na pracovisku. Manažéri pôsobia ako vodcovia a skutoční vodcovia preukazujú angažovanosť svojimi činmi. Presadzujú BOZP a idú príkladom; je ich vidieť a sú si vedomí hlavných problémov. Zamestnanci ich rešpektujú a dôverujú im, pretože medzi nimi prebieha otvorená komunikácia a dialóg. Vedia oceniť dobre odvedenú prácu a v prípade problémov dokážu prijať rýchle rozhodnutie. Zapojenie zamestnancov je obojstranný proces, v rámci ktorého manažéri a zamestnanci spolu diskutujú, načúvajú obavám druhej strany, riešia problémy a vymieňajú si názory a informácie."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Spolupráca"

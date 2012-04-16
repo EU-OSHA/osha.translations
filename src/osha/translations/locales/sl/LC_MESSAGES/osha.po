@@ -10211,7 +10211,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo v … Delamo skupaj"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Podoba, ki jo lastnica tovarne poda v intervjuju za medije o proizvodnih dosežkih in varnosti v podjetju, ponavadi kaže povsem drugačno sliko od dejanskega stanja. Njena izjava, da je varnost prednostna naloga podjetja, se ne sklada s podobo, ki se kaže na drugačnih organizacijskih ravneh podjetja, npr. z delovnimi postopki, pri katerih ni poskrbljeno za varnost, neupoštevanjem predpisanih postopkov in slabim obveščanjem. \"Sodelovanje\" zadeva dva vidika preprečevanja: kulturo in ravnanje. Poudarja, da lahko sodelovanje med vodstvenim kadrom in delavci ustvari varnejše, bolj zdravo in produktivnejše delovno okolje, ki temelji na sodelovanju pri izboljšavi varnostne kulture, tj. \"načina, kako se pri nas lotevamo zadev\" oziroma načina upravljanja varnosti na delovnih mestih. Menedžerji podjetja so vodje, učinkoviti vodje pa svojo zavezanost kažejo s konkretnimi dejanji. Spodbujajo varnost in zdravje pri delu ter si prizadevajo, da je njihovo ravnanje vzgledno, saj so na vidnem položaju in so dobro seznanjeni z glavnimi vprašanji varnosti. Njihovi zaposleni jih spoštujejo in jim zaupajo, ker so z njimi vzpostavili odprt dialog. Za dobro opravljeno delo izrekajo pohvalo, v primeru storjenih napak pa odločno ukrepajo. Vključevanje delavcev je dvosmerni proces, v katerem se vodstveni delavci in zaposleni pogovarjajo, prisluhnejo drug drugemu, skupaj rešujejo težave in si izmenjujejo stališča in informacije."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Delamo skupaj"

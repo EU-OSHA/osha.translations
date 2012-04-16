@@ -9480,7 +9480,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo en … trabajando juntos"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Las apariencias engañan, como evidencia la entrevista que la propietaria de una empresa ha concedido a los medios de comunicación para hablar sobre los niveles de producción y de seguridad de su empresa. A diferentes niveles, las prácticas de trabajo poco seguras, el incumplimiento de los procedimientos y la falta de comunicación contradicen su mensaje de que la seguridad es una prioridad. \"Trabajando juntos\" aborda dos temas relacionados con la prevención: la cultura y el comportamiento. La película hace hincapié en que si trabajan conjuntamente, directivos y trabajadores pueden crear un lugar de trabajo más seguro, saludable y productivo gracias a una actitud de colaboración cuyo objetivo es mejorar la cultura de la seguridad (\"la forma en la que hacemos las cosas aquí), es decir, la forma en la que se gestiona la seguridad en el trabajo. Los directivos son líderes y los líderes eficaces demuestran su compromiso a través de sus acciones. Fomentan la salud y la seguridad en el trabajo y dan ejemplo. Son visibles y conocen los principales problemas existentes en el entorno de trabajo. El personal les respeta y confía en ellos gracias al mantenimiento del diálogo y una comunicación fluidos. Reconocen cuando las cosas se hacen bien y toman decisiones cuando las cosas salen mal. La implicación de los trabajadores es un proceso reciproco en el que los directivos y los trabajadores se hablan, escuchan las preocupaciones del otro, resuelven los problemas y comparten opiniones e información."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Trabajando juntos"

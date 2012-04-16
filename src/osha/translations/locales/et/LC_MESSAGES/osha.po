@@ -10197,7 +10197,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo ….Töötame üheskoos"
 
 msgid "description_napo-017-working-together"
-msgstr ""
+msgstr "Mitte kõik ei toimi nii nagu näib tehase omaniku intervjuus ajakirjanikule, milles ta kõneleb ettevõtte tootmisest ja ohutuse andmetest. Tema sõnade järgi on ohutus esmatähtis, ent mitmesugused ohtlikud töövõtted, suutmatus järgida kehtestatud korda ja töötajate puudulik teavitamine tõendavad vastupidist. Kampaania „Ennetame riske üheskoos\" käsitleb kaht ennetusteemat – töökultuuri ja käitumist. Rõhutatakse, et juhid ja töötajad saavad koos luua ohutuma, tervislikuma ja tootlikuma töökoha, mis põhineb tööohutuskultuuri ühisel parandamisel – on tähtis, kuidas me käitume ja tööohutust ohjame. Juhid on eestvedajad ning efektiivsed juhid näitavad pühendumust oma tegudega. Nad edendavad töötervishoidu ja tööohutust oma eeskujuga, neid tuntakse ja nad teavad põhiprobleeme. Töötajad austavad ja usaldavad juhte, sest nad on suhtlemisaltid ja kõnelevad nendega. Juhid tunnustavad töötajate saavutusi ning tegutsevad otsustavalt, kui midagi on valesti. Töötajate kaasamine on kahesuunaline protsess, kus juhid ja töötajad vestlevad teineteisega, kuulavad teineteise muresid, lahendavad probleeme ning vahetavad arvamusi ja teavet."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Töötame üheskoos"
