@@ -9692,35 +9692,56 @@ msgstr "Kommende Wettbewerbe"
 # NAPO
 
 
-msgid "title_napo_episode_1_7"
-msgstr "Gebotszeichen"
-
-msgid "title_napo_episode_1_8"
-msgstr "Augenschutz benutzen  "
-
-msgid "title_napo_episode_1_9"
-msgstr "Gehörschutz benutzen  "
-
 msgid "title_napo_episode_1_0"
-msgstr "Schutzhelm benutzen  "
+msgstr "Best Signs Story: Einleitung"
 
 msgid "title_napo_episode_1_1"
-msgstr "Rettungszeichen"
+msgstr "Warnzeichen: Einleitung"
 
 msgid "title_napo_episode_1_2"
-msgstr "Rettungsweg  "
+msgstr "Warnung vor schwebender Last"
 
 msgid "title_napo_episode_1_3"
-msgstr "Erste Hilfe  "
+msgstr "Warnung vor Flurförderzeugen"
 
 msgid "title_napo_episode_1_4"
-msgstr "Brandschutzzeichen"
+msgstr "Verbotszeichen: Einleitung"
 
 msgid "title_napo_episode_1_5"
-msgstr "Feuerlöschgerät  "
+msgstr "Rauchen verboten"
 
 msgid "title_napo_episode_1_6"
-msgstr "Brandmelder  "
+msgstr "Für Flurförderzeuge verboten"
+
+msgid "title_napo_episode_1_7"
+msgstr "Gebotszeichen: Einleitung"
+
+msgid "title_napo_episode_1_8"
+msgstr "Augenschutz benutzen"
+
+msgid "title_napo_episode_1_9"
+msgstr "Gehörschutz benutzen"
+
+msgid "title_napo_episode_1_10"
+msgstr "Schutzhelm benutzen"
+
+msgid "title_napo_episode_1_11"
+msgstr "Rettungszeichen: Einleitung"
+
+msgid "title_napo_episode_1_12"
+msgstr "Rettungsweg"
+
+msgid "title_napo_episode_1_13"
+msgstr "Erste Hilfe"
+
+msgid "title_napo_episode_1_14"
+msgstr "Brandschutzzeichen: Einleitung"
+
+msgid "title_napo_episode_1_15"
+msgstr "Feuerlöschgerät"
+
+msgid "title_napo_episode_1_16"
+msgstr "Brandmelder"
 
 msgid "title_napo_episode_2_0"
 msgstr "Napos Abenteuer"
@@ -9849,7 +9870,7 @@ msgid "title_napo_episode_6_6"
 msgstr "Bei der Arbeit und danach"
 
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Schlusssequenz"
 
 msgid "title_napo_episode_8_0"
 msgstr "Napo in: Nimm's leicht!"
@@ -10098,7 +10119,7 @@ msgstr "Das Finale"
 
 # NAPO 16 "Lungs at Work"
 msgid "heading_napo-016-lungs-at-work"
-msgstr "Napo in ... Lungen bei der Arbeit"
+msgstr "Napo in ... Dicke Luft!"
 
 msgid "description_napo-016-lungs-at-work"
 msgstr "Tabakrauch ist sowohl für Raucher als auch für Passivraucher schädlich. Er kann ernsthafte Gesundheitsprobleme, wie Herz-Kreislauf- und Atemwegserkrankungen verursachen. Außerdem kann es zum Tode durch Krebs, koronare Herzkrankheiten oder Infarkt führen. Trotzdem werden Tausende Arbeiter bei der Arbeit dem Tabakrauch immer noch unfreiwillig ausgesetzt. In dem kurzen Animationsfilm leistet Napo seinen eigenen Beitrag zu rauchfreien Arbeitsplätzen."
