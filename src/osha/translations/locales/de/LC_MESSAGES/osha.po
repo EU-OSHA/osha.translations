@@ -22,7 +22,7 @@ msgid "title_agency"
 msgstr "Europäische Agentur für<br />Sicherheit und Gesundheitsschutz<br />am Arbeitsplatz"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Gesunde Arbeitsplätze."
+msgstr "Gesunde Arbeitsplätze"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Ein Gewinn für alle."

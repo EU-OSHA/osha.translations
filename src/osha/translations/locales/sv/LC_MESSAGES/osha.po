@@ -21,7 +21,7 @@ msgid "title_agency"
 msgstr "Europeiska<br />arbetsmiljöbyrån"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Ett hälsosamt arbetsliv. "
+msgstr "Ett hälsosamt arbetsliv"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Bra för alla."

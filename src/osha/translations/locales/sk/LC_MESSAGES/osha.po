@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Európska agentúra pre<br />bezpečnosť a ochranu<br />zdravia pri práci"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Zdravé pracoviská."
+msgstr "Zdravé pracoviská"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Dobré pre teba.<br />Dobré pre podnik."

@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Evropska agencija za<br />varnost in zdravje<br />pri delu"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Zdravo delovno okolje."
+msgstr "Zdravo delovno okolje"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Dobro za vas.<br />Dobro za posel."

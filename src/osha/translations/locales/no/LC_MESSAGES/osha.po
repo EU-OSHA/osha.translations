@@ -21,7 +21,7 @@ msgid "title_agency"
 msgstr "Det europeiske<br />arbeidsmiljøorganet"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Et sikkert og godt arbeidsmiljø."
+msgstr "Et sikkert og godt arbeidsmiljø"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Bra for både deg <br/>og din arbeidsplass."

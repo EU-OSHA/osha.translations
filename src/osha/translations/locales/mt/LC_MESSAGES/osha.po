@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "L-Aġenzija Ewropea<br />għasgurtà u s-Saħħa<br />fuq il-post taxgħol"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Postijiet tax-xogħol li jġibu ´l quddiem is-saħħa."
+msgstr "Postijiet tax-xogħol li jġibu ´l quddiem is-saħħa"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Tajjeb għalik.<br />Tajjeb għall-kumpanija."

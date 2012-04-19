@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Den Europæiske<br/>Arbejdsmiljøagentur"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Et sikkert og sundt arbejdsmiljø."
+msgstr "Et sikkert og sundt arbejdsmiljø"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Godt for både dig og din arbejdsplads."

@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Agência Europeia para<br />a Segurança e Saúde<br />no Trabalho"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Locais de trabalho seguros e saudáveis."
+msgstr "Locais de trabalho seguros e saudáveis"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Bom para si.<br />Bom para as empresas."

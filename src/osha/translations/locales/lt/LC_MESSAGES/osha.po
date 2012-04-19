@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Europos darbuotojų<br />saugos ir sveikatos<br />agentūra"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Saugi darbo vieta."
+msgstr "Saugi darbo vieta"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Naudinga jums.<br />Naudinga verslui."

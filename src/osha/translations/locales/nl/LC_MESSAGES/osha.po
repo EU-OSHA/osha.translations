@@ -21,7 +21,7 @@ msgid "title_agency"
 msgstr "Europees Agentschap voor<br />veiligheid en gezondheid<br />op het werk"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Een gezonde werkplek. "
+msgstr "Een gezonde werkplek"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Goed voor jou en voor de zaak."

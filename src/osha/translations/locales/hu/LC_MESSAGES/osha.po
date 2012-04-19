@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Európai Munkahelyi<br />Biztonsági és Egészségvédelmi<br />Ügynökség"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Egészséges munkahelyek."
+msgstr "Egészséges munkahelyek"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Jó Önnek!<br />Jó a vállalkozásnak!"

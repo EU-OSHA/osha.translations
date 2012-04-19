@@ -20,7 +20,7 @@ msgid "title_agency"
 msgstr "Euroopan<br />työturvallisuus- ja<br />työterveysvirasto"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Terveellinen työ."
+msgstr "Terveellinen työ"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Yhteinen etu!"

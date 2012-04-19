@@ -21,7 +21,7 @@ msgid "title_agency"
 msgstr "Euroopa Tööohutuse<br />ja Töötervishoiu<br />Agentuur"
 
 msgid "slogan_hw2010_campaign"
-msgstr "Tervislikud töökohad."
+msgstr "Tervislikud töökohad"
 
 msgid "subslogan_hw2010_campaign"
 msgstr "Hea sinule.<br />Hea äritegevusele. "
