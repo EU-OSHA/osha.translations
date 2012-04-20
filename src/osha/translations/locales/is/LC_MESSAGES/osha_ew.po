@@ -50,7 +50,7 @@ msgstr "Forstöðumaður Vinnuverndarstofnun Evrópu (EU-OSHA)"
 ###############################################
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "í Heilbrigði á vinnustað herferðinni 2012-13."
+msgstr "Í herferðinni Vinnuvernd er allra hagur 2012-13 \"Vinnuvernd - allir vinna\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Samvinna um Forvarnir meðal Stjórnenda og Starfsmanna"

@@ -147,7 +147,7 @@ msgstr "Director de la Agencia Europea de Seguridad y Salud en el Trabajo (EU-OS
 
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "en la Campaña Trabajos Saludables 2012-13."
+msgstr "en la campaña Campaña Trabajo Saludables 2012-13: \"Trabajando juntos para la prevención de riesgos\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Trabajando juntos para la prevención de riesgos a través del liderazgo y la participación de los trabajadores"

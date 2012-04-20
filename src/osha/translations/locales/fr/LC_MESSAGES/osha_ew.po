@@ -146,7 +146,7 @@ msgstr "Directeur de l’Agence européenne pour la sécurité et la santé au t
 
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr " à la campagne 2010-11 «Lieux de travail sains»."
+msgstr "à la campagne «Lieux de travail sains» de 2012-2013 «Ensemble pour la prévention des risques»."
 
 msgid "campaign_slogan_2012"
 msgstr "Travailler ensemble pour la prévention des risques grâce la direction et la participation des travailleurs"

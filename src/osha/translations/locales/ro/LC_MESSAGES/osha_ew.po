@@ -146,7 +146,7 @@ msgstr "Directorul Agenţiei Europene pentru Sănătate şi Securitate în Munc�
 ###############################################
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "la campania pentru locuri de muncă sigure şi sănătoase 2012-13."
+msgstr "la Campania Locuri de muncă sigure şi sănătoase 2012-2013 \"Împreună pentru prevenirea riscurilor\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Împreună pentru prevenirea riscurilor prin leadership si participarea lucrătorilor"

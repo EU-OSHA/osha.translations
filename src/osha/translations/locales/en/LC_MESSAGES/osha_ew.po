@@ -146,7 +146,7 @@ msgstr "Director of the European Agency for Safety and Health at Work (EU-OSHA)"
 
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "in the Healthy Workplaces Campaign 2012-13 on Risk Prevention."
+msgstr "in the Healthy Workplaces Campaign 2012-13 'Working together for risk prevention'."
 
 msgid "campaign_slogan_2012"
 msgstr "Working together for risk prevention through Leadership & Worker participation"

@@ -145,7 +145,7 @@ msgstr "Direttur tal-Aġenzija Ewropea għas-Saħħa u s-Sigurtà fuq il-Post ta
 ###############################################
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "il-Kampanja dwar is-saħħa fuq il-post tax-Xogħol, 2012-2013."
+msgstr "fil-Kampanja għall-Postijiet tax-Xogħol li Jippromwovu s-Saħħa 2012-13 'Naħdmu flimkien biex nevitaw ir-riskji'."
 
 msgid "campaign_slogan_2012"
 msgstr "Naħdmu flimkien biex nevitaw ir-riskji permez tat-tmexxija u tas-sehem tal-ħaddiema"

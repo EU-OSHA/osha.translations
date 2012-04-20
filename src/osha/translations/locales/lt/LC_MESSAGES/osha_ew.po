@@ -146,7 +146,7 @@ msgstr "Europos darbuotojų saugos ir sveikatos agentūros(EU-OSHA) direktorius"
 
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "dalyvavo 2012–2013 m. Saugių darbo vietų kampanijoje."
+msgstr "dalyvavo 2012–2013 m. sveikų darbo vietų kampanijoje \"Bendromis jėgomis mažinkime riziką darbe\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Bendromis jėgomis mažinkime riziką darbe dalyvaujant vadovams ir darbuotojams"

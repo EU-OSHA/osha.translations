@@ -146,7 +146,7 @@ msgstr "az Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökség (
 
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "a biztonságos karbantartásról szóló 2012-2013."
+msgstr "részvételét a 2012-13-as \"Együtt a kockázatok megelőzéséért\" elnevezésű Egészséges Munkahelyek kampányban. "
 
 msgid "campaign_slogan_2012"
 msgstr "Együtt a kockázatok megelőzéséért által Vezetés és Dolgozói részvétel"

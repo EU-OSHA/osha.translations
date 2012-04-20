@@ -145,7 +145,7 @@ msgstr "Euroopa Tööohutuse ja Töötervishoiu Agentuuri direktor"
 ###############################################
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "Tervislikud töökohad 2012-2013."
+msgstr "osales tervislike töökohtade kampaanias 2012–2013 \"Ennetame riske üheskoos\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Ennetame riske üheskoos - juhtkonna ja töötajate osalus"

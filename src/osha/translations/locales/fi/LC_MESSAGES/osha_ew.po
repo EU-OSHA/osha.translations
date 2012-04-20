@@ -146,7 +146,7 @@ msgstr "Euroopan työturvallisuus- ja työterveysviraston (EU-OSHA) johtaja"
 ###############################################
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "vuosien 2012 – 2013 työpaikkaterveyskampanja."
+msgstr "Terveellinen työ -kampanja 2012-2013 'Yhteistyöllä riskit hallintaan'."
 
 msgid "campaign_slogan_2012"
 msgstr "Yhteistyöllä riskit hallintaan johtaen ja osallistuen"

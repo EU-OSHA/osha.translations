@@ -146,7 +146,7 @@ msgstr "Ředitel Evropské agentury pro bezpečnost a ochranu zdraví při prác
 
 #: Contriubution
 msgid "contribution_headline_2012"
-msgstr "na kampani Zdravé pracoviště týkající 2012-13."
+msgstr "v kampani Zdravé pracoviště pro období 2012–2013 na téma \"Partnerství při prevenci rizik\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Partnerství při prevenci rizik prostřednictvím vedení zaměstnanců a jejich účasti"
