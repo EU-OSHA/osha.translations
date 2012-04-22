@@ -144,7 +144,7 @@ msgstr "Direktor Evropske agencije za varnost in zdravje pri delu (EU-OSHA)"
 ###############################################
 #: Contriubution
 msgid "contribution_headline_2012"
-# msgstr "v kampanji Zdravo delovno okolje 2012–13 \"Partnerstvo za preprečevanje tveganj\"."
+msgstr "v kampanji Zdravo delovno okolje 2012–13 \"Partnerstvo za preprečevanje tveganj\"."
 
 msgid "campaign_slogan_2012"
 msgstr "Partnerstvo za preprečevanje tveganj z udeležbo vodstva in delavcev"
