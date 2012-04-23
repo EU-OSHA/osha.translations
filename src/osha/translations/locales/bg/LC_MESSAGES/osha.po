@@ -9859,7 +9859,7 @@ msgid "title_napo_episode_1_17"
 msgstr "The end"
 
 msgid "title_napo_episode_2_0"
-msgstr "The adventures of NAPO  "
+msgstr "The adventures of Napo"
 
 msgid "title_napo_episode_2_1"
 msgstr "The importance of signposting"

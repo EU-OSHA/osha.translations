@@ -9672,7 +9672,7 @@ msgstr "A co teď?"
 
 # NAPO 15 "Safe moves"
 msgid "heading_napo-015-safe-moves"
-msgstr "NAPO a... Bezpečnost v pohybu"
+msgstr "Napo a... Bezpečnost v pohybu"
 
 msgid "description_napo-015-safe-moves"
 msgstr "<p>Film je zaměřen na vnitrozávodovou dopravu. Ústředním tématem je obsluha zdvižných vozíků spolu s dalšími formami dopravy na pracovišti.</p><p>Film obsahuje scénky o bezpečnosti práce na pracovišti, o bezpečnosti pracovníků, o bezpečnosti motorových prostředků, údržbě, dobré viditelnosti, couvání a nakládání a vykládání nákladu. Je vhodný pro všechny zaměstnance, a zejména je vhodný pro nové zaměstnance a mladistvé.</p><p>Nosnou myšlenkou filmu je, že doprava na pracovišti musí být dobře organizována a řízena. To vyžaduje plánování, řízení provozu a monitorování nadřízenými, a v neposlední řadě vyhodnocení nebezpečí a rizik a přijetí hodných opatření k jejich omezení. Od zaměstnanců se vyžaduje odpovědný přístup a také je nutné, aby byli vhodně vyškoleni a setrvale pod dohledem nadřízeného. Úspěch přinese jen úzká spolupráce mezi zaměstnanci a zaměstnavateli.</p>"
@@ -9716,7 +9716,7 @@ msgstr "Expozice tabákovému kouři je škodlivá pro zdraví kuřáků i neku�
 
 # NAPO 17 "Working Together"
 msgid "heading_napo-017-working-together"
-msgstr "NAPO … Společně bezpečně"
+msgstr "Napo … Společně bezpečně"
 
 msgid "description_napo-017-working-together"
 msgstr "Když majitelka továrny poskytne rozhovor médiím o údajích o výrobě a bezpečnosti v jejím podniku, všechno není tak, jak by se na první pohled mohlo zdát. Přestože tvrdí, že bezpečnost je v podniku prioritou, skutečnost je trochu jiná. Svědčí o tom např. pracovní postupy, které nejsou bezpečné, nedodržování postupů a špatná komunikace. Film „Spolupráce“ se zabývá dvěma otázkami v oblasti prevence: kulturou a chováním. Zdůrazňuje, že za předpokladu spolupráce mezi vedoucími pracovníky a zaměstnavateli lze vytvořit bezpečnější, zdravější a produktivnější místo pro práci, a to na základě společného úsilí o zlepšení kultury bezpečnosti – „způsobu, jak to v podniku chodí“ – způsobu řízení bezpečnosti na pracovišti. Vedoucí pracovníci působí jako vůdci a efektivní vůdci dávají najevo své přesvědčení činy. Propagují BOZP a jdou příkladem, jsou vidět a jsou si vědomi hlavních problémů. Zaměstnanci je respektují a věří jim, protože mezi nimi existuje otevřená komunikace a dialog. Efektivní vůdci umí ocenit dobře odvedenou práci a v případě problémů dokáží rychle přijmout rozhodnutí. Zapojení zaměstnanců je oboustranný proces, v rámci něhož spolu vedoucí pracovníci a zaměstnanci hovoří, vzájemně naslouchají svým obavám, řeší problémy a sdílí názory a informace."

@@ -10064,7 +10064,7 @@ msgid "title_napo_episode_1_6"
 msgstr "Téléphone pour la lutte contre l'incendie  "
 
 msgid "title_napo_episode_2_0"
-msgstr "Les aventures de NAPO"
+msgstr "Les aventures de Napo"
 
 msgid "title_napo_episode_2_1"
 msgstr "De l'importance de la signalisation"
@@ -10388,7 +10388,7 @@ msgid "title_napo_film_13"
 msgstr "Napo dans... Protégez votre peau"
 
 msgid "description_napo_film_13"
-msgstr "<p>Ce film attire l'attention sur les dangers qu'implique l'exposition de la peau à des substances (pas toujours si) nocives, dans quels cas a lieu l'exposition et ce qui peut être fait pour éviter les risques, protéger votre peau et éviter tout dommage. Napo découvre plusieurs situations différentes où l'exposition à des produits chimiques et à d'autres substances peut provoquer des problèmes de peau. Il apprend tout sur les qualités étonnantes de la peau et se met à nu pour montrer à son public: ‘Tout ce que vous avez toujours voulu savoir sur... votre peau’. Il décrit les mesures à prendre pour éviter tout problème et a trois messages importants à transmettre: éviter– protéger– vérifier.</p><p>Il est possible d'éviter ou de réduire au minimum les contacts avec les produits chimiques si on élimine ces produits - en utilisant une méthode mécanique plutôt que chimique; si on les remplace - en mettant en oeuvre une méthode alternative plus sûre; et si on travaille à une distance sûre - en utilisant des outils plutôt qu'en manipulant ces produits directement. L'équipement de protection individuelle (EPI) est conçu pour protéger la peau, mais NAPO nous rappelle qu'il est important de soigner sa peau en procédant rapidement à une décontamination, en se lavant la peau correctement, en séchant parfaitement la peau et en appliquant régulièrement des crèmes pour la peau.</p><p>Enfin, Napo recommende de vérifier régulièrement l'apparition de tout signe précoce de problèmes de peau.</p>"
+msgstr "<p>Ce film attire l'attention sur les dangers qu'implique l'exposition de la peau à des substances (pas toujours si) nocives, dans quels cas a lieu l'exposition et ce qui peut être fait pour éviter les risques, protéger votre peau et éviter tout dommage. Napo découvre plusieurs situations différentes où l'exposition à des produits chimiques et à d'autres substances peut provoquer des problèmes de peau. Il apprend tout sur les qualités étonnantes de la peau et se met à nu pour montrer à son public: ‘Tout ce que vous avez toujours voulu savoir sur... votre peau’. Il décrit les mesures à prendre pour éviter tout problème et a trois messages importants à transmettre: éviter– protéger– vérifier.</p><p>Il est possible d'éviter ou de réduire au minimum les contacts avec les produits chimiques si on élimine ces produits - en utilisant une méthode mécanique plutôt que chimique; si on les remplace - en mettant en oeuvre une méthode alternative plus sûre; et si on travaille à une distance sûre - en utilisant des outils plutôt qu'en manipulant ces produits directement. L'équipement de protection individuelle (EPI) est conçu pour protéger la peau, mais Napo nous rappelle qu'il est important de soigner sa peau en procédant rapidement à une décontamination, en se lavant la peau correctement, en séchant parfaitement la peau et en appliquant régulièrement des crèmes pour la peau.</p><p>Enfin, Napo recommende de vérifier régulièrement l'apparition de tout signe précoce de problèmes de peau.</p>"
 
 # ---------- New Napo Film Number 14   Safe Maintenance
 msgid "title_napo_film_14"

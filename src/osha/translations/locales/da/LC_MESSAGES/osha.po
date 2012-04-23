@@ -9818,7 +9818,7 @@ msgid "title_napo_episode_1_6"
 msgstr "Brandalarm"
 
 msgid "title_napo_episode_2_0"
-msgstr "Eventyr med NAPO"
+msgstr "Eventyr med Napo"
 
 msgid "title_napo_episode_2_1"
 msgstr "Vigtigheden af skiltning"
@@ -9893,7 +9893,7 @@ msgid "title_napo_episode_4_7"
 msgstr "Skytsengle"
 
 msgid "title_napo_episode_5_0"
-msgstr "NAPO - sikkerhed på plads(en)"
+msgstr "Napo - sikkerhed på plads(en)"
 
 msgid "title_napo_episode_5_1"
 msgstr "Byg på sikkerhed "
@@ -9923,7 +9923,7 @@ msgid "title_napo_episode_5_9"
 msgstr "Happy End"
 
 msgid "title_napo_episode_6_0"
-msgstr "NAPO stopper støjen"
+msgstr "Napo stopper støjen"
 
 msgid "title_napo_episode_6_1"
 msgstr "Skaden er sket"
