@@ -10826,3 +10826,8 @@ msgstr "Thema"
 msgid "eu_osha_in_the_media"
 msgstr "EU-OSHA in the media"
 
+msgid "label_more_news"
+msgstr "More news"
+
+msgid "label_more_events"
+msgstr "More events"

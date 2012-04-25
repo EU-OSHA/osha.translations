@@ -8612,3 +8612,9 @@ msgstr "İş Güvenliği için Değer"
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Şimdi Hep Birlikte"
 
+msgid "label_more_news"
+msgstr "More news"
+
+msgid "label_more_events"
+msgstr "More events"
+

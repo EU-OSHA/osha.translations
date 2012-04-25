@@ -505,3 +505,9 @@ msgstr "Safety pays"
 
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "All together now"
+
+msgid "label_more_news"
+msgstr "More news"
+
+msgid "label_more_events"
+msgstr "More events"

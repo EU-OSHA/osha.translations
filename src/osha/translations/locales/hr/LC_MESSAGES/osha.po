@@ -1629,4 +1629,9 @@ msgstr "Hvala,"
 
 msgid "alertservice_email_footer2"
 msgstr "EU-OSHA obavijesni tim"
+msgid "label_more_news"
+msgstr "More news"
+
+msgid "label_more_events"
+msgstr "More events"
 

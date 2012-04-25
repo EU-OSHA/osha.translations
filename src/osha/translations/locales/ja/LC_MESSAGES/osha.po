@@ -4066,3 +4066,9 @@ msgstr "Publications"
 #. Duplicate msgstr
 msgid "osha_label_pressbox_publications"
 msgstr "Publications"
+
+msgid "label_more_news"
+msgstr "More news"
+
+msgid "label_more_events"
+msgstr "More events"
