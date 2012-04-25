@@ -8246,7 +8246,7 @@ msgstr "Subcategoría"
 
 #. Default: "Practical solutions"
 msgid "heading_practical_solutions"
-msgstr "Soluciones practices"
+msgstr "Soluciones prácticas"
 
 #. Default: "Useful links"
 msgid "label_useful_links"
