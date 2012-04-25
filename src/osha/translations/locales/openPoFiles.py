@@ -44,6 +44,7 @@ for dirname in dirs:
     names = [x for x in os.listdir(path) if x.endswith('po')]
     for name in names:
         if name == filename:
+            paths.append(dirname)
             paths.append('%s/%s' % (path, filename))
         #print "\nchecking", name
 
