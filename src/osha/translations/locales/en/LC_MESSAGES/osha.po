@@ -2321,3 +2321,6 @@ msgstr "More news"
 
 msgid "label_more_events"
 msgstr "More events"
+
+msgid "label_making_europe_safer"
+msgstr "Making Europe a safer, healthier and more productive place to work"
