@@ -10509,4 +10509,4 @@ msgid "label_more_news"
 msgstr "Weitere Nachrichten"
 
 msgid "label_more_events"
-msgstr "Weitere Termine"
+msgstr "Weitere Veranstaltungen"
