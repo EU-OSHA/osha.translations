@@ -4,8 +4,8 @@ osha.translations Changelog
 1.0.19 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- More news, More events #4923 [thomasw]
+- Napo 17 missing transaltions #4526 [thomasw]
 
 1.0.18 (2012-05-07)
 -------------------
