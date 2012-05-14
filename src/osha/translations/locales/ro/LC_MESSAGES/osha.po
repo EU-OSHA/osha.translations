@@ -9617,25 +9617,25 @@ msgid "description_napo-017-working-together"
 msgstr "Nem tudo é o que parece quando a proprietária da fábrica dá uma entrevista à comunicação social sobre a produção e os registos de segurança da empresa. A diferentes níveis, práticas de trabalho pouco seguras, o incumprimento de procedimentos e falhas de comunicação contradizem a sua mensagem de que a segurança é prioritária. \"Trabalhando juntos\" aborda duas questões na prevenção: cultura e comportamento. Sublinha que, trabalhando juntos, gestores e trabalhadores podem criar um local de trabalho mais seguro, saudável e produtivo baseando-se numa abordagem colaborativa para melhorar a cultura de segurança (\"a forma como fazemos as coisas aqui\"), ou seja, a forma como a segurança é gerida no local de trabalho. Os gestores são líderes; os líderes eficazes mostram o seu empenho através das suas ações. Promovem a SST e lideram dando o exemplo; são visíveis e estão conscientes das questões fundamentais. São respeitados e considerados fiáveis pelos trabalhadores graças a uma comunicação aberta e ao diálogo. Mostram reconhecimento quando as coisas são bem feitas e são decisivos quando as coisas correm mal. A participação dos trabalhadores é um processo bidirecional no qual gestores e trabalhadores dialogam, ouvem as preocupações do outro, resolvem problemas e partilham pontos de vista e informações."
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
-msgstr "Working together"
+msgstr "Lucrând împreună !"
 
 msgid "heading_napo-017-working-together-episode-002-bad-news"
-msgstr "Bad news"
+msgstr "Veşti proaste !"
 
 msgid "heading_napo-017-working-together-episode-003-the-detail"
-msgstr "The detail"
+msgstr "Atenţie la detaliu !"
 
 msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
-msgstr "We can work it out"
+msgstr "Putem rezolva împreuna !"
 
 msgid "heading_napo-017-working-together-episode-005-speak-up"
-msgstr "Speak up"
+msgstr "Informează !"
 
 msgid "heading_napo-017-working-together-episode-006-safety-pays"
-msgstr "Safety pays"
+msgstr "Securitatea - soluţia cea mai rentabilă !"
 
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
-msgstr "All together now"
+msgstr "Si acum toţi împreună !"
 
 ####
 # Alertservice
