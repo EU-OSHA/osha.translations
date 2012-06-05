@@ -10418,6 +10418,11 @@ msgstr "juhtkonna juhtimine"
 msgid "worker_participation"
 msgstr "töötajate osalemine"
 
+msgid "green_jobs"
+msgstr "rohelised töökohad"
+
+msgid "foresight"
+msgstr "Ülevaade"
 ####
 
 msgid "Our Events"

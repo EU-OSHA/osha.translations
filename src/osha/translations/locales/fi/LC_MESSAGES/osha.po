@@ -10444,6 +10444,11 @@ msgstr "hallinta"
 msgid "worker_participation"
 msgstr "työntekijöiden osallistuminen"
 
+msgid "green_jobs"
+msgstr "vihreät työpaikat"
+
+msgid "foresight"
+msgstr "Yleiskatsaus"
 ####
 
 msgid "Our Events"

@@ -10421,6 +10421,11 @@ msgstr "kierownictwo w zarządzaniu"
 msgid "worker_participation"
 msgstr "udział pracowników"
 
+msgid "green_jobs"
+msgstr "zielone miejsca pracy"
+
+msgid "foresight"
+msgstr "Przegląd"
 ####
 
 msgid "Our Events"

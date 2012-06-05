@@ -1689,6 +1689,12 @@ msgstr "Stjórnunarforysta"
 msgid "worker_participation"
 msgstr "Þátttaka starfsmanna"
 
+msgid "green_jobs"
+msgstr "græn störf"
+
+msgid "foresight"
+msgstr "Yfirlit"
+
 ####
 
 msgid "Our Events"

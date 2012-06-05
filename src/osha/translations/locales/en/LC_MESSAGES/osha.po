@@ -1688,6 +1688,12 @@ msgstr "Management leadership"
 msgid "worker_participation"
 msgstr "Worker participation"
 
+msgid "green_jobs"
+msgstr "Green Jobs"
+
+msgid "foresight"
+msgstr "Foresight"
+
 ####
 
 msgid "Our Events"

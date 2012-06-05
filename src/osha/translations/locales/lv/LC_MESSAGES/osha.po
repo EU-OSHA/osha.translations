@@ -10401,6 +10401,11 @@ msgstr "vadītāju vadība"
 msgid "worker_participation"
 msgstr "darba ņēmēju dalība"
 
+msgid "green_jobs"
+msgstr "ekoloģiskas darbavietas"
+
+msgid "foresight"
+msgstr "Pārskats"
 ####
 
 msgid "Our Events"

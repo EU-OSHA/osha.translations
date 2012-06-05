@@ -9801,6 +9801,13 @@ msgstr "управленско ръководство"
 msgid "worker_participation"
 msgstr "участие на работниците"
 
+
+msgid "green_jobs"
+msgstr "зелени работни места"
+
+msgid "foresight"
+msgstr "Преглед"
+
 ####
 # NAPO
 

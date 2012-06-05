@@ -10350,6 +10350,12 @@ msgstr "Managementführung"
 msgid "worker_participation"
 msgstr "Arbeitnehmerbeteiligung"
 
+msgid "green_jobs"
+msgstr "Grüne Arbeitsplätze"
+
+msgid "foresight"
+msgstr "Überblick"
+
 ####
 
 msgid "Our Events"

@@ -10269,6 +10269,12 @@ msgstr "direzione gestionale"
 msgid "worker_participation"
 msgstr "partecipazione dei lavoratori"
 
+msgid "green_jobs"
+msgstr "posti di lavoro verdi"
+
+msgid "foresight"
+msgstr "Panoramica"
+
 ####
 
 msgid "Our Events"

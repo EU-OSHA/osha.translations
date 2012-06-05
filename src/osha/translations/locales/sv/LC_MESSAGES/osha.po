@@ -10459,6 +10459,14 @@ msgstr "ledning och ledarskap"
 
 msgid "worker_participation"
 msgstr "arbetstagarnas medverkan"
+
+
+msgid "green_jobs"
+msgstr "gröna jobb"
+
+msgid "foresight"
+msgstr "Översikt"
+
 ####
 
 msgid "Our Events"

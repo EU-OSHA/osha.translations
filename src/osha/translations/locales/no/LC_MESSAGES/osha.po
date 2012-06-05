@@ -1706,6 +1706,12 @@ msgstr "ledelsens lederskap"
 msgid "worker_participation"
 msgstr "medarbeiderdeltakelse"
 
+msgid "green_jobs"
+msgstr "grønne jobber"
+
+msgid "foresight"
+msgstr "Oversikt"
+
 ####
 
 msgid "Our Events"

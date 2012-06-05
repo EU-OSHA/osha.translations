@@ -10412,6 +10412,11 @@ msgstr "spôsob vedenia na úrovni riadenia"
 msgid "worker_participation"
 msgstr "účasť zamestnancov"
 
+msgid "green_jobs"
+msgstr "zelené pracovné miesta"
+
+msgid "foresight"
+msgstr "Prehľad"
 ####
 
 msgid "Our Events"

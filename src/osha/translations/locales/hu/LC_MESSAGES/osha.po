@@ -10412,6 +10412,12 @@ msgstr "irányítás vezetés"
 
 msgid "worker_participation"
 msgstr "dolgozói részvétel"
+
+msgid "green_jobs"
+msgstr "zöld munkahelyek"
+
+msgid "foresight"
+msgstr "Áttekintés"
 ####
 
 msgid "Our Events"

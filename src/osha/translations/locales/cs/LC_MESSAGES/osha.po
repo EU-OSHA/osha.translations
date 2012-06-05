@@ -9937,6 +9937,13 @@ msgstr "způsob vedení na úrovni managementu"
 msgid "worker_participation"
 msgstr "účast zaměstnanců"
 
+
+msgid "green_jobs"
+msgstr "zelená pracovní místa"
+
+msgid "foresight"
+msgstr "Přehled"
+
 ####
 
 msgid "Our Events"

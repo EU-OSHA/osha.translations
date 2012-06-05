@@ -9835,6 +9835,11 @@ msgstr "aptitudini de conducere şi de gestionare"
 msgid "worker_participation"
 msgstr "participarea lucrătorilor"
 
+msgid "green_jobs"
+msgstr "locuri de muncă ecologice"
+
+msgid "foresight"
+msgstr "Prezentare generală"
 ####
 
 msgid "Our Events"

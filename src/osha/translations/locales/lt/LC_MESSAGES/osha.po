@@ -10414,6 +10414,12 @@ msgstr "valdymo lyderystė"
 msgid "worker_participation"
 msgstr "darbuotojų dalyvavimas"
 
+
+msgid "green_jobs"
+msgstr "su ekologija susiję darbai"
+
+msgid "foresight"
+msgstr "Apžvalga"
 ####
 
 msgid "Our Events"

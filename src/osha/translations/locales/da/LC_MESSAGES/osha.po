@@ -10421,6 +10421,11 @@ msgstr "Ledelsens lederskab"
 msgid "worker_participation"
 msgstr "Medarbejderdeltagelse"
 
+msgid "green_jobs"
+msgstr "grønne job"
+
+msgid "foresight"
+msgstr "Oversigt"
 ####
 
 msgid "Our Events"

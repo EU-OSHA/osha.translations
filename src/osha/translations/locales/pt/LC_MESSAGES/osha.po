@@ -10447,6 +10447,11 @@ msgstr "liderança da gestão"
 msgid "worker_participation"
 msgstr "participação dos trabalhadores"
 
+msgid "green_jobs"
+msgstr "empregos verdes"
+
+msgid "foresight"
+msgstr "Síntese"
 ####
 
 msgid "Our Events"

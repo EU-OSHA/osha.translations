@@ -10671,6 +10671,11 @@ msgstr "leiderschap door het management"
 msgid "worker_participation"
 msgstr "werknemersparticipatie"
 
+msgid "green_jobs"
+msgstr "groene banen"
+
+msgid "foresight"
+msgstr "Overzicht"
 ####
 
 msgid "Our Events"

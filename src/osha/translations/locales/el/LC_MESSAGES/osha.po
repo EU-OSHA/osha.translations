@@ -10421,6 +10421,11 @@ msgstr "ηγεσία της διοίκησης"
 msgid "worker_participation"
 msgstr "συμμετοχή των εργαζομένων"
 
+msgid "green_jobs"
+msgstr "\"πράσινες\" θέσεις εργασίας"
+
+msgid "foresight"
+msgstr "Συνοπτική περιγραφή"
 ####
 
 msgid "Our Events"

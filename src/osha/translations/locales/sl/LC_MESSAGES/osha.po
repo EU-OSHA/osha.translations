@@ -10431,6 +10431,11 @@ msgstr "prizadevanje vodstva"
 msgid "worker_participation"
 msgstr "soodločanje delavcev"
 
+msgid "green_jobs"
+msgstr "Zelena delovna mesta"
+
+msgid "foresight"
+msgstr "Pregled"
 ####
 
 msgid "Our Events"

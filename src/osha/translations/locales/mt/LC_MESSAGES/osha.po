@@ -10400,6 +10400,11 @@ msgstr "tmexxija amministrattiva"
 msgid "worker_participation"
 msgstr "parteċipazzjoni tal-ħaddiema"
 
+msgid "green_jobs"
+msgstr "impjiegi ħodor"
+
+msgid "foresight"
+msgstr "Ħarsa ġenerali"
 ####
 
 msgid "Our Events"

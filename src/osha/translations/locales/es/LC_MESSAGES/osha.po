@@ -9700,6 +9700,11 @@ msgstr "liderazgo de la gestión"
 msgid "worker_participation"
 msgstr "participación de los trabajadores"
 
+msgid "green_jobs"
+msgstr "trabajos \"verdes\""
+
+msgid "foresight"
+msgstr "Visión general"
 ####
 
 msgid "Our Events"
