@@ -4,8 +4,7 @@ osha.translations Changelog
 1.0.20 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Green Jobs, Foresight #4127 [thomasw]
 
 1.0.19 (2012-05-29)
 -------------------
