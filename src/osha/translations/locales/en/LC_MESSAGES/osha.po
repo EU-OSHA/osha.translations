@@ -1436,7 +1436,7 @@ msgstr "Publications – sorted by type of publication"
 
 
 msgid "osha_label_eu_media_coverage"
-msgstr "EU media coverage"
+msgstr "EU-OSHA in the media"
 
 msgid "oshmail_intro_welcome"
 msgstr "Welcome to ${oshmail}, the electronic newsletter issued by the European Agency for Safety and Health at Work."
