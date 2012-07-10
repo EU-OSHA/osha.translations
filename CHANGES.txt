@@ -4,7 +4,7 @@ osha.translations Changelog
 1.0.21 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Link from Publications to OSHmail #3753 [deroiste]
 
 
 1.0.20 (2012-07-10)

@@ -1851,3 +1851,13 @@ msgstr ""
 #. Default: Press and Multimedia"
 msgid "osha_label_press_and_multimedia"
 msgstr ""
+
+#. Default: OSHmail newsletter
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr ""
+
+#. Default: Stay in touch with the latest developments in occupational safety and health. ${Subscribe} now to get your monthly update.
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr ""

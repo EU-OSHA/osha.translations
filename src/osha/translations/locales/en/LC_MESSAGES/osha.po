@@ -2330,3 +2330,11 @@ msgstr "More events"
 
 msgid "label_making_europe_safer"
 msgstr "Making Europe a safer, healthier and more productive place to work"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail newsletter"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Stay in touch with the latest developments in occupational safety and health. ${Subscribe} now to get your monthly update."
