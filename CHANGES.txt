@@ -1,10 +1,11 @@
 osha.translations Changelog
 ===========================
 
-1.0.20 (unreleased)
+1.0.20 (2012-07-10)
 -------------------
 
 - Green Jobs, Foresight #4127 [thomasw]
+- EU-OSHA in the media (EN ONLY) #4375 [thomasw]
 
 1.0.19 (2012-05-29)
 -------------------
