@@ -10567,3 +10567,7 @@ msgstr "Vairāk ziņas"
 
 msgid "label_more_events"
 msgstr "Vairāk notikumu"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "OSH globālā meklēšana"

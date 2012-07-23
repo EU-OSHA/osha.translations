@@ -10596,3 +10596,7 @@ msgstr "Druge novice"
 
 msgid "label_more_events"
 msgstr "Druge prireditve"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Splošno iskanje OSH"

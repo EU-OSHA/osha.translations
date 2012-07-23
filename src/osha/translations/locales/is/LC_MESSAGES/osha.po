@@ -2354,3 +2354,7 @@ msgstr "Aðrar fréttir"
 
 msgid "label_more_events"
 msgstr "Aðrir viðburðir"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "OSH Global Search"

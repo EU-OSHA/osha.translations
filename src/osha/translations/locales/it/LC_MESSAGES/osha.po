@@ -10435,3 +10435,7 @@ msgstr "Maggiori informazioni"
 
 msgid "label_more_events"
 msgstr "Più eventi"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Ricerca globale SSL"

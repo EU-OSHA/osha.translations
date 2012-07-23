@@ -2338,3 +2338,7 @@ msgstr "OSHmail newsletter"
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
 msgstr "Stay in touch with the latest developments in occupational safety and health. ${Subscribe} now to get your monthly update."
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "OSH Global Search"

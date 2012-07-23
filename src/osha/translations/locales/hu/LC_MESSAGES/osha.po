@@ -10578,3 +10578,7 @@ msgstr "További hírek"
 
 msgid "label_more_events"
 msgstr "További események"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "OSH globális keresés"

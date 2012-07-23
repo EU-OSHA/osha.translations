@@ -10586,3 +10586,7 @@ msgstr "Więcej informacji"
 
 msgid "label_more_events"
 msgstr "Więcej wydarzeń"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Globalne wyszukiwanie - BHP"

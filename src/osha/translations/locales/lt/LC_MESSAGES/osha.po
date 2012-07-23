@@ -10580,3 +10580,7 @@ msgstr "Daugiau naujienų"
 
 msgid "label_more_events"
 msgstr "Daugiau rengini"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "DSS pasaulinė paieška"

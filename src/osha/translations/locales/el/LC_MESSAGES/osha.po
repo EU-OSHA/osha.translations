@@ -10586,3 +10586,7 @@ msgstr "Περισσότερα νέα"
 
 msgid "label_more_events"
 msgstr "Περισσότερες εκδηλώσεις"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Γενικευμένη αναζήτηση OSHA"

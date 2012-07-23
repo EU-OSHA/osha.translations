@@ -10576,3 +10576,7 @@ msgstr "Viac noviniek"
 
 msgid "label_more_events"
 msgstr "Viac podujatí"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Nástroj na globálne vyhľadávanie v oblasti BOZP"

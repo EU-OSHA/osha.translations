@@ -10836,3 +10836,7 @@ msgstr "Meer nieuws"
 
 msgid "label_more_events"
 msgstr "Meer evenementen"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Globaal zoeken op OSH"

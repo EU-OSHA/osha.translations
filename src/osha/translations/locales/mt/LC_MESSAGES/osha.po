@@ -10565,3 +10565,7 @@ msgstr "Iżjed aħbarijiet"
 
 msgid "label_more_events"
 msgstr "Iżjed avvenimenti"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Tiftix globali EU-OSHA"

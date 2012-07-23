@@ -10609,3 +10609,7 @@ msgstr "Lisää uutisia"
 
 msgid "label_more_events"
 msgstr "Lisää tapahtumia"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Globaali TTT-haku"

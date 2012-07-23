@@ -10516,3 +10516,7 @@ msgstr "Weitere Nachrichten"
 
 msgid "label_more_events"
 msgstr "Weitere Veranstaltungen"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "OSH - Globale Suche"

@@ -10588,3 +10588,6 @@ msgstr "Flere nyheder"
 msgid "label_more_events"
 msgstr "Flere arrangementer"
 
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "OSHA samlet søgning"

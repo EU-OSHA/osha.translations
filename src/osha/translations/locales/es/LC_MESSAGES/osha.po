@@ -9865,3 +9865,7 @@ msgstr "Otras noticias"
 
 msgid "label_more_events"
 msgstr "Más noticias"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Búsqueda global en materia de SST"

@@ -10000,3 +10000,7 @@ msgstr "Mai multe ştiri"
 
 msgid "label_more_events"
 msgstr "Mai multe evenimente"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Căutare globală SSM"

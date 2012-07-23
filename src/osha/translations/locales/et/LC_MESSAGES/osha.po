@@ -10584,3 +10584,7 @@ msgstr "Veel uudiseid"
 
 msgid "label_more_events"
 msgstr "Veel üritusi"
+
+#. Default: OSH Global Search
+msgid "label_osh_global_search"
+msgstr "Tööohutuse ja -tervishoiu üldotsing"
