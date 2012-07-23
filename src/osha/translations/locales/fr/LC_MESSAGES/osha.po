@@ -10464,7 +10464,7 @@ msgid "heading_napo-017-working-together"
 msgstr "Napo dans... Travailler ensemble !"
 
 msgid "description_napo-017-working-together"
-msgstr "<p>La directrice de l’usine annonce à la presse son bilan en termes de production et sur les aspects de sécurité. Il semble excellent. Mais qu’en est-il des pratiques de travail à risque, du non-respect des procédures et du manque de communication?</p><p>Ce film traite de la prévention des risques professionnels en présentant l’importance d’acquérir une culture commune en matière de sécurité tout en favorisant l’implication de chacun des acteurs de l’entreprise dans cette démarche. En travaillant et dialoguant ensemble, encadrement et salariés peuvent améliorer la sécurité et la santé au travail, mais aussi la productiv</p>"
+msgstr "<p>La directrice de l’usine annonce à la presse son bilan en termes de production et sur les aspects de sécurité. Il semble excellent. Mais qu’en est-il des pratiques de travail à risque, du non-respect des procédures et du manque de communication?</p><p>Ce film traite de la prévention des risques professionnels en présentant l’importance d’acquérir une culture commune en matière de sécurité tout en favorisant l’implication de chacun des acteurs de l’entreprise dans cette démarche. En travaillant et dialoguant ensemble, encadrement et salariés peuvent améliorer la sécurité et la santé au travail, mais aussi la productivité.</p>"
 
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Travailler ensemble !"
