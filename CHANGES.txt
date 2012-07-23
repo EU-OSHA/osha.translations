@@ -5,6 +5,8 @@ osha.translations Changelog
 -------------------
 
 - Link from Publications to OSHmail #3753 [deroiste]
+- Translated "OSH Global Search" #4155 [thomasw]
+- Fixed typo for French NAPO #5498 [thomasw]
 
 
 1.0.20 (2012-07-10)
