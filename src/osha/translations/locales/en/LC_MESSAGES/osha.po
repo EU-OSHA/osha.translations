@@ -1187,7 +1187,7 @@ msgstr "More related content"
 #. Default: "Upcoming Events"
 #: CMFPlone/skins/plone_deprecated/portlet_events.pt:16
 msgid "box_events"
-msgstr "Upcoming Events"
+msgstr "Events"
 
 # Press Room
 msgid "osha_label_pressbox_pressreleases"
