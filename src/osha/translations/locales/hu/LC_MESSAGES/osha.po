@@ -10582,3 +10582,6 @@ msgstr "További események"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "OSH globális keresés"
+
+msgid "napo_back_to_lesson"
+msgstr "Vissza a leckéhez"

@@ -10453,3 +10453,7 @@ msgstr "Повече събития"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Глобално търсене в EU-OSHA"
+
+msgid "napo_back_to_lesson"
+msgstr "Назад към урока"
+

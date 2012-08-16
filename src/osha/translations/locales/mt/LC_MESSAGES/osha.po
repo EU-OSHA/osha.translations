@@ -10569,3 +10569,6 @@ msgstr "Iżjed avvenimenti"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Tiftix globali EU-OSHA"
+
+msgid "napo_back_to_lesson"
+msgstr "Lura għat-tagħlim"

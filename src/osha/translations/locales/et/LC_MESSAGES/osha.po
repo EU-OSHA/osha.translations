@@ -10588,3 +10588,7 @@ msgstr "Veel üritusi"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Tööohutuse ja -tervishoiu üldotsing"
+
+msgid "napo_back_to_lesson"
+msgstr "Tagasi koolitundi"
+

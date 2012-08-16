@@ -10580,3 +10580,6 @@ msgstr "Viac podujatí"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Nástroj na globálne vyhľadávanie v oblasti BOZP"
+
+msgid "napo_back_to_lesson"
+msgstr "Späť na lekciu"

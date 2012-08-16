@@ -10590,3 +10590,6 @@ msgstr "Więcej wydarzeń"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Globalne wyszukiwanie - BHP"
+
+msgid "napo_back_to_lesson"
+msgstr "Powrót do lekcji"

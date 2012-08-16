@@ -2358,3 +2358,7 @@ msgstr "Aðrir viðburðir"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "OSH Global Search"
+
+msgid "napo_back_to_lesson"
+msgstr "Aftur í námsefnið"
+

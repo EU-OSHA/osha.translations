@@ -10520,3 +10520,6 @@ msgstr "Weitere Veranstaltungen"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "OSH - Globale Suche"
+
+msgid "napo_back_to_lesson"
+msgstr "Zurück zur Lektion"

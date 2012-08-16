@@ -10591,3 +10591,7 @@ msgstr "Flere arrangementer"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "OSHA samlet søgning"
+
+msgid "napo_back_to_lesson"
+msgstr "Tilbage til lektion"
+

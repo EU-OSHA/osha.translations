@@ -10584,3 +10584,6 @@ msgstr "Daugiau rengini"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "DSS pasaulinė paieška"
+
+msgid "napo_back_to_lesson"
+msgstr "Atgal į pamoką"

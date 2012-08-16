@@ -10600,3 +10600,7 @@ msgstr "Druge prireditve"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Splošno iskanje OSH"
+
+msgid "napo_back_to_lesson"
+msgstr "Nazaj na lekcijo"
+

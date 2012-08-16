@@ -9869,3 +9869,6 @@ msgstr "Más noticias"
 #. Default: OSH Global Search
 msgid "label_osh_global_search"
 msgstr "Búsqueda global en materia de SST"
+
+msgid "napo_back_to_lesson"
+msgstr "Volver a la lección"
