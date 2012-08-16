@@ -10442,3 +10442,11 @@ msgstr "Ricerca globale SSL"
 
 msgid "napo_back_to_lesson"
 msgstr "Torna alla lezione"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail, la newsletter elettronica dell'Agenzia"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Chi desidera rimanere al corrente degli ultimi sviluppi in tema di sicurezza e salute sul lavoro, è invitato ad abbonarsi al nostro mensile di aggiornamento."

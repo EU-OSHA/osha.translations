@@ -10587,3 +10587,11 @@ msgstr "DSS pasaulinė paieška"
 
 msgid "napo_back_to_lesson"
 msgstr "Atgal į pamoką"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail naujienlaiškis"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Sužinokite apie naujausius įvykius darbuotojų saugos ir sveikatos srityje. ${Užsisakykite leidinį} dabar ir kas mėnesį gaukite naujausias žinias."

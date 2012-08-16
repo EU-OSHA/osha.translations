@@ -10604,3 +10604,10 @@ msgstr "Splošno iskanje OSH"
 msgid "napo_back_to_lesson"
 msgstr "Nazaj na lekcijo"
 
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Glasilo OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Ostanite v stiku z najnovejšim dogajanjem v zvezi z varnostjo in zdravjem pri delu. Naročite se zdaj in mesečno prejemajte novice."

@@ -10593,3 +10593,11 @@ msgstr "Γενικευμένη αναζήτηση OSHA"
 
 msgid "napo_back_to_lesson"
 msgstr "Επιστροφή στο μάθημα"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Ενημερωτικό δελτίο OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Ενημερωθείτε σχετικά με τις πρόσφατες εξελίξεις στον τομέα της επαγγελματικής ασφάλειας και υγείας. ${Εγγραφείτε} τώρα για να λαμβάνετε τη μηνιαία επικαιροποίηση."

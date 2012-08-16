@@ -10595,3 +10595,10 @@ msgstr "OSHA samlet søgning"
 msgid "napo_back_to_lesson"
 msgstr "Tilbage til lektion"
 
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Nyhedsbrevet OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Læs om de seneste udviklinger på arbejdsmiljøområdet. ${Abonnér} nu, og bliv opdateret hver måned."

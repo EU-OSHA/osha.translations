@@ -9872,3 +9872,11 @@ msgstr "Búsqueda global en materia de SST"
 
 msgid "napo_back_to_lesson"
 msgstr "Volver a la lección"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Boletín OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Manténgase informado de las últimas evoluciones en materia de seguridad y salud. Suscríbase ahora para recibir una actualización todos los meses."

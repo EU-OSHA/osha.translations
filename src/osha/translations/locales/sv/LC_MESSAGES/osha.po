@@ -10634,3 +10634,11 @@ msgstr "OSH global search"
 
 msgid "napo_back_to_lesson"
 msgstr "Tillbaka till lektion"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Nyhetsbrevet OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Håll dig uppdaterad om den senaste utvecklingen på arbetsmiljöområdet! ${Prenumerera} nu, så får du en uppdatering varje månad."

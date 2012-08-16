@@ -10112,3 +10112,11 @@ msgstr "Globální vyhledávání v oblasti BOZP"
 
 msgid "napo_back_to_lesson"
 msgstr "Zpět do školních lavic"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Zpravodaj OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Držte krok s nejnovějším vývojem v oblasti bezpečnosti a ochrany zdraví při práci. ${Přihlaste se} nyní k odběru novinek zasílaných jednou měsíčně."

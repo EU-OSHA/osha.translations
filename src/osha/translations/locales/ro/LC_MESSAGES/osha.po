@@ -10007,3 +10007,11 @@ msgstr "Căutare globală SSM"
 
 msgid "napo_back_to_lesson"
 msgstr "Înapoi la lecţie"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Buletinul informativ OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Aflaţi cele mai noi evoluţii în domeniul securităţii şi sănătăţii la locul de muncă. $(Incrieţi-vă) acum pentru a primi informaţii lunar."

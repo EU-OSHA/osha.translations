@@ -10523,3 +10523,11 @@ msgstr "OSH - Globale Suche"
 
 msgid "napo_back_to_lesson"
 msgstr "Zurück zur Lektion"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Newsletter OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Bleiben Sie bezüglich der jüngsten Entwicklungen bei Sicherheit und Gesundheitsschutz am Arbeitsplatz auf dem Laufenden. ${Abonnieren} Sie jetzt, um monatlich informiert zu werden"

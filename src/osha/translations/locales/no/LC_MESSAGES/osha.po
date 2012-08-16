@@ -2379,3 +2379,11 @@ msgstr "OSH Global Search"
 
 msgid "napo_back_to_lesson"
 msgstr "Tilbake til undervisningen"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Nyhetsbrevet OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Hold deg oppdatert på det nyeste innen helse og sikkerhet på arbeidsplassen. ${Subscribe} nå for å motta månedlige oppdateringer."

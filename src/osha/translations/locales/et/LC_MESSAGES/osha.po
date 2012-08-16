@@ -10592,3 +10592,10 @@ msgstr "Tööohutuse ja -tervishoiu üldotsing"
 msgid "napo_back_to_lesson"
 msgstr "Tagasi koolitundi"
 
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Uudiskiri OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Olge kursis tööohutuse ja töötervishoiu valdkonna uudistega. ${Tellige} kohe ning saate uudiskirja kord kuus."

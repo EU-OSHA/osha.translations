@@ -10844,3 +10844,10 @@ msgstr "Globaal zoeken op OSH"
 msgid "napo_back_to_lesson"
 msgstr "Terug naar de les"
 
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail-nieuwsbrief"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Blijf op de hoogte van de laatste ontwikkelingen op het gebied van veiligheid en gezondheid op het werk. ${Abonneer u} nu op onze maandelijkse nieuwsbrief."

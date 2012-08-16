@@ -10616,3 +10616,11 @@ msgstr "Globaali TTT-haku"
 
 msgid "napo_back_to_lesson"
 msgstr "Palaa esitelmään"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail-kuukausitiedote"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Pysyttele ajan tasalla työturvallisuus- ja työterveysalan tuoreimmista edistysaskeleista: ${tilaa} nyt kuukausitiedotteemme."

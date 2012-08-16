@@ -10857,3 +10857,11 @@ msgstr "Recherche SST globale"
 
 msgid "napo_back_to_lesson"
 msgstr "Retour à la leçon"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Lettre électronique d'information OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Restez informé des dernières évolutions en matière de sécurité et de santé au travail. ${Inscrivez-vous} maintenant pour recevoir vos informations mensuelles."

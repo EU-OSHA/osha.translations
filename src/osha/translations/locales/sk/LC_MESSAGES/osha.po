@@ -10583,3 +10583,11 @@ msgstr "Nástroj na globálne vyhľadávanie v oblasti BOZP"
 
 msgid "napo_back_to_lesson"
 msgstr "Späť na lekciu"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Bulletin OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Buďte informovaní o najnovšom vývoji v oblasti bezpečnosti a ochrany zdravia pri práci. ${Prihláste sa} teraz na mesačný odber noviniek."

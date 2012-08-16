@@ -10457,3 +10457,10 @@ msgstr "Глобално търсене в EU-OSHA"
 msgid "napo_back_to_lesson"
 msgstr "Назад към урока"
 
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "Бюлетин OSHmail"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Осведомете се за последните развития в областта на безопасността и здравето при работа. ${Абонирайте се}, за да получавате новини всеки месец."

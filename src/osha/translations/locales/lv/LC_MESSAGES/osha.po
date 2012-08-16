@@ -10574,3 +10574,11 @@ msgstr "OSH globālā meklēšana"
 
 msgid "napo_back_to_lesson"
 msgstr "Atgriezties pie nodarbības"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail informatīvais biļetens"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Turpini uzzināt par jaunākajām izmaiņām darba drošībā un veselības aizsardzībā. ${Pieraksties} tagad, lai katru mēnesi saņemtu jaunāko informāciju."

@@ -10585,3 +10585,11 @@ msgstr "OSH globális keresés"
 
 msgid "napo_back_to_lesson"
 msgstr "Vissza a leckéhez"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "OSHmail newsletter"
+msgstr "OSHmail hírlevél"
+
+#: osha/theme/browser/templates/publicationlist.pt
+msgid "subscribe_to_oshmail_long"
+msgstr "Kövesse a munkahelyi biztonsággal és egészséggel kapcsolatos fejleményeket. ${Iratkozzon fel} a havi újdonságokért."
