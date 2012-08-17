@@ -10592,4 +10592,4 @@ msgstr "OSHmail hírlevél"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Kövesse a munkahelyi biztonsággal és egészséggel kapcsolatos fejleményeket. ${Iratkozzon fel} a havi újdonságokért."
+msgstr "Kövesse a munkahelyi biztonsággal és egészséggel kapcsolatos fejleményeket. ${Subscribe} a havi újdonságokért."

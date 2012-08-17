@@ -10601,4 +10601,4 @@ msgstr "Nyhedsbrevet OSHmail"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Læs om de seneste udviklinger på arbejdsmiljøområdet. ${Abonnér} nu, og bliv opdateret hver måned."
+msgstr "Læs om de seneste udviklinger på arbejdsmiljøområdet. ${Subscribe} nu, og bliv opdateret hver måned."

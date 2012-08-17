@@ -10625,4 +10625,4 @@ msgstr "Boletim informativo OSHmail"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Fique a par dos últimos desenvolvimentos no domínio da segurança e saúde no local de trabalho. ${Assine} agora para obter a sua edição mensal."
+msgstr "Fique a par dos últimos desenvolvimentos no domínio da segurança e saúde no local de trabalho. ${Subscribe} agora para obter a sua edição mensal."

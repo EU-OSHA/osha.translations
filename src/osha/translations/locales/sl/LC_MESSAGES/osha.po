@@ -10610,4 +10610,4 @@ msgstr "Glasilo OSHmail"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Ostanite v stiku z najnovejšim dogajanjem v zvezi z varnostjo in zdravjem pri delu. Naročite se zdaj in mesečno prejemajte novice."
+msgstr "Ostanite v stiku z najnovejšim dogajanjem v zvezi z varnostjo in zdravjem pri delu. ${Subscribe} se zdaj in mesečno prejemajte novice."

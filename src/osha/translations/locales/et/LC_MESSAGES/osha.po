@@ -10598,4 +10598,4 @@ msgstr "Uudiskiri OSHmail"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Olge kursis tööohutuse ja töötervishoiu valdkonna uudistega. ${Tellige} kohe ning saate uudiskirja kord kuus."
+msgstr "Olge kursis tööohutuse ja töötervishoiu valdkonna uudistega. ${Subscribe} kohe ning saate uudiskirja kord kuus."

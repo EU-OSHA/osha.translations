@@ -10590,4 +10590,4 @@ msgstr "Bulletin OSHmail"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Buďte informovaní o najnovšom vývoji v oblasti bezpečnosti a ochrany zdravia pri práci. ${Prihláste sa} teraz na mesačný odber noviniek."
+msgstr "Buďte informovaní o najnovšom vývoji v oblasti bezpečnosti a ochrany zdravia pri práci. ${Subscribe} teraz na mesačný odber noviniek."

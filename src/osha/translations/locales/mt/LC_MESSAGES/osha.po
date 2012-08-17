@@ -10579,4 +10579,4 @@ msgstr "In-newsletter tal-OSHmail"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Ibqa' aġġornat mal-aħħar żviluppi fis-sikurezza u s-saħħa fuq il-post tax-xogħol. ${Abbona} issa biex ikollok l-aġġornament ta' kull xahar."
+msgstr "Ibqa' aġġornat mal-aħħar żviluppi fis-sikurezza u s-saħħa fuq il-post tax-xogħol. ${Subscribe} issa biex ikollok l-aġġornament ta' kull xahar."

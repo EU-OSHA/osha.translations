@@ -2368,4 +2368,4 @@ msgstr "OSHmail fréttabréfið"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Vertu með puttann á púlsinum þegar kemur að nýjustu þróun vinnuverndarmála. ${Gerðstu áskrifandi} núna til þess að fá fréttabréfið sent mánaðarlega."
+msgstr "Vertu með puttann á púlsinum þegar kemur að nýjustu þróun vinnuverndarmála. ${Subscribe} núna til þess að fá fréttabréfið sent mánaðarlega."

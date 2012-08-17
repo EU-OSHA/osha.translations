@@ -10623,4 +10623,4 @@ msgstr "OSHmail-kuukausitiedote"
 
 #: osha/theme/browser/templates/publicationlist.pt
 msgid "subscribe_to_oshmail_long"
-msgstr "Pysyttele ajan tasalla työturvallisuus- ja työterveysalan tuoreimmista edistysaskeleista: ${tilaa} nyt kuukausitiedotteemme."
+msgstr "Pysyttele ajan tasalla työturvallisuus- ja työterveysalan tuoreimmista edistysaskeleista: ${Subscribe} nyt kuukausitiedotteemme."
