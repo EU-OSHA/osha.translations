@@ -44,8 +44,13 @@ setup(name='osha.translations',
       install_requires=[
           'setuptools',
       ],
+      extras_require={
+          'podiff': ['polib'],
+      },
       entry_points="""
       [z3c.autoinclude.plugin]
       target = plone
+      [console_scripts]
+      podiff = osha.translations:podiff
       """,
       )
