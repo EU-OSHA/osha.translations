@@ -3,10 +3,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: 2004-12-17 07:49+0000\n"
+"POT-Creation-Date: Wed Sep 12 07:26:30 2012\n"
 "PO-Revision-Date: 2005-02-01 12:00+0100\n"
 "Last-Translator: EU\n"
 "Language-Team: EU\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,501 +17,5366 @@ msgstr ""
 "Preferred-Encodings: UTF-8\n"
 "Domain: osha\n"
 
-msgid "title_napo_episode_1_0"
-msgstr "Best signs story"
-
-msgid "title_napo_episode_1_1"
-msgstr "Danger"
-
-msgid "title_napo_episode_1_2"
-msgstr "Danger - suspended load  "
-
-msgid "title_napo_episode_1_3"
-msgstr "Danger - fork-lift trucks  "
-
-msgid "title_napo_episode_1_4"
-msgstr "Prohibition signs"
-
-msgid "title_napo_episode_1_5"
-msgstr "No smoking"
-
-msgid "title_napo_episode_1_6"
-msgstr "No fork-lift trucks  "
-
-msgid "title_napo_episode_1_7"
-msgstr "Mandantory signs"
-
-msgid "title_napo_episode_1_8"
-msgstr "Safety goggles must be worn  "
-
-msgid "title_napo_episode_1_9"
-msgstr "Hearing protection must be worn  "
-
-msgid "title_napo_episode_1_10"
-msgstr "Safety helmet must be worn  "
-
-msgid "title_napo_episode_1_11"
-msgstr "Rescue signs"
-
-msgid "title_napo_episode_1_12"
-msgstr "Rescue route  "
-
-msgid "title_napo_episode_1_13"
-msgstr "First aid  "
-
-msgid "title_napo_episode_1_14"
-msgstr "Fire protection signs"
-
-msgid "title_napo_episode_1_15"
-msgstr "Fire-extinguishing equipment  "
-
-msgid "title_napo_episode_1_16"
-msgstr "Fire alarm system  "
-
-msgid "title_napo_episode_1_17"
-msgstr "The end"
-
-msgid "title_napo_episode_2_0"
-msgstr "The adventures of NAPO  "
-
-msgid "title_napo_episode_2_1"
-msgstr "The importance of signposting"
-
-msgid "title_napo_episode_2_2"
-msgstr "Signposting is not sufficient"
-
-msgid "title_napo_episode_2_3"
-msgstr "Labels should be read"
-
-msgid "title_napo_episode_2_4"
-msgstr "Choose public transports"
-
-msgid "title_napo_episode_2_5"
-msgstr "The right protection at the right time"
-
-msgid "title_napo_episode_2_6"
-msgstr "Improvising means risk taking"
-
-msgid "title_napo_episode_2_7"
-msgstr "Each product has its own packaging"
-
-msgid "title_napo_episode_2_8"
-msgstr "Too much pressure is likely to be harmful"
-
-msgid "title_napo_episode_2_9"
-msgstr "Unsuitable material + incompetence = accident"
-
-msgid "title_napo_episode_3_0"
-msgstr "Scratch and sniff - chemical risks at work"
-
-msgid "title_napo_episode_3_1"
-msgstr "Harmful"
-
-msgid "title_napo_episode_3_2"
-msgstr "Irritant"
-
-msgid "title_napo_episode_3_3"
-msgstr "Flammable"
-
-msgid "title_napo_episode_3_4"
-msgstr "Corrosive"
-
-msgid "title_napo_episode_3_5"
-msgstr "Toxic"
-
-msgid "title_napo_episode_3_6"
-msgstr "Dangerous for the environment"
-
-msgid "title_napo_episode_3_7"
-msgstr "The end"
-
-msgid "title_napo_episode_4_0"
-msgstr "Clean Sweep"
-
-msgid "title_napo_episode_4_1"
-msgstr "Change of plan"
-
-msgid "title_napo_episode_4_2"
-msgstr "Work at height"
-
-msgid "title_napo_episode_4_3"
-msgstr "Enough is enough"
-
-msgid "title_napo_episode_4_4"
-msgstr "Safety plan"
-
-msgid "title_napo_episode_4_5"
-msgstr "Yellow card"
-
-msgid "title_napo_episode_4_6"
-msgstr "Bodybuilding"
-
-msgid "title_napo_episode_4_7"
-msgstr "Safety angels"
-
-msgid "title_napo_episode_4_8"
-msgstr "The end"
-
-
-msgid "title_napo_episode_5_0"
-msgstr "Napo - safe on site"
-
-msgid "title_napo_episode_5_1"
-msgstr "Building in safety"
-
-msgid "title_napo_episode_5_2"
-msgstr "Don't fall for it"
-
-msgid "title_napo_episode_5_3"
-msgstr "Heading for a fall"
-
-msgid "title_napo_episode_5_4"
-msgstr "Champions of the world"
-
-msgid "title_napo_episode_5_5"
-msgstr "Lightning strike"
-
-msgid "title_napo_episode_5_6"
-msgstr "Keep them apart"
-
-msgid "title_napo_episode_5_7"
-msgstr "Five star treatment"
-
-msgid "title_napo_episode_5_8"
-msgstr "Bad dream"
-
-msgid "title_napo_episode_5_9"
-msgstr "Safe landing"
-
-msgid "title_napo_episode_6_0"
-msgstr "Napo in stop that noise !"
-
-msgid "title_napo_episode_6_1"
-msgstr "Irreparable"
-
-msgid "title_napo_episode_6_2"
-msgstr "Didn't hear it coming "
-
-msgid "title_napo_episode_6_3"
-msgstr "Noise in the office"
-
-msgid "title_napo_episode_6_4"
-msgstr "Problem pregnancy"
-
-msgid "title_napo_episode_6_5"
-msgstr "Out in the cold"
-
-msgid "title_napo_episode_6_6"
-msgstr "Don't make things worse"
-
-msgid "title_napo_episode_6_7"
-msgstr "The end"
-
-msgid "title_napo_episode_7_0"
-msgstr "Safe start"
-
-msgid "title_napo_episode_7_1"
-msgstr "Don't hesitate to ask questions"
-
-msgid "title_napo_episode_7_2"
-msgstr "Attention listen up"
-
-msgid "title_napo_episode_7_3"
-msgstr "Information overload"
-
-msgid "title_napo_episode_7_4"
-msgstr "Watch out for others too"
-
-msgid "title_napo_episode_7_5"
-msgstr "Overconfidence is dangerous"
-
-msgid "title_napo_episode_7_6"
-msgstr "The end"
-
-msgid "title_napo_episode_8_0"
-msgstr "Start"
-
-msgid "title_napo_episode_8_1"
-msgstr "Modern stressful times"
-
-msgid "title_napo_episode_8_2"
-msgstr "Divide and rule"
-
-msgid "title_napo_episode_8_3"
-msgstr "Radical ergonomics"
-
-msgid "title_napo_episode_8_4"
-msgstr "Twist and shout"
-
-msgid "title_napo_episode_8_5"
-msgstr "No grip"
-
-msgid "title_napo_episode_8_6"
-msgstr "Working height"
-
-msgid "title_napo_episode_8_7"
-msgstr "Bad vibrations"
-
-msgid "title_napo_episode_8_8"
-msgstr "The duel"
-
-msgid "title_napo_episode_8_9"
-msgstr "Think to move"
-
-msgid "title_napo_episode_8_10"
-msgstr "Hold me tight"
-
-msgid "title_napo_episode_8_11"
-msgstr "The end"
-
-msgid "title_napo_episode_9_0"
-msgstr "Introduction"
-
-msgid "title_napo_episode_9_1"
-msgstr "Assess the risk"
-
-msgid "title_napo_episode_9_2"
-msgstr "Identify the unknown"
-
-msgid "title_napo_episode_9_3"
-msgstr "Act on risks"
-
-msgid "title_napo_episode_9_4"
-msgstr "Risky combination"
-
-msgid "title_napo_episode_9_5"
-msgstr "Eliminate the hazard"
-
-msgid "title_napo_episode_9_6"
-msgstr "Safety pays"
-
-msgid "title_napo_episode_9_7"
-msgstr "The end"
-
-msgid "title_napo_film_1"
-msgstr "Best Signs Story"
-
-msgid "description_napo_film_1"
-msgstr "Это первый фильм мультсериала о Напо, в котором дается основная информация о знаках и символах безопасности, которые можно встретить на рабочем месте. Серия служит полезным источником информации для новых работников и хорошим напоминанием для остальных, в ней показаны различные ситуации, когда использование знаков безопасности необходимо. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать.<br/><br/>В фильме, состоящем из 13 эпизодов, рассказывается о знаках безопасности, их важности, а также о том, как их различать в зависимости от их формы и цвета. В каждом эпизоде Напо сталкивается со знаками, которые оживают и объясняют свое значение и важность безопасности. Зрители увидят, что случится, если знаки игнорируются, а также какие  технические и организационные препятствия могут мешать их соблюдению"
-
-msgid "title_napo_film_2"
-msgstr "The Adventures of Napo"
-
-msgid "description_napo_film_2"
-msgstr "В фильме рассказывается о наиболее часто встречающихся рисках на рабочих местах, узнать о которых будет наиболее полезно для тех, у кого мало или совсем нет опыта работы. В нем показана необходимость просветительской работы по теме рисков, безопасной работы и важность обучения. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Цель фильма – повысить уровень знаний об основных рисках, заставить аудиторию задуматься о несчастных случаях и обсудить возможные меры их предотвращения. С героями серии происходит девять несчастных случаев, явившихся следствием типичных индивидуальных или коллективных рисков на предприятии. В фильме показана важность правильной установки знаков безопасности, понимания предупреждающих обозначений, безопасности в дороге с работы или на работу, использования адекватных средств индивидуальной защиты, профилактики рисков, использования правильной и наиболее подходящей упаковки, опасность поиска «короткого пути» и необходимость обучения персонала работе с оборудованием. "
-
-msgid "title_napo_film_3"
-msgstr "Scratch and Sniff - Chemical Risks at Work"
-
-msgid "description_napo_film_3"
-msgstr "В эпизодах этой серии Напо приходиться работать с химикатами, в том числе и с раздражающими, воспламеняющимися,  коррозионно-активными,  токсичными или опасными для окружающей среды. В конце каждого эпизода показаны наглядные примеры, как избежать несчастных случаев. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Он показывает необходимость важности правильной маркировки химических продуктов. В заключительной части каждого эпизода сначала показывается, как не следует работать с химикатами и какие последствия могут возникнуть при неправильном обращении, а затем правильный способ работы, отраженный в инструкциях по безопасности. В фильме описаны шесть из девяти знаков безопасности, а также вкратце рассказывается о рисках при работе со взрывоопасными веществами."
-
-msgid "title_napo_film_4"
-msgstr "Napo in Safe on Site"
-
-msgid "description_napo_film_4"
-msgstr "Напо работает на строительной площадке. Как любой работник, он сталкивается с большим количеством опасных ситуаций, но ему удается преодолеть эти испытания. Фильм предназначен для работников, занятых в строительной отрасли, но также подходит и для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Цель фильма – показать наиболее часто встречающиеся риски на строительных площадках, а также профилактические меры, подходящие в данной ситуации. Во вступлении вы познакомитесь с работником стройплощадки Напо, его коллегой, начальником и архитектором. Семь эпизодов серии показывают различные риски: падение с высоты, бег с препятствиями, боли в спине, организация транспортных путей, гигиена и безопасность на строительной площадке. "
-
-msgid "title_napo_film_5"
-msgstr "Napo in Clean Sweep"
-
-msgid "description_napo_film_5"
-msgstr "В этой серии показаны риски для здоровья и безопасности работников, занятых в сфере клининговых услуг и работающих по договорам подряда: подскальзывание и спотыкание, падение, переноска тяжестей в ручную и работа в одиночку. Целевую аудиторию представляют предприятия и подрядчики сферы клининговых услуг, но фильм также подходит и для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать. Цель фильма – ознакомить людей с рисками, с которыми они сталкиваются в процессе уборки, а также с возможными профилактическими мерами. Иногда Напо ведет себя осторожно, иногда рискует. Он, Напетт, его коллеги, начальник и клиенты сталкиваются с рисками различных уровней. Ситуации дают возможность поговорить об организации и планировании работы, знаках безопасности, использовании стремянок и приставных лестниц, проблемах ручной переноски тяжестей, совместной работы и обмена информацией."
-
-msgid "title_napo_film_6"
-msgstr "Napo in Stop that Noise"
-
-msgid "description_napo_film_6"
-msgstr "Тысячи работников страдают от шума на рабочих местах. Эта серия демонстрирует основные причины потери слуха и подчеркивает необходимость контролировать шум в источнике, а также предпринимать профилактические меры и носить подходящие средства защиты слуха, когда это необходимо. Этот фильм подходит для работников всех отраслей и уровней, а особенно для тех, кто только начал учиться или работать.  "
-
-
-msgid "title_napo_film_7"
-msgstr "Napo in Safe Start"
-
-msgid "description_napo_film_7"
-msgstr "В этом фильм содержится полезная информация для молодых работников, только начинающих свою карьеру или приходящих на новое место работы. Напо отлично воспринимается молодежью, особенно во время обучения или тренинга. Фильм подходит и для всех новичков на рынке труда, включая работников-мигрантов и временных рабочих. Серия состоит из 7 эпизодов, демонстрирующих типичные ситуации, с которыми сталкиваются новички."
-
-msgid "title_napo_film_8"
-msgstr "Napo in Lighten the Load"
-
-msgid "description_napo_film_8"
-msgstr "В Европе наиболее распространенными заболеваниями, связанными с производством, являются мышечно-скелетные повреждения (МСП). От них страдают миллионы работников – можно сказать, что около 90% людей в какой-то момент их жизни страдают от болей в спине, верхних конечностях (WRULDs), хронических растяжений сухожилий.<br/>В серии 'Lighten the load' поддерживается подход к комплексному управлению борьбой с МСП, а также показывается необходимость учитывать все нагрузки, действующие на человека: стрессы, перенапряжение, факторы окружающей обстановки, такие как работа при пониженных температурах, платформа, на которой работа выполнялась, и передвигаемый груз.<br/>В этом фильме Напо сталкивается с различными рабочими ситуациями. Серия демонстрирует 11 типичных ситуаций, встречающихся на рабочих местах, и подходит для демонстрации всем работникам, включая мигрантов и временных рабочих. "
-
-msgid "title_napo_film_9"
-msgstr "Napo in Risky Business"
-
-msgid "description_napo_film_9"
-msgstr "Главной темой Европейской кампании в 2008/09 стала оценка рисков. Серия Risky business рассказывает об опасностях и рисках на рабочем месте, необходимости оценки рисков и последующих мер по результатам оценки, для того чтобы сделать рабочие места более безопасными и здоровыми. В этой серии рассматриваются опасности и наиболее часто встречающиеся производственные риски, когда девиз «Остановись, подумай, действуй» помогает снизить количество несчастных случаев и ухудшений состояния здоровья на производстве. Фильм используется как вспомогательный элемент в обучении основам оценки рисков и понятий опасности и риска."
-
-msgid "label_napo_view_episodes"
-msgstr "Смотреть эпизоды"
-
-msgid "label_napo_click_to_see_film"
-msgstr "Click the image to see the film..."
-
-msgid "label_napo_download_film_as"
-msgstr "Download this film as"
-
-msgid "label_napo_download_episode_as"
-msgstr "Download this film as"
-
-msgid "label_avi"
-msgstr "AVI"
-
-msgid "label_wmv"
-msgstr "WMV"
-
-msgid "label_or"
-msgstr "or"
-
-
-msgid "title_napo_film_11"
-msgstr "Napo in: Safety in… and outside of work"
-
-msgid "description_napo_film_11"
-msgstr "Фильм рассказывает историю Напо, идеального работника. Тем не менее, после работы он игнорирует все правила и риски в различных ситуациях. Это приводит к множеству инцидентов, которые не заканчиваются трагически, но в конце концов приводят к спортивной травме, из-за которой Напо попадает в госпиталь. Время досуга покрывает вождение автомобиля, домашние работы, образ жизни, поведение в обществе и спорт. С сайта (или DVD) можно загрузить короткую  викторину, которую можно использовать для обсуждения некоторых простых правил с аудиторией. Основная целевая группа  этого фильма – работники на предприятиях. Он предназначен для того, чтобы обратить внимание на то, как сделать досуг безопасным.  Фильм также может быть использован для обучения руководителей вопросам сохранения и поддержания работоспособности работников."
-
-# ---------- New Napo Film Number 12    Danger: Chemicals
-msgid "title_napo_film_12"
-msgstr "Аннотация"
-
-msgid "description_napo_film_12"
-msgstr "<p>Данный  фильм представляет собой пересмотренную и исправленную версию мультфильма ‘Scratch and Sniff – chemical risks at work’, выпущенного в 2003. Он вносит изменения в гармонизацию знаков (пиктограмм), используемых при перевозке опасных грузов и знаков, используемых в классификации товаров, а также при маркировке и упаковке химических веществ (CLP). Существующие в настоящее время 7 пиктограмм должны быть  заменены на девять.</p><p>Ключевые даты: 1 декабря 2010 года химические вещества должны быть переклассифицированы и маркированы в соответствии с новой глобальной системой (СГС); и 1 июня 2015 года – тот же процесс будет применяться к смесям (прежнее название «препараты»).</p><p>Напо участвует в различных ситуациях  работы с химикатами, в том числе с отравляющими, легковоспламеняющимися, едкими, токсичными или опасными для окружающей среды. Каждая ситуация сопровождается краткими  последовательными данными о том, какие безопасные методы работы необходимо применять для  предотвращения  несчастных случаев.  Данный фильм предназначен для всех отраслей	производства и  работников всех уровней. Цель заключается в том, чтобы привлечь внимание к важности  маркировки химической продукции.  После начальной сцены со взрывом, шесть последовательных сценок показывают, к каким серьёзным последствиям может привести неправильное обращение с химикатами, и что нужно  делать, чтобы  правильно соблюдать инструкции по безопасности. </p>"
-
-msgid "title_napo_episode_12_1"
-msgstr "Chemical risks at work"
-
-msgid "title_napo_episode_12_2"
-msgstr "Harmful"
-
-msgid "title_napo_episode_12_3"
-msgstr "Irritant"
-
-msgid "title_napo_episode_12_4"
-msgstr "Flammable"
-
-msgid "title_napo_episode_12_5"
-msgstr "Corrosive"
-
-msgid "title_napo_episode_12_6"
-msgstr "Toxic"
-
-msgid "title_napo_episode_12_7"
-msgstr "Dangerous for the environment"
-
-msgid "title_napo_episode_12_8"
-msgstr "The end"
-
-
-# ---------- New Napo Film Number 13    Protect your Skin
-msgid "title_napo_film_13"
-msgstr "Napo in... Protect your skin!"
-
-msgid "description_napo_film_13"
-msgstr "<p>Данный фильм  повышает уровень осведомленности об опасностях,  связанных с воздействием вредных веществ (а иногда и других, не вредных) на кожу, о ситуациях, когда это происходит, и о том, что предпринять, чтобы избежать рисков, защитить кожу и предотвратить ущерб. Напо раскрывает много ситуаций, в которых воздействие химических и других веществ может вызвать проблемы с кожей. Он узнает об удивительных свойствах кожи, и раздевается догола, чтобы показать публике: «Всё, что вы всегда хотели знать о…вашей коже». Он <p>информирует о мерах предотвращения  проблем, используя три важных принципа: Избегать-Защищать-Проверять.</p>Избежать или минимизировать контакт с химическими веществами возможно путем устранения опасного вещества – использование механического метода вместо химического; путем замещения – использование более безопасной альтернативы; и путем предотвращения прямого контакта – использование инструментов и приспособлений вместо обработки с прямым контактом.  Средства индивидуальной защиты (СИЗ) предназначены для защиты кожи, но Напо напоминает нам о важности заботы о коже, с помощью быстрого удаления загрязнений, мытья кожи должным образом, тщательного высушивания кожи и применения кремов для кожи на регулярной основе.</p> <p> В заключение Напо рекомендует регулярно проводить осмотры  для своевременного выявления проблем с кожей.</p>"
-
-
-# ---------- New Napo Film Number 14   Safe Maintenance 
-msgid "title_napo_film_14"
-msgstr "Napo in... Safe maintenance"
-
-msgid "description_napo_film_14"
-msgstr "<p>Недостаточные  и неполные требования и стандарты  при проведении технического обслуживания являются одной из основных причин несчастных случаев и профессиональных заболеваний. Много несчастных случаев происходит во время ремонтных работ, или из-за отсутствия технического обслуживания, или в результате низкого качества технического обслуживания.</p> <p>Данный мультфильм показывает Напо в различных ситуациях: иногда он является подсобным рабочим, в другой раз он является наемным рабочим. Мы видим важность процедур обслуживания оборудования, проблемы «скрытых рисков», опасности  работы в тесном замкнутом пространстве, а также наличие достаточного уровня необходимых знаний у лиц, осуществляющих ремонтные работы, в  частности, проверки и испытания.</p> <p>.  Данный фильм предназначен для всех отраслей  производства и  работников всех уровней. Фильм содействует применению на практике эффективных приемов работ и обращает внимание на важность соблюдения мер безопасности при выполнении технического обслуживания. </p>"
-
-msgid "title_napo_episode_14_1"
-msgstr "Lock out"
-
-msgid "title_napo_episode_14_2"
-msgstr "Hidden hazards"
-
-msgid "title_napo_episode_14_3"
-msgstr "Don’t improvise!"
-
-msgid "title_napo_episode_14_4"
-msgstr "In a rush"
-
-msgid "title_napo_episode_14_5"
-msgstr "Danger within!"
-
+#. Default: "OSHA Metadata"
+#: osha.adaptation:/schema.py:277
+msgid "OSHAMetadata_label"
+msgstr ""
+
+#. Default: "Choose the relevant metadata"
+#: osha.adaptation:/schema.py:278
+msgid "OSHAMetadata_description"
+msgstr ""
+
+#. Default: "Attachment"
+#: osha.adaptation:/schema.py:345
+msgid "osha_event_attachment_label"
+msgstr ""
+
+#. Default: "You can upload an optional attachment that will be displayed with the event."
+#: osha.adaptation:/schema.py:347
+msgid "osha_event_attachment_description"
+msgstr ""
+
+#. Default: "SEO Description"
+#: osha.adaptation:/schema.py:356
+msgid "osha_seo_description_label"
+msgstr ""
+
+#. Default: "Provide here a description that is purely for SEO (Search Engine Optimisation) purposes. It will appear in the <meta> tag in the <head> section of the HTML document, but nowhere in the actual website content."
+#: osha.adaptation:/schema.py:360
+msgid "osha_seo_description_description"
+msgstr ""
+
+#: osha.adaptation:/schema.py:377
+msgid "Date to be confirmed"
+msgstr ""
+
+#. Default: "Check this box if the date has not yet been confirmed."
+#: osha.adaptation:/schema.py:378
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:145
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:41
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+msgid "label_date_to_be_confirmed"
+msgstr ""
+
+#. Default: "External link"
+#: osha.adaptation:/schema.py:393
+msgid "label_external_link"
+msgstr ""
+
+#. Default: "Enter a link to which this item should point to."
+#: osha.adaptation:/schema.py:394
+msgid "description_external_link"
+msgstr ""
+
+#. Default: "Press Releases"
+#: osha.dynamicpressroom:/browser/templates/pressroom.pt:46
+#: osha.theme:/browser/templates/pressroom_dynamic.pt:36
+#: osha.theme:/browser/templates/pressroom.pt:23
+msgid "osha_label_pressbox_pressreleases"
+msgstr ""
+
+#. Default: "Articles and<br> Interviews"
+#: osha.dynamicpressroom:/browser/templates/pressroom.pt:52
+#: osha.theme:/browser/templates/pressroom_dynamic.pt:41
+#: osha.theme:/browser/templates/pressroom.pt:48
+msgid "osha_label_pressbox_articles"
+msgstr ""
+
+#. Default: "Images and Audiovisual"
+#: osha.dynamicpressroom:/browser/templates/pressroom.pt:58
+#: osha.theme:/browser/templates/pressroom_dynamic.pt:46
+#: osha.theme:/browser/templates/pressroom.pt:38
+msgid "osha_label_pressbox_photos"
+msgstr ""
+
+#. Default: "EU media coverage"
+#: osha.dynamicpressroom:/browser/templates/pressroom.pt:65
+#: osha.theme:/browser/templates/pressroom_dynamic.pt:53
+#: osha.theme:/browser/templates/pressroom.pt:72
+msgid "osha_label_eu_media_coverage"
+msgstr ""
+
+#. Default: "Filtering Keywords"
+#: osha.dynamicpressroom:/extensions.py:110
+msgid "label_filtering_keywords"
+msgstr ""
+
+#. Default: "Add your keywords here, separate them with spaces."
+#: osha.dynamicpressroom:/extensions.py:112
+msgid "description_filtering_keywords"
+msgstr ""
+
+#. Default: "Reference to the global Press Room"
+#: osha.dynamicpressroom:/extensions.py:56
+msgid "label_global_pressroom"
+msgstr ""
+
+#: osha.dynamicpressroom:/extensions.py:58
+msgid ""
+"The global pressroom's press releases, articles, contacts and other data "
+"will be presented in this pressroom as well."
+msgstr ""
+
+#. Default: "RSS Feed"
+#: osha.dynamicpressroom:/extensions.py:75
+msgid "label_rss_feed"
+msgstr ""
+
+#: osha.dynamicpressroom:/extensions.py:76
+#: osha.theme:/browser/interfaces.py:69
+msgid ""
+"Choose the RSS profile for this PressRoom. Profiles are created in the site "
+"control panel."
+msgstr ""
+
+#. Default: "Reference to the Press Contacts"
+#: osha.dynamicpressroom:/extensions.py:94
+msgid "label_pess_contacts"
+msgstr ""
+
+#. Default: ""
+#: osha.eventrepository:/browser/excel_upload.py:134
+msgid ""
+"Existing event with Excel id %s and Title '%s' could not be found in the "
+"system. It might have been deleted manually."
+msgstr ""
+
+#. Default: ""
+#: osha.eventrepository:/browser/excel_upload.py:148
+msgid "Event with Excel id %s and Title '%s' at %s was deleted."
+msgstr ""
+
+#. Default: ""
+#: osha.eventrepository:/browser/excel_upload.py:245
+msgid ""
+"Existing event with Excel id %s (%s) could not be found. It will be created "
+"anew."
+msgstr ""
+
+#: osha.eventrepository:/browser/excel_upload.py:255
+msgid "Reference to exiting event wit UID %s is broken."
+msgstr ""
+
+#. Default: ""
+#: osha.eventrepository:/browser/excel_upload.py:293
+msgid "%(verb)s event \" %(title)s\" at %(url)s"
+msgstr ""
+
+#. Default: ""
+#: osha.eventrepository:/browser/excel_upload.py:303
+msgid ""
+"Upload and event creation was successful. %s events were created, %d updated "
+"and %d deleted."
+msgstr ""
+
+#: osha.eventrepository:/browser/excel_upload.py:70
+msgid "No file was selected!."
+msgstr ""
+
+#: osha.eventrepository:/browser/excel_upload.py:77
+msgid "File was not readable. Check that it is really in Excel format."
+msgstr ""
+
+#: osha.eventrepository:/interfaces.py:14
+msgid "Excel file"
+msgstr ""
+
+#: osha.eventrepository:/interfaces.py:15
+msgid "Select the Excel file for upload"
+msgstr ""
+
+#: osha.eventrepository:/interfaces.py:20
+#: osha.smartprintpublication:/interfaces.py:38
+msgid "Destination"
+msgstr ""
+
+#: osha.eventrepository:/interfaces.py:21
+msgid ""
+"Specify the destination folder where the events will be created / updated"
+msgstr ""
+
+#. Default: "Case Studies"
+#: osha.fop:/browser/oshnetwork_member_view.pt:101
+#: osha.theme:/portlets/practical_solutions.pt:55
+msgid "label_case_studies"
+msgstr ""
+
+#. Default: "Useful Links"
+#: osha.fop:/browser/oshnetwork_member_view.pt:109
+#: osha.theme:/portlets/practical_solutions.pt:45
+msgid "label_useful_links"
+msgstr ""
+
+#. Default: "Providers"
+#: osha.fop:/browser/oshnetwork_member_view.pt:115
+#: osha.theme:/portlets/practical_solutions.pt:60
+msgid "label_providers"
+msgstr ""
+
+#. Default: "Edit this page"
+#: osha.fop:/browser/oshnetwork_member_view.pt:24
+msgid "label_edit_this_page"
+msgstr ""
+
+#. Default: "Manage News"
+#: osha.fop:/browser/oshnetwork_member_view.pt:26
+msgid "label_manage_news"
+msgstr ""
+
+#. Default: "Manage Events"
+#: osha.fop:/browser/oshnetwork_member_view.pt:28
+msgid "label_manage_events"
+msgstr ""
+
+#. Default: "Agency's resources"
+#: osha.fop:/browser/oshnetwork_member_view.pt:71
+#: osha.fop:/browser/oshnetwork_member_view.pt:76
+msgid "heading_agencys_resources"
+msgstr ""
+
+#. Default: "Publications"
+#: osha.fop:/browser/oshnetwork_member_view.pt:83
+msgid "label_publications"
+msgstr ""
+
+#. Default: "Risk Observatory"
+#: osha.fop:/browser/oshnetwork_member_view.pt:89
+#: osha.policy:/missing_18n_labels.py:242
+msgid "risk_observatory"
+msgstr ""
+
+#. Default: "Risk Assessment Tools"
+#: osha.fop:/browser/oshnetwork_member_view.pt:95
+#: osha.theme:/portlets/practical_solutions.pt:50
+msgid "label_risk_assessment_tools"
+msgstr ""
+
+#. Default: "Visit the main website"
+#: osha.fop:/portlets/fop_main_promotion.pt:15
+msgid "label_main_fop_website"
+msgstr ""
+
+#: osha.fop:/portlets/fop_main_promotion.py:141
+msgid "Edit FOP Main Site Portlet"
+msgstr ""
+
+#: osha.fop:/portlets/fop_main_promotion.py:142
+msgid "This portlet displays a link to the main FOP site."
+msgstr ""
+
+#: osha.fop:/portlets/fop_main_promotion.py:31
+msgid "URL of the Main Site for this Focal Point"
+msgstr ""
+
+#: osha.fop:/portlets/fop_main_promotion.py:32
+msgid ""
+"Enter the url to the main Focal Point site for this member\n"
+"        state"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:102 osha.hw2010:/interfaces/scenario.py:37
+msgid "Right"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:103 osha.hw2010:/interfaces/scenario.py:39
+msgid "Description of the right scenario"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:111 osha.hw2010:/interfaces/scenario.py:13
+msgid "Download Material"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:112 osha.hw2010:/interfaces/scenario.py:15
+msgid "Download the scenarios in other formats for print and web"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:122 osha.hw2010:/interfaces/scenario.py:31
+msgid "Note"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:123 osha.hw2010:/interfaces/scenario.py:33
+msgid "Additional notes on how to handle this scenario"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:29 osha.hw2010:/interfaces/scenario.py:61
+msgid "Accident Category"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:30 osha.hw2010:/interfaces/scenario.py:63
+msgid "A descriptor for the category of the accident"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:32
+msgid "General"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:40 osha.hw2010:/interfaces/scenario.py:55
+msgid "The Problem"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:41 osha.hw2010:/interfaces/scenario.py:57
+msgid "Enter here the problem description and relevant factors"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:50 osha.hw2010:/interfaces/scenario.py:49
+msgid "The Solution"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:51 osha.hw2010:/interfaces/scenario.py:51
+msgid "Enter here the solution to the problem and preventive information"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:68 osha.hw2010:/interfaces/scenario.py:25
+msgid "Wrong Scenario Image"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:69 osha.hw2010:/interfaces/scenario.py:27
+msgid "Upload the image of the wrong scenario here"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:76 osha.hw2010:/interfaces/scenario.py:43
+msgid "Wrong"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:77 osha.hw2010:/interfaces/scenario.py:45
+msgid "Description of the wrong scenario"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:94 osha.hw2010:/interfaces/scenario.py:19
+msgid "Right Scenario Image"
+msgstr ""
+
+#: osha.hw2010:/content/scenario.py:95 osha.hw2010:/interfaces/scenario.py:21
+msgid "Upload the image of the wright scenario here"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:29 osha.hw2010:/browser/forms.py:24
+msgid "Company/Organisation"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:30 osha.hw2010:/browser/forms.py:25
+msgid "Address"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:31 osha.hw2010:/browser/forms.py:26
+msgid "Postal Code"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:32 osha.hw2010:/browser/forms.py:27
+msgid "City"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:33 osha.hw2010:/browser/forms.py:28
+msgid "Country"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:34 osha.hw2010:/browser/forms.py:29
+msgid "Firstname"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:35 osha.hw2010:/browser/forms.py:30
+msgid "Lastname"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:36 osha.hw2010:/browser/forms.py:31
+msgid "Sector"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:37 osha.hw2010:/browser/forms.py:32
+#: osha.theme:/browser/osha_properties_controlpanel.py:281
+msgid "Email"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:38 osha.hw2010:/browser/forms.py:33
+msgid "Telephone"
+msgstr ""
+
+#. Default: "${name} is required, please correct."
+#: osha.hw:/browser/forms.py:47 osha.hw2010:/browser/forms.py:42
+msgid "error_required"
+msgstr ""
+
+#: osha.hw:/browser/forms.py:54 osha.hw2010:/browser/forms.py:49
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: osha.hw:/skins/hw2012/hw2012_events.pt:36
+#: osha.hw:/skins/hw2012/hw2012_events.pt:45
+#: osha.hw:/browser/templates/footer_actions.pt:15
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:107
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:99
+#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:24
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:50
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:78
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:133
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:152
+#: osha.theme:/skins/osha_theme_custom_templates/widgets-p4-migration-4708/keyword.pt:65
+#: osha.theme:/portlets/rollingquotes.pt:5 osha.theme:/portlets/moreabout.pt:8
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
+#: osha.theme:/browser/templates/napofilmview.pt:33
+#: osha.theme:/browser/templates/napofilmview.pt:38
+#: osha.theme:/browser/templates/footer_actions.pt:15
+#: osha.theme:/browser/templates/footer_actions.pt:34
+#: osha.theme:/browser/templates/footer_actions.pt:58
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:48
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:49
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:69
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:80
+#: osha.theme:/browser/templates/search_ro.pt:40
+#: osha.theme:/browser/templates/practical_solution.pt:121
+#: osha.theme:/browser/templates/resource_listing.pt:16
+#: osha.theme:/browser/templates/rssfeeds.pt:85
+#: osha.theme:/browser/templates/network_chooser.pt:10
+#: osha.theme:/browser/templates/network_chooser.pt:20
+#: osha.theme:/browser/collageviews/document_right_column.pt:5
+#: osha.theme:/browser/collageviews/document_oshmail.pt:4
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:80
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:85
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:107
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:112
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:157
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:188
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:213
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:270
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:291
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:307
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:324
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:347
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:370
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:388
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:410
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:882
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:957
+msgid "${DYNAMIC_CONTENT}"
+msgstr ""
+
+#. Default: "More news"
+#: osha.hw:/skins/hw2012/hw2012_homepage.pt:24
+msgid "label_more_news"
+msgstr "More news"
+
+#. Default: "More events"
+#: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
+#: osha.theme:/portlets/events.pt:63 osha.theme:/portlets/oshevents.pt:63
+msgid "label_more_events"
+msgstr "More events"
+
+#. Default: "Healthy Workplaces"
+#: osha.hw:/skins/hw2012/hw2012_resources_promotionalmaterials_html.pt:118
+msgid "slogan_hw2010_campaign"
+msgstr ""
+
+#. Default: "Good for you. Good for business."
+#: osha.hw:/skins/hw2012/hw2012_resources_promotionalmaterials_html.pt:119
+msgid "subslogan_hw2010_campaign"
+msgstr ""
+
+#: osha.policy:/Extensions/cleanup_script.py:88
+msgid "Versioning for this file has been disabled because it is too large"
+msgstr ""
+
+#: osha.policy:/Extensions/helperFux.py:92
+msgid "legend_publications"
+msgstr ""
+
+#: osha.policy:/browser/dbsettings.py:13 osha.policy:/browser/dbsettings.py:14
+msgid "OSHA Database settings"
+msgstr ""
+
+#: osha.policy:/browser/dbsettings.py:15
+msgid "Please enter the appropriate connection settingsfor the database"
+msgstr ""
+
+#: osha.policy:/browser/goodpractice.py:89 osha.theme:/alertservice.py:37
+#: osha.theme:/browser/oshtopic_view.py:55
+#: osha.theme:/browser/oshtopic_view.py:58
+msgid "Publication"
+msgstr ""
+
+#: osha.policy:/interfaces.py:17
+msgid "Driver name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:18
+msgid "The database driver name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:21
+msgid "Host name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:22
+msgid "The database host name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:26
+msgid "Port number"
+msgstr ""
+
+#: osha.policy:/interfaces.py:27
+msgid "The database port number. Leave blank to use the default."
+msgstr ""
+
+#: osha.policy:/interfaces.py:30
+msgid "User name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:31
+msgid "The database user name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:33
+msgid "Password"
+msgstr ""
+
+#: osha.policy:/interfaces.py:34
+msgid "The database password"
+msgstr ""
+
+#: osha.policy:/interfaces.py:36
+msgid "Database name"
+msgstr ""
+
+#: osha.policy:/interfaces.py:37
+msgid "The name of the database on this server"
+msgstr ""
+
+#. Default: "Can check"
+#: osha.policy:/localroles.py:11
+msgid "title_can_check"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:10
+msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:100
 msgid "title_napo_episode_14_6"
 msgstr "One, two, what to do?"
 
+#: osha.policy:/missing_18n_labels.py:101
+msgid "title_napo_episode_1_0"
+msgstr "Best signs story"
+
+#: osha.policy:/missing_18n_labels.py:102
+msgid "title_napo_episode_1_1"
+msgstr "Danger"
+
+#: osha.policy:/missing_18n_labels.py:103
+msgid "title_napo_episode_1_10"
+msgstr "Safety helmet must be worn  "
+
+#: osha.policy:/missing_18n_labels.py:104
+msgid "title_napo_episode_1_11"
+msgstr "Rescue signs"
+
+#: osha.policy:/missing_18n_labels.py:105
+msgid "title_napo_episode_1_12"
+msgstr "Rescue route  "
+
+#: osha.policy:/missing_18n_labels.py:106
+msgid "title_napo_episode_1_13"
+msgstr "First aid  "
+
+#: osha.policy:/missing_18n_labels.py:107
+msgid "title_napo_episode_1_14"
+msgstr "Fire protection signs"
+
+#: osha.policy:/missing_18n_labels.py:108
+msgid "title_napo_episode_1_15"
+msgstr "Fire-extinguishing equipment  "
+
+#: osha.policy:/missing_18n_labels.py:109
+msgid "title_napo_episode_1_16"
+msgstr "Fire alarm system  "
+
+#: osha.policy:/missing_18n_labels.py:11
+msgid "heading_main_fop_portlet_bulgaria"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:110
+msgid "title_napo_episode_1_17"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:111
+msgid "title_napo_episode_1_2"
+msgstr "Danger - suspended load  "
+
+#: osha.policy:/missing_18n_labels.py:112
+msgid "title_napo_episode_1_3"
+msgstr "Danger - fork-lift trucks  "
+
+#: osha.policy:/missing_18n_labels.py:113
+msgid "title_napo_episode_1_4"
+msgstr "Prohibition signs"
+
+#: osha.policy:/missing_18n_labels.py:114
+msgid "title_napo_episode_1_5"
+msgstr "No smoking"
+
+#: osha.policy:/missing_18n_labels.py:115
+msgid "title_napo_episode_1_6"
+msgstr "No fork-lift trucks  "
+
+#: osha.policy:/missing_18n_labels.py:116
+msgid "title_napo_episode_1_7"
+msgstr "Mandantory signs"
+
+#: osha.policy:/missing_18n_labels.py:117
+msgid "title_napo_episode_1_8"
+msgstr "Safety goggles must be worn  "
+
+#: osha.policy:/missing_18n_labels.py:118
+msgid "title_napo_episode_1_9"
+msgstr "Hearing protection must be worn  "
+
+#: osha.policy:/missing_18n_labels.py:119
+msgid "title_napo_episode_2_0"
+msgstr "The adventures of NAPO  "
+
+#: osha.policy:/missing_18n_labels.py:12
+msgid "heading_main_fop_portlet_croatia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:120
+msgid "title_napo_episode_2_1"
+msgstr "The importance of signposting"
+
+#: osha.policy:/missing_18n_labels.py:121
+msgid "title_napo_episode_2_2"
+msgstr "Signposting is not sufficient"
+
+#: osha.policy:/missing_18n_labels.py:122
+msgid "title_napo_episode_2_3"
+msgstr "Labels should be read"
+
+#: osha.policy:/missing_18n_labels.py:123
+msgid "title_napo_episode_2_4"
+msgstr "Choose public transports"
+
+#: osha.policy:/missing_18n_labels.py:124
+msgid "title_napo_episode_2_5"
+msgstr "The right protection at the right time"
+
+#: osha.policy:/missing_18n_labels.py:125
+msgid "title_napo_episode_2_6"
+msgstr "Improvising means risk taking"
+
+#: osha.policy:/missing_18n_labels.py:126
+msgid "title_napo_episode_2_7"
+msgstr "Each product has its own packaging"
+
+#: osha.policy:/missing_18n_labels.py:127
+msgid "title_napo_episode_2_8"
+msgstr "Too much pressure is likely to be harmful"
+
+#: osha.policy:/missing_18n_labels.py:128
+msgid "title_napo_episode_2_9"
+msgstr "Unsuitable material + incompetence = accident"
+
+#: osha.policy:/missing_18n_labels.py:129
+msgid "title_napo_episode_3_0"
+msgstr "Scratch and sniff - chemical risks at work"
+
+#: osha.policy:/missing_18n_labels.py:13
+msgid "heading_main_fop_portlet_cyprus"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:130
+msgid "title_napo_episode_3_1"
+msgstr "Harmful"
+
+#: osha.policy:/missing_18n_labels.py:131
+msgid "title_napo_episode_3_2"
+msgstr "Irritant"
+
+#: osha.policy:/missing_18n_labels.py:132
+msgid "title_napo_episode_3_3"
+msgstr "Flammable"
+
+#: osha.policy:/missing_18n_labels.py:133
+msgid "title_napo_episode_3_4"
+msgstr "Corrosive"
+
+#: osha.policy:/missing_18n_labels.py:134
+msgid "title_napo_episode_3_5"
+msgstr "Toxic"
+
+#: osha.policy:/missing_18n_labels.py:135
+msgid "title_napo_episode_3_6"
+msgstr "Dangerous for the environment"
+
+#: osha.policy:/missing_18n_labels.py:136
+msgid "title_napo_episode_3_7"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:137
+msgid "title_napo_episode_4_0"
+msgstr "Clean Sweep"
+
+#: osha.policy:/missing_18n_labels.py:138
+msgid "title_napo_episode_4_1"
+msgstr "Change of plan"
+
+#: osha.policy:/missing_18n_labels.py:139
+msgid "title_napo_episode_4_2"
+msgstr "Work at height"
+
+#: osha.policy:/missing_18n_labels.py:14
+msgid "heading_main_fop_portlet_czech-republic"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:140
+msgid "title_napo_episode_4_3"
+msgstr "Enough is enough"
+
+#: osha.policy:/missing_18n_labels.py:141
+msgid "title_napo_episode_4_4"
+msgstr "Safety plan"
+
+#: osha.policy:/missing_18n_labels.py:142
+msgid "title_napo_episode_4_5"
+msgstr "Yellow card"
+
+#: osha.policy:/missing_18n_labels.py:143
+msgid "title_napo_episode_4_6"
+msgstr "Bodybuilding"
+
+#: osha.policy:/missing_18n_labels.py:144
+msgid "title_napo_episode_4_7"
+msgstr "Safety angels"
+
+#: osha.policy:/missing_18n_labels.py:145
+msgid "title_napo_episode_4_8"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:146
+msgid "title_napo_episode_5_0"
+msgstr "Napo - safe on site"
+
+#: osha.policy:/missing_18n_labels.py:147
+msgid "title_napo_episode_5_1"
+msgstr "Building in safety"
+
+#: osha.policy:/missing_18n_labels.py:148
+msgid "title_napo_episode_5_2"
+msgstr "Don't fall for it"
+
+#: osha.policy:/missing_18n_labels.py:149
+msgid "title_napo_episode_5_3"
+msgstr "Heading for a fall"
+
+#: osha.policy:/missing_18n_labels.py:15
+msgid "heading_main_fop_portlet_denmark"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:150
+msgid "title_napo_episode_5_4"
+msgstr "Champions of the world"
+
+#: osha.policy:/missing_18n_labels.py:151
+msgid "title_napo_episode_5_5"
+msgstr "Lightning strike"
+
+#: osha.policy:/missing_18n_labels.py:152
+msgid "title_napo_episode_5_6"
+msgstr "Keep them apart"
+
+#: osha.policy:/missing_18n_labels.py:153
+msgid "title_napo_episode_5_7"
+msgstr "Five star treatment"
+
+#: osha.policy:/missing_18n_labels.py:154
+msgid "title_napo_episode_5_8"
+msgstr "Bad dream"
+
+#: osha.policy:/missing_18n_labels.py:155
+msgid "title_napo_episode_5_9"
+msgstr "Safe landing"
+
+#: osha.policy:/missing_18n_labels.py:156
+msgid "title_napo_episode_6_0"
+msgstr "Napo in stop that noise !"
+
+#: osha.policy:/missing_18n_labels.py:157
+msgid "title_napo_episode_6_1"
+msgstr "Irreparable"
+
+#: osha.policy:/missing_18n_labels.py:158
+msgid "title_napo_episode_6_2"
+msgstr "Didn't hear it coming "
+
+#: osha.policy:/missing_18n_labels.py:159
+msgid "title_napo_episode_6_3"
+msgstr "Noise in the office"
+
+#: osha.policy:/missing_18n_labels.py:16
+msgid "heading_main_fop_portlet_estonia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:160
+msgid "title_napo_episode_6_4"
+msgstr "Problem pregnancy"
+
+#: osha.policy:/missing_18n_labels.py:161
+msgid "title_napo_episode_6_5"
+msgstr "Out in the cold"
+
+#: osha.policy:/missing_18n_labels.py:162
+msgid "title_napo_episode_6_6"
+msgstr "Don't make things worse"
+
+#: osha.policy:/missing_18n_labels.py:163
+msgid "title_napo_episode_6_7"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:164
+msgid "title_napo_episode_7_0"
+msgstr "Safe start"
+
+#: osha.policy:/missing_18n_labels.py:165
+msgid "title_napo_episode_7_1"
+msgstr "Don't hesitate to ask questions"
+
+#: osha.policy:/missing_18n_labels.py:166
+msgid "title_napo_episode_7_2"
+msgstr "Attention listen up"
+
+#: osha.policy:/missing_18n_labels.py:167
+msgid "title_napo_episode_7_3"
+msgstr "Information overload"
+
+#: osha.policy:/missing_18n_labels.py:168
+msgid "title_napo_episode_7_4"
+msgstr "Watch out for others too"
+
+#: osha.policy:/missing_18n_labels.py:169
+msgid "title_napo_episode_7_5"
+msgstr "Overconfidence is dangerous"
+
+#: osha.policy:/missing_18n_labels.py:17
+msgid "heading_main_fop_portlet_finland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:170
+msgid "title_napo_episode_7_6"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:171
+msgid "title_napo_episode_8_0"
+msgstr "Start"
+
+#: osha.policy:/missing_18n_labels.py:172
+msgid "title_napo_episode_8_1"
+msgstr "Modern stressful times"
+
+#: osha.policy:/missing_18n_labels.py:173
+msgid "title_napo_episode_8_10"
+msgstr "Hold me tight"
+
+#: osha.policy:/missing_18n_labels.py:174
+msgid "title_napo_episode_8_11"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:175
+msgid "title_napo_episode_8_2"
+msgstr "Divide and rule"
+
+#: osha.policy:/missing_18n_labels.py:176
+msgid "title_napo_episode_8_3"
+msgstr "Radical ergonomics"
+
+#: osha.policy:/missing_18n_labels.py:177
+msgid "title_napo_episode_8_4"
+msgstr "Twist and shout"
+
+#: osha.policy:/missing_18n_labels.py:178
+msgid "title_napo_episode_8_5"
+msgstr "No grip"
+
+#: osha.policy:/missing_18n_labels.py:179
+msgid "title_napo_episode_8_6"
+msgstr "Working height"
+
+#: osha.policy:/missing_18n_labels.py:18
+msgid "heading_main_fop_portlet_france"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:180
+msgid "title_napo_episode_8_7"
+msgstr "Bad vibrations"
+
+#: osha.policy:/missing_18n_labels.py:181
+msgid "title_napo_episode_8_8"
+msgstr "The duel"
+
+#: osha.policy:/missing_18n_labels.py:182
+msgid "title_napo_episode_8_9"
+msgstr "Think to move"
+
+#: osha.policy:/missing_18n_labels.py:183
+msgid "title_napo_episode_9_0"
+msgstr "Introduction"
+
+#: osha.policy:/missing_18n_labels.py:184
+msgid "title_napo_episode_9_1"
+msgstr "Assess the risk"
+
+#: osha.policy:/missing_18n_labels.py:185
+msgid "title_napo_episode_9_2"
+msgstr "Identify the unknown"
+
+#: osha.policy:/missing_18n_labels.py:186
+msgid "title_napo_episode_9_3"
+msgstr "Act on risks"
+
+#: osha.policy:/missing_18n_labels.py:187
+msgid "title_napo_episode_9_4"
+msgstr "Risky combination"
+
+#: osha.policy:/missing_18n_labels.py:188
+msgid "title_napo_episode_9_5"
+msgstr "Eliminate the hazard"
+
+#: osha.policy:/missing_18n_labels.py:189
+msgid "title_napo_episode_9_6"
+msgstr "Safety pays"
+
+#: osha.policy:/missing_18n_labels.py:19
+msgid "heading_main_fop_portlet_germany"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:190
+msgid "title_napo_episode_9_7"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:191
+msgid "title_napo_film_1"
+msgstr "Best Signs Story"
+
+#: osha.policy:/missing_18n_labels.py:192
+msgid "title_napo_film_11"
+msgstr "Napo in: Safety in… and outside of work"
+
+# ---------- New Napo Film Number 12    Danger: Chemicals
+#: osha.policy:/missing_18n_labels.py:193
+msgid "title_napo_film_12"
+msgstr "Аннотация"
+
+# ---------- New Napo Film Number 13    Protect your Skin
+#: osha.policy:/missing_18n_labels.py:194
+msgid "title_napo_film_13"
+msgstr "Napo in... Protect your skin!"
+
+# ---------- New Napo Film Number 14   Safe Maintenance 
+#: osha.policy:/missing_18n_labels.py:195
+msgid "title_napo_film_14"
+msgstr "Napo in... Safe maintenance"
+
+#: osha.policy:/missing_18n_labels.py:196
+msgid "title_napo_film_2"
+msgstr "The Adventures of Napo"
+
+#: osha.policy:/missing_18n_labels.py:197
+msgid "title_napo_film_3"
+msgstr "Scratch and Sniff - Chemical Risks at Work"
+
+#: osha.policy:/missing_18n_labels.py:198
+msgid "title_napo_film_4"
+msgstr "Napo in Safe on Site"
+
+#: osha.policy:/missing_18n_labels.py:199
+msgid "title_napo_film_5"
+msgstr "Napo in Clean Sweep"
+
+#: osha.policy:/missing_18n_labels.py:20
+msgid "heading_main_fop_portlet_greece"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:200
+msgid "title_napo_film_6"
+msgstr "Napo in Stop that Noise"
+
+#: osha.policy:/missing_18n_labels.py:201
+msgid "title_napo_film_7"
+msgstr "Napo in Safe Start"
+
+#: osha.policy:/missing_18n_labels.py:202
+msgid "title_napo_film_8"
+msgstr "Napo in Lighten the Load"
+
+#: osha.policy:/missing_18n_labels.py:203
+msgid "title_napo_film_9"
+msgstr "Napo in Risky Business"
+
+#: osha.policy:/missing_18n_labels.py:206
+msgid "accident_prevention"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:207
+msgid "ageing"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:208
+msgid "agriculture"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:209
+msgid "businessOSH"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:21
+msgid "heading_main_fop_portlet_hungary"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:210
+msgid "cleaners"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:211
+msgid "competitions"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:212
+msgid "construction"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:213
+msgid "csr"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:214
+msgid "cww"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:215
+msgid "dangerous_substances"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:216
+msgid "disability"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:217
+msgid "disabled_people"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:218
+msgid "economic_incentives"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:219
+msgid "education"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:22
+msgid "heading_main_fop_portlet_iceland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:220
+msgid "esener"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:221
+msgid "fisheries"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:222
+msgid "gender"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:223
+msgid "green_jobs"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:224
+msgid "health_care"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:225
+msgid "healthcare"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:226
+msgid "horeca"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:227
+msgid "hwi"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:228
+msgid "legislation"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:229
+msgid "maintenance"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:23
+msgid "heading_main_fop_portlet_ireland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:230
+msgid "management_leadership"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:231
+msgid "migrant_workers"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:232
+msgid "msd"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:233
+msgid "nanotechnology"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:234
+msgid "noise"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:235
+msgid "organisation"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:236
+msgid "osheducation"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:237
+msgid "prevention"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:238 osha.searchurls:/interfaces.py:15
+msgid "provider"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:239
+msgid "publications"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:24
+msgid "heading_main_fop_portlet_italy"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:240
+msgid "research"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:241
+msgid "risk_assessment"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:243
+msgid "risks"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:244
+msgid "road_transport"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:245
+msgid "statistics"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:246
+msgid "stress"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:247
+msgid "transport"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:248
+msgid "whp"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:249
+msgid "worker_participation"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:25
+msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:250
+msgid "young_people"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:253
+#: osha.policy:/missing_18n_labels.py:551
+msgid "osha_label_press_and_multimedia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:256
+msgid "January"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:257
+msgid "February"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:258
+msgid "March"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:259
+msgid "April"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:26
+msgid "heading_main_fop_portlet_latvia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:260
+msgid "May"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:261
+msgid "June"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:262
+msgid "July"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:263
+msgid "August"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:264
+msgid "September"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:265
+msgid "October"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:266
+msgid "November"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:267
+msgid "December"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:27
+msgid "heading_main_fop_portlet_liechtenstein"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:270
+msgid "action_firstlogin_proceed"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:271
+msgid "april"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:272
+msgid "august"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:273
+msgid "back_to"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:274
+msgid "before"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:275
+msgid "box_about"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:276
+msgid "box_created_by"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:277
+msgid "box_last_modified"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:278
+msgid "box_oshmail_subscribe"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:279
+msgid "box_provided_by"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:28
+msgid "heading_main_fop_portlet_lithuania"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:280
+msgid "box_search_seminars"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:281
+msgid "box_speaker"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:282
+msgid "box_speeches"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:283
+msgid "box_this_url"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:284
+msgid "calendar day view"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:285
+msgid "convert to pdf"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:286
+msgid "daily"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:287
+msgid "day"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:288
+msgid "days"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:289
+msgid "december"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:29
+msgid "heading_main_fop_portlet_luxembourg"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:290
+msgid "default"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:291
+msgid "delete"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:292
+msgid "details_about_authors"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:293
+msgid "document_type"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:294
+msgid "download"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:295
+msgid "download_full_publication"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:296
+msgid "draft"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:297
+msgid "edit portlet content"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:298
+msgid "emerging_risks"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:299
+msgid "event_type"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:30
+msgid "heading_main_fop_portlet_malta"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:300
+msgid "february"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:301
+msgid "feedback_comment"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:302
+msgid "feedback_country"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:303
+msgid "feedback_from_name"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:304
+msgid "feedback_link"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:305
+msgid "feedback_mailtemplate_body"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:306
+msgid "feedback_organization_size"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:307
+msgid "feedback_sender"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:308
+msgid "feedback_sender_mssg_1"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:309
+msgid "feedback_sender_mssg_2"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:31
+msgid "heading_main_fop_portlet_montenegro"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:310
+msgid "feedback_sender_mssg_3"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:311
+msgid "feedback_sender_mssg_from"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:312
+msgid "feedback_sender_mssg_thankyou"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:313
+msgid "feedback_sent_by"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:314
+msgid "foresight"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:315
+msgid "forward"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:316
+msgid "from"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:317
+msgid "go_to_calendar"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:318
+msgid "go_to_folder_localroles"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:319
+msgid "go_to_parent_url"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:32
+msgid "heading_main_fop_portlet_netherlands"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:320
+msgid "header_active"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:321
+msgid "header_portlet_personalise"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:322
+msgid "header_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:323
+msgid "heading_actions"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:324
+msgid "heading_add_to_calendar"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:325
+msgid "heading_advanced_search"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:326
+msgid "heading_alert_add_searchquer"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:327
+msgid "heading_alert_edit_searchquer"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:328
+msgid "heading_alerts_generalinterests"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:329
+msgid "heading_alerts_specialinterests"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:33
+msgid "heading_main_fop_portlet_norway"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:330
+msgid "heading_authorities"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:331
+msgid "heading_calendar_views"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:332
+msgid "heading_document_actions"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:333
+msgid "heading_ew2005_stopthatnoise"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:334
+msgid "heading_exception_details"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:335
+msgid "heading_feedback_comments"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:336
+msgid "heading_file_contents"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:337
+msgid "heading_hierarchical_index"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:338
+msgid "heading_index_by_nace"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:339
+msgid "heading_index_by_providers"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:34
+msgid "heading_main_fop_portlet_poland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:340
+msgid "heading_index_by_sme"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:341
+#: osha.policy:/skins/osha_content/index_topic.pt:13
+msgid "heading_index_by_topic"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:342
+msgid "heading_latest_seminars"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:343
+msgid "heading_link_to"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:344
+msgid "heading_link_to_this_site"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:345
+msgid "heading_lost_password"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:346
+msgid "heading_other_national_sites"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:347
+msgid "heading_portlets_configure"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:348
+msgid "heading_questionnaire_result"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:349
+msgid "heading_quicksearch_users"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:35
+msgid "heading_main_fop_portlet_portugal"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:350
+msgid "heading_research_organisations"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:351
+msgid "heading_search"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:352
+msgid "heading_search_case_studies"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:353
+msgid "heading_search_providers"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:354
+msgid "heading_search_results_memberdocs"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:355
+msgid "heading_search_results_rss"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:356
+msgid "heading_search_risk_assessment_tools"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:357
+msgid "heading_search_useful_links"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:358
+msgid "heading_sections"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:359
+msgid "heading_send_page_to"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:36
+msgid "heading_main_fop_portlet_romania"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:360
+msgid "heading_simple_search"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:361
+msgid "heading_site_error"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:362
+msgid "heading_social_partners"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:363
+msgid "heading_start_simple_process"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:364
+msgid "help_search_author"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:365
+msgid "help_search_available_languages"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:366
+msgid "help_search_countries"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:367
+msgid "help_search_description"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:368
+msgid "help_search_item_type"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:369
+msgid "help_search_keywords"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:37
+msgid "heading_main_fop_portlet_serbia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:370
+msgid "help_search_new_items_since"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:371
+msgid "help_search_path"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:372
+msgid "help_search_review_status"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:373
+msgid "help_search_rssextension"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:374
+msgid "help_search_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:375
+msgid "help_send_to_mail"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:376
+msgid "hour"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:377
+msgid "id"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:378
+msgid "info_alert_searchagent"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:379
+msgid "info_feedback_message_checkbefore"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:38
+msgid "heading_main_fop_portlet_slovakia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:380
+msgid "info_feedback_message_publications"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:381
+msgid "info_feedback_message_writemessage"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:382
+msgid "is"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:383
+msgid "january"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:384
+msgid "july"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:385
+msgid "june"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:386
+msgid "keywords"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:387
+msgid "label_add_to_calendar"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:388
+msgid "label_add_to_ical"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:389
+msgid "label_add_to_vcal"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:39
+msgid "heading_main_fop_portlet_slovenia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:390
+msgid "label_albania"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:391
+msgid "label_alert_titlesearchquery"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:392
+msgid "label_all"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:393
+msgid "label_austria"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:394
+msgid "label_author"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:395
+msgid "label_avi"
+msgstr "AVI"
+
+#: osha.policy:/missing_18n_labels.py:396
+msgid "label_belgium"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:397
+msgid "label_bosnia_and_herzegovina"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:398
+msgid "label_broaden_search"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:399
+msgid "label_bulgaria"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:40
+msgid "heading_main_fop_portlet_spain"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:400
+msgid "label_by"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:401
+msgid "label_category"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:402
+msgid "label_city"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:403
+msgid "label_click_to_hide_full_text"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:404
+msgid "label_click_to_see_speeches_summary"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:405
+msgid "label_click_to_show_full_text"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:406
+msgid "label_closed"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:407
+msgid "label_comment"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:408
+msgid "label_comments"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:409
+msgid "label_competitions"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:41
+msgid "heading_main_fop_portlet_sweden"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:410
+msgid "label_contact_email"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:411
+msgid "label_contact_name"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:412
+msgid "label_contact_phone"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:413
+msgid "label_contributors"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:414
+msgid "label_copyrights"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:415
+msgid "label_countries"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:416
+msgid "label_creator"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:417
+msgid "label_croatia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:418
+msgid "label_current_decision"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:419
+msgid "label_cyprus"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:42
+msgid "heading_main_fop_portlet_switzerland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:420
+msgid "label_czech_republic"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:421
+msgid "label_date"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:422
+msgid "label_default_language"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:423
+msgid "label_denmark"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:424
+msgid "label_estonia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:425
+msgid "label_faq_answertext"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:426
+msgid "label_faq_questiontext"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:427
+msgid "label_female"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:428
+msgid "label_finland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:429
+msgid "label_first_name"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:43
+msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:430
+msgid "label_firstname"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:431
+msgid "label_focalpoint"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:432
+msgid "label_folder_method"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:433
+msgid "label_france"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:434
+msgid "label_free_newsletter"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:435
+msgid "label_full_name"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:436
+msgid "label_germany"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:437
+msgid "label_greece"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:438
+msgid "label_hidden"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:439
+msgid "label_hungary"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:44
+msgid "heading_main_fop_portlet_turkey"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:440
+msgid "label_iceland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:441
+msgid "label_include_subfolders"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:442
+msgid "label_ireland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:443
+msgid "label_italy"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:444
+msgid "label_keywords"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:445
+msgid "label_kosovo"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:446
+msgid "label_latvia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:447
+msgid "label_liechtenstein"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:448
+msgid "label_lithuania"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:449
+msgid "label_luxembourg"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:45
+msgid "heading_main_fop_portlet_united-kingdom"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:450
+msgid "label_macedonia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:451
+msgid "label_male"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:452
+msgid "label_malta"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:453
+msgid "label_montenegro"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:454
+msgid "label_more_seminars_link"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:455
+msgid "label_my_user_name_is"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:456
+msgid "label_name"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:457
+msgid "label_netherlands"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:458
+msgid "label_no_seminars_found"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:459
+msgid "label_norway"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:46
+msgid "label_back_to_fop_overview"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:460
+msgid "label_notifications"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:461
+msgid "label_older_competitions"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:462
+msgid "label_osha_searchcountries"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:463
+msgid "label_osha_searchlanguages"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:464
+msgid "label_osha_support_email"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:465
+msgid "label_osha_uploadsource"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:466
+msgid "label_poland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:467
+msgid "label_portugal"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:468
+msgid "label_position"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:469
+msgid "label_prescribe"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:470
+msgid "label_priority"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:471
+msgid "label_process"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:472
+msgid "label_process_description"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:473
+msgid "label_process_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:474
+msgid "label_profession"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:475
+msgid "label_profile"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:476
+msgid "label_projects"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:477
+msgid "label_publisher"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:478
+msgid "label_publishing_effective"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:479
+msgid "label_purpose"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:480
+msgid "label_romania"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:481
+msgid "label_sector"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:482
+msgid "label_see_also"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:483
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:651
+msgid "label_select"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:484
+msgid "label_send_from"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:485
+msgid "label_send_to_mail"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:486
+msgid "label_serbia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:487
+msgid "label_size"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:488
+msgid "label_slovakia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:489
+msgid "label_slovenia"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:49
+msgid "description_napo-015-safe-moves"
+msgstr ""
+"<p>Основное внимание в фильме уделяется  работе на транспортных средствах. "
+"Центральное место – автопогрузчики и другие виды  внешнего и внутрицехового "
+"транспорта.</p><p>В фильме содержатся сцены о технике безопасности на "
+"объекте, безопасности людей, безопасности транспортных средств, техническом "
+"обслуживании, видимости объектов, безопасности при движении задним ходом и "
+"погрузке/разгрузке транспортного средства. Данный фильм предназначен для "
+"всех работников, особенно для новых сотрудников и молодых работников.</"
+"p><p>Основная мысль фильма заключается в том, что рабочее место на "
+"транспортном средстве должно быть хорошо организовано и работа на нем должна "
+"контролироваться.   Это требует планирования, постоянного контроля и "
+"выполнения необходимых мероприятий  со стороны старших руководителей, "
+"проведения оценки рисков для выявления опасностей, и принятие "
+"соответствующих корректирующих мер.</p><p>Для этого также необходимо уделять "
+"внимание подготовке сотрудников, включая поведенческий подход, осуществлять "
+"постоянный контроль совместные действия, направленные на снижение рисков и "
+"эффективное и своевременное устранение  опасностей.</p>"
+
+#: osha.policy:/missing_18n_labels.py:490
+msgid "label_spain"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:491
+msgid "label_start_time"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:492
+msgid "label_surname"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:493
+msgid "label_sweden"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:494
+msgid "label_switzerland"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:495
+msgid "label_time"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:496
+msgid "label_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:497
+msgid "label_topics_of_interest"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:498
+msgid "label_turkey"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:499
+msgid "label_type"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:50
+msgid "description_napo-016-lungs-at-work"
+msgstr ""
+"Воздействие табачного дыма одинаково плохо как для курящих так и для "
+"некурящих. Оно может вызвать такие серьезные проблемы как сердечно-"
+"сосудистые и респираторные заболевания. Оно может привести к смерти по "
+"причине рака, ишемической болезни сердца или инсульта. В этом коротком "
+"клипе, Напо делает свой собственный уникальный вклад в дело создания и "
+"продвижения рабочих мест, свободных от курения и табачного дыма."
+
+#: osha.policy:/missing_18n_labels.py:500
+msgid "label_united_kingdom"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:501
+msgid "language"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:502
+msgid "language_help"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:503
+msgid "legend_alert_searchquery"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:504
+msgid "legend_profession"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:505
+msgid "legend_search_global"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:506
+msgid "link_address"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:507
+msgid "link_breadcrumbs_home"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:508
+msgid "link_page_top"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:509
+msgid "link_report_link"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:51
+msgid "description_napo-017-working-together"
+msgstr ""
+"<p>All is not what it appears as the factory owner gives a media interview "
+"about the production and safety records of the company. On different levels, "
+"unsafe work practices, a failure to follow procedures and poor "
+"communications contradict her message that safety is a priority.</"
+"p><p>‘Working together’ addresses two issues in prevention: culture and "
+"behaviour. It emphasises that by working together, managers and employees "
+"can create a safer, healthier and more productive workplace based on a "
+"collaborative approach to improve safety culture - ‘the way we do things "
+"around here’ - the way in which safety is managed in the workplace.</"
+"p><p>Managers are leaders; effective leaders demonstrate their commitment by "
+"their actions. They promote OSH and lead by example; they are visible and "
+"aware of key issues. They are respected and trusted by the workforce because "
+"there is open communication and dialogue. They give recognition when things "
+"are done well and are decisive if things go wrong. Worker involvement is a "
+"two-way process where managers and employees talk to one another; listen to "
+"one another's concerns; solve problems, and share views and information</p>"
+
+#: osha.policy:/missing_18n_labels.py:510
+msgid "list_portlet_personalise_1"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:511
+msgid "list_portlet_personalise_2"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:512
+msgid "list_portlet_personalise_3"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:513
+msgid "list_portlet_personalise_4"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:514
+msgid "listingheader_action"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:515
+msgid "listingheader_articles"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:516
+msgid "listingheader_articlesandreplies"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:517
+msgid "listingheader_author"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:518
+msgid "listingheader_comment"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:519
+msgid "listingheader_date"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:52
+msgid "description_napo_film_1"
+msgstr ""
+"Это первый фильм мультсериала о Напо, в котором дается основная информация о "
+"знаках и символах безопасности, которые можно встретить на рабочем месте. "
+"Серия служит полезным источником информации для новых работников и хорошим "
+"напоминанием для остальных, в ней показаны различные ситуации, когда "
+"использование знаков безопасности необходимо. Этот фильм подходит для "
+"работников всех отраслей и уровней, а особенно для тех, кто только начал "
+"учиться или работать.<br/><br/>В фильме, состоящем из 13 эпизодов, "
+"рассказывается о знаках безопасности, их важности, а также о том, как их "
+"различать в зависимости от их формы и цвета. В каждом эпизоде Напо "
+"сталкивается со знаками, которые оживают и объясняют свое значение и "
+"важность безопасности. Зрители увидят, что случится, если знаки "
+"игнорируются, а также какие  технические и организационные препятствия могут "
+"мешать их соблюдению"
+
+#: osha.policy:/missing_18n_labels.py:520
+msgid "listingheader_date_and_time"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:521
+msgid "listingheader_latestchanges"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:522
+msgid "listingheader_name"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:523
+msgid "listingheader_newsletter_sentby"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:524
+msgid "listingheader_newsletter_senton"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:525
+msgid "listingheader_order"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:526
+msgid "listingheader_owner"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:527
+msgid "listingheader_performed_by"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:528
+msgid "listingheader_priority"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:529
+msgid "listingheader_replies"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:53
+msgid "description_napo_film_11"
+msgstr ""
+"Фильм рассказывает историю Напо, идеального работника. Тем не менее, после "
+"работы он игнорирует все правила и риски в различных ситуациях. Это приводит "
+"к множеству инцидентов, которые не заканчиваются трагически, но в конце "
+"концов приводят к спортивной травме, из-за которой Напо попадает в "
+"госпиталь. Время досуга покрывает вождение автомобиля, домашние работы, "
+"образ жизни, поведение в обществе и спорт. С сайта (или DVD) можно загрузить "
+"короткую  викторину, которую можно использовать для обсуждения некоторых "
+"простых правил с аудиторией. Основная целевая группа  этого фильма – "
+"работники на предприятиях. Он предназначен для того, чтобы обратить внимание "
+"на то, как сделать досуг безопасным.  Фильм также может быть использован для "
+"обучения руководителей вопросам сохранения и поддержания работоспособности "
+"работников."
+
+#: osha.policy:/missing_18n_labels.py:530
+msgid "listingheader_status"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:531
+msgid "listingheader_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:532
+msgid "listingheader_type"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:533
+msgid "locked"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:534
+msgid "march"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:535
+msgid "may"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:536
+msgid "minute"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:537
+msgid "month"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:538
+msgid "monthly"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:539
+msgid "needed"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:54
+msgid "description_napo_film_12"
+msgstr ""
+"<p>Данный  фильм представляет собой пересмотренную и исправленную версию "
+"мультфильма ‘Scratch and Sniff – chemical risks at work’, выпущенного в "
+"2003. Он вносит изменения в гармонизацию знаков (пиктограмм), используемых "
+"при перевозке опасных грузов и знаков, используемых в классификации товаров, "
+"а также при маркировке и упаковке химических веществ (CLP). Существующие в "
+"настоящее время 7 пиктограмм должны быть  заменены на девять.</p><p>Ключевые "
+"даты: 1 декабря 2010 года химические вещества должны быть "
+"переклассифицированы и маркированы в соответствии с новой глобальной "
+"системой (СГС); и 1 июня 2015 года – тот же процесс будет применяться к "
+"смесям (прежнее название «препараты»).</p><p>Напо участвует в различных "
+"ситуациях  работы с химикатами, в том числе с отравляющими, "
+"легковоспламеняющимися, едкими, токсичными или опасными для окружающей "
+"среды. Каждая ситуация сопровождается краткими  последовательными данными о "
+"том, какие безопасные методы работы необходимо применять для  "
+"предотвращения  несчастных случаев.  Данный фильм предназначен для всех "
+"отраслей\tпроизводства и  работников всех уровней. Цель заключается в том, "
+"чтобы привлечь внимание к важности  маркировки химической продукции.  После "
+"начальной сцены со взрывом, шесть последовательных сценок показывают, к "
+"каким серьёзным последствиям может привести неправильное обращение с "
+"химикатами, и что нужно  делать, чтобы  правильно соблюдать инструкции по "
+"безопасности. </p>"
+
+#: osha.policy:/missing_18n_labels.py:540
+msgid "news_by"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:541
+msgid "next"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:542
+msgid "no_alerts"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:543
+msgid "no_subject"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:544
+msgid "not allowed"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:545
+msgid "notification_email"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:546
+msgid "november"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:547
+msgid "october"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:548
+msgid "osha_description_pressbox_pressreleases"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:549
+msgid "osha_discovernetwork_info"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:55
+msgid "description_napo_film_13"
+msgstr ""
+"<p>Данный фильм  повышает уровень осведомленности об опасностях,  связанных "
+"с воздействием вредных веществ (а иногда и других, не вредных) на кожу, о "
+"ситуациях, когда это происходит, и о том, что предпринять, чтобы избежать "
+"рисков, защитить кожу и предотвратить ущерб. Напо раскрывает много ситуаций, "
+"в которых воздействие химических и других веществ может вызвать проблемы с "
+"кожей. Он узнает об удивительных свойствах кожи, и раздевается догола, чтобы "
+"показать публике: «Всё, что вы всегда хотели знать о…вашей коже». Он "
+"<p>информирует о мерах предотвращения  проблем, используя три важных "
+"принципа: Избегать-Защищать-Проверять.</p>Избежать или минимизировать "
+"контакт с химическими веществами возможно путем устранения опасного вещества "
+"– использование механического метода вместо химического; путем замещения – "
+"использование более безопасной альтернативы; и путем предотвращения прямого "
+"контакта – использование инструментов и приспособлений вместо обработки с "
+"прямым контактом.  Средства индивидуальной защиты (СИЗ) предназначены для "
+"защиты кожи, но Напо напоминает нам о важности заботы о коже, с помощью "
+"быстрого удаления загрязнений, мытья кожи должным образом, тщательного "
+"высушивания кожи и применения кремов для кожи на регулярной основе.</p> <p> "
+"В заключение Напо рекомендует регулярно проводить осмотры  для "
+"своевременного выявления проблем с кожей.</p>"
+
+#: osha.policy:/missing_18n_labels.py:550
+msgid "osha_informationportlet_link"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:552
+msgid "osha_label_press_room"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:553
+msgid "osha_networkportlet_info"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:554
+msgid "osha_networkportlet_link"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:555
+msgid "oshmail_header_subscribe"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:556
+msgid "oshmail_header_unsubscribe"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:557
+msgid "oshmail_intro_every_month"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:558
+msgid "oshmail_intro_welcome"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:559
+msgid "oshmail_label_enter_emaiL"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:56
+msgid "description_napo_film_14"
+msgstr ""
+"<p>Недостаточные  и неполные требования и стандарты  при проведении "
+"технического обслуживания являются одной из основных причин несчастных "
+"случаев и профессиональных заболеваний. Много несчастных случаев происходит "
+"во время ремонтных работ, или из-за отсутствия технического обслуживания, "
+"или в результате низкого качества технического обслуживания.</p> <p>Данный "
+"мультфильм показывает Напо в различных ситуациях: иногда он является "
+"подсобным рабочим, в другой раз он является наемным рабочим. Мы видим "
+"важность процедур обслуживания оборудования, проблемы «скрытых рисков», "
+"опасности  работы в тесном замкнутом пространстве, а также наличие "
+"достаточного уровня необходимых знаний у лиц, осуществляющих ремонтные "
+"работы, в  частности, проверки и испытания.</p> <p>.  Данный фильм "
+"предназначен для всех отраслей  производства и  работников всех уровней. "
+"Фильм содействует применению на практике эффективных приемов работ и "
+"обращает внимание на важность соблюдения мер безопасности при выполнении "
+"технического обслуживания. </p>"
+
+#: osha.policy:/missing_18n_labels.py:560
+msgid "oshmail_list_1"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:561
+msgid "oshmail_list_3"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:562
+msgid "oshmail_list_4"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:563
+msgid "oshmail_list_5"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:564
+msgid "oshmail_list_6"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:565
+msgid "oshmail_list_7"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:566
+msgid "portlet_campaign_ew2007_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:567
+msgid "portlet_campaign_hwi_text"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:568
+msgid "portlet_campaign_hwi_title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:569
+msgid "portlet_oshmail_email"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:57
+msgid "description_napo_film_2"
+msgstr ""
+"В фильме рассказывается о наиболее часто встречающихся рисках на рабочих "
+"местах, узнать о которых будет наиболее полезно для тех, у кого мало или "
+"совсем нет опыта работы. В нем показана необходимость просветительской "
+"работы по теме рисков, безопасной работы и важность обучения. Этот фильм "
+"подходит для работников всех отраслей и уровней, а особенно для тех, кто "
+"только начал учиться или работать. Цель фильма – повысить уровень знаний об "
+"основных рисках, заставить аудиторию задуматься о несчастных случаях и "
+"обсудить возможные меры их предотвращения. С героями серии происходит девять "
+"несчастных случаев, явившихся следствием типичных индивидуальных или "
+"коллективных рисков на предприятии. В фильме показана важность правильной "
+"установки знаков безопасности, понимания предупреждающих обозначений, "
+"безопасности в дороге с работы или на работу, использования адекватных "
+"средств индивидуальной защиты, профилактики рисков, использования правильной "
+"и наиболее подходящей упаковки, опасность поиска «короткого пути» и "
+"необходимость обучения персонала работе с оборудованием. "
+
+#: osha.policy:/missing_18n_labels.py:570
+msgid "portlet_oshsearch_advanced"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:571
+msgid "portlet_riskob_text"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:572
+msgid "results_by_author"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:573
+msgid "role_equivalence"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:574
+msgid "schedule"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:575
+msgid "search_criteria"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:576
+msgid "search_date"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:577
+msgid "search_in"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:578
+msgid "search_in_folder"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:579
+msgid "search_link"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:58
+msgid "description_napo_film_3"
+msgstr ""
+"В эпизодах этой серии Напо приходиться работать с химикатами, в том числе и "
+"с раздражающими, воспламеняющимися,  коррозионно-активными,  токсичными или "
+"опасными для окружающей среды. В конце каждого эпизода показаны наглядные "
+"примеры, как избежать несчастных случаев. Этот фильм подходит для работников "
+"всех отраслей и уровней, а особенно для тех, кто только начал учиться или "
+"работать. Он показывает необходимость важности правильной маркировки "
+"химических продуктов. В заключительной части каждого эпизода сначала "
+"показывается, как не следует работать с химикатами и какие последствия могут "
+"возникнуть при неправильном обращении, а затем правильный способ работы, "
+"отраженный в инструкциях по безопасности. В фильме описаны шесть из девяти "
+"знаков безопасности, а также вкратце рассказывается о рисках при работе со "
+"взрывоопасными веществами."
+
+#: osha.policy:/missing_18n_labels.py:580
+msgid "search_results_advanced"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:581
+msgid "search_term"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:582
+msgid "searchresults"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:583
+msgid "september"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:584
+msgid "show next day"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:585
+msgid "show next month"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:586
+msgid "show next week"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:587
+msgid "show next year"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:588
+msgid "show previous day"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:589
+msgid "show previous month"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:59
+msgid "description_napo_film_4"
+msgstr ""
+"Напо работает на строительной площадке. Как любой работник, он сталкивается "
+"с большим количеством опасных ситуаций, но ему удается преодолеть эти "
+"испытания. Фильм предназначен для работников, занятых в строительной "
+"отрасли, но также подходит и для работников всех отраслей и уровней, а "
+"особенно для тех, кто только начал учиться или работать. Цель фильма – "
+"показать наиболее часто встречающиеся риски на строительных площадках, а "
+"также профилактические меры, подходящие в данной ситуации. Во вступлении вы "
+"познакомитесь с работником стройплощадки Напо, его коллегой, начальником и "
+"архитектором. Семь эпизодов серии показывают различные риски: падение с "
+"высоты, бег с препятствиями, боли в спине, организация транспортных путей, "
+"гигиена и безопасность на строительной площадке. "
+
+#: osha.policy:/missing_18n_labels.py:590
+msgid "show previous week"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:591
+msgid "show previous year"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:592
+msgid "sign the charter"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:593
+msgid "since"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:594
+msgid "slogan_statment_hw2010_campaign"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:595
+msgid "source"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:596
+msgid "subheading_portlet_contents"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:597
+msgid "subheading_portlet_representation"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:598
+msgid "subject"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:599
+msgid "subscribe_to_oshmail_long"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:60
+msgid "description_napo_film_5"
+msgstr ""
+"В этой серии показаны риски для здоровья и безопасности работников, занятых "
+"в сфере клининговых услуг и работающих по договорам подряда: подскальзывание "
+"и спотыкание, падение, переноска тяжестей в ручную и работа в одиночку. "
+"Целевую аудиторию представляют предприятия и подрядчики сферы клининговых "
+"услуг, но фильм также подходит и для работников всех отраслей и уровней, а "
+"особенно для тех, кто только начал учиться или работать. Цель фильма – "
+"ознакомить людей с рисками, с которыми они сталкиваются в процессе уборки, а "
+"также с возможными профилактическими мерами. Иногда Напо ведет себя "
+"осторожно, иногда рискует. Он, Напетт, его коллеги, начальник и клиенты "
+"сталкиваются с рисками различных уровней. Ситуации дают возможность "
+"поговорить об организации и планировании работы, знаках безопасности, "
+"использовании стремянок и приставных лестниц, проблемах ручной переноски "
+"тяжестей, совместной работы и обмена информацией."
+
+#: osha.policy:/missing_18n_labels.py:600
+msgid "tabs_home"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:601
+msgid "title"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:602
+msgid "title_add_to_ical"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:603
+msgid "title_add_to_vcal"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:604
+msgid "title_agency"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:605
+msgid "title_campaign_beinformed"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:606
+msgid "title_speaker"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:607
+msgid "to"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:608
+msgid "total_messages"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:609
+msgid "type your query"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:61
+msgid "description_napo_film_6"
+msgstr ""
+"Тысячи работников страдают от шума на рабочих местах. Эта серия "
+"демонстрирует основные причины потери слуха и подчеркивает необходимость "
+"контролировать шум в источнике, а также предпринимать профилактические меры "
+"и носить подходящие средства защиты слуха, когда это необходимо. Этот фильм "
+"подходит для работников всех отраслей и уровней, а особенно для тех, кто "
+"только начал учиться или работать.  "
+
+#: osha.policy:/missing_18n_labels.py:610
+msgid "visible"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:611
+msgid "weekly"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:612
+msgid "year"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:62
+msgid "description_napo_film_7"
+msgstr ""
+"В этом фильм содержится полезная информация для молодых работников, только "
+"начинающих свою карьеру или приходящих на новое место работы. Напо отлично "
+"воспринимается молодежью, особенно во время обучения или тренинга. Фильм "
+"подходит и для всех новичков на рынке труда, включая работников-мигрантов и "
+"временных рабочих. Серия состоит из 7 эпизодов, демонстрирующих типичные "
+"ситуации, с которыми сталкиваются новички."
+
+#: osha.policy:/missing_18n_labels.py:63
+msgid "description_napo_film_8"
+msgstr ""
+"В Европе наиболее распространенными заболеваниями, связанными с "
+"производством, являются мышечно-скелетные повреждения (МСП). От них страдают "
+"миллионы работников – можно сказать, что около 90% людей в какой-то момент "
+"их жизни страдают от болей в спине, верхних конечностях (WRULDs), "
+"хронических растяжений сухожилий.<br/>В серии 'Lighten the load' "
+"поддерживается подход к комплексному управлению борьбой с МСП, а также "
+"показывается необходимость учитывать все нагрузки, действующие на человека: "
+"стрессы, перенапряжение, факторы окружающей обстановки, такие как работа при "
+"пониженных температурах, платформа, на которой работа выполнялась, и "
+"передвигаемый груз.<br/>В этом фильме Напо сталкивается с различными "
+"рабочими ситуациями. Серия демонстрирует 11 типичных ситуаций, встречающихся "
+"на рабочих местах, и подходит для демонстрации всем работникам, включая "
+"мигрантов и временных рабочих. "
+
+#: osha.policy:/missing_18n_labels.py:64
+msgid "description_napo_film_9"
+msgstr ""
+"Главной темой Европейской кампании в 2008/09 стала оценка рисков. Серия "
+"Risky business рассказывает об опасностях и рисках на рабочем месте, "
+"необходимости оценки рисков и последующих мер по результатам оценки, для "
+"того чтобы сделать рабочие места более безопасными и здоровыми. В этой серии "
+"рассматриваются опасности и наиболее часто встречающиеся производственные "
+"риски, когда девиз «Остановись, подумай, действуй» помогает снизить "
+"количество несчастных случаев и ухудшений состояния здоровья на "
+"производстве. Фильм используется как вспомогательный элемент в обучении "
+"основам оценки рисков и понятий опасности и риска."
+
 # NAPO 15 "Safe moves"
+#: osha.policy:/missing_18n_labels.py:65
 msgid "heading_napo-015-safe-moves"
 msgstr "Napo in... Safe moves"
 
-msgid "description_napo-015-safe-moves"
-msgstr "<p>Основное внимание в фильме уделяется  работе на транспортных средствах. Центральное место – автопогрузчики и другие виды  внешнего и внутрицехового транспорта.</p><p>В фильме содержатся сцены о технике безопасности на объекте, безопасности людей, безопасности транспортных средств, техническом обслуживании, видимости объектов, безопасности при движении задним ходом и погрузке/разгрузке транспортного средства. Данный фильм предназначен для всех работников, особенно для новых сотрудников и молодых работников.</p><p>Основная мысль фильма заключается в том, что рабочее место на транспортном средстве должно быть хорошо организовано и работа на нем должна контролироваться.   Это требует планирования, постоянного контроля и выполнения необходимых мероприятий  со стороны старших руководителей, проведения оценки рисков для выявления опасностей, и принятие соответствующих корректирующих мер.</p><p>Для этого также необходимо уделять внимание подготовке сотрудников, включая поведенческий подход, осуществлять постоянный контроль совместные действия, направленные на снижение рисков и эффективное и своевременное устранение  опасностей.</p>"
-
+#: osha.policy:/missing_18n_labels.py:66
 msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
 msgstr "Planning for safety"
 
+#: osha.policy:/missing_18n_labels.py:67
 msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
 msgstr "Danger – unloading!"
 
+#: osha.policy:/missing_18n_labels.py:68
 msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
 msgstr "Poor maintenance"
 
+#: osha.policy:/missing_18n_labels.py:69
 msgid "heading_napo-015-safe-moves-episode-004-carried-away"
 msgstr "Carried away"
 
+#: osha.policy:/missing_18n_labels.py:7
+msgid "heading_main_fop_portlet_albania"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:70
 msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
 msgstr "Separate ways"
 
+#: osha.policy:/missing_18n_labels.py:71
 msgid "heading_napo-015-safe-moves-episode-006-circus-number"
 msgstr "Circus number"
 
+#: osha.policy:/missing_18n_labels.py:72
 msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
 msgstr "Unstable load"
 
+#: osha.policy:/missing_18n_labels.py:73
 msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
 msgstr "Clear vision"
 
+#: osha.policy:/missing_18n_labels.py:74
 msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
 msgstr "Danger calling"
 
+#: osha.policy:/missing_18n_labels.py:75
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "The end game"
 
 # NAPO 16 "Lungs at Work"
+#: osha.policy:/missing_18n_labels.py:76
 msgid "heading_napo-016-lungs-at-work"
 msgstr "Напо в.... легкие на работе."
 
-msgid "description_napo-016-lungs-at-work"
-msgstr "Воздействие табачного дыма одинаково плохо как для курящих так и для некурящих. Оно может вызвать такие серьезные проблемы как сердечно-сосудистые и респираторные заболевания. Оно может привести к смерти по причине рака, ишемической болезни сердца или инсульта. В этом коротком клипе, Напо делает свой собственный уникальный вклад в дело создания и продвижения рабочих мест, свободных от курения и табачного дыма."
-
-
 # NAPO 17 "Working Together"
 # RU translations are missing
+#: osha.policy:/missing_18n_labels.py:77
 msgid "heading_napo-017-working-together"
 msgstr "Napo in... Working together"
 
-msgid "description_napo-017-working-together"
-msgstr "<p>All is not what it appears as the factory owner gives a media interview about the production and safety records of the company. On different levels, unsafe work practices, a failure to follow procedures and poor communications contradict her message that safety is a priority.</p><p>‘Working together’ addresses two issues in prevention: culture and behaviour. It emphasises that by working together, managers and employees can create a safer, healthier and more productive workplace based on a collaborative approach to improve safety culture - ‘the way we do things around here’ - the way in which safety is managed in the workplace.</p><p>Managers are leaders; effective leaders demonstrate their commitment by their actions. They promote OSH and lead by example; they are visible and aware of key issues. They are respected and trusted by the workforce because there is open communication and dialogue. They give recognition when things are done well and are decisive if things go wrong. Worker involvement is a two-way process where managers and employees talk to one another; listen to one another's concerns; solve problems, and share views and information</p>"
-
+#: osha.policy:/missing_18n_labels.py:78
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Working together"
 
+#: osha.policy:/missing_18n_labels.py:79
 msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Bad news"
 
+#: osha.policy:/missing_18n_labels.py:8
+msgid "heading_main_fop_portlet_austria"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:80
 msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "The detail"
 
+#: osha.policy:/missing_18n_labels.py:81
 msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "We can work it out"
 
+#: osha.policy:/missing_18n_labels.py:82
 msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Speak up"
 
+#: osha.policy:/missing_18n_labels.py:83
 msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Safety pays"
 
+#: osha.policy:/missing_18n_labels.py:84
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "All together now"
 
-msgid "label_more_news"
-msgstr "More news"
+#: osha.policy:/missing_18n_labels.py:85
+msgid "label_napo_click_to_see_film"
+msgstr "Click the image to see the film..."
 
-msgid "label_more_events"
-msgstr "More events"
+#: osha.policy:/missing_18n_labels.py:86
+msgid "napo_back_to_lesson"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:87
+msgid "title_napo_episode_12_1"
+msgstr "Chemical risks at work"
+
+#: osha.policy:/missing_18n_labels.py:88
+msgid "title_napo_episode_12_2"
+msgstr "Harmful"
+
+#: osha.policy:/missing_18n_labels.py:89
+msgid "title_napo_episode_12_3"
+msgstr "Irritant"
+
+#: osha.policy:/missing_18n_labels.py:9
+msgid "heading_main_fop_portlet_belgium"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:90
+msgid "title_napo_episode_12_4"
+msgstr "Flammable"
+
+#: osha.policy:/missing_18n_labels.py:91
+msgid "title_napo_episode_12_5"
+msgstr "Corrosive"
+
+#: osha.policy:/missing_18n_labels.py:92
+msgid "title_napo_episode_12_6"
+msgstr "Toxic"
+
+#: osha.policy:/missing_18n_labels.py:93
+msgid "title_napo_episode_12_7"
+msgstr "Dangerous for the environment"
+
+#: osha.policy:/missing_18n_labels.py:94
+msgid "title_napo_episode_12_8"
+msgstr "The end"
+
+#: osha.policy:/missing_18n_labels.py:95
+msgid "title_napo_episode_14_1"
+msgstr "Lock out"
+
+#: osha.policy:/missing_18n_labels.py:96
+msgid "title_napo_episode_14_2"
+msgstr "Hidden hazards"
+
+#: osha.policy:/missing_18n_labels.py:97
+msgid "title_napo_episode_14_3"
+msgstr "Don’t improvise!"
+
+#: osha.policy:/missing_18n_labels.py:98
+msgid "title_napo_episode_14_4"
+msgstr "In a rush"
+
+#: osha.policy:/missing_18n_labels.py:99
+msgid "title_napo_episode_14_5"
+msgstr "Danger within!"
+
+#. Default: "Description"
+#: osha.policy:/patches/newsitem_patch.py:24
+msgid "label_description"
+msgstr ""
+
+#. Default: "A short summary of the content."
+#: osha.policy:/patches/newsitem_patch.py:25
+msgid "help_description"
+msgstr ""
+
+#. Default: "Back to ${title} main page"
+#: osha.policy:/skins/osha_content/index_topic.pt:19
+msgid "feature_back_to_mainpage"
+msgstr ""
+
+#. Default: "Search the Link Database on"
+#: osha.policy:/skins/osha_content/sep_view.pt:45
+msgid "label_search_link_database"
+msgstr ""
+
+#. Default: "This OSHA-eCard has been sent to you by ${name}"
+#: osha.policy:/skins/osha_dynamic/display_ecard.pt:21
+msgid "ecard_sent_by"
+msgstr ""
+
+#. Default: "Enter the code shown. Click <input type=\"submit\" class=\"inline\" name=\"form.button.NewCaptcha\" value=\"x\" /> if you cannot read the word properly."
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:100
+#: osha.theme:/skins/osha_theme_custom_templates/contact-info.cpt:182
+msgid "help_captcha_text"
+msgstr ""
+
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:100
+#: osha.theme:/skins/osha_theme_custom_templates/contact-info.cpt:182
+msgid "New Image"
+msgstr ""
+
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
+msgid "Send"
+msgstr ""
+
+#. Default: "<input type=\"submit\" value=\"x\" />"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
+msgid "label_text"
+msgstr ""
+
+#. Default: "Your Name"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:32
+msgid "label_your_name"
+msgstr ""
+
+#. Default: "Your Email"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:37
+msgid "label_your_email"
+msgstr ""
+
+#. Default: "Send this eCard to"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:42
+msgid "label_send_recipient"
+msgstr ""
+
+#. Default: "Your greeting text"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:49
+msgid "label_your_text"
+msgstr ""
+
+#. Default: "Verify your request"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:87
+#: osha.theme:/skins/osha_theme_custom_templates/contact-info.cpt:169
+msgid "label_captcha_text"
+msgstr ""
+
+#. Default: "This helps to prevent automated sending of e-mails."
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:90
+#: osha.theme:/skins/osha_theme_custom_templates/contact-info.cpt:172
+msgid "help_captcha_sendto"
+msgstr ""
+
+#. Default: "[Click to play audio version]"
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:95
+msgid "captcha_wave_url"
+msgstr ""
+
+#: osha.policy:/skins/osha_portlets/portlet_eu_highlights.pt:13
+msgid "Direct access by topic, sector, group, country and language"
+msgstr ""
+
+#. Default: "Language"
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:103
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:319
+msgid "label_language"
+msgstr ""
+
+#. Default: "Return items available in the selected language."
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:105
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:321
+msgid "help_search_language"
+msgstr ""
+
+#. Default: "Any language"
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:112
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:330
+msgid "label_any_language"
+msgstr ""
+
+#. Default: "Search Text"
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:70
+msgid "label_search_text"
+msgstr ""
+
+#. Default: "For a simple text search, enter your search term here. Multiple words may be found by combining them with <strong>AND</strong> and <strong>OR</strong>. The text in this field will be matched with items' contents, title and description."
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:72
+msgid "help_search_text"
+msgstr ""
+
+#. Default: "Search results"
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:158
+#: osha.theme:/browser/templates/dbfilter.pt:172
+#: osha.theme:/browser/templates/rofilter.pt:99
+#: osha.theme:/browser/templates/index_oshlink.pt:128
+#: osha.theme:/browser/templates/index_casestudy.pt:128
+#: osha.theme:/browser/templates/index_ralink.pt:128
+#: osha.theme:/browser/templates/practical_solution.pt:185
+#: osha.theme:/browser/templates/index_provider.pt:128
+#: osha.theme:/browser/templates/worklist.pt:148
+#: osha.theme:/browser/templates/atoz.pt:129
+#: osha.theme:/browser/templates/index_directive.pt:166
+msgid "heading_search_results"
+msgstr ""
+
+#. Default: "${number} items match your criteria."
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
+#: osha.theme:/browser/templates/dbfilter.pt:178
+#: osha.theme:/browser/templates/practical_solution.pt:192
+#: osha.theme:/browser/templates/publicationsearch.pt:98
+#: osha.theme:/browser/templates/atoz.pt:139
+msgid "batch_x_items_matching_your_criteria"
+msgstr ""
+
+#. Default: "No results were found."
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
+#: osha.policy:/skins/osha_content/index_topic.pt:21
+#: osha.theme:/browser/templates/dbfilter.pt:185
+#: osha.theme:/browser/templates/rofilter.pt:111
+#: osha.theme:/browser/templates/index_oshlink.pt:139
+#: osha.theme:/browser/templates/search_ro.pt:24
+#: osha.theme:/browser/templates/index_casestudy.pt:140
+#: osha.theme:/browser/templates/index_ralink.pt:140
+#: osha.theme:/browser/templates/practical_solution.pt:200
+#: osha.theme:/browser/templates/publicationsearch.pt:111
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:85
+#: osha.theme:/browser/templates/index_provider.pt:140
+#: osha.theme:/browser/templates/worklist.pt:160
+#: osha.theme:/browser/templates/atoz.pt:147
+#: osha.theme:/browser/templates/practical_solutions.pt:78
+#: osha.theme:/browser/templates/index_directive.pt:178
+msgid "description_no_results_found"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:123
+#: osha.searchurls:/interfaces.py:27 osha.searchurls:/interfaces.py:49
+msgid "URLs"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:124
+msgid ""
+"This list holds all URLs that are associated with a Provider. You cannot add "
+"URLs to this list here - instead go directly to the desired Provider. There "
+"you will find an option to add the Provider's URL"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:131
+msgid "Manual URLs"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:132
+msgid ""
+"URLs entered here that are already linked with a Provider will be ignored."
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:137
+msgid "CSE"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:150
+msgid "Search URL settings"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:151
+msgid "Google CSE settings - search URLs"
+msgstr ""
+
+#: osha.searchurls:/browser/search_urls.py:152
+msgid "Here you can enter and edit URLs that will be used for the linked CSE."
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:10
+msgid "The URL that is to be included in the Search Engine"
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:16
+msgid "The Provider where this URL comes from (if applicable)"
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:28
+msgid ""
+"To remove a URL, tick the checkbox and click 'Remove selected items'. Don't "
+"forget to click 'Save' afterwards."
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:39
+msgid "CSE label"
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:40
+msgid ""
+"The label of the CSE that is used for filtering for the search URLs "
+"(something like _cse_sdqc0s4rxbs)"
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:50
+msgid ""
+"Enter one URL per line. If you want to remove an existing URL from this "
+"list, simply delete it here and click 'Save'."
+msgstr ""
+
+#: osha.searchurls:/interfaces.py:9
+msgid "url"
+msgstr ""
+
+#: osha.smartprintpublication:/browser/publication_settings.py:61
+msgid "Apply"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:12
+msgid "Issue"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:13
+msgid ""
+"State the publication's issue or number. It will appear as part of the "
+"Publication's header."
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:17
+msgid "Publication date"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:18
+msgid "Set the official publication date here"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:22
+msgid "Existing publication"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:23
+msgid ""
+"If present, shows the path of the Publication associated with this document. "
+"If you submit this form again and don't change the destination folder below, "
+"this existing Publication will be overwritten with the current version of "
+"the documents and the metadata settings done here"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:29
+msgid "Existing translations"
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:30
+msgid ""
+"If present, shows the paths of all translations of the Publication "
+"associated with this document."
+msgstr ""
+
+#: osha.smartprintpublication:/interfaces.py:39
+msgid ""
+"Specify the destination folder where the Publication should be created / "
+"updated. \n"
+"WARNING: if a Publication is alreay conncted to this document and you change "
+"the destination, the existing Publication will to longer be connected. It "
+"will be replaced by a newly created Publication in the new location."
+msgstr ""
+
+#: osha.surveyanswers:/browser/portlet.py:20
+msgid "Questions"
+msgstr ""
+
+#: osha.surveyanswers:/browser/portlet.py:64
+msgid "text"
+msgstr ""
+
+#: osha.surveyanswers:/browser/portlet.py:65
+msgid "name"
+msgstr ""
+
+#: osha.surveyanswers:/browser/portlet.py:77
+msgid "Add Questions Portlet"
+msgstr ""
+
+#: osha.surveyanswers:/browser/portlet.py:78
+#: osha.surveyanswers:/browser/portlet.py:86
+msgid "This portlet displays all questions."
+msgstr ""
+
+#: osha.surveyanswers:/browser/portlet.py:85
+msgid "Edit Questions Portlet"
+msgstr ""
+
+#: osha.theme:/alertservice.py:34
+msgid "OSH Link"
+msgstr ""
+
+#: osha.theme:/alertservice.py:35 osha.theme:/portlets/oshnews.py:98
+msgid "News"
+msgstr ""
+
+#: osha.theme:/alertservice.py:36
+msgid "Event"
+msgstr ""
+
+#: osha.theme:/alertservice.py:38
+msgid "Case Study"
+msgstr ""
+
+#. Default: "Features including this element"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:111
+msgid "legend_oshcontent_featurelist"
+msgstr ""
+
+#. Default: "Similar Information by keyword"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:126
+msgid "legend_oshcontent_keywordlist"
+msgstr ""
+
+#: osha.theme:/browser/collageviews/oshlink_full.pt:13
+msgid "here/portal_type"
+msgstr ""
+
+#. Default: "published:"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:19
+msgid "label_published"
+msgstr ""
+
+#. Default: "Metadata"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:29
+msgid "label_metadata"
+msgstr ""
+
+#. Default: "More Information"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:33
+msgid "label_more_information"
+msgstr ""
+
+#. Default: "Available in the following languages"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:42
+msgid "label_available_languages"
+msgstr ""
+
+#. Default: "Applicable to the following countries"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:49
+msgid "label_applicable_countries"
+msgstr ""
+
+#. Default: "EINECS Code"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:56
+msgid "label_einecs"
+msgstr ""
+
+#. Default: "CAS Code"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:62
+msgid "label_cas"
+msgstr ""
+
+#. Default: "Contact:"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:87
+msgid "label_contact"
+msgstr ""
+
+#: osha.theme:/browser/interfaces.py:68
+msgid "RSS Feed"
+msgstr ""
+
+#: osha.theme:/browser/interfaces.py:74
+msgid "Reference to the Press Contacts"
+msgstr ""
+
+#: osha.theme:/browser/interfaces.py:78
+msgid "Filtering Keywords"
+msgstr ""
+
+#: osha.theme:/browser/interfaces.py:79
+msgid "Add your keywords here, separate them with spaces."
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:104
+msgid "Language"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:105
+msgid "Title"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:127
+msgid "Link to be placed on the logo"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:128
+msgid "Enter the link (URL) that is placed around the logo"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:140
+msgid "Support email address"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:141
+msgid ""
+"This email address is used for sending the support form and the broken link "
+"form. If no email address is specified, the site administrators email "
+"address is used."
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:144
+msgid "TC Cross Checker email address"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:145
+msgid ""
+"The email address for the workflow group cross checker. If no email address "
+"is specified, the site administrators email address is used."
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:148
+msgid "Agency Project Manager email address"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:149
+msgid ""
+"The email address for the workflow group project manager. If no email "
+"address is specified, the site administrators email address is used."
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:152
+msgid "Listserv Address"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:153
+msgid ""
+"The email address for the listserv server. If no email address is specified, "
+"the site administrators email address is used. "
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:159
+msgid "Site Slogan"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:160
+msgid "Displayed in the portal header. "
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:168
+msgid "Number of OSHMail Subscribers"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:169
+msgid "Number of subscribers of the OSHMail newsletter."
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:173
+msgid "Show A-Z link in search portlet"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:174
+msgid ""
+"With this option you can turn off showing the link to 'A-Z Index in the "
+"search portlet"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:180
+msgid "Show previous events"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:181
+msgid ""
+"With this option you can turn off the links to previous events in the "
+"calendar and events portlets"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:277
+msgid "Logo"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:285
+msgid "Slogan"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:289
+msgid "Parameters"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:302
+#: osha.theme:/browser/osha_properties_controlpanel.py:304
+msgid "Site Properties"
+msgstr ""
+
+#: osha.theme:/browser/osha_properties_controlpanel.py:303
+msgid "Configuration of site specific settings"
+msgstr ""
+
+#: osha.theme:/browser/oshevent_view.py:21
+#: osha.theme:/portlets/oshevents.py:93
+msgid "Events"
+msgstr ""
+
+#: osha.theme:/browser/oshmail_subscribe.py:29
+#: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
+msgid "You did not enter a valid email address."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_subscribe.py:39
+msgid ""
+"Thank you for subscribing to the OSHmail newsletter. You will receive an "
+"email to confirm your subscription."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_subscribe.py:54
+msgid "Your subscription could not be sent. Please try again."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_unsubscribe.py:35
+msgid "Your unsubscription request could not be sent. Please try again."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_unsubscribe.py:43
+msgid "You are still subscribed to the mailing list."
+msgstr ""
+
+#: osha.theme:/browser/oshnews_view.py:36
+msgid "heading_newsboard_latest_news"
+msgstr ""
+
+#. Default: "All ${portal_type} items on ${subject}"
+#: osha.theme:/browser/oshtopic_view.py:61
+msgid "header_oshtopic_dynamic"
+msgstr ""
+
+#: osha.theme:/browser/pressroom.py:201
+msgid "Configure this Press Room"
+msgstr ""
+
+#: osha.theme:/browser/rolling_quote.py:16
+msgid "Quotation"
+msgstr ""
+
+#. Default: "EU-OSHA in the media"
+#: osha.theme:/browser/rssfeeds.py:91
+#: osha.theme:/skins/osha_theme_custom_templates/sinList.pt:22
+msgid "eu_osha_in_the_media"
+msgstr ""
+
+#. Default: "The EU-OSHA Blog"
+#: osha.theme:/browser/rssfeeds.py:97
+msgid "eu_osha_blog"
+msgstr ""
+
+#. Default: "x ${start_day_name}"
+#: osha.theme:/browser/templates/calendar_events_list.pt:37
+msgid "start_date"
+msgstr ""
+
+#. Default: "More competitions"
+#: osha.theme:/browser/templates/competition_detail.pt:57
+msgid "label_more_competitions"
+msgstr ""
+
+#. Default: "Closed competitions"
+#: osha.theme:/browser/templates/competitions_view.pt:107
+msgid "label_closed_competitions"
+msgstr ""
+
+#. Default: "Ongoing competitions"
+#: osha.theme:/browser/templates/competitions_view.pt:50
+msgid "label_ongoing_competitions"
+msgstr ""
+
+#. Default: "Learn more"
+#: osha.theme:/browser/templates/competitions_view.pt:66
+#: osha.theme:/browser/templates/competitions_view.pt:89
+msgid "label_learn_more"
+msgstr ""
+
+#. Default: "Upcoming competitions"
+#: osha.theme:/browser/templates/competitions_view.pt:75
+msgid "label_upcoming_competitions"
+msgstr ""
+
+#. Default: "Subcategory"
+#: osha.theme:/browser/templates/dbfilter.pt:119
+#: osha.theme:/browser/templates/practical_solution.pt:131
+#: osha.theme:/browser/templates/index_directive.pt:128
+msgid "label_subcategory"
+msgstr ""
+
+#. Default: "Search the Link Database on"
+#: osha.theme:/browser/templates/dbfilter.pt:45
+msgid "label_search_database_on"
+msgstr ""
+
+#. Default: "Search the Link Database"
+#: osha.theme:/browser/templates/dbfilter.pt:49
+#: osha.theme:/browser/templates/rofilter.pt:24
+msgid "label_search_database"
+msgstr ""
+
+#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/dbfilter.pt:55
+#: osha.theme:/browser/templates/index_oshlink.pt:48
+#: osha.theme:/browser/templates/index_casestudy.pt:48
+#: osha.theme:/browser/templates/index_ralink.pt:48
+#: osha.theme:/browser/templates/index_provider.pt:48
+#: osha.theme:/browser/templates/index_directive.pt:54
+msgid "help_database_filter_topic"
+msgstr ""
+
+#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/dbfilter.pt:60
+#: osha.theme:/browser/templates/index_oshlink.pt:53
+#: osha.theme:/browser/templates/index_casestudy.pt:53
+#: osha.theme:/browser/templates/index_ralink.pt:53
+#: osha.theme:/browser/templates/index_provider.pt:53
+#: osha.theme:/browser/templates/index_directive.pt:59
+msgid "help_database_filter"
+msgstr ""
+
+#. Default: "Database"
+#: osha.theme:/browser/templates/dbfilter.pt:88
+#: osha.theme:/browser/templates/worklist.pt:73
+msgid "label_database"
+msgstr ""
+
+#. Default: "Select the database types you want to search."
+#: osha.theme:/browser/templates/dbfilter.pt:90
+#: osha.theme:/browser/templates/worklist.pt:75
+msgid "help_database_search"
+msgstr ""
+
+#. Default: "Path"
+#: osha.theme:/browser/templates/existing_items_form.pt:18
+msgid "label_path"
+msgstr ""
+
+#. Default: "FAQ"
+#: osha.theme:/browser/templates/faq_view.pt:16
+msgid "headingfaq"
+msgstr ""
+
+#: osha.theme:/browser/templates/index_alphabetical.pt:105
+msgid "Identifier"
+msgstr ""
+
+#. Default: "Subordinate entries"
+#: osha.theme:/browser/templates/index_alphabetical.pt:112
+msgid "mt_child_entries"
+msgstr ""
+
+#: osha.theme:/browser/templates/index_alphabetical.pt:127
+msgid "Translations"
+msgstr ""
+
+#. Default: "Alphabetical Index of the Multilingual Thesaurus"
+#: osha.theme:/browser/templates/index_alphabetical.pt:36
+msgid "alphabetical_index"
+msgstr ""
+
+#. Default: "Click a term to display the results."
+#: osha.theme:/browser/templates/index_alphabetical.pt:80
+#: osha.theme:/browser/templates/atoz.pt:118
+msgid "info_no_results"
+msgstr ""
+
+#. Default: "Display information about \"${title}\""
+#: osha.theme:/browser/templates/index_alphabetical.pt:98
+msgid "link_thesaurus_search"
+msgstr ""
+
+#. Default: "Case Studies on"
+#: osha.theme:/browser/templates/index_casestudy.pt:38
+msgid "label_search_database_casestudy_on"
+msgstr ""
+
+#. Default: "Search for Case Studies"
+#: osha.theme:/browser/templates/index_casestudy.pt:42
+msgid "label_search_database_casestudy"
+msgstr ""
+
+#. Default: "Directives on"
+#: osha.theme:/browser/templates/index_directive.pt:44
+msgid "label_search_database_directive_on"
+msgstr ""
+
+#. Default: "Search the Directives"
+#: osha.theme:/browser/templates/index_directive.pt:48
+msgid "label_search_database_directive"
+msgstr ""
+
+#. Default: "OSH resources on"
+#: osha.theme:/browser/templates/index_oshlink.pt:38
+msgid "label_search_database_oshlink_on"
+msgstr ""
+
+#. Default: "Search for OSH resources"
+#: osha.theme:/browser/templates/index_oshlink.pt:42
+msgid "label_search_database_oshlink"
+msgstr ""
+
+#. Default: "Providers on"
+#: osha.theme:/browser/templates/index_provider.pt:38
+msgid "label_search_database_providers_on"
+msgstr ""
+
+#. Default: "Search for Providers"
+#: osha.theme:/browser/templates/index_provider.pt:42
+msgid "label_search_database_providers"
+msgstr ""
+
+#. Default: "Risk Assessment Tools on"
+#: osha.theme:/browser/templates/index_ralink.pt:38
+msgid "label_search_database_ralink_on"
+msgstr ""
+
+#. Default: "Search for Risk Assessment Tools"
+#: osha.theme:/browser/templates/index_ralink.pt:42
+msgid "label_search_database_ralink"
+msgstr ""
+
+#: osha.theme:/browser/templates/index_ro_metadata.pt:32
+msgid "Please refine your selection"
+msgstr ""
+
+#. Default: "Select your language"
+#: osha.theme:/browser/templates/languageselector.pt:9
+msgid "label_select_language"
+msgstr ""
+
+#. Default: "Manage Top OSHA Portlets"
+#: osha.theme:/browser/templates/manage_osha_above.pt:16
+msgid "heading_manage_osha_above"
+msgstr ""
+
+#. Default: "Manage Bottom OSHA Portlets"
+#: osha.theme:/browser/templates/manage_osha_below.pt:16
+msgid "heading_manage_osha_below"
+msgstr ""
+
+#. Default: ""
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:51
+msgid "label_napo_download_film_as"
+msgstr "Download this film as"
+
+#. Default: ""
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:57
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:87
+msgid "label_or"
+msgstr "or"
+
+#. Default: ""
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:81
+msgid "label_napo_download_episode_as"
+msgstr "Download this film as"
+
+#. Default: "View episodes"
+#: osha.theme:/browser/templates/napofilmview.pt:42
+msgid "label_napo_view_episodes"
+msgstr "Смотреть эпизоды"
+
+#. Default: "If you cannot find the answer to your query, please, ${label_contact_us}."
+#: osha.theme:/browser/templates/osha_help_center_view.pt:117
+msgid "text_if_no_answer_contact_us"
+msgstr ""
+
+#. Default: "contact us"
+#: osha.theme:/browser/templates/osha_help_center_view.pt:117
+msgid "label_contact_us"
+msgstr ""
+
+#. Default: "FAQ"
+#: osha.theme:/browser/templates/osha_help_center_view.pt:31
+msgid "FAQs"
+msgstr ""
+
+#. Default: "Frequently Asked Questions"
+#: osha.theme:/browser/templates/osha_help_center_view.pt:35
+msgid "text_frequently_asked_questions"
+msgstr ""
+
+#. Default: "Search the ${text_frequently_asked_questions} or browse by category."
+#: osha.theme:/browser/templates/osha_help_center_view.pt:35
+msgid "text_help_center_intro"
+msgstr ""
+
+#. Default: "FAQs"
+#: osha.theme:/browser/templates/osha_help_center_view.pt:66
+msgid "label_faqs"
+msgstr ""
+
+#. Default: "There are no FAQs in this category."
+#: osha.theme:/browser/templates/osha_help_center_view.pt:96
+msgid "text_no_faq_results"
+msgstr ""
+
+#. Default: "European Agency for Safety and Health at Work"
+#: osha.theme:/browser/templates/osha_homepage.pt:19
+msgid "box_agency_fullname"
+msgstr ""
+
+#. Default: "Making Europe a safer, healthier and more productive place to work"
+#: osha.theme:/browser/templates/osha_homepage.pt:20
+msgid "label_making_europe_safer"
+msgstr ""
+
+#. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
+#: osha.theme:/browser/templates/osha_homepage.pt:21
+msgid "portlet_more_link"
+msgstr ""
+
+#. Default: "Highlights"
+#: osha.theme:/browser/templates/osha_homepage.pt:28
+msgid "label_highlights"
+msgstr ""
+
+#. Default: "In Focus"
+#: osha.theme:/browser/templates/osha_homepage.pt:56
+msgid "label_in-focus"
+msgstr ""
+
+#. Default: "Do you really want to unsubscribe from the OSHmail newsletter?"
+#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:58
+msgid "unsub_confirm_text"
+msgstr ""
+
+#. Default: "Yes, unsubscribe me from the newsletter"
+#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:60
+msgid "unsub_confirm_yes"
+msgstr ""
+
+#. Default: "No, I want to continue receiving the newsletter"
+#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:61
+msgid "unsub_confirm_no"
+msgstr ""
+
+#. Default: "Send"
+#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64
+msgid "unsub_confirm_send_text"
+msgstr ""
+
+#. Default: "Load ${link}."
+#: osha.theme:/browser/templates/oshmail_view.pt:123
+msgid "label_load_older"
+msgstr ""
+
+#. Default: "Close"
+#: osha.theme:/browser/templates/oshmail_view.pt:145
+msgid "label_close_overlay"
+msgstr ""
+
+#: osha.theme:/browser/templates/oshmail_view.pt:31
+msgid "OSHmail newsletter"
+msgstr ""
+
+#. Default: "Subscription"
+#: osha.theme:/browser/templates/oshmail_view.pt:36
+msgid "heading_oshmail_subscribe"
+msgstr ""
+
+#: osha.theme:/browser/templates/oshmail_view.pt:45
+msgid "Not interested any more?"
+msgstr ""
+
+#: osha.theme:/browser/templates/oshmail_view.pt:46
+msgid "Unsubscribe"
+msgstr ""
+
+#. Default: "Latest newsletter"
+#: osha.theme:/browser/templates/oshmail_view.pt:68
+msgid "label_latest_newsletter"
+msgstr ""
+
+#. Default: "Latest OSHMail Issue"
+#: osha.theme:/browser/templates/oshmail_view.pt:70
+msgid "label_latest_issue"
+msgstr ""
+
+#. Default: "older newsletters"
+#: osha.theme:/browser/templates/oshmail_view.pt:93
+#: osha.theme:/browser/templates/oshmail_view.pt:123
+msgid "label_older_newsletters"
+msgstr ""
+
+#. Default: "previous issues"
+#: osha.theme:/browser/templates/oshmail_view.pt:97
+msgid "label_previous_issues"
+msgstr ""
+
+#. Default: "Show previous news"
+#: osha.theme:/browser/templates/oshnews_view_simple.pt:115
+#: osha.theme:/browser/templates/oshnews_view.pt:113
+msgid "link_newsboard_previousnews"
+msgstr ""
+
+#: osha.theme:/browser/templates/practical_solution.pt:166
+#: osha.theme:/browser/templates/publicationsearch.pt:81
+msgid "Reset"
+msgstr ""
+
+#. Default: "Advanced search"
+#: osha.theme:/browser/templates/practical_solution.pt:81
+msgid "action_advanced_search"
+msgstr ""
+
+#. Default: "Filter your search by selecting one or more of the filters."
+#: osha.theme:/browser/templates/practical_solution.pt:88
+msgid "help_advanced_search"
+msgstr ""
+
+#. Default: "Latest Additions"
+#: osha.theme:/browser/templates/practical_solutions.pt:74
+msgid "heading_latest_additions"
+msgstr ""
+
+#. Default: "Campaigns"
+#: osha.theme:/browser/templates/pressroom.pt:31
+msgid "osha_label_pressbox_campaigns"
+msgstr ""
+
+#. Default: "About Us"
+#: osha.theme:/browser/templates/pressroom.pt:55
+msgid "osha_label_pressbox_aboutus"
+msgstr ""
+
+#. Default: "Publications"
+#: osha.theme:/browser/templates/pressroom.pt:62
+msgid "osha_label_pressbox_publications"
+msgstr ""
+
+#. Default: "Publications \342\200\223 sorted by type of publication"
+#: osha.theme:/browser/templates/publicationlist.pt:16
+msgid "label_publications_by_type"
+msgstr ""
+
+#. Default: "All of the Agency&acute;s publications can be downloaded free of charge."
+#: osha.theme:/browser/templates/publicationlist.pt:20
+msgid "all_agency_publications"
+msgstr ""
+
+#. Default: "Read our ${pubtype}"
+#: osha.theme:/browser/templates/publicationlist.pt:27
+msgid "publication_read_our"
+msgstr ""
+
+#. Default: "<font size=\"1\" color=\"#333333\">To be able to see our most recent pdf publications, you will need to have installed the latest version of the Adobe Acrobat Reader, available at ${reader_download}.</font>"
+#: osha.theme:/browser/templates/publicationlist.pt:34
+msgid "download_adobe_reader"
+msgstr ""
+
+#. Default: "<font size=\"1\" color=\"#333333\">Access all the EU publications on the ${link_eu_bookshop}</font>"
+#: osha.theme:/browser/templates/publicationlist.pt:35
+msgid "label_eu_bookshop"
+msgstr ""
+
+#. Default: "Check for more results in EN"
+#: osha.theme:/browser/templates/publicationsearch.pt:100
+msgid "label_more_results_in_en"
+msgstr ""
+
+#: osha.theme:/browser/templates/publicationsearch.pt:51
+msgid "Keywords"
+msgstr ""
+
+#. Default: "Questions in parliament"
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:28
+msgid "label_question_in_parliament"
+msgstr ""
+
+#. Default: "Reset"
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
+msgid "label_reset_form"
+msgstr ""
+
+#. Default: "${number} search results were found."
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:81
+msgid "batch_x_search_results"
+msgstr ""
+
+#. Default: "Themes (including related news, events, publications and press releases)"
+#: osha.theme:/browser/templates/rssfeeds.pt:105
+msgid "heading_themes"
+msgstr ""
+
+#. Default: "Theme"
+#: osha.theme:/browser/templates/rssfeeds.pt:114
+msgid "label_theme"
+msgstr ""
+
+#. Default: "Agency RSS Feeds"
+#: osha.theme:/browser/templates/rssfeeds.pt:16
+msgid "heading_agency_rss"
+msgstr ""
+
+#. Default: "This page contains an overview over the RSS (${link}) feeds currently available at osha.europa.eu. Subscribe to our RSS (Really Simple Syndication) feeds to get information delivered directly to your desktop!"
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+msgid "description_agency_rss"
+msgstr ""
+
+#. Default: "To view one of the feeds in your RSS Aggregator"
+#: osha.theme:/browser/templates/rssfeeds.pt:23
+msgid "help_use_aggregator"
+msgstr ""
+
+#. Default: "What is an Aggregator?"
+#: osha.theme:/browser/templates/rssfeeds.pt:24
+msgid "info_whatis_aggregator"
+msgstr ""
+
+#. Default: "Copy the URL/shortcut that corresponds to the topic that interests you."
+#: osha.theme:/browser/templates/rssfeeds.pt:27
+msgid "help_use_aggregator_step1"
+msgstr ""
+
+#. Default: "Paste the URL into your reader."
+#: osha.theme:/browser/templates/rssfeeds.pt:29
+msgid "help_use_aggregator_step2"
+msgstr ""
+
+#. Default: "If you use an online RSS service, use a shortcut:"
+#: osha.theme:/browser/templates/rssfeeds.pt:34
+msgid "help_use_online_service"
+msgstr ""
+
+#. Default: "Click on the shortcut button for your service."
+#: osha.theme:/browser/templates/rssfeeds.pt:37
+msgid "help_use_online_service_step1"
+msgstr ""
+
+#. Default: "Click the \"Add to Any\" button, if your service is not in the list."
+#: osha.theme:/browser/templates/rssfeeds.pt:39
+msgid "help_use_online_service_step2"
+msgstr ""
+
+#. Default: "Note"
+#: osha.theme:/browser/templates/rssfeeds.pt:46
+msgid "label_note"
+msgstr ""
+
+#. Default: "The current language is ${language}. If you want to subscribe to feeds in another language, change the language of this page first."
+#: osha.theme:/browser/templates/rssfeeds.pt:48
+msgid "note_language"
+msgstr ""
+
+#. Default: "General Information"
+#: osha.theme:/browser/templates/rssfeeds.pt:54
+msgid "heading_general_information"
+msgstr ""
+
+#. Default: "Latest"
+#: osha.theme:/browser/templates/rssfeeds.pt:63
+msgid "label_latest"
+msgstr ""
+
+#. Default: "URL"
+#: osha.theme:/browser/templates/rssfeeds.pt:68
+#: osha.theme:/browser/templates/rssfeeds.pt:90
+#: osha.theme:/browser/templates/rssfeeds.pt:119
+#: osha.theme:/browser/collageviews/oshlink_full.pt:95
+#: osha.whoswho:/content/whoswho.py:22
+msgid "label_url"
+msgstr ""
+
+#. Default: "Shortcut"
+#: osha.theme:/browser/templates/rssfeeds.pt:72
+#: osha.theme:/browser/templates/rssfeeds.pt:94
+#: osha.theme:/browser/templates/rssfeeds.pt:123
+msgid "label_shortcut"
+msgstr ""
+
+#: osha.theme:/browser/templates/site_actions.pt:21
+msgid "Help"
+msgstr ""
+
+#: osha.theme:/browser/templates/site_actions.pt:27
+msgid "About us"
+msgstr ""
+
+#. Default: "Skip to content"
+#: osha.theme:/browser/templates/site_actions.pt:3
+msgid "label_skiptocontent"
+msgstr ""
+
+#. Default: "Site Update"
+#: osha.theme:/browser/templates/site_update.pt:15
+msgid "heading_siteupdate"
+msgstr ""
+
+#. Default: "Archive"
+#: osha.theme:/browser/templates/teaser_view.pt:105
+msgid "label_archive"
+msgstr ""
+
+#. Default: "Topics"
+#: osha.theme:/browser/templates/topics_view.pt:11
+msgid "heading_topics"
+msgstr ""
+
+#. Default: "Updates on topics of your choice"
+#: osha.theme:/portlets/alertservice.pt:20
+msgid "portlet_alertservice_text"
+msgstr ""
+
+#. Default: "subscribers"
+#: osha.theme:/portlets/alertservice.pt:26 osha.theme:/portlets/oshmail.pt:24
+msgid "box_oshmail_subscribers"
+msgstr ""
+
+#: osha.theme:/portlets/alertservice.py:27
+#: osha.theme:/portlets/subscribe_mailinglists.pt:17
+#: osha.theme:/portlets/alertservice.pt:7
+msgid "Alert Service"
+msgstr ""
+
+#: osha.theme:/portlets/alertservice.py:78
+msgid "Add Alert Service Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/alertservice.py:79
+msgid "Provides the link to updates on topics of your choice."
+msgstr ""
+
+#. Default: "Lighten the load!"
+#: osha.theme:/portlets/campaigns.pt:23
+msgid "portlet_campaign_ew2007_text"
+msgstr ""
+
+#. Default: "Campaigns"
+#: osha.theme:/portlets/campaigns.pt:8
+msgid "box_campaigns"
+msgstr ""
+
+#: osha.theme:/portlets/campaigns.py:21
+msgid "Campaigns"
+msgstr ""
+
+#: osha.theme:/portlets/campaigns.py:53
+msgid "Add Campaigns Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/campaigns.py:54
+msgid "Shows Banners of current campaigns."
+msgstr ""
+
+#. Default: "Try the:"
+#: osha.theme:/portlets/defaultsearch.pt:41
+msgid "txt_try_the"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:199
+msgid "Add Document Fallback Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:200
+#: osha.theme:/portlets/document_fallback.py:216
+msgid "This portlet displays the contents of a document."
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:215
+msgid "Edit Document Fallback Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:31
+#: osha.theme:/portlets/image.py:32 osha.theme:/portlets/osha_items.py:28
+#: osha.theme:/portlets/oshcollection.py:32
+#: osha.theme:/portlets/rollingquotes.py:24 osha.theme:/portlets/top5.py:81
+msgid "Portlet header"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:32
+#: osha.theme:/portlets/image.py:33 osha.theme:/portlets/oshcollection.py:33
+#: osha.theme:/portlets/rollingquotes.py:25 osha.theme:/portlets/top5.py:82
+msgid "Title of the rendered portlet"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:35
+msgid "Target document"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:36
+msgid "Find the document which provides the content"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:42
+msgid "Omit portlet border"
+msgstr ""
+
+#: osha.theme:/portlets/document_fallback.py:43
+msgid ""
+"Tick this box if you want to render the text above without the standard "
+"header, border or footer."
+msgstr ""
+
+#. Default: "TBC"
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:41
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+msgid "abbr_date_to_be_confirmed"
+msgstr ""
+
+#. Default: "European Campaign 2007"
+#: osha.theme:/portlets/ew2007.pt:7
+msgid "box_ew2007"
+msgstr ""
+
+#: osha.theme:/portlets/ew2007.py:21 osha.theme:/portlets/ew2007.py:50
+msgid "European Campaign 2007"
+msgstr ""
+
+#: osha.theme:/portlets/ew2007.py:49
+msgid "Add EW2007 Portlet"
+msgstr ""
+
+#. Default: "First time here?"
+#: osha.theme:/portlets/firsttime.pt:7
+msgid "box_firsttime"
+msgstr ""
+
+#: osha.theme:/portlets/firsttime.py:27
+msgid "First time here?"
+msgstr ""
+
+#: osha.theme:/portlets/firsttime.py:69
+msgid "Add FirstTime Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/firsttime.py:70
+msgid "Provides the link to an overview over the site."
+msgstr ""
+
+#: osha.theme:/portlets/follow_us.py:26 osha.theme:/portlets/follow_us.py:64
+msgid "Follow us on Twitter, LinkedIn etc."
+msgstr ""
+
+#: osha.theme:/portlets/follow_us.py:65
+msgid "Provides links to social network sites such as Twitter, LinkedIn etc."
+msgstr ""
+
+#. Default: "OSH Global Search"
+#: osha.theme:/portlets/googlesearchbox.pt:42
+#: osha.theme:/browser/templates/googlesearch_viewlet.pt:42
+msgid "label_osh_global_search"
+msgstr ""
+
+#. Default: "Alphabetical Index&hellip;"
+#: osha.theme:/portlets/googlesearchbox.pt:46
+#: osha.theme:/portlets/defaultsearch.pt:43
+#: osha.theme:/browser/templates/googlesearch_viewlet.pt:46
+msgid "portlet_oshsearch_atoz"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:352
+msgid "Add Image/Flash Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:353
+msgid ""
+"Display an Image/Flash in the appropriate language  with Language Fallback"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:37
+msgid "Please specify an image or flash file,"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:370
+msgid "Edit Image/Flash Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:371
+msgid "This portlet displays an image/flash."
+msgstr ""
+
+#: osha.theme:/portlets/image.py:47
+msgid "and the web address which it should point to."
+msgstr ""
+
+#: osha.theme:/portlets/image.py:48
+msgid ""
+"You can optionally, give an URL here.The image will then be hyperlinked to "
+"that URL"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:54
+msgid "Alternatively, please give a YouTube video's web address"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:55
+msgid ""
+"Instead of choosing a specific Image or Flash object from the OSHA database "
+"and specifiying it above, you can also paste here the web address of a "
+"Youtube video."
+msgstr ""
+
+#: osha.theme:/portlets/image.py:64
+msgid "Width"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:65
+msgid "Enter display width"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:70
+msgid "Height"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:71
+msgid "Enter display height"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:76
+msgid "Display box?"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:77
+msgid ""
+"Leave this unchecked if you only want to see your banner without a title and "
+"a box around."
+msgstr ""
+
+#: osha.theme:/portlets/image.py:82
+msgid "Translation domain?"
+msgstr ""
+
+#: osha.theme:/portlets/image.py:83
+msgid ""
+"Specify the tranlation domain that this portlet will use. This determines "
+"the value (if any) into which the title will be translated."
+msgstr ""
+
+#. Default: "Title"
+#: osha.theme:/portlets/inline_navigation.py:17
+msgid "label_navigation_title"
+msgstr ""
+
+#. Default: "The title of the navigation tree. Leave blank for the default, translated title."
+#: osha.theme:/portlets/inline_navigation.py:18
+msgid "help_navigation_title"
+msgstr ""
+
+#: osha.theme:/portlets/inline_navigation.py:27
+msgid "Inline Navigation"
+msgstr ""
+
+#: osha.theme:/portlets/inline_navigation.py:56
+msgid "Add Inline Navigation Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/inline_navigation.py:57
+#: osha.theme:/portlets/inline_navigation.py:71
+msgid "This portlet display an inline navigation tree."
+msgstr ""
+
+#: osha.theme:/portlets/inline_navigation.py:70
+msgid "Edit Inline Navigation Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/lingualink.py:28
+msgid "LinguaLink Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/lingualink.py:56
+msgid "LinguaLinks"
+msgstr ""
+
+#: osha.theme:/portlets/lingualink.py:72
+msgid "Add LinguaLink Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/lingualink.py:73
+msgid "Manage LinguaLinks"
+msgstr ""
+
+#: osha.theme:/portlets/moreabout.py:26
+msgid "More About Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/moreabout.py:57
+msgid "More about..."
+msgstr ""
+
+#: osha.theme:/portlets/moreabout.py:87
+msgid "Add More-About Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/moreabout.py:88
+msgid "Display the contents of a file called portlet_moreabout"
+msgstr ""
+
+#. Default: "Navigation"
+#: osha.theme:/portlets/navigation.pt:7
+msgid "osha_nav_title_navigation"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:200
+msgid "Adding the OSHA Items Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:201
+#: osha.theme:/portlets/osha_items.py:211
+msgid "This portlet lists items of a specific type, filtered by category."
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:210
+msgid "Editing the OSHA Items Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:29
+msgid "The display title of the rendered portlet"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:33 osha.theme:/portlets/oshevents.py:27
+#: osha.theme:/portlets/oshnews.py:28
+msgid "Number of items to display"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:37
+msgid "Content Type"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:38
+msgid ""
+"Please specify the content types of the items to be displayed in this "
+"portlet."
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:45 osha.theme:/portlets/oshevents.py:33
+#: osha.theme:/portlets/oshnews.py:34
+msgid "Workflow state"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:46
+msgid ""
+"You may limit the displayed items to a specific workflow state. By default "
+"all published items will be shown."
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:56 osha.theme:/portlets/oshevents.py:41
+#: osha.theme:/portlets/oshnews.py:42
+#: osha.theme:/portlets/practical_solutions.py:23
+msgid "Categories"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:57
+msgid ""
+"Pick one or more categories with which you want to filter the items shown in "
+"this portlet."
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:65
+msgid "Sorting Criterion"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:66
+msgid "Please choose the criterion on which the items should be sorted."
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:73
+msgid "Portlet link"
+msgstr ""
+
+#: osha.theme:/portlets/osha_items.py:74
+msgid ""
+"Choose a folder or page to which this portlet's title and the bottom link "
+"will point to. This is optional."
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:210
+msgid "Add Collection Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:211
+#: osha.theme:/portlets/oshcollection.py:227
+msgid "This portlet display a listing of items from a Collection."
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:226
+msgid "Edit Collection Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:36
+msgid "Target collection"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:37
+msgid "Find the collection which provides the items to list"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:42
+msgid "Limit"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:43
+msgid ""
+"Specify the maximum number of items to show in the portlet. Leave this blank "
+"to show all items."
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:47
+msgid "Show more... link"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:48
+msgid ""
+"If enabled, a more... link will appear in the footer of the portlet. You can "
+"determine if it should link to the underlying Collection or show the "
+"Collection's contents in the current context."
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:59
+msgid "Show dates"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:60
+msgid "If enabled, effective dates will be shown underneath the items listed."
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:64
+msgid "Show RSS link"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:65
+msgid ""
+"If enabled, a link to the RSS representaion of the collection will we added "
+"at the bottom of the portlet."
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:70
+#: osha.theme:/portlets/oshevents.py:67 osha.theme:/portlets/oshnews.py:70
+msgid "RSS explanation path"
+msgstr ""
+
+#: osha.theme:/portlets/oshcollection.py:71 osha.theme:/portlets/oshnews.py:71
+msgid ""
+"Enter a relative path to a page that gives general RSS information. This is "
+"optional."
+msgstr ""
+
+#. Default: "Upcoming Events"
+#: osha.theme:/portlets/oshevents.pt:6
+msgid "box_events"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:270
+msgid "Add Events Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:271 osha.theme:/portlets/oshevents.py:287
+msgid "This portlet lists upcoming Events."
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:28 osha.theme:/portlets/oshnews.py:29
+msgid "How many items to list."
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:286
+msgid "Edit Events Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:34 osha.theme:/portlets/oshnews.py:35
+msgid "Items in which workflow state to show."
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:42 osha.theme:/portlets/oshnews.py:43
+msgid "Pick one or more categories for which you want to show events."
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:51
+msgid "Target calendar path"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:52
+msgid ""
+"Enter a folder where the 'next / previous events' link will point to. This "
+"is optional"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:58 osha.theme:/portlets/oshnews.py:60
+msgid "RSS path"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:59
+msgid ""
+"Enter a relative path to the calendar or topic that displays an RSS "
+"representation of these events. \"/RSS\" will automatically be appended to "
+"the URL. This setting is optional"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:68
+msgid ""
+"Enter a relative path to a page that gives general RSS information. This "
+"setting is optional."
+msgstr ""
+
+#. Default: "Monthly review of strategic news"
+#: osha.theme:/portlets/oshmail.pt:18
+msgid "portlet_oshmail_text"
+msgstr ""
+
+#: osha.theme:/portlets/oshmail.py:28
+#: osha.theme:/portlets/subscribe_mailinglists.pt:5
+#: osha.theme:/portlets/oshmail.pt:6
+msgid "Free Newsletter"
+msgstr ""
+
+#: osha.theme:/portlets/oshmail.py:74
+msgid "Add Free Newsletter Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshmail.py:75
+msgid "Monthly review of strategic news."
+msgstr ""
+
+#. Default: "What is RSS?"
+#: osha.theme:/portlets/oshnews.pt:48 osha.theme:/portlets/oshevents.pt:75
+#: osha.theme:/portlets/collection.pt:52
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+msgid "info_whatis_rss"
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:231
+msgid "Add News Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:232 osha.theme:/portlets/oshnews.py:261
+msgid "This portlet displays recent News Items."
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:260
+msgid "Edit News Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:52
+msgid "Newsfolder path"
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:53
+msgid ""
+"Enter a folder where the 'more news' link will point to. This is optional"
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:61
+msgid ""
+"Enter a relative path to the folder or topic that displays an RSS "
+"representation of the news. \"/RSS\" will automatically be appended to the "
+"URL.This setting is optional"
+msgstr ""
+
+#. Default: "Practical solutions"
+#: osha.theme:/portlets/practical_solutions.pt:35
+msgid "heading_practical_solutions"
+msgstr ""
+
+#. Default: "Search"
+#: osha.theme:/portlets/practical_solutions.pt:46
+#: osha.theme:/portlets/practical_solutions.pt:51
+#: osha.theme:/portlets/practical_solutions.pt:56
+#: osha.theme:/portlets/practical_solutions.pt:61
+#: osha.theme:/portlets/practical_solutions.pt:66
+#: osha.theme:/browser/templates/index_alphabetical.pt:96
+msgid "search"
+msgstr ""
+
+#: osha.theme:/portlets/practical_solutions.pt:65
+#: osha.theme:/browser/templates/site_actions.pt:15
+msgid "FAQ"
+msgstr ""
+
+#: osha.theme:/portlets/practical_solutions.py:24
+msgid ""
+"Please select a relevant category for the items in this portlet. This should "
+"match the section category."
+msgstr ""
+
+#. Default: "More"
+#: osha.theme:/portlets/publications.pt:20
+#: osha.theme:/portlets/practical_solutions.pt:20
+msgid "label_more"
+msgstr ""
+
+#. Default: "Publications"
+#: osha.theme:/portlets/publications.pt:5
+#: osha.theme:/portlets/practical_solutions.pt:5
+msgid "heading_publications"
+msgstr ""
+
+#: osha.theme:/portlets/rollingquotes.py:119
+msgid "Add Rolling Quotes Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/rollingquotes.py:120
+msgid ""
+"Display a Random Quote in the appropriate language with Language Fallback"
+msgstr ""
+
+#: osha.theme:/portlets/rollingquotes.py:137
+msgid "Rolling Quotes Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/rollingquotes.py:138
+msgid "This portlet displays a random Quote"
+msgstr ""
+
+#: osha.theme:/portlets/rollingquotes.py:28
+msgid "Folder"
+msgstr ""
+
+#: osha.theme:/portlets/rollingquotes.py:29
+msgid "Locate the Folder with quotes"
+msgstr ""
+
+#: osha.theme:/portlets/search.pt:6 osha.theme:/portlets/defaultsearch.pt:6
+msgid "Looking for something specific?"
+msgstr ""
+
+#: osha.theme:/portlets/search.py:21
+msgid "Enable LiveSearch"
+msgstr ""
+
+#: osha.theme:/portlets/search.py:22
+msgid ""
+"Enables the LiveSearch feature, which shows live results if the browser "
+"supports JavaScript."
+msgstr ""
+
+#: osha.theme:/portlets/search.py:36
+#: osha.theme:/browser/templates/osha_help_center_view.pt:47
+#: osha.theme:/browser/templates/publicationsearch.pt:80
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:61
+#: osha.theme:/browser/templates/site_actions.pt:9
+msgid "Search"
+msgstr ""
+
+#: osha.theme:/portlets/search.py:61
+msgid "Add Search Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/search.py:62 osha.theme:/portlets/search.py:71
+msgid "This portlet shows a search box."
+msgstr ""
+
+#: osha.theme:/portlets/search.py:70
+msgid "Edit Search Portlet"
+msgstr ""
+
+#. Default: "There are currently no items in this folder."
+#: osha.theme:/portlets/sep_about.pt:34
+msgid "description_no_items_in_folder"
+msgstr ""
+
+#. Default: "About"
+#: osha.theme:/portlets/sep_about.pt:7
+msgid "box_sep_about"
+msgstr ""
+
+#: osha.theme:/portlets/sep_about.py:23
+msgid "Single Entry Point - About"
+msgstr ""
+
+#: osha.theme:/portlets/sep_about.py:56
+msgid "Add Single Entry Point - About Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/sep_about.py:57
+msgid ""
+"Lists all static documents within the about folder of a single entry point."
+msgstr ""
+
+#. Default: "Get our monthly update on safety and health at work."
+#: osha.theme:/portlets/subscribe_mailinglists.pt:13
+msgid "subscribe_portlet_intro"
+msgstr ""
+
+#: osha.theme:/portlets/subscribe_mailinglists.pt:15
+#: osha.theme:/browser/templates/oshmail_view.pt:42
+msgid "Subscribe"
+msgstr ""
+
+#. Default: "You could use our ${alertservice} too!"
+#: osha.theme:/portlets/subscribe_mailinglists.pt:17
+msgid "subscribe_portlet_alertservice_intro"
+msgstr ""
+
+#: osha.theme:/portlets/subscribe_mailinglists.py:26
+#: osha.theme:/portlets/subscribe_mailinglists.py:64
+msgid "Subscribe to Mailing Lists"
+msgstr ""
+
+#: osha.theme:/portlets/subscribe_mailinglists.py:65
+msgid "Provides links to mailing lists"
+msgstr ""
+
+#: osha.theme:/portlets/top5.py:180
+msgid "Add Top5 Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/top5.py:181 osha.theme:/portlets/top5.py:197
+msgid "This portlet displays links to objects."
+msgstr ""
+
+#: osha.theme:/portlets/top5.py:196
+msgid "Edit Top5 Portlet"
+msgstr ""
+
+#. Default: "If you cannot click on the link, you can cut and paste it into your browser's address bar."
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:10
+msgid "alertservice_alternative_verification"
+msgstr ""
+
+#. Default: "If you did not initiate this request or believe it was sent in error you can safely ignore this message."
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:12
+msgid "alertservice_ignore"
+msgstr ""
+
+#. Default: "Thanks,"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:14
+msgid "alertservice_email_footer1"
+msgstr ""
+
+#. Default: "The EU-OSHA Alerts Team"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:15
+msgid "alertservice_email_footer2"
+msgstr ""
+
+#. Default: "EU-OSHA received a request to start sending alerts to"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:2
+msgid "alertservice_alert_request"
+msgstr ""
+
+#. Default: "Verify this EU-OSHA alert request:"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:4
+msgid "alertservice_verify_request"
+msgstr ""
+
+#. Default: "Cancel this EU-OSHA alert request:"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_confirm_email_template.pt:7
+msgid "alertservice_cancel_request"
+msgstr ""
+
+#. Default: "More"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:125
+#: osha.theme:/browser/templates/osha_homepage.pt:21
+#: osha.theme:/browser/templates/osha_homepage.pt:40
+msgid "alert_label_more"
+msgstr ""
+
+#. Default: "OSHA Notification Service"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:3
+msgid "alertservice_notification_service"
+msgstr ""
+
+#. Default: "OSHA Notification Report"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:43
+msgid "alert_osha_notification_report"
+msgstr ""
+
+#. Default: "Subjects of interest"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:56
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:14
+msgid "label_subjects_of_interest"
+msgstr ""
+
+#. Default: "Additional Languages"
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:66
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:95
+msgid "label_additional_languages"
+msgstr ""
+
+#. Default: "If your question has not been answered with this standard reply, you may send us a personal message. Please proceed to the ${contact_form_name}"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us.pt:27
+msgid "contact_us_personal"
+msgstr ""
+
+#. Default: "contact form"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us.pt:28
+msgid "contact_form"
+msgstr ""
+
+#. Default: "Subject"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:101
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:167
+msgid "label_subject"
+msgstr ""
+
+#. Default: "Full name"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:182
+msgid "label_fullname"
+msgstr ""
+
+#. Default: "Your email address."
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:209
+msgid "help_send_from"
+msgstr ""
+
+#. Default: "Contact us"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:21
+msgid "heading_feedback_contact_us"
+msgstr ""
+
+#. Default: "Country"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:265
+msgid "label_country"
+msgstr ""
+
+#. Default: "Size of organization"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:286
+msgid "label_organization_size"
+msgstr ""
+
+#. Default: "Name of organisation"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:304
+msgid "label_name_org"
+msgstr ""
+
+#. Default: "URL to be commented"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:322
+msgid "label_url_comment"
+msgstr ""
+
+#. Default: "Broken link"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:341
+msgid "label_url_broken"
+msgstr ""
+
+#. Default: "URL where broken link occured"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:364
+msgid "label_url_broken_location"
+msgstr ""
+
+#. Default: "New link"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:386
+msgid "label_url_new"
+msgstr ""
+
+#. Default: "Message"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:404
+msgid "label_message"
+msgstr ""
+
+#. Default: "Message Details"
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:52
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:150
+msgid "legend_message_details"
+msgstr ""
+
+#. Default: "I am ..."
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:74
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:155
+msgid "label_type_of_sender"
+msgstr ""
+
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:83
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:110
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:268
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:289
+msgid "Please select one"
+msgstr ""
+
+#. Default: "Start Date"
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:112
+msgid "label_start_date"
+msgstr ""
+
+#. Default: "End Date"
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:127
+msgid "label_end_date"
+msgstr ""
+
+#. Default: "Event details"
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:41
+msgid "legend_event_details"
+msgstr ""
+
+#. Default: "See also:"
+#: osha.theme:/skins/osha_theme_custom_templates/oshmacros.pt:107
+msgid "heading_oshcontent_seealso"
+msgstr ""
+
+#. Default: "Provider of this information"
+#: osha.theme:/skins/osha_theme_custom_templates/oshmacros.pt:39
+#: osha.theme:/browser/collageviews/oshlink_full.pt:74
+msgid "provider_of_information"
+msgstr ""
+
+#. Default: "No publication date set"
+#: osha.theme:/skins/osha_theme_custom_templates/oshmacros.pt:61
+msgid "label_no_publication_date_set"
+msgstr ""
+
+#. Default: "Last modified"
+#: osha.theme:/skins/osha_theme_custom_templates/oshmacros.pt:64
+msgid "listingheader_modified"
+msgstr ""
+
+#. Default: "Languages"
+#: osha.theme:/skins/osha_theme_custom_templates/oshmacros.pt:98
+msgid "label_languages"
+msgstr ""
+
+#. Default: "&copy; Copyright 1998-${thisyear} European Agency for Safety and Health at Work -"
+#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:101
+msgid "copyright"
+msgstr ""
+
+#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:103
+msgid "Disclaimer"
+msgstr ""
+
+#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:84
+#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:85
+msgid "European Agency for Safety and Health at Work"
+msgstr ""
+
+#. Default: "I also want to receive OSHmail, the free monthly newsletter"
+#: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:79
+msgid "description_subscribe_oshmail"
+msgstr ""
+
+#. Default: "learn more..."
+#: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:80
+msgid "oshmail_learn_more"
+msgstr ""
+
+#. Default: "Alerts are sent in English. If the content is translated you can receive it in additional languages."
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:102
+msgid "description_alertservice_languageselector"
+msgstr ""
+
+#. Default: "E-mail"
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:129
+#: osha.theme:/browser/templates/oshmail_view.pt:39
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:203
+#: osha.whoswho:/content/whoswho.py:32
+#: osha.whoswho:/browser/templates/whoswho_view.pt:59
+msgid "label_email"
+msgstr ""
+
+#. Default: "Type:"
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:44
+msgid "label_item_type"
+msgstr ""
+
+#. Default: "Schedule"
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:66
+msgid "label_schedule"
+msgstr ""
+
+#. Default: ""
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:67
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:75
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:102
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:184
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:205
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:342
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:365
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:406
+msgid "label_required"
+msgstr ""
+
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:67
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:75
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:102
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:184
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:205
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:342
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:365
+#: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:406
+msgid "Required"
+msgstr ""
+
+#. Default: "In order to choose more than one item from the lists, press the key \"control\" on your keyboard, and select the item with your mouse."
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:97
+msgid "select_multiple_help"
+msgstr ""
+
+#: osha.theme:/skins/osha_theme_germany/campaign_area.pt:11
+#: osha.theme:/skins/osha_theme_germany/campaign_area.pt:18
+msgid "German Network"
+msgstr ""
+
+#. Default: "OSHA Network"
+#: osha.theme:/skins/osha_theme_germany/campaign_area.pt:5
+#: osha.theme:/browser/templates/network_chooser.pt:4
+msgid "heading_network"
+msgstr ""
+
+#. Default: "Summary"
+#: osha.whoswho:/browser/templates/whoswho_view.pt:122
+msgid "label_summary"
+msgstr ""
+
+#. Default: "Website"
+#: osha.whoswho:/browser/templates/whoswho_view.pt:53
+msgid "label_website"
+msgstr ""
+
+#. Default: "Sponsor name"
+#: osha.whoswho:/content/whoswho.py:104
+#: osha.whoswho:/browser/templates/whoswho_view.pt:94
+msgid "label_sponsorName"
+msgstr ""
+
+#. Default: "Related organisation URL"
+#: osha.whoswho:/content/whoswho.py:114
+msgid "label_relatedOrgUrl"
+msgstr ""
+
+#. Default: "Related organisation name"
+#: osha.whoswho:/content/whoswho.py:125
+#: osha.whoswho:/browser/templates/whoswho_view.pt:106
+msgid "label_relatedOrgName"
+msgstr ""
+
+#. Default: "Telephone"
+#: osha.whoswho:/content/whoswho.py:42
+#: osha.whoswho:/browser/templates/whoswho_view.pt:65
+msgid "label_tel"
+msgstr ""
+
+#. Default: "Fax"
+#: osha.whoswho:/content/whoswho.py:52
+#: osha.whoswho:/browser/templates/whoswho_view.pt:71
+msgid "label_fax"
+msgstr ""
+
+#. Default: "Address"
+#: osha.whoswho:/content/whoswho.py:62
+#: osha.whoswho:/browser/templates/whoswho_view.pt:77
+msgid "label_address"
+msgstr ""
+
+#. Default: "Targets"
+#: osha.whoswho:/content/whoswho.py:74
+#: osha.whoswho:/browser/templates/whoswho_view.pt:83
+msgid "label_targets"
+msgstr ""
+
+#. Default: "Activities"
+#: osha.whoswho:/content/whoswho.py:84
+#: osha.whoswho:/browser/templates/whoswho_view.pt:89
+msgid "label_activities"
+msgstr ""
+
+#. Default: "Sponsor URL"
+#: osha.whoswho:/content/whoswho.py:94
+msgid "label_sponsorUrl"
+msgstr ""
+
+#. Default: "Return items available in the selected language on the remote site."
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:349
+msgid "help_search_remote_language"
+msgstr ""
+
+#. Default: "Remote URL"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:402
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:435
+msgid "label_remote_url"
+msgstr ""
+
+#. Default: "Enter a URL to find content by. The * character can be used for wildcard searches. Examples: <ul> <li><strong><a href=\"${DYNAMIC_CONTENT}\"> http://www.ttl.fi/*</a></strong> <em>Finds all URLs from that site</em></li> <li><strong><a href=\"${DYNAMIC_CONTENT}\"> http://www.ttl.fi/internet/partner/*</a></strong> <em>Finds all URLs from a sub-section of that site</em></li> <li><strong><a href=\"${DYNAMIC_CONTENT}\"> http://www.hse.gov.uk/press/2005/e05018.htm</a></strong> <em>Finds exactly that URL</em></li> </ul>"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:415
+msgid "help_remote_url"
+msgstr ""
+
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:453
+msgid "Multilingual Thesaurus Subject"
+msgstr ""
+
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:459
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:503
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:607
+msgid "label_delete_selection"
+msgstr ""
+
+#. Default: "Subcategory"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:601
+msgid "ra_subcategory_label"
+msgstr ""
+
+#. Default: "Return items from the selected provider."
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:790
+msgid "help_search_provider"
+msgstr ""
+
+#. Default: "You can narrow down the search results by selecting a publication date. You can choose to see only results published before that date, after that date or within a selected number of days."
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:866
+msgid "help_effective_date_range"
+msgstr ""
+
+#. Default: "Published before"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:899
+msgid "label_published_before"
+msgstr ""
+
+#. Default: "Published after"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:903
+msgid "label_published_after"
+msgstr ""
+
+#. Default: "Published within ${numdays} days"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:908
+msgid "label_published_within_x_days"
+msgstr ""
+
+#. Default: "You can narrow down the search results by selecting a modification date. You can choose to see only results modified before that date, after that date or within a selected number of days."
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:941
+msgid "help_modified_date_range"
+msgstr ""
+
+#. Default: "Modified before"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:974
+msgid "label_modified_before"
+msgstr ""
+
+#. Default: "Modified after"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:978
+msgid "label_modified_after"
+msgstr ""
+
+#. Default: "Modified within ${numdays} days"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:983
+msgid "label_modified_within_x_days"
+msgstr ""
+
+#~ msgid "label_wmv"
+#~ msgstr "WMV"

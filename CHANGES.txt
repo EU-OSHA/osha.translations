@@ -1,10 +1,11 @@
 osha.translations Changelog
 ===========================
 
-1.0.23 (unreleased)
+2.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Using i18nextract for translation extraction [deroiste]
+- Updated for the Osha migration to Plone 4 [deroiste]
 
 
 1.0.22 (2012-08-17)
