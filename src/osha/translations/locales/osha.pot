@@ -3457,6 +3457,10 @@ msgstr ""
 msgid "Your subscription could not be sent. Please try again."
 msgstr ""
 
+#: osha.theme:/browser/oshmail_unsubscribe.py:30
+msgid "Thank you! You have been unsubscribed succesfully."
+msgstr ""
+
 #: osha.theme:/browser/oshmail_unsubscribe.py:35
 msgid "Your unsubscription request could not be sent. Please try again."
 msgstr ""

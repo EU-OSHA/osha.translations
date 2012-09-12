@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Sep 12 07:26:30 2012\n"
+"POT-Creation-Date: Wed Sep 12 09:34:58 2012\n"
 "PO-Revision-Date: 2005-02-01 12:00+0100\n"
 "Last-Translator: EU\n"
 "Language-Team: EU\n"
@@ -3786,6 +3786,10 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_subscribe.py:54
 msgid "Your subscription could not be sent. Please try again."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_unsubscribe.py:30
+msgid "Thank you! You have been unsubscribed succesfully."
 msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:35
