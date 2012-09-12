@@ -3941,7 +3941,7 @@ msgstr ""
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
 "email to confirm your subscription."
-msgstr ""
+msgstr "Σας ευχαριστούμε για την εγγραφή σας στο ηλεκτρονικό ενημερωτικό δελτίο ΕΑΥ. Θα λάβετε ηλεκτρονικό μήνυμα προς επιβεβαίωση της εγγραφής σας."
 
 #: osha.theme:/browser/oshmail_subscribe.py:54
 msgid "Your subscription could not be sent. Please try again."
@@ -3949,7 +3949,7 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
-msgstr ""
+msgstr "Σας ευχαριστούμε! Η διαγραφή σας ολοκληρώθηκε με επιτυχία."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:35
 msgid "Your unsubscription request could not be sent. Please try again."
@@ -3957,7 +3957,7 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:43
 msgid "You are still subscribed to the mailing list."
-msgstr ""
+msgstr "Παραμένετε εγγεγραμμένος στον κατάλογο παραληπτών."
 
 #: osha.theme:/browser/oshnews_view.py:36
 msgid "heading_newsboard_latest_news"
@@ -4266,17 +4266,17 @@ msgstr ""
 #. Default: "Do you really want to unsubscribe from the OSHmail newsletter?"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:58
 msgid "unsub_confirm_text"
-msgstr ""
+msgstr "Θέλετε πραγματικά να διαγραφείτε από το ηλεκτρονικό ενημερωτικό δελτίο ΕΑΥ;"
 
 #. Default: "Yes, unsubscribe me from the newsletter"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:60
 msgid "unsub_confirm_yes"
-msgstr ""
+msgstr "Ναι, επιθυμώ να διαγραφώ από το ενημερωτικό δελτίο."
 
 #. Default: "No, I want to continue receiving the newsletter"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:61
 msgid "unsub_confirm_no"
-msgstr ""
+msgstr "Όχι, επιθυμώ να συνεχίσω να λαμβάνω το ενημερωτικό δελτίο."
 
 #. Default: "Send"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64

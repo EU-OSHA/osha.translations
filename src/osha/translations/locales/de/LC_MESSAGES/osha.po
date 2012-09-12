@@ -3923,7 +3923,7 @@ msgstr ""
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
 "email to confirm your subscription."
-msgstr ""
+msgstr "Danke, dass Sie den Newsletter OSHmail abonniert haben. Sie erhalten eine E-Mail zur Bestätigung Ihres Abonnements."
 
 #: osha.theme:/browser/oshmail_subscribe.py:54
 msgid "Your subscription could not be sent. Please try again."
@@ -3931,7 +3931,7 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
-msgstr ""
+msgstr "Sie haben den Newsletter erfolgreich abbestellt."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:35
 msgid "Your unsubscription request could not be sent. Please try again."
@@ -3939,7 +3939,7 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:43
 msgid "You are still subscribed to the mailing list."
-msgstr ""
+msgstr "Sie stehen immer noch auf der Verteilerliste."
 
 #: osha.theme:/browser/oshnews_view.py:36
 msgid "heading_newsboard_latest_news"
@@ -4246,17 +4246,17 @@ msgstr ""
 #. Default: "Do you really want to unsubscribe from the OSHmail newsletter?"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:58
 msgid "unsub_confirm_text"
-msgstr ""
+msgstr "Möchten Sie den Newsletter OSHmail wirklich abbestellen?"
 
 #. Default: "Yes, unsubscribe me from the newsletter"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:60
 msgid "unsub_confirm_yes"
-msgstr ""
+msgstr "Ja, ich möchte den Newsletter abbestellen."
 
 #. Default: "No, I want to continue receiving the newsletter"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:61
 msgid "unsub_confirm_no"
-msgstr ""
+msgstr "Nein, ich möchte den Newsletter weiter erhalten."
 
 #. Default: "Send"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64
