@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Sep 12 09:34:58 2012\n"
+"POT-Creation-Date: Thu Sep 13 13:59:01 2012\n"
 "PO-Revision-Date: 2007-08-10 19:10+0100\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -3419,14 +3419,15 @@ msgstr ""
 msgid "New Image"
 msgstr ""
 
-#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
-msgid "Send"
-msgstr "Trimitere "
-
 #. Default: "<input type=\"submit\" value=\"x\" />"
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
 msgid "label_text"
 msgstr ""
+
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
+#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64
+msgid "Send"
+msgstr "Trimitere "
 
 # # 1 more: ./elevateIT/skins/eIT_forms/configure_user_form.cpt
 #. Default: "Your Name"
@@ -3906,28 +3907,17 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
-#: osha.theme:/browser/oshmail_subscribe.py:29
-#: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
-msgid "You did not enter a valid email address."
-msgstr ""
-
 #: osha.theme:/browser/oshmail_subscribe.py:39
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
 "email to confirm your subscription."
-msgstr "Vă mulţumim că v-aţi abonat la buletinul informativ OSHMail. Veţi primi un mesaj pe adresa de e-mail pentru confirmarea abonării."
-
-#: osha.theme:/browser/oshmail_subscribe.py:54
-msgid "Your subscription could not be sent. Please try again."
 msgstr ""
+"Vă mulţumim că v-aţi abonat la buletinul informativ OSHMail. Veţi primi un "
+"mesaj pe adresa de e-mail pentru confirmarea abonării."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
 msgstr "Vă mulţumim! Aţi fost dezabonat cu succes."
-
-#: osha.theme:/browser/oshmail_unsubscribe.py:35
-msgid "Your unsubscription request could not be sent. Please try again."
-msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:43
 msgid "You are still subscribed to the mailing list."
@@ -4152,26 +4142,21 @@ msgstr ""
 msgid "heading_manage_osha_below"
 msgstr ""
 
-#. Default: ""
-#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:51
-msgid "label_napo_download_film_as"
-msgstr "Download this film as"
-
-#. Default: ""
+#. Default: "or"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:57
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:87
 msgid "label_or"
-msgstr "or"
+msgstr ""
 
-#. Default: ""
+#. Default: "Download this film as"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:81
 msgid "label_napo_download_episode_as"
-msgstr "Download this film as"
+msgstr ""
 
 #. Default: "View episodes"
 #: osha.theme:/browser/templates/napofilmview.pt:42
 msgid "label_napo_view_episodes"
-msgstr "View episodes"
+msgstr ""
 
 #. Default: "If you cannot find the answer to your query, please, ${label_contact_us}."
 #: osha.theme:/browser/templates/osha_help_center_view.pt:117
@@ -4240,7 +4225,8 @@ msgstr ""
 #. Default: "Do you really want to unsubscribe from the OSHmail newsletter?"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:58
 msgid "unsub_confirm_text"
-msgstr "Sunteţi sigur că doriţi să vă dezabonaţi de la buletinul informativ OSHMail?"
+msgstr ""
+"Sunteţi sigur că doriţi să vă dezabonaţi de la buletinul informativ OSHMail?"
 
 #. Default: "Yes, unsubscribe me from the newsletter"
 #: osha.theme:/browser/templates/oshmail_unsubscribe.pt:60
@@ -4252,43 +4238,19 @@ msgstr "Da, vă rog să mă dezabonaţi."
 msgid "unsub_confirm_no"
 msgstr "Nu, doresc să primesc în continuare buletinul informativ."
 
-#. Default: "Send"
-#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64
-msgid "unsub_confirm_send_text"
-msgstr ""
-
 # Load older newsletters.
 #. Default: "Load ${link}."
 #: osha.theme:/browser/templates/oshmail_view.pt:123
 msgid "label_load_older"
 msgstr "Descărcaţi ${link}."
 
-#. Default: "Close"
-#: osha.theme:/browser/templates/oshmail_view.pt:145
-msgid "label_close_overlay"
-msgstr ""
-
 #: osha.theme:/browser/templates/oshmail_view.pt:31
 msgid "OSHmail newsletter"
 msgstr "Buletinul informativ OSHmail"
 
-#. Default: "Subscription"
-#: osha.theme:/browser/templates/oshmail_view.pt:36
-msgid "heading_oshmail_subscribe"
-msgstr ""
-
-#: osha.theme:/browser/templates/oshmail_view.pt:45
-msgid "Not interested any more?"
-msgstr ""
-
 #: osha.theme:/browser/templates/oshmail_view.pt:46
 msgid "Unsubscribe"
 msgstr "Dezabonare"
-
-#. Default: "Latest newsletter"
-#: osha.theme:/browser/templates/oshmail_view.pt:68
-msgid "label_latest_newsletter"
-msgstr ""
 
 #. Default: "Latest OSHMail Issue"
 #: osha.theme:/browser/templates/oshmail_view.pt:70
@@ -5041,14 +5003,6 @@ msgstr "Rezumat lunar al evenimentelor strategice<br/>- Abonare -"
 #: osha.theme:/portlets/oshmail.pt:6
 msgid "Free Newsletter"
 msgstr "Buletin informativ gratuit"
-
-#: osha.theme:/portlets/oshmail.py:74
-msgid "Add Free Newsletter Portlet"
-msgstr ""
-
-#: osha.theme:/portlets/oshmail.py:75
-msgid "Monthly review of strategic news."
-msgstr ""
 
 #. Default: "What is RSS?"
 #: osha.theme:/portlets/oshnews.pt:48 osha.theme:/portlets/oshevents.pt:75

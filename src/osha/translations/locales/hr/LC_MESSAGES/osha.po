@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Sep 12 09:34:58 2012\n"
+"POT-Creation-Date: Thu Sep 13 13:59:01 2012\n"
 "PO-Revision-Date: 2004-12-17 15:53+0100\n"
 "Last-Translator: EU\n"
 "Language-Team: EU\n"
@@ -2975,14 +2975,15 @@ msgstr ""
 msgid "New Image"
 msgstr ""
 
-#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
-msgid "Send"
-msgstr "Pošalji"
-
 #. Default: "<input type=\"submit\" value=\"x\" />"
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
 msgid "label_text"
 msgstr ""
+
+#: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:125
+#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64
+msgid "Send"
+msgstr "Pošalji"
 
 #. Default: "Your Name"
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:32
@@ -3455,27 +3456,14 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
-#: osha.theme:/browser/oshmail_subscribe.py:29
-#: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
-msgid "You did not enter a valid email address."
-msgstr ""
-
 #: osha.theme:/browser/oshmail_subscribe.py:39
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
 "email to confirm your subscription."
 msgstr ""
 
-#: osha.theme:/browser/oshmail_subscribe.py:54
-msgid "Your subscription could not be sent. Please try again."
-msgstr ""
-
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
-msgstr ""
-
-#: osha.theme:/browser/oshmail_unsubscribe.py:35
-msgid "Your unsubscription request could not be sent. Please try again."
 msgstr ""
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:43
@@ -3795,41 +3783,17 @@ msgstr ""
 msgid "unsub_confirm_no"
 msgstr ""
 
-#. Default: "Send"
-#: osha.theme:/browser/templates/oshmail_unsubscribe.pt:64
-msgid "unsub_confirm_send_text"
-msgstr ""
-
 #. Default: "Load ${link}."
 #: osha.theme:/browser/templates/oshmail_view.pt:123
 msgid "label_load_older"
-msgstr ""
-
-#. Default: "Close"
-#: osha.theme:/browser/templates/oshmail_view.pt:145
-msgid "label_close_overlay"
 msgstr ""
 
 #: osha.theme:/browser/templates/oshmail_view.pt:31
 msgid "OSHmail newsletter"
 msgstr ""
 
-#. Default: "Subscription"
-#: osha.theme:/browser/templates/oshmail_view.pt:36
-msgid "heading_oshmail_subscribe"
-msgstr ""
-
-#: osha.theme:/browser/templates/oshmail_view.pt:45
-msgid "Not interested any more?"
-msgstr ""
-
 #: osha.theme:/browser/templates/oshmail_view.pt:46
 msgid "Unsubscribe"
-msgstr ""
-
-#. Default: "Latest newsletter"
-#: osha.theme:/browser/templates/oshmail_view.pt:68
-msgid "label_latest_newsletter"
 msgstr ""
 
 #. Default: "Latest OSHMail Issue"
@@ -4562,14 +4526,6 @@ msgstr "Mjesečni pregled strateških vijesti<br/> - Pretplati se -"
 #: osha.theme:/portlets/oshmail.pt:6
 msgid "Free Newsletter"
 msgstr "Besplatni bilten"
-
-#: osha.theme:/portlets/oshmail.py:74
-msgid "Add Free Newsletter Portlet"
-msgstr ""
-
-#: osha.theme:/portlets/oshmail.py:75
-msgid "Monthly review of strategic news."
-msgstr ""
 
 #. Default: "What is RSS?"
 #: osha.theme:/portlets/oshnews.pt:48 osha.theme:/portlets/oshevents.pt:75
