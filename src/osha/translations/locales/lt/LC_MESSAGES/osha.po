@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Thu Sep 13 13:59:01 2012\n"
+"POT-Creation-Date: Mon Sep 24 13:30:25 2012\n"
 "PO-Revision-Date: 2007-08-10 18:34+0100\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -247,7 +247,7 @@ msgstr "Publikacijos"
 
 #. Default: "Risk Observatory"
 #: osha.fop:/browser/oshnetwork_member_view.pt:89
-#: osha.policy:/missing_18n_labels.py:242
+#: osha.policy:/missing_18n_labels.py:244
 msgid "risk_observatory"
 msgstr "Rizikos stebėjimo tarnyba"
 
@@ -560,950 +560,1057 @@ msgstr ""
 msgid "title_can_check"
 msgstr ""
 
-# Default "Bosnian, Herzegovinian Focal Point"
+# Default "Austrian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
 #: osha.policy:/missing_18n_labels.py:10
-msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
-msgstr "Bosnijos ir Hercegovinos ryšių punktas"
+msgid "heading_main_fop_portlet_austria"
+msgstr "Austrijos ryšių punktas"
 
+#. Default: "In a rush"
 #: osha.policy:/missing_18n_labels.py:100
+msgid "title_napo_episode_14_4"
+msgstr "Neskubėk ir būsi pirmas!"
+
+#. Default: "Danger within!"
+#: osha.policy:/missing_18n_labels.py:101
+msgid "title_napo_episode_14_5"
+msgstr "Uždara patalpa: atsargiai pavojus!"
+
+#. Default: "One, two, what to do?"
+#: osha.policy:/missing_18n_labels.py:102
 msgid "title_napo_episode_14_6"
 msgstr "Kas ką daro?"
 
-#: osha.policy:/missing_18n_labels.py:101
+#. Default: "Best signs story"
+#: osha.policy:/missing_18n_labels.py:103
 msgid "title_napo_episode_1_0"
 msgstr "Privaloma dėvėti apsauginį šalmą"
 
-#: osha.policy:/missing_18n_labels.py:102
+#. Default: "Danger"
+#: osha.policy:/missing_18n_labels.py:104
 msgid "title_napo_episode_1_1"
 msgstr "Pagalbiniai ženklai"
 
-#: osha.policy:/missing_18n_labels.py:103
+#. Default: "Safety helmet must be worn"
+#: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_10"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:104
+#. Default: "Rescue signs"
+#: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_11"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:105
+#. Default: "Rescue route"
+#: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_12"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:106
+#. Default: "First aid"
+#: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_13"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:107
+#. Default: "Fire protection signs"
+#: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_14"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:108
+# Default "Belgian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:11
+msgid "heading_main_fop_portlet_belgium"
+msgstr "Belgijos ryšių punktas"
+
+#. Default: "Fire-extinguishing equipment"
+#: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_15"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:109
+#. Default: "Fire alarm system"
+#: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_16"
 msgstr ""
 
-# Default "Bulgarian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:11
-msgid "heading_main_fop_portlet_bulgaria"
-msgstr "Bulgarijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:110
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:112
 msgid "title_napo_episode_1_17"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:111
+#. Default: "Danger - suspended load"
+#: osha.policy:/missing_18n_labels.py:113
 msgid "title_napo_episode_1_2"
 msgstr "Gelbėjimo darbai"
 
-#: osha.policy:/missing_18n_labels.py:112
+#. Default: "Danger - fork-lift trucks"
+#: osha.policy:/missing_18n_labels.py:114
 msgid "title_napo_episode_1_3"
 msgstr "Pirmoji pagalba"
 
-#: osha.policy:/missing_18n_labels.py:113
+#. Default: "Prohibition signs"
+#: osha.policy:/missing_18n_labels.py:115
 msgid "title_napo_episode_1_4"
 msgstr "Priešgaisriniai ženklai"
 
-#: osha.policy:/missing_18n_labels.py:114
+#. Default: "No smoking"
+#: osha.policy:/missing_18n_labels.py:116
 msgid "title_napo_episode_1_5"
 msgstr "Gaisro gesinimo įranga"
 
-#: osha.policy:/missing_18n_labels.py:115
+#. Default: "No fork-lift trucks"
+#: osha.policy:/missing_18n_labels.py:117
 msgid "title_napo_episode_1_6"
 msgstr "Priešgaisrinė signalizacija"
 
 # ###
 # NAPO
-#: osha.policy:/missing_18n_labels.py:116
+#. Default: "Mandantory signs"
+#: osha.policy:/missing_18n_labels.py:118
 msgid "title_napo_episode_1_7"
 msgstr "Privalomieji ženklai"
 
-#: osha.policy:/missing_18n_labels.py:117
+#. Default: "Safety goggles must be worn"
+#: osha.policy:/missing_18n_labels.py:119
 msgid "title_napo_episode_1_8"
 msgstr "Privaloma dėvėti apsauginius akinius"
 
-#: osha.policy:/missing_18n_labels.py:118
+# Default "Bosnian, Herzegovinian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:12
+msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
+msgstr "Bosnijos ir Hercegovinos ryšių punktas"
+
+#. Default: "Hearing protection must be worn"
+#: osha.policy:/missing_18n_labels.py:120
 msgid "title_napo_episode_1_9"
 msgstr "Privaloma dėvėti klausos apsaugos priemones"
 
-#: osha.policy:/missing_18n_labels.py:119
+#. Default: "The adventures of NAPO"
+#: osha.policy:/missing_18n_labels.py:121
 msgid "title_napo_episode_2_0"
 msgstr "Napo nuotykiai"
 
-# Default "Croatian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:12
-msgid "heading_main_fop_portlet_croatia"
-msgstr "Kroatijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:120
+#. Default: "The importance of signposting"
+#: osha.policy:/missing_18n_labels.py:122
 msgid "title_napo_episode_2_1"
 msgstr "Nurodomųjų ženklų svarba"
 
-#: osha.policy:/missing_18n_labels.py:121
+#. Default: "Signposting is not sufficient"
+#: osha.policy:/missing_18n_labels.py:123
 msgid "title_napo_episode_2_2"
 msgstr "Nurodomųjų ženklų nepakanka"
 
-#: osha.policy:/missing_18n_labels.py:122
+#. Default: "Labels should be read"
+#: osha.policy:/missing_18n_labels.py:124
 msgid "title_napo_episode_2_3"
 msgstr "Etiketes reikia perskaityti"
 
-#: osha.policy:/missing_18n_labels.py:123
+#. Default: "Choose public transports"
+#: osha.policy:/missing_18n_labels.py:125
 msgid "title_napo_episode_2_4"
 msgstr "Pasirink visuomeninį transportą"
 
-#: osha.policy:/missing_18n_labels.py:124
+#. Default: "The right protection at the right time"
+#: osha.policy:/missing_18n_labels.py:126
 msgid "title_napo_episode_2_5"
 msgstr "Tinkama apsauga tinkamu laiku"
 
-#: osha.policy:/missing_18n_labels.py:125
+#. Default: "Improvising means risk taking"
+#: osha.policy:/missing_18n_labels.py:127
 msgid "title_napo_episode_2_6"
 msgstr "Improvizuoti reiškia rizikuoti"
 
-#: osha.policy:/missing_18n_labels.py:126
+#. Default: "Each product has its own packaging"
+#: osha.policy:/missing_18n_labels.py:128
 msgid "title_napo_episode_2_7"
 msgstr "Kiekvienam produktui - sava pakuotė"
 
-#: osha.policy:/missing_18n_labels.py:127
+#. Default: "Too much pressure is likely to be harmful"
+#: osha.policy:/missing_18n_labels.py:129
 msgid "title_napo_episode_2_8"
 msgstr "Per dideli reikalavimai gali pakenkti"
 
-#: osha.policy:/missing_18n_labels.py:128
+# Default "Bulgarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:13
+msgid "heading_main_fop_portlet_bulgaria"
+msgstr "Bulgarijos ryšių punktas"
+
+#. Default: "Unsuitable material + incompetence = accident"
+#: osha.policy:/missing_18n_labels.py:130
 msgid "title_napo_episode_2_9"
 msgstr "Netinkamos medžiagos + kompetencijos stoka = nelaimingas atsitikimas"
 
-#: osha.policy:/missing_18n_labels.py:129
+#. Default: "Scratch and sniff - chemical risks at work"
+#: osha.policy:/missing_18n_labels.py:131
 msgid "title_napo_episode_3_0"
 msgstr "Kenksmingų cheminių medžiagų dalelių ir dulkių kontrolė  darbe"
 
-# Default "Cypriot Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:13
-msgid "heading_main_fop_portlet_cyprus"
-msgstr "Kipro ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:130
+#. Default: "Harmful"
+#: osha.policy:/missing_18n_labels.py:132
 msgid "title_napo_episode_3_1"
 msgstr "Kenksmingas"
 
-#: osha.policy:/missing_18n_labels.py:131
+#. Default: "Irritant"
+#: osha.policy:/missing_18n_labels.py:133
 msgid "title_napo_episode_3_2"
 msgstr "Dirginantis"
 
-#: osha.policy:/missing_18n_labels.py:132
+#. Default: "Flammable"
+#: osha.policy:/missing_18n_labels.py:134
 msgid "title_napo_episode_3_3"
 msgstr "Degus"
 
-#: osha.policy:/missing_18n_labels.py:133
+#. Default: "Corrosive"
+#: osha.policy:/missing_18n_labels.py:135
 msgid "title_napo_episode_3_4"
 msgstr "Ėsdinantis"
 
-#: osha.policy:/missing_18n_labels.py:134
+#. Default: "Toxic"
+#: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_3_5"
 msgstr "Toksiškas"
 
-#: osha.policy:/missing_18n_labels.py:135
+#. Default: "Dangerous for the environment"
+#: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_3_6"
 msgstr "Kenksmingas aplinkai"
 
-#: osha.policy:/missing_18n_labels.py:136
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_3_7"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:137
+#. Default: "Clean Sweep"
+#: osha.policy:/missing_18n_labels.py:139
 msgid "title_napo_episode_4_0"
 msgstr "Išsivalykime!"
 
-#: osha.policy:/missing_18n_labels.py:138
+# Default "Croatian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:14
+msgid "heading_main_fop_portlet_croatia"
+msgstr "Kroatijos ryšių punktas"
+
+#. Default: "Change of plan"
+#: osha.policy:/missing_18n_labels.py:140
 msgid "title_napo_episode_4_1"
 msgstr "Plano keitimas"
 
-#: osha.policy:/missing_18n_labels.py:139
+#. Default: "Work at height"
+#: osha.policy:/missing_18n_labels.py:141
 msgid "title_napo_episode_4_2"
 msgstr "Darbas aukštyje"
 
-# Default "Czech Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:14
-msgid "heading_main_fop_portlet_czech-republic"
-msgstr "Čekijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:140
+#. Default: "Enough is enough"
+#: osha.policy:/missing_18n_labels.py:142
 msgid "title_napo_episode_4_3"
 msgstr "Gana jau gana"
 
-#: osha.policy:/missing_18n_labels.py:141
+#. Default: "Safety plan"
+#: osha.policy:/missing_18n_labels.py:143
 msgid "title_napo_episode_4_4"
 msgstr "Saugos planas"
 
-#: osha.policy:/missing_18n_labels.py:142
+#. Default: "Yellow card"
+#: osha.policy:/missing_18n_labels.py:144
 msgid "title_napo_episode_4_5"
 msgstr "Geltonoji kortelė"
 
-#: osha.policy:/missing_18n_labels.py:143
+#. Default: "Bodybuilding"
+#: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_4_6"
 msgstr "Kultūrizmas"
 
-#: osha.policy:/missing_18n_labels.py:144
+#. Default: "Safety angels"
+#: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_4_7"
 msgstr "Angelai sargai"
 
-#: osha.policy:/missing_18n_labels.py:145
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_4_8"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:146
+#. Default: "Napo - safe on site"
+#: osha.policy:/missing_18n_labels.py:148
 msgid "title_napo_episode_5_0"
 msgstr "Napo - saugus statybvietėje"
 
-#: osha.policy:/missing_18n_labels.py:147
+#. Default: "Building in safety"
+#: osha.policy:/missing_18n_labels.py:149
 msgid "title_napo_episode_5_1"
 msgstr "Statykime saugiai"
 
-#: osha.policy:/missing_18n_labels.py:148
+# Default "Cypriot Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:15
+msgid "heading_main_fop_portlet_cyprus"
+msgstr "Kipro ryšių punktas"
+
+#. Default: "Don't fall for it"
+#: osha.policy:/missing_18n_labels.py:150
 msgid "title_napo_episode_5_2"
 msgstr "Rizikuoti neverta"
 
-#: osha.policy:/missing_18n_labels.py:149
+#. Default: "Heading for a fall"
+#: osha.policy:/missing_18n_labels.py:151
 msgid "title_napo_episode_5_3"
 msgstr "Pakopos kritimui"
 
-# Default "Danish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:15
-msgid "heading_main_fop_portlet_denmark"
-msgstr "Danijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:150
+#. Default: "Champions of the world"
+#: osha.policy:/missing_18n_labels.py:152
 msgid "title_napo_episode_5_4"
 msgstr "Kliūčių ruožo bėgimo čempionai"
 
-#: osha.policy:/missing_18n_labels.py:151
+#. Default: "Lightning strike"
+#: osha.policy:/missing_18n_labels.py:153
 msgid "title_napo_episode_5_5"
 msgstr "Smūgis į nugarą"
 
-#: osha.policy:/missing_18n_labels.py:152
+#. Default: "Keep them apart"
+#: osha.policy:/missing_18n_labels.py:154
 msgid "title_napo_episode_5_6"
 msgstr "Kiekvienam savas kelias"
 
-#: osha.policy:/missing_18n_labels.py:153
+#. Default: "Five star treatment"
+#: osha.policy:/missing_18n_labels.py:155
 msgid "title_napo_episode_5_7"
 msgstr "'Penkių žvaigždučių' poilsis"
 
-#: osha.policy:/missing_18n_labels.py:154
+#. Default: "Bad dream"
+#: osha.policy:/missing_18n_labels.py:156
 msgid "title_napo_episode_5_8"
 msgstr "Blogas sapnas"
 
-#: osha.policy:/missing_18n_labels.py:155
+#. Default: "Safe landing"
+#: osha.policy:/missing_18n_labels.py:157
 msgid "title_napo_episode_5_9"
 msgstr "Happy End"
 
-#: osha.policy:/missing_18n_labels.py:156
+#. Default: "Napo in stop that noise!"
+#: osha.policy:/missing_18n_labels.py:158
 msgid "title_napo_episode_6_0"
 msgstr "Napo ... Mažinkime triukšmą!"
 
-#: osha.policy:/missing_18n_labels.py:157
+#. Default: "Irreparable"
+#: osha.policy:/missing_18n_labels.py:159
 msgid "title_napo_episode_6_1"
 msgstr "Nepataisoma žala"
 
-#: osha.policy:/missing_18n_labels.py:158
+# Default "Czech Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:16
+msgid "heading_main_fop_portlet_czech-republic"
+msgstr "Čekijos ryšių punktas"
+
+#. Default: "Didn't hear it coming"
+#: osha.policy:/missing_18n_labels.py:160
 msgid "title_napo_episode_6_2"
 msgstr "Neišgirdo besiartinančio pavojaus"
 
-#: osha.policy:/missing_18n_labels.py:159
+#. Default: "Noise in the office"
+#: osha.policy:/missing_18n_labels.py:161
 msgid "title_napo_episode_6_3"
 msgstr "Triukšmas biure"
 
-# Default "Estonian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:16
-msgid "heading_main_fop_portlet_estonia"
-msgstr "Estijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:160
+#. Default: "Problem pregnancy"
+#: osha.policy:/missing_18n_labels.py:162
 msgid "title_napo_episode_6_4"
 msgstr "Nėštumo problema"
 
-#: osha.policy:/missing_18n_labels.py:161
+#. Default: "Out in the cold"
+#: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_6_5"
 msgstr "Vienas ir niekam nereikalingas"
 
-#: osha.policy:/missing_18n_labels.py:162
+#. Default: "Don't make things worse"
+#: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_6_6"
 msgstr "Nekomplikuokite padėties"
 
-#: osha.policy:/missing_18n_labels.py:163
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:165
 msgid "title_napo_episode_6_7"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:164
+#. Default: "Safe start"
+#: osha.policy:/missing_18n_labels.py:166
 msgid "title_napo_episode_7_0"
 msgstr "Napas  filme  Saugi pradžia"
 
-#: osha.policy:/missing_18n_labels.py:165
+#. Default: "Don't hesitate to ask questions"
+#: osha.policy:/missing_18n_labels.py:167
 msgid "title_napo_episode_7_1"
 msgstr "Nesidrovėkite klausti!"
 
-#: osha.policy:/missing_18n_labels.py:166
+#. Default: "Attention listen up"
+#: osha.policy:/missing_18n_labels.py:168
 msgid "title_napo_episode_7_2"
 msgstr "Visuomet isklausykite nurodymus!"
 
-#: osha.policy:/missing_18n_labels.py:167
+#. Default: "Information overload"
+#: osha.policy:/missing_18n_labels.py:169
 msgid "title_napo_episode_7_3"
 msgstr "Informacijos per daug"
 
-#: osha.policy:/missing_18n_labels.py:168
+# Default "Danish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:17
+msgid "heading_main_fop_portlet_denmark"
+msgstr "Danijos ryšių punktas"
+
+#. Default: "Watch out for others too"
+#: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_7_4"
 msgstr "Pasirūpinkite ir kitų sauga!"
 
-#: osha.policy:/missing_18n_labels.py:169
+#. Default: "Overconfidence is dangerous"
+#: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_7_5"
 msgstr "Perdėtas pasitikėjimas pavojingas"
 
-# Default "Finnish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:17
-msgid "heading_main_fop_portlet_finland"
-msgstr "Suomijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:170
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_7_6"
 msgstr "The End"
 
-#: osha.policy:/missing_18n_labels.py:171
+#. Default: "Start"
+#: osha.policy:/missing_18n_labels.py:173
 msgid "title_napo_episode_8_0"
 msgstr "MAŽINKIME KRŪVĮ"
 
-#: osha.policy:/missing_18n_labels.py:172
+#. Default: "Modern stressful times"
+#: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_8_1"
 msgstr "Dabartiniai laikai"
 
-#: osha.policy:/missing_18n_labels.py:173
+#. Default: "Hold me tight"
+#: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_8_10"
 msgstr "Laikyk mane tvirtai"
 
-#: osha.policy:/missing_18n_labels.py:174
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_8_11"
 msgstr "The End"
 
-#: osha.policy:/missing_18n_labels.py:175
+#. Default: "Divide and rule"
+#: osha.policy:/missing_18n_labels.py:177
 msgid "title_napo_episode_8_2"
 msgstr "Skaldyk ir valdyk"
 
-#: osha.policy:/missing_18n_labels.py:176
+#. Default: "Radical ergonomics"
+#: osha.policy:/missing_18n_labels.py:178
 msgid "title_napo_episode_8_3"
 msgstr "Radikalioji ergonomika"
 
-#: osha.policy:/missing_18n_labels.py:177
+#. Default: "Twist and shout"
+#: osha.policy:/missing_18n_labels.py:179
 msgid "title_napo_episode_8_4"
 msgstr "Jei suksiesi, tai rėksi"
 
-#: osha.policy:/missing_18n_labels.py:178
+# Default "Estonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:18
+msgid "heading_main_fop_portlet_estonia"
+msgstr "Estijos ryšių punktas"
+
+#. Default: "No grip"
+#: osha.policy:/missing_18n_labels.py:180
 msgid "title_napo_episode_8_5"
 msgstr "Nėra kaip sugriebti"
 
-#: osha.policy:/missing_18n_labels.py:179
+#. Default: "Working height"
+#: osha.policy:/missing_18n_labels.py:181
 msgid "title_napo_episode_8_6"
 msgstr "Darbo aukštis"
 
-# Default "French Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:18
-msgid "heading_main_fop_portlet_france"
-msgstr "Prancūzijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:180
+#. Default: "Bad vibrations"
+#: osha.policy:/missing_18n_labels.py:182
 msgid "title_napo_episode_8_7"
 msgstr "Blogoji vibracija"
 
-#: osha.policy:/missing_18n_labels.py:181
+#. Default: "The duel"
+#: osha.policy:/missing_18n_labels.py:183
 msgid "title_napo_episode_8_8"
 msgstr "Dvikova"
 
-#: osha.policy:/missing_18n_labels.py:182
+#. Default: "Think to move"
+#: osha.policy:/missing_18n_labels.py:184
 msgid "title_napo_episode_8_9"
 msgstr "Mąstyk judėdamas"
 
-#: osha.policy:/missing_18n_labels.py:183
+#. Default: "Introduction"
+#: osha.policy:/missing_18n_labels.py:185
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
-#: osha.policy:/missing_18n_labels.py:184
+#. Default: "Assess the risk"
+#: osha.policy:/missing_18n_labels.py:186
 msgid "title_napo_episode_9_1"
 msgstr "Vertink riziką"
 
-#: osha.policy:/missing_18n_labels.py:185
+#. Default: "Identify the unknown"
+#: osha.policy:/missing_18n_labels.py:187
 msgid "title_napo_episode_9_2"
 msgstr "Nustatyk nežinomą"
 
-#: osha.policy:/missing_18n_labels.py:186
+#. Default: "Act on risks"
+#: osha.policy:/missing_18n_labels.py:188
 msgid "title_napo_episode_9_3"
 msgstr "Imkis veiksmų"
 
-#: osha.policy:/missing_18n_labels.py:187
+#. Default: "Risky combination"
+#: osha.policy:/missing_18n_labels.py:189
 msgid "title_napo_episode_9_4"
 msgstr "Pavojingas derinys"
 
-#: osha.policy:/missing_18n_labels.py:188
+# Default "Finnish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:19
+msgid "heading_main_fop_portlet_finland"
+msgstr "Suomijos ryšių punktas"
+
+#. Default: "Eliminate the hazard"
+#: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_9_5"
 msgstr "Pašalink riziką"
 
-#: osha.policy:/missing_18n_labels.py:189
+#. Default: "Safety pays"
+#: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_episode_9_6"
 msgstr "Sauga apsimoka"
 
-# Default "German Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:19
-msgid "heading_main_fop_portlet_germany"
-msgstr "Vokietijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:190
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_9_7"
 msgstr "The End"
 
-#: osha.policy:/missing_18n_labels.py:191
+#: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_film_1"
 msgstr "GERIAUSIŲ ŽENKLŲ ISTORIJA"
 
-#: osha.policy:/missing_18n_labels.py:192
+#: osha.policy:/missing_18n_labels.py:194
 msgid "title_napo_film_11"
 msgstr "Napo: „Saugumas darbe… ir ne tik“"
 
 # ---------- New Napo Film Number 12    Danger: Chemicals
-#: osha.policy:/missing_18n_labels.py:193
+#: osha.policy:/missing_18n_labels.py:195
 msgid "title_napo_film_12"
 msgstr "Napo filme: Cheminės medžiagos – pavojinga!"
 
 # ---------- New Napo Film Number 13    Protect your Skin
-#: osha.policy:/missing_18n_labels.py:194
+#: osha.policy:/missing_18n_labels.py:196
 msgid "title_napo_film_13"
 msgstr "„Napo filme: Saugokite savo odą"
 
 # ---------- New Napo Film Number 14   Safe Maintenance
-#: osha.policy:/missing_18n_labels.py:195
+#: osha.policy:/missing_18n_labels.py:197
 msgid "title_napo_film_14"
 msgstr "Napas ir saugi techninė priežiūra"
 
-#: osha.policy:/missing_18n_labels.py:196
+#: osha.policy:/missing_18n_labels.py:198
 msgid "title_napo_film_2"
 msgstr "NAPO NUOTYKIAI"
 
-#: osha.policy:/missing_18n_labels.py:197
+#: osha.policy:/missing_18n_labels.py:199
 msgid "title_napo_film_3"
 msgstr "ĮBRĖŽK IR UOSTYK ... CHEMINIŲ MEDŽIAGŲ KELIAMAS PAVOJUS DARBE"
 
-#: osha.policy:/missing_18n_labels.py:198
+# Default "French Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:20
+msgid "heading_main_fop_portlet_france"
+msgstr "Prancūzijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:200
 msgid "title_napo_film_4"
 msgstr "NAPAS SAUGIAI DIRBA STATYBOS AIKŠTELĖJE"
 
-#: osha.policy:/missing_18n_labels.py:199
+#: osha.policy:/missing_18n_labels.py:201
 msgid "title_napo_film_5"
 msgstr "NAPAS UŽSIIMA VALYMO VEIKLA"
 
-# Default "Greek Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:20
-msgid "heading_main_fop_portlet_greece"
-msgstr "Graikijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:200
+#: osha.policy:/missing_18n_labels.py:202
 msgid "title_napo_film_6"
 msgstr " NAPAS PADEDA MAŽINTI TRIUKŠMĄ!"
 
-#: osha.policy:/missing_18n_labels.py:201
+#: osha.policy:/missing_18n_labels.py:203
 msgid "title_napo_film_7"
 msgstr "NAPAS PADEDA JAUNIES ŽMONĖMS SAUGIAI APSIPRASTI NAUJAJAME DARBE"
 
-#: osha.policy:/missing_18n_labels.py:202
+#: osha.policy:/missing_18n_labels.py:204
 msgid "title_napo_film_8"
 msgstr "NAPAS PADEDA PALENGVINTI NAŠTĄ!"
 
-#: osha.policy:/missing_18n_labels.py:203
+#: osha.policy:/missing_18n_labels.py:205
 msgid "title_napo_film_9"
 msgstr "Napo... ir pavojinga veikla"
 
 # ############################################
 # # keywords
 # ############################################
-#: osha.policy:/missing_18n_labels.py:206
+#: osha.policy:/missing_18n_labels.py:208
 msgid "accident_prevention"
 msgstr "Nelaimingų atsitikimų prevencija"
 
-#: osha.policy:/missing_18n_labels.py:207
+#: osha.policy:/missing_18n_labels.py:209
 msgid "ageing"
 msgstr "Senstantys darbuotojai"
 
-#: osha.policy:/missing_18n_labels.py:208
+# Default "German Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:21
+msgid "heading_main_fop_portlet_germany"
+msgstr "Vokietijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:210
 msgid "agriculture"
 msgstr "Žemės ūkis"
 
-#: osha.policy:/missing_18n_labels.py:209
+#: osha.policy:/missing_18n_labels.py:211
 msgid "businessOSH"
 msgstr "OSH verslo aspektai"
 
-# Default "Hungarian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:21
-msgid "heading_main_fop_portlet_hungary"
-msgstr "Vengrijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:210
+#: osha.policy:/missing_18n_labels.py:212
 msgid "cleaners"
 msgstr "Valytojams"
 
-#: osha.policy:/missing_18n_labels.py:211
+#: osha.policy:/missing_18n_labels.py:213
 msgid "competitions"
 msgstr "Konkursai"
 
-#: osha.policy:/missing_18n_labels.py:212
+#: osha.policy:/missing_18n_labels.py:214
 msgid "construction"
 msgstr "Statyba"
 
-#: osha.policy:/missing_18n_labels.py:213
+#: osha.policy:/missing_18n_labels.py:215
 msgid "csr"
 msgstr "Įmonių socialinė atsakomybė"
 
-#: osha.policy:/missing_18n_labels.py:214
+#: osha.policy:/missing_18n_labels.py:216
 msgid "cww"
 msgstr "Kintantis darbo pasaulis"
 
-#: osha.policy:/missing_18n_labels.py:215
+#: osha.policy:/missing_18n_labels.py:217
 msgid "dangerous_substances"
 msgstr "Pavojingos medžiagos"
 
-#: osha.policy:/missing_18n_labels.py:216
+#: osha.policy:/missing_18n_labels.py:218
 msgid "disability"
 msgstr "Neįgalieji"
 
-#: osha.policy:/missing_18n_labels.py:217
+#: osha.policy:/missing_18n_labels.py:219
 msgid "disabled_people"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:218
+# Default "Greek Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:22
+msgid "heading_main_fop_portlet_greece"
+msgstr "Graikijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:220
 msgid "economic_incentives"
 msgstr "Ekonominės paskatos"
 
-#: osha.policy:/missing_18n_labels.py:219
+#: osha.policy:/missing_18n_labels.py:221
 msgid "education"
 msgstr "Švietimas"
 
-# Default "Icelandic Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:22
-msgid "heading_main_fop_portlet_iceland"
-msgstr "Islandijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:220
+#: osha.policy:/missing_18n_labels.py:222
 msgid "esener"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:221
+#: osha.policy:/missing_18n_labels.py:223
 msgid "fisheries"
 msgstr "Žuvininkystė"
 
-#: osha.policy:/missing_18n_labels.py:222
+#: osha.policy:/missing_18n_labels.py:224
 msgid "gender"
 msgstr "Lytis"
 
-#: osha.policy:/missing_18n_labels.py:223
+#: osha.policy:/missing_18n_labels.py:225
 msgid "green_jobs"
 msgstr "su ekologija susiję darbai"
 
-#: osha.policy:/missing_18n_labels.py:224
+#: osha.policy:/missing_18n_labels.py:226
 msgid "health_care"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:225
+#: osha.policy:/missing_18n_labels.py:227
 msgid "healthcare"
 msgstr "Sveikatos apsauga"
 
-#: osha.policy:/missing_18n_labels.py:226
+#: osha.policy:/missing_18n_labels.py:228
 msgid "horeca"
 msgstr "Viešbučiai, restoranai ir viešojo maitinimo įstaigos"
 
-#: osha.policy:/missing_18n_labels.py:227
+#: osha.policy:/missing_18n_labels.py:229
 msgid "hwi"
 msgstr "Sveikatai nekenksmingos darbo vietos"
 
-#: osha.policy:/missing_18n_labels.py:228
+# Default "Hungarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:23
+msgid "heading_main_fop_portlet_hungary"
+msgstr "Vengrijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:230
 msgid "legislation"
 msgstr "Teisės aktai"
 
-#: osha.policy:/missing_18n_labels.py:229
+#: osha.policy:/missing_18n_labels.py:231
 msgid "maintenance"
 msgstr "techninė priežiūra"
 
-# Default "Irish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:23
-msgid "heading_main_fop_portlet_ireland"
-msgstr "Airijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:230
+#: osha.policy:/missing_18n_labels.py:232
 msgid "management_leadership"
 msgstr "valdymo lyderystė"
 
-#: osha.policy:/missing_18n_labels.py:231
+#: osha.policy:/missing_18n_labels.py:233
 msgid "migrant_workers"
 msgstr "Migrant Workers"
 
-#: osha.policy:/missing_18n_labels.py:232
+#: osha.policy:/missing_18n_labels.py:234
 msgid "msd"
 msgstr "Raumenų ir kaulų sistemos pažeidimai"
 
-#: osha.policy:/missing_18n_labels.py:233
+#: osha.policy:/missing_18n_labels.py:235
 msgid "nanotechnology"
 msgstr "Nanotechnology"
 
-#: osha.policy:/missing_18n_labels.py:234
+#: osha.policy:/missing_18n_labels.py:236
 msgid "noise"
 msgstr "Triukšmas"
 
-#: osha.policy:/missing_18n_labels.py:235
+#: osha.policy:/missing_18n_labels.py:237
 msgid "organisation"
 msgstr "Organizavimas ir strategijos"
 
-#: osha.policy:/missing_18n_labels.py:236
+#: osha.policy:/missing_18n_labels.py:238
 msgid "osheducation"
 msgstr "OSH įtraukimas į švietimą"
 
-#: osha.policy:/missing_18n_labels.py:237
+#: osha.policy:/missing_18n_labels.py:239
 msgid "prevention"
 msgstr "Prevention"
 
-#: osha.policy:/missing_18n_labels.py:238 osha.searchurls:/interfaces.py:15
+# Default "Icelandic Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:24
+msgid "heading_main_fop_portlet_iceland"
+msgstr "Islandijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:240 osha.searchurls:/interfaces.py:15
 msgid "provider"
 msgstr "Tiekėjas"
 
-#: osha.policy:/missing_18n_labels.py:239
+#: osha.policy:/missing_18n_labels.py:241
 msgid "publications"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:242
+msgid "research"
+msgstr "Tyrimai"
+
+#: osha.policy:/missing_18n_labels.py:243
+msgid "risk_assessment"
+msgstr "Rizikos vertinimas"
+
+#: osha.policy:/missing_18n_labels.py:245
+msgid "risks"
+msgstr "Naujai atsirandanti rizika"
+
+#: osha.policy:/missing_18n_labels.py:246
+msgid "road_transport"
+msgstr "Kelių transportas"
+
+#: osha.policy:/missing_18n_labels.py:247
+msgid "statistics"
+msgstr "Statistika"
+
+#: osha.policy:/missing_18n_labels.py:248
+msgid "stress"
+msgstr "Stresas"
+
+#: osha.policy:/missing_18n_labels.py:249
+msgid "transport"
+msgstr "Transportas"
+
+# Default "Irish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:25
+msgid "heading_main_fop_portlet_ireland"
+msgstr "Airijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:250
+msgid "whp"
+msgstr "Darbo vietų sveikatingumo skatinimas"
+
+#: osha.policy:/missing_18n_labels.py:251
+msgid "worker_participation"
+msgstr "darbuotojų dalyvavimas"
+
+#: osha.policy:/missing_18n_labels.py:252
+msgid "young_people"
+msgstr "Jaunimas"
+
+#: osha.policy:/missing_18n_labels.py:255
+#: osha.policy:/missing_18n_labels.py:553
+msgid "osha_label_press_and_multimedia"
+msgstr "Žiniasklaida"
+
+#: osha.policy:/missing_18n_labels.py:258
+msgid "January"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:259
+msgid "February"
 msgstr ""
 
 # Default "Italian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:24
+#: osha.policy:/missing_18n_labels.py:26
 msgid "heading_main_fop_portlet_italy"
 msgstr "Italijos ryšių punktas"
 
-#: osha.policy:/missing_18n_labels.py:240
-msgid "research"
-msgstr "Tyrimai"
-
-#: osha.policy:/missing_18n_labels.py:241
-msgid "risk_assessment"
-msgstr "Rizikos vertinimas"
-
-#: osha.policy:/missing_18n_labels.py:243
-msgid "risks"
-msgstr "Naujai atsirandanti rizika"
-
-#: osha.policy:/missing_18n_labels.py:244
-msgid "road_transport"
-msgstr "Kelių transportas"
-
-#: osha.policy:/missing_18n_labels.py:245
-msgid "statistics"
-msgstr "Statistika"
-
-#: osha.policy:/missing_18n_labels.py:246
-msgid "stress"
-msgstr "Stresas"
-
-#: osha.policy:/missing_18n_labels.py:247
-msgid "transport"
-msgstr "Transportas"
-
-#: osha.policy:/missing_18n_labels.py:248
-msgid "whp"
-msgstr "Darbo vietų sveikatingumo skatinimas"
-
-#: osha.policy:/missing_18n_labels.py:249
-msgid "worker_participation"
-msgstr "darbuotojų dalyvavimas"
-
-# Default "Kosovar Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:25
-msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
-msgstr "Kosovo ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:250
-msgid "young_people"
-msgstr "Jaunimas"
-
-#: osha.policy:/missing_18n_labels.py:253
-#: osha.policy:/missing_18n_labels.py:551
-msgid "osha_label_press_and_multimedia"
-msgstr "Žiniasklaida"
-
-#: osha.policy:/missing_18n_labels.py:256
-msgid "January"
-msgstr ""
-
-#: osha.policy:/missing_18n_labels.py:257
-msgid "February"
-msgstr ""
-
-#: osha.policy:/missing_18n_labels.py:258
+#: osha.policy:/missing_18n_labels.py:260
 msgid "March"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:259
+#: osha.policy:/missing_18n_labels.py:261
 msgid "April"
 msgstr ""
 
-# Default "Latvian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:26
-msgid "heading_main_fop_portlet_latvia"
-msgstr "Latvijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:260
+#: osha.policy:/missing_18n_labels.py:262
 msgid "May"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:261
+#: osha.policy:/missing_18n_labels.py:263
 msgid "June"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:262
+#: osha.policy:/missing_18n_labels.py:264
 msgid "July"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:263
+#: osha.policy:/missing_18n_labels.py:265
 msgid "August"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:264
+#: osha.policy:/missing_18n_labels.py:266
 msgid "September"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:265
+#: osha.policy:/missing_18n_labels.py:267
 msgid "October"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:266
+#: osha.policy:/missing_18n_labels.py:268
 msgid "November"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:267
+#: osha.policy:/missing_18n_labels.py:269
 msgid "December"
 msgstr ""
 
-# Default "Liechtenstein Focal Point"
+# Default "Kosovar Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
 #: osha.policy:/missing_18n_labels.py:27
-msgid "heading_main_fop_portlet_liechtenstein"
-msgstr "Lichtenšteino ryšių punktas"
+msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
+msgstr "Kosovo ryšių punktas"
 
-#: osha.policy:/missing_18n_labels.py:270
+#: osha.policy:/missing_18n_labels.py:272
 msgid "action_firstlogin_proceed"
 msgstr "Pereiti prie jūsų asmeninių numatytųjų reikšmių"
 
-#: osha.policy:/missing_18n_labels.py:271
+#: osha.policy:/missing_18n_labels.py:273
 msgid "april"
 msgstr "Balandis"
 
-#: osha.policy:/missing_18n_labels.py:272
+#: osha.policy:/missing_18n_labels.py:274
 msgid "august"
 msgstr "Rugpjūtis"
 
-#: osha.policy:/missing_18n_labels.py:273
+#: osha.policy:/missing_18n_labels.py:275
 msgid "back_to"
 msgstr "grįžti į"
 
-#: osha.policy:/missing_18n_labels.py:274
+#: osha.policy:/missing_18n_labels.py:276
 msgid "before"
 msgstr "Prieš"
 
-#: osha.policy:/missing_18n_labels.py:275
+#: osha.policy:/missing_18n_labels.py:277
 msgid "box_about"
 msgstr "Apie"
 
-#: osha.policy:/missing_18n_labels.py:276
+#: osha.policy:/missing_18n_labels.py:278
 msgid "box_created_by"
 msgstr "Sukūrė"
 
-#: osha.policy:/missing_18n_labels.py:277
+#: osha.policy:/missing_18n_labels.py:279
 msgid "box_last_modified"
 msgstr "Paskutinis pakeitimas"
 
-#: osha.policy:/missing_18n_labels.py:278
+# Default "Latvian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:28
+msgid "heading_main_fop_portlet_latvia"
+msgstr "Latvijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:280
 msgid "box_oshmail_subscribe"
 msgstr ""
 "Prisijunkite prie mūsų <a href=\"http://osha.europa.eu/oshmail/\">"
 "${newsletter}</a>"
 
-#: osha.policy:/missing_18n_labels.py:279
+#: osha.policy:/missing_18n_labels.py:281
 msgid "box_provided_by"
 msgstr "Informaciją pateikė"
 
-# Default "Lithuanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:28
-msgid "heading_main_fop_portlet_lithuania"
-msgstr "Lietuvos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:280
+#: osha.policy:/missing_18n_labels.py:282
 msgid "box_search_seminars"
 msgstr "Ieskoti seminarų"
 
-#: osha.policy:/missing_18n_labels.py:281
+#: osha.policy:/missing_18n_labels.py:283
 msgid "box_speaker"
 msgstr "Pagrindiniai pranesėjai"
 
-#: osha.policy:/missing_18n_labels.py:282
+#: osha.policy:/missing_18n_labels.py:284
 msgid "box_speeches"
 msgstr "Pagrindiniai pranesimai"
 
-#: osha.policy:/missing_18n_labels.py:283
+#: osha.policy:/missing_18n_labels.py:285
 msgid "box_this_url"
 msgstr "Šio dokumento URL"
 
-#: osha.policy:/missing_18n_labels.py:284
+#: osha.policy:/missing_18n_labels.py:286
 msgid "calendar day view"
 msgstr "Dienos kalendoriaus vaizdas"
 
-#: osha.policy:/missing_18n_labels.py:285
+#: osha.policy:/missing_18n_labels.py:287
 msgid "convert to pdf"
 msgstr "pakeisti į pdf formatą"
 
-#: osha.policy:/missing_18n_labels.py:286
+#: osha.policy:/missing_18n_labels.py:288
 msgid "daily"
 msgstr "kasdienis"
 
 # # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:287
+#: osha.policy:/missing_18n_labels.py:289
 msgid "day"
 msgstr "Diena"
 
-#: osha.policy:/missing_18n_labels.py:288
+# Default "Liechtenstein Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:29
+msgid "heading_main_fop_portlet_liechtenstein"
+msgstr "Lichtenšteino ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:290
 msgid "days"
 msgstr "dienos"
 
-#: osha.policy:/missing_18n_labels.py:289
+#: osha.policy:/missing_18n_labels.py:291
 msgid "december"
 msgstr "Gruodis"
 
-# Default "Luxembourgish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:29
-msgid "heading_main_fop_portlet_luxembourg"
-msgstr "Liuksemburgo ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:290
+#: osha.policy:/missing_18n_labels.py:292
 msgid "default"
 msgstr "numatytosios reikšmės"
 
-#: osha.policy:/missing_18n_labels.py:291
+#: osha.policy:/missing_18n_labels.py:293
 msgid "delete"
 msgstr "ištrinti"
 
 # # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
-#: osha.policy:/missing_18n_labels.py:292
+#: osha.policy:/missing_18n_labels.py:294
 msgid "details_about_authors"
 msgstr ""
 "Atsisiųskite eilutę su teksto autoriaus pavarde – ten rasite informaciją "
 "apie autorių ir pakeitimo datą."
 
-#: osha.policy:/missing_18n_labels.py:293
+#: osha.policy:/missing_18n_labels.py:295
 msgid "document_type"
 msgstr "Dokumento tipas:"
 
-#: osha.policy:/missing_18n_labels.py:294
+#: osha.policy:/missing_18n_labels.py:296
 msgid "download"
 msgstr "atsisiųsti"
 
-#: osha.policy:/missing_18n_labels.py:295
+#: osha.policy:/missing_18n_labels.py:297
 msgid "download_full_publication"
 msgstr "Atsiųsti pilną leidinio tekstą PDF formate"
 
-#: osha.policy:/missing_18n_labels.py:296
+#: osha.policy:/missing_18n_labels.py:298
 msgid "draft"
 msgstr "Juodraštis"
 
-#: osha.policy:/missing_18n_labels.py:297
+#: osha.policy:/missing_18n_labels.py:299
 msgid "edit portlet content"
 msgstr "Redaguoti informacinio modulio turinį"
 
-#: osha.policy:/missing_18n_labels.py:298
+# Default "Lithuanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:30
+msgid "heading_main_fop_portlet_lithuania"
+msgstr "Lietuvos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:300
 msgid "emerging_risks"
 msgstr "Naujai atsirandanti rizika"
 
-#: osha.policy:/missing_18n_labels.py:299
+#: osha.policy:/missing_18n_labels.py:301
 msgid "event_type"
 msgstr "Įvykio tipas(-ai)"
 
-# Default "Maltese Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:30
-msgid "heading_main_fop_portlet_malta"
-msgstr "Maltos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:300
+#: osha.policy:/missing_18n_labels.py:302
 msgid "february"
 msgstr "Vasaris"
 
 # # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:301
+#: osha.policy:/missing_18n_labels.py:303
 msgid "feedback_comment"
 msgstr "Pastaba"
 
-#: osha.policy:/missing_18n_labels.py:302
+#: osha.policy:/missing_18n_labels.py:304
 msgid "feedback_country"
 msgstr "Iš šalies:"
 
-#: osha.policy:/missing_18n_labels.py:303
+#: osha.policy:/missing_18n_labels.py:305
 msgid "feedback_from_name"
 msgstr "Pavardė:"
 
 # # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:304
+#: osha.policy:/missing_18n_labels.py:306
 msgid "feedback_link"
 msgstr "Nuoroda"
 
-#: osha.policy:/missing_18n_labels.py:305
+#: osha.policy:/missing_18n_labels.py:307
 msgid "feedback_mailtemplate_body"
 msgstr "Šį atsiliepimą atsiuntė:"
 
-#: osha.policy:/missing_18n_labels.py:306
+#: osha.policy:/missing_18n_labels.py:308
 msgid "feedback_organization_size"
 msgstr "Organizacijos dydis:"
 
-#: osha.policy:/missing_18n_labels.py:307
+#: osha.policy:/missing_18n_labels.py:309
 msgid "feedback_sender"
 msgstr "Siuntėjo tipas:"
 
-#: osha.policy:/missing_18n_labels.py:308
+# Default "Luxembourgish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:31
+msgid "heading_main_fop_portlet_luxembourg"
+msgstr "Liuksemburgo ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:310
 msgid "feedback_sender_mssg_1"
 msgstr "Gerb. pone / ponia,"
 
-#: osha.policy:/missing_18n_labels.py:309
+#: osha.policy:/missing_18n_labels.py:311
 msgid "feedback_sender_mssg_2"
 msgstr ""
 "Dėkojame už jūsų atsiliepimą. Mes vertiname jūsų pastabas apie Europos "
@@ -1513,13 +1620,7 @@ msgstr ""
 "Tačiau mes skaitome visus Jūsų atsiliepimus ir naudojamės jais, tobulindami "
 "savo inteneto svetaines ir paslaugas."
 
-# Default "Montenegrin Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:31
-msgid "heading_main_fop_portlet_montenegro"
-msgstr "Juodkalnijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:310
+#: osha.policy:/missing_18n_labels.py:312
 msgid "feedback_sender_mssg_3"
 msgstr ""
 "Jūs galite sekti naujausius mūsų svetainės patobulinimus, apsilankę mūsų "
@@ -1527,277 +1628,283 @@ msgstr ""
 "užsisakę mūsų elektroninį informacinį biuletenį OSHmail [http://osha.europa."
 "eu/oshmail]. "
 
-#: osha.policy:/missing_18n_labels.py:311
+#: osha.policy:/missing_18n_labels.py:313
 msgid "feedback_sender_mssg_from"
 msgstr "Europos darbuotojų saugos ir sveikatos agentūra"
 
-#: osha.policy:/missing_18n_labels.py:312
+#: osha.policy:/missing_18n_labels.py:314
 msgid "feedback_sender_mssg_thankyou"
 msgstr "Nuoširdžiai jūsų,"
 
-#: osha.policy:/missing_18n_labels.py:313
+#: osha.policy:/missing_18n_labels.py:315
 msgid "feedback_sent_by"
 msgstr "Šį atsiliepimą atsiuntė:"
 
-#: osha.policy:/missing_18n_labels.py:314
+#: osha.policy:/missing_18n_labels.py:316
 msgid "foresight"
 msgstr "Apžvalga"
 
-#: osha.policy:/missing_18n_labels.py:315
+#: osha.policy:/missing_18n_labels.py:317
 msgid "forward"
 msgstr "Į priekį"
 
-#: osha.policy:/missing_18n_labels.py:316
+#: osha.policy:/missing_18n_labels.py:318
 msgid "from"
 msgstr "Nuo"
 
-#: osha.policy:/missing_18n_labels.py:317
+#: osha.policy:/missing_18n_labels.py:319
 msgid "go_to_calendar"
 msgstr "Iki kalendoriaus"
 
-#: osha.policy:/missing_18n_labels.py:318
+# Default "Maltese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:32
+msgid "heading_main_fop_portlet_malta"
+msgstr "Maltos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:320
 msgid "go_to_folder_localroles"
 msgstr "Iki katalogo vietinių rolių"
 
 # # 1 more: ./plone_templates/folder_listing.pt
-#: osha.policy:/missing_18n_labels.py:319
+#: osha.policy:/missing_18n_labels.py:321
 msgid "go_to_parent_url"
 msgstr "Vienu lygiu aukščiau"
 
-# Default "Dutch Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:32
-msgid "heading_main_fop_portlet_netherlands"
-msgstr "Olandijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:320
+#: osha.policy:/missing_18n_labels.py:322
 msgid "header_active"
 msgstr "Aktyvus"
 
-#: osha.policy:/missing_18n_labels.py:321
+#: osha.policy:/missing_18n_labels.py:323
 msgid "header_portlet_personalise"
 msgstr "Pritaikykite šio tinklalapio informaciją savo poreikiams "
 
-#: osha.policy:/missing_18n_labels.py:322
+#: osha.policy:/missing_18n_labels.py:324
 msgid "header_title"
 msgstr "Pavadinimas"
 
-#: osha.policy:/missing_18n_labels.py:323
+#: osha.policy:/missing_18n_labels.py:325
 msgid "heading_actions"
 msgstr "veiksmai"
 
-#: osha.policy:/missing_18n_labels.py:324
+#: osha.policy:/missing_18n_labels.py:326
 msgid "heading_add_to_calendar"
 msgstr "Įrasyti renginį į kalendorių"
 
-#: osha.policy:/missing_18n_labels.py:325
+#: osha.policy:/missing_18n_labels.py:327
 msgid "heading_advanced_search"
 msgstr "Sudėtingesnė turinio paieška"
 
-#: osha.policy:/missing_18n_labels.py:326
+#: osha.policy:/missing_18n_labels.py:328
 msgid "heading_alert_add_searchquer"
 msgstr "Įtraukti naują paieškos užklausą"
 
-#: osha.policy:/missing_18n_labels.py:327
+#: osha.policy:/missing_18n_labels.py:329
 msgid "heading_alert_edit_searchquer"
 msgstr "Koreguoti paieškos užklausą &quot; ${itemtype} &quot;"
 
-#: osha.policy:/missing_18n_labels.py:328
+# Default "Montenegrin Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:33
+msgid "heading_main_fop_portlet_montenegro"
+msgstr "Juodkalnijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:330
 msgid "heading_alerts_generalinterests"
 msgstr "Mano bendri interesai"
 
-#: osha.policy:/missing_18n_labels.py:329
+#: osha.policy:/missing_18n_labels.py:331
 msgid "heading_alerts_specialinterests"
 msgstr "Mano specialūs interesai"
 
-# Default "Norwegian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:33
-msgid "heading_main_fop_portlet_norway"
-msgstr "Norvegijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:330
+#: osha.policy:/missing_18n_labels.py:332
 msgid "heading_authorities"
 msgstr "Valdžios institucijos"
 
-#: osha.policy:/missing_18n_labels.py:331
+#: osha.policy:/missing_18n_labels.py:333
 msgid "heading_calendar_views"
 msgstr "Kalendoriaus vaizdai"
 
-#: osha.policy:/missing_18n_labels.py:332
+#: osha.policy:/missing_18n_labels.py:334
 msgid "heading_document_actions"
 msgstr "Dokumento veiksmai"
 
-#: osha.policy:/missing_18n_labels.py:333
+#: osha.policy:/missing_18n_labels.py:335
 msgid "heading_ew2005_stopthatnoise"
 msgstr "Mažinkime triukšmą!"
 
-#: osha.policy:/missing_18n_labels.py:334
+#: osha.policy:/missing_18n_labels.py:336
 msgid "heading_exception_details"
 msgstr "Informacija apie išimtis"
 
-#: osha.policy:/missing_18n_labels.py:335
+#: osha.policy:/missing_18n_labels.py:337
 msgid "heading_feedback_comments"
 msgstr "Pastabos"
 
-#: osha.policy:/missing_18n_labels.py:336
+#: osha.policy:/missing_18n_labels.py:338
 msgid "heading_file_contents"
 msgstr "Failo turinys"
 
-#: osha.policy:/missing_18n_labels.py:337
+#: osha.policy:/missing_18n_labels.py:339
 msgid "heading_hierarchical_index"
 msgstr "Hierarchinė rodyklė"
 
-#: osha.policy:/missing_18n_labels.py:338
+# Default "Dutch Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:34
+msgid "heading_main_fop_portlet_netherlands"
+msgstr "Olandijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:340
 msgid "heading_index_by_nace"
 msgstr "Rodyklė pagal NACE"
 
-#: osha.policy:/missing_18n_labels.py:339
+#: osha.policy:/missing_18n_labels.py:341
 msgid "heading_index_by_providers"
 msgstr "Rodyklė pagal pateikusius informaciją"
 
-# Default "Polish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:34
-msgid "heading_main_fop_portlet_poland"
-msgstr "Lenkijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:340
+#: osha.policy:/missing_18n_labels.py:342
 msgid "heading_index_by_sme"
 msgstr "Rodyklė pagal SVĮ"
 
-#: osha.policy:/missing_18n_labels.py:341
+#: osha.policy:/missing_18n_labels.py:343
 #: osha.policy:/skins/osha_content/index_topic.pt:13
 msgid "heading_index_by_topic"
 msgstr "Rodyklė pagal temas"
 
-#: osha.policy:/missing_18n_labels.py:342
+#: osha.policy:/missing_18n_labels.py:344
 msgid "heading_latest_seminars"
 msgstr "Pastarieji seminarai"
 
-#: osha.policy:/missing_18n_labels.py:343
+#: osha.policy:/missing_18n_labels.py:345
 msgid "heading_link_to"
 msgstr "Nuoroda į"
 
-#: osha.policy:/missing_18n_labels.py:344
+#: osha.policy:/missing_18n_labels.py:346
 msgid "heading_link_to_this_site"
 msgstr "Nuoroda į šią svetainę"
 
-#: osha.policy:/missing_18n_labels.py:345
+#: osha.policy:/missing_18n_labels.py:347
 msgid "heading_lost_password"
 msgstr "Prarastas slaptažodis"
 
-#: osha.policy:/missing_18n_labels.py:346
+#: osha.policy:/missing_18n_labels.py:348
 msgid "heading_other_national_sites"
 msgstr "Kitos nacionalinės tinklavietės"
 
-#: osha.policy:/missing_18n_labels.py:347
+#: osha.policy:/missing_18n_labels.py:349
 msgid "heading_portlets_configure"
 msgstr "Nustatyti informacinių modulių konfigūraciją"
 
-#: osha.policy:/missing_18n_labels.py:348
+# Default "Norwegian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:35
+msgid "heading_main_fop_portlet_norway"
+msgstr "Norvegijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:350
 msgid "heading_questionnaire_result"
 msgstr "Esamas rezultatas"
 
-#: osha.policy:/missing_18n_labels.py:349
+#: osha.policy:/missing_18n_labels.py:351
 msgid "heading_quicksearch_users"
 msgstr "Greitosios paieškos vartotojai"
 
-# Default "Portuguese Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:35
-msgid "heading_main_fop_portlet_portugal"
-msgstr "Portugalijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:350
+#: osha.policy:/missing_18n_labels.py:352
 msgid "heading_research_organisations"
 msgstr "Mokslinių tyrimų organizacijos"
 
-#: osha.policy:/missing_18n_labels.py:351
+#: osha.policy:/missing_18n_labels.py:353
 msgid "heading_search"
 msgstr ""
 "Ieškoti <span tal:content=\"here/title_or_id\"> Pavadinimas ar id</span>"
 
-#: osha.policy:/missing_18n_labels.py:352
+#: osha.policy:/missing_18n_labels.py:354
 msgid "heading_search_case_studies"
 msgstr "Ieškoti KONKREČIŲ PAVYZDŽIŲ DUOMENŲ BAZĖJE"
 
-#: osha.policy:/missing_18n_labels.py:353
+#: osha.policy:/missing_18n_labels.py:355
 msgid "heading_search_providers"
 msgstr "Ieškoti DUOMENŲ TEIKĖJŲ DUOMENŲ BAZĖJE"
 
-#: osha.policy:/missing_18n_labels.py:354
+#: osha.policy:/missing_18n_labels.py:356
 msgid "heading_search_results_memberdocs"
 msgstr "Nario dokumentų paieškos rezultatai"
 
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
-#: osha.policy:/missing_18n_labels.py:355
+#: osha.policy:/missing_18n_labels.py:357
 msgid "heading_search_results_rss"
 msgstr "Nuotolinės paieškos rezultatai"
 
-#: osha.policy:/missing_18n_labels.py:356
+#: osha.policy:/missing_18n_labels.py:358
 msgid "heading_search_risk_assessment_tools"
 msgstr "Ieškoti RIZIKOS VERTINIMO PRIEMONIŲ DUOMENŲ BAZĖJE"
 
-#: osha.policy:/missing_18n_labels.py:357
+#: osha.policy:/missing_18n_labels.py:359
 msgid "heading_search_useful_links"
 msgstr "Ieškoti NAUDINGŲ NUORODŲ DUOMENŲ BAZĖJE"
 
-#: osha.policy:/missing_18n_labels.py:358
+# Default "Polish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:36
+msgid "heading_main_fop_portlet_poland"
+msgstr "Lenkijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:360
 msgid "heading_sections"
 msgstr "Sekcijos"
 
-#: osha.policy:/missing_18n_labels.py:359
+#: osha.policy:/missing_18n_labels.py:361
 msgid "heading_send_page_to"
 msgstr "Siųskite šį puslapį kam nors"
 
-# Default "Romanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:36
-msgid "heading_main_fop_portlet_romania"
-msgstr "Rumunijos ryšių punktas"
-
 # # 1 more: ./OSHA/skins/osha/search_form.pt
-#: osha.policy:/missing_18n_labels.py:360
+#: osha.policy:/missing_18n_labels.py:362
 msgid "heading_simple_search"
 msgstr "Turinio paieška"
 
-#: osha.policy:/missing_18n_labels.py:361
+#: osha.policy:/missing_18n_labels.py:363
 msgid "heading_site_error"
 msgstr "Klaida svetainėje"
 
-#: osha.policy:/missing_18n_labels.py:362
+#: osha.policy:/missing_18n_labels.py:364
 msgid "heading_social_partners"
 msgstr "Socialiniai partneriai"
 
-#: osha.policy:/missing_18n_labels.py:363
+#: osha.policy:/missing_18n_labels.py:365
 msgid "heading_start_simple_process"
 msgstr "Paleisti darbų seką"
 
-#: osha.policy:/missing_18n_labels.py:364
+#: osha.policy:/missing_18n_labels.py:366
 msgid "help_search_author"
 msgstr "Grąžinti elementus, sukurtus konkretaus asmens."
 
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
-#: osha.policy:/missing_18n_labels.py:365
+#: osha.policy:/missing_18n_labels.py:367
 msgid "help_search_available_languages"
 msgstr "Grąžinti elementus, prieinamus pasirinktomis kalbomis."
 
-#: osha.policy:/missing_18n_labels.py:366
+#: osha.policy:/missing_18n_labels.py:368
 msgid "help_search_countries"
 msgstr "Grąžinti elementus, prieinamus pasirinktoje šalyje."
 
-#: osha.policy:/missing_18n_labels.py:367
+#: osha.policy:/missing_18n_labels.py:369
 msgid "help_search_description"
 msgstr ""
 "Grąžinti elementus, atitinkančius šį aprašymą. Žodžių kombinacijos gali būti "
 "surandamos, sujungus juos <strong>AND</strong> ir <strong>OR</strong> ."
 
-#: osha.policy:/missing_18n_labels.py:368
+# Default "Portuguese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:37
+msgid "heading_main_fop_portlet_portugal"
+msgstr "Portugalijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:370
 msgid "help_search_item_type"
 msgstr "Grąžinti konkretaus tipo elementus."
 
-#: osha.policy:/missing_18n_labels.py:369
+#: osha.policy:/missing_18n_labels.py:371
 msgid "help_search_keywords"
 msgstr ""
 "Grąžinkti elementus, atitinkančius vieną ar daugiau iš šių raktinių žodžių. "
@@ -1805,76 +1912,70 @@ msgstr ""
 "tuo pačiu metu <strong>kairiuoju pelės klavišu žymint</strong> raktinius "
 "žodžius."
 
-# Default "Serbian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:37
-msgid "heading_main_fop_portlet_serbia"
-msgstr "Serbijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:370
+#: osha.policy:/missing_18n_labels.py:372
 msgid "help_search_new_items_since"
 msgstr ""
 "Grąžinti elementus, įtrauktus po paskutinės jūsų registracijos, praėjusią "
 "savaitę ar pan."
 
-#: osha.policy:/missing_18n_labels.py:371
+#: osha.policy:/missing_18n_labels.py:373
 msgid "help_search_path"
 msgstr ""
 "Ieškoti tik objektų, esančių žemiau šio objekto svetainės hierarchijoje."
 
-#: osha.policy:/missing_18n_labels.py:372
+#: osha.policy:/missing_18n_labels.py:374
 msgid "help_search_review_status"
 msgstr ""
 "Kaip recenzentas jūs galite ieškoti elementų pagal jų recenzuojamą būseną. "
 "Jei norite apriboti rezultatus tik tam tikros būsenos elementų rezultatais, "
 "pasirinkite juos iš šio sąrašo."
 
-#: osha.policy:/missing_18n_labels.py:373
+#: osha.policy:/missing_18n_labels.py:375
 msgid "help_search_rssextension"
 msgstr ""
 "Galite išplėsti paiešką, pasirinkdami vieną ar daugiau peržiūrimų svetainių "
 "kaip nuotolinės paieškos šaltinius. <br/>"
 
-#: osha.policy:/missing_18n_labels.py:374
+#: osha.policy:/missing_18n_labels.py:376
 msgid "help_search_title"
 msgstr "Grąžinti elementus, atitinkančius šį pavadinimą."
 
-#: osha.policy:/missing_18n_labels.py:375
+#: osha.policy:/missing_18n_labels.py:377
 msgid "help_send_to_mail"
 msgstr "Elektroninio pašto adresas, kuriuo reikia siųsti nuorodas."
 
-#: osha.policy:/missing_18n_labels.py:376
+#: osha.policy:/missing_18n_labels.py:378
 msgid "hour"
 msgstr "Valanda"
 
-#: osha.policy:/missing_18n_labels.py:377
+#: osha.policy:/missing_18n_labels.py:379
 msgid "id"
 msgstr "Id"
 
-#: osha.policy:/missing_18n_labels.py:378
+# Default "Romanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:38
+msgid "heading_main_fop_portlet_romania"
+msgstr "Rumunijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:380
 msgid "info_alert_searchagent"
 msgstr ""
 "Galite nurodyti paieškos užklausą objektams, kuriuos norite sekti. Kai jie "
 "bus pakeisti, jūs gausite pranešimą."
 
-#: osha.policy:/missing_18n_labels.py:379
+#: osha.policy:/missing_18n_labels.py:381
 msgid "info_feedback_message_checkbefore"
 msgstr ""
 "Prieš siųsdami klausimą, pažymėkite mūsų ${link1} ir ${link2} puslapius."
 
-# Default "Slovakian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:38
-msgid "heading_main_fop_portlet_slovakia"
-msgstr "Slovakijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:380
+#: osha.policy:/missing_18n_labels.py:382
 msgid "info_feedback_message_publications"
 msgstr ""
 "Visos Agentūros publikacijos yra ${link} . Mes neturime papildomos "
 "informacijos, išskyrus tą, kuri yra mūsų interneto svetainių tinkle.&quot;"
 
-#: osha.policy:/missing_18n_labels.py:381
+#: osha.policy:/missing_18n_labels.py:383
 msgid "info_feedback_message_writemessage"
 msgstr ""
 "Jūs galite rašyti mums bet kuria iš 20 oficialių ES kalbų, tačiau turėkite "
@@ -1883,530 +1984,627 @@ msgstr ""
 "šią kalbą moka visi Agentūros darbuotojai. Mes stengsimės atsakyti į Jūsų "
 "klausimus kuo greičiau."
 
-#: osha.policy:/missing_18n_labels.py:382
+#: osha.policy:/missing_18n_labels.py:384
 msgid "is"
 msgstr "yra"
 
-#: osha.policy:/missing_18n_labels.py:383
+#: osha.policy:/missing_18n_labels.py:385
 msgid "january"
 msgstr "Sausis"
 
-#: osha.policy:/missing_18n_labels.py:384
+#: osha.policy:/missing_18n_labels.py:386
 msgid "july"
 msgstr "Liepa"
 
-#: osha.policy:/missing_18n_labels.py:385
+#: osha.policy:/missing_18n_labels.py:387
 msgid "june"
 msgstr "Birželis"
 
-#: osha.policy:/missing_18n_labels.py:386
+#: osha.policy:/missing_18n_labels.py:388
 msgid "keywords"
 msgstr "Raktiniai žodžiai"
 
-#: osha.policy:/missing_18n_labels.py:387
+#: osha.policy:/missing_18n_labels.py:389
 msgid "label_add_to_calendar"
 msgstr "Įrasyti į kalendorių:"
 
-#: osha.policy:/missing_18n_labels.py:388
+# Default "Serbian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:39
+msgid "heading_main_fop_portlet_serbia"
+msgstr "Serbijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:390
 msgid "label_add_to_ical"
 msgstr "iCal"
 
-#: osha.policy:/missing_18n_labels.py:389
+#: osha.policy:/missing_18n_labels.py:391
 msgid "label_add_to_vcal"
 msgstr "vCal"
 
-# Default "Slovenian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:39
-msgid "heading_main_fop_portlet_slovenia"
-msgstr "Slovėnijos ryšių punktas"
-
 # Default "Albania"
-#: osha.policy:/missing_18n_labels.py:390
+#: osha.policy:/missing_18n_labels.py:392
 msgid "label_albania"
 msgstr "Albanija"
 
-#: osha.policy:/missing_18n_labels.py:391
+#: osha.policy:/missing_18n_labels.py:393
 msgid "label_alert_titlesearchquery"
 msgstr "Paieškos užklausos pavadinimas"
 
-#: osha.policy:/missing_18n_labels.py:392
+#: osha.policy:/missing_18n_labels.py:394
 msgid "label_all"
 msgstr "Visi"
 
 # Default "Austria"
-#: osha.policy:/missing_18n_labels.py:393
+#: osha.policy:/missing_18n_labels.py:395
 msgid "label_austria"
 msgstr "Austrija"
 
-#: osha.policy:/missing_18n_labels.py:394
+#: osha.policy:/missing_18n_labels.py:396
 msgid "label_author"
 msgstr "Autorius"
 
-#: osha.policy:/missing_18n_labels.py:395
+#: osha.policy:/missing_18n_labels.py:397
 msgid "label_avi"
 msgstr "AVI"
 
 # FOP Countries
 # Default "Belgium"
-#: osha.policy:/missing_18n_labels.py:396
+#: osha.policy:/missing_18n_labels.py:398
 msgid "label_belgium"
 msgstr "Belgija"
 
 # Default "Bosnia and Herzegovina"
-#: osha.policy:/missing_18n_labels.py:397
+#: osha.policy:/missing_18n_labels.py:399
 msgid "label_bosnia_and_herzegovina"
 msgstr "Bosnija ir Hercegovina"
 
-#: osha.policy:/missing_18n_labels.py:398
+# Default "Slovakian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:40
+msgid "heading_main_fop_portlet_slovakia"
+msgstr "Slovakijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:400
 msgid "label_broaden_search"
 msgstr "Išplėsti paiešką"
 
 # Default "Bulgaria"
-#: osha.policy:/missing_18n_labels.py:399
+#: osha.policy:/missing_18n_labels.py:401
 msgid "label_bulgaria"
 msgstr "Bulgarija"
 
-# Default "Spanish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:40
-msgid "heading_main_fop_portlet_spain"
-msgstr "Ispanijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:400
+#: osha.policy:/missing_18n_labels.py:402
 msgid "label_by"
 msgstr "pagal"
 
-#: osha.policy:/missing_18n_labels.py:401
+#: osha.policy:/missing_18n_labels.py:403
 msgid "label_category"
 msgstr "Kategorija"
 
-#: osha.policy:/missing_18n_labels.py:402
+#: osha.policy:/missing_18n_labels.py:404
 msgid "label_city"
 msgstr "Miestas"
 
-#: osha.policy:/missing_18n_labels.py:403
+#: osha.policy:/missing_18n_labels.py:405
 msgid "label_click_to_hide_full_text"
 msgstr "Spustelėkite čia, kad tekstas nebūtų rodomas"
 
-#: osha.policy:/missing_18n_labels.py:404
+#: osha.policy:/missing_18n_labels.py:406
 msgid "label_click_to_see_speeches_summary"
 msgstr "Spustelėkite čia, kad pamatytumėte visų pranesimų santrauką"
 
-#: osha.policy:/missing_18n_labels.py:405
+#: osha.policy:/missing_18n_labels.py:407
 msgid "label_click_to_show_full_text"
 msgstr "Spustelėkite čia, kad pamatytumėt visą tekstą"
 
-#: osha.policy:/missing_18n_labels.py:406
+#: osha.policy:/missing_18n_labels.py:408
 msgid "label_closed"
 msgstr "uždaryta"
 
-#: osha.policy:/missing_18n_labels.py:407
+#: osha.policy:/missing_18n_labels.py:409
 msgid "label_comment"
 msgstr "Pastaba"
 
-#: osha.policy:/missing_18n_labels.py:408
+# Default "Slovenian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:41
+msgid "heading_main_fop_portlet_slovenia"
+msgstr "Slovėnijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:410
 msgid "label_comments"
 msgstr "Pastabos"
 
 # Competitions
-#: osha.policy:/missing_18n_labels.py:409
+#: osha.policy:/missing_18n_labels.py:411
 msgid "label_competitions"
 msgstr "Konkursai"
 
-# Default "Swedish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:41
-msgid "heading_main_fop_portlet_sweden"
-msgstr "Švedijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:410
+#: osha.policy:/missing_18n_labels.py:412
 msgid "label_contact_email"
 msgstr "Elektroninis paštas kontaktams"
 
-#: osha.policy:/missing_18n_labels.py:411
+#: osha.policy:/missing_18n_labels.py:413
 msgid "label_contact_name"
 msgstr "Pavardė kontaktams"
 
-#: osha.policy:/missing_18n_labels.py:412
+#: osha.policy:/missing_18n_labels.py:414
 msgid "label_contact_phone"
 msgstr "Kontaktinis telefonas"
 
-#: osha.policy:/missing_18n_labels.py:413
+#: osha.policy:/missing_18n_labels.py:415
 msgid "label_contributors"
 msgstr "Bendradarbiai"
 
-#: osha.policy:/missing_18n_labels.py:414
+#: osha.policy:/missing_18n_labels.py:416
 msgid "label_copyrights"
 msgstr "Autorinės teisės"
 
-#: osha.policy:/missing_18n_labels.py:415
+#: osha.policy:/missing_18n_labels.py:417
 msgid "label_countries"
 msgstr "Šalys"
 
-#: osha.policy:/missing_18n_labels.py:416
+#: osha.policy:/missing_18n_labels.py:418
 msgid "label_creator"
 msgstr "Autorius"
 
 # Default "Croatia"
-#: osha.policy:/missing_18n_labels.py:417
+#: osha.policy:/missing_18n_labels.py:419
 msgid "label_croatia"
 msgstr "Kroatija"
 
-#: osha.policy:/missing_18n_labels.py:418
+# Default "Spanish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:42
+msgid "heading_main_fop_portlet_spain"
+msgstr "Ispanijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:420
 msgid "label_current_decision"
 msgstr "Dabartinis sprendimas"
 
 # Default "Cyprus"
-#: osha.policy:/missing_18n_labels.py:419
+#: osha.policy:/missing_18n_labels.py:421
 msgid "label_cyprus"
 msgstr "Kipras"
 
-# Default "Swiss Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:42
-msgid "heading_main_fop_portlet_switzerland"
-msgstr "Šveicarijos ryšių punktas"
-
 # Default "Czech Republic"
-#: osha.policy:/missing_18n_labels.py:420
+#: osha.policy:/missing_18n_labels.py:422
 msgid "label_czech_republic"
 msgstr "Čekija"
 
-#: osha.policy:/missing_18n_labels.py:421
+#: osha.policy:/missing_18n_labels.py:423
 msgid "label_date"
 msgstr "Data"
 
-#: osha.policy:/missing_18n_labels.py:422
+#: osha.policy:/missing_18n_labels.py:424
 msgid "label_default_language"
 msgstr "Numatytoji kalba"
 
 # Default "Denmark"
-#: osha.policy:/missing_18n_labels.py:423
+#: osha.policy:/missing_18n_labels.py:425
 msgid "label_denmark"
 msgstr "Danija"
 
 # Default "Estonia"
-#: osha.policy:/missing_18n_labels.py:424
+#: osha.policy:/missing_18n_labels.py:426
 msgid "label_estonia"
 msgstr "Estija"
 
-#: osha.policy:/missing_18n_labels.py:425
+#: osha.policy:/missing_18n_labels.py:427
 msgid "label_faq_answertext"
 msgstr "Pagrindinis atsakymo tekstas"
 
-#: osha.policy:/missing_18n_labels.py:426
+#: osha.policy:/missing_18n_labels.py:428
 msgid "label_faq_questiontext"
 msgstr "Pagrindinis klausimo tekstas"
 
-#: osha.policy:/missing_18n_labels.py:427
+#: osha.policy:/missing_18n_labels.py:429
 msgid "label_female"
 msgstr "moteriška"
 
+# Default "Swedish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:43
+msgid "heading_main_fop_portlet_sweden"
+msgstr "Švedijos ryšių punktas"
+
 # Default "Finland"
-#: osha.policy:/missing_18n_labels.py:428
+#: osha.policy:/missing_18n_labels.py:430
 msgid "label_finland"
 msgstr "Suomija"
 
 # # 1 more: ./OSHA/skins/osha/join_form.cpt
-#: osha.policy:/missing_18n_labels.py:429
+#: osha.policy:/missing_18n_labels.py:431
 msgid "label_first_name"
 msgstr "Vardas"
 
-# Default "Macedonian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:43
-msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
-msgstr "Makedonijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:430
+#: osha.policy:/missing_18n_labels.py:432
 msgid "label_firstname"
 msgstr "Vardas"
 
-#: osha.policy:/missing_18n_labels.py:431
+#: osha.policy:/missing_18n_labels.py:433
 msgid "label_focalpoint"
 msgstr "Ryšių punktas"
 
-#: osha.policy:/missing_18n_labels.py:432
+#: osha.policy:/missing_18n_labels.py:434
 msgid "label_folder_method"
 msgstr "Method ID"
 
 # Default "France"
-#: osha.policy:/missing_18n_labels.py:433
+#: osha.policy:/missing_18n_labels.py:435
 msgid "label_france"
 msgstr "Prancūzija"
 
-#: osha.policy:/missing_18n_labels.py:434
+#: osha.policy:/missing_18n_labels.py:436
 msgid "label_free_newsletter"
 msgstr "nemokamas naujienų laikraštis"
 
-#: osha.policy:/missing_18n_labels.py:435
+#: osha.policy:/missing_18n_labels.py:437
 msgid "label_full_name"
 msgstr "Vardas ir pavardė"
 
 # Default "Germany"
-#: osha.policy:/missing_18n_labels.py:436
+#: osha.policy:/missing_18n_labels.py:438
 msgid "label_germany"
 msgstr "Vokietija"
 
 # Default "Greece"
-#: osha.policy:/missing_18n_labels.py:437
+#: osha.policy:/missing_18n_labels.py:439
 msgid "label_greece"
 msgstr "Graikija"
 
-#: osha.policy:/missing_18n_labels.py:438
+# Default "Swiss Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:44
+msgid "heading_main_fop_portlet_switzerland"
+msgstr "Šveicarijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:440
 msgid "label_hidden"
 msgstr "paslėptas"
 
 # Default "Hungary"
-#: osha.policy:/missing_18n_labels.py:439
+#: osha.policy:/missing_18n_labels.py:441
 msgid "label_hungary"
 msgstr "Vengrija"
 
-# Default "Turkish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:44
-msgid "heading_main_fop_portlet_turkey"
-msgstr "Turkijos ryšių punktas"
-
 # Default "Iceland"
-#: osha.policy:/missing_18n_labels.py:440
+#: osha.policy:/missing_18n_labels.py:442
 msgid "label_iceland"
 msgstr "Islandija"
 
-#: osha.policy:/missing_18n_labels.py:441
+#: osha.policy:/missing_18n_labels.py:443
 msgid "label_include_subfolders"
 msgstr "Įtraukti pakatalogius"
 
 # Default "Ireland"
-#: osha.policy:/missing_18n_labels.py:442
+#: osha.policy:/missing_18n_labels.py:444
 msgid "label_ireland"
 msgstr "Airija"
 
 # Default "Italy"
-#: osha.policy:/missing_18n_labels.py:443
+#: osha.policy:/missing_18n_labels.py:445
 msgid "label_italy"
 msgstr "Italija"
 
-#: osha.policy:/missing_18n_labels.py:444
+#: osha.policy:/missing_18n_labels.py:446
 msgid "label_keywords"
 msgstr "Raktiniai žodžiai"
 
 # Default "Kosovo under UNSCR 1244/99"
-#: osha.policy:/missing_18n_labels.py:445
+#: osha.policy:/missing_18n_labels.py:447
 msgid "label_kosovo"
 msgstr "Kosovas pagal JT Saugumo Tarybos rezoliuciją Nr. 1244/99"
 
 # Default "Latvia"
-#: osha.policy:/missing_18n_labels.py:446
+#: osha.policy:/missing_18n_labels.py:448
 msgid "label_latvia"
 msgstr "Latvija"
 
 # Default "Liechtenstein"
-#: osha.policy:/missing_18n_labels.py:447
+#: osha.policy:/missing_18n_labels.py:449
 msgid "label_liechtenstein"
 msgstr "Lichtensteinas"
 
+# Default "Macedonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:45
+msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
+msgstr "Makedonijos ryšių punktas"
+
 # Default "Lithuania"
-#: osha.policy:/missing_18n_labels.py:448
+#: osha.policy:/missing_18n_labels.py:450
 msgid "label_lithuania"
 msgstr "Lietuva"
 
 # Default "Luxembourg"
-#: osha.policy:/missing_18n_labels.py:449
+#: osha.policy:/missing_18n_labels.py:451
 msgid "label_luxembourg"
 msgstr "Liuksemburgas"
 
-# Default "British Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:45
-msgid "heading_main_fop_portlet_united-kingdom"
-msgstr "Britanijos ryšių punktas"
-
 # Default "The former Yugoslav Republic of Macedonia"
-#: osha.policy:/missing_18n_labels.py:450
+#: osha.policy:/missing_18n_labels.py:452
 msgid "label_macedonia"
 msgstr "Buvusioji Jugoslavijos Respublika Makedonija"
 
-#: osha.policy:/missing_18n_labels.py:451
+#: osha.policy:/missing_18n_labels.py:453
 msgid "label_male"
 msgstr "Vyriška"
 
 # Default "Malta"
-#: osha.policy:/missing_18n_labels.py:452
+#: osha.policy:/missing_18n_labels.py:454
 msgid "label_malta"
 msgstr "Malta"
 
 # Default "Montenegro"
-#: osha.policy:/missing_18n_labels.py:453
+#: osha.policy:/missing_18n_labels.py:455
 msgid "label_montenegro"
 msgstr "Juodkalnija"
 
-#: osha.policy:/missing_18n_labels.py:454
+#: osha.policy:/missing_18n_labels.py:456
 msgid "label_more_seminars_link"
 msgstr "Rasti daugiau seminarų"
 
-#: osha.policy:/missing_18n_labels.py:455
+#: osha.policy:/missing_18n_labels.py:457
 msgid "label_my_user_name_is"
 msgstr "Mano vartotojo vardas yra"
 
 # # 1 more: ./plone_prefs/prefs_group_details.pt
-#: osha.policy:/missing_18n_labels.py:456
+#: osha.policy:/missing_18n_labels.py:458
 msgid "label_name"
 msgstr "Vardas"
 
 # Default "Netherlands"
-#: osha.policy:/missing_18n_labels.py:457
+#: osha.policy:/missing_18n_labels.py:459
 msgid "label_netherlands"
 msgstr "Nyderlandai"
 
-#: osha.policy:/missing_18n_labels.py:458
+# Default "Turkish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:46
+msgid "heading_main_fop_portlet_turkey"
+msgstr "Turkijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:460
 msgid "label_no_seminars_found"
 msgstr "Jūsų paieskos kriterijus atitinkančių seminarų nerasta"
 
 # Default "Norway"
-#: osha.policy:/missing_18n_labels.py:459
+#: osha.policy:/missing_18n_labels.py:461
 msgid "label_norway"
 msgstr "Norvegija"
 
-# Default "Back to the Focal Points overview"
-#: osha.policy:/missing_18n_labels.py:46
-msgid "label_back_to_fop_overview"
-msgstr "Grįžti į Ryšių punktu apžvalga"
-
-#: osha.policy:/missing_18n_labels.py:460
+#: osha.policy:/missing_18n_labels.py:462
 msgid "label_notifications"
 msgstr "Pranešimai"
 
-#: osha.policy:/missing_18n_labels.py:461
+#: osha.policy:/missing_18n_labels.py:463
 msgid "label_older_competitions"
 msgstr "Ankstesni konkursai"
 
-#: osha.policy:/missing_18n_labels.py:462
+#: osha.policy:/missing_18n_labels.py:464
 msgid "label_osha_searchcountries"
 msgstr "Patikslinkite paieškos parametrą &quot;šalys&quot;"
 
-#: osha.policy:/missing_18n_labels.py:463
+#: osha.policy:/missing_18n_labels.py:465
 msgid "label_osha_searchlanguages"
 msgstr "Patikslinkite paieškos parametrą &quot;kalbos&quot;"
 
-#: osha.policy:/missing_18n_labels.py:464
+#: osha.policy:/missing_18n_labels.py:466
 msgid "label_osha_support_email"
 msgstr "Pagalbos elektroniniu paštu adresas"
 
-#: osha.policy:/missing_18n_labels.py:465
+#: osha.policy:/missing_18n_labels.py:467
 msgid "label_osha_uploadsource"
 msgstr "Nusiųsti programos kodą"
 
 # Default "Poland"
-#: osha.policy:/missing_18n_labels.py:466
+#: osha.policy:/missing_18n_labels.py:468
 msgid "label_poland"
 msgstr "Lenkija"
 
 # Default "Portugal"
-#: osha.policy:/missing_18n_labels.py:467
+#: osha.policy:/missing_18n_labels.py:469
 msgid "label_portugal"
 msgstr "Portugalija"
 
-#: osha.policy:/missing_18n_labels.py:468
+# Default "British Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:47
+msgid "heading_main_fop_portlet_united-kingdom"
+msgstr "Britanijos ryšių punktas"
+
+#: osha.policy:/missing_18n_labels.py:470
 msgid "label_position"
 msgstr "Padėtis"
 
-#: osha.policy:/missing_18n_labels.py:469
+#: osha.policy:/missing_18n_labels.py:471
 msgid "label_prescribe"
 msgstr "priskirti"
 
-#: osha.policy:/missing_18n_labels.py:470
+#: osha.policy:/missing_18n_labels.py:472
 msgid "label_priority"
 msgstr "Prioritetas"
 
-#: osha.policy:/missing_18n_labels.py:471
+#: osha.policy:/missing_18n_labels.py:473
 msgid "label_process"
 msgstr "Darbų sekos tipas"
 
-#: osha.policy:/missing_18n_labels.py:472
+#: osha.policy:/missing_18n_labels.py:474
 msgid "label_process_description"
 msgstr "Proceso aprašymas"
 
 # # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
-#: osha.policy:/missing_18n_labels.py:473
+#: osha.policy:/missing_18n_labels.py:475
 msgid "label_process_title"
 msgstr "Proceso pavadinimas"
 
-#: osha.policy:/missing_18n_labels.py:474
+#: osha.policy:/missing_18n_labels.py:476
 msgid "label_profession"
 msgstr "Profesija"
 
-#: osha.policy:/missing_18n_labels.py:475
+#: osha.policy:/missing_18n_labels.py:477
 msgid "label_profile"
 msgstr "Profilis"
 
-#: osha.policy:/missing_18n_labels.py:476
+#: osha.policy:/missing_18n_labels.py:478
 msgid "label_projects"
 msgstr "Projektai"
 
 # # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
-#: osha.policy:/missing_18n_labels.py:477
+#: osha.policy:/missing_18n_labels.py:479
 msgid "label_publisher"
 msgstr "Leidėjas"
 
-#: osha.policy:/missing_18n_labels.py:478
+# Default "Back to the Focal Points overview"
+#: osha.policy:/missing_18n_labels.py:48
+msgid "label_back_to_fop_overview"
+msgstr "Grįžti į Ryšių punktu apžvalga"
+
+#: osha.policy:/missing_18n_labels.py:480
 msgid "label_publishing_effective"
 msgstr "galiojantis"
 
-#: osha.policy:/missing_18n_labels.py:479
+#: osha.policy:/missing_18n_labels.py:481
 msgid "label_purpose"
 msgstr "Aš noriu išsiųsti ..."
 
 # Default "Romania"
-#: osha.policy:/missing_18n_labels.py:480
+#: osha.policy:/missing_18n_labels.py:482
 msgid "label_romania"
 msgstr "Rumunija"
 
-#: osha.policy:/missing_18n_labels.py:481
+#: osha.policy:/missing_18n_labels.py:483
 msgid "label_sector"
 msgstr "Sektorius"
 
-#: osha.policy:/missing_18n_labels.py:482
+#: osha.policy:/missing_18n_labels.py:484
 msgid "label_see_also"
 msgstr "Taip pat žiūrėkite"
 
 # # 1 more: ./plone_templates/folder_contents.pt
-#: osha.policy:/missing_18n_labels.py:483
+#: osha.policy:/missing_18n_labels.py:485
 #: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
 #: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:651
 msgid "label_select"
 msgstr "Pasirinkti"
 
-#: osha.policy:/missing_18n_labels.py:484
+#: osha.policy:/missing_18n_labels.py:486
 msgid "label_send_from"
 msgstr "Iš"
 
-#: osha.policy:/missing_18n_labels.py:485
+#: osha.policy:/missing_18n_labels.py:487
 msgid "label_send_to_mail"
 msgstr "Siųsti į"
 
 # Default "Serbia"
-#: osha.policy:/missing_18n_labels.py:486
+#: osha.policy:/missing_18n_labels.py:488
 msgid "label_serbia"
 msgstr "Serbija"
 
 # # 1 more: ./plone_content/image_view.pt
-#: osha.policy:/missing_18n_labels.py:487
+#: osha.policy:/missing_18n_labels.py:489
 msgid "label_size"
 msgstr "Dydis"
 
 # Default "Slovakia"
-#: osha.policy:/missing_18n_labels.py:488
+#: osha.policy:/missing_18n_labels.py:490
 msgid "label_slovakia"
 msgstr "Slovakija"
 
 # Default "Slovenia"
-#: osha.policy:/missing_18n_labels.py:489
+#: osha.policy:/missing_18n_labels.py:491
 msgid "label_slovenia"
 msgstr "Slovėnija"
 
-#: osha.policy:/missing_18n_labels.py:49
+# Default "Spain"
+#: osha.policy:/missing_18n_labels.py:492
+msgid "label_spain"
+msgstr "Ispanija"
+
+#: osha.policy:/missing_18n_labels.py:493
+msgid "label_start_time"
+msgstr "Pradžios laikas"
+
+#: osha.policy:/missing_18n_labels.py:494
+msgid "label_surname"
+msgstr "Pavardė"
+
+# Default "Sweden"
+#: osha.policy:/missing_18n_labels.py:495
+msgid "label_sweden"
+msgstr "Svedija"
+
+# Default "Switzerland"
+#: osha.policy:/missing_18n_labels.py:496
+msgid "label_switzerland"
+msgstr "Sveicarija"
+
+#: osha.policy:/missing_18n_labels.py:497
+msgid "label_time"
+msgstr "Laikas"
+
+# # 6 more: ./plone_content/event_edit_form.cpt,
+# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
+# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
+# ./plone_forms/search_form.pt
+#: osha.policy:/missing_18n_labels.py:498
+msgid "label_title"
+msgstr "Pavadinimas"
+
+#: osha.policy:/missing_18n_labels.py:499
+msgid "label_topics_of_interest"
+msgstr "Dominančios temos"
+
+# Default "Turkey"
+#: osha.policy:/missing_18n_labels.py:500
+msgid "label_turkey"
+msgstr "Turkija"
+
+# # 1 more: ./plone_forms/folder_localrole_form.pt
+#: osha.policy:/missing_18n_labels.py:501
+msgid "label_type"
+msgstr "Tipas"
+
+# Default "United Kingdom"
+#: osha.policy:/missing_18n_labels.py:502
+msgid "label_united_kingdom"
+msgstr "Jungtinė Karalystė"
+
+#: osha.policy:/missing_18n_labels.py:503
+msgid "language"
+msgstr "Kalba"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:504
+msgid "language_help"
+msgstr "Pasirinkite savo kalbą."
+
+#: osha.policy:/missing_18n_labels.py:505
+msgid "legend_alert_searchquery"
+msgstr "Perspėjimų paieškos užklausa"
+
+#: osha.policy:/missing_18n_labels.py:506
+msgid "legend_profession"
+msgstr "Profesija"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: osha.policy:/missing_18n_labels.py:507
+msgid "legend_search_global"
+msgstr "Globalinė paieška"
+
+#: osha.policy:/missing_18n_labels.py:508
+msgid "link_address"
+msgstr "Nuorodos adresas:"
+
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+#: osha.policy:/missing_18n_labels.py:509
+msgid "link_breadcrumbs_home"
+msgstr "Į pagrindinį puslapį"
+
+#: osha.policy:/missing_18n_labels.py:51
 msgid "description_napo-015-safe-moves"
 msgstr ""
 "<p>Dėmesys skiriamas transportui darbo vietoje. Filmo centre yra šakinis "
@@ -2423,56 +2621,49 @@ msgstr ""
 "kooperatyvinio požiūrio, kad rizika būtų sumažinta, o pavojai tinkamai "
 "valdomi.</p>"
 
-# Default "Spain"
-#: osha.policy:/missing_18n_labels.py:490
-msgid "label_spain"
-msgstr "Ispanija"
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+#: osha.policy:/missing_18n_labels.py:510
+msgid "link_page_top"
+msgstr "Puslapio viršus"
 
-#: osha.policy:/missing_18n_labels.py:491
-msgid "label_start_time"
-msgstr "Pradžios laikas"
+#: osha.policy:/missing_18n_labels.py:511
+msgid "link_report_link"
+msgstr "praneškite apie neveikiančią nuorodą portalo grupei"
 
-#: osha.policy:/missing_18n_labels.py:492
-msgid "label_surname"
-msgstr "Pavardė"
+#: osha.policy:/missing_18n_labels.py:512
+msgid "list_portlet_personalise_1"
+msgstr "pasirinkta kalba"
 
-# Default "Sweden"
-#: osha.policy:/missing_18n_labels.py:493
-msgid "label_sweden"
-msgstr "Svedija"
+#: osha.policy:/missing_18n_labels.py:513
+msgid "list_portlet_personalise_2"
+msgstr "pasirinktų šalių"
 
-# Default "Switzerland"
-#: osha.policy:/missing_18n_labels.py:494
-msgid "label_switzerland"
-msgstr "Sveicarija"
+#: osha.policy:/missing_18n_labels.py:514
+msgid "list_portlet_personalise_3"
+msgstr "dalyvauti diskusijų forumuose"
 
-#: osha.policy:/missing_18n_labels.py:495
-msgid "label_time"
-msgstr "Laikas"
+#: osha.policy:/missing_18n_labels.py:515
+msgid "list_portlet_personalise_4"
+msgstr "mėgstamų temų atnaujintą informaciją"
 
-# # 6 more: ./plone_content/event_edit_form.cpt,
-# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
-# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
-# ./plone_forms/search_form.pt
-#: osha.policy:/missing_18n_labels.py:496
-msgid "label_title"
-msgstr "Pavadinimas"
+#: osha.policy:/missing_18n_labels.py:516
+msgid "listingheader_action"
+msgstr "Veiksmas"
 
-#: osha.policy:/missing_18n_labels.py:497
-msgid "label_topics_of_interest"
-msgstr "Dominančios temos"
+#: osha.policy:/missing_18n_labels.py:517
+msgid "listingheader_articles"
+msgstr "Straipsniai"
 
-# Default "Turkey"
-#: osha.policy:/missing_18n_labels.py:498
-msgid "label_turkey"
-msgstr "Turkija"
+#: osha.policy:/missing_18n_labels.py:518
+msgid "listingheader_articlesandreplies"
+msgstr "Straipsniai"
 
-# # 1 more: ./plone_forms/folder_localrole_form.pt
-#: osha.policy:/missing_18n_labels.py:499
-msgid "label_type"
-msgstr "Tipas"
+#: osha.policy:/missing_18n_labels.py:519
+msgid "listingheader_author"
+msgstr "Autorius"
 
-#: osha.policy:/missing_18n_labels.py:50
+#: osha.policy:/missing_18n_labels.py:52
 msgid "description_napo-016-lungs-at-work"
 msgstr ""
 "Tabako dūmai kenkia ir rūkančiųjų, ir nerūkančiųjų sveikatai. Jie gali "
@@ -2483,53 +2674,50 @@ msgstr ""
 "siužete parodoma, ką daro Napas, kad darbo vietose netektų kvėpuoti tabako "
 "dūmais."
 
-# Default "United Kingdom"
-#: osha.policy:/missing_18n_labels.py:500
-msgid "label_united_kingdom"
-msgstr "Jungtinė Karalystė"
+#: osha.policy:/missing_18n_labels.py:520
+msgid "listingheader_comment"
+msgstr "Pastaba"
 
-#: osha.policy:/missing_18n_labels.py:501
-msgid "language"
-msgstr "Kalba"
+# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
+#: osha.policy:/missing_18n_labels.py:521
+msgid "listingheader_date"
+msgstr "Data"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:502
-msgid "language_help"
-msgstr "Pasirinkite savo kalbą."
+#: osha.policy:/missing_18n_labels.py:522
+msgid "listingheader_date_and_time"
+msgstr "Data ir laikas"
 
-#: osha.policy:/missing_18n_labels.py:503
-msgid "legend_alert_searchquery"
-msgstr "Perspėjimų paieškos užklausa"
+# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
+#: osha.policy:/missing_18n_labels.py:523
+msgid "listingheader_latestchanges"
+msgstr "Paskutiniai pakeitimai"
 
-#: osha.policy:/missing_18n_labels.py:504
-msgid "legend_profession"
-msgstr "Profesija"
+# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
+#: osha.policy:/missing_18n_labels.py:524
+msgid "listingheader_name"
+msgstr "Pavardė"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
-#: osha.policy:/missing_18n_labels.py:505
-msgid "legend_search_global"
-msgstr "Globalinė paieška"
+#: osha.policy:/missing_18n_labels.py:525
+msgid "listingheader_newsletter_sentby"
+msgstr "Išsiuntė"
 
-#: osha.policy:/missing_18n_labels.py:506
-msgid "link_address"
-msgstr "Nuorodos adresas:"
+#: osha.policy:/missing_18n_labels.py:526
+msgid "listingheader_newsletter_senton"
+msgstr "Išsiųsta"
 
-# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
-#: osha.policy:/missing_18n_labels.py:507
-msgid "link_breadcrumbs_home"
-msgstr "Į pagrindinį puslapį"
+#: osha.policy:/missing_18n_labels.py:527
+msgid "listingheader_order"
+msgstr "Užsakymas"
 
-# # 1 more:
-# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
-#: osha.policy:/missing_18n_labels.py:508
-msgid "link_page_top"
-msgstr "Puslapio viršus"
+#: osha.policy:/missing_18n_labels.py:528
+msgid "listingheader_owner"
+msgstr "Savininkas"
 
-#: osha.policy:/missing_18n_labels.py:509
-msgid "link_report_link"
-msgstr "praneškite apie neveikiančią nuorodą portalo grupei"
+#: osha.policy:/missing_18n_labels.py:529
+msgid "listingheader_performed_by"
+msgstr "Atliko"
 
-#: osha.policy:/missing_18n_labels.py:51
+#: osha.policy:/missing_18n_labels.py:53
 msgid "description_napo-017-working-together"
 msgstr ""
 "Viskas ne taip gražu, kaip kalba fabriko savininkė pasakodama žiniasklaidai "
@@ -2551,48 +2739,48 @@ msgstr ""
 "bendrauja tarpusavyje, vieni kitiems išsako susirūpinimą keliančius "
 "klausimus, sprendžia problemas, dalinasi nuomonėmis ir informacija."
 
-#: osha.policy:/missing_18n_labels.py:510
-msgid "list_portlet_personalise_1"
-msgstr "pasirinkta kalba"
+#: osha.policy:/missing_18n_labels.py:530
+msgid "listingheader_priority"
+msgstr "Prioritetas"
 
-#: osha.policy:/missing_18n_labels.py:511
-msgid "list_portlet_personalise_2"
-msgstr "pasirinktų šalių"
+#: osha.policy:/missing_18n_labels.py:531
+msgid "listingheader_replies"
+msgstr "Atsiliepimai"
 
-#: osha.policy:/missing_18n_labels.py:512
-msgid "list_portlet_personalise_3"
-msgstr "dalyvauti diskusijų forumuose"
+#: osha.policy:/missing_18n_labels.py:532
+msgid "listingheader_status"
+msgstr "Būsena"
 
-#: osha.policy:/missing_18n_labels.py:513
-msgid "list_portlet_personalise_4"
-msgstr "mėgstamų temų atnaujintą informaciją"
+#: osha.policy:/missing_18n_labels.py:533
+msgid "listingheader_title"
+msgstr "Pavadinimas"
 
-#: osha.policy:/missing_18n_labels.py:514
-msgid "listingheader_action"
-msgstr "Veiksmas"
+#: osha.policy:/missing_18n_labels.py:534
+msgid "listingheader_type"
+msgstr "Tipas"
 
-#: osha.policy:/missing_18n_labels.py:515
-msgid "listingheader_articles"
-msgstr "Straipsniai"
+#: osha.policy:/missing_18n_labels.py:535
+msgid "locked"
+msgstr "užblokuota"
 
-#: osha.policy:/missing_18n_labels.py:516
-msgid "listingheader_articlesandreplies"
-msgstr "Straipsniai"
+#: osha.policy:/missing_18n_labels.py:536
+msgid "march"
+msgstr "Kovas"
 
-#: osha.policy:/missing_18n_labels.py:517
-msgid "listingheader_author"
-msgstr "Autorius"
+#: osha.policy:/missing_18n_labels.py:537
+msgid "may"
+msgstr "Gegužė"
 
-#: osha.policy:/missing_18n_labels.py:518
-msgid "listingheader_comment"
-msgstr "Pastaba"
+#: osha.policy:/missing_18n_labels.py:538
+msgid "minute"
+msgstr "Minutė"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
-#: osha.policy:/missing_18n_labels.py:519
-msgid "listingheader_date"
-msgstr "Data"
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:539
+msgid "month"
+msgstr "Mėnuo"
 
-#: osha.policy:/missing_18n_labels.py:52
+#: osha.policy:/missing_18n_labels.py:54
 msgid "description_napo_film_1"
 msgstr ""
 "Pirmame filme apie Napą supažindinama su pagrindiniais sveikatos ir saugos "
@@ -2613,49 +2801,49 @@ msgstr ""
 "nebūtų atsižvelgiama į ženklus, ir parodomi techninio bei organizacinio "
 "pobūdžio nesklandumai, kurie trukdo veiksmingai panaudoti tuos ženklus."
 
-#: osha.policy:/missing_18n_labels.py:520
-msgid "listingheader_date_and_time"
-msgstr "Data ir laikas"
+#: osha.policy:/missing_18n_labels.py:540
+msgid "monthly"
+msgstr "mėnesinis"
 
-# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
-#: osha.policy:/missing_18n_labels.py:521
-msgid "listingheader_latestchanges"
-msgstr "Paskutiniai pakeitimai"
+#: osha.policy:/missing_18n_labels.py:541
+msgid "needed"
+msgstr "reikalingas"
 
-# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
-#: osha.policy:/missing_18n_labels.py:522
-msgid "listingheader_name"
-msgstr "Pavardė"
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
+#: osha.policy:/missing_18n_labels.py:542
+msgid "news_by"
+msgstr "per"
 
-#: osha.policy:/missing_18n_labels.py:523
-msgid "listingheader_newsletter_sentby"
-msgstr "Išsiuntė"
+#: osha.policy:/missing_18n_labels.py:543
+msgid "next"
+msgstr "kitas"
 
-#: osha.policy:/missing_18n_labels.py:524
-msgid "listingheader_newsletter_senton"
-msgstr "Išsiųsta"
+#: osha.policy:/missing_18n_labels.py:544
+msgid "no_alerts"
+msgstr "Jūs neužregistravote jokių perspėjimų."
 
-#: osha.policy:/missing_18n_labels.py:525
-msgid "listingheader_order"
-msgstr "Užsakymas"
+#: osha.policy:/missing_18n_labels.py:545
+msgid "no_subject"
+msgstr "[Nėra subjekto]"
 
-#: osha.policy:/missing_18n_labels.py:526
-msgid "listingheader_owner"
-msgstr "Savininkas"
+#: osha.policy:/missing_18n_labels.py:546
+msgid "not allowed"
+msgstr "neleidžiama"
 
-#: osha.policy:/missing_18n_labels.py:527
-msgid "listingheader_performed_by"
-msgstr "Atliko"
+#: osha.policy:/missing_18n_labels.py:547
+msgid "notification_email"
+msgstr "Elekroninio pašto pranešimas"
 
-#: osha.policy:/missing_18n_labels.py:528
-msgid "listingheader_priority"
-msgstr "Prioritetas"
+#: osha.policy:/missing_18n_labels.py:548
+msgid "november"
+msgstr "Lapkritis"
 
-#: osha.policy:/missing_18n_labels.py:529
-msgid "listingheader_replies"
-msgstr "Atsiliepimai"
+#: osha.policy:/missing_18n_labels.py:549
+msgid "october"
+msgstr "Spalis"
 
-#: osha.policy:/missing_18n_labels.py:53
+#: osha.policy:/missing_18n_labels.py:55
 msgid "description_napo_film_11"
 msgstr ""
 "<p>Filmuke pasakojama pavyzdinio darbininko Napo istorija. Tačiau vos baigęs "
@@ -2672,48 +2860,48 @@ msgstr ""
 "priemone, aiškinančia, kaip sumažinti darbuotojų praleidžiamų darbo dienų "
 "skaičių.</p>"
 
-#: osha.policy:/missing_18n_labels.py:530
-msgid "listingheader_status"
-msgstr "Būsena"
+#: osha.policy:/missing_18n_labels.py:550
+msgid "osha_description_pressbox_pressreleases"
+msgstr "These are our press releases:"
 
-#: osha.policy:/missing_18n_labels.py:531
-msgid "listingheader_title"
-msgstr "Pavadinimas"
+#: osha.policy:/missing_18n_labels.py:551
+msgid "osha_discovernetwork_info"
+msgstr "Susipažinkite su mūsų Europos ir tarptautiniais partneriais"
 
-#: osha.policy:/missing_18n_labels.py:532
-msgid "listingheader_type"
-msgstr "Tipas"
+#: osha.policy:/missing_18n_labels.py:552
+msgid "osha_informationportlet_link"
+msgstr "Jūs kreipėtės į Darbuotojų saugos ir sveikatos "
 
-#: osha.policy:/missing_18n_labels.py:533
-msgid "locked"
-msgstr "užblokuota"
+# Press Room
+#: osha.policy:/missing_18n_labels.py:554
+msgid "osha_label_press_room"
+msgstr "Spaudos puslapis"
 
-#: osha.policy:/missing_18n_labels.py:534
-msgid "march"
-msgstr "Kovas"
+#: osha.policy:/missing_18n_labels.py:555
+msgid "osha_networkportlet_info"
+msgstr ""
+"Mūsų tinklas apima interneto svetaines visame pasaulyje, pateikiančias "
+"valstybinę ir organizacijų paruoštą informaciją DSS klausimais"
 
-#: osha.policy:/missing_18n_labels.py:535
-msgid "may"
-msgstr "Gegužė"
+#: osha.policy:/missing_18n_labels.py:556
+msgid "osha_networkportlet_link"
+msgstr "Rodyti partnerių interneto svetaines"
 
-#: osha.policy:/missing_18n_labels.py:536
-msgid "minute"
-msgstr "Minutė"
+#: osha.policy:/missing_18n_labels.py:557
+msgid "oshmail_header_subscribe"
+msgstr "užsisakyti OSHmail"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:537
-msgid "month"
-msgstr "Mėnuo"
+#: osha.policy:/missing_18n_labels.py:558
+msgid "oshmail_header_unsubscribe"
+msgstr "atsisakyti OSHmail"
 
-#: osha.policy:/missing_18n_labels.py:538
-msgid "monthly"
-msgstr "mėnesinis"
+#: osha.policy:/missing_18n_labels.py:559
+msgid "oshmail_intro_every_month"
+msgstr ""
+"Kiekvieną mėnesį ${oshmail} praneša apie naujausius įvykius darbuotojų "
+"saugos ir sveikatos srityje; pateikiama ši informacija:"
 
-#: osha.policy:/missing_18n_labels.py:539
-msgid "needed"
-msgstr "reikalingas"
-
-#: osha.policy:/missing_18n_labels.py:54
+#: osha.policy:/missing_18n_labels.py:56
 msgid "description_napo_film_12"
 msgstr ""
 "<p>Šis filmas yra pakeista 2003 m. sukurto filmuko‘„Įkvepiu ir liečiu –"
@@ -2736,49 +2924,51 @@ msgstr ""
 "matome, kaip negalima elgtis ir kokios rimtos yra tokio elgesio pasekmės, ir "
 "kaip reikia elgtis laikantis saugos nurodymų. </p>"
 
-# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
-# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
-#: osha.policy:/missing_18n_labels.py:540
-msgid "news_by"
-msgstr "per"
+#: osha.policy:/missing_18n_labels.py:560
+msgid "oshmail_intro_welcome"
+msgstr ""
+"Sveiki apsilankę ${oshmail} skiltyje – Europos darbuotojų sveikatos ir "
+"saugos agentūros rengiamų elektroninių informacinių biuletenių skyrelyje."
 
-#: osha.policy:/missing_18n_labels.py:541
-msgid "next"
-msgstr "kitas"
+#: osha.policy:/missing_18n_labels.py:561
+msgid "oshmail_label_enter_emaiL"
+msgstr "čia įveskite el. pašto adresą"
 
-#: osha.policy:/missing_18n_labels.py:542
-msgid "no_alerts"
-msgstr "Jūs neužregistravote jokių perspėjimų."
+#: osha.policy:/missing_18n_labels.py:562
+msgid "oshmail_list_1"
+msgstr "naujausios saugos ir sveikatos žinios iš viso pasaulio;"
 
-#: osha.policy:/missing_18n_labels.py:543
-msgid "no_subject"
-msgstr "[Nėra subjekto]"
+#: osha.policy:/missing_18n_labels.py:563
+msgid "oshmail_list_3"
+msgstr ""
+"naujausia informacija apie Agentūros organizuojamas kampanijas ir kitą "
+"veiklą;"
 
-#: osha.policy:/missing_18n_labels.py:544
-msgid "not allowed"
-msgstr "neleidžiama"
+#: osha.policy:/missing_18n_labels.py:564
+msgid "oshmail_list_4"
+msgstr "būsimi renginiai;"
 
-#: osha.policy:/missing_18n_labels.py:545
-msgid "notification_email"
-msgstr "Elekroninio pašto pranešimas"
+#: osha.policy:/missing_18n_labels.py:565
+msgid "oshmail_list_5"
+msgstr "naujausi Agentūros leidiniai;"
 
-#: osha.policy:/missing_18n_labels.py:546
-msgid "november"
-msgstr "Lapkritis"
+#: osha.policy:/missing_18n_labels.py:566
+msgid "oshmail_list_6"
+msgstr "naujausi ES teisės aktai;"
 
-#: osha.policy:/missing_18n_labels.py:547
-msgid "october"
-msgstr "Spalis"
+#: osha.policy:/missing_18n_labels.py:567
+msgid "oshmail_list_7"
+msgstr "visa tai pateikiama 24 kalbomis."
 
-#: osha.policy:/missing_18n_labels.py:548
-msgid "osha_description_pressbox_pressreleases"
-msgstr "These are our press releases:"
+#: osha.policy:/missing_18n_labels.py:568
+msgid "portlet_campaign_ew2007_title"
+msgstr "EUROPOS KAULŲ 2007"
 
-#: osha.policy:/missing_18n_labels.py:549
-msgid "osha_discovernetwork_info"
-msgstr "Susipažinkite su mūsų Europos ir tarptautiniais partneriais"
+#: osha.policy:/missing_18n_labels.py:569
+msgid "portlet_campaign_hwi_text"
+msgstr "Naudinga Jums – naudinga įmonei"
 
-#: osha.policy:/missing_18n_labels.py:55
+#: osha.policy:/missing_18n_labels.py:57
 msgid "description_napo_film_13"
 msgstr ""
 "<p>Filme atkreipiamas dėmesys į kenksmingų (o kartais ir ne taip kenksmingų) "
@@ -2801,50 +2991,50 @@ msgstr ""
 "rekomenduoja reguliariai pasitikrinti sveikatą, pasirodžius pirmiesiems odos "
 "problemų požymiams.</p>"
 
-#: osha.policy:/missing_18n_labels.py:550
-msgid "osha_informationportlet_link"
-msgstr "Jūs kreipėtės į Darbuotojų saugos ir sveikatos "
+#: osha.policy:/missing_18n_labels.py:570
+msgid "portlet_campaign_hwi_title"
+msgstr "Sveikų darbo vietų iniciatyva"
 
-# Press Room
-#: osha.policy:/missing_18n_labels.py:552
-msgid "osha_label_press_room"
-msgstr "Spaudos puslapis"
+#: osha.policy:/missing_18n_labels.py:571
+msgid "portlet_oshmail_email"
+msgstr "elektroninio pašto adresas"
 
-#: osha.policy:/missing_18n_labels.py:553
-msgid "osha_networkportlet_info"
-msgstr ""
-"Mūsų tinklas apima interneto svetaines visame pasaulyje, pateikiančias "
-"valstybinę ir organizacijų paruoštą informaciją DSS klausimais"
+#: osha.policy:/missing_18n_labels.py:572
+msgid "portlet_oshsearch_advanced"
+msgstr "Išplėstinė paieška"
 
-#: osha.policy:/missing_18n_labels.py:554
-msgid "osha_networkportlet_link"
-msgstr "Rodyti partnerių interneto svetaines"
+# Anticipating Change
+#: osha.policy:/missing_18n_labels.py:573
+msgid "portlet_riskob_text"
+msgstr "Numatyti pokyčius!"
 
-#: osha.policy:/missing_18n_labels.py:555
-msgid "oshmail_header_subscribe"
-msgstr "užsisakyti OSHmail"
+#: osha.policy:/missing_18n_labels.py:574
+msgid "results_by_author"
+msgstr " ${author} , ${date}"
 
-#: osha.policy:/missing_18n_labels.py:556
-msgid "oshmail_header_unsubscribe"
-msgstr "atsisakyti OSHmail"
+#: osha.policy:/missing_18n_labels.py:575
+msgid "role_equivalence"
+msgstr "Lygiavertės rolės"
 
-#: osha.policy:/missing_18n_labels.py:557
-msgid "oshmail_intro_every_month"
-msgstr ""
-"Kiekvieną mėnesį ${oshmail} praneša apie naujausius įvykius darbuotojų "
-"saugos ir sveikatos srityje; pateikiama ši informacija:"
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+#: osha.policy:/missing_18n_labels.py:576
+msgid "schedule"
+msgstr "Grafikas"
 
-#: osha.policy:/missing_18n_labels.py:558
-msgid "oshmail_intro_welcome"
-msgstr ""
-"Sveiki apsilankę ${oshmail} skiltyje – Europos darbuotojų sveikatos ir "
-"saugos agentūros rengiamų elektroninių informacinių biuletenių skyrelyje."
+#: osha.policy:/missing_18n_labels.py:577
+msgid "search_criteria"
+msgstr "Paieškos kriterijai"
 
-#: osha.policy:/missing_18n_labels.py:559
-msgid "oshmail_label_enter_emaiL"
-msgstr "čia įveskite el. pašto adresą"
+#: osha.policy:/missing_18n_labels.py:578
+msgid "search_date"
+msgstr "Data"
 
-#: osha.policy:/missing_18n_labels.py:56
+#: osha.policy:/missing_18n_labels.py:579
+msgid "search_in"
+msgstr "Ieškoti"
+
+#: osha.policy:/missing_18n_labels.py:58
 msgid "description_napo_film_14"
 msgstr ""
 "<p>Prasti techninės priežiūros standartai yra pagrindinė nelaimingų "
@@ -2860,49 +3050,49 @@ msgstr ""
 "sektoriams ir visiems darbuotojams, jo tikslas – skatinti gerą praktiką ir "
 "atkreipti dėmesį į saugios techninės priežiūros svarbą.</p>"
 
-#: osha.policy:/missing_18n_labels.py:560
-msgid "oshmail_list_1"
-msgstr "naujausios saugos ir sveikatos žinios iš viso pasaulio;"
+#: osha.policy:/missing_18n_labels.py:580
+msgid "search_in_folder"
+msgstr "Kataloge"
 
-#: osha.policy:/missing_18n_labels.py:561
-msgid "oshmail_list_3"
+#: osha.policy:/missing_18n_labels.py:581
+msgid "search_link"
+msgstr "Paieška"
+
+#: osha.policy:/missing_18n_labels.py:582
+msgid "search_results_advanced"
 msgstr ""
-"naujausia informacija apie Agentūros organizuojamas kampanijas ir kitą "
-"veiklą;"
+"Ar radote ko ieškojote? Pabandykite pasinaudoti ${sudėtingesne_paieška, "
+"nustatę tikslesnes paieškos sąlygas."
 
-#: osha.policy:/missing_18n_labels.py:562
-msgid "oshmail_list_4"
-msgstr "būsimi renginiai;"
+#: osha.policy:/missing_18n_labels.py:583
+msgid "search_term"
+msgstr "Paieškos sąlyga"
 
-#: osha.policy:/missing_18n_labels.py:563
-msgid "oshmail_list_5"
-msgstr "naujausi Agentūros leidiniai;"
+#: osha.policy:/missing_18n_labels.py:584
+msgid "searchresults"
+msgstr "Paieškos rezultatai"
 
-#: osha.policy:/missing_18n_labels.py:564
-msgid "oshmail_list_6"
-msgstr "naujausi ES teisės aktai;"
+#: osha.policy:/missing_18n_labels.py:585
+msgid "september"
+msgstr "Rugsėjis"
 
-#: osha.policy:/missing_18n_labels.py:565
-msgid "oshmail_list_7"
-msgstr "visa tai pateikiama 24 kalbomis."
+#: osha.policy:/missing_18n_labels.py:586
+msgid "show next day"
+msgstr "rodyti kitą dieną"
 
-#: osha.policy:/missing_18n_labels.py:566
-msgid "portlet_campaign_ew2007_title"
-msgstr "EUROPOS KAULŲ 2007"
+#: osha.policy:/missing_18n_labels.py:587
+msgid "show next month"
+msgstr "rodyti kitą mėnesį"
 
-#: osha.policy:/missing_18n_labels.py:567
-msgid "portlet_campaign_hwi_text"
-msgstr "Naudinga Jums – naudinga įmonei"
+#: osha.policy:/missing_18n_labels.py:588
+msgid "show next week"
+msgstr "rodyti kitą savaitę"
 
-#: osha.policy:/missing_18n_labels.py:568
-msgid "portlet_campaign_hwi_title"
-msgstr "Sveikų darbo vietų iniciatyva"
+#: osha.policy:/missing_18n_labels.py:589
+msgid "show next year"
+msgstr "rodyti kitus metus"
 
-#: osha.policy:/missing_18n_labels.py:569
-msgid "portlet_oshmail_email"
-msgstr "elektroninio pašto adresas"
-
-#: osha.policy:/missing_18n_labels.py:57
+#: osha.policy:/missing_18n_labels.py:59
 msgid "description_napo_film_2"
 msgstr ""
 "Filme aptariamos bendrojo pobūdžio rizikos, kuri kyla darbo vietoje, rūšys "
@@ -2922,50 +3112,47 @@ msgstr ""
 "privalomos ir tinkamiausios pakuotės naudojimą, kelio trumpinimo vengimą ir "
 "į reikalavimą, kad darbo įrangą naudotų tinkamai parengti darbuotojai."
 
-#: osha.policy:/missing_18n_labels.py:570
-msgid "portlet_oshsearch_advanced"
-msgstr "Išplėstinė paieška"
+#: osha.policy:/missing_18n_labels.py:590
+msgid "show previous day"
+msgstr "rodyti ankstesnę dieną"
 
-# Anticipating Change
-#: osha.policy:/missing_18n_labels.py:571
-msgid "portlet_riskob_text"
-msgstr "Numatyti pokyčius!"
+#: osha.policy:/missing_18n_labels.py:591
+msgid "show previous month"
+msgstr "rodyti ankstesnį mėnesį"
 
-#: osha.policy:/missing_18n_labels.py:572
-msgid "results_by_author"
-msgstr " ${author} , ${date}"
+#: osha.policy:/missing_18n_labels.py:592
+msgid "show previous week"
+msgstr "rodyti ankstesnę savaitę"
 
-#: osha.policy:/missing_18n_labels.py:573
-msgid "role_equivalence"
-msgstr "Lygiavertės rolės"
+#: osha.policy:/missing_18n_labels.py:593
+msgid "show previous year"
+msgstr "rodyti ankstesnius metus"
 
-# # 1 more:
-# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
-#: osha.policy:/missing_18n_labels.py:574
-msgid "schedule"
-msgstr "Grafikas"
+#: osha.policy:/missing_18n_labels.py:594
+msgid "sign the charter"
+msgstr "pasirašykite chartiją"
 
-#: osha.policy:/missing_18n_labels.py:575
-msgid "search_criteria"
-msgstr "Paieškos kriterijai"
+#: osha.policy:/missing_18n_labels.py:595
+msgid "since"
+msgstr "Nuo"
 
-#: osha.policy:/missing_18n_labels.py:576
-msgid "search_date"
-msgstr "Data"
+#: osha.policy:/missing_18n_labels.py:596
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Europos kampanija, skirta saugiai techninei priežiūrai"
 
-#: osha.policy:/missing_18n_labels.py:577
-msgid "search_in"
-msgstr "Ieškoti"
+#: osha.policy:/missing_18n_labels.py:597
+msgid "source"
+msgstr "pradinis tekstas"
 
-#: osha.policy:/missing_18n_labels.py:578
-msgid "search_in_folder"
-msgstr "Kataloge"
+#: osha.policy:/missing_18n_labels.py:598
+msgid "subheading_portlet_contents"
+msgstr "Informacinio modulio turinys"
 
-#: osha.policy:/missing_18n_labels.py:579
-msgid "search_link"
-msgstr "Paieška"
+#: osha.policy:/missing_18n_labels.py:599
+msgid "subheading_portlet_representation"
+msgstr "Informacinio modulio lango pavaizdavimas"
 
-#: osha.policy:/missing_18n_labels.py:58
+#: osha.policy:/missing_18n_labels.py:60
 msgid "description_napo_film_3"
 msgstr ""
 "Napas vaidina keliuose trumpuose siužetuose, kuriuose jis dirba su "
@@ -2981,49 +3168,50 @@ msgstr ""
 "medžiagos naudojamos pagal reikalavimus. Filme parodomi šeši iš devynių "
 "saugos simbolių ir trumpai apibūdinama sprogstamųjų medžiagų keliama rizika."
 
-#: osha.policy:/missing_18n_labels.py:580
-msgid "search_results_advanced"
+#: osha.policy:/missing_18n_labels.py:600
+msgid "subject"
+msgstr "Subjektas"
+
+#: osha.policy:/missing_18n_labels.py:601
+msgid "subscribe_to_oshmail_long"
 msgstr ""
-"Ar radote ko ieškojote? Pabandykite pasinaudoti ${sudėtingesne_paieška, "
-"nustatę tikslesnes paieškos sąlygas."
+"Sužinokite apie naujausius įvykius darbuotojų saugos ir sveikatos srityje. "
+"${Subscribe} dabar ir kas mėnesį gaukite naujausias žinias."
 
-#: osha.policy:/missing_18n_labels.py:581
-msgid "search_term"
-msgstr "Paieškos sąlyga"
+# # 1 more: ./plone_templates/global_pathbar.pt
+#: osha.policy:/missing_18n_labels.py:602
+msgid "tabs_home"
+msgstr "Į pagrindinį puslapį"
 
-#: osha.policy:/missing_18n_labels.py:582
-msgid "searchresults"
-msgstr "Paieškos rezultatai"
+#: osha.policy:/missing_18n_labels.py:603
+msgid "title"
+msgstr "Pavadinimas"
 
-#: osha.policy:/missing_18n_labels.py:583
-msgid "september"
-msgstr "Rugsėjis"
+#: osha.policy:/missing_18n_labels.py:604
+msgid "title_add_to_ical"
+msgstr "Įrasyti sį renginį į savo kalendorių iCal"
 
-#: osha.policy:/missing_18n_labels.py:584
-msgid "show next day"
-msgstr "rodyti kitą dieną"
+#: osha.policy:/missing_18n_labels.py:605
+msgid "title_add_to_vcal"
+msgstr "Įrasyti sį renginį į savo kalendorių vCal"
 
-#: osha.policy:/missing_18n_labels.py:585
-msgid "show next month"
-msgstr "rodyti kitą mėnesį"
+#: osha.policy:/missing_18n_labels.py:606
+msgid "title_agency"
+msgstr "Europos darbuotojų<br />saugos ir sveikatos<br />agentūra"
 
-#: osha.policy:/missing_18n_labels.py:586
-msgid "show next week"
-msgstr "rodyti kitą savaitę"
+#: osha.policy:/missing_18n_labels.py:607
+msgid "title_campaign_beinformed"
+msgstr "Informacija šiomis temomis"
 
-#: osha.policy:/missing_18n_labels.py:587
-msgid "show next year"
-msgstr "rodyti kitus metus"
+#: osha.policy:/missing_18n_labels.py:608
+msgid "title_speaker"
+msgstr "Pranesėjas"
 
-#: osha.policy:/missing_18n_labels.py:588
-msgid "show previous day"
-msgstr "rodyti ankstesnę dieną"
+#: osha.policy:/missing_18n_labels.py:609
+msgid "to"
+msgstr "Į"
 
-#: osha.policy:/missing_18n_labels.py:589
-msgid "show previous month"
-msgstr "rodyti ankstesnį mėnesį"
-
-#: osha.policy:/missing_18n_labels.py:59
+#: osha.policy:/missing_18n_labels.py:61
 msgid "description_napo_film_4"
 msgstr ""
 "Napas dirba statybos aikštelėje ir filme parodoma keletas statybos "
@@ -3041,49 +3229,28 @@ msgstr ""
 "iš aukščio, kliūčių ruožas, nugaros skausmas, vežimo maršrutų parinkimas, "
 "higienos reikalavimai ir sauga statybos aikštelėje."
 
-#: osha.policy:/missing_18n_labels.py:590
-msgid "show previous week"
-msgstr "rodyti ankstesnę savaitę"
+#: osha.policy:/missing_18n_labels.py:610
+msgid "total_messages"
+msgstr "Žinučių skaičius"
 
-#: osha.policy:/missing_18n_labels.py:591
-msgid "show previous year"
-msgstr "rodyti ankstesnius metus"
+#: osha.policy:/missing_18n_labels.py:611
+msgid "type your query"
+msgstr "įveskite savo užklausą"
 
-#: osha.policy:/missing_18n_labels.py:592
-msgid "sign the charter"
-msgstr "pasirašykite chartiją"
+#: osha.policy:/missing_18n_labels.py:612
+msgid "visible"
+msgstr "matomas"
 
-#: osha.policy:/missing_18n_labels.py:593
-msgid "since"
-msgstr "Nuo"
+#: osha.policy:/missing_18n_labels.py:613
+msgid "weekly"
+msgstr "savaitinis"
 
-#: osha.policy:/missing_18n_labels.py:594
-msgid "slogan_statment_hw2010_campaign"
-msgstr "Europos kampanija, skirta saugiai techninei priežiūrai"
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:614
+msgid "year"
+msgstr "Metai"
 
-#: osha.policy:/missing_18n_labels.py:595
-msgid "source"
-msgstr "pradinis tekstas"
-
-#: osha.policy:/missing_18n_labels.py:596
-msgid "subheading_portlet_contents"
-msgstr "Informacinio modulio turinys"
-
-#: osha.policy:/missing_18n_labels.py:597
-msgid "subheading_portlet_representation"
-msgstr "Informacinio modulio lango pavaizdavimas"
-
-#: osha.policy:/missing_18n_labels.py:598
-msgid "subject"
-msgstr "Subjektas"
-
-#: osha.policy:/missing_18n_labels.py:599
-msgid "subscribe_to_oshmail_long"
-msgstr ""
-"Sužinokite apie naujausius įvykius darbuotojų saugos ir sveikatos srityje. "
-"${Subscribe} dabar ir kas mėnesį gaukite naujausias žinias."
-
-#: osha.policy:/missing_18n_labels.py:60
+#: osha.policy:/missing_18n_labels.py:62
 msgid "description_napo_film_5"
 msgstr ""
 "Šiame filme apibūdinamos tos sveikatos ir saugos rizikos rūšys, kurios "
@@ -3100,48 +3267,7 @@ msgstr ""
 "kopėčių ir laiptų naudojimą, su rankų darbu susijusias problemas, darbą "
 "kartu su kolegomis ir informacijos skleidimą."
 
-# # 1 more: ./plone_templates/global_pathbar.pt
-#: osha.policy:/missing_18n_labels.py:600
-msgid "tabs_home"
-msgstr "Į pagrindinį puslapį"
-
-#: osha.policy:/missing_18n_labels.py:601
-msgid "title"
-msgstr "Pavadinimas"
-
-#: osha.policy:/missing_18n_labels.py:602
-msgid "title_add_to_ical"
-msgstr "Įrasyti sį renginį į savo kalendorių iCal"
-
-#: osha.policy:/missing_18n_labels.py:603
-msgid "title_add_to_vcal"
-msgstr "Įrasyti sį renginį į savo kalendorių vCal"
-
-#: osha.policy:/missing_18n_labels.py:604
-msgid "title_agency"
-msgstr "Europos darbuotojų<br />saugos ir sveikatos<br />agentūra"
-
-#: osha.policy:/missing_18n_labels.py:605
-msgid "title_campaign_beinformed"
-msgstr "Informacija šiomis temomis"
-
-#: osha.policy:/missing_18n_labels.py:606
-msgid "title_speaker"
-msgstr "Pranesėjas"
-
-#: osha.policy:/missing_18n_labels.py:607
-msgid "to"
-msgstr "Į"
-
-#: osha.policy:/missing_18n_labels.py:608
-msgid "total_messages"
-msgstr "Žinučių skaičius"
-
-#: osha.policy:/missing_18n_labels.py:609
-msgid "type your query"
-msgstr "įveskite savo užklausą"
-
-#: osha.policy:/missing_18n_labels.py:61
+#: osha.policy:/missing_18n_labels.py:63
 msgid "description_napo_film_6"
 msgstr ""
 "Triukšmas darbo vietoje veikia tūkstančius darbuotojų. Filme stengiamasi "
@@ -3151,20 +3277,7 @@ msgstr ""
 "naudingas visų sektorių visų lygių darbuotojams, tačiau visų pirma jauniems "
 "žmonėms, kurie mokosi arba semiasi naujos darbo patirties."
 
-#: osha.policy:/missing_18n_labels.py:610
-msgid "visible"
-msgstr "matomas"
-
-#: osha.policy:/missing_18n_labels.py:611
-msgid "weekly"
-msgstr "savaitinis"
-
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:612
-msgid "year"
-msgstr "Metai"
-
-#: osha.policy:/missing_18n_labels.py:62
+#: osha.policy:/missing_18n_labels.py:64
 msgid "description_napo_film_7"
 msgstr ""
 "Šiuo filmu siekiama iškelti tuos klausimus, kuriuos tenka spręsti jauniems "
@@ -3176,7 +3289,7 @@ msgstr ""
 "pateikiamos įprastos padėtys, į kurias pakliūna nauji darbuotojai naujoje "
 "darbo vietoje."
 
-#: osha.policy:/missing_18n_labels.py:63
+#: osha.policy:/missing_18n_labels.py:65
 msgid "description_napo_film_8"
 msgstr ""
 "Raumenų ir griaučių sistemos sutrikimai – dažniausiai pasitaikantis su darbu "
@@ -3194,7 +3307,7 @@ msgstr ""
 "Filme rodoma vienuolika scenų, kuriose pateikiamos įprastos darbo vietose "
 "susiklostančios padėtys."
 
-#: osha.policy:/missing_18n_labels.py:64
+#: osha.policy:/missing_18n_labels.py:66
 msgid "description_napo_film_9"
 msgstr ""
 "Rizikos vertinimas yra 2008–2009 m. Europos kampanijos tema. Filmukas "
@@ -3208,165 +3321,156 @@ msgstr ""
 "paaiškinti."
 
 # NAPO 15 "Safe moves"
-#: osha.policy:/missing_18n_labels.py:65
+#: osha.policy:/missing_18n_labels.py:67
 msgid "heading_napo-015-safe-moves"
 msgstr "Napo... ir saugus eismas"
 
-#: osha.policy:/missing_18n_labels.py:66
+#: osha.policy:/missing_18n_labels.py:68
 msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
 msgstr "Planavimas dėl saugos"
 
-#: osha.policy:/missing_18n_labels.py:67
+#: osha.policy:/missing_18n_labels.py:69
 msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
 msgstr "Pavojus - krovos darbai"
 
-#: osha.policy:/missing_18n_labels.py:68
+#: osha.policy:/missing_18n_labels.py:70
 msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
 msgstr "Prasta techninė priežiūra"
 
-#: osha.policy:/missing_18n_labels.py:69
+#: osha.policy:/missing_18n_labels.py:71
 msgid "heading_napo-015-safe-moves-episode-004-carried-away"
 msgstr "Nesusivalde"
 
-# Default "Albanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:7
-msgid "heading_main_fop_portlet_albania"
-msgstr "Albanijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:70
+#: osha.policy:/missing_18n_labels.py:72
 msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
 msgstr "Atskirti keliai"
 
-#: osha.policy:/missing_18n_labels.py:71
+#: osha.policy:/missing_18n_labels.py:73
 msgid "heading_napo-015-safe-moves-episode-006-circus-number"
 msgstr "Cirko numeris"
 
-#: osha.policy:/missing_18n_labels.py:72
+#: osha.policy:/missing_18n_labels.py:74
 msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
 msgstr "Nestabilus krovinys - Duobė"
 
-#: osha.policy:/missing_18n_labels.py:73
+#: osha.policy:/missing_18n_labels.py:75
 msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
 msgstr "Geras matomumas"
 
-#: osha.policy:/missing_18n_labels.py:74
+#: osha.policy:/missing_18n_labels.py:76
 msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
 msgstr "Pavojingas skambutis"
 
-#: osha.policy:/missing_18n_labels.py:75
+#: osha.policy:/missing_18n_labels.py:77
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Žaidimo pabaiga"
 
 # NAPO 16 "Lungs at Work"
-#: osha.policy:/missing_18n_labels.py:76
+#: osha.policy:/missing_18n_labels.py:78
 msgid "heading_napo-016-lungs-at-work"
 msgstr "Napo ... saugokime plaučius darbe"
 
 # NAPO 17 "Working Together"
-#: osha.policy:/missing_18n_labels.py:77
+#: osha.policy:/missing_18n_labels.py:79
 msgid "heading_napo-017-working-together"
 msgstr "Napo ir... Bendromis jėgomis"
 
-#: osha.policy:/missing_18n_labels.py:78
+#: osha.policy:/missing_18n_labels.py:80
 msgid "heading_napo-017-working-together-episode-001-working-together"
 msgstr "Bendromis jėgomis"
 
-#: osha.policy:/missing_18n_labels.py:79
+#: osha.policy:/missing_18n_labels.py:81
 msgid "heading_napo-017-working-together-episode-002-bad-news"
 msgstr "Blogos naujienos"
 
-# Default "Austrian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:8
-msgid "heading_main_fop_portlet_austria"
-msgstr "Austrijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:80
+#: osha.policy:/missing_18n_labels.py:82
 msgid "heading_napo-017-working-together-episode-003-the-detail"
 msgstr "Smulkmena"
 
-#: osha.policy:/missing_18n_labels.py:81
+#: osha.policy:/missing_18n_labels.py:83
 msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
 msgstr "Mes galime tai išspręsti"
 
-#: osha.policy:/missing_18n_labels.py:82
+#: osha.policy:/missing_18n_labels.py:84
 msgid "heading_napo-017-working-together-episode-005-speak-up"
 msgstr "Kalbėkime atvirai"
 
-#: osha.policy:/missing_18n_labels.py:83
+#: osha.policy:/missing_18n_labels.py:85
 msgid "heading_napo-017-working-together-episode-006-safety-pays"
 msgstr "Sauga apsimoka"
 
-#: osha.policy:/missing_18n_labels.py:84
+#: osha.policy:/missing_18n_labels.py:86
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "Dabar visi kartu"
 
-#: osha.policy:/missing_18n_labels.py:85
+#: osha.policy:/missing_18n_labels.py:87
 msgid "label_napo_click_to_see_film"
 msgstr "Click the image to see the film..."
 
-#: osha.policy:/missing_18n_labels.py:86
+#: osha.policy:/missing_18n_labels.py:88
 msgid "napo_back_to_lesson"
 msgstr "Atgal į pamoką"
 
-#: osha.policy:/missing_18n_labels.py:87
+#. Default: "Chemical risks at work"
+#: osha.policy:/missing_18n_labels.py:89
 msgid "title_napo_episode_12_1"
 msgstr "Cheminėmis rizikos veiksniai darbe"
 
-#: osha.policy:/missing_18n_labels.py:88
+# Default "Albanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:9
+msgid "heading_main_fop_portlet_albania"
+msgstr "Albanijos ryšių punktas"
+
+#. Default: "Harmful"
+#: osha.policy:/missing_18n_labels.py:90
 msgid "title_napo_episode_12_2"
 msgstr "Kenksminga"
 
-#: osha.policy:/missing_18n_labels.py:89
+#. Default: "Irritant"
+#: osha.policy:/missing_18n_labels.py:91
 msgid "title_napo_episode_12_3"
 msgstr "Turi dirginantį poveikį"
 
-# Default "Belgian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:9
-msgid "heading_main_fop_portlet_belgium"
-msgstr "Belgijos ryšių punktas"
-
-#: osha.policy:/missing_18n_labels.py:90
+#. Default: "Flammable"
+#: osha.policy:/missing_18n_labels.py:92
 msgid "title_napo_episode_12_4"
 msgstr "Degi"
 
-#: osha.policy:/missing_18n_labels.py:91
+#. Default: "Corrosive"
+#: osha.policy:/missing_18n_labels.py:93
 msgid "title_napo_episode_12_5"
 msgstr "Turi ėsdinantį poveikį"
 
-#: osha.policy:/missing_18n_labels.py:92
+#. Default: "Toxic"
+#: osha.policy:/missing_18n_labels.py:94
 msgid "title_napo_episode_12_6"
 msgstr "Toksiška"
 
-#: osha.policy:/missing_18n_labels.py:93
+#. Default: "Dangerous for the environment"
+#: osha.policy:/missing_18n_labels.py:95
 msgid "title_napo_episode_12_7"
 msgstr "Pavojinga aplinkai"
 
-#: osha.policy:/missing_18n_labels.py:94
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:96
 msgid "title_napo_episode_12_8"
 msgstr "Pabaiga"
 
-#: osha.policy:/missing_18n_labels.py:95
+#. Default: "Lock out"
+#: osha.policy:/missing_18n_labels.py:97
 msgid "title_napo_episode_14_1"
 msgstr "Pasitikėk tik savimi!"
 
-#: osha.policy:/missing_18n_labels.py:96
+#. Default: "Hidden hazards"
+#: osha.policy:/missing_18n_labels.py:98
 msgid "title_napo_episode_14_2"
 msgstr "Slapti pavojai"
 
-#: osha.policy:/missing_18n_labels.py:97
+#. Default: "Don't improvise!"
+#: osha.policy:/missing_18n_labels.py:99
 msgid "title_napo_episode_14_3"
 msgstr "Laikykis taisyklių"
-
-#: osha.policy:/missing_18n_labels.py:98
-msgid "title_napo_episode_14_4"
-msgstr "Neskubėk ir būsi pirmas!"
-
-#: osha.policy:/missing_18n_labels.py:99
-msgid "title_napo_episode_14_5"
-msgstr "Uždara patalpa: atsargiai pavojus!"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
@@ -3899,6 +4003,11 @@ msgstr ""
 msgid "Events"
 msgstr "Įvykiai"
 
+#: osha.theme:/browser/oshmail_subscribe.py:29
+#: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
+msgid "You did not enter a valid email address."
+msgstr ""
+
 #: osha.theme:/browser/oshmail_subscribe.py:39
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
@@ -3907,11 +4016,19 @@ msgstr ""
 "Dėkojame, kad užsisakėte naujienlaiškį „OSHMail“. Netrukus gausite el. "
 "laišką, kuriame bus patvirtinta jūsų prenumerata."
 
+#: osha.theme:/browser/oshmail_subscribe.py:54
+msgid "Your subscription could not be sent. Please try again."
+msgstr ""
+
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
 msgstr "Dėkojame! Sėkmingai atsisakėte naujienlaiškio."
 
-#: osha.theme:/browser/oshmail_unsubscribe.py:43
+#: osha.theme:/browser/oshmail_unsubscribe.py:35
+msgid "Your unsubscription request could not be sent. Please try again."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_unsubscribe.py:44
 msgid "You are still subscribed to the mailing list."
 msgstr "Jūsų adresas tebėra mūsų adresatų sąraše."
 
@@ -3924,7 +4041,7 @@ msgstr "Paskutinės naujienos"
 msgid "header_oshtopic_dynamic"
 msgstr ""
 
-#: osha.theme:/browser/pressroom.py:201
+#: osha.theme:/browser/pressroom.py:204
 msgid "Configure this Press Room"
 msgstr ""
 
@@ -4134,13 +4251,18 @@ msgstr ""
 msgid "heading_manage_osha_below"
 msgstr ""
 
-#. Default: "or"
+#. Default: ""
+#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:51
+msgid "label_napo_download_film_as"
+msgstr ""
+
+#. Default: ""
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:57
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:87
 msgid "label_or"
 msgstr ""
 
-#. Default: "Download this film as"
+#. Default: ""
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:81
 msgid "label_napo_download_episode_as"
 msgstr ""
@@ -4194,7 +4316,7 @@ msgstr "Europos darbuotojų saugos ir sveikatos agentūra"
 #. Default: "Making Europe a safer, healthier and more productive place to work"
 #: osha.theme:/browser/templates/osha_homepage.pt:20
 msgid "label_making_europe_safer"
-msgstr ""
+msgstr "Saugesnės, sveikesnės ir našesnės darbo vietos Europoje"
 
 #. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
 #: osha.theme:/browser/templates/osha_homepage.pt:21
@@ -4206,8 +4328,13 @@ msgstr ""
 msgid "label_highlights"
 msgstr ""
 
+#. Default: "Previous highlights"
+#: osha.theme:/browser/templates/osha_homepage.pt:46
+msgid "label_previous_highlights"
+msgstr "Kita svarbi informacinė medžiaga"
+
 #. Default: "In Focus"
-#: osha.theme:/browser/templates/osha_homepage.pt:56
+#: osha.theme:/browser/templates/osha_homepage.pt:59
 msgid "label_in-focus"
 msgstr ""
 
@@ -4228,31 +4355,56 @@ msgstr "Ne, noriu ir toliau gauti naujienlaiškį."
 
 # Load older newsletters.
 #. Default: "Load ${link}."
-#: osha.theme:/browser/templates/oshmail_view.pt:123
+#: osha.theme:/browser/templates/oshmail_view.pt:124
 msgid "label_load_older"
 msgstr "Įkelti ${link}."
 
-#: osha.theme:/browser/templates/oshmail_view.pt:31
+#: osha.theme:/browser/templates/oshmail_view.pt:148
+msgid "Your e-mail"
+msgstr ""
+
+#. Default: "Close"
+#: osha.theme:/browser/templates/oshmail_view.pt:160
+msgid "label_close_overlay"
+msgstr ""
+
+#: osha.theme:/browser/templates/oshmail_view.pt:32
 msgid "OSHmail newsletter"
 msgstr "OSHmail naujienlaiškis"
 
+#. Default: "Subscription"
+#: osha.theme:/browser/templates/oshmail_view.pt:37
+msgid "heading_oshmail_subscribe"
+msgstr ""
+
 #: osha.theme:/browser/templates/oshmail_view.pt:46
+msgid "Not interested any more?"
+msgstr ""
+
+#: osha.theme:/browser/templates/oshmail_view.pt:47
+#: osha.theme:/browser/templates/oshmail_view.pt:144
+#: osha.theme:/browser/templates/oshmail_view.pt:151
 msgid "Unsubscribe"
 msgstr "Išbraukti iš abonentų sąrašo"
 
+#. Default: "Latest newsletter"
+#: osha.theme:/browser/templates/oshmail_view.pt:69
+msgid "label_latest_newsletter"
+msgstr ""
+
 #. Default: "Latest OSHMail Issue"
-#: osha.theme:/browser/templates/oshmail_view.pt:70
+#: osha.theme:/browser/templates/oshmail_view.pt:71
 msgid "label_latest_issue"
 msgstr "Paskutinis numeris"
 
 #. Default: "older newsletters"
-#: osha.theme:/browser/templates/oshmail_view.pt:93
-#: osha.theme:/browser/templates/oshmail_view.pt:123
+#: osha.theme:/browser/templates/oshmail_view.pt:94
+#: osha.theme:/browser/templates/oshmail_view.pt:124
 msgid "label_older_newsletters"
 msgstr "ankstesnius informacinius biuletenius"
 
 #. Default: "previous issues"
-#: osha.theme:/browser/templates/oshmail_view.pt:97
+#: osha.theme:/browser/templates/oshmail_view.pt:98
 msgid "label_previous_issues"
 msgstr "ankstesni numeriai"
 
@@ -4497,7 +4649,6 @@ msgid "box_oshmail_subscribers"
 msgstr "Prisijungę"
 
 #: osha.theme:/portlets/alertservice.py:27
-#: osha.theme:/portlets/subscribe_mailinglists.pt:17
 #: osha.theme:/portlets/alertservice.pt:7
 msgid "Alert Service"
 msgstr "Pranešimo paslauga"
@@ -5150,17 +5301,22 @@ msgstr ""
 #. Default: "Get our monthly update on safety and health at work."
 #: osha.theme:/portlets/subscribe_mailinglists.pt:13
 msgid "subscribe_portlet_intro"
-msgstr ""
+msgstr "Užsisakykite mūsų mėnesinį biuletenį apie darbuotojų saugą ir sveikatą."
 
 #: osha.theme:/portlets/subscribe_mailinglists.pt:15
-#: osha.theme:/browser/templates/oshmail_view.pt:42
+#: osha.theme:/browser/templates/oshmail_view.pt:43
 msgid "Subscribe"
 msgstr "Prisijungti"
 
-#. Default: "You could use our ${alertservice} too!"
+#. Default: "You could use ${label_our_alert_service} too!"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:17
 msgid "subscribe_portlet_alertservice_intro"
-msgstr ""
+msgstr "Taip pat galite naudotis ${label_our_alert_service}!"
+
+#. Default: "our Alert Service"
+#: osha.theme:/portlets/subscribe_mailinglists.pt:17
+msgid "label_our_alert_service"
+msgstr "mūsų pranešimų paslauga"
 
 #: osha.theme:/portlets/subscribe_mailinglists.py:26
 #: osha.theme:/portlets/subscribe_mailinglists.py:64
@@ -5392,20 +5548,15 @@ msgid "label_languages"
 msgstr "Kalbos"
 
 #. Default: "&copy; Copyright 1998-${thisyear} European Agency for Safety and Health at Work -"
-#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:101
+#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:108
 msgid "copyright"
 msgstr ""
 "Europos darbuotojų saugos ir sveikatos agentūros 1998-${thisyear} autorinės "
 "teisės"
 
-#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:103
+#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:110
 msgid "Disclaimer"
 msgstr "Atsakomybės apribojimas "
-
-#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:84
-#: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:85
-msgid "European Agency for Safety and Health at Work"
-msgstr "Europos darbuotojų saugos ir sveikatos agentūra"
 
 #. Default: "I also want to receive OSHmail, the free monthly newsletter"
 #: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:79
@@ -5428,7 +5579,7 @@ msgstr ""
 # ./plone_prefs/prefs_user_details.pt
 #. Default: "E-mail"
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:129
-#: osha.theme:/browser/templates/oshmail_view.pt:39
+#: osha.theme:/browser/templates/oshmail_view.pt:40
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:203
 #: osha.whoswho:/content/whoswho.py:32
 #: osha.whoswho:/browser/templates/whoswho_view.pt:59
@@ -5649,6 +5800,9 @@ msgstr ""
 #: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:983
 msgid "label_modified_within_x_days"
 msgstr ""
+
+#~ msgid "European Agency for Safety and Health at Work"
+#~ msgstr "Europos darbuotojų saugos ir sveikatos agentūra"
 
 #~ msgid "- job vacancies, call for contractors"
 #~ msgstr "- Laisvos darbo vietos, Kvietimas rangovams"

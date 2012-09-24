@@ -4,7 +4,7 @@ osha.translations Changelog
 2.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Added homepage translations #5827 [deroiste]
 
 
 2.0 (2012-09-17)
