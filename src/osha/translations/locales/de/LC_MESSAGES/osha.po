@@ -617,7 +617,7 @@ msgstr "Der bulgarische Focal Point"
 
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_17"
-msgstr ""
+msgstr "Ende"
 
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_2"
@@ -733,7 +733,7 @@ msgstr "Umweltgefährlich"
 
 #: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Ende"
 
 #: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_4_0"
@@ -775,7 +775,7 @@ msgstr "Markieren und melden"
 
 #: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Ende"
 
 #: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_5_0"
@@ -859,7 +859,7 @@ msgstr "Bei der Arbeit und danach"
 
 #: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Ende"
 
 #: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_7_0"
@@ -909,7 +909,7 @@ msgstr "Näher ist besser"
 
 #: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Ende"
 
 #: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_8_2"
@@ -985,7 +985,7 @@ msgstr "Der deutsche Focal Point"
 
 #: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Ende"
 
 #: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_film_1"

@@ -581,31 +581,31 @@ msgstr "Σήμανση Διάσωσης"
 
 #: osha.policy:/missing_18n_labels.py:103
 msgid "title_napo_episode_1_10"
-msgstr ""
+msgstr "Υποχρεωτική χρήση κράνους"
 
 #: osha.policy:/missing_18n_labels.py:104
 msgid "title_napo_episode_1_11"
-msgstr ""
+msgstr "Σήμανση Διάσωσης"
 
 #: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_12"
-msgstr ""
+msgstr "Έξοδος κινδύνου"
 
 #: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_13"
-msgstr ""
+msgstr "Πρώτες βοήθειες"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_14"
-msgstr ""
+msgstr "Σήμανση Υλικών/Εξοπλισμού Πυρόσβεσης"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_15"
-msgstr ""
+msgstr "Εξοπλισμός πυρόσβεσης"
 
 #: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_16"
-msgstr ""
+msgstr "Σύστημα συναγερμού πυρκαγιάς"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -615,7 +615,7 @@ msgstr "Σημείο επαφής Βουλγαρίας"
 
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_17"
-msgstr ""
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_2"
@@ -733,7 +733,7 @@ msgstr "Επικίνδυνο για το περιβάλλον"
 
 #: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_4_0"
@@ -775,7 +775,7 @@ msgstr "Φύλακας άγγελος"
 
 #: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_5_0"
@@ -859,7 +859,7 @@ msgstr "Συνεχής προστασία"
 
 #: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_7_0"
@@ -893,7 +893,7 @@ msgstr "Σημείο επαφής Φινλανδίας"
 
 #: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_8_0"
@@ -909,7 +909,7 @@ msgstr "Κράτα με σφιχτά "
 
 #: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_8_2"
@@ -985,7 +985,7 @@ msgstr "Σημείο επαφής Γερμανίας"
 
 #: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_film_1"

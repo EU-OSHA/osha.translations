@@ -580,31 +580,31 @@ msgstr "Evakuatsioonimärgid"
 
 #: osha.policy:/missing_18n_labels.py:103
 msgid "title_napo_episode_1_10"
-msgstr ""
+msgstr "Kanna kaitsekiivrit"
 
 #: osha.policy:/missing_18n_labels.py:104
 msgid "title_napo_episode_1_11"
-msgstr ""
+msgstr "Evakuatsioonimärgid"
 
 #: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_12"
-msgstr ""
+msgstr "Evakuatsioonitee"
 
 #: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_13"
-msgstr ""
+msgstr "Esmaabi"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_14"
-msgstr ""
+msgstr "Tulekaitsemärgid"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_15"
-msgstr ""
+msgstr "Tulekustustusvahendid"
 
 #: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_16"
-msgstr ""
+msgstr "Tulehäiresüsteem"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -614,7 +614,7 @@ msgstr "Bulgaaria teabekeskus"
 
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_17"
-msgstr ""
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_2"
@@ -732,7 +732,7 @@ msgstr "Keskkonnale ohtlik"
 
 #: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_4_0"
@@ -774,7 +774,7 @@ msgstr "Turvainglid"
 
 #: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_5_0"
@@ -858,7 +858,7 @@ msgstr "Ära tee asju hullemaks"
 
 #: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_7_0"
@@ -892,7 +892,7 @@ msgstr "Soome teabekeskus"
 
 #: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_8_0"
@@ -908,7 +908,7 @@ msgstr "Hoia mind kõvasti "
 
 #: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_8_2"
@@ -984,7 +984,7 @@ msgstr "Saksamaa teabekeskus"
 
 #: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Lõpp"
 
 #: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_film_1"

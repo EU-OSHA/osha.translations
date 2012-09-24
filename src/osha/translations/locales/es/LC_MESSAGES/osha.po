@@ -582,31 +582,31 @@ msgstr "Señales de salvamento o socorro"
 
 #: osha.policy:/missing_18n_labels.py:103
 msgid "title_napo_episode_1_10"
-msgstr ""
+msgstr "Protección obligatoria de la cabeza"
 
 #: osha.policy:/missing_18n_labels.py:104
 msgid "title_napo_episode_1_11"
-msgstr ""
+msgstr "Señales de salvamento o socorro"
 
 #: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_12"
-msgstr ""
+msgstr "Vía/salida de socorro"
 
 #: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_13"
-msgstr ""
+msgstr "Primeros auxilios"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_14"
-msgstr ""
+msgstr "Señalización de equipos de lucha contra incendios"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_15"
-msgstr ""
+msgstr "Extintor"
 
 #: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_16"
-msgstr ""
+msgstr "Teléfono para lucha contra incendios"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -614,9 +614,10 @@ msgstr ""
 msgid "heading_main_fop_portlet_bulgaria"
 msgstr "Centro de Referencia de Bulgaria"
 
+# Default "The end"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_17"
-msgstr ""
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_2"
@@ -732,9 +733,10 @@ msgstr "Tóxico"
 msgid "title_napo_episode_3_6"
 msgstr "Peligroso para el medio ambiente"
 
+# Default "The end"
 #: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_4_0"
@@ -774,9 +776,10 @@ msgstr "Culturismo"
 msgid "title_napo_episode_4_7"
 msgstr "Identifica e informa"
 
+# Default "The end"
 #: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_5_0"
@@ -858,9 +861,10 @@ msgstr "Exclusión social"
 msgid "title_napo_episode_6_6"
 msgstr "No empeores las cosas"
 
+# Default "The end"
 #: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_7_0"
@@ -894,7 +898,7 @@ msgstr "Centro de referencia de Finlandia"
 
 #: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_8_0"
@@ -910,7 +914,7 @@ msgstr "Pégame a ti "
 
 #: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_8_2"
@@ -986,7 +990,7 @@ msgstr "Centro de referencia de Alemania"
 
 #: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Fin"
 
 #: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_film_1"
