@@ -4,7 +4,8 @@ osha.translations Changelog
 2.0.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Adding further Napo film translations (some were included in 2.0.1)
+  #5458 [deroiste]
 
 
 2.0.1 (2012-09-24)

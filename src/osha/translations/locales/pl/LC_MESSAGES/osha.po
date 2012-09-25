@@ -594,27 +594,27 @@ msgstr "Sygnalizacja ratunkowa"
 #. Default: "Safety helmet must be worn"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_10"
-msgstr ""
+msgstr "Obowiązek noszenia hełmu ochronnego"
 
 #. Default: "Rescue signs"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_11"
-msgstr ""
+msgstr "Sygnalizacja ratunkowa"
 
 #. Default: "Rescue route"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_12"
-msgstr ""
+msgstr "Znaki ewakuacyjne"
 
 #. Default: "First aid"
 #: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_13"
-msgstr ""
+msgstr "Pierwsza pomoc"
 
 #. Default: "Fire protection signs"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_14"
-msgstr ""
+msgstr "Znaki ochrony przeciwpożarowej"
 
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -625,17 +625,17 @@ msgstr "Belgijski punkt centralny"
 #. Default: "Fire-extinguishing equipment"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_15"
-msgstr ""
+msgstr "Sprzęt gaśniczy"
 
 #. Default: "Fire alarm system"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_16"
-msgstr ""
+msgstr "Alarm przeciwpożarowy"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "title_napo_episode_1_17"
-msgstr ""
+msgstr "Koniec"
 
 #. Default: "Danger - suspended load"
 #: osha.policy:/missing_18n_labels.py:113
@@ -779,7 +779,7 @@ msgstr "Szkodliwy dla środowiska"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Koniec"
 
 #. Default: "Clean Sweep"
 #: osha.policy:/missing_18n_labels.py:139
@@ -830,7 +830,7 @@ msgstr "Anioł stróż"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Koniec"
 
 #. Default: "Napo - safe on site"
 #: osha.policy:/missing_18n_labels.py:148
@@ -932,7 +932,7 @@ msgstr "Nie pogarszaj sprawy"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:165
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Koniec"
 
 #. Default: "Safe start"
 #: osha.policy:/missing_18n_labels.py:166
@@ -973,7 +973,7 @@ msgstr "Zbytnia pewność siebie jest niebezpieczna!"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Koniec"
 
 #. Default: "Start"
 #: osha.policy:/missing_18n_labels.py:173
@@ -993,7 +993,7 @@ msgstr "PRZYTUL MNIE "
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Koniec"
 
 #. Default: "Divide and rule"
 #: osha.policy:/missing_18n_labels.py:177
@@ -1085,7 +1085,7 @@ msgstr "Bezpieczeństwo się opłaca"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Koniec"
 
 #: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_film_1"

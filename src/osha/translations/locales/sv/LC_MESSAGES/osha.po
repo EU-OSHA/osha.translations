@@ -595,27 +595,27 @@ msgstr "Nödskyltar"
 #. Default: "Safety helmet must be worn"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_10"
-msgstr ""
+msgstr "Använd skyddshjälm"
 
 #. Default: "Rescue signs"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_11"
-msgstr ""
+msgstr "Nödskyltar"
 
 #. Default: "Rescue route"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_12"
-msgstr ""
+msgstr "Utrymningsväg"
 
 #. Default: "First aid"
 #: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_13"
-msgstr ""
+msgstr "Första hjälpen"
 
 #. Default: "Fire protection signs"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_14"
-msgstr ""
+msgstr "Brandskyltar"
 
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -626,17 +626,17 @@ msgstr "Belgiska kontaktpunkten"
 #. Default: "Fire-extinguishing equipment"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_15"
-msgstr ""
+msgstr "Brandredskap"
 
 #. Default: "Fire alarm system"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_16"
-msgstr ""
+msgstr "Brandlarm"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "title_napo_episode_1_17"
-msgstr ""
+msgstr "Slut"
 
 #. Default: "Danger - suspended load"
 #: osha.policy:/missing_18n_labels.py:113
@@ -780,7 +780,7 @@ msgstr "Miljöfarligt"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Slut"
 
 #. Default: "Clean Sweep"
 #: osha.policy:/missing_18n_labels.py:139
@@ -831,7 +831,7 @@ msgstr "Skyddsänglar"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Slut"
 
 #. Default: "Napo - safe on site"
 #: osha.policy:/missing_18n_labels.py:148
@@ -933,7 +933,7 @@ msgstr "Gör det inte värre!"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:165
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Slut"
 
 #. Default: "Safe start"
 #: osha.policy:/missing_18n_labels.py:166
@@ -974,7 +974,7 @@ msgstr "Övermod är farligt!"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Slut"
 
 #. Default: "Start"
 #: osha.policy:/missing_18n_labels.py:173
@@ -994,7 +994,7 @@ msgstr "Håll mig i ett fast grepp"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Slut"
 
 #. Default: "Divide and rule"
 #: osha.policy:/missing_18n_labels.py:177
@@ -1086,7 +1086,7 @@ msgstr "Säkerhet lönar sig"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Slut"
 
 #: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_film_1"

@@ -780,7 +780,7 @@ msgstr "Schadelijk voor het milieu"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_3_7"
-msgstr ""
+msgstr "Einde"
 
 #. Default: "Clean Sweep"
 #: osha.policy:/missing_18n_labels.py:139
@@ -831,7 +831,7 @@ msgstr "Vanuit veiligheidsoogpunt"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_4_8"
-msgstr ""
+msgstr "Einde"
 
 #. Default: "Napo - safe on site"
 #: osha.policy:/missing_18n_labels.py:148
@@ -933,7 +933,7 @@ msgstr "Maak het niet erger dan het is"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:165
 msgid "title_napo_episode_6_7"
-msgstr ""
+msgstr "Einde"
 
 #. Default: "Safe start"
 #: osha.policy:/missing_18n_labels.py:166
@@ -974,7 +974,7 @@ msgstr "Teveel vertrouwen is gevaarlijk!"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Einde"
 
 #. Default: "Start"
 #: osha.policy:/missing_18n_labels.py:173
@@ -994,7 +994,7 @@ msgstr "hou me goed vast"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Einde"
 
 #. Default: "Divide and rule"
 #: osha.policy:/missing_18n_labels.py:177
@@ -1086,7 +1086,7 @@ msgstr "Veiligheid loont "
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Einde"
 
 #: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_film_1"

@@ -587,37 +587,37 @@ msgstr "Ce face fiecare?"
 #. Default: "Best signs story"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "title_napo_episode_1_0"
-msgstr "Best signs story"
+msgstr "Povestea semnelor"
 
 #. Default: "Danger"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "title_napo_episode_1_1"
-msgstr "Danger"
+msgstr "Pericol"
 
 #. Default: "Safety helmet must be worn"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "title_napo_episode_1_10"
-msgstr "Safety helmet must be worn  "
+msgstr "Utilizaţi cască de protecţie"
 
 #. Default: "Rescue signs"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "title_napo_episode_1_11"
-msgstr "Rescue signs"
+msgstr "Semnale de urgenţă"
 
 #. Default: "Rescue route"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "title_napo_episode_1_12"
-msgstr "Rescue route  "
+msgstr "Intrare şi ieşire de urgenţă"
 
 #. Default: "First aid"
 #: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_1_13"
-msgstr "First aid  "
+msgstr "Primul ajutor"
 
 #. Default: "Fire protection signs"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_1_14"
-msgstr "Fire protection signs"
+msgstr "Semne de protecţie împotriva incendiului"
 
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -628,52 +628,52 @@ msgstr "Punctul focal din Belgia"
 #. Default: "Fire-extinguishing equipment"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_1_15"
-msgstr "Fire-extinguishing equipment  "
+msgstr "Extinctor"
 
 #. Default: "Fire alarm system"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_1_16"
-msgstr "Fire alarm system  "
+msgstr "Sistem de alarmă în caz de incendiu"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "title_napo_episode_1_17"
-msgstr "The end"
+msgstr "Sfarsitul"
 
 #. Default: "Danger - suspended load"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "title_napo_episode_1_2"
-msgstr "Danger - suspended load  "
+msgstr "Pericol - încărcături suspendate"
 
 #. Default: "Danger - fork-lift trucks"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "title_napo_episode_1_3"
-msgstr "Danger - fork-lift trucks  "
+msgstr "Pericol - stivuitoare"
 
 #. Default: "Prohibition signs"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "title_napo_episode_1_4"
-msgstr "Prohibition signs"
+msgstr "Semne de interdicţie"
 
 #. Default: "No smoking"
 #: osha.policy:/missing_18n_labels.py:116
 msgid "title_napo_episode_1_5"
-msgstr "No smoking"
+msgstr "Fumatul interzis"
 
 #. Default: "No fork-lift trucks"
 #: osha.policy:/missing_18n_labels.py:117
 msgid "title_napo_episode_1_6"
-msgstr "No fork-lift trucks  "
+msgstr "Accesul interzis stivuitoarelor"
 
 #. Default: "Mandantory signs"
 #: osha.policy:/missing_18n_labels.py:118
 msgid "title_napo_episode_1_7"
-msgstr "Mandantory signs"
+msgstr "Semne de obligativitate"
 
 #. Default: "Safety goggles must be worn"
 #: osha.policy:/missing_18n_labels.py:119
 msgid "title_napo_episode_1_8"
-msgstr "Safety goggles must be worn  "
+msgstr "Utilizaţi ochelarii de protecţie"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -684,52 +684,52 @@ msgstr "Punctul focal din Bosnia-Herţegovina"
 #. Default: "Hearing protection must be worn"
 #: osha.policy:/missing_18n_labels.py:120
 msgid "title_napo_episode_1_9"
-msgstr "Hearing protection must be worn  "
+msgstr "Utilizaţi căşti antifon"
 
 #. Default: "The adventures of NAPO"
 #: osha.policy:/missing_18n_labels.py:121
 msgid "title_napo_episode_2_0"
-msgstr "The adventures of Napo"
+msgstr "Aventurile lui NAPO"
 
 #. Default: "The importance of signposting"
 #: osha.policy:/missing_18n_labels.py:122
 msgid "title_napo_episode_2_1"
-msgstr "The importance of signposting"
+msgstr "Importanţa semnalizării"
 
 #. Default: "Signposting is not sufficient"
 #: osha.policy:/missing_18n_labels.py:123
 msgid "title_napo_episode_2_2"
-msgstr "Signposting is not sufficient"
+msgstr "Semnalizarea nu este suficientă"
 
 #. Default: "Labels should be read"
 #: osha.policy:/missing_18n_labels.py:124
 msgid "title_napo_episode_2_3"
-msgstr "Labels should be read"
+msgstr "Trebuie citite etichetele"
 
 #. Default: "Choose public transports"
 #: osha.policy:/missing_18n_labels.py:125
 msgid "title_napo_episode_2_4"
-msgstr "Choose public transports"
+msgstr "Alegerea transporturilor în comun"
 
 #. Default: "The right protection at the right time"
 #: osha.policy:/missing_18n_labels.py:126
 msgid "title_napo_episode_2_5"
-msgstr "The right protection at the right time"
+msgstr "Protecţia potrivită la momentul potrivit"
 
 #. Default: "Improvising means risk taking"
 #: osha.policy:/missing_18n_labels.py:127
 msgid "title_napo_episode_2_6"
-msgstr "Improvising means risk taking"
+msgstr "E riscant să improvizezi"
 
 #. Default: "Each product has its own packaging"
 #: osha.policy:/missing_18n_labels.py:128
 msgid "title_napo_episode_2_7"
-msgstr "Each product has its own packaging"
+msgstr "Fiecare produs cu ambalajul său"
 
 #. Default: "Too much pressure is likely to be harmful"
 #: osha.policy:/missing_18n_labels.py:129
 msgid "title_napo_episode_2_8"
-msgstr "Too much pressure is likely to be harmful"
+msgstr "Stresul în exces poate fi dăunător"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -740,32 +740,32 @@ msgstr "Punctul focal din Bulgaria"
 #. Default: "Unsuitable material + incompetence = accident"
 #: osha.policy:/missing_18n_labels.py:130
 msgid "title_napo_episode_2_9"
-msgstr "Unsuitable material + incompetence = accident"
+msgstr "Material necorespunzător + incompetenţă = accident"
 
 #. Default: "Scratch and sniff - chemical risks at work"
 #: osha.policy:/missing_18n_labels.py:131
 msgid "title_napo_episode_3_0"
-msgstr "Scratch and sniff - chemical risks at work"
+msgstr "SCĂRPINATUL ŞI ASPIRAREA PE NAS … RISCURILE CHIMICE DE LA MUNCĂ"
 
 #. Default: "Harmful"
 #: osha.policy:/missing_18n_labels.py:132
 msgid "title_napo_episode_3_1"
-msgstr "Harmful"
+msgstr "Nociv"
 
 #. Default: "Irritant"
 #: osha.policy:/missing_18n_labels.py:133
 msgid "title_napo_episode_3_2"
-msgstr "Irritant"
+msgstr "Iritant"
 
 #. Default: "Flammable"
 #: osha.policy:/missing_18n_labels.py:134
 msgid "title_napo_episode_3_3"
-msgstr "Flammable"
+msgstr "Inflamabil"
 
 #. Default: "Corrosive"
 #: osha.policy:/missing_18n_labels.py:135
 msgid "title_napo_episode_3_4"
-msgstr "Corrosive"
+msgstr "Coroziv"
 
 #. Default: "Toxic"
 #: osha.policy:/missing_18n_labels.py:136
@@ -775,17 +775,17 @@ msgstr "Toxic"
 #. Default: "Dangerous for the environment"
 #: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_3_6"
-msgstr "Dangerous for the environment"
+msgstr "Periculos pentru mediu"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_3_7"
-msgstr "The end"
+msgstr "Sfarsitul"
 
 #. Default: "Clean Sweep"
 #: osha.policy:/missing_18n_labels.py:139
 msgid "title_napo_episode_4_0"
-msgstr "Clean Sweep"
+msgstr "Curat lună"
 
 # Default "Croatian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -796,52 +796,52 @@ msgstr "Punctul focal din Croaţia"
 #. Default: "Change of plan"
 #: osha.policy:/missing_18n_labels.py:140
 msgid "title_napo_episode_4_1"
-msgstr "Change of plan"
+msgstr "Schimbare de plan"
 
 #. Default: "Work at height"
 #: osha.policy:/missing_18n_labels.py:141
 msgid "title_napo_episode_4_2"
-msgstr "Work at height"
+msgstr "Munca la înălţime"
 
 #. Default: "Enough is enough"
 #: osha.policy:/missing_18n_labels.py:142
 msgid "title_napo_episode_4_3"
-msgstr "Enough is enough"
+msgstr "Ce-i prea mult strică"
 
 #. Default: "Safety plan"
 #: osha.policy:/missing_18n_labels.py:143
 msgid "title_napo_episode_4_4"
-msgstr "Safety plan"
+msgstr "Plan de securitate"
 
 #. Default: "Yellow card"
 #: osha.policy:/missing_18n_labels.py:144
 msgid "title_napo_episode_4_5"
-msgstr "Yellow card"
+msgstr "Cartonaşul galben"
 
 #. Default: "Bodybuilding"
 #: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_4_6"
-msgstr "Bodybuilding"
+msgstr "Culturism"
 
 #. Default: "Safety angels"
 #: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_4_7"
-msgstr "Safety angels"
+msgstr "Îngerii siguranţei"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_4_8"
-msgstr "The end"
+msgstr "Sfarsitul"
 
 #. Default: "Napo - safe on site"
 #: osha.policy:/missing_18n_labels.py:148
 msgid "title_napo_episode_5_0"
-msgstr "Napo - safe on site"
+msgstr "Napo în siguranţă pe şantier"
 
 #. Default: "Building in safety"
 #: osha.policy:/missing_18n_labels.py:149
 msgid "title_napo_episode_5_1"
-msgstr "Building in safety"
+msgstr "Să construim în siguranţă"
 
 # Default "Cypriot Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -852,52 +852,52 @@ msgstr "Punctul focal din Cipru"
 #. Default: "Don't fall for it"
 #: osha.policy:/missing_18n_labels.py:150
 msgid "title_napo_episode_5_2"
-msgstr "Don't fall for it"
+msgstr "Evitarea căzăturilor"
 
 #. Default: "Heading for a fall"
 #: osha.policy:/missing_18n_labels.py:151
 msgid "title_napo_episode_5_3"
-msgstr "Heading for a fall"
+msgstr "Echilibru instabil"
 
 #. Default: "Champions of the world"
 #: osha.policy:/missing_18n_labels.py:152
 msgid "title_napo_episode_5_4"
-msgstr "Champions of the world"
+msgstr "Campionii lumii"
 
 #. Default: "Lightning strike"
 #: osha.policy:/missing_18n_labels.py:153
 msgid "title_napo_episode_5_5"
-msgstr "Lightning strike"
+msgstr "Protejează-ţi spatele"
 
 #. Default: "Keep them apart"
 #: osha.policy:/missing_18n_labels.py:154
 msgid "title_napo_episode_5_6"
-msgstr "Keep them apart"
+msgstr "Respectarea căilor de circulaţie"
 
 #. Default: "Five star treatment"
 #: osha.policy:/missing_18n_labels.py:155
 msgid "title_napo_episode_5_7"
-msgstr "Five star treatment"
+msgstr "Tratament de cinci stele"
 
 #. Default: "Bad dream"
 #: osha.policy:/missing_18n_labels.py:156
 msgid "title_napo_episode_5_8"
-msgstr "Bad dream"
+msgstr "Vise urâte"
 
 #. Default: "Safe landing"
 #: osha.policy:/missing_18n_labels.py:157
 msgid "title_napo_episode_5_9"
-msgstr "Safe landing"
+msgstr ""
 
 #. Default: "Napo in stop that noise!"
 #: osha.policy:/missing_18n_labels.py:158
 msgid "title_napo_episode_6_0"
-msgstr "Napo in stop that noise !"
+msgstr "Napo în … Opriţi zgomotul!"
 
 #. Default: "Irreparable"
 #: osha.policy:/missing_18n_labels.py:159
 msgid "title_napo_episode_6_1"
-msgstr "Irreparable"
+msgstr "Ireparabil"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -908,32 +908,32 @@ msgstr "Punctul focal din Cehia"
 #. Default: "Didn't hear it coming"
 #: osha.policy:/missing_18n_labels.py:160
 msgid "title_napo_episode_6_2"
-msgstr "Didn't hear it coming "
+msgstr "Surd la pericole"
 
 #. Default: "Noise in the office"
 #: osha.policy:/missing_18n_labels.py:161
 msgid "title_napo_episode_6_3"
-msgstr "Noise in the office"
+msgstr "Zgomot la birou"
 
 #. Default: "Problem pregnancy"
 #: osha.policy:/missing_18n_labels.py:162
 msgid "title_napo_episode_6_4"
-msgstr "Problem pregnancy"
+msgstr "Probleme în perioada sarcinii"
 
 #. Default: "Out in the cold"
 #: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_6_5"
-msgstr "Out in the cold"
+msgstr "Excluderea socială"
 
 #. Default: "Don't make things worse"
 #: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_6_6"
-msgstr "Don't make things worse"
+msgstr "Nu înrăutăţi lucrurile!"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:165
 msgid "title_napo_episode_6_7"
-msgstr "The end"
+msgstr "Sfarsitul"
 
 #. Default: "Safe start"
 #: osha.policy:/missing_18n_labels.py:166
@@ -974,7 +974,7 @@ msgstr "Prea multă încredere în sine strică!"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_7_6"
-msgstr "The End"
+msgstr "Sfarsitul"
 
 #. Default: "Start"
 #: osha.policy:/missing_18n_labels.py:173
@@ -994,7 +994,7 @@ msgstr "Ţine-mă strâns"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_8_11"
-msgstr "The End"
+msgstr "Sfarsitul"
 
 #. Default: "Divide and rule"
 #: osha.policy:/missing_18n_labels.py:177
@@ -1045,7 +1045,7 @@ msgstr "Nu uita să te mişti"
 #. Default: "Introduction"
 #: osha.policy:/missing_18n_labels.py:185
 msgid "title_napo_episode_9_0"
-msgstr "Introduction"
+msgstr ""
 
 #. Default: "Assess the risk"
 #: osha.policy:/missing_18n_labels.py:186
@@ -1086,7 +1086,7 @@ msgstr "Lipsa securităţii costă"
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_9_7"
-msgstr "The End"
+msgstr "Sfarsitul"
 
 #: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_film_1"
