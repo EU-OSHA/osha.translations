@@ -5178,7 +5178,7 @@ msgstr "Få månedlige oppdateringer om HMS"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:15
 #: osha.theme:/browser/templates/oshmail_view.pt:43
 msgid "Subscribe"
-msgstr ""
+msgstr "Abonner"
 
 #. Default: "You could use ${label_our_alert_service} too!"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:17
