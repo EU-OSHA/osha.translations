@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.2 (unreleased)
+2.0.2 (2012-09-26)
 ------------------
 
 - Adding further Napo film translations (some were included in 2.0.1)
