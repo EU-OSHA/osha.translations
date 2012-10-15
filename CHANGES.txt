@@ -1,11 +1,10 @@
 osha.translations Changelog
 ===========================
 
-2.0.3 (unreleased)
+2.0.3 (2012-10-15)
 ------------------
 
-- Nothing changed yet.
-
+- Napo translation updates in IT and CA #5893 [thomasw]
 
 2.0.2 (2012-09-26)
 ------------------
