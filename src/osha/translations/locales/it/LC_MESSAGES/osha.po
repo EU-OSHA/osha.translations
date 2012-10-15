@@ -1109,7 +1109,7 @@ msgstr "Napo in: Proteggi la tua pelle!"
 # ---------- New Napo Film Number 14   Safe Maintenance
 #: osha.policy:/missing_18n_labels.py:197
 msgid "title_napo_film_14"
-msgstr "Napo in... Manutenzione...sicurezza"
+msgstr "Napo in... Manutenzione in ... sicurezza"
 
 #: osha.policy:/missing_18n_labels.py:198
 msgid "title_napo_film_2"
@@ -3381,7 +3381,7 @@ msgstr "Il finale"
 # NAPO 16 "Lungs at Work"
 #: osha.policy:/missing_18n_labels.py:78
 msgid "heading_napo-016-lungs-at-work"
-msgstr "Napo in ... Lungs at work (I polmoni al lavoro)"
+msgstr "Napo in ... Non c’è fumo senza danno"
 
 # NAPO 17 "Working Together"
 #: osha.policy:/missing_18n_labels.py:79
