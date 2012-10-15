@@ -2528,22 +2528,27 @@ msgstr ""
 #: osha.policy:/missing_18n_labels.py:53
 msgid "description_napo-017-working-together"
 msgstr ""
-"<p>All is not what it appears as the factory owner gives a media interview "
-"about the production and safety records of the company. On different levels, "
-"unsafe work practices, a failure to follow procedures and poor "
-"communications contradict her message that safety is a priority.</"
-"p><p>‘Working together’ addresses two issues in prevention: culture and "
-"behaviour. It emphasises that by working together, managers and employees "
-"can create a safer, healthier and more productive workplace based on a "
-"collaborative approach to improve safety culture - ‘the way we do things "
-"around here’ - the way in which safety is managed in the workplace.</"
-"p><p>Managers are leaders; effective leaders demonstrate their commitment by "
-"their actions. They promote OSH and lead by example; they are visible and "
-"aware of key issues. They are respected and trusted by the workforce because "
-"there is open communication and dialogue. They give recognition when things "
-"are done well and are decisive if things go wrong. Worker involvement is a "
-"two-way process where managers and employees talk to one another; listen to "
-"one another's concerns; solve problems, and share views and information</p>"
+"<p>Les aparences enganyen, com evidencia l’entrevista que la propietària d’una "
+"empresa ha concedit als mitjans de comunicació per parlar sobre els nivells de "
+"producció i de seguretat de la seva empresa. A diferents nivells, les pràctiques "
+"de treball poc segures, l’incompliment dels procediments i la falta de "
+"comunicació contradiuen el seu missatge que la seguretat és una prioritat. "
+"\"Treballant junts\" aborda dues qüestions relacionades amb la prevenció: "
+"la cultura i el comportament.</p><p>"
+"La pel·lícula fa èmfasi en què, si treballen conjuntament, directius i treballadors "
+"poden crear uns llocs de treball més segurs, saludables i productius, gràcies a "
+"una actitud de col·laboració amb l’objectiu de millorar la cultura de la seguretat "
+"(\"la nostra manera de fer les coses”), és a dir, com es gestiona la seguretat "
+"en el treball.</p><p>"
+"Els directius són líders i els líders eficaços demostren el seu compromís a través "
+"de les seves accions: fomenten la salut i la seguretat en el treball i donen "
+"exemple; són visibles i coneixen els principals problemes existents en l’entorn "
+"de treball. El personal els respecta i confia en ells perquè manteniment el diàleg "
+"i una comunicació fluids. Reconeixen quan les coses es fan bé i prenen decisions "
+"quan les coses surten malament.</p><p>"
+"La implicació dels treballadors és un procés recíproc en què els directius i els "
+"treballadors parlen, escolten les preocupacions de l’altre, resolen els "
+"problemes i comparteixen opinions i informació.</p>"
 
 #: osha.policy:/missing_18n_labels.py:530
 msgid "listingheader_priority"
@@ -3160,35 +3165,35 @@ msgstr "En Napo presenta... els pulmons al lloc de treball"
 # CA translations are missing
 #: osha.policy:/missing_18n_labels.py:79
 msgid "heading_napo-017-working-together"
-msgstr "Napo in... Working together"
+msgstr "EN NAPO A... TREBALLANT JUNTS"
 
 #: osha.policy:/missing_18n_labels.py:80
 msgid "heading_napo-017-working-together-episode-001-working-together"
-msgstr "Working together"
+msgstr "Treballant junts"
 
 #: osha.policy:/missing_18n_labels.py:81
 msgid "heading_napo-017-working-together-episode-002-bad-news"
-msgstr "Bad news"
+msgstr "Mala premsa"
 
 #: osha.policy:/missing_18n_labels.py:82
 msgid "heading_napo-017-working-together-episode-003-the-detail"
-msgstr "The detail"
+msgstr "Qüestió de prioritats"
 
 #: osha.policy:/missing_18n_labels.py:83
 msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
-msgstr "We can work it out"
+msgstr "Entre tots ho solucionarem"
 
 #: osha.policy:/missing_18n_labels.py:84
 msgid "heading_napo-017-working-together-episode-005-speak-up"
-msgstr "Speak up"
+msgstr "Informa!"
 
 #: osha.policy:/missing_18n_labels.py:85
 msgid "heading_napo-017-working-together-episode-006-safety-pays"
-msgstr "Safety pays"
+msgstr "La prevenció és rendible"
 
 #: osha.policy:/missing_18n_labels.py:86
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
-msgstr "All together now"
+msgstr "Ara tots junts!"
 
 #: osha.policy:/missing_18n_labels.py:87
 msgid "label_napo_click_to_see_film"
