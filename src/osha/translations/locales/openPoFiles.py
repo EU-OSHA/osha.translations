@@ -2,8 +2,8 @@
 
 # Author: Wolfgang Thomas <thomas@syslab.com>
 
-"""%(program)s: Check that all po files are sound and don't break when they
-are compiled
+"""%(program)s: Open po files for a given domain in all languages in the editor
+  of your choice
 
 usage:    %(program)s editor filename
 editor    the editor command to use, such as mate or kate
