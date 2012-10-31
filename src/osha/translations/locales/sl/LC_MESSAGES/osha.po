@@ -4302,7 +4302,7 @@ msgstr ""
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:28
 msgid "label_highlights"
-msgstr ""
+msgstr "Vrhunci"
 
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:46
