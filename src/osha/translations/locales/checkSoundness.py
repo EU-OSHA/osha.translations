@@ -33,7 +33,7 @@ dirs = [x for x in os.listdir('.') if len(x) == 2 and os.path.isdir(x)]
 houstonwehaveaproblem = False
 for dirname in dirs:
     path = "%s/LC_MESSAGES" % dirname
-    names = [x for x in os.listdir(path) if x.endswith('po')]
+    names = [x for x in os.listdir(path) if x.endswith('po') and not x.startswith('._')]
     for name in names:
         #print "\nchecking", name
         cmd = "msgfmt -C %s/%s" % (path, name)
