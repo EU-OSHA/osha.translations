@@ -4326,12 +4326,12 @@ msgstr ""
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:28
 msgid "label_highlights"
-msgstr "Svarbiausi įvykiai"
+msgstr "Aktualijos"
 
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:46
 msgid "label_previous_highlights"
-msgstr "Kita svarbi informacinė medžiaga"
+msgstr "Ankstesnis"
 
 #. Default: "In Focus"
 #: osha.theme:/browser/templates/osha_homepage.pt:59

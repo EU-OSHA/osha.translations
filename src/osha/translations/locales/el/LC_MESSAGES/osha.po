@@ -4363,12 +4363,12 @@ msgstr ""
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:28
 msgid "label_highlights"
-msgstr "Κύρια σημεία"
+msgstr "Επισημάνσεις"
 
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:46
 msgid "label_previous_highlights"
-msgstr "Προηγούμενα στιγμιότυπα ενδιαφέροντος"
+msgstr "Προηγούμενες Επισημάνσεις"
 
 #. Default: "In Focus"
 #: osha.theme:/browser/templates/osha_homepage.pt:59

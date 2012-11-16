@@ -4299,12 +4299,12 @@ msgstr ""
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:28
 msgid "label_highlights"
-msgstr "Svarīgākais"
+msgstr "Aktualitātes"
 
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:46
 msgid "label_previous_highlights"
-msgstr "Iepriekšejās iezīmes"
+msgstr "Iepriekšējās aktualitātes"
 
 #. Default: "In Focus"
 #: osha.theme:/browser/templates/osha_homepage.pt:59

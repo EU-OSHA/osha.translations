@@ -4343,12 +4343,12 @@ msgstr ""
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:28
 msgid "label_highlights"
-msgstr "Höhepunkte"
+msgstr "Aktuelles"
 
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:46
 msgid "label_previous_highlights"
-msgstr "Bisherige Höhepunkte"
+msgstr "Vorherige Nachrichten"
 
 #. Default: "In Focus"
 #: osha.theme:/browser/templates/osha_homepage.pt:59

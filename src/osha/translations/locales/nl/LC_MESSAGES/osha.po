@@ -4329,7 +4329,7 @@ msgstr "Hoogtepunten"
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:46
 msgid "label_previous_highlights"
-msgstr "Voorgaande highlights"
+msgstr "Archief"
 
 #. Default: "In Focus"
 #: osha.theme:/browser/templates/osha_homepage.pt:59
