@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.4 (unreleased)
+2.0.4 (2012-11-16)
 ------------------
 
 - Translation for Highlights #5975 [thomasw]
