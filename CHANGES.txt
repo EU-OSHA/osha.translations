@@ -5,6 +5,7 @@ osha.translations Changelog
 ------------------
 
 - extracted and translated 3 new label for PressRelease view #6105 [thomasw]
+- replace a sentence in Spanish for the oshmail portlet #6100 [deroiste]
 
 2.0.4 (2012-11-16)
 ------------------
