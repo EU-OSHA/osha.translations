@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.5 (unreleased)
+2.0.5 (2012-12-18)
 ------------------
 
 - extracted and translated 3 new label for PressRelease view #6105 [thomasw]
