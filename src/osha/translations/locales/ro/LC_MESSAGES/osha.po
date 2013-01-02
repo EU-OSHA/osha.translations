@@ -9893,3 +9893,11 @@ msgstr ""
 # ###
 #~ msgid "Our Events"
 #~ msgstr "Evenimentele noastre"
+
+
+# #5988 Footer link translations
+msgid "Privacy Policy"
+msgstr "Politica de confidenţialitate"
+
+msgid "Translations"
+msgstr "Traduceri"
