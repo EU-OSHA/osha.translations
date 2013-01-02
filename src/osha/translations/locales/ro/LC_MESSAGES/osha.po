@@ -4090,7 +4090,7 @@ msgstr ""
 
 #: osha.theme:/browser/templates/index_alphabetical.pt:127
 msgid "Translations"
-msgstr ""
+msgstr "Traduceri"
 
 #. Default: "Alphabetical Index of the Multilingual Thesaurus"
 #: osha.theme:/browser/templates/index_alphabetical.pt:36
@@ -9898,6 +9898,3 @@ msgstr ""
 # #5988 Footer link translations
 msgid "Privacy Policy"
 msgstr "Politica de confidenţialitate"
-
-msgid "Translations"
-msgstr "Traduceri"
