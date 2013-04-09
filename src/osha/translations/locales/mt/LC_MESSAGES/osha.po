@@ -3,15 +3,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Fri Dec 14 19:57:18 2012\n"
+"POT-Creation-Date: Thu Apr 11 18:07:46 2013\n"
 "PO-Revision-Date: 2007-08-10 18:48+0100\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
 "Language-Team: EU\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "Language-Code: mt\n"
 "Domain: osha\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -48,14 +48,10 @@ msgstr ""
 msgid "osha_seo_description_description"
 msgstr ""
 
-#: osha.adaptation:/schema.py:392
-msgid "Date to be confirmed"
-msgstr ""
-
-#. Default: "Check this box if the date has not yet been confirmed."
-#: osha.adaptation:/schema.py:393
+#. Default: "Date to be confirmed"
+#: osha.adaptation:/schema.py:392 osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/oshevents.pt:41
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:146
-#: osha.theme:/portlets/oshevents.pt:41 osha.theme:/portlets/events.pt:41
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 msgid "label_date_to_be_confirmed"
 msgstr "Id-data għad trid tiġi kkonfermata"
@@ -71,9 +67,27 @@ msgid "description_external_link"
 msgstr ""
 
 #. Default: "Referenced content"
-#: osha.adaptation:/schema.py:729
-msgid "referenced_content_label"
+#: osha.adaptation:/schema.py:703
+msgid "label_referenced_content"
 msgstr ""
+
+#. Default: "Links"
+#: osha.adaptation:/schema.py:726
+#: osha.theme:/skins/osha_theme_custom_templates/pressrelease_view.pt:121
+msgid "label_links"
+msgstr "Links"
+
+#. Default: "Notes to editors"
+#: osha.adaptation:/schema.py:744
+#: osha.theme:/skins/osha_theme_custom_templates/pressrelease_view.pt:135
+msgid "label_notes_to_editors"
+msgstr "Noti għall-edituri"
+
+#. Default: "Contacts"
+#: osha.adaptation:/schema.py:801
+#: osha.theme:/skins/osha_theme_custom_templates/pressrelease_view.pt:141
+msgid "label_press_inquiries"
+msgstr "Mistoqsijiet mill-midja"
 
 #. Default: "Press Releases"
 #: osha.dynamicpressroom:/browser/templates/pressroom.pt:46
@@ -252,7 +266,7 @@ msgstr "Pubblikazzjonijiet"
 
 #. Default: "Risk Observatory"
 #: osha.fop:/browser/oshnetwork_member_view.pt:89
-#: osha.policy:/missing_18n_labels.py:247
+#: osha.policy:/missing_18n_labels.py:255
 msgid "risk_observatory"
 msgstr "Osservatorju tar-riskji"
 
@@ -343,37 +357,36 @@ msgstr ""
 #: osha.hw:/skins/hw2012/hw2012_events.pt:45
 #: osha.hw:/browser/templates/footer_actions.pt:15
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:106
-#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
-#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
-#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:99
+#: osha.theme:/portlets/rollingquotes.pt:5 osha.theme:/portlets/moreabout.pt:8
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:24
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:50
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:78
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:133
 #: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:95
 #: osha.theme:/skins/osha_theme_custom_templates/widgets-p4-migration-4708/keyword.pt:65
-#: osha.theme:/portlets/moreabout.pt:8 osha.theme:/portlets/rollingquotes.pt:5
+#: osha.theme:/browser/collageviews/document_oshmail.pt:4
+#: osha.theme:/browser/collageviews/document_right_column.pt:5
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
+#: osha.theme:/browser/templates/rssfeeds.pt:85
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:37
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:48
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:49
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:70
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:81
-#: osha.theme:/browser/templates/network_chooser.pt:10
-#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/templates/search_ro.pt:40
+#: osha.theme:/browser/templates/napofilmview.pt:33
+#: osha.theme:/browser/templates/napofilmview.pt:38
 #: osha.theme:/browser/templates/resource_listing.pt:16
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
 #: osha.theme:/browser/templates/footer_actions.pt:15
 #: osha.theme:/browser/templates/footer_actions.pt:34
 #: osha.theme:/browser/templates/footer_actions.pt:58
-#: osha.theme:/browser/templates/practical_solution.pt:121
-#: osha.theme:/browser/templates/napofilmview.pt:33
-#: osha.theme:/browser/templates/napofilmview.pt:38
-#: osha.theme:/browser/templates/rssfeeds.pt:85
-#: osha.theme:/browser/collageviews/document_right_column.pt:5
-#: osha.theme:/browser/collageviews/document_oshmail.pt:4
+#: osha.theme:/browser/templates/network_chooser.pt:10
+#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:80
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:85
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:107
@@ -401,7 +414,7 @@ msgstr "Iżjed aħbarijiet"
 
 #. Default: "More events"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
-#: osha.theme:/portlets/oshevents.pt:63 osha.theme:/portlets/events.pt:63
+#: osha.theme:/portlets/events.pt:63 osha.theme:/portlets/oshevents.pt:63
 msgid "label_more_events"
 msgstr "Iżjed avvenimenti"
 
@@ -490,1060 +503,1078 @@ msgstr ""
 msgid "title_can_check"
 msgstr ""
 
-#. Default: "Lock out"
+#. Default: "Chemical risks at work"
 #: osha.policy:/missing_18n_labels.py:100
+msgid "title_napo_episode_12_1"
+msgstr "Riskji kimiċi fuq il-post tax-xogħol"
+
+#. Default: "Harmful"
+#: osha.policy:/missing_18n_labels.py:101
+msgid "title_napo_episode_12_2"
+msgstr "Ta' Ħsara"
+
+#. Default: "Irritant"
+#: osha.policy:/missing_18n_labels.py:102
+msgid "title_napo_episode_12_3"
+msgstr "Irritanti"
+
+#. Default: "Flammable"
+#: osha.policy:/missing_18n_labels.py:103
+msgid "title_napo_episode_12_4"
+msgstr "Fjammabbli"
+
+#. Default: "Corrosive"
+#: osha.policy:/missing_18n_labels.py:104
+msgid "title_napo_episode_12_5"
+msgstr "Korrożiv"
+
+#. Default: "Toxic"
+#: osha.policy:/missing_18n_labels.py:105
+msgid "title_napo_episode_12_6"
+msgstr "Tossiku"
+
+#. Default: "Dangerous for the environment"
+#: osha.policy:/missing_18n_labels.py:106
+msgid "title_napo_episode_12_7"
+msgstr "Ta' Periklu għall-Ambjent"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:107
+msgid "title_napo_episode_12_8"
+msgstr "Tmiem"
+
+#. Default: "Lock out"
+#: osha.policy:/missing_18n_labels.py:108
 msgid "title_napo_episode_14_1"
 msgstr "għeluq"
 
 #. Default: "Hidden hazards"
-#: osha.policy:/missing_18n_labels.py:101
+#: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_14_2"
 msgstr "Perikli moħbija"
 
 #. Default: "Don't improvise!"
-#: osha.policy:/missing_18n_labels.py:102
+#: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_14_3"
 msgstr "Timprovizzax"
 
 #. Default: "In a rush"
-#: osha.policy:/missing_18n_labels.py:103
+#: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_14_4"
 msgstr "Fl-għaġġla"
 
 #. Default: "Danger within!"
-#: osha.policy:/missing_18n_labels.py:104
+#: osha.policy:/missing_18n_labels.py:112
 msgid "title_napo_episode_14_5"
 msgstr "Periklu!"
 
 #. Default: "One, two, what to do?"
-#: osha.policy:/missing_18n_labels.py:105
+#: osha.policy:/missing_18n_labels.py:113
 msgid "title_napo_episode_14_6"
 msgstr "Min se jagħmel xiex?"
 
 #. Default: "Best signs story"
-#: osha.policy:/missing_18n_labels.py:106
+#: osha.policy:/missing_18n_labels.py:114
 msgid "title_napo_episode_1_0"
 msgstr "Obbligu ta' protezzjoni tar-ras"
 
 #. Default: "Danger"
-#: osha.policy:/missing_18n_labels.py:107
+#: osha.policy:/missing_18n_labels.py:115
 msgid "title_napo_episode_1_1"
 msgstr "Sinjali ta' salvataġġ u ta' emerġenza"
 
 #. Default: "Safety helmet must be worn"
-#: osha.policy:/missing_18n_labels.py:108
+#: osha.policy:/missing_18n_labels.py:116
 msgid "title_napo_episode_1_10"
 msgstr "Obbligu ta' protezzjoni tar-ras"
 
 #. Default: "Rescue signs"
-#: osha.policy:/missing_18n_labels.py:109
+#: osha.policy:/missing_18n_labels.py:117
 msgid "title_napo_episode_1_11"
 msgstr "Sinjali ta' salvataġġ u ta' emerġenza"
 
 #. Default: "Rescue route"
-#: osha.policy:/missing_18n_labels.py:110
+#: osha.policy:/missing_18n_labels.py:118
 msgid "title_napo_episode_1_12"
 msgstr "Bibien ta' emerġenza"
 
 #. Default: "First aid"
-#: osha.policy:/missing_18n_labels.py:111
+#: osha.policy:/missing_18n_labels.py:119
 msgid "title_napo_episode_1_13"
 msgstr "L-Ewwel għajnuna"
 
 #. Default: "Fire protection signs"
-#: osha.policy:/missing_18n_labels.py:112
+#: osha.policy:/missing_18n_labels.py:120
 msgid "title_napo_episode_1_14"
 msgstr "Sinjali ta' protezzjoni kontra n-nar"
 
 #. Default: "Fire-extinguishing equipment"
-#: osha.policy:/missing_18n_labels.py:113
+#: osha.policy:/missing_18n_labels.py:121
 msgid "title_napo_episode_1_15"
 msgstr "Tagħmir ta' tifi tan-nar"
 
 #. Default: "Fire alarm system"
-#: osha.policy:/missing_18n_labels.py:114
+#: osha.policy:/missing_18n_labels.py:122
 msgid "title_napo_episode_1_16"
 msgstr "Allarm ta' twissija ta' nar"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:115
+#: osha.policy:/missing_18n_labels.py:123
 msgid "title_napo_episode_1_17"
 msgstr "Tmiem"
 
 #. Default: "Danger - suspended load"
-#: osha.policy:/missing_18n_labels.py:116
+#: osha.policy:/missing_18n_labels.py:124
 msgid "title_napo_episode_1_2"
 msgstr "Bibien ta' emerġenza"
 
 #. Default: "Danger - fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:117
+#: osha.policy:/missing_18n_labels.py:125
 msgid "title_napo_episode_1_3"
 msgstr "L-Ewwel għajnuna"
 
 #. Default: "Prohibition signs"
-#: osha.policy:/missing_18n_labels.py:118
+#: osha.policy:/missing_18n_labels.py:126
 msgid "title_napo_episode_1_4"
 msgstr "Sinjali ta' protezzjoni kontra n-nar"
 
 #. Default: "No smoking"
-#: osha.policy:/missing_18n_labels.py:119
+#: osha.policy:/missing_18n_labels.py:127
 msgid "title_napo_episode_1_5"
 msgstr "Tagħmir ta' tifi tan-nar"
 
-# Default "Albanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:12
-msgid "heading_main_fop_portlet_albania"
-msgstr "Il-Punt Fokali Albaniż"
-
 #. Default: "No fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:120
+#: osha.policy:/missing_18n_labels.py:128
 msgid "title_napo_episode_1_6"
 msgstr "Allarm ta' twissija ta' nar"
 
 # ###
 # NAPO
 #. Default: "Mandantory signs"
-#: osha.policy:/missing_18n_labels.py:121
+#: osha.policy:/missing_18n_labels.py:129
 msgid "title_napo_episode_1_7"
 msgstr "Sinjali mandatarji"
 
+#: osha.policy:/missing_18n_labels.py:13
+msgid "Privacy Policy"
+msgstr ""
+
 #. Default: "Safety goggles must be worn"
-#: osha.policy:/missing_18n_labels.py:122
+#: osha.policy:/missing_18n_labels.py:130
 msgid "title_napo_episode_1_8"
 msgstr "Obbligu ta' protezzjoni tal-vista"
 
 #. Default: "Hearing protection must be worn"
-#: osha.policy:/missing_18n_labels.py:123
+#: osha.policy:/missing_18n_labels.py:131
 msgid "title_napo_episode_1_9"
 msgstr "Obbligu ta' protezzjoni tas-smigħ"
 
 #. Default: "The adventures of NAPO"
-#: osha.policy:/missing_18n_labels.py:124
+#: osha.policy:/missing_18n_labels.py:132
 msgid "title_napo_episode_2_0"
 msgstr "L-Avventuri ta' Napo"
 
 #. Default: "The importance of signposting"
-#: osha.policy:/missing_18n_labels.py:125
+#: osha.policy:/missing_18n_labels.py:133
 msgid "title_napo_episode_2_1"
 msgstr "L-Importanza tas-sinjalar"
 
 #. Default: "Signposting is not sufficient"
-#: osha.policy:/missing_18n_labels.py:126
+#: osha.policy:/missing_18n_labels.py:134
 msgid "title_napo_episode_2_2"
 msgstr "Is-Sinjalar mhux biżżejjed"
 
 #. Default: "Labels should be read"
-#: osha.policy:/missing_18n_labels.py:127
+#: osha.policy:/missing_18n_labels.py:135
 msgid "title_napo_episode_2_3"
 msgstr "It-Tikketti għandhom jinqraw"
 
 #. Default: "Choose public transports"
-#: osha.policy:/missing_18n_labels.py:128
+#: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_2_4"
 msgstr "Agħżel it-trasport pubbliku"
 
 #. Default: "The right protection at the right time"
-#: osha.policy:/missing_18n_labels.py:129
+#: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_2_5"
 msgstr "Il-Protezzjoni ġusta fil-mument adegwat"
 
-# Default "Austrian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:13
-msgid "heading_main_fop_portlet_austria"
-msgstr "Il-Punt Fokali Awstrijak"
-
 #. Default: "Improvising means risk taking"
-#: osha.policy:/missing_18n_labels.py:130
+#: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_2_6"
 msgstr "L-Improviżazzjoni ġġib ir-riskju"
 
 #. Default: "Each product has its own packaging"
-#: osha.policy:/missing_18n_labels.py:131
+#: osha.policy:/missing_18n_labels.py:139
 msgid "title_napo_episode_2_7"
 msgstr "Kull prodott għandu l-ippakkjar tiegħu"
 
+#: osha.policy:/missing_18n_labels.py:14
+msgid "Send this"
+msgstr ""
+
 #. Default: "Too much pressure is likely to be harmful"
-#: osha.policy:/missing_18n_labels.py:132
+#: osha.policy:/missing_18n_labels.py:140
 msgid "title_napo_episode_2_8"
 msgstr "Pressjoni żejda taf tkun ta' deni"
 
 #. Default: "Unsuitable material + incompetence = accident"
-#: osha.policy:/missing_18n_labels.py:133
+#: osha.policy:/missing_18n_labels.py:141
 msgid "title_napo_episode_2_9"
 msgstr "Materjali mhux adegwati + inkompetenza = inċidenti"
 
 #. Default: "Scratch and sniff - chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:134
+#: osha.policy:/missing_18n_labels.py:142
 msgid "title_napo_episode_3_0"
 msgstr "SUSTANZI PERIKOLUŻI FUQ IL-POST TAX-XOGĦOL"
 
 #. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:135
+#: osha.policy:/missing_18n_labels.py:143
 msgid "title_napo_episode_3_1"
 msgstr "Noċiv"
 
 #. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:136
+#: osha.policy:/missing_18n_labels.py:144
 msgid "title_napo_episode_3_2"
 msgstr "Irritanti"
 
 #. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:137
+#: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_3_3"
 msgstr "Fjammabbli"
 
 #. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:138
+#: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_3_4"
 msgstr "Korrużiv"
 
 #. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:139
+#: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_3_5"
 msgstr "Tossiku"
 
-# Default "Belgian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:14
-msgid "heading_main_fop_portlet_belgium"
-msgstr "Il-Punt Fokali Belġjan"
-
 #. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:140
+#: osha.policy:/missing_18n_labels.py:148
 msgid "title_napo_episode_3_6"
 msgstr "Perikoluż għall-ambjent"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:141
+#: osha.policy:/missing_18n_labels.py:149
 msgid "title_napo_episode_3_7"
 msgstr "Tmiem"
 
+#: osha.policy:/missing_18n_labels.py:15
+msgid "Copyright"
+msgstr "Drittijiet ta’ l-awtur"
+
 #. Default: "Clean Sweep"
-#: osha.policy:/missing_18n_labels.py:142
+#: osha.policy:/missing_18n_labels.py:150
 msgid "title_napo_episode_4_0"
 msgstr "Tindifa ġenerali"
 
 #. Default: "Change of plan"
-#: osha.policy:/missing_18n_labels.py:143
+#: osha.policy:/missing_18n_labels.py:151
 msgid "title_napo_episode_4_1"
 msgstr "Tibdil fil-pjanijiet"
 
 #. Default: "Work at height"
-#: osha.policy:/missing_18n_labels.py:144
+#: osha.policy:/missing_18n_labels.py:152
 msgid "title_napo_episode_4_2"
 msgstr "Xogħol fl-għoli"
 
 #. Default: "Enough is enough"
-#: osha.policy:/missing_18n_labels.py:145
+#: osha.policy:/missing_18n_labels.py:153
 msgid "title_napo_episode_4_3"
 msgstr "Iż-Żejjed kollu żejjed"
 
 #. Default: "Safety plan"
-#: osha.policy:/missing_18n_labels.py:146
+#: osha.policy:/missing_18n_labels.py:154
 msgid "title_napo_episode_4_4"
 msgstr "Pjan ta' sigurtà"
 
 #. Default: "Yellow card"
-#: osha.policy:/missing_18n_labels.py:147
+#: osha.policy:/missing_18n_labels.py:155
 msgid "title_napo_episode_4_5"
 msgstr "Karta safra"
 
 #. Default: "Bodybuilding"
-#: osha.policy:/missing_18n_labels.py:148
+#: osha.policy:/missing_18n_labels.py:156
 msgid "title_napo_episode_4_6"
 msgstr "Bodybuilding"
 
 #. Default: "Safety angels"
-#: osha.policy:/missing_18n_labels.py:149
+#: osha.policy:/missing_18n_labels.py:157
 msgid "title_napo_episode_4_7"
 msgstr "Xandar il-perikli li tkun taf bihom"
 
-# Default "Bosnian, Herzegovinian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:15
-msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
-msgstr "Il-Punt Fokali tal-Bożnja Ħerżegovina"
-
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:150
+#: osha.policy:/missing_18n_labels.py:158
 msgid "title_napo_episode_4_8"
 msgstr "Tmiem"
 
 #. Default: "Napo - safe on site"
-#: osha.policy:/missing_18n_labels.py:151
+#: osha.policy:/missing_18n_labels.py:159
 msgid "title_napo_episode_5_0"
 msgstr "Napo - sigurtà fuq is-sit"
 
+#: osha.policy:/missing_18n_labels.py:16
+msgid "Update"
+msgstr "Aġġorna"
+
 #. Default: "Building in safety"
-#: osha.policy:/missing_18n_labels.py:152
+#: osha.policy:/missing_18n_labels.py:160
 msgid "title_napo_episode_5_1"
 msgstr "Bini fis-sigurtà"
 
 #. Default: "Don't fall for it"
-#: osha.policy:/missing_18n_labels.py:153
+#: osha.policy:/missing_18n_labels.py:161
 msgid "title_napo_episode_5_2"
 msgstr "Ara taqa'!"
 
 #. Default: "Heading for a fall"
-#: osha.policy:/missing_18n_labels.py:154
+#: osha.policy:/missing_18n_labels.py:162
 msgid "title_napo_episode_5_3"
 msgstr "Hekk taqa'!"
 
 #. Default: "Champions of the world"
-#: osha.policy:/missing_18n_labels.py:155
+#: osha.policy:/missing_18n_labels.py:163
 msgid "title_napo_episode_5_4"
 msgstr "L-Imbarazz iktar periklu joħloq"
 
 #. Default: "Lightning strike"
-#: osha.policy:/missing_18n_labels.py:156
+#: osha.policy:/missing_18n_labels.py:164
 msgid "title_napo_episode_5_5"
 msgstr "Meta dahrek jittradik"
 
 #. Default: "Keep them apart"
-#: osha.policy:/missing_18n_labels.py:157
+#: osha.policy:/missing_18n_labels.py:165
 msgid "title_napo_episode_5_6"
 msgstr "Żommhom 'il bogħod minn xulxin"
 
 #. Default: "Five star treatment"
-#: osha.policy:/missing_18n_labels.py:158
+#: osha.policy:/missing_18n_labels.py:166
 msgid "title_napo_episode_5_7"
 msgstr "Trattament speċjali għall-pawża"
 
 #. Default: "Bad dream"
-#: osha.policy:/missing_18n_labels.py:159
+#: osha.policy:/missing_18n_labels.py:167
 msgid "title_napo_episode_5_8"
 msgstr "Ħolma kerha"
 
-# Default "Bulgarian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:16
-msgid "heading_main_fop_portlet_bulgaria"
-msgstr "Il-Punt Fokali Bulgaru"
-
 #. Default: "Safe landing"
-#: osha.policy:/missing_18n_labels.py:160
+#: osha.policy:/missing_18n_labels.py:168
 msgid "title_napo_episode_5_9"
 msgstr "Happy End"
 
 #. Default: "Napo in stop that noise!"
-#: osha.policy:/missing_18n_labels.py:161
+#: osha.policy:/missing_18n_labels.py:169
 msgid "title_napo_episode_6_0"
 msgstr "Napo f'Aqta' dak l-istorbju!"
 
 #. Default: "Irreparable"
-#: osha.policy:/missing_18n_labels.py:162
+#: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_6_1"
 msgstr "Dannu irreparabbli"
 
 #. Default: "Didn't hear it coming"
-#: osha.policy:/missing_18n_labels.py:163
+#: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_6_2"
 msgstr "Ma smajthiex ġejja"
 
 #. Default: "Noise in the office"
-#: osha.policy:/missing_18n_labels.py:164
+#: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_6_3"
 msgstr "Storbju fl-uffiċċju"
 
 #. Default: "Problem pregnancy"
-#: osha.policy:/missing_18n_labels.py:165
+#: osha.policy:/missing_18n_labels.py:173
 msgid "title_napo_episode_6_4"
 msgstr "It-Tqala u l-istorbju"
 
 #. Default: "Out in the cold"
-#: osha.policy:/missing_18n_labels.py:166
+#: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_6_5"
 msgstr "Min ma jismax dejjem waħdu"
 
 #. Default: "Don't make things worse"
-#: osha.policy:/missing_18n_labels.py:167
+#: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_6_6"
 msgstr "Il-Protezzjoni anke għal barra tgħodd"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:168
+#: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_6_7"
 msgstr "Tmiem"
 
 #. Default: "Safe start"
-#: osha.policy:/missing_18n_labels.py:169
+#: osha.policy:/missing_18n_labels.py:177
 msgid "title_napo_episode_7_0"
 msgstr "Napo in: Safe Start!"
 
-# Default "Croatian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:17
-msgid "heading_main_fop_portlet_croatia"
-msgstr "Il-Punt Fokali Kroat"
-
 #. Default: "Don't hesitate to ask questions"
-#: osha.policy:/missing_18n_labels.py:170
+#: osha.policy:/missing_18n_labels.py:178
 msgid "title_napo_episode_7_1"
 msgstr "Saqsi mistoqsijiet!"
 
 #. Default: "Attention listen up"
-#: osha.policy:/missing_18n_labels.py:171
+#: osha.policy:/missing_18n_labels.py:179
 msgid "title_napo_episode_7_2"
 msgstr "Attenzjoni - isma!"
 
 #. Default: "Information overload"
-#: osha.policy:/missing_18n_labels.py:172
+#: osha.policy:/missing_18n_labels.py:180
 msgid "title_napo_episode_7_3"
 msgstr "Tagħbija tal-informazzjoni!"
 
 #. Default: "Watch out for others too"
-#: osha.policy:/missing_18n_labels.py:173
+#: osha.policy:/missing_18n_labels.py:181
 msgid "title_napo_episode_7_4"
 msgstr "Attent għall-oħrajn ukoll!"
 
 #. Default: "Overconfidence is dangerous"
-#: osha.policy:/missing_18n_labels.py:174
+#: osha.policy:/missing_18n_labels.py:182
 msgid "title_napo_episode_7_5"
 msgstr "Kunfidenza żejda hija perikoluża!"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:175
+#: osha.policy:/missing_18n_labels.py:183
 msgid "title_napo_episode_7_6"
 msgstr "Tmiem"
 
 #. Default: "Start"
-#: osha.policy:/missing_18n_labels.py:176
+#: osha.policy:/missing_18n_labels.py:184
 msgid "title_napo_episode_8_0"
 msgstr "Ħaffef il-Piż"
 
 #. Default: "Modern stressful times"
-#: osha.policy:/missing_18n_labels.py:177
+#: osha.policy:/missing_18n_labels.py:185
 msgid "title_napo_episode_8_1"
 msgstr "Fi Żminjietna"
 
 #. Default: "Hold me tight"
-#: osha.policy:/missing_18n_labels.py:178
+#: osha.policy:/missing_18n_labels.py:186
 msgid "title_napo_episode_8_10"
 msgstr "Żommni Sew"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:179
+#: osha.policy:/missing_18n_labels.py:187
 msgid "title_napo_episode_8_11"
 msgstr "Tmiem"
 
-# Default "Cypriot Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:18
-msgid "heading_main_fop_portlet_cyprus"
-msgstr "Il-Punt Fokali Ċiprijott"
-
 #. Default: "Divide and rule"
-#: osha.policy:/missing_18n_labels.py:180
+#: osha.policy:/missing_18n_labels.py:188
 msgid "title_napo_episode_8_2"
 msgstr "Aqsam u Stagħna"
 
 #. Default: "Radical ergonomics"
-#: osha.policy:/missing_18n_labels.py:181
+#: osha.policy:/missing_18n_labels.py:189
 msgid "title_napo_episode_8_3"
 msgstr "Ergonomija Radikali"
 
 #. Default: "Twist and shout"
-#: osha.policy:/missing_18n_labels.py:182
+#: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_8_4"
 msgstr "‘Twist and Shout’"
 
 #. Default: "No grip"
-#: osha.policy:/missing_18n_labels.py:183
+#: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_episode_8_5"
 msgstr "Minn fejn Taqbad"
 
 #. Default: "Working height"
-#: osha.policy:/missing_18n_labels.py:184
+#: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_8_6"
 msgstr "L-Għoli tax-Xogħol"
 
 #. Default: "Bad vibrations"
-#: osha.policy:/missing_18n_labels.py:185
+#: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_episode_8_7"
 msgstr "Vibrazzjoni Ħażina"
 
 #. Default: "The duel"
-#: osha.policy:/missing_18n_labels.py:186
+#: osha.policy:/missing_18n_labels.py:194
 msgid "title_napo_episode_8_8"
 msgstr "Id-Dwell"
 
 #. Default: "Think to move"
-#: osha.policy:/missing_18n_labels.py:187
+#: osha.policy:/missing_18n_labels.py:195
 msgid "title_napo_episode_8_9"
 msgstr "Ara li Tiċċaqlaq"
 
 #. Default: "Introduction"
-#: osha.policy:/missing_18n_labels.py:188
+#: osha.policy:/missing_18n_labels.py:196
 msgid "title_napo_episode_9_0"
 msgstr "Introduction"
 
 #. Default: "Assess the risk"
-#: osha.policy:/missing_18n_labels.py:189
+#: osha.policy:/missing_18n_labels.py:197
 msgid "title_napo_episode_9_1"
 msgstr "Evalwa r-riskji"
 
-# Default "Czech Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:19
-msgid "heading_main_fop_portlet_czech-republic"
-msgstr "Il-Punt Fokali Ċek"
-
 #. Default: "Identify the unknown"
-#: osha.policy:/missing_18n_labels.py:190
+#: osha.policy:/missing_18n_labels.py:198
 msgid "title_napo_episode_9_2"
 msgstr "Riskju li ma tafx bih"
 
 #. Default: "Act on risks"
-#: osha.policy:/missing_18n_labels.py:191
+#: osha.policy:/missing_18n_labels.py:199
 msgid "title_napo_episode_9_3"
 msgstr "Ħu azzjoni fuq ir-riskji"
 
+# Default "Albanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:20
+msgid "heading_main_fop_portlet_albania"
+msgstr "Il-Punt Fokali Albaniż"
+
 #. Default: "Risky combination"
-#: osha.policy:/missing_18n_labels.py:192
+#: osha.policy:/missing_18n_labels.py:200
 msgid "title_napo_episode_9_4"
 msgstr "Periklu wara l-ieħor"
 
 #. Default: "Eliminate the hazard"
-#: osha.policy:/missing_18n_labels.py:193
+#: osha.policy:/missing_18n_labels.py:201
 msgid "title_napo_episode_9_5"
 msgstr "Elimina r-riskji"
 
 #. Default: "Safety pays"
-#: osha.policy:/missing_18n_labels.py:194
+#: osha.policy:/missing_18n_labels.py:202
 msgid "title_napo_episode_9_6"
 msgstr "Is-sigurtà tirrendi"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:195
+#: osha.policy:/missing_18n_labels.py:203
 msgid "title_napo_episode_9_7"
 msgstr "Tmiem"
 
-#: osha.policy:/missing_18n_labels.py:196
+#: osha.policy:/missing_18n_labels.py:204
 msgid "title_napo_film_1"
 msgstr "L-ISTORJA TAL-AĦJAR SINJALI"
 
-#: osha.policy:/missing_18n_labels.py:197
+#: osha.policy:/missing_18n_labels.py:205
 msgid "title_napo_film_11"
 msgstr "Napo f': “Is-sigurtà ġewwa… u barra mix-xogħol”"
 
 # ---------- New Napo Film Number 12    Danger: Chemicals
-#: osha.policy:/missing_18n_labels.py:198
+#: osha.policy:/missing_18n_labels.py:206
 msgid "title_napo_film_12"
 msgstr "Napo fil-... periklu: sustanzi kimiċi!"
 
 # ---------- New Napo Film Number 13    Protect your Skin
-#: osha.policy:/missing_18n_labels.py:199
+#: osha.policy:/missing_18n_labels.py:207
 msgid "title_napo_film_13"
 msgstr "Napo fi... Ipproteġi l-ġilda tiegħek"
 
-# Default "Danish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:20
-msgid "heading_main_fop_portlet_denmark"
-msgstr "Il-Punt Fokali Daniż"
-
 # ---------- New Napo Film Number 14   Safe Maintenance
-#: osha.policy:/missing_18n_labels.py:200
+#: osha.policy:/missing_18n_labels.py:208
 msgid "title_napo_film_14"
 msgstr "Napo f’... Manutenzjoni sikura"
 
-#: osha.policy:/missing_18n_labels.py:201
+#: osha.policy:/missing_18n_labels.py:209
 msgid "title_napo_film_2"
 msgstr "L-AVVENTURI TA’ NAPO"
 
-#: osha.policy:/missing_18n_labels.py:202
+# Default "Austrian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:21
+msgid "heading_main_fop_portlet_austria"
+msgstr "Il-Punt Fokali Awstrijak"
+
+#: osha.policy:/missing_18n_labels.py:210
 msgid "title_napo_film_3"
 msgstr "ĦOKK U XOMM...RISKJI KIMIĊI FUQ IX-XOGĦOL"
 
-#: osha.policy:/missing_18n_labels.py:203
+#: osha.policy:/missing_18n_labels.py:211
 msgid "title_napo_film_4"
 msgstr "NAPO F’SIGUR FUQ IS-SIT"
 
-#: osha.policy:/missing_18n_labels.py:204
+#: osha.policy:/missing_18n_labels.py:212
 msgid "title_napo_film_5"
 msgstr "NAPO F’TINDIFA TAJBA"
 
-#: osha.policy:/missing_18n_labels.py:205
+#: osha.policy:/missing_18n_labels.py:213
 msgid "title_napo_film_6"
 msgstr "NAPO F’AQTA’ DAK L-ISTORBJU!"
 
-#: osha.policy:/missing_18n_labels.py:206
+#: osha.policy:/missing_18n_labels.py:214
 msgid "title_napo_film_7"
 msgstr "NAPO F’IBDA BIT-TAJJEB!"
 
-#: osha.policy:/missing_18n_labels.py:207
+#: osha.policy:/missing_18n_labels.py:215
 msgid "title_napo_film_8"
 msgstr "NAPO F’ĦAFFEF IL-PIŻ!"
 
-#: osha.policy:/missing_18n_labels.py:208
+#: osha.policy:/missing_18n_labels.py:216
 msgid "title_napo_film_9"
 msgstr "Napo u r-Riskji"
-
-# Default "Estonian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:21
-msgid "heading_main_fop_portlet_estonia"
-msgstr "Il-Punt Fokali Estonjan"
 
 # ############################################
 # # keywords
 # ############################################
-#: osha.policy:/missing_18n_labels.py:211
+#: osha.policy:/missing_18n_labels.py:219
 msgid "accident_prevention"
 msgstr "Il-Prevenzjoni tal-Inċidenti"
 
-#: osha.policy:/missing_18n_labels.py:212
+# Default "Belgian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:22
+msgid "heading_main_fop_portlet_belgium"
+msgstr "Il-Punt Fokali Belġjan"
+
+#: osha.policy:/missing_18n_labels.py:220
 msgid "ageing"
 msgstr "Ħaddiema li Qegħdin Jixjieħu"
 
-#: osha.policy:/missing_18n_labels.py:213
+#: osha.policy:/missing_18n_labels.py:221
 msgid "agriculture"
 msgstr "Agrikultura"
 
-#: osha.policy:/missing_18n_labels.py:214
+#: osha.policy:/missing_18n_labels.py:222
 msgid "businessOSH"
 msgstr "Aspetti kummerċjali tal-OHS"
 
-#: osha.policy:/missing_18n_labels.py:215
+#: osha.policy:/missing_18n_labels.py:223
 msgid "cleaners"
 msgstr "ħaddiema tat-tindif"
 
-#: osha.policy:/missing_18n_labels.py:216
+#: osha.policy:/missing_18n_labels.py:224
 msgid "competitions"
 msgstr "Kompetizzjonijiet"
 
-#: osha.policy:/missing_18n_labels.py:217
+#: osha.policy:/missing_18n_labels.py:225
 msgid "construction"
 msgstr "Il-kostruzzjoni"
 
-#: osha.policy:/missing_18n_labels.py:218
+#: osha.policy:/missing_18n_labels.py:226
 msgid "csr"
 msgstr "Responsabbiltà Soċjali mill-Kumpaniji"
 
-#: osha.policy:/missing_18n_labels.py:219
+#: osha.policy:/missing_18n_labels.py:227
 msgid "cww"
 msgstr "Dinja tax-xogħol li qiegħda tinbidel"
 
-# Default "Finnish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:22
-msgid "heading_main_fop_portlet_finland"
-msgstr "Il-Punt Fokali Finlandiż"
-
-#: osha.policy:/missing_18n_labels.py:220
+#: osha.policy:/missing_18n_labels.py:228
 msgid "dangerous_substances"
 msgstr "Sustanzi perikolużi"
 
-#: osha.policy:/missing_18n_labels.py:221
+#: osha.policy:/missing_18n_labels.py:229
 msgid "disability"
 msgstr "Persuni b’diżabbilità"
 
-#: osha.policy:/missing_18n_labels.py:222
+# Default "Bosnian, Herzegovinian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:23
+msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
+msgstr "Il-Punt Fokali tal-Bożnja Ħerżegovina"
+
+#. Default: "Disabled People"
+#: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:223
+#: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
 msgstr "Inċentivi ekonomiċi"
 
-#: osha.policy:/missing_18n_labels.py:224
+#: osha.policy:/missing_18n_labels.py:232
 msgid "education"
 msgstr "Edukazzjoni"
 
-#: osha.policy:/missing_18n_labels.py:225
+#. Default: "ESENER"
+#: osha.policy:/missing_18n_labels.py:233
 msgid "esener"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:226
+#: osha.policy:/missing_18n_labels.py:234
 msgid "fisheries"
 msgstr "Sajd"
 
-#: osha.policy:/missing_18n_labels.py:227
+#: osha.policy:/missing_18n_labels.py:235
 msgid "gender"
 msgstr "Sess"
 
-#: osha.policy:/missing_18n_labels.py:228
+#: osha.policy:/missing_18n_labels.py:236
 msgid "green_jobs"
 msgstr "impjiegi ħodor"
 
-#: osha.policy:/missing_18n_labels.py:229
+#. Default: "Health Care"
+#: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
 msgstr ""
 
-# Default "French Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:23
-msgid "heading_main_fop_portlet_france"
-msgstr "Il-Punt Fokali Franċiż"
-
-#: osha.policy:/missing_18n_labels.py:230
+#: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
 msgstr "Kura tas-saħħa"
 
-#: osha.policy:/missing_18n_labels.py:231
+#: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
 msgstr "Horeca"
 
-#: osha.policy:/missing_18n_labels.py:232
+# Default "Bulgarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:24
+msgid "heading_main_fop_portlet_bulgaria"
+msgstr "Il-Punt Fokali Bulgaru"
+
+#: osha.policy:/missing_18n_labels.py:240
 msgid "hwi"
 msgstr "Postijiet tax-xogħol li jieħdu ħsieb is-saħħa"
 
-#: osha.policy:/missing_18n_labels.py:233
+#: osha.policy:/missing_18n_labels.py:241
 msgid "legislation"
 msgstr "Legiżlazzjoni"
 
-#: osha.policy:/missing_18n_labels.py:234
+#: osha.policy:/missing_18n_labels.py:242
 msgid "maintenance"
 msgstr "manutenzjoni"
 
-#: osha.policy:/missing_18n_labels.py:235
+#: osha.policy:/missing_18n_labels.py:243
 msgid "management_leadership"
 msgstr "tmexxija amministrattiva"
 
-#: osha.policy:/missing_18n_labels.py:236
+#: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
 msgstr "Migrant Workers"
 
-#: osha.policy:/missing_18n_labels.py:237
+#: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
 msgstr "Disturbi Muskulo-skeletali"
 
-#: osha.policy:/missing_18n_labels.py:238
+#: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
 msgstr "Nanotechnology"
 
-#: osha.policy:/missing_18n_labels.py:239
+#: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
 msgstr "Storbju"
 
-# Default "German Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:24
-msgid "heading_main_fop_portlet_germany"
-msgstr "Il-Punt Fokali Ġermaniż"
-
-#: osha.policy:/missing_18n_labels.py:240
+#: osha.policy:/missing_18n_labels.py:248
 msgid "organisation"
 msgstr "Organizzazzjoni u strateġiji"
 
-#: osha.policy:/missing_18n_labels.py:241
+#: osha.policy:/missing_18n_labels.py:249
 msgid "osheducation"
 msgstr "L-implimentazzjoni tal-OHS fl-Edukazzjoni"
 
-#: osha.policy:/missing_18n_labels.py:242
+# Default "Croatian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:25
+msgid "heading_main_fop_portlet_croatia"
+msgstr "Il-Punt Fokali Kroat"
+
+#: osha.policy:/missing_18n_labels.py:250
 msgid "prevention"
 msgstr "Prevention"
 
-#: osha.policy:/missing_18n_labels.py:243 osha.searchurls:/interfaces.py:15
+#: osha.policy:/missing_18n_labels.py:251 osha.searchurls:/interfaces.py:15
 msgid "provider"
 msgstr "Provditur"
 
-#: osha.policy:/missing_18n_labels.py:244
+#. Default: "Publications"
+#: osha.policy:/missing_18n_labels.py:252
 msgid "publications"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:245
+#: osha.policy:/missing_18n_labels.py:253
 msgid "research"
 msgstr "Riċerka"
 
-#: osha.policy:/missing_18n_labels.py:246
+#: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"
 msgstr "Evalwazzjoni tar-riskji"
 
-#: osha.policy:/missing_18n_labels.py:248
+#: osha.policy:/missing_18n_labels.py:256
 msgid "risks"
 msgstr "Riskji Emerġenti"
 
-#: osha.policy:/missing_18n_labels.py:249
+#: osha.policy:/missing_18n_labels.py:257
 msgid "road_transport"
 msgstr "Trasport bit-Triq"
 
-# Default "Greek Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:25
-msgid "heading_main_fop_portlet_greece"
-msgstr "Il-Punt Fokali Grieg"
-
-#: osha.policy:/missing_18n_labels.py:250
+#: osha.policy:/missing_18n_labels.py:258
 msgid "statistics"
 msgstr "Statistiċi"
 
-#: osha.policy:/missing_18n_labels.py:251
+#: osha.policy:/missing_18n_labels.py:259
 msgid "stress"
 msgstr "Stress"
 
-#: osha.policy:/missing_18n_labels.py:252
+# Default "Cypriot Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:26
+msgid "heading_main_fop_portlet_cyprus"
+msgstr "Il-Punt Fokali Ċiprijott"
+
+#: osha.policy:/missing_18n_labels.py:260
 msgid "transport"
 msgstr "Trasport"
 
-#: osha.policy:/missing_18n_labels.py:253
+#: osha.policy:/missing_18n_labels.py:261
 msgid "whp"
 msgstr "Promozzjoni tas-Saħħa fuq il-Post tax-Xogħol"
 
-#: osha.policy:/missing_18n_labels.py:254
+#: osha.policy:/missing_18n_labels.py:262
 msgid "worker_participation"
 msgstr "parteċipazzjoni tal-ħaddiema"
 
-#: osha.policy:/missing_18n_labels.py:255
+#: osha.policy:/missing_18n_labels.py:263
 msgid "young_people"
 msgstr "Żgħażagħ"
 
-#: osha.policy:/missing_18n_labels.py:258
-#: osha.policy:/missing_18n_labels.py:556
+#: osha.policy:/missing_18n_labels.py:266
+#: osha.policy:/missing_18n_labels.py:564
 msgid "osha_label_press_and_multimedia"
 msgstr "Stampa u Multimidja"
 
-# Default "Hungarian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:26
-msgid "heading_main_fop_portlet_hungary"
-msgstr "Il-Punt Fokali Ungeriż"
-
-#: osha.policy:/missing_18n_labels.py:261
+#: osha.policy:/missing_18n_labels.py:269
 msgid "January"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:262
+# Default "Czech Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:27
+msgid "heading_main_fop_portlet_czech-republic"
+msgstr "Il-Punt Fokali Ċek"
+
+#: osha.policy:/missing_18n_labels.py:270
 msgid "February"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:263
+#: osha.policy:/missing_18n_labels.py:271
 msgid "March"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:264
+#: osha.policy:/missing_18n_labels.py:272
 msgid "April"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:265
+#: osha.policy:/missing_18n_labels.py:273
 msgid "May"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:266
+#: osha.policy:/missing_18n_labels.py:274
 msgid "June"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:267
+#: osha.policy:/missing_18n_labels.py:275
 msgid "July"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:268
+#: osha.policy:/missing_18n_labels.py:276
 msgid "August"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:269
+#: osha.policy:/missing_18n_labels.py:277
 msgid "September"
 msgstr ""
 
-# Default "Icelandic Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:27
-msgid "heading_main_fop_portlet_iceland"
-msgstr "Il-Punt Fokali Iżlandiż"
-
-#: osha.policy:/missing_18n_labels.py:270
+#: osha.policy:/missing_18n_labels.py:278
 msgid "October"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:271
+#: osha.policy:/missing_18n_labels.py:279
 msgid "November"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:272
+# Default "Danish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:28
+msgid "heading_main_fop_portlet_denmark"
+msgstr "Il-Punt Fokali Daniż"
+
+#: osha.policy:/missing_18n_labels.py:280
 msgid "December"
 msgstr ""
 
-#: osha.policy:/missing_18n_labels.py:275
+#: osha.policy:/missing_18n_labels.py:283
 msgid "action_firstlogin_proceed"
 msgstr "Mur għas-settings personali tiegħek"
 
-#: osha.policy:/missing_18n_labels.py:276
+#: osha.policy:/missing_18n_labels.py:284
 msgid "april"
 msgstr "april"
 
-#: osha.policy:/missing_18n_labels.py:277
+#: osha.policy:/missing_18n_labels.py:285
 msgid "august"
 msgstr "awissu"
 
-#: osha.policy:/missing_18n_labels.py:278
+#: osha.policy:/missing_18n_labels.py:286
 msgid "back_to"
 msgstr "lura għal"
 
-#: osha.policy:/missing_18n_labels.py:279
+#: osha.policy:/missing_18n_labels.py:287
 msgid "before"
 msgstr "qabel"
 
-# Default "Irish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:28
-msgid "heading_main_fop_portlet_ireland"
-msgstr "Il-Punt Fokali Irlandiż"
-
-#: osha.policy:/missing_18n_labels.py:280
+#: osha.policy:/missing_18n_labels.py:288
 msgid "box_about"
 msgstr "dwar"
 
-#: osha.policy:/missing_18n_labels.py:281
+#: osha.policy:/missing_18n_labels.py:289
 msgid "box_created_by"
 msgstr "Maħluq minn"
 
-#: osha.policy:/missing_18n_labels.py:282
+# Default "Estonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:29
+msgid "heading_main_fop_portlet_estonia"
+msgstr "Il-Punt Fokali Estonjan"
+
+#: osha.policy:/missing_18n_labels.py:290
 msgid "box_last_modified"
 msgstr "Modifikat l-aħħar"
 
-#: osha.policy:/missing_18n_labels.py:283
+#: osha.policy:/missing_18n_labels.py:291
 msgid "box_oshmail_subscribe"
 msgstr ""
 "Agħmel abbonament mal-Bullettin tagħna <a href=\"http://osha.europa.eu/"
 "oshmail/\">${newsletter}</a>"
 
-#: osha.policy:/missing_18n_labels.py:284
+#: osha.policy:/missing_18n_labels.py:292
 msgid "box_provided_by"
 msgstr "Informazzjoni mogħtija minn"
 
-#: osha.policy:/missing_18n_labels.py:285
+#: osha.policy:/missing_18n_labels.py:293
 msgid "box_search_seminars"
 msgstr "Fittex is-seminars"
 
-#: osha.policy:/missing_18n_labels.py:286
+#: osha.policy:/missing_18n_labels.py:294
 msgid "box_speaker"
 msgstr "Kelliema magħżula"
 
-#: osha.policy:/missing_18n_labels.py:287
+#: osha.policy:/missing_18n_labels.py:295
 msgid "box_speeches"
 msgstr "Taħdidiet magħżula"
 
-#: osha.policy:/missing_18n_labels.py:288
+#: osha.policy:/missing_18n_labels.py:296
 msgid "box_this_url"
 msgstr "Il-URL ta’ dan id-dokument"
 
-#: osha.policy:/missing_18n_labels.py:289
+#: osha.policy:/missing_18n_labels.py:297
 msgid "calendar day view"
 msgstr "dehra ta’ jum skond il-kalendarju"
 
-# Default "Italian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:29
-msgid "heading_main_fop_portlet_italy"
-msgstr "Il-Punt Fokali Taljan"
-
-#: osha.policy:/missing_18n_labels.py:290
+#: osha.policy:/missing_18n_labels.py:298
 msgid "convert to pdf"
 msgstr "ikkonverti għal pdf"
 
-#: osha.policy:/missing_18n_labels.py:291
+#: osha.policy:/missing_18n_labels.py:299
 msgid "daily"
 msgstr "kuljum"
 
+# Default "Finnish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:30
+msgid "heading_main_fop_portlet_finland"
+msgstr "Il-Punt Fokali Finlandiż"
+
 # # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:292
+#: osha.policy:/missing_18n_labels.py:300
 msgid "day"
 msgstr "jum"
 
-#: osha.policy:/missing_18n_labels.py:293
+#: osha.policy:/missing_18n_labels.py:301
 msgid "days"
 msgstr "jiem"
 
-#: osha.policy:/missing_18n_labels.py:294
+#: osha.policy:/missing_18n_labels.py:302
 msgid "december"
 msgstr "diċembru"
 
-#: osha.policy:/missing_18n_labels.py:295
+#: osha.policy:/missing_18n_labels.py:303
 msgid "default"
 msgstr "ipprogrammat minn qabel"
 
-#: osha.policy:/missing_18n_labels.py:296
+#: osha.policy:/missing_18n_labels.py:304
 msgid "delete"
 msgstr "ħassar"
 
 # # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
-#: osha.policy:/missing_18n_labels.py:297
+#: osha.policy:/missing_18n_labels.py:305
 msgid "details_about_authors"
 msgstr ""
 "Aqbad il-linja ta’ spjegazzjoni – tikkontjeni dettalji dwar l-awtur u d-data "
 "ta’ modifika."
 
-#: osha.policy:/missing_18n_labels.py:298
+#: osha.policy:/missing_18n_labels.py:306
 msgid "document_type"
 msgstr "Tip ta’ Dokument:"
 
-#: osha.policy:/missing_18n_labels.py:299
+#: osha.policy:/missing_18n_labels.py:307
 msgid "download"
 msgstr "niżżel"
 
-# Default "Kosovar Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:30
-msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
-msgstr "Il-Punt Fokali Kosovu"
-
-#: osha.policy:/missing_18n_labels.py:300
+#: osha.policy:/missing_18n_labels.py:308
 msgid "download_full_publication"
 msgstr "Iddownlowdja l-pubblikazzjoni sħiħa f’ PDF format"
 
-#: osha.policy:/missing_18n_labels.py:301
+#: osha.policy:/missing_18n_labels.py:309
 msgid "draft"
 msgstr "abbozz"
 
-#: osha.policy:/missing_18n_labels.py:302
+# Default "French Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:31
+msgid "heading_main_fop_portlet_france"
+msgstr "Il-Punt Fokali Franċiż"
+
+#: osha.policy:/missing_18n_labels.py:310
 msgid "edit portlet content"
 msgstr "editja l-kontenut tal-portlet"
 
-#: osha.policy:/missing_18n_labels.py:303
+#: osha.policy:/missing_18n_labels.py:311
 msgid "emerging_risks"
 msgstr "Riskji emerġenti"
 
-#: osha.policy:/missing_18n_labels.py:304
+#: osha.policy:/missing_18n_labels.py:312
 msgid "event_type"
 msgstr "Tip(i) ta’ Avveniment(i)"
 
-#: osha.policy:/missing_18n_labels.py:305
+#: osha.policy:/missing_18n_labels.py:313
 msgid "february"
 msgstr "frar"
 
 # # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:306
+#: osha.policy:/missing_18n_labels.py:314
 msgid "feedback_comment"
 msgstr "Kumment"
 
-#: osha.policy:/missing_18n_labels.py:307
+#: osha.policy:/missing_18n_labels.py:315
 msgid "feedback_country"
 msgstr "Mill-Pajjiż:"
 
-#: osha.policy:/missing_18n_labels.py:308
+#: osha.policy:/missing_18n_labels.py:316
 msgid "feedback_from_name"
 msgstr "Isem:"
 
 # # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:309
+#: osha.policy:/missing_18n_labels.py:317
 msgid "feedback_link"
 msgstr "Link"
 
-# Default "Latvian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:31
-msgid "heading_main_fop_portlet_latvia"
-msgstr "Il-Punt Fokali Latvjan"
-
-#: osha.policy:/missing_18n_labels.py:310
+#: osha.policy:/missing_18n_labels.py:318
 msgid "feedback_mailtemplate_body"
 msgstr "Dan il-feedback  huwa mibgħut minn:"
 
-#: osha.policy:/missing_18n_labels.py:311
+#: osha.policy:/missing_18n_labels.py:319
 msgid "feedback_organization_size"
 msgstr "Id-Daqs ta’ l-organizzazzjoni:"
 
-#: osha.policy:/missing_18n_labels.py:312
+# Default "German Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:32
+msgid "heading_main_fop_portlet_germany"
+msgstr "Il-Punt Fokali Ġermaniż"
+
+#: osha.policy:/missing_18n_labels.py:320
 msgid "feedback_sender"
 msgstr "It-Tip ta’ persuna li tibgħat:"
 
-#: osha.policy:/missing_18n_labels.py:313
+#: osha.policy:/missing_18n_labels.py:321
 msgid "feedback_sender_mssg_1"
 msgstr "Għażiż Sinjur / Sinjura,"
 
-#: osha.policy:/missing_18n_labels.py:314
+#: osha.policy:/missing_18n_labels.py:322
 msgid "feedback_sender_mssg_2"
 msgstr ""
 "Grazzi tal-feedback  tiegħek. Napprezzaw il-kummenti tiegħek dwar l-Aġenzija "
@@ -1553,7 +1584,7 @@ msgstr ""
 "f’kull każ. Madankollu, aħna naqraw il-kummenti kollha tagħkom, u nużaw il-"
 "feedback  tagħkom sabiex intejbu s-siti ta’ l-internet u s-servizzi tagħna."
 
-#: osha.policy:/missing_18n_labels.py:315
+#: osha.policy:/missing_18n_labels.py:323
 msgid "feedback_sender_mssg_3"
 msgstr ""
 "Tista’ tibqa’ aġġornat ma’ żviluppi ġodda fis-sît ta’ l-internet tagħna "
@@ -1561,352 +1592,352 @@ msgstr ""
 "index_en.htm] u tabbona għall-bullettin elettroniku tagħna OSHmail [http://"
 "osha.europa.eu/oshmail]. "
 
-#: osha.policy:/missing_18n_labels.py:316
+#: osha.policy:/missing_18n_labels.py:324
 msgid "feedback_sender_mssg_from"
 msgstr "L-Aġenzija Ewropea ghas-Sigurtà u s-Saħħa fuq il-Post tax-Xogħol"
 
-#: osha.policy:/missing_18n_labels.py:317
+#: osha.policy:/missing_18n_labels.py:325
 msgid "feedback_sender_mssg_thankyou"
 msgstr "Dejjem tiegħek,"
 
-#: osha.policy:/missing_18n_labels.py:318
+#: osha.policy:/missing_18n_labels.py:326
 msgid "feedback_sent_by"
 msgstr "Dan il-feedback huwa mibgħut minn:"
 
-#: osha.policy:/missing_18n_labels.py:319
+#: osha.policy:/missing_18n_labels.py:327
 msgid "foresight"
 msgstr "Ħarsa ġenerali"
 
-# Default "Liechtenstein Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:32
-msgid "heading_main_fop_portlet_liechtenstein"
-msgstr "Il-Punt Fokali ta’ Liechtenstein"
-
-#: osha.policy:/missing_18n_labels.py:320
+#: osha.policy:/missing_18n_labels.py:328
 msgid "forward"
 msgstr "Għaddi lil"
 
-#: osha.policy:/missing_18n_labels.py:321
+#: osha.policy:/missing_18n_labels.py:329
 msgid "from"
 msgstr "Minn"
 
-#: osha.policy:/missing_18n_labels.py:322
+# Default "Greek Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:33
+msgid "heading_main_fop_portlet_greece"
+msgstr "Il-Punt Fokali Grieg"
+
+#: osha.policy:/missing_18n_labels.py:330
 msgid "go_to_calendar"
 msgstr "Mur fil-Kalendarju"
 
-#: osha.policy:/missing_18n_labels.py:323
+#: osha.policy:/missing_18n_labels.py:331
 msgid "go_to_folder_localroles"
 msgstr "Idħol fir-rwoli lokali tal-fowlder"
 
 # # 1 more: ./plone_templates/folder_listing.pt
-#: osha.policy:/missing_18n_labels.py:324
+#: osha.policy:/missing_18n_labels.py:332
 msgid "go_to_parent_url"
 msgstr "Itla’ livell wieħed"
 
-#: osha.policy:/missing_18n_labels.py:325
+#: osha.policy:/missing_18n_labels.py:333
 msgid "header_active"
 msgstr "Attiv"
 
-#: osha.policy:/missing_18n_labels.py:326
+#: osha.policy:/missing_18n_labels.py:334
 msgid "header_portlet_personalise"
 msgstr "Ippersonalizza it-tagħrif fuq dan is-sît "
 
-#: osha.policy:/missing_18n_labels.py:327
+#: osha.policy:/missing_18n_labels.py:335
 msgid "header_title"
 msgstr "Titolu"
 
-#: osha.policy:/missing_18n_labels.py:328
+#: osha.policy:/missing_18n_labels.py:336
 msgid "heading_actions"
 msgstr "Azzjonijiet"
 
-#: osha.policy:/missing_18n_labels.py:329
+#: osha.policy:/missing_18n_labels.py:337
 msgid "heading_add_to_calendar"
 msgstr "Żid avveniment fil-kalendarju"
 
-# Default "Lithuanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:33
-msgid "heading_main_fop_portlet_lithuania"
-msgstr "Il-Punt Fokali Litwan"
-
-#: osha.policy:/missing_18n_labels.py:330
+#: osha.policy:/missing_18n_labels.py:338
 msgid "heading_advanced_search"
 msgstr "Tfittxija avvanzata għal kontenut"
 
-#: osha.policy:/missing_18n_labels.py:331
+#: osha.policy:/missing_18n_labels.py:339
 msgid "heading_alert_add_searchquer"
 msgstr "Żid Inkjesta ġdida ta’ Tfittxija"
 
-#: osha.policy:/missing_18n_labels.py:332
+# Default "Hungarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:34
+msgid "heading_main_fop_portlet_hungary"
+msgstr "Il-Punt Fokali Ungeriż"
+
+#: osha.policy:/missing_18n_labels.py:340
 msgid "heading_alert_edit_searchquer"
 msgstr "Editja l-Inkjesta ta’ tfittxija &quot; ${itemtype} &quot;"
 
-#: osha.policy:/missing_18n_labels.py:333
+#: osha.policy:/missing_18n_labels.py:341
 msgid "heading_alerts_generalinterests"
 msgstr "L-interessi ġenerali tiegħi"
 
-#: osha.policy:/missing_18n_labels.py:334
+#: osha.policy:/missing_18n_labels.py:342
 msgid "heading_alerts_specialinterests"
 msgstr "L-interessi speċjali tiegħi"
 
-#: osha.policy:/missing_18n_labels.py:335
+#: osha.policy:/missing_18n_labels.py:343
 msgid "heading_authorities"
 msgstr "Awtoritajiet"
 
-#: osha.policy:/missing_18n_labels.py:336
+#: osha.policy:/missing_18n_labels.py:344
 msgid "heading_calendar_views"
 msgstr "Dehriet tal-Kalendarju"
 
-#: osha.policy:/missing_18n_labels.py:337
+#: osha.policy:/missing_18n_labels.py:345
 msgid "heading_document_actions"
 msgstr "Azzjonijiet tad-Dokument"
 
-#: osha.policy:/missing_18n_labels.py:338
+#: osha.policy:/missing_18n_labels.py:346
 msgid "heading_ew2005_stopthatnoise"
 msgstr "Aqta' dak l-Istorbju!"
 
-#: osha.policy:/missing_18n_labels.py:339
+#: osha.policy:/missing_18n_labels.py:347
 msgid "heading_exception_details"
 msgstr "Dettalji ta’ eċċezzjoni"
 
-# Default "Luxembourgish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:34
-msgid "heading_main_fop_portlet_luxembourg"
-msgstr "Il-Punt Fokali Lussemburgiż"
-
-#: osha.policy:/missing_18n_labels.py:340
+#: osha.policy:/missing_18n_labels.py:348
 msgid "heading_feedback_comments"
 msgstr "Kummenti"
 
-#: osha.policy:/missing_18n_labels.py:341
+#: osha.policy:/missing_18n_labels.py:349
 msgid "heading_file_contents"
 msgstr "Kontenut tal-fajl"
 
-#: osha.policy:/missing_18n_labels.py:342
+# Default "Icelandic Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:35
+msgid "heading_main_fop_portlet_iceland"
+msgstr "Il-Punt Fokali Iżlandiż"
+
+#: osha.policy:/missing_18n_labels.py:350
 msgid "heading_hierarchical_index"
 msgstr "Indiċi ta’ Ġerarkija"
 
-#: osha.policy:/missing_18n_labels.py:343
+#: osha.policy:/missing_18n_labels.py:351
 msgid "heading_index_by_nace"
 msgstr "Indiċi skond NACE"
 
-#: osha.policy:/missing_18n_labels.py:344
+#: osha.policy:/missing_18n_labels.py:352
 msgid "heading_index_by_providers"
 msgstr "Indiċi skond Provvedituri"
 
-#: osha.policy:/missing_18n_labels.py:345
+#: osha.policy:/missing_18n_labels.py:353
 msgid "heading_index_by_sme"
 msgstr "Indiċi skond SME"
 
-#: osha.policy:/missing_18n_labels.py:346
+#: osha.policy:/missing_18n_labels.py:354
 #: osha.policy:/skins/osha_content/index_topic.pt:13
 msgid "heading_index_by_topic"
 msgstr "Indiċi skond is-Suġġett"
 
-#: osha.policy:/missing_18n_labels.py:347
+#: osha.policy:/missing_18n_labels.py:355
 msgid "heading_latest_seminars"
 msgstr "Is-Seminars ta' dan l-aħħar"
 
-#: osha.policy:/missing_18n_labels.py:348
+#: osha.policy:/missing_18n_labels.py:356
 msgid "heading_link_to"
 msgstr "Link għal"
 
-#: osha.policy:/missing_18n_labels.py:349
+#: osha.policy:/missing_18n_labels.py:357
 msgid "heading_link_to_this_site"
 msgstr "Link għal dan is-sît"
 
-# Default "Maltese Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:35
-msgid "heading_main_fop_portlet_malta"
-msgstr "Il-Punt Fokali Malti"
-
-#: osha.policy:/missing_18n_labels.py:350
+#: osha.policy:/missing_18n_labels.py:358
 msgid "heading_lost_password"
 msgstr "Password mitlufa"
 
-#: osha.policy:/missing_18n_labels.py:351
+#: osha.policy:/missing_18n_labels.py:359
 msgid "heading_other_national_sites"
 msgstr "Siti nazzjonali oħra"
 
-#: osha.policy:/missing_18n_labels.py:352
+# Default "Irish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:36
+msgid "heading_main_fop_portlet_ireland"
+msgstr "Il-Punt Fokali Irlandiż"
+
+#: osha.policy:/missing_18n_labels.py:360
 msgid "heading_portlets_configure"
 msgstr "Ikkonfigura l-Portlets"
 
-#: osha.policy:/missing_18n_labels.py:353
+#: osha.policy:/missing_18n_labels.py:361
 msgid "heading_questionnaire_result"
 msgstr "Riżultat tal-questionnaire"
 
-#: osha.policy:/missing_18n_labels.py:354
+#: osha.policy:/missing_18n_labels.py:362
 msgid "heading_quicksearch_users"
 msgstr "Utenti ta’ tfittxija mgħaġġla"
 
-#: osha.policy:/missing_18n_labels.py:355
+#: osha.policy:/missing_18n_labels.py:363
 msgid "heading_research_organisations"
 msgstr "Organizzazzjonijiet ta’ riċerka"
 
-#: osha.policy:/missing_18n_labels.py:356
+#: osha.policy:/missing_18n_labels.py:364
 msgid "heading_search"
 msgstr "Fittex <span tal:content=\"here/title_or_id\"> Titolu jew id</span>"
 
-#: osha.policy:/missing_18n_labels.py:357
+#: osha.policy:/missing_18n_labels.py:365
 msgid "heading_search_case_studies"
 msgstr "Fittex fil-DATABASE TAL-KAŻIJIET STUDJATI"
 
-#: osha.policy:/missing_18n_labels.py:358
+#: osha.policy:/missing_18n_labels.py:366
 msgid "heading_search_providers"
 msgstr "Fittex fid-DATABASE TAL-FORNITURI"
 
-#: osha.policy:/missing_18n_labels.py:359
+#: osha.policy:/missing_18n_labels.py:367
 msgid "heading_search_results_memberdocs"
 msgstr "Riżultati tat-tfittxija għal Dokumenti ta’ Membri"
 
-# Default "Montenegrin Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:36
-msgid "heading_main_fop_portlet_montenegro"
-msgstr "Il-Punt Fokali Montenegrin"
-
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
-#: osha.policy:/missing_18n_labels.py:360
+#: osha.policy:/missing_18n_labels.py:368
 msgid "heading_search_results_rss"
 msgstr "Riżultati ta’ tfittxijiet remoti"
 
-#: osha.policy:/missing_18n_labels.py:361
+#: osha.policy:/missing_18n_labels.py:369
 msgid "heading_search_risk_assessment_tools"
 msgstr "Fittex fid-DATABASE TAL-GĦODDA TAL-VALUTAZZJONI TAR-RISKJU"
 
-#: osha.policy:/missing_18n_labels.py:362
+# Default "Italian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:37
+msgid "heading_main_fop_portlet_italy"
+msgstr "Il-Punt Fokali Taljan"
+
+#: osha.policy:/missing_18n_labels.py:370
 msgid "heading_search_useful_links"
 msgstr "Fittex fid-DATABASE TAL-LINKS IMPORTANTI"
 
-#: osha.policy:/missing_18n_labels.py:363
+#: osha.policy:/missing_18n_labels.py:371
 msgid "heading_sections"
 msgstr "Taqsimiet"
 
-#: osha.policy:/missing_18n_labels.py:364
+#: osha.policy:/missing_18n_labels.py:372
 msgid "heading_send_page_to"
 msgstr "Ibgħat din il-paġna lil xi ħadd"
 
 # # 1 more: ./OSHA/skins/osha/search_form.pt
-#: osha.policy:/missing_18n_labels.py:365
+#: osha.policy:/missing_18n_labels.py:373
 msgid "heading_simple_search"
 msgstr "Fittex għal kontenut"
 
-#: osha.policy:/missing_18n_labels.py:366
+#: osha.policy:/missing_18n_labels.py:374
 msgid "heading_site_error"
 msgstr "Żball fis-sît"
 
-#: osha.policy:/missing_18n_labels.py:367
+#: osha.policy:/missing_18n_labels.py:375
 msgid "heading_social_partners"
 msgstr "Imsieħba soċjali"
 
-#: osha.policy:/missing_18n_labels.py:368
+#: osha.policy:/missing_18n_labels.py:376
 msgid "heading_start_simple_process"
 msgstr "Ibda l-fluss tax-Xogħol"
 
-#: osha.policy:/missing_18n_labels.py:369
+#: osha.policy:/missing_18n_labels.py:377
 msgid "help_search_author"
 msgstr "Agħti partiti maħluqa minn persuna partikolari."
 
-# Default "Dutch Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:37
-msgid "heading_main_fop_portlet_netherlands"
-msgstr "Il-Punt Fokali Olandiż"
-
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
-#: osha.policy:/missing_18n_labels.py:370
+#: osha.policy:/missing_18n_labels.py:378
 msgid "help_search_available_languages"
 msgstr " Agħti partiti disponibbli fil-lingwi magħżula."
 
-#: osha.policy:/missing_18n_labels.py:371
+#: osha.policy:/missing_18n_labels.py:379
 msgid "help_search_countries"
 msgstr " Agħti partiti disponibbli fil-pajjiż magħżul."
 
-#: osha.policy:/missing_18n_labels.py:372
+# Default "Kosovar Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:38
+msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
+msgstr "Il-Punt Fokali Kosovu"
+
+#: osha.policy:/missing_18n_labels.py:380
 msgid "help_search_description"
 msgstr ""
 " Agħti partiti li jaqblu ma’ din id-deskrizzjoni. Jista’ jinstab kliem "
 "multiplu billi jiġu kombinati ma’ <strong>AND</strong> u <strong>OR</"
 "strong> ."
 
-#: osha.policy:/missing_18n_labels.py:373
+#: osha.policy:/missing_18n_labels.py:381
 msgid "help_search_item_type"
 msgstr "Agħti partiti ta’ tip speċifiku."
 
-#: osha.policy:/missing_18n_labels.py:374
+#: osha.policy:/missing_18n_labels.py:382
 msgid "help_search_keywords"
 msgstr ""
 "Agħti partiti li jaqblu ma’ kelma kjavi waħda jew iktar ta’ dawn il-kliem "
 "kjavi. Jistgħu jinstabu kliem multipli billi wieħed jagħfas <strong>Ctrl</"
 "strong> waqt <strong>li jikklikkja bix-xellug</strong> il-kliem kjavi."
 
-#: osha.policy:/missing_18n_labels.py:375
+#: osha.policy:/missing_18n_labels.py:383
 msgid "help_search_new_items_since"
 msgstr "Agħti partiti miżjuda minn meta dħalt l-aħħar, mill-aħħar ġimgħa, eċċ."
 
-#: osha.policy:/missing_18n_labels.py:376
+#: osha.policy:/missing_18n_labels.py:384
 msgid "help_search_path"
 msgstr "Fittex biss oġġetti taħt dan l-oġġett fil-ġerarkija tas-sît."
 
-#: osha.policy:/missing_18n_labels.py:377
+#: osha.policy:/missing_18n_labels.py:385
 msgid "help_search_review_status"
 msgstr ""
 "Bħala reviżur tista’ tfittex għal partiti skond l-istat ta’ reviżjoni "
 "tagħhom. Jekk inti tixtieq tirrestrinġi r-riżultati għal partiti f’ċerti "
 "stati, agħżilhom minn din il-lista."
 
-#: osha.policy:/missing_18n_labels.py:378
+#: osha.policy:/missing_18n_labels.py:386
 msgid "help_search_rssextension"
 msgstr ""
 "Tista’ testendi t-tfittxija tiegħek billi tagħżel sît ieħor wieħed jew iktar "
 "sabiex jintuża bħala fonti għal tfittxija remota. <br/>"
 
-#: osha.policy:/missing_18n_labels.py:379
+#: osha.policy:/missing_18n_labels.py:387
 msgid "help_search_title"
 msgstr "Agħti partiti li jaqblu ma’ dan it-titolu."
 
-# Default "Norwegian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:38
-msgid "heading_main_fop_portlet_norway"
-msgstr "Il-Punt Fokali Norveġiż"
-
-#: osha.policy:/missing_18n_labels.py:380
+#: osha.policy:/missing_18n_labels.py:388
 msgid "help_send_to_mail"
 msgstr "L-indirizz ta’ l-email fejn għandek tibgħat dan il-link."
 
-#: osha.policy:/missing_18n_labels.py:381
+#: osha.policy:/missing_18n_labels.py:389
 msgid "hour"
 msgstr "Siegħa"
 
-#: osha.policy:/missing_18n_labels.py:382
+# Default "Latvian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:39
+msgid "heading_main_fop_portlet_latvia"
+msgstr "Il-Punt Fokali Latvjan"
+
+#: osha.policy:/missing_18n_labels.py:390
 msgid "id"
 msgstr "Id"
 
-#: osha.policy:/missing_18n_labels.py:383
+#: osha.policy:/missing_18n_labels.py:391
 msgid "info_alert_searchagent"
 msgstr ""
 "Tista’ tispeċifika tfittxija għal oġġetti li inti tixtieq tagħmel monitoraġġ "
 "fuqhom. Tiġi avżat meta kienu modifikati."
 
-#: osha.policy:/missing_18n_labels.py:384
+#: osha.policy:/missing_18n_labels.py:392
 msgid "info_feedback_message_checkbefore"
 msgstr ""
 "Qabel ma tibgħat mistoqsija, jekk jogħġbok ikkontrolla l- ${link1} u "
 "${link2} l-paġni tagħna."
 
-#: osha.policy:/missing_18n_labels.py:385
+#: osha.policy:/missing_18n_labels.py:393
 msgid "info_feedback_message_publications"
 msgstr ""
 "Il-pubblikazzjonijiet kollha ta’ l-Aġenzija huma ${link} . Ma għandha ebda "
 "informazzjoni addizzjonali barra minn dik li tinsab fuq in-network  tagħna "
 "ta’ sîti ta’ l-internet.&quot;"
 
-#: osha.policy:/missing_18n_labels.py:386
+#: osha.policy:/missing_18n_labels.py:394
 msgid "info_feedback_message_writemessage"
 msgstr ""
 "Tista’ tiktbilna fi kwalunkwe waħda mill-20 lingwa uffiċjali ta’ l-UE, iżda "
@@ -1915,577 +1946,571 @@ msgstr ""
 "jirċievu tweġiba iktar malajr minħabba li hu mitkellem mill-personal kollu "
 "ta’ l-Aġenzija. L-iskop tagħna huwa li nwieġbu kemm jista’ jkun mistoqsijiet."
 
-#: osha.policy:/missing_18n_labels.py:387
+#: osha.policy:/missing_18n_labels.py:395
 msgid "is"
 msgstr "huwa"
 
-#: osha.policy:/missing_18n_labels.py:388
+#: osha.policy:/missing_18n_labels.py:396
 msgid "january"
 msgstr "Jannar"
 
-#: osha.policy:/missing_18n_labels.py:389
+#: osha.policy:/missing_18n_labels.py:397
 msgid "july"
 msgstr "Lulju"
 
-# Default "Polish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:39
-msgid "heading_main_fop_portlet_poland"
-msgstr "Il-Punt Fokali Pollakk"
-
-#: osha.policy:/missing_18n_labels.py:390
+#: osha.policy:/missing_18n_labels.py:398
 msgid "june"
 msgstr "Ġunju"
 
-#: osha.policy:/missing_18n_labels.py:391
+#: osha.policy:/missing_18n_labels.py:399
 msgid "keywords"
 msgstr "Kliem kjavi"
 
-#: osha.policy:/missing_18n_labels.py:392
+# Default "Liechtenstein Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:40
+msgid "heading_main_fop_portlet_liechtenstein"
+msgstr "Il-Punt Fokali ta’ Liechtenstein"
+
+#: osha.policy:/missing_18n_labels.py:400
 msgid "label_add_to_calendar"
 msgstr "Żid fil-kalendarju:"
 
-#: osha.policy:/missing_18n_labels.py:393
+#: osha.policy:/missing_18n_labels.py:401
 msgid "label_add_to_ical"
 msgstr "iCal"
 
-#: osha.policy:/missing_18n_labels.py:394
+#: osha.policy:/missing_18n_labels.py:402
 msgid "label_add_to_vcal"
 msgstr "vCal"
 
 # Default "Albania"
-#: osha.policy:/missing_18n_labels.py:395
+#: osha.policy:/missing_18n_labels.py:403
 msgid "label_albania"
 msgstr "Albanija"
 
-#: osha.policy:/missing_18n_labels.py:396
+#: osha.policy:/missing_18n_labels.py:404
 msgid "label_alert_titlesearchquery"
 msgstr "It-Titolu tat-tfittxija"
 
-#: osha.policy:/missing_18n_labels.py:397
+#: osha.policy:/missing_18n_labels.py:405
 msgid "label_all"
 msgstr "Kollha"
 
 # Default "Austria"
-#: osha.policy:/missing_18n_labels.py:398
+#: osha.policy:/missing_18n_labels.py:406
 msgid "label_austria"
 msgstr "Awstrija"
 
-#: osha.policy:/missing_18n_labels.py:399
+#: osha.policy:/missing_18n_labels.py:407
 msgid "label_author"
 msgstr "Awtur"
 
-# Default "Portuguese Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:40
-msgid "heading_main_fop_portlet_portugal"
-msgstr "Il-Punt Fokali Portugiż"
-
-#: osha.policy:/missing_18n_labels.py:400
+#: osha.policy:/missing_18n_labels.py:408
 msgid "label_avi"
 msgstr "AVI"
 
 # FOP Countries
 # Default "Belgium"
-#: osha.policy:/missing_18n_labels.py:401
+#: osha.policy:/missing_18n_labels.py:409
 msgid "label_belgium"
 msgstr "Belġju"
 
+# Default "Lithuanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:41
+msgid "heading_main_fop_portlet_lithuania"
+msgstr "Il-Punt Fokali Litwan"
+
 # Default "Bosnia and Herzegovina"
-#: osha.policy:/missing_18n_labels.py:402
+#: osha.policy:/missing_18n_labels.py:410
 msgid "label_bosnia_and_herzegovina"
 msgstr "Bożnja u Ħerżegovina"
 
-#: osha.policy:/missing_18n_labels.py:403
+#: osha.policy:/missing_18n_labels.py:411
 msgid "label_broaden_search"
 msgstr "Kabbar it-tfittxija"
 
 # Default "Bulgaria"
-#: osha.policy:/missing_18n_labels.py:404
+#: osha.policy:/missing_18n_labels.py:412
 msgid "label_bulgaria"
 msgstr "Bulgarija"
 
-#: osha.policy:/missing_18n_labels.py:405
+#: osha.policy:/missing_18n_labels.py:413
 msgid "label_by"
 msgstr "skond"
 
-#: osha.policy:/missing_18n_labels.py:406
+#: osha.policy:/missing_18n_labels.py:414
 msgid "label_category"
 msgstr "Kategorija"
 
-#: osha.policy:/missing_18n_labels.py:407
+#: osha.policy:/missing_18n_labels.py:415
 msgid "label_city"
 msgstr "Belt"
 
-#: osha.policy:/missing_18n_labels.py:408
+#: osha.policy:/missing_18n_labels.py:416
 msgid "label_click_to_hide_full_text"
 msgstr "Ikklikkja hawn sabiex taħbi t-test sħiħ"
 
-#: osha.policy:/missing_18n_labels.py:409
+#: osha.policy:/missing_18n_labels.py:417
 msgid "label_click_to_see_speeches_summary"
 msgstr "Ikklikkja hawn sabiex tara sommarju tat-Taħdidiet kollha"
 
-# Default "Romanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:41
-msgid "heading_main_fop_portlet_romania"
-msgstr "Il-Punt Fokali Rumen"
-
-#: osha.policy:/missing_18n_labels.py:410
+#: osha.policy:/missing_18n_labels.py:418
 msgid "label_click_to_show_full_text"
 msgstr "Ikklikkja hawn biex turi t-test sħiħ"
 
-#: osha.policy:/missing_18n_labels.py:411
+#: osha.policy:/missing_18n_labels.py:419
 msgid "label_closed"
 msgstr "magħluq"
 
-#: osha.policy:/missing_18n_labels.py:412
+# Default "Luxembourgish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:42
+msgid "heading_main_fop_portlet_luxembourg"
+msgstr "Il-Punt Fokali Lussemburgiż"
+
+#: osha.policy:/missing_18n_labels.py:420
 msgid "label_comment"
 msgstr "Kumment"
 
-#: osha.policy:/missing_18n_labels.py:413
+#: osha.policy:/missing_18n_labels.py:421
 msgid "label_comments"
 msgstr "Kummenti"
 
-#: osha.policy:/missing_18n_labels.py:414
+#: osha.policy:/missing_18n_labels.py:422
 msgid "label_competitions"
 msgstr "Kompetizzjonijiet"
 
-#: osha.policy:/missing_18n_labels.py:415
+#: osha.policy:/missing_18n_labels.py:423
 msgid "label_contact_email"
 msgstr "E-mail ta’ kuntatt"
 
-#: osha.policy:/missing_18n_labels.py:416
+#: osha.policy:/missing_18n_labels.py:424
 msgid "label_contact_name"
 msgstr "Isem ta’ kuntatt"
 
-#: osha.policy:/missing_18n_labels.py:417
+#: osha.policy:/missing_18n_labels.py:425
 msgid "label_contact_phone"
 msgstr "Numru tat-telefon ta’ kuntatt"
 
-#: osha.policy:/missing_18n_labels.py:418
+#: osha.policy:/missing_18n_labels.py:426
 msgid "label_contributors"
 msgstr "Kontributuri"
 
-#: osha.policy:/missing_18n_labels.py:419
+#: osha.policy:/missing_18n_labels.py:427
 msgid "label_copyrights"
 msgstr "Drittijiet ta’ l-awtur"
 
-# Default "Serbian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:42
-msgid "heading_main_fop_portlet_serbia"
-msgstr "Il-Punt Fokali Serb"
-
-#: osha.policy:/missing_18n_labels.py:420
+#: osha.policy:/missing_18n_labels.py:428
 msgid "label_countries"
 msgstr "Pajjiżi"
 
-#: osha.policy:/missing_18n_labels.py:421
+#: osha.policy:/missing_18n_labels.py:429
 msgid "label_creator"
 msgstr "Ħallieq"
 
+# Default "Maltese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:43
+msgid "heading_main_fop_portlet_malta"
+msgstr "Il-Punt Fokali Malti"
+
 # Default "Croatia"
-#: osha.policy:/missing_18n_labels.py:422
+#: osha.policy:/missing_18n_labels.py:430
 msgid "label_croatia"
 msgstr "Kroazja"
 
-#: osha.policy:/missing_18n_labels.py:423
+#: osha.policy:/missing_18n_labels.py:431
 msgid "label_current_decision"
 msgstr "Deċiżjoni preżenti"
 
 # Default "Cyprus"
-#: osha.policy:/missing_18n_labels.py:424
+#: osha.policy:/missing_18n_labels.py:432
 msgid "label_cyprus"
 msgstr "Ċipru"
 
 # Default "Czech Republic"
-#: osha.policy:/missing_18n_labels.py:425
+#: osha.policy:/missing_18n_labels.py:433
 msgid "label_czech_republic"
 msgstr "Repubblika Ċeka"
 
-#: osha.policy:/missing_18n_labels.py:426
+#: osha.policy:/missing_18n_labels.py:434
 msgid "label_date"
 msgstr "Data"
 
-#: osha.policy:/missing_18n_labels.py:427
+#: osha.policy:/missing_18n_labels.py:435
 msgid "label_default_language"
 msgstr "Lingwa pprogrammata minn qabel"
 
 # Default "Denmark"
-#: osha.policy:/missing_18n_labels.py:428
+#: osha.policy:/missing_18n_labels.py:436
 msgid "label_denmark"
 msgstr "Danimarka"
 
 # Default "Estonia"
-#: osha.policy:/missing_18n_labels.py:429
+#: osha.policy:/missing_18n_labels.py:437
 msgid "label_estonia"
 msgstr "Estonja"
 
-# Default "Slovakian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:43
-msgid "heading_main_fop_portlet_slovakia"
-msgstr "Il-Punt Fokali Slovakk"
-
-#: osha.policy:/missing_18n_labels.py:430
+#: osha.policy:/missing_18n_labels.py:438
 msgid "label_faq_answertext"
 msgstr "Il-Korp tat-test tat-tweġiba"
 
-#: osha.policy:/missing_18n_labels.py:431
+#: osha.policy:/missing_18n_labels.py:439
 msgid "label_faq_questiontext"
 msgstr "Il-Korp tat-test tal-mistoqsija"
 
-#: osha.policy:/missing_18n_labels.py:432
+# Default "Montenegrin Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:44
+msgid "heading_main_fop_portlet_montenegro"
+msgstr "Il-Punt Fokali Montenegrin"
+
+#: osha.policy:/missing_18n_labels.py:440
 msgid "label_female"
 msgstr "femminili"
 
 # Default "Finland"
-#: osha.policy:/missing_18n_labels.py:433
+#: osha.policy:/missing_18n_labels.py:441
 msgid "label_finland"
 msgstr "Finlandja"
 
 # # 1 more: ./OSHA/skins/osha/join_form.cpt
-#: osha.policy:/missing_18n_labels.py:434
+#: osha.policy:/missing_18n_labels.py:442
 msgid "label_first_name"
 msgstr "L-Isem"
 
-#: osha.policy:/missing_18n_labels.py:435
+#: osha.policy:/missing_18n_labels.py:443
 msgid "label_firstname"
 msgstr "L-Isem"
 
-#: osha.policy:/missing_18n_labels.py:436
+#: osha.policy:/missing_18n_labels.py:444
 msgid "label_focalpoint"
 msgstr "Punt fokali"
 
-#: osha.policy:/missing_18n_labels.py:437
+#: osha.policy:/missing_18n_labels.py:445
 msgid "label_folder_method"
 msgstr "Method ID"
 
 # Default "France"
-#: osha.policy:/missing_18n_labels.py:438
+#: osha.policy:/missing_18n_labels.py:446
 msgid "label_france"
 msgstr "Franza"
 
-#: osha.policy:/missing_18n_labels.py:439
+#: osha.policy:/missing_18n_labels.py:447
 msgid "label_free_newsletter"
 msgstr "bullettin b’xejn"
 
-# Default "Slovenian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:44
-msgid "heading_main_fop_portlet_slovenia"
-msgstr "Il-Punt Fokali Sloven"
-
-#: osha.policy:/missing_18n_labels.py:440
+#: osha.policy:/missing_18n_labels.py:448
 msgid "label_full_name"
 msgstr "Full Name"
 
 # Default "Germany"
-#: osha.policy:/missing_18n_labels.py:441
+#: osha.policy:/missing_18n_labels.py:449
 msgid "label_germany"
 msgstr "Ġermanja"
 
+# Default "Dutch Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:45
+msgid "heading_main_fop_portlet_netherlands"
+msgstr "Il-Punt Fokali Olandiż"
+
 # Default "Greece"
-#: osha.policy:/missing_18n_labels.py:442
+#: osha.policy:/missing_18n_labels.py:450
 msgid "label_greece"
 msgstr "Greċja"
 
-#: osha.policy:/missing_18n_labels.py:443
+#: osha.policy:/missing_18n_labels.py:451
 msgid "label_hidden"
 msgstr "moħbi"
 
 # Default "Hungary"
-#: osha.policy:/missing_18n_labels.py:444
+#: osha.policy:/missing_18n_labels.py:452
 msgid "label_hungary"
 msgstr "Ungerija"
 
 # Default "Iceland"
-#: osha.policy:/missing_18n_labels.py:445
+#: osha.policy:/missing_18n_labels.py:453
 msgid "label_iceland"
 msgstr "Iżlanda"
 
-#: osha.policy:/missing_18n_labels.py:446
+#: osha.policy:/missing_18n_labels.py:454
 msgid "label_include_subfolders"
 msgstr "Inkludi s-subfowlders"
 
 # Default "Ireland"
-#: osha.policy:/missing_18n_labels.py:447
+#: osha.policy:/missing_18n_labels.py:455
 msgid "label_ireland"
 msgstr "Irlanda"
 
 # Default "Italy"
-#: osha.policy:/missing_18n_labels.py:448
+#: osha.policy:/missing_18n_labels.py:456
 msgid "label_italy"
 msgstr "Italja"
 
-#: osha.policy:/missing_18n_labels.py:449
+#: osha.policy:/missing_18n_labels.py:457
 msgid "label_keywords"
 msgstr "Kliem kjavi"
 
-# Default "Spanish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:45
-msgid "heading_main_fop_portlet_spain"
-msgstr "Il-Punt Fokali Spanjol"
-
 # Default "Kosovo under UNSCR 1244/99"
-#: osha.policy:/missing_18n_labels.py:450
+#: osha.policy:/missing_18n_labels.py:458
 msgid "label_kosovo"
 msgstr "Kosovo taħt UNSCR 1244/99"
 
 # Default "Latvia"
-#: osha.policy:/missing_18n_labels.py:451
+#: osha.policy:/missing_18n_labels.py:459
 msgid "label_latvia"
 msgstr "Latvja"
 
+# Default "Norwegian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:46
+msgid "heading_main_fop_portlet_norway"
+msgstr "Il-Punt Fokali Norveġiż"
+
 # Default "Liechtenstein"
-#: osha.policy:/missing_18n_labels.py:452
+#: osha.policy:/missing_18n_labels.py:460
 msgid "label_liechtenstein"
 msgstr "Liechtenstein"
 
 # Default "Lithuania"
-#: osha.policy:/missing_18n_labels.py:453
+#: osha.policy:/missing_18n_labels.py:461
 msgid "label_lithuania"
 msgstr "Litwanja"
 
 # Default "Luxembourg"
-#: osha.policy:/missing_18n_labels.py:454
+#: osha.policy:/missing_18n_labels.py:462
 msgid "label_luxembourg"
 msgstr "Lussemburgu"
 
 # Default "The former Yugoslav Republic of Macedonia"
-#: osha.policy:/missing_18n_labels.py:455
+#: osha.policy:/missing_18n_labels.py:463
 msgid "label_macedonia"
 msgstr "L-Ex Repubblika Jugożlava tal-Maċedonja"
 
-#: osha.policy:/missing_18n_labels.py:456
+#: osha.policy:/missing_18n_labels.py:464
 msgid "label_male"
 msgstr "Maskil"
 
 # Default "Malta"
-#: osha.policy:/missing_18n_labels.py:457
+#: osha.policy:/missing_18n_labels.py:465
 msgid "label_malta"
 msgstr "Malta"
 
 # Default "Montenegro"
-#: osha.policy:/missing_18n_labels.py:458
+#: osha.policy:/missing_18n_labels.py:466
 msgid "label_montenegro"
 msgstr "Montenegro"
 
-#: osha.policy:/missing_18n_labels.py:459
+#: osha.policy:/missing_18n_labels.py:467
 msgid "label_more_seminars_link"
 msgstr "Ara aktar seminars"
 
-# Default "Swedish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:46
-msgid "heading_main_fop_portlet_sweden"
-msgstr "Il-Punt Fokali Żvediż"
-
-#: osha.policy:/missing_18n_labels.py:460
+#: osha.policy:/missing_18n_labels.py:468
 msgid "label_my_user_name_is"
 msgstr "L-isem ta’ l-utent tiegħi hu"
 
 # # 1 more: ./plone_prefs/prefs_group_details.pt
-#: osha.policy:/missing_18n_labels.py:461
+#: osha.policy:/missing_18n_labels.py:469
 msgid "label_name"
 msgstr "Isem"
 
+# Default "Polish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:47
+msgid "heading_main_fop_portlet_poland"
+msgstr "Il-Punt Fokali Pollakk"
+
 # Default "Netherlands"
-#: osha.policy:/missing_18n_labels.py:462
+#: osha.policy:/missing_18n_labels.py:470
 msgid "label_netherlands"
 msgstr "Olanda"
 
-#: osha.policy:/missing_18n_labels.py:463
+#: osha.policy:/missing_18n_labels.py:471
 msgid "label_no_seminars_found"
 msgstr "Ma nstabux seminars li jaqblu mal-kriterji tiegħek"
 
 # Default "Norway"
-#: osha.policy:/missing_18n_labels.py:464
+#: osha.policy:/missing_18n_labels.py:472
 msgid "label_norway"
 msgstr "Norveġja"
 
-#: osha.policy:/missing_18n_labels.py:465
+#: osha.policy:/missing_18n_labels.py:473
 msgid "label_notifications"
 msgstr "Notifiki"
 
-#: osha.policy:/missing_18n_labels.py:466
+#: osha.policy:/missing_18n_labels.py:474
 msgid "label_older_competitions"
 msgstr "kompetizzjonijiet antiki"
 
-#: osha.policy:/missing_18n_labels.py:467
+#: osha.policy:/missing_18n_labels.py:475
 msgid "label_osha_searchcountries"
 msgstr "Irfina l-parametru ta’ tfittxija &quot;pajjiżi&quot;"
 
-#: osha.policy:/missing_18n_labels.py:468
+#: osha.policy:/missing_18n_labels.py:476
 msgid "label_osha_searchlanguages"
 msgstr " Irfina l-parametru ta’ tfittxija &quot;lingwi&quot;"
 
-#: osha.policy:/missing_18n_labels.py:469
+#: osha.policy:/missing_18n_labels.py:477
 msgid "label_osha_support_email"
 msgstr "Sostni l-Indirizz ta’ l-email"
 
-# Default "Swiss Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:47
-msgid "heading_main_fop_portlet_switzerland"
-msgstr "Il-Punt Fokali Żvizzeru"
-
-#: osha.policy:/missing_18n_labels.py:470
+#: osha.policy:/missing_18n_labels.py:478
 msgid "label_osha_uploadsource"
 msgstr "Tella’ l-fonti"
 
 # Default "Poland"
-#: osha.policy:/missing_18n_labels.py:471
+#: osha.policy:/missing_18n_labels.py:479
 msgid "label_poland"
 msgstr "Polonja"
 
+# Default "Portuguese Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:48
+msgid "heading_main_fop_portlet_portugal"
+msgstr "Il-Punt Fokali Portugiż"
+
 # Default "Portugal"
-#: osha.policy:/missing_18n_labels.py:472
+#: osha.policy:/missing_18n_labels.py:480
 msgid "label_portugal"
 msgstr "Portugall"
 
-#: osha.policy:/missing_18n_labels.py:473
+#: osha.policy:/missing_18n_labels.py:481
 msgid "label_position"
 msgstr "Pożizzjoni"
 
-#: osha.policy:/missing_18n_labels.py:474
+#: osha.policy:/missing_18n_labels.py:482
 msgid "label_prescribe"
 msgstr "ippreskrivi"
 
-#: osha.policy:/missing_18n_labels.py:475
+#: osha.policy:/missing_18n_labels.py:483
 msgid "label_priority"
 msgstr "Prijorità"
 
-#: osha.policy:/missing_18n_labels.py:476
+#: osha.policy:/missing_18n_labels.py:484
 msgid "label_process"
 msgstr "Tip ta’ fluss tax-Xogħol"
 
-#: osha.policy:/missing_18n_labels.py:477
+#: osha.policy:/missing_18n_labels.py:485
 msgid "label_process_description"
 msgstr "Deskrizzjoni tal-Proċess"
 
 # # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
-#: osha.policy:/missing_18n_labels.py:478
+#: osha.policy:/missing_18n_labels.py:486
 msgid "label_process_title"
 msgstr "It-Titolu tal-Proċess"
 
-#: osha.policy:/missing_18n_labels.py:479
+#: osha.policy:/missing_18n_labels.py:487
 msgid "label_profession"
 msgstr "Professjoni"
 
-# Default "Macedonian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:48
-msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
-msgstr "Il-Punt Fokali Maċedonu"
-
-#: osha.policy:/missing_18n_labels.py:480
+#: osha.policy:/missing_18n_labels.py:488
 msgid "label_profile"
 msgstr " Il-Profil "
 
-#: osha.policy:/missing_18n_labels.py:481
+#: osha.policy:/missing_18n_labels.py:489
 msgid "label_projects"
 msgstr "Proġetti"
 
+# Default "Romanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:49
+msgid "heading_main_fop_portlet_romania"
+msgstr "Il-Punt Fokali Rumen"
+
 # # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
-#: osha.policy:/missing_18n_labels.py:482
+#: osha.policy:/missing_18n_labels.py:490
 msgid "label_publisher"
 msgstr "Pubblikatur"
 
-#: osha.policy:/missing_18n_labels.py:483
+#: osha.policy:/missing_18n_labels.py:491
 msgid "label_publishing_effective"
 msgstr "effettiv"
 
-#: osha.policy:/missing_18n_labels.py:484
+#: osha.policy:/missing_18n_labels.py:492
 msgid "label_purpose"
 msgstr "Nixtieq nibgħat ..."
 
 # Default "Romania"
-#: osha.policy:/missing_18n_labels.py:485
+#: osha.policy:/missing_18n_labels.py:493
 msgid "label_romania"
 msgstr "Rumanija"
 
-#: osha.policy:/missing_18n_labels.py:486
+#: osha.policy:/missing_18n_labels.py:494
 msgid "label_sector"
 msgstr "Settur"
 
-#: osha.policy:/missing_18n_labels.py:487
+#: osha.policy:/missing_18n_labels.py:495
 msgid "label_see_also"
 msgstr "Ara wkoll"
 
 # # 1 more: ./plone_templates/folder_contents.pt
-#: osha.policy:/missing_18n_labels.py:488
+#: osha.policy:/missing_18n_labels.py:496
 #: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
 #: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:651
 msgid "label_select"
 msgstr "Agħżel"
 
-#: osha.policy:/missing_18n_labels.py:489
+#: osha.policy:/missing_18n_labels.py:497
 msgid "label_send_from"
 msgstr "Ibgħat minn"
 
-# Default "Turkish Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:49
-msgid "heading_main_fop_portlet_turkey"
-msgstr "Il-Punt Fokali Tork"
-
-#: osha.policy:/missing_18n_labels.py:490
+#: osha.policy:/missing_18n_labels.py:498
 msgid "label_send_to_mail"
 msgstr "Ibgħat lil"
 
 # Default "Serbia"
-#: osha.policy:/missing_18n_labels.py:491
+#: osha.policy:/missing_18n_labels.py:499
 msgid "label_serbia"
 msgstr "Serbja"
 
+# Default "Serbian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:50
+msgid "heading_main_fop_portlet_serbia"
+msgstr "Il-Punt Fokali Serb"
+
 # # 1 more: ./plone_content/image_view.pt
-#: osha.policy:/missing_18n_labels.py:492
+#: osha.policy:/missing_18n_labels.py:500
 msgid "label_size"
 msgstr "Daqs"
 
 # Default "Slovakia"
-#: osha.policy:/missing_18n_labels.py:493
+#: osha.policy:/missing_18n_labels.py:501
 msgid "label_slovakia"
 msgstr "Slovakkja"
 
 # Default "Slovenia"
-#: osha.policy:/missing_18n_labels.py:494
+#: osha.policy:/missing_18n_labels.py:502
 msgid "label_slovenia"
 msgstr "Slovenja"
 
 # Default "Spain"
-#: osha.policy:/missing_18n_labels.py:495
+#: osha.policy:/missing_18n_labels.py:503
 msgid "label_spain"
 msgstr "Spanja"
 
-#: osha.policy:/missing_18n_labels.py:496
+#: osha.policy:/missing_18n_labels.py:504
 msgid "label_start_time"
 msgstr "Ħin tal-bidu"
 
-#: osha.policy:/missing_18n_labels.py:497
+#: osha.policy:/missing_18n_labels.py:505
 msgid "label_surname"
 msgstr "Il-Kunjom"
 
 # Default "Sweden"
-#: osha.policy:/missing_18n_labels.py:498
+#: osha.policy:/missing_18n_labels.py:506
 msgid "label_sweden"
 msgstr "Żvezja"
 
 # Default "Switzerland"
-#: osha.policy:/missing_18n_labels.py:499
+#: osha.policy:/missing_18n_labels.py:507
 msgid "label_switzerland"
 msgstr "Żvizzera"
 
-# Default "British Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:50
-msgid "heading_main_fop_portlet_united-kingdom"
-msgstr "Il-Punt Fokali Brittaniku"
-
-#: osha.policy:/missing_18n_labels.py:500
+#: osha.policy:/missing_18n_labels.py:508
 msgid "label_time"
 msgstr "Ħin"
 
@@ -2493,179 +2518,530 @@ msgstr "Ħin"
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
 # ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
 # ./plone_forms/search_form.pt
-#: osha.policy:/missing_18n_labels.py:501
+#: osha.policy:/missing_18n_labels.py:509
 msgid "label_title"
 msgstr "Titolu"
 
-#: osha.policy:/missing_18n_labels.py:502
+# Default "Slovakian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:51
+msgid "heading_main_fop_portlet_slovakia"
+msgstr "Il-Punt Fokali Slovakk"
+
+#: osha.policy:/missing_18n_labels.py:510
 msgid "label_topics_of_interest"
 msgstr "Suġġetti ta’ interess"
 
 # Default "Turkey"
-#: osha.policy:/missing_18n_labels.py:503
+#: osha.policy:/missing_18n_labels.py:511
 msgid "label_turkey"
 msgstr "Turkija"
 
 # # 1 more: ./plone_forms/folder_localrole_form.pt
-#: osha.policy:/missing_18n_labels.py:504
+#: osha.policy:/missing_18n_labels.py:512
 msgid "label_type"
 msgstr "Tip"
 
 # Default "United Kingdom"
-#: osha.policy:/missing_18n_labels.py:505
+#: osha.policy:/missing_18n_labels.py:513
 msgid "label_united_kingdom"
 msgstr "Renju Unit"
 
-#: osha.policy:/missing_18n_labels.py:506
+#: osha.policy:/missing_18n_labels.py:514
 msgid "language"
 msgstr "Lingwa"
 
 # # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:507
+#: osha.policy:/missing_18n_labels.py:515
 msgid "language_help"
 msgstr "Agħżel il-lingwa tiegħek."
 
-#: osha.policy:/missing_18n_labels.py:508
+#: osha.policy:/missing_18n_labels.py:516
 msgid "legend_alert_searchquery"
 msgstr "Avviż għall-mistoqsija ta’ tfittxija"
 
-#: osha.policy:/missing_18n_labels.py:509
+#: osha.policy:/missing_18n_labels.py:517
 msgid "legend_profession"
 msgstr "Professjoni"
 
-# Default "Back to the Focal Points overview"
-#: osha.policy:/missing_18n_labels.py:51
-msgid "label_back_to_fop_overview"
-msgstr "Lura ghall-harsa generali Punti Fokali"
-
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
-#: osha.policy:/missing_18n_labels.py:510
+#: osha.policy:/missing_18n_labels.py:518
 msgid "legend_search_global"
 msgstr "Tfittxija globali"
 
-#: osha.policy:/missing_18n_labels.py:511
+#: osha.policy:/missing_18n_labels.py:519
 msgid "link_address"
 msgstr "L-indirizz tal-link huwa:"
 
+# Default "Slovenian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:52
+msgid "heading_main_fop_portlet_slovenia"
+msgstr "Il-Punt Fokali Sloven"
+
 # # 1 more: ./OSHA/skins/osha/global_pathbar.pt
-#: osha.policy:/missing_18n_labels.py:512
+#: osha.policy:/missing_18n_labels.py:520
 msgid "link_breadcrumbs_home"
 msgstr "Paġna prinċipali"
 
 # # 1 more:
 # ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
-#: osha.policy:/missing_18n_labels.py:513
+#: osha.policy:/missing_18n_labels.py:521
 msgid "link_page_top"
 msgstr "Fuq nett tal-paġna"
 
-#: osha.policy:/missing_18n_labels.py:514
+#: osha.policy:/missing_18n_labels.py:522
 msgid "link_report_link"
 msgstr "irraporta link problematiku lit-tîm tal-portal"
 
-#: osha.policy:/missing_18n_labels.py:515
+#: osha.policy:/missing_18n_labels.py:523
 msgid "list_portlet_personalise_1"
 msgstr "linwa preferuta tiegħek"
 
-#: osha.policy:/missing_18n_labels.py:516
+#: osha.policy:/missing_18n_labels.py:524
 msgid "list_portlet_personalise_2"
 msgstr "pajjiżi preferuti tiegħek"
 
-#: osha.policy:/missing_18n_labels.py:517
+#: osha.policy:/missing_18n_labels.py:525
 msgid "list_portlet_personalise_3"
 msgstr "Tieħu sehem f’forums ta’ diskussjoni"
 
-#: osha.policy:/missing_18n_labels.py:518
+#: osha.policy:/missing_18n_labels.py:526
 msgid "list_portlet_personalise_4"
 msgstr "aġġornamenti tas-suġġetti favoriti tiegħek"
 
-#: osha.policy:/missing_18n_labels.py:519
+#: osha.policy:/missing_18n_labels.py:527
 msgid "listingheader_action"
 msgstr "Azzjoni"
 
-#: osha.policy:/missing_18n_labels.py:520
+#: osha.policy:/missing_18n_labels.py:528
 msgid "listingheader_articles"
 msgstr "Artikoli"
 
-#: osha.policy:/missing_18n_labels.py:521
+#: osha.policy:/missing_18n_labels.py:529
 msgid "listingheader_articlesandreplies"
 msgstr "Artikoli u tweġibiet"
 
-#: osha.policy:/missing_18n_labels.py:522
+# Default "Spanish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:53
+msgid "heading_main_fop_portlet_spain"
+msgstr "Il-Punt Fokali Spanjol"
+
+#: osha.policy:/missing_18n_labels.py:530
 msgid "listingheader_author"
 msgstr "Awtur"
 
-#: osha.policy:/missing_18n_labels.py:523
+#: osha.policy:/missing_18n_labels.py:531
 msgid "listingheader_comment"
 msgstr "Kumment"
 
 # # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
-#: osha.policy:/missing_18n_labels.py:524
+#: osha.policy:/missing_18n_labels.py:532
 msgid "listingheader_date"
 msgstr "Data"
 
-#: osha.policy:/missing_18n_labels.py:525
+#: osha.policy:/missing_18n_labels.py:533
 msgid "listingheader_date_and_time"
 msgstr "Data u Ħin"
 
 # # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
-#: osha.policy:/missing_18n_labels.py:526
+#: osha.policy:/missing_18n_labels.py:534
 msgid "listingheader_latestchanges"
 msgstr "It-Tibdiliet l-iktar riċenti "
 
 # # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
-#: osha.policy:/missing_18n_labels.py:527
+#: osha.policy:/missing_18n_labels.py:535
 msgid "listingheader_name"
 msgstr "Isem"
 
-#: osha.policy:/missing_18n_labels.py:528
+#: osha.policy:/missing_18n_labels.py:536
 msgid "listingheader_newsletter_sentby"
 msgstr "Mibgħut Minn"
 
-#: osha.policy:/missing_18n_labels.py:529
+#: osha.policy:/missing_18n_labels.py:537
 msgid "listingheader_newsletter_senton"
 msgstr "Mibgħut Fil-"
 
-#: osha.policy:/missing_18n_labels.py:530
+#: osha.policy:/missing_18n_labels.py:538
 msgid "listingheader_order"
 msgstr "Ordni"
 
-#: osha.policy:/missing_18n_labels.py:531
+#: osha.policy:/missing_18n_labels.py:539
 msgid "listingheader_owner"
 msgstr "Sid"
 
-#: osha.policy:/missing_18n_labels.py:532
+# Default "Swedish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:54
+msgid "heading_main_fop_portlet_sweden"
+msgstr "Il-Punt Fokali Żvediż"
+
+#: osha.policy:/missing_18n_labels.py:540
 msgid "listingheader_performed_by"
 msgstr "Imwettaq minn"
 
-#: osha.policy:/missing_18n_labels.py:533
+#: osha.policy:/missing_18n_labels.py:541
 msgid "listingheader_priority"
 msgstr "Prijorità"
 
-#: osha.policy:/missing_18n_labels.py:534
+#: osha.policy:/missing_18n_labels.py:542
 msgid "listingheader_replies"
 msgstr "Tweġibiet"
 
-#: osha.policy:/missing_18n_labels.py:535
+#: osha.policy:/missing_18n_labels.py:543
 msgid "listingheader_status"
 msgstr "Stat"
 
-#: osha.policy:/missing_18n_labels.py:536
+#: osha.policy:/missing_18n_labels.py:544
 msgid "listingheader_title"
 msgstr "Titolu"
 
-#: osha.policy:/missing_18n_labels.py:537
+#: osha.policy:/missing_18n_labels.py:545
 msgid "listingheader_type"
 msgstr "Tip"
 
-#: osha.policy:/missing_18n_labels.py:538
+#: osha.policy:/missing_18n_labels.py:546
 msgid "locked"
 msgstr "imsakkar"
 
-#: osha.policy:/missing_18n_labels.py:539
+#: osha.policy:/missing_18n_labels.py:547
 msgid "march"
 msgstr "Marzu"
 
-#: osha.policy:/missing_18n_labels.py:54
+#: osha.policy:/missing_18n_labels.py:548
+msgid "may"
+msgstr "Mejju"
+
+#: osha.policy:/missing_18n_labels.py:549
+msgid "minute"
+msgstr "Minuta"
+
+# Default "Swiss Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:55
+msgid "heading_main_fop_portlet_switzerland"
+msgstr "Il-Punt Fokali Żvizzeru"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:550
+msgid "month"
+msgstr "Xahar"
+
+#: osha.policy:/missing_18n_labels.py:551
+msgid "monthly"
+msgstr "kull xahar"
+
+#: osha.policy:/missing_18n_labels.py:552
+msgid "needed"
+msgstr "meħtieġ"
+
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
+#: osha.policy:/missing_18n_labels.py:553
+msgid "news_by"
+msgstr "minn"
+
+#: osha.policy:/missing_18n_labels.py:554
+msgid "next"
+msgstr "li jmiss"
+
+#: osha.policy:/missing_18n_labels.py:555
+msgid "no_alerts"
+msgstr "M’għandek ebda twissija rreġistrata."
+
+#: osha.policy:/missing_18n_labels.py:556
+msgid "no_subject"
+msgstr "[l-Ebda suġġett]"
+
+#: osha.policy:/missing_18n_labels.py:557
+msgid "not allowed"
+msgstr "mhux permess"
+
+#: osha.policy:/missing_18n_labels.py:558
+msgid "notification_email"
+msgstr "Email ta’ Notifika"
+
+#: osha.policy:/missing_18n_labels.py:559
+msgid "november"
+msgstr "Novembru"
+
+# Default "Macedonian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:56
+msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
+msgstr "Il-Punt Fokali Maċedonu"
+
+#: osha.policy:/missing_18n_labels.py:560
+msgid "october"
+msgstr "Ottubru"
+
+#: osha.policy:/missing_18n_labels.py:561
+msgid "osha_description_pressbox_pressreleases"
+msgstr "These are our press releases:"
+
+#: osha.policy:/missing_18n_labels.py:562
+msgid "osha_discovernetwork_info"
+msgstr "Skopri l-Imsieħba Ewropej u Internazzjonali tagħna"
+
+#: osha.policy:/missing_18n_labels.py:563
+msgid "osha_informationportlet_link"
+msgstr "Il-link tiegħek għas-Saħħa u s-Sigurtà fuq il-post tax-Xogħol"
+
+# Press Room
+#: osha.policy:/missing_18n_labels.py:565
+msgid "osha_label_press_room"
+msgstr "Stampa"
+
+#: osha.policy:/missing_18n_labels.py:566
+msgid "osha_networkportlet_info"
+msgstr ""
+"In-network tagħna jikkontjeni sîti li jipprovdu informazzjoni nazzjonali u "
+"istituzzjonali dwar l-OHS madwar id-dinja "
+
+#: osha.policy:/missing_18n_labels.py:567
+msgid "osha_networkportlet_link"
+msgstr "Uri sîti assoċjati"
+
+#: osha.policy:/missing_18n_labels.py:568
+msgid "oshmail_header_subscribe"
+msgstr "abbona ma' oshmail"
+
+#: osha.policy:/missing_18n_labels.py:569
+msgid "oshmail_header_unsubscribe"
+msgstr "tħassar minn oshmail"
+
+# Default "Turkish Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:57
+msgid "heading_main_fop_portlet_turkey"
+msgstr "Il-Punt Fokali Tork"
+
+#: osha.policy:/missing_18n_labels.py:570
+msgid "oshmail_intro_every_month"
+msgstr ""
+"Kull xahar, ${oshmail} tinfurmak bl-aħħar żviluppi fis-saħħa u s-sigurtà fuq "
+"il-post tax-xogħol:"
+
+#: osha.policy:/missing_18n_labels.py:571
+msgid "oshmail_intro_welcome"
+msgstr ""
+"Merħba f'${oshmail}, in-newsletter elettronika maħruġa mill-Aġenzija Ewropea "
+"għas-Saħħa u s-Sigurtà fuq il-Post tax-Xogħol."
+
+#: osha.policy:/missing_18n_labels.py:572
+msgid "oshmail_label_enter_emaiL"
+msgstr "daħħal l-indirizz elettroniku tiegħek hawn"
+
+#: osha.policy:/missing_18n_labels.py:573
+msgid "oshmail_list_1"
+msgstr "l-aħħar aħbarijiet fil-qasam tas-saħħa u s-sigurtà mid-dinja kollha;"
+
+#: osha.policy:/missing_18n_labels.py:574
+msgid "oshmail_list_3"
+msgstr ""
+"l-aġġornamenti dwar il-kampanji u l-attivitajiet organizzati mill-Aġenzija;"
+
+#: osha.policy:/missing_18n_labels.py:575
+msgid "oshmail_list_4"
+msgstr "l-avvenimenti li jmiss;"
+
+#: osha.policy:/missing_18n_labels.py:576
+msgid "oshmail_list_5"
+msgstr "l-aħħar pubblikazzjonijiet tal-Aġenzija;"
+
+#: osha.policy:/missing_18n_labels.py:577
+msgid "oshmail_list_6"
+msgstr "l-aġġornamenti dwar il-leġiżlazzjoni tal-UE;"
+
+#: osha.policy:/missing_18n_labels.py:578
+msgid "oshmail_list_7"
+msgstr "kollox fi 24 lingwa ..."
+
+#: osha.policy:/missing_18n_labels.py:579
+msgid "portlet_campaign_ew2007_title"
+msgstr "KAMPANJA EWROPEA 2007"
+
+# Default "British Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:58
+msgid "heading_main_fop_portlet_united-kingdom"
+msgstr "Il-Punt Fokali Brittaniku"
+
+#: osha.policy:/missing_18n_labels.py:580
+msgid "portlet_campaign_hwi_text"
+msgstr "Tajjeb għalik – Tajjeb għan-negozju tiegħek"
+
+#: osha.policy:/missing_18n_labels.py:581
+msgid "portlet_campaign_hwi_title"
+msgstr "Inizjattiva favur is-Saħħa fuq il-Post tax-Xogħol "
+
+#: osha.policy:/missing_18n_labels.py:582
+msgid "portlet_oshmail_email"
+msgstr "l-indirizz ta’ l-email"
+
+#: osha.policy:/missing_18n_labels.py:583
+msgid "portlet_oshsearch_advanced"
+msgstr "Tiftixa avvanzata"
+
+# Anticipating Change
+#: osha.policy:/missing_18n_labels.py:584
+msgid "portlet_riskob_text"
+msgstr "Bidla mistennija!"
+
+#: osha.policy:/missing_18n_labels.py:585
+msgid "results_by_author"
+msgstr "minn ${author} , ${date}"
+
+#: osha.policy:/missing_18n_labels.py:586
+msgid "role_equivalence"
+msgstr "Ekwivalenzi tar-Rwoli"
+
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+#: osha.policy:/missing_18n_labels.py:587
+msgid "schedule"
+msgstr "L-Iskeda"
+
+#: osha.policy:/missing_18n_labels.py:588
+msgid "search_criteria"
+msgstr "Kriterji ta’ Tfittxija"
+
+#: osha.policy:/missing_18n_labels.py:589
+msgid "search_date"
+msgstr "Data"
+
+# Default "Back to the Focal Points overview"
+#: osha.policy:/missing_18n_labels.py:59
+msgid "label_back_to_fop_overview"
+msgstr "Lura ghall-harsa generali Punti Fokali"
+
+#: osha.policy:/missing_18n_labels.py:590
+msgid "search_in"
+msgstr "Fittex fi"
+
+#: osha.policy:/missing_18n_labels.py:591
+msgid "search_in_folder"
+msgstr "Fil-fowlder"
+
+#: osha.policy:/missing_18n_labels.py:592
+msgid "search_link"
+msgstr "Fittex"
+
+#: osha.policy:/missing_18n_labels.py:593
+msgid "search_results_advanced"
+msgstr ""
+"Ma sibtx dak li kont qed tfittex? Ipprova $ {tfittxija_ avvanzata} għal "
+"iktar għażliet preċiżi ta’ tfittxija."
+
+#: osha.policy:/missing_18n_labels.py:594
+msgid "search_term"
+msgstr "It-terminu ta’ tfittxija"
+
+#: osha.policy:/missing_18n_labels.py:595
+msgid "searchresults"
+msgstr "Riżultati tat-tfittxija"
+
+#: osha.policy:/missing_18n_labels.py:596
+msgid "september"
+msgstr "Settembru"
+
+#: osha.policy:/missing_18n_labels.py:597
+msgid "show next day"
+msgstr "uri l-jum segwenti"
+
+#: osha.policy:/missing_18n_labels.py:598
+msgid "show next month"
+msgstr "uri x-xahar segwenti"
+
+#: osha.policy:/missing_18n_labels.py:599
+msgid "show next week"
+msgstr "uri l-ġimgħa segwenti"
+
+#: osha.policy:/missing_18n_labels.py:600
+msgid "show next year"
+msgstr "uri s-sena segwenti"
+
+#: osha.policy:/missing_18n_labels.py:601
+msgid "show previous day"
+msgstr "uri l-jum preċedenti"
+
+#: osha.policy:/missing_18n_labels.py:602
+msgid "show previous month"
+msgstr "uri x-xahar preċedenti"
+
+#: osha.policy:/missing_18n_labels.py:603
+msgid "show previous week"
+msgstr "uri l-ġimgħa preċedenti"
+
+#: osha.policy:/missing_18n_labels.py:604
+msgid "show previous year"
+msgstr "uri s-sena preċedenti"
+
+#: osha.policy:/missing_18n_labels.py:605
+msgid "sign the charter"
+msgstr "iffirma l-karta"
+
+#: osha.policy:/missing_18n_labels.py:606
+msgid "since"
+msgstr "Minn"
+
+#: osha.policy:/missing_18n_labels.py:607
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Kampanja Ewropea dwar Sigurtà fil-Manutenzjoni"
+
+#: osha.policy:/missing_18n_labels.py:608
+msgid "source"
+msgstr "fonti"
+
+#: osha.policy:/missing_18n_labels.py:609
+msgid "subheading_portlet_contents"
+msgstr "Il-Kontenut tal-Portlet"
+
+#: osha.policy:/missing_18n_labels.py:610
+msgid "subheading_portlet_representation"
+msgstr "Ir-Rappreżentazzjoni tal-Kaxxa tal-Portlet "
+
+#: osha.policy:/missing_18n_labels.py:611
+msgid "subject"
+msgstr "Suġġett"
+
+#: osha.policy:/missing_18n_labels.py:612
+msgid "subscribe_to_oshmail_long"
+msgstr ""
+"Ibqa' aġġornat mal-aħħar żviluppi fis-sikurezza u s-saħħa fuq il-post tax-"
+"xogħol. ${Subscribe} issa biex ikollok l-aġġornament ta' kull xahar."
+
+# # 1 more: ./plone_templates/global_pathbar.pt
+#: osha.policy:/missing_18n_labels.py:613
+msgid "tabs_home"
+msgstr "Paġna prinċipali"
+
+#: osha.policy:/missing_18n_labels.py:614
+msgid "title"
+msgstr "Titolu"
+
+#: osha.policy:/missing_18n_labels.py:615
+msgid "title_add_to_ical"
+msgstr "Żid din il-partita fil-kalendarju vCal tiegħek"
+
+#: osha.policy:/missing_18n_labels.py:616
+msgid "title_add_to_vcal"
+msgstr "Żid din il-partita fil-kalendarju vCal tiegħek"
+
+#: osha.policy:/missing_18n_labels.py:617
+msgid "title_agency"
+msgstr "L-Aġenzija Ewropea<br />għasgurtà u s-Saħħa<br />fuq il-post taxgħol"
+
+#: osha.policy:/missing_18n_labels.py:618
+msgid "title_campaign_beinformed"
+msgstr "Sir af"
+
+#: osha.policy:/missing_18n_labels.py:619
+msgid "title_speaker"
+msgstr "Kelliem"
+
+#: osha.policy:/missing_18n_labels.py:62
 msgid "description_napo-015-safe-moves"
 msgstr ""
 "<p>Dan id-DVD jiffoka l-aktar fuq it-trasport fil-post tax-xogħol, b’mod "
@@ -2682,50 +3058,32 @@ msgstr ""
 "imħarrġa u ssorveljati tajjeb, u jkun hemm koperazzjoni sabiex ir-riskji "
 "jiġu mnaqqsa u il-perikli jkunu kkontrollati.</p>"
 
-#: osha.policy:/missing_18n_labels.py:540
-msgid "may"
-msgstr "Mejju"
+#: osha.policy:/missing_18n_labels.py:620
+msgid "to"
+msgstr "Lil"
 
-#: osha.policy:/missing_18n_labels.py:541
-msgid "minute"
-msgstr "Minuta"
+#: osha.policy:/missing_18n_labels.py:621
+msgid "total_messages"
+msgstr "Numru ta’ messaġġi"
+
+#: osha.policy:/missing_18n_labels.py:622
+msgid "type your query"
+msgstr "ittajpja l-mistoqsija tiegħek"
+
+#: osha.policy:/missing_18n_labels.py:623
+msgid "visible"
+msgstr "viżibbli"
+
+#: osha.policy:/missing_18n_labels.py:624
+msgid "weekly"
+msgstr "kull ġimgħa"
 
 # # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:542
-msgid "month"
-msgstr "Xahar"
+#: osha.policy:/missing_18n_labels.py:625
+msgid "year"
+msgstr "Sena"
 
-#: osha.policy:/missing_18n_labels.py:543
-msgid "monthly"
-msgstr "kull xahar"
-
-#: osha.policy:/missing_18n_labels.py:544
-msgid "needed"
-msgstr "meħtieġ"
-
-# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
-# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
-#: osha.policy:/missing_18n_labels.py:545
-msgid "news_by"
-msgstr "minn"
-
-#: osha.policy:/missing_18n_labels.py:546
-msgid "next"
-msgstr "li jmiss"
-
-#: osha.policy:/missing_18n_labels.py:547
-msgid "no_alerts"
-msgstr "M’għandek ebda twissija rreġistrata."
-
-#: osha.policy:/missing_18n_labels.py:548
-msgid "no_subject"
-msgstr "[l-Ebda suġġett]"
-
-#: osha.policy:/missing_18n_labels.py:549
-msgid "not allowed"
-msgstr "mhux permess"
-
-#: osha.policy:/missing_18n_labels.py:55
+#: osha.policy:/missing_18n_labels.py:63
 msgid "description_napo-016-lungs-at-work"
 msgstr ""
 "L-espożizzjoni għad-duħħan tat-tabakk hija ħażina kemm għas-saħħa ta’ dawk "
@@ -2736,46 +3094,7 @@ msgstr ""
 "xogħol F’dan il-filmat qasir, Napo jagħti l-kontribut uniku tiegħu stess "
 "favur il-kawża ta’ postijiet tax-xogħol ħielsa mit-tipjip."
 
-#: osha.policy:/missing_18n_labels.py:550
-msgid "notification_email"
-msgstr "Email ta’ Notifika"
-
-#: osha.policy:/missing_18n_labels.py:551
-msgid "november"
-msgstr "Novembru"
-
-#: osha.policy:/missing_18n_labels.py:552
-msgid "october"
-msgstr "Ottubru"
-
-#: osha.policy:/missing_18n_labels.py:553
-msgid "osha_description_pressbox_pressreleases"
-msgstr "These are our press releases:"
-
-#: osha.policy:/missing_18n_labels.py:554
-msgid "osha_discovernetwork_info"
-msgstr "Skopri l-Imsieħba Ewropej u Internazzjonali tagħna"
-
-#: osha.policy:/missing_18n_labels.py:555
-msgid "osha_informationportlet_link"
-msgstr "Il-link tiegħek għas-Saħħa u s-Sigurtà fuq il-post tax-Xogħol"
-
-# Press Room
-#: osha.policy:/missing_18n_labels.py:557
-msgid "osha_label_press_room"
-msgstr "Stampa"
-
-#: osha.policy:/missing_18n_labels.py:558
-msgid "osha_networkportlet_info"
-msgstr ""
-"In-network tagħna jikkontjeni sîti li jipprovdu informazzjoni nazzjonali u "
-"istituzzjonali dwar l-OHS madwar id-dinja "
-
-#: osha.policy:/missing_18n_labels.py:559
-msgid "osha_networkportlet_link"
-msgstr "Uri sîti assoċjati"
-
-#: osha.policy:/missing_18n_labels.py:56
+#: osha.policy:/missing_18n_labels.py:64
 msgid "description_napo-017-working-together"
 msgstr ""
 "Mhux kull ma jleqq hu deheb hekk sid il-fabbrika kien qed jagħti intervista "
@@ -2798,52 +3117,7 @@ msgstr ""
 "il-maniġers u l-impjegati jiddjalogaw flimkien; jisimgħu lil xulxin; isolvu "
 "l-problemi u jiskambjaw perspettivi u informazzjoni."
 
-#: osha.policy:/missing_18n_labels.py:560
-msgid "oshmail_header_subscribe"
-msgstr "abbona ma' oshmail"
-
-#: osha.policy:/missing_18n_labels.py:561
-msgid "oshmail_header_unsubscribe"
-msgstr "tħassar minn oshmail"
-
-#: osha.policy:/missing_18n_labels.py:562
-msgid "oshmail_intro_every_month"
-msgstr ""
-"Kull xahar, ${oshmail} tinfurmak bl-aħħar żviluppi fis-saħħa u s-sigurtà fuq "
-"il-post tax-xogħol:"
-
-#: osha.policy:/missing_18n_labels.py:563
-msgid "oshmail_intro_welcome"
-msgstr ""
-"Merħba f'${oshmail}, in-newsletter elettronika maħruġa mill-Aġenzija Ewropea "
-"għas-Saħħa u s-Sigurtà fuq il-Post tax-Xogħol."
-
-#: osha.policy:/missing_18n_labels.py:564
-msgid "oshmail_label_enter_emaiL"
-msgstr "daħħal l-indirizz elettroniku tiegħek hawn"
-
-#: osha.policy:/missing_18n_labels.py:565
-msgid "oshmail_list_1"
-msgstr "l-aħħar aħbarijiet fil-qasam tas-saħħa u s-sigurtà mid-dinja kollha;"
-
-#: osha.policy:/missing_18n_labels.py:566
-msgid "oshmail_list_3"
-msgstr ""
-"l-aġġornamenti dwar il-kampanji u l-attivitajiet organizzati mill-Aġenzija;"
-
-#: osha.policy:/missing_18n_labels.py:567
-msgid "oshmail_list_4"
-msgstr "l-avvenimenti li jmiss;"
-
-#: osha.policy:/missing_18n_labels.py:568
-msgid "oshmail_list_5"
-msgstr "l-aħħar pubblikazzjonijiet tal-Aġenzija;"
-
-#: osha.policy:/missing_18n_labels.py:569
-msgid "oshmail_list_6"
-msgstr "l-aġġornamenti dwar il-leġiżlazzjoni tal-UE;"
-
-#: osha.policy:/missing_18n_labels.py:57
+#: osha.policy:/missing_18n_labels.py:65
 msgid "description_napo_film_1"
 msgstr ""
 "L-ewwel film fis-serje ta’ Napo tipprovdi introduzzjoni bażika ta’ sinjali u "
@@ -2862,50 +3136,7 @@ msgstr ""
 "x’jiġri jekk wieħed ma jobdix is-sinjali, u l-ostakoli tekniċi u "
 "organizzattivi kontra l-ħidma effiċjenti tas-sinjali."
 
-#: osha.policy:/missing_18n_labels.py:570
-msgid "oshmail_list_7"
-msgstr "kollox fi 24 lingwa ..."
-
-#: osha.policy:/missing_18n_labels.py:571
-msgid "portlet_campaign_ew2007_title"
-msgstr "KAMPANJA EWROPEA 2007"
-
-#: osha.policy:/missing_18n_labels.py:572
-msgid "portlet_campaign_hwi_text"
-msgstr "Tajjeb għalik – Tajjeb għan-negozju tiegħek"
-
-#: osha.policy:/missing_18n_labels.py:573
-msgid "portlet_campaign_hwi_title"
-msgstr "Inizjattiva favur is-Saħħa fuq il-Post tax-Xogħol "
-
-#: osha.policy:/missing_18n_labels.py:574
-msgid "portlet_oshmail_email"
-msgstr "l-indirizz ta’ l-email"
-
-#: osha.policy:/missing_18n_labels.py:575
-msgid "portlet_oshsearch_advanced"
-msgstr "Tiftixa avvanzata"
-
-# Anticipating Change
-#: osha.policy:/missing_18n_labels.py:576
-msgid "portlet_riskob_text"
-msgstr "Bidla mistennija!"
-
-#: osha.policy:/missing_18n_labels.py:577
-msgid "results_by_author"
-msgstr "minn ${author} , ${date}"
-
-#: osha.policy:/missing_18n_labels.py:578
-msgid "role_equivalence"
-msgstr "Ekwivalenzi tar-Rwoli"
-
-# # 1 more:
-# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
-#: osha.policy:/missing_18n_labels.py:579
-msgid "schedule"
-msgstr "L-Iskeda"
-
-#: osha.policy:/missing_18n_labels.py:58
+#: osha.policy:/missing_18n_labels.py:66
 msgid "description_napo_film_11"
 msgstr ""
 "<p>Il-film jirrakkonta l-istorja ta' Napo, ħaddiem eżemplari. Wara x-xogħol, "
@@ -2920,49 +3151,7 @@ msgstr ""
 "film huwa adattat ukoll għat-taħriġ tal-maniġment b'konnesjoni mal-assenza "
 "ta' maniġment.</p>"
 
-#: osha.policy:/missing_18n_labels.py:580
-msgid "search_criteria"
-msgstr "Kriterji ta’ Tfittxija"
-
-#: osha.policy:/missing_18n_labels.py:581
-msgid "search_date"
-msgstr "Data"
-
-#: osha.policy:/missing_18n_labels.py:582
-msgid "search_in"
-msgstr "Fittex fi"
-
-#: osha.policy:/missing_18n_labels.py:583
-msgid "search_in_folder"
-msgstr "Fil-fowlder"
-
-#: osha.policy:/missing_18n_labels.py:584
-msgid "search_link"
-msgstr "Fittex"
-
-#: osha.policy:/missing_18n_labels.py:585
-msgid "search_results_advanced"
-msgstr ""
-"Ma sibtx dak li kont qed tfittex? Ipprova $ {tfittxija_ avvanzata} għal "
-"iktar għażliet preċiżi ta’ tfittxija."
-
-#: osha.policy:/missing_18n_labels.py:586
-msgid "search_term"
-msgstr "It-terminu ta’ tfittxija"
-
-#: osha.policy:/missing_18n_labels.py:587
-msgid "searchresults"
-msgstr "Riżultati tat-tfittxija"
-
-#: osha.policy:/missing_18n_labels.py:588
-msgid "september"
-msgstr "Settembru"
-
-#: osha.policy:/missing_18n_labels.py:589
-msgid "show next day"
-msgstr "uri l-jum segwenti"
-
-#: osha.policy:/missing_18n_labels.py:59
+#: osha.policy:/missing_18n_labels.py:67
 msgid "description_napo_film_12"
 msgstr ""
 "<p>Dan il-filmat huwa verżjoni riveduta ta' ‘Scratch and Sniff – chemical "
@@ -2985,47 +3174,7 @@ msgstr ""
 "il-mod il-ħażin flimkien mal-konsegwenzi serji mbagħad il-mod it-tajjeb "
 "billi jiġu rispettati l-istruzzjonijiet ta' sigurtà. </p>"
 
-#: osha.policy:/missing_18n_labels.py:590
-msgid "show next month"
-msgstr "uri x-xahar segwenti"
-
-#: osha.policy:/missing_18n_labels.py:591
-msgid "show next week"
-msgstr "uri l-ġimgħa segwenti"
-
-#: osha.policy:/missing_18n_labels.py:592
-msgid "show next year"
-msgstr "uri s-sena segwenti"
-
-#: osha.policy:/missing_18n_labels.py:593
-msgid "show previous day"
-msgstr "uri l-jum preċedenti"
-
-#: osha.policy:/missing_18n_labels.py:594
-msgid "show previous month"
-msgstr "uri x-xahar preċedenti"
-
-#: osha.policy:/missing_18n_labels.py:595
-msgid "show previous week"
-msgstr "uri l-ġimgħa preċedenti"
-
-#: osha.policy:/missing_18n_labels.py:596
-msgid "show previous year"
-msgstr "uri s-sena preċedenti"
-
-#: osha.policy:/missing_18n_labels.py:597
-msgid "sign the charter"
-msgstr "iffirma l-karta"
-
-#: osha.policy:/missing_18n_labels.py:598
-msgid "since"
-msgstr "Minn"
-
-#: osha.policy:/missing_18n_labels.py:599
-msgid "slogan_statment_hw2010_campaign"
-msgstr "Kampanja Ewropea dwar Sigurtà fil-Manutenzjoni"
-
-#: osha.policy:/missing_18n_labels.py:60
+#: osha.policy:/missing_18n_labels.py:68
 msgid "description_napo_film_13"
 msgstr ""
 "<p>Il-filmat iqajjem kuxjenza dwar il-perikli tal-espożizzjoni tal-ġilda "
@@ -3049,50 +3198,7 @@ msgstr ""
 "tal-ġilda.</p><p>Fl-aħħar Napo jirrakkomanda kontrolli regolari għal sinjali "
 "bikrin ta' problemi tal-ġilda. </p>"
 
-#: osha.policy:/missing_18n_labels.py:600
-msgid "source"
-msgstr "fonti"
-
-#: osha.policy:/missing_18n_labels.py:601
-msgid "subheading_portlet_contents"
-msgstr "Il-Kontenut tal-Portlet"
-
-#: osha.policy:/missing_18n_labels.py:602
-msgid "subheading_portlet_representation"
-msgstr "Ir-Rappreżentazzjoni tal-Kaxxa tal-Portlet "
-
-#: osha.policy:/missing_18n_labels.py:603
-msgid "subject"
-msgstr "Suġġett"
-
-#: osha.policy:/missing_18n_labels.py:604
-msgid "subscribe_to_oshmail_long"
-msgstr ""
-"Ibqa' aġġornat mal-aħħar żviluppi fis-sikurezza u s-saħħa fuq il-post tax-"
-"xogħol. ${Subscribe} issa biex ikollok l-aġġornament ta' kull xahar."
-
-# # 1 more: ./plone_templates/global_pathbar.pt
-#: osha.policy:/missing_18n_labels.py:605
-msgid "tabs_home"
-msgstr "Paġna prinċipali"
-
-#: osha.policy:/missing_18n_labels.py:606
-msgid "title"
-msgstr "Titolu"
-
-#: osha.policy:/missing_18n_labels.py:607
-msgid "title_add_to_ical"
-msgstr "Żid din il-partita fil-kalendarju vCal tiegħek"
-
-#: osha.policy:/missing_18n_labels.py:608
-msgid "title_add_to_vcal"
-msgstr "Żid din il-partita fil-kalendarju vCal tiegħek"
-
-#: osha.policy:/missing_18n_labels.py:609
-msgid "title_agency"
-msgstr "L-Aġenzija Ewropea<br />għasgurtà u s-Saħħa<br />fuq il-post taxgħol"
-
-#: osha.policy:/missing_18n_labels.py:61
+#: osha.policy:/missing_18n_labels.py:69
 msgid "description_napo_film_14"
 msgstr ""
 "<p>Standards baxxi ta’ manutenzjoni huma kawża kbira tal-inċidenti u l-mard "
@@ -3108,40 +3214,7 @@ msgstr ""
 "jixħet dawl fuq il-prattiċi tajba u jiġbed l-attenzjoni fuq l-importanza ta’ "
 "manutenzjoni sikura.</p>"
 
-#: osha.policy:/missing_18n_labels.py:610
-msgid "title_campaign_beinformed"
-msgstr "Sir af"
-
-#: osha.policy:/missing_18n_labels.py:611
-msgid "title_speaker"
-msgstr "Kelliem"
-
-#: osha.policy:/missing_18n_labels.py:612
-msgid "to"
-msgstr "Lil"
-
-#: osha.policy:/missing_18n_labels.py:613
-msgid "total_messages"
-msgstr "Numru ta’ messaġġi"
-
-#: osha.policy:/missing_18n_labels.py:614
-msgid "type your query"
-msgstr "ittajpja l-mistoqsija tiegħek"
-
-#: osha.policy:/missing_18n_labels.py:615
-msgid "visible"
-msgstr "viżibbli"
-
-#: osha.policy:/missing_18n_labels.py:616
-msgid "weekly"
-msgstr "kull ġimgħa"
-
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
-#: osha.policy:/missing_18n_labels.py:617
-msgid "year"
-msgstr "Sena"
-
-#: osha.policy:/missing_18n_labels.py:62
+#: osha.policy:/missing_18n_labels.py:70
 msgid "description_napo_film_2"
 msgstr ""
 "Il-film iħares lejn ir-riskji komuni fuq il-post tax-xogħol u huwa ideali "
@@ -3160,7 +3233,7 @@ msgstr ""
 "toroq qosra u l-importanza li tagħmir tax-xogħol jitħaddem minn ħaddiema "
 "mħarrġa."
 
-#: osha.policy:/missing_18n_labels.py:63
+#: osha.policy:/missing_18n_labels.py:71
 msgid "description_napo_film_3"
 msgstr ""
 "Napo huwa involut f’serje ta’ drammi komiċi qosra dwar ħidma fuq sustanzi "
@@ -3173,7 +3246,7 @@ msgstr ""
 "li jiġu rispettati l-istruzzjonijiet tas-sigurtà. Il-film ikopri sitta mid-"
 "disa’ simboli ta’ sigurtà, u jkopri fil-qosor ir-riskju tal-isplussivi."
 
-#: osha.policy:/missing_18n_labels.py:64
+#: osha.policy:/missing_18n_labels.py:72
 msgid "description_napo_film_4"
 msgstr ""
 "Napo qed jaħdem fuq sit ta’ kostruzzjoni u l-film juri wħud mill-perikli u r-"
@@ -3191,7 +3264,7 @@ msgstr ""
 "jintefgħu oġġetti, waqgħat mill-għoli, korsa ta’ ostakli, uġigħ fid-dahar, "
 "organizzazzjoni ta’ rotot ta’ trasport, iġjene u sigurtà tas-sit."
 
-#: osha.policy:/missing_18n_labels.py:65
+#: osha.policy:/missing_18n_labels.py:73
 msgid "description_napo_film_5"
 msgstr ""
 "Dan il-film juri r-riskji ta’ saħħa u sigurtà li jiltaqgħu magħhom ħaddiema "
@@ -3209,7 +3282,7 @@ msgstr ""
 "problemi ta’ immaniġġjar manwali, ħidma flimkien, u ċirkolazzjoni ta’ "
 "informazzjoni."
 
-#: osha.policy:/missing_18n_labels.py:66
+#: osha.policy:/missing_18n_labels.py:74
 msgid "description_napo_film_6"
 msgstr ""
 "L-istorbju waqt ix-xogħol jaffettwa eluf ta’ ħaddiema. Il-film huwa mfassal "
@@ -3220,7 +3293,7 @@ msgstr ""
 "ta’ impjegati iżda b’mod speċjali għal żgħażagħ f’fażi ta’ taħriġ jew ta’ "
 "esperjenza ta’ xogħol."
 
-#: osha.policy:/missing_18n_labels.py:67
+#: osha.policy:/missing_18n_labels.py:75
 msgid "description_napo_film_7"
 msgstr ""
 "Il-film huwa mfassal biex iqajjem għarfien dwar il-kwistjonijiet li "
@@ -3232,7 +3305,7 @@ msgstr ""
 "temporanji. Hemm seba’ xeni li juru sitwazzjonijiet tipiċi li jiltaqa’ "
 "magħhom min dieħel għall-ewwel darba fuq il-post tax-xogħol."
 
-#: osha.policy:/missing_18n_labels.py:68
+#: osha.policy:/missing_18n_labels.py:76
 msgid "description_napo_film_8"
 msgstr ""
 "Id-Disturbi Muskolu-Skeletali (MSDs) jirrapreżentaw l-aktar problema komuni "
@@ -3248,7 +3321,7 @@ msgstr ""
 "inklużi ħaddiema migranti u temporanji. Hemm ħdax-il xena li juru "
 "sitwazzjonijiet tipiċi li wieħed jiltaqa’ magħhom fuq il-post tax-xogħol."
 
-#: osha.policy:/missing_18n_labels.py:69
+#: osha.policy:/missing_18n_labels.py:77
 msgid "description_napo_film_9"
 msgstr ""
 "Il-valutazzjoni tar-riskju hija t-tema tal-Kampanja Ewropea għall-2008/09. "
@@ -3262,151 +3335,111 @@ msgstr ""
 "tintroduċi l-valutazzjoni tar-riskju u l-kunċetti ta’ perikli u riskji."
 
 # NAPO 15 "Safe moves"
-#: osha.policy:/missing_18n_labels.py:70
+#: osha.policy:/missing_18n_labels.py:78
 msgid "heading_napo-015-safe-moves"
 msgstr "Napo... films minghajr periklu"
 
-#: osha.policy:/missing_18n_labels.py:71
+#: osha.policy:/missing_18n_labels.py:79
 msgid "heading_napo-015-safe-moves-episode-001-planning-for-safety"
 msgstr "Nippjanaw għas-sigurta"
 
-#: osha.policy:/missing_18n_labels.py:72
+#: osha.policy:/missing_18n_labels.py:80
 msgid "heading_napo-015-safe-moves-episode-002-danger-unloading"
 msgstr "Periklu – ħatt ta` taghbija"
 
-#: osha.policy:/missing_18n_labels.py:73
+#: osha.policy:/missing_18n_labels.py:81
 msgid "heading_napo-015-safe-moves-episode-003-poor-maintenance"
 msgstr "Manutenzjoni batuta"
 
-#: osha.policy:/missing_18n_labels.py:74
+#: osha.policy:/missing_18n_labels.py:82
 msgid "heading_napo-015-safe-moves-episode-004-carried-away"
 msgstr "Mitluf fil-ħsibijet"
 
-#: osha.policy:/missing_18n_labels.py:75
+#: osha.policy:/missing_18n_labels.py:83
 msgid "heading_napo-015-safe-moves-episode-005-separate-ways"
 msgstr "Direzzjoni opposta"
 
-#: osha.policy:/missing_18n_labels.py:76
+#: osha.policy:/missing_18n_labels.py:84
 msgid "heading_napo-015-safe-moves-episode-006-circus-number"
 msgstr "Fiċ-ċirklu"
 
-#: osha.policy:/missing_18n_labels.py:77
+#: osha.policy:/missing_18n_labels.py:85
 msgid "heading_napo-015-safe-moves-episode-007-unstable-load"
 msgstr "Tagħbija li mhix stabbli"
 
-#: osha.policy:/missing_18n_labels.py:78
+#: osha.policy:/missing_18n_labels.py:86
 msgid "heading_napo-015-safe-moves-episode-008-clear-vision"
 msgstr "Viżjoni ċara"
 
-#: osha.policy:/missing_18n_labels.py:79
+#: osha.policy:/missing_18n_labels.py:87
 msgid "heading_napo-015-safe-moves-episode-009-danger-calling"
 msgstr "Sinjali ta` periklu"
 
-#: osha.policy:/missing_18n_labels.py:80
+#: osha.policy:/missing_18n_labels.py:88
 msgid "heading_napo-015-safe-moves-episode-010-the-end-game"
 msgstr "Tmiem"
 
 # NAPO 16 "Lungs at Work"
-#: osha.policy:/missing_18n_labels.py:81
+#: osha.policy:/missing_18n_labels.py:89
 msgid "heading_napo-016-lungs-at-work"
 msgstr "Napo fi … il-pulmuni fuq il-post tax-xogħol"
-
-# NAPO 17 "Working Together"
-#: osha.policy:/missing_18n_labels.py:82
-msgid "heading_napo-017-working-together"
-msgstr "Napo……naħdmu flimkien"
-
-#: osha.policy:/missing_18n_labels.py:83
-msgid "heading_napo-017-working-together-episode-001-working-together"
-msgstr "Naħdmu flimkien"
-
-#: osha.policy:/missing_18n_labels.py:84
-msgid "heading_napo-017-working-together-episode-002-bad-news"
-msgstr "Aħbarijiet ħżiena"
-
-#: osha.policy:/missing_18n_labels.py:85
-msgid "heading_napo-017-working-together-episode-003-the-detail"
-msgstr "Id-dettal"
-
-#: osha.policy:/missing_18n_labels.py:86
-msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
-msgstr "Nistgħu nsibu soluzzjoni"
-
-#: osha.policy:/missing_18n_labels.py:87
-msgid "heading_napo-017-working-together-episode-005-speak-up"
-msgstr "Tkellem"
-
-#: osha.policy:/missing_18n_labels.py:88
-msgid "heading_napo-017-working-together-episode-006-safety-pays"
-msgstr "Is-sigurta` trendi"
-
-#: osha.policy:/missing_18n_labels.py:89
-msgid "heading_napo-017-working-together-episode-007-all-together-now"
-msgstr "U issa  lkoll flimkien"
 
 #: osha.policy:/missing_18n_labels.py:9
 msgid "Safety and Health at work"
 msgstr ""
 
+# NAPO 17 "Working Together"
 #: osha.policy:/missing_18n_labels.py:90
+msgid "heading_napo-017-working-together"
+msgstr "Napo……naħdmu flimkien"
+
+#: osha.policy:/missing_18n_labels.py:91
+msgid "heading_napo-017-working-together-episode-001-working-together"
+msgstr "Naħdmu flimkien"
+
+#: osha.policy:/missing_18n_labels.py:92
+msgid "heading_napo-017-working-together-episode-002-bad-news"
+msgstr "Aħbarijiet ħżiena"
+
+#: osha.policy:/missing_18n_labels.py:93
+msgid "heading_napo-017-working-together-episode-003-the-detail"
+msgstr "Id-dettal"
+
+#: osha.policy:/missing_18n_labels.py:94
+msgid "heading_napo-017-working-together-episode-004-we-can-work-it-out"
+msgstr "Nistgħu nsibu soluzzjoni"
+
+#: osha.policy:/missing_18n_labels.py:95
+msgid "heading_napo-017-working-together-episode-005-speak-up"
+msgstr "Tkellem"
+
+#: osha.policy:/missing_18n_labels.py:96
+msgid "heading_napo-017-working-together-episode-006-safety-pays"
+msgstr "Is-sigurta` trendi"
+
+#: osha.policy:/missing_18n_labels.py:97
+msgid "heading_napo-017-working-together-episode-007-all-together-now"
+msgstr "U issa  lkoll flimkien"
+
+#: osha.policy:/missing_18n_labels.py:98
 msgid "label_napo_click_to_see_film"
 msgstr "Click the image to see the film..."
 
-#: osha.policy:/missing_18n_labels.py:91
+#: osha.policy:/missing_18n_labels.py:99
 msgid "napo_back_to_lesson"
 msgstr "Lura għat-tagħlim"
-
-#. Default: "Chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:92
-msgid "title_napo_episode_12_1"
-msgstr "Riskji kimiċi fuq il-post tax-xogħol"
-
-#. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:93
-msgid "title_napo_episode_12_2"
-msgstr "Ta' Ħsara"
-
-#. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:94
-msgid "title_napo_episode_12_3"
-msgstr "Irritanti"
-
-#. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:95
-msgid "title_napo_episode_12_4"
-msgstr "Fjammabbli"
-
-#. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:96
-msgid "title_napo_episode_12_5"
-msgstr "Korrożiv"
-
-#. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:97
-msgid "title_napo_episode_12_6"
-msgstr "Tossiku"
-
-#. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:98
-msgid "title_napo_episode_12_7"
-msgstr "Ta' Periklu għall-Ambjent"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:99
-msgid "title_napo_episode_12_8"
-msgstr "Tmiem"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
 # ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
 # ./plone_forms/search_form.pt
 #. Default: "Description"
-#: osha.policy:/patches/newsitem_patch.py:24
+#: osha.policy:/patches/newsitem_patch.py:25
 msgid "label_description"
 msgstr "Deskrizzjoni"
 
 #. Default: "A short summary of the content."
-#: osha.policy:/patches/newsitem_patch.py:25
+#: osha.policy:/patches/newsitem_patch.py:26
 msgid "help_description"
 msgstr "Deskrizzjoni qasira tal-partita."
 
@@ -3416,28 +3449,6 @@ msgstr "Deskrizzjoni qasira tal-partita."
 #: osha.policy:/skins/osha_content/index_topic.pt:19
 msgid "feature_back_to_mainpage"
 msgstr "Lura għall- ${title} paġna prinċipali"
-
-# # 1 more: ./plone_forms/search.pt
-#. Default: "No results were found."
-#: osha.policy:/skins/osha_content/index_topic.pt:21
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
-#: osha.theme:/browser/templates/index_provider.pt:140
-#: osha.theme:/browser/templates/dbfilter.pt:185
-#: osha.theme:/browser/templates/rofilter.pt:111
-#: osha.theme:/browser/templates/index_oshlink.pt:139
-#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
-#: osha.theme:/browser/templates/index_ralink.pt:140
-#: osha.theme:/browser/templates/worklist.pt:160
-#: osha.theme:/browser/templates/index_casestudy.pt:140
-#: osha.theme:/browser/templates/practical_solutions.pt:78
-#: osha.theme:/browser/templates/search_ro.pt:24
-#: osha.theme:/browser/templates/publicationsearch.pt:111
-#: osha.theme:/browser/templates/atoz.pt:147
-#: osha.theme:/browser/templates/practical_solution.pt:200
-#: osha.theme:/browser/templates/index_directive.pt:178
-msgid "description_no_results_found"
-msgstr "Ma nstab ebda riżultat."
 
 #. Default: "Search the Link Database on"
 #: osha.policy:/skins/osha_content/sep_view.pt:45
@@ -3534,12 +3545,34 @@ msgstr "Kwalunkwe lingwa"
 #. Default: "${number} items match your criteria."
 #: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
 #: osha.policy:/skins/osha_templates/worklist_filter.pt:164
+#: osha.theme:/browser/templates/practical_solution.pt:198
 #: osha.theme:/browser/templates/dbfilter.pt:178
 #: osha.theme:/browser/templates/publicationsearch.pt:98
 #: osha.theme:/browser/templates/atoz.pt:139
-#: osha.theme:/browser/templates/practical_solution.pt:192
 msgid "batch_x_items_matching_your_criteria"
 msgstr "${number} partiti li jaqblu mal-kriterji tiegħek"
+
+# # 1 more: ./plone_forms/search.pt
+#. Default: "No results were found."
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
+#: osha.policy:/skins/osha_content/index_topic.pt:21
+#: osha.theme:/browser/templates/index_provider.pt:140
+#: osha.theme:/browser/templates/practical_solutions.pt:78
+#: osha.theme:/browser/templates/rofilter.pt:111
+#: osha.theme:/browser/templates/worklist.pt:160
+#: osha.theme:/browser/templates/practical_solution.pt:206
+#: osha.theme:/browser/templates/dbfilter.pt:185
+#: osha.theme:/browser/templates/search_ro.pt:24
+#: osha.theme:/browser/templates/publicationsearch.pt:111
+#: osha.theme:/browser/templates/index_casestudy.pt:140
+#: osha.theme:/browser/templates/index_oshlink.pt:139
+#: osha.theme:/browser/templates/index_directive.pt:178
+#: osha.theme:/browser/templates/index_ralink.pt:140
+#: osha.theme:/browser/templates/atoz.pt:147
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
+msgid "description_no_results_found"
+msgstr "Ma nstab ebda riżultat."
 
 #. Default: "Search Text"
 #: osha.policy:/skins/osha_templates/casestudy_db_view.pt:70
@@ -3560,15 +3593,15 @@ msgstr ""
 #. Default: "Search results"
 #: osha.policy:/skins/osha_templates/worklist_filter.pt:158
 #: osha.theme:/browser/templates/index_provider.pt:128
-#: osha.theme:/browser/templates/dbfilter.pt:172
 #: osha.theme:/browser/templates/rofilter.pt:99
-#: osha.theme:/browser/templates/index_oshlink.pt:128
-#: osha.theme:/browser/templates/index_ralink.pt:128
 #: osha.theme:/browser/templates/worklist.pt:148
+#: osha.theme:/browser/templates/practical_solution.pt:191
+#: osha.theme:/browser/templates/dbfilter.pt:172
 #: osha.theme:/browser/templates/index_casestudy.pt:128
-#: osha.theme:/browser/templates/atoz.pt:129
-#: osha.theme:/browser/templates/practical_solution.pt:185
+#: osha.theme:/browser/templates/index_oshlink.pt:128
 #: osha.theme:/browser/templates/index_directive.pt:166
+#: osha.theme:/browser/templates/index_ralink.pt:128
+#: osha.theme:/browser/templates/atoz.pt:129
 msgid "heading_search_results"
 msgstr "Riżultati tat-tfittxija"
 
@@ -3725,7 +3758,7 @@ msgstr ""
 msgid "OSH Link"
 msgstr "Link OHS"
 
-#: osha.theme:/alertservice.py:35 osha.theme:/portlets/oshnews.py:98
+#: osha.theme:/alertservice.py:35 osha.theme:/portlets/oshnews.py:94
 msgid "News"
 msgstr "Aħbarijiet"
 
@@ -3791,6 +3824,15 @@ msgstr ""
 #: osha.theme:/browser/collageviews/oshlink_full.pt:87
 msgid "label_contact"
 msgstr "Kuntatt"
+
+#. Default: "URL"
+#: osha.theme:/browser/collageviews/oshlink_full.pt:95
+#: osha.theme:/browser/templates/rssfeeds.pt:68
+#: osha.theme:/browser/templates/rssfeeds.pt:90
+#: osha.theme:/browser/templates/rssfeeds.pt:119
+#: osha.whoswho:/content/whoswho.py:22
+msgid "label_url"
+msgstr "URL"
 
 #: osha.theme:/browser/interfaces.py:68
 msgid "RSS Feed"
@@ -3973,6 +4015,11 @@ msgstr ""
 msgid "Quotation"
 msgstr ""
 
+#. Default: "EU-OSHA Current job vacancies"
+#: osha.theme:/browser/rssfeeds.py:102
+msgid "eu_osha_current_jobs"
+msgstr ""
+
 #. Default: "EU-OSHA in the media"
 #: osha.theme:/browser/rssfeeds.py:91
 #: osha.theme:/skins/osha_theme_custom_templates/sinList.pt:22
@@ -3982,12 +4029,6 @@ msgstr "EU-OSHA in the media"
 #. Default: "The EU-OSHA Blog"
 #: osha.theme:/browser/rssfeeds.py:97
 msgid "eu_osha_blog"
-msgstr ""
-
-#. Default: "Click a term to display the results."
-#: osha.theme:/browser/templates/atoz.pt:118
-#: osha.theme:/browser/templates/index_alphabetical.pt:80
-msgid "info_no_results"
 msgstr ""
 
 #. Default: "x ${start_day_name}"
@@ -4022,7 +4063,6 @@ msgstr "Tgħallem aktar"
 
 #. Default: "Subcategory"
 #: osha.theme:/browser/templates/dbfilter.pt:119
-#: osha.theme:/browser/templates/practical_solution.pt:131
 #: osha.theme:/browser/templates/index_directive.pt:128
 msgid "label_subcategory"
 msgstr "Sottokategorija"
@@ -4030,24 +4070,6 @@ msgstr "Sottokategorija"
 #. Default: "Search the Link Database on"
 #: osha.theme:/browser/templates/dbfilter.pt:45
 msgid "label_search_database_on"
-msgstr ""
-
-#. Default: "Search the Link Database"
-#: osha.theme:/browser/templates/dbfilter.pt:49
-#: osha.theme:/browser/templates/rofilter.pt:24
-msgid "label_search_database"
-msgstr ""
-
-#. Default: "Database"
-#: osha.theme:/browser/templates/dbfilter.pt:88
-#: osha.theme:/browser/templates/worklist.pt:73
-msgid "label_database"
-msgstr ""
-
-#. Default: "Select the database types you want to search."
-#: osha.theme:/browser/templates/dbfilter.pt:90
-#: osha.theme:/browser/templates/worklist.pt:75
-msgid "help_database_search"
 msgstr ""
 
 # # 1 more:
@@ -4079,6 +4101,12 @@ msgstr "Traduzzjonijiet"
 #: osha.theme:/browser/templates/index_alphabetical.pt:36
 msgid "alphabetical_index"
 msgstr "Indiċi Alfabetiku"
+
+#. Default: "Click a term to display the results."
+#: osha.theme:/browser/templates/index_alphabetical.pt:80
+#: osha.theme:/browser/templates/atoz.pt:118
+msgid "info_no_results"
+msgstr ""
 
 #. Default: "Display information about \"${title}\""
 #: osha.theme:/browser/templates/index_alphabetical.pt:98
@@ -4128,20 +4156,20 @@ msgstr ""
 #. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
 #: osha.theme:/browser/templates/index_provider.pt:48
 #: osha.theme:/browser/templates/dbfilter.pt:55
-#: osha.theme:/browser/templates/index_oshlink.pt:48
-#: osha.theme:/browser/templates/index_ralink.pt:48
 #: osha.theme:/browser/templates/index_casestudy.pt:48
+#: osha.theme:/browser/templates/index_oshlink.pt:48
 #: osha.theme:/browser/templates/index_directive.pt:54
+#: osha.theme:/browser/templates/index_ralink.pt:48
 msgid "help_database_filter_topic"
 msgstr ""
 
 #. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
 #: osha.theme:/browser/templates/index_provider.pt:53
 #: osha.theme:/browser/templates/dbfilter.pt:60
-#: osha.theme:/browser/templates/index_oshlink.pt:53
-#: osha.theme:/browser/templates/index_ralink.pt:53
 #: osha.theme:/browser/templates/index_casestudy.pt:53
+#: osha.theme:/browser/templates/index_oshlink.pt:53
 #: osha.theme:/browser/templates/index_directive.pt:59
+#: osha.theme:/browser/templates/index_ralink.pt:53
 msgid "help_database_filter"
 msgstr ""
 
@@ -4228,29 +4256,29 @@ msgid "text_no_faq_results"
 msgstr "Mhemmx Mistoqsijiet Frekwenti (FAQs) f’din il-kategorija."
 
 #. Default: "European Agency for Safety and Health at Work"
-#: osha.theme:/browser/templates/osha_homepage.pt:19
+#: osha.theme:/browser/templates/osha_homepage.pt:22
 msgid "box_agency_fullname"
 msgstr "L-Aġenzija Ewropea għas-Sigurtà u s-Saħħa fuq il-post tax-Xogħol"
 
 #. Default: "Making Europe a safer, healthier and more productive place to work"
-#: osha.theme:/browser/templates/osha_homepage.pt:20
+#: osha.theme:/browser/templates/osha_homepage.pt:23
 msgid "label_making_europe_safer"
 msgstr ""
 "Nagħmlu l-postijiet tax-xogħol fl-Ewropa aktar siguri, aktar f’saħħthom u "
 "aktar produttivi"
 
 #. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
-#: osha.theme:/browser/templates/osha_homepage.pt:21
+#: osha.theme:/browser/templates/osha_homepage.pt:24
 msgid "portlet_more_link"
 msgstr ""
 
 #. Default: "Highlights"
-#: osha.theme:/browser/templates/osha_homepage.pt:28
+#: osha.theme:/browser/templates/osha_homepage.pt:31
 msgid "label_highlights"
 msgstr "Jenfasizza"
 
 #. Default: "Previous highlights"
-#: osha.theme:/browser/templates/osha_homepage.pt:46
+#: osha.theme:/browser/templates/osha_homepage.pt:49
 msgid "label_previous_highlights"
 msgstr "Arkivju"
 
@@ -4325,10 +4353,15 @@ msgid "label_previous_issues"
 msgstr "il-ħarġiet ta’ qabel"
 
 #. Default: "Show previous news"
-#: osha.theme:/browser/templates/oshnews_view.pt:113
 #: osha.theme:/browser/templates/oshnews_view_simple.pt:115
+#: osha.theme:/browser/templates/oshnews_view.pt:113
 msgid "link_newsboard_previousnews"
 msgstr "Uri aħbarijiet preċedenti"
+
+#: osha.theme:/browser/templates/practical_solution.pt:172
+#: osha.theme:/browser/templates/publicationsearch.pt:81
+msgid "Reset"
+msgstr "Irrisettja"
 
 #. Default: "Advanced search"
 #: osha.theme:/browser/templates/practical_solution.pt:81
@@ -4399,11 +4432,6 @@ msgstr "Aċċessa l-pubblikazzjonijiet kollha tal-UE fuq ${link_eu_bookshop}"
 msgid "label_more_results_in_en"
 msgstr "Għal aktar riżultati ċċekkja fl-EN"
 
-#: osha.theme:/browser/templates/publicationsearch.pt:81
-#: osha.theme:/browser/templates/practical_solution.pt:166
-msgid "Reset"
-msgstr "Irrisettja"
-
 #. Default: "Questions in parliament"
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:29
 msgid "label_question_in_parliament"
@@ -4417,6 +4445,12 @@ msgstr ""
 #. Default: "${number} search results were found."
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:82
 msgid "batch_x_search_results"
+msgstr ""
+
+#. Default: "Search the Link Database"
+#: osha.theme:/browser/templates/rofilter.pt:24
+#: osha.theme:/browser/templates/dbfilter.pt:49
+msgid "label_search_database"
 msgstr ""
 
 #. Default: "Themes (including related news, events, publications and press releases)"
@@ -4503,15 +4537,6 @@ msgstr "Informazzjoni Ġenerali"
 msgid "label_latest"
 msgstr "L-aktar reċenti"
 
-#. Default: "URL"
-#: osha.theme:/browser/templates/rssfeeds.pt:68
-#: osha.theme:/browser/templates/rssfeeds.pt:90
-#: osha.theme:/browser/templates/rssfeeds.pt:119
-#: osha.theme:/browser/collageviews/oshlink_full.pt:95
-#: osha.whoswho:/content/whoswho.py:22
-msgid "label_url"
-msgstr "URL"
-
 #. Default: "Shortcut"
 #: osha.theme:/browser/templates/rssfeeds.pt:72
 #: osha.theme:/browser/templates/rssfeeds.pt:94
@@ -4547,11 +4572,28 @@ msgstr "Arkivju"
 msgid "heading_topics"
 msgstr "Temi"
 
+#. Default: "Database"
+#: osha.theme:/browser/templates/worklist.pt:73
+#: osha.theme:/browser/templates/dbfilter.pt:88
+msgid "label_database"
+msgstr ""
+
+#. Default: "Select the database types you want to search."
+#: osha.theme:/browser/templates/worklist.pt:75
+#: osha.theme:/browser/templates/dbfilter.pt:90
+msgid "help_database_search"
+msgstr ""
+
 # updated on topics ... subscribe
 #. Default: "Updates on topics of your choice"
 #: osha.theme:/portlets/alertservice.pt:20
 msgid "portlet_alertservice_text"
 msgstr "Aġġornamenti dwar suġġetti ta’ l-għażla tiegħek  <br/>- Abbona -"
+
+#. Default: "subscribers"
+#: osha.theme:/portlets/alertservice.pt:26 osha.theme:/portlets/oshmail.pt:24
+msgid "box_oshmail_subscribers"
+msgstr "abbonati"
 
 #: osha.theme:/portlets/alertservice.py:27
 #: osha.theme:/portlets/alertservice.pt:7
@@ -4588,54 +4630,67 @@ msgstr ""
 msgid "Shows Banners of current campaigns."
 msgstr ""
 
+#. Default: "What is RSS?"
+#: osha.theme:/portlets/collection.pt:52 osha.theme:/portlets/oshnews.pt:48
+#: osha.theme:/portlets/oshevents.pt:75
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+msgid "info_whatis_rss"
+msgstr "X’hini l-RSS?"
+
 #. Default: "Try the:"
 #: osha.theme:/portlets/defaultsearch.pt:41
 msgid "txt_try_the"
 msgstr "Ipprova:"
 
-#: osha.theme:/portlets/document_fallback.py:199
+#: osha.theme:/portlets/document_fallback.py:206
 msgid "Add Document Fallback Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:200
-#: osha.theme:/portlets/document_fallback.py:216
+#: osha.theme:/portlets/document_fallback.py:207
+#: osha.theme:/portlets/document_fallback.py:223
 msgid "This portlet displays the contents of a document."
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:215
+#: osha.theme:/portlets/document_fallback.py:222
 msgid "Edit Document Fallback Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:31
+#: osha.theme:/portlets/document_fallback.py:32
 #: osha.theme:/portlets/image.py:32 osha.theme:/portlets/osha_items.py:28
 #: osha.theme:/portlets/oshcollection.py:32
 #: osha.theme:/portlets/rollingquotes.py:24 osha.theme:/portlets/top5.py:81
 msgid "Portlet header"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:32
+#: osha.theme:/portlets/document_fallback.py:33
 #: osha.theme:/portlets/image.py:33 osha.theme:/portlets/oshcollection.py:33
 #: osha.theme:/portlets/rollingquotes.py:25 osha.theme:/portlets/top5.py:82
 msgid "Title of the rendered portlet"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:35
+#: osha.theme:/portlets/document_fallback.py:37
 msgid "Target document"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:36
+#: osha.theme:/portlets/document_fallback.py:38
 msgid "Find the document which provides the content"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:42
+#: osha.theme:/portlets/document_fallback.py:45
 msgid "Omit portlet border"
 msgstr ""
 
-#: osha.theme:/portlets/document_fallback.py:43
+#: osha.theme:/portlets/document_fallback.py:46
 msgid ""
 "Tick this box if you want to render the text above without the standard "
 "header, border or footer."
 msgstr ""
+
+#. Default: "TBC"
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:41
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+msgid "abbr_date_to_be_confirmed"
+msgstr "Għad trid tiġi kkonfermata"
 
 #. Default: "European Campaign 2007"
 #: osha.theme:/portlets/ew2007.pt:7
@@ -4846,7 +4901,7 @@ msgid "The display title of the rendered portlet"
 msgstr ""
 
 #: osha.theme:/portlets/osha_items.py:33 osha.theme:/portlets/oshevents.py:27
-#: osha.theme:/portlets/oshnews.py:28
+#: osha.theme:/portlets/oshnews.py:24
 msgid "Number of items to display"
 msgstr ""
 
@@ -4861,7 +4916,7 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/osha_items.py:45 osha.theme:/portlets/oshevents.py:33
-#: osha.theme:/portlets/oshnews.py:34
+#: osha.theme:/portlets/oshnews.py:30
 msgid "Workflow state"
 msgstr ""
 
@@ -4872,7 +4927,7 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/osha_items.py:56 osha.theme:/portlets/oshevents.py:41
-#: osha.theme:/portlets/oshnews.py:42
+#: osha.theme:/portlets/oshnews.py:38
 #: osha.theme:/portlets/practical_solutions.py:23
 msgid "Categories"
 msgstr ""
@@ -4962,33 +5017,20 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/oshcollection.py:70
-#: osha.theme:/portlets/oshevents.py:67 osha.theme:/portlets/oshnews.py:70
+#: osha.theme:/portlets/oshevents.py:67 osha.theme:/portlets/oshnews.py:66
 msgid "RSS explanation path"
 msgstr ""
 
-#: osha.theme:/portlets/oshcollection.py:71 osha.theme:/portlets/oshnews.py:71
+#: osha.theme:/portlets/oshcollection.py:71 osha.theme:/portlets/oshnews.py:67
 msgid ""
 "Enter a relative path to a page that gives general RSS information. This is "
 "optional."
 msgstr ""
 
-#. Default: "TBC"
-#: osha.theme:/portlets/oshevents.pt:41 osha.theme:/portlets/events.pt:41
-#: osha.theme:/browser/templates/calendar_events_list.pt:41
-msgid "abbr_date_to_be_confirmed"
-msgstr "Għad trid tiġi kkonfermata"
-
 #. Default: "Upcoming Events"
 #: osha.theme:/portlets/oshevents.pt:6
 msgid "box_events"
 msgstr ""
-
-#. Default: "What is RSS?"
-#: osha.theme:/portlets/oshevents.pt:75 osha.theme:/portlets/collection.pt:52
-#: osha.theme:/portlets/oshnews.pt:48
-#: osha.theme:/browser/templates/rssfeeds.pt:19
-msgid "info_whatis_rss"
-msgstr "X’hini l-RSS?"
 
 #: osha.theme:/portlets/oshevents.py:271
 msgid "Add Events Portlet"
@@ -4998,7 +5040,7 @@ msgstr ""
 msgid "This portlet lists upcoming Events."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:28 osha.theme:/portlets/oshnews.py:29
+#: osha.theme:/portlets/oshevents.py:28 osha.theme:/portlets/oshnews.py:25
 msgid "How many items to list."
 msgstr ""
 
@@ -5006,11 +5048,11 @@ msgstr ""
 msgid "Edit Events Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:34 osha.theme:/portlets/oshnews.py:35
+#: osha.theme:/portlets/oshevents.py:34 osha.theme:/portlets/oshnews.py:31
 msgid "Items in which workflow state to show."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:42 osha.theme:/portlets/oshnews.py:43
+#: osha.theme:/portlets/oshevents.py:42 osha.theme:/portlets/oshnews.py:39
 msgid "Pick one or more categories for which you want to show events."
 msgstr ""
 
@@ -5024,7 +5066,7 @@ msgid ""
 "is optional"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:58 osha.theme:/portlets/oshnews.py:60
+#: osha.theme:/portlets/oshevents.py:58 osha.theme:/portlets/oshnews.py:56
 msgid "RSS path"
 msgstr ""
 
@@ -5047,13 +5089,8 @@ msgstr ""
 msgid "portlet_oshmail_text"
 msgstr "Gazzetta ta’ Kull Xahar ta’ aħbarijiet strateġiċi<br/>- Abbona -"
 
-#. Default: "subscribers"
-#: osha.theme:/portlets/oshmail.pt:24 osha.theme:/portlets/alertservice.pt:26
-msgid "box_oshmail_subscribers"
-msgstr "abbonati"
-
 #: osha.theme:/portlets/oshmail.py:28 osha.theme:/portlets/oshmail.pt:6
-#: osha.theme:/portlets/subscribe_mailinglists.pt:5
+#: osha.theme:/portlets/subscribe_mailinglists.pt:6
 msgid "Free Newsletter"
 msgstr "Bullettin b’xejn"
 
@@ -5069,20 +5106,26 @@ msgstr ""
 msgid "Edit News Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:52
+#: osha.theme:/portlets/oshnews.py:48
 msgid "Newsfolder path"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:53
+#: osha.theme:/portlets/oshnews.py:49
 msgid ""
 "Enter a folder where the 'more news' link will point to. This is optional"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:61
+#: osha.theme:/portlets/oshnews.py:57
 msgid ""
 "Enter a relative path to the folder or topic that displays an RSS "
 "representation of the news. \"/RSS\" will automatically be appended to the "
 "URL.This setting is optional"
+msgstr ""
+
+#. Default: "More"
+#: osha.theme:/portlets/practical_solutions.pt:20
+#: osha.theme:/portlets/publications.pt:20
+msgid "label_more"
 msgstr ""
 
 #. Default: "Practical solutions"
@@ -5100,6 +5143,12 @@ msgstr "Soluzzjonijiet prattiċi"
 msgid "search"
 msgstr "Fittex "
 
+#. Default: "Publications"
+#: osha.theme:/portlets/practical_solutions.pt:5
+#: osha.theme:/portlets/publications.pt:5
+msgid "heading_publications"
+msgstr "Pubblikazzjonijiet"
+
 #: osha.theme:/portlets/practical_solutions.pt:65
 #: osha.theme:/browser/templates/site_actions.pt:15
 msgid "FAQ"
@@ -5110,18 +5159,6 @@ msgid ""
 "Please select a relevant category for the items in this portlet. This should "
 "match the section category."
 msgstr ""
-
-#. Default: "More"
-#: osha.theme:/portlets/publications.pt:20
-#: osha.theme:/portlets/practical_solutions.pt:20
-msgid "label_more"
-msgstr ""
-
-#. Default: "Publications"
-#: osha.theme:/portlets/publications.pt:5
-#: osha.theme:/portlets/practical_solutions.pt:5
-msgid "heading_publications"
-msgstr "Pubblikazzjonijiet"
 
 #: osha.theme:/portlets/rollingquotes.py:119
 msgid "Add Rolling Quotes Portlet"
@@ -5163,10 +5200,10 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/search.py:36
-#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
 #: osha.theme:/browser/templates/site_actions.pt:9
 #: osha.theme:/browser/templates/publicationsearch.pt:80
 #: osha.theme:/browser/templates/osha_help_center_view.pt:47
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
 msgid "Search"
 msgstr "Fittex"
 
@@ -5217,15 +5254,15 @@ msgstr ""
 msgid "Subscribe"
 msgstr "Agħmel abbonament"
 
-#. Default: "You could use ${label_our_alert_service} too!"
-#: osha.theme:/portlets/subscribe_mailinglists.pt:17
-msgid "subscribe_portlet_alertservice_intro"
-msgstr "Tista' wkoll tuża ${label_our_alert_service}!"
-
 #. Default: "our Alert Service"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:17
 msgid "label_our_alert_service"
 msgstr "s-Servizz t'Allert tagħna"
+
+#. Default: "You could use ${label_our_alert_service} too!"
+#: osha.theme:/portlets/subscribe_mailinglists.pt:17
+msgid "subscribe_portlet_alertservice_intro"
+msgstr "Tista' wkoll tuża ${label_our_alert_service}!"
 
 #: osha.theme:/portlets/subscribe_mailinglists.py:26
 #: osha.theme:/portlets/subscribe_mailinglists.py:64
@@ -5288,10 +5325,10 @@ msgid "alertservice_cancel_request"
 msgstr "Ikkanċella din it-talba għal twissija mingħand EU-OSHA:"
 
 #. Default: "More"
-#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:125
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:121
+#: osha.theme:/browser/templates/osha_homepage.pt:24
+#: osha.theme:/browser/templates/osha_homepage.pt:43
 #: osha.theme:/browser/templates/competitions_view.pt:61
-#: osha.theme:/browser/templates/osha_homepage.pt:21
-#: osha.theme:/browser/templates/osha_homepage.pt:40
 msgid "alert_label_more"
 msgstr "Aktar"
 
@@ -5305,20 +5342,6 @@ msgstr "Servizz ta’ Notifika"
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:43
 msgid "alert_osha_notification_report"
 msgstr ""
-
-# ###
-# Alertservice
-#. Default: "Subjects of interest"
-#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:56
-#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:14
-msgid "label_subjects_of_interest"
-msgstr "Suġġetti ta’ interess"
-
-#. Default: "Additional Languages"
-#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:66
-#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:95
-msgid "label_additional_languages"
-msgstr "Lingwi addizzjonali"
 
 #. Default: "If your question has not been answered with this standard reply, you may send us a personal message. Please proceed to the ${contact_form_name}"
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us.pt:27
@@ -5415,6 +5438,33 @@ msgstr "Jiena  ..."
 msgid "Please select one"
 msgstr "Jekk jogħġbok agħżel wieħed"
 
+#. Default: "Please double check the web address or use the search function on this page to find what you are looking for."
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:39
+msgid "description_site_error_double_check_or_search"
+msgstr ""
+"Jekk jogħġbok ikkontrolla għal darbtejn l-indirizz ta’ l-internet jew uża l-"
+"funzjoni ta’ tfittxija fuq din il-paġna sabiex issib dak li qiegħed tfittex."
+
+#. Default: "Translation Unavailable"
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:63
+msgid "header_translation_unavailable"
+msgstr ""
+
+#. Default: "This content does not exist in your current language, ${language}, ${keep_browsing}."
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:73
+msgid "description_translation_unavailable"
+msgstr ""
+
+#. Default: "but you can keep browsing the site in this language"
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:74
+msgid "label_keep_browsing"
+msgstr ""
+
+#. Default: "If you want to read the content of this document, you have to switch to one of the following languages:"
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:85
+msgid "description_read_translated_versions"
+msgstr ""
+
 # # 1 more: ./eITCalendar/skins/eIT_calendar/event_view.pt
 #. Default: "Start Date"
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:113
@@ -5458,21 +5508,6 @@ msgstr "Modifikati"
 msgid "label_languages"
 msgstr "Lingwi"
 
-#. Default: "Links"
-#: osha.theme:/skins/osha_theme_custom_templates/pressrelease_view.pt:121
-msgid "label_links"
-msgstr "Links"
-
-#. Default: "Notes to editors"
-#: osha.theme:/skins/osha_theme_custom_templates/pressrelease_view.pt:135
-msgid "label_notes_to_editors"
-msgstr "Noti għall-edituri"
-
-#. Default: "Press inquiries"
-#: osha.theme:/skins/osha_theme_custom_templates/pressrelease_view.pt:141
-msgid "label_press_inquiries"
-msgstr "Mistoqsijiet mill-midja"
-
 #. Default: "&copy; Copyright 1998-${thisyear} European Agency for Safety and Health at Work -"
 #: osha.theme:/skins/osha_theme_custom_templates/shortmessage_template.pt:108
 msgid "copyright"
@@ -5485,13 +5520,13 @@ msgid "Disclaimer"
 msgstr "Ċaħda ta’ responsabbiltà "
 
 #. Default: "I also want to receive OSHmail, the free monthly newsletter"
-#: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:79
+#: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:78
 msgid "description_subscribe_oshmail"
 msgstr ""
 "Irrid nirċievi wkoll OSHmail, il-fuljett ta’ tagħrif bla ħlas ta’ kull xahar"
 
 #. Default: "learn more..."
-#: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:80
+#: osha.theme:/skins/osha_theme_custom_templates/subscribe_form.cpt:79
 msgid "oshmail_learn_more"
 msgstr "sir af aktar..."
 
@@ -5512,6 +5547,14 @@ msgstr ""
 #: osha.whoswho:/browser/templates/whoswho_view.pt:59
 msgid "label_email"
 msgstr "Email"
+
+# ###
+# Alertservice
+#. Default: "Subjects of interest"
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:14
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:56
+msgid "label_subjects_of_interest"
+msgstr "Suġġetti ta’ interess"
 
 #. Default: "Type:"
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:44
@@ -5571,6 +5614,12 @@ msgstr "(Meħtieġ)"
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:406
 msgid "Required"
 msgstr "Meħtieġ"
+
+#. Default: "Additional Languages"
+#: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:95
+#: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:66
+msgid "label_additional_languages"
+msgstr "Lingwi addizzjonali"
 
 #. Default: "In order to choose more than one item from the lists, press the key \"control\" on your keyboard, and select the item with your mouse."
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:97
@@ -6076,9 +6125,6 @@ msgstr ""
 #~ msgid "Type"
 #~ msgstr "Tip"
 
-#~ msgid "Update"
-#~ msgstr "Aġġorna"
-
 #~ msgid "Update File"
 #~ msgstr "Aġġorna Fajl"
 
@@ -6567,12 +6613,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Dan is-sît iltaqa’ ma’ problema waqt li kien qiegħed jipprova jwettaq it-"
 #~ "talba tiegħek. L-iżbalji kienu:"
-
-#~ msgid "description_site_error_double_check_or_search"
-#~ msgstr ""
-#~ "Jekk jogħġbok ikkontrolla għal darbtejn l-indirizz ta’ l-internet jew uża "
-#~ "l-funzjoni ta’ tfittxija fuq din il-paġna sabiex issib dak li qiegħed "
-#~ "tfittex."
 
 #~ msgid "description_still_failure"
 #~ msgstr ""
@@ -8004,8 +8044,8 @@ msgstr ""
 #~ msgstr ""
 #~ "Dan il-bullettin ta’ l-aħbarijiet huwa disponibbli fi: <span tal:omit-tag="
 #~ "\"\" tal:repeat=\"lang lang_supported\"> <a href=\"#\" tal:attributes="
-#~ "\"href python: '%s/newsletter_view?body_language=%s' % (nl_url,lang)"
-#~ "\"><span tal:content=\"lang\"/></a> </span>"
+#~ "\"href python: '%s/newsletter_view?body_language=%s' % (nl_url,"
+#~ "lang)\"><span tal:content=\"lang\"/></a> </span>"
 
 #~ msgid "label_no_panels_available"
 #~ msgstr "Ebda Panel ta’ Preferenza ma huwa disponibbli."
@@ -8650,8 +8690,8 @@ msgstr ""
 
 #~ msgid "oshacontenttypes_directive_view_date"
 #~ msgstr ""
-#~ "( Data: <span tal:replace=\"python:toPortalTime(modification.getOj_date())"
-#~ "\"/> )"
+#~ "( Data: <span tal:replace=\"python:toPortalTime(modification.getOj_date"
+#~ "())\"/> )"
 
 #~ msgid "oshacontenttypes_directive_view_modifications"
 #~ msgstr "Modifiki"
@@ -9386,9 +9426,6 @@ msgstr ""
 
 #~ msgid "Broken Link"
 #~ msgstr "Link mhux miftuħ? "
-
-#~ msgid "Copyright"
-#~ msgstr "Drittijiet ta’ l-awtur"
 
 #~ msgid "Site&nbsp;Update"
 #~ msgstr "Aġġornament tal-websajt    "
