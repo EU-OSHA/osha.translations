@@ -5172,22 +5172,22 @@ msgstr ""
 #. Default: "Translation Unavailable"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:63
 msgid "header_translation_unavailable"
-msgstr ""
+msgstr "Перевод Отсутствует"
 
 #. Default: "This content does not exist in your current language, ${language}, ${keep_browsing}."
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:73
 msgid "description_translation_unavailable"
-msgstr ""
+msgstr "Данный объект не существует на вашем языке, ${language}, ${keep_browsing}."
 
 #. Default: "but you can keep browsing the site in this language"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:74
 msgid "label_keep_browsing"
-msgstr ""
+msgstr "но вы можете подолжать передвижение по порталу"
 
 #. Default: "If you want to read the content of this document, you have to switch to one of the following languages:"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:85
 msgid "description_read_translated_versions"
-msgstr ""
+msgstr "Для просмотра содержания данного документа вам следует переключиться на один из следующих языков:"
 
 #. Default: "Start Date"
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:113

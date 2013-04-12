@@ -5323,22 +5323,22 @@ msgstr ""
 #. Default: "Translation Unavailable"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:63
 msgid "header_translation_unavailable"
-msgstr ""
+msgstr "Oversettelse ikke tilgjengelig"
 
 #. Default: "This content does not exist in your current language, ${language}, ${keep_browsing}."
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:73
 msgid "description_translation_unavailable"
-msgstr ""
+msgstr "Innholdet finnes ikke oversatt til ditt nåværende språk ${language}, ${keep_browsing}."
 
 #. Default: "but you can keep browsing the site in this language"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:74
 msgid "label_keep_browsing"
-msgstr ""
+msgstr "men du kan fortsette å navigere nettstedet i dette språket"
 
 #. Default: "If you want to read the content of this document, you have to switch to one of the following languages:"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:85
 msgid "description_read_translated_versions"
-msgstr ""
+msgstr "Hvis du vil lese innholdet i dette dokumentet, må du bytte til et av følgende språk:"
 
 #. Default: "Start Date"
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:113

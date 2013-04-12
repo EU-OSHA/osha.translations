@@ -5474,22 +5474,22 @@ msgstr ""
 #. Default: "Translation Unavailable"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:63
 msgid "header_translation_unavailable"
-msgstr ""
+msgstr "Traduzione non disponibile"
 
 #. Default: "This content does not exist in your current language, ${language}, ${keep_browsing}."
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:73
 msgid "description_translation_unavailable"
-msgstr ""
+msgstr "Questo contenuto non esiste nella tua lingua corrente, ${language}, ${keep_browsing}."
 
 #. Default: "but you can keep browsing the site in this language"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:74
 msgid "label_keep_browsing"
-msgstr ""
+msgstr "ma puoi continuare la consultazione del sito in questa lingua"
 
 #. Default: "If you want to read the content of this document, you have to switch to one of the following languages:"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:85
 msgid "description_read_translated_versions"
-msgstr ""
+msgstr "Se vuoi leggere il contenuto di questo documento devi attivare una delle seguenti lingue:"
 
 # # 1 more: ./eITCalendar/skins/eIT_calendar/event_view.pt
 #. Default: "Start Date"
