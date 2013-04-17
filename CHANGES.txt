@@ -1,6 +1,12 @@
 osha.translations Changelog
 ===========================
 
+2.0.8 (unreleased)
+------------------
+
+- Nothing changed yet.
+
+
 2.0.7 (2013-04-17)
 ------------------
 
