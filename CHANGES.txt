@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.7 (unreleased)
+2.0.7 (2013-04-17)
 ------------------
 
 - update translation for default error message template, refs #5152
