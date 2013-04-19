@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.8 (unreleased)
+2.0.8 (2013-04-19)
 ------------------
 
 - Added missing translations for some keywords #7311 [thomasw]
