@@ -1159,7 +1159,7 @@ msgstr "Επικίνδυνες ουσίες"
 
 #: osha.policy:/missing_18n_labels.py:229
 msgid "disability"
-msgstr "Άτομα με αναπηρίες"
+msgstr "άτομα με ειδικές ανάγκες"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1170,7 +1170,7 @@ msgstr "Σημείο επαφής Βοσνίας- Ερζεγοβίνης"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "άτομα με ειδικές ανάγκες"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1200,11 +1200,11 @@ msgstr "\"πράσινες\" θέσεις εργασίας"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "υγειονομική περίθαλψη"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Υγειονομική περίθαλψη"
+msgstr "υγειονομική περίθαλψη"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1234,7 +1234,7 @@ msgstr "ηγεσία της διοίκησης"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrant Workers"
+msgstr "διακινούμενοι εργαζόμενοι"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1242,7 +1242,7 @@ msgstr "Μυοσκελετικές παθήσεις"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanotechnology"
+msgstr "νανοτεχνολογία"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "research"
-msgstr "Έρευνα"
+msgstr "έρευνα"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"

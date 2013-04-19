@@ -1170,7 +1170,7 @@ msgstr "Il-Punt Fokali tal-Bożnja Ħerżegovina"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "Persuni b’diżabbilità"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1200,11 +1200,11 @@ msgstr "impjiegi ħodor"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "Il-kura tas-saħħa"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Kura tas-saħħa"
+msgstr "Il-kura tas-saħħa"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1234,7 +1234,7 @@ msgstr "tmexxija amministrattiva"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrant Workers"
+msgstr "ħaddiema migranti"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1242,7 +1242,7 @@ msgstr "Disturbi Muskulo-skeletali"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanotechnology"
+msgstr "nanoteknoloġija"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "research"
-msgstr "Riċerka"
+msgstr "riċerka"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"

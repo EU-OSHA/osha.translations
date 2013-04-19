@@ -1158,7 +1158,7 @@ msgstr "Pavojingos medžiagos"
 
 #: osha.policy:/missing_18n_labels.py:229
 msgid "disability"
-msgstr "Neįgalieji"
+msgstr "neįgalieji"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1169,7 +1169,7 @@ msgstr "Bosnijos ir Hercegovinos ryšių punktas"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "neįgalieji"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1199,11 +1199,11 @@ msgstr "su ekologija susiję darbai"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "sveikatos priežiūra"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Sveikatos apsauga"
+msgstr "sveikatos priežiūra"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1233,7 +1233,7 @@ msgstr "valdymo lyderystė"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrant Workers"
+msgstr "darbuotojai migrantai"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1241,7 +1241,7 @@ msgstr "Raumenų ir kaulų sistemos pažeidimai"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanotechnology"
+msgstr "nanotechnologija"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "research"
-msgstr "Tyrimai"
+msgstr "moksliniai tyrimai"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"

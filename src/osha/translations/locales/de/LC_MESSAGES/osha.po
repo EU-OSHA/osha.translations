@@ -1172,7 +1172,7 @@ msgstr "Der bosnisch-herzegowinische Focal Point"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "Menschen mit Behinderungen"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1202,11 +1202,11 @@ msgstr "Grüne Arbeitsplätze"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "Gesundheitsfürsorge"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Gesundheitswesen"
+msgstr "Gesundheitsfürsorge"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1236,7 +1236,7 @@ msgstr "Managementführung"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrant Workers"
+msgstr "Wanderarbeitnehmer"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1244,7 +1244,7 @@ msgstr "Muskel- und Skeletterkrankungen"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanotechnology"
+msgstr "Nanotechnologie"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"

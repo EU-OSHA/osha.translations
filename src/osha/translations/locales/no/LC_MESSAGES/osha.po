@@ -1158,7 +1158,7 @@ msgstr "Farlige stoffer"
 
 #: osha.policy:/missing_18n_labels.py:229
 msgid "disability"
-msgstr "Funksjonshemmede"
+msgstr "funksjonshemmede"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1169,7 +1169,7 @@ msgstr "Bosnisk-hercegovinsk kontaktpunkt"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "funksjonshemmede"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1199,11 +1199,11 @@ msgstr "grønne jobber"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "helse og omsorg"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Helse og omsorg"
+msgstr "helse og omsorg"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1233,7 +1233,7 @@ msgstr "ledelsens lederskap"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrerende arbeidskraft"
+msgstr "vandrearbeidere"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1241,7 +1241,7 @@ msgstr "Muskel- og skjelettplager"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanoteknologi"
+msgstr "nanoteknologi"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "research"
-msgstr "Forsking"
+msgstr "forskning"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"

@@ -1158,7 +1158,7 @@ msgstr "Substancje niebezpieczne"
 
 #: osha.policy:/missing_18n_labels.py:229
 msgid "disability"
-msgstr "Osoby niepełnosprawne"
+msgstr "osoby niepełnosprawne"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1169,7 +1169,7 @@ msgstr "Bośniacki, hercegowiński punkt centralny"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "osoby niepełnosprawne"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1199,11 +1199,11 @@ msgstr "zielone miejsca pracy"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "opieka zdrowotna"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Opieka zdrowotna"
+msgstr "opieka zdrowotna"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1233,7 +1233,7 @@ msgstr "kierownictwo w zarządzaniu"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrant Workers"
+msgstr "pracownicy migrujący"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1241,7 +1241,7 @@ msgstr "Choroby układu mięśniowo-szkieletowego"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanotechnology"
+msgstr "nanotechnologia"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "research"
-msgstr "Badania"
+msgstr "badania"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"

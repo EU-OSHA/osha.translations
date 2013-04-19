@@ -1160,7 +1160,7 @@ msgstr "Опасни вещества"
 
 #: osha.policy:/missing_18n_labels.py:229
 msgid "disability"
-msgstr "Хора с увреждания"
+msgstr "лица с увреждания"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1171,7 +1171,7 @@ msgstr "Национален координатор на Босна и Херц�
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
 msgid "disabled_people"
-msgstr ""
+msgstr "лица с увреждания"
 
 #: osha.policy:/missing_18n_labels.py:231
 msgid "economic_incentives"
@@ -1201,11 +1201,11 @@ msgstr "зелени работни места"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
 msgid "health_care"
-msgstr ""
+msgstr "здравеопазване"
 
 #: osha.policy:/missing_18n_labels.py:238
 msgid "healthcare"
-msgstr "Здравеопазване"
+msgstr "здравеопазване"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "horeca"
@@ -1235,7 +1235,7 @@ msgstr "управленско ръководство"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "migrant_workers"
-msgstr "Migrant Workers"
+msgstr "работници мигранти"
 
 #: osha.policy:/missing_18n_labels.py:245
 msgid "msd"
@@ -1243,7 +1243,7 @@ msgstr "Мускулно-скелетни смущения"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "nanotechnology"
-msgstr "Nanotechnology"
+msgstr "нанотехнология"
 
 #: osha.policy:/missing_18n_labels.py:247
 msgid "noise"
@@ -1278,7 +1278,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "research"
-msgstr "Изследвания"
+msgstr "проучване"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "risk_assessment"
