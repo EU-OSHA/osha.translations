@@ -4,7 +4,7 @@ osha.translations Changelog
 2.0.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add IS translation, forgotten in previous release [thomasw]
 
 
 2.0.8 (2013-04-19)
