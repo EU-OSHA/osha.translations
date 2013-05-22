@@ -4,8 +4,7 @@ osha.translations Changelog
 2.0.10 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Add link to PDF document in 4 languages for a certain NAPO film #7466 [pysailor]
 
 2.0.9 (2013-04-22)
 ------------------
