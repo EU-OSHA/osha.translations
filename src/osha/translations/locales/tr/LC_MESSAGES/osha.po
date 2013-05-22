@@ -1055,7 +1055,7 @@ msgstr "Napo … Tehlike: Kimyasallar"
 msgid "title_napo_film_13"
 msgstr "Napo… Cildinizi koruyun!"
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 #: osha.policy:/missing_18n_labels.py:208
 msgid "title_napo_film_14"
 msgstr "Napo Güvenli bakım"
@@ -2995,9 +2995,11 @@ msgstr ""
 "etmektedir. Bu durum nedeniyle kazalara ramak kalmaktadır, en sonunda "
 "Napo’nun hastaneye yatmasına yol açan bir spor yaralanmasıyla "
 "sonuçlanmıştır. Boş zamanlarda karşılaşılan durumlar araba, ev, yaşam tarzı, "
-"sosyal hayat ve sporla ilgili tüm durumları kapsar. Kısa bir soru listesi "
+"sosyal hayat ve sporla ilgili tüm durumları kapsar. "
+"<a href='http://www.napofilm.net/en/napos-films/napo_quiz.pdf'>"
+"Kısa bir soru listesi "
 "internet sitesinden ya da DVD’den indirilebilir ve izleyicilerle bazı "
-"kuralların üzerinden birlikte geçmek için kullanılabilir.</p><p>Napo’nun bu "
+"kuralların üzerinden birlikte geçmek için kullanılabilir</a>.</p><p>Napo’nun bu "
 "filminde öncelikli izleyici hedef kitlesi bir firmada çalışanlardır. Boş "
 "zamanlarda güvenlik konusuyla ilgili bir araç olarak tasarlanmıştır. Fakat "
 "film, işgünü kayıplarının yönetimi ile bağlantılı olarak yönetici "

@@ -1056,7 +1056,7 @@ msgstr ""
 msgid "title_napo_film_13"
 msgstr "EN NAPO PRESENTA “PROTEGEIX LA TEVA PELL”"
 
-# ---------- New Napo Film Number 14   Safe Maintenance 
+# ---------- New Napo Film Number 14   Safe Maintenance
 #: osha.policy:/missing_18n_labels.py:208
 msgid "title_napo_film_14"
 msgstr "EN NAPO A “ATENCIÓ AL MANTENIMENT”"
@@ -2936,8 +2936,9 @@ msgstr ""
 "punt de patir accidents i, finalment, acaba a l'hospital, lesionat en fer "
 "esport. En el temps d'oci hi ha diferents situacions, com la conducció d'un "
 "vehicle, les tasques de la casa o les activitats socials i esportives, que "
-"generen riscos. En el lloc web trobareu un petit qüestionari que es pot "
-"descarregar -també disponible en DVD- amb algunes normes de seguretat per al "
+"generen riscos. <a href='http://www.napofilm.net/en/napos-films/napo_quiz.pdf'>"
+"En el lloc web trobareu un petit qüestionari que es pot descarregar</a> "
+"-també disponible en DVD- amb algunes normes de seguretat per al "
 "públic en general.</p><p>La pel·lícula d’en Napo està dirigida principalment "
 "als treballadors de les empreses a fi que coneguin les normes de seguretat "
 "que poden aplicar en el seu temps lliure, encara que també és útil per a la "
