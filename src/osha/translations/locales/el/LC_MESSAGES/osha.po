@@ -1328,7 +1328,7 @@ msgstr "Τύπος και Πολυμέσα"
 
 #: osha.policy:/missing_18n_labels.py:269
 msgid "January"
-msgstr ""
+msgstr "Ιανουάριος"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1338,43 +1338,43 @@ msgstr "Σημείο επαφής Τσεχικής Δημοκρατίας"
 
 #: osha.policy:/missing_18n_labels.py:270
 msgid "February"
-msgstr ""
+msgstr "Φεβρουάριος"
 
 #: osha.policy:/missing_18n_labels.py:271
 msgid "March"
-msgstr ""
+msgstr "Μάρτιος"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "April"
-msgstr ""
+msgstr "Απρίλιος"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "May"
-msgstr ""
+msgstr "Μάιος"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "June"
-msgstr ""
+msgstr "Ιούνιος"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "July"
-msgstr ""
+msgstr "Ιούλιος"
 
 #: osha.policy:/missing_18n_labels.py:276
 msgid "August"
-msgstr ""
+msgstr "Αύγουστος"
 
 #: osha.policy:/missing_18n_labels.py:277
 msgid "September"
-msgstr ""
+msgstr "Σεπτέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:278
 msgid "October"
-msgstr ""
+msgstr "Οκτώβριος"
 
 #: osha.policy:/missing_18n_labels.py:279
 msgid "November"
-msgstr ""
+msgstr "Νοέμβριος"
 
 # Default "Danish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1384,7 +1384,7 @@ msgstr "Σημείο επαφής Δανίας"
 
 #: osha.policy:/missing_18n_labels.py:280
 msgid "December"
-msgstr ""
+msgstr "Δεκέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:283
 msgid "action_firstlogin_proceed"

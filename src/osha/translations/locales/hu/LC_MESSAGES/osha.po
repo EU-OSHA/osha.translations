@@ -1327,7 +1327,7 @@ msgstr "Sajtó és multimédia"
 
 #: osha.policy:/missing_18n_labels.py:269
 msgid "January"
-msgstr ""
+msgstr "január"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1337,43 +1337,43 @@ msgstr "Cseh fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:270
 msgid "February"
-msgstr ""
+msgstr "február"
 
 #: osha.policy:/missing_18n_labels.py:271
 msgid "March"
-msgstr ""
+msgstr "március"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "April"
-msgstr ""
+msgstr "április"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "May"
-msgstr ""
+msgstr "május"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "June"
-msgstr ""
+msgstr "június"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "July"
-msgstr ""
+msgstr "július"
 
 #: osha.policy:/missing_18n_labels.py:276
 msgid "August"
-msgstr ""
+msgstr "augusztus"
 
 #: osha.policy:/missing_18n_labels.py:277
 msgid "September"
-msgstr ""
+msgstr "szeptember"
 
 #: osha.policy:/missing_18n_labels.py:278
 msgid "October"
-msgstr ""
+msgstr "október"
 
 #: osha.policy:/missing_18n_labels.py:279
 msgid "November"
-msgstr ""
+msgstr "november"
 
 # Default "Danish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1383,7 +1383,7 @@ msgstr "Dán fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:280
 msgid "December"
-msgstr ""
+msgstr "december"
 
 #: osha.policy:/missing_18n_labels.py:283
 msgid "action_firstlogin_proceed"

@@ -1328,7 +1328,7 @@ msgstr "Stampa u Multimidja"
 
 #: osha.policy:/missing_18n_labels.py:269
 msgid "January"
-msgstr ""
+msgstr "Jannar"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1338,43 +1338,43 @@ msgstr "Il-Punt Fokali Ċek"
 
 #: osha.policy:/missing_18n_labels.py:270
 msgid "February"
-msgstr ""
+msgstr "frar"
 
 #: osha.policy:/missing_18n_labels.py:271
 msgid "March"
-msgstr ""
+msgstr "Marzu"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "April"
-msgstr ""
+msgstr "april"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "May"
-msgstr ""
+msgstr "Mejju"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "June"
-msgstr ""
+msgstr "Ġunju"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "July"
-msgstr ""
+msgstr "Lulju"
 
 #: osha.policy:/missing_18n_labels.py:276
 msgid "August"
-msgstr ""
+msgstr "awissu"
 
 #: osha.policy:/missing_18n_labels.py:277
 msgid "September"
-msgstr ""
+msgstr "Settembru"
 
 #: osha.policy:/missing_18n_labels.py:278
 msgid "October"
-msgstr ""
+msgstr "Ottubru"
 
 #: osha.policy:/missing_18n_labels.py:279
 msgid "November"
-msgstr ""
+msgstr "Novembru"
 
 # Default "Danish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1384,7 +1384,7 @@ msgstr "Il-Punt Fokali Daniż"
 
 #: osha.policy:/missing_18n_labels.py:280
 msgid "December"
-msgstr ""
+msgstr "diċembru"
 
 #: osha.policy:/missing_18n_labels.py:283
 msgid "action_firstlogin_proceed"
