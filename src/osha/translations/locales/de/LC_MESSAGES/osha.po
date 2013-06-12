@@ -657,7 +657,7 @@ msgstr "Gebotszeichen: Einleitung"
 
 #: osha.policy:/missing_18n_labels.py:13
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Datenschutz"
 
 #. Default: "Safety goggles must be worn"
 #: osha.policy:/missing_18n_labels.py:130
@@ -711,7 +711,7 @@ msgstr "Gefahrstoffe in Getränkeflaschen"
 
 #: osha.policy:/missing_18n_labels.py:14
 msgid "Send this"
-msgstr ""
+msgstr "Diese Seite versenden"
 
 #. Default: "Too much pressure is likely to be harmful"
 #: osha.policy:/missing_18n_labels.py:140
