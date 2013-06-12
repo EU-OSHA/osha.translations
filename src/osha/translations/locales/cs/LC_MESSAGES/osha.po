@@ -657,7 +657,7 @@ msgstr "Příkazové značky"
 
 #: osha.policy:/missing_18n_labels.py:13
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Ochrana osobních údajů"
 
 #. Default: "Safety goggles must be worn"
 #: osha.policy:/missing_18n_labels.py:130
@@ -711,7 +711,7 @@ msgstr "Každý výrobek v originálním balení"
 
 #: osha.policy:/missing_18n_labels.py:14
 msgid "Send this"
-msgstr ""
+msgstr "Zašlete toto"
 
 #. Default: "Too much pressure is likely to be harmful"
 #: osha.policy:/missing_18n_labels.py:140
@@ -4001,7 +4001,7 @@ msgstr ""
 #. Default: "EU-OSHA Current job vacancies"
 #: osha.theme:/browser/rssfeeds.py:102
 msgid "eu_osha_current_jobs"
-msgstr ""
+msgstr "EU-OSHA Volná místa"
 
 #. Default: "EU-OSHA in the media"
 #: osha.theme:/browser/rssfeeds.py:91
