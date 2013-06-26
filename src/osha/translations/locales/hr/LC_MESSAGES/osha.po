@@ -402,13 +402,13 @@ msgstr ""
 #. Default: "More news"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:24
 msgid "label_more_news"
-msgstr "More news"
+msgstr "Više novosti"
 
 #. Default: "More events"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
 #: osha.theme:/portlets/oshevents.pt:63 osha.theme:/portlets/events.pt:63
 msgid "label_more_events"
-msgstr "More events"
+msgstr "Više događaja"
 
 #. Default: "Healthy Workplaces"
 #: osha.hw:/skins/hw2012/hw2012_resources_promotionalmaterials_html.pt:118
@@ -497,11 +497,11 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:13
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Polica privatnosti"
 
 #: osha.policy:/missing_18n_labels.py:14
 msgid "Send this"
-msgstr ""
+msgstr "Pošaljite to"
 
 #: osha.policy:/missing_18n_labels.py:15
 msgid "Copyright"
@@ -1066,7 +1066,7 @@ msgstr "SZR Link"
 
 #: osha.theme:/alertservice.py:35 osha.theme:/portlets/oshnews.py:96
 msgid "News"
-msgstr ""
+msgstr "Novosti"
 
 #: osha.theme:/alertservice.py:36
 msgid "Event"
@@ -1128,7 +1128,7 @@ msgstr ""
 #. Default: "Contact:"
 #: osha.theme:/browser/collageviews/oshlink_full.pt:87
 msgid "label_contact"
-msgstr ""
+msgstr "Kontakt"
 
 #: osha.theme:/browser/interfaces.py:77
 msgid "RSS Feed"
@@ -1511,7 +1511,7 @@ msgstr ""
 #. Default: "Select your language"
 #: osha.theme:/browser/templates/languageselector.pt:9
 msgid "label_select_language"
-msgstr ""
+msgstr "Odaberite svoj jezik"
 
 #. Default: "Manage Top OSHA Portlets"
 #: osha.theme:/browser/templates/manage_osha_above.pt:16
@@ -1582,7 +1582,7 @@ msgstr "Europska agencija za sigurnost i zdravlje na radu"
 #. Default: "Making Europe a safer, healthier and more productive place to work"
 #: osha.theme:/browser/templates/osha_homepage.pt:23
 msgid "label_making_europe_safer"
-msgstr ""
+msgstr "Učiniti Europu sigurnijim, zdravijim i produktivnijim tržištem rada"
 
 #. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
 #: osha.theme:/browser/templates/osha_homepage.pt:24
@@ -1592,12 +1592,12 @@ msgstr ""
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:31
 msgid "label_highlights"
-msgstr ""
+msgstr "Osvrti"
 
 #. Default: "Previous highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:49
 msgid "label_previous_highlights"
-msgstr ""
+msgstr "Prethodni osvrti"
 
 #. Default: "Click here for the RSS Feed"
 #: osha.theme:/browser/templates/osha_in_media.pt:26
@@ -2157,7 +2157,7 @@ msgstr ""
 #. Default: "Navigation"
 #: osha.theme:/portlets/navigation.pt:7
 msgid "osha_nav_title_navigation"
-msgstr ""
+msgstr "Navigacija"
 
 #: osha.theme:/portlets/osha_items.py:200
 msgid "Adding the OSHA Items Portlet"
@@ -2538,22 +2538,22 @@ msgstr ""
 #. Default: "Get our monthly update on safety and health at work."
 #: osha.theme:/portlets/subscribe_mailinglists.pt:13
 msgid "subscribe_portlet_intro"
-msgstr ""
+msgstr "Pretplatite se na naše mjesečno ažuriranje o sigurnosti i zdravlju na radnom mjestu."
 
 #: osha.theme:/portlets/subscribe_mailinglists.pt:15
 #: osha.theme:/browser/templates/oshmail_view.pt:43
 msgid "Subscribe"
-msgstr ""
+msgstr "Pretplatite se"
 
 #. Default: "our Alert Service"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:17
 msgid "label_our_alert_service"
-msgstr ""
+msgstr "našu službu za upozorenja"
 
 #. Default: "You could use ${label_our_alert_service} too!"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:17
 msgid "subscribe_portlet_alertservice_intro"
-msgstr ""
+msgstr "Možete koristiti ${label_our_alert_service} također!"
 
 #: osha.theme:/portlets/subscribe_mailinglists.py:26
 #: osha.theme:/portlets/subscribe_mailinglists.py:64
