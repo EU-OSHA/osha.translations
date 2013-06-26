@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.10 (unreleased)
+2.0.10 (2013-06-26)
 -------------------
 
 - Add link to PDF document for a certain NAPO film #7466 [pysailor]
