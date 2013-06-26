@@ -7,6 +7,7 @@ osha.translations Changelog
 - Add link to PDF document for a certain NAPO film #7466 [pysailor]
 - Footer translations in CZ #7760 [pysailor]
 - Added month names in several languages #6507 [pysailor]
+- Some Croatian translations #7875 [pysailor]
 
 2.0.9 (2013-04-22)
 ------------------
