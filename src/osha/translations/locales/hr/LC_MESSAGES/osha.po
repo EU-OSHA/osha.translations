@@ -1660,12 +1660,6 @@ msgstr "Europska agencija za sigurnost i zdravlje na radu"
 msgid "label_making_europe_safer"
 msgstr "Europa kao sigurnije, zdravije i produktivnije mjesto za rad"
 
-#. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p
-#. id=\"intro_more\">x&hellip;</p>"
-#: osha.theme:/browser/templates/osha_homepage.pt:24
-msgid "portlet_more_link"
-msgstr "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
-
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:31
 msgid "label_highlights"
