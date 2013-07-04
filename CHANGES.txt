@@ -5,7 +5,8 @@ osha.translations Changelog
 -------------------
 
 - Copied in HR translations #7840 [pysailor]
-
+- #7755 Copied translations for OSHMail and custom page not found
+  [deroiste]
 
 2.0.10 (2013-06-26)
 -------------------

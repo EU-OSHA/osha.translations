@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Wed Jun 12 12:28:22 2013\n"
+"POT-Creation-Date: Thu Jul  4 15:09:16 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -55,8 +55,8 @@ msgstr ""
 
 #: osha.adaptation:/schema.py:392
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:146
-#: osha.theme:/portlets/oshevents.pt:41
 #: osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/oshevents.pt:41
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 #. Default: "Date to be confirmed"
 msgid "label_date_to_be_confirmed"
@@ -211,57 +211,57 @@ msgstr ""
 msgid "Specify the destination folder where the events will be created / updated"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:102
+#: osha.fop:/browser/oshnetwork_member_view.pt:101
 #: osha.theme:/portlets/practical_solutions.pt:55
 #. Default: "Case Studies"
 msgid "label_case_studies"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:110
+#: osha.fop:/browser/oshnetwork_member_view.pt:109
 #: osha.theme:/portlets/practical_solutions.pt:45
 #. Default: "Useful Links"
 msgid "label_useful_links"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:116
+#: osha.fop:/browser/oshnetwork_member_view.pt:115
 #: osha.theme:/portlets/practical_solutions.pt:60
 #. Default: "Providers"
 msgid "label_providers"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:25
+#: osha.fop:/browser/oshnetwork_member_view.pt:24
 #. Default: "Edit this page"
 msgid "label_edit_this_page"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:27
+#: osha.fop:/browser/oshnetwork_member_view.pt:26
 #. Default: "Manage News"
 msgid "label_manage_news"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:29
+#: osha.fop:/browser/oshnetwork_member_view.pt:28
 #. Default: "Manage Events"
 msgid "label_manage_events"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:72
-#: osha.fop:/browser/oshnetwork_member_view.pt:77
+#: osha.fop:/browser/oshnetwork_member_view.pt:71
+#: osha.fop:/browser/oshnetwork_member_view.pt:76
 #. Default: "Agency's resources"
 msgid "heading_agencys_resources"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:84
+#: osha.fop:/browser/oshnetwork_member_view.pt:83
 #. Default: "Publications"
 msgid "label_publications"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:90
+#: osha.fop:/browser/oshnetwork_member_view.pt:89
 #: osha.policy:/missing_18n_labels.py:255
 #. Default: "Risk Observatory"
 msgid "risk_observatory"
 msgstr ""
 
-#: osha.fop:/browser/oshnetwork_member_view.pt:96
+#: osha.fop:/browser/oshnetwork_member_view.pt:95
 #: osha.theme:/portlets/practical_solutions.pt:50
 #. Default: "Risk Assessment Tools"
 msgid "label_risk_assessment_tools"
@@ -345,39 +345,39 @@ msgstr ""
 #: osha.hw:/browser/templates/footer_actions.pt:15
 #: osha.hw:/browser/templates/footer_actions.pt:15
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:106
-#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:95
+#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:24
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:50
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:78
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:133
-#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/widgets-p4-migration-4708/keyword.pt:65
-#: osha.theme:/portlets/moreabout.pt:8
 #: osha.theme:/portlets/rollingquotes.pt:5
+#: osha.theme:/portlets/moreabout.pt:8
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
+#: osha.theme:/browser/templates/napofilmview.pt:33
+#: osha.theme:/browser/templates/napofilmview.pt:38
+#: osha.theme:/browser/templates/footer_actions.pt:15
+#: osha.theme:/browser/templates/footer_actions.pt:15
+#: osha.theme:/browser/templates/footer_actions.pt:34
+#: osha.theme:/browser/templates/footer_actions.pt:34
+#: osha.theme:/browser/templates/footer_actions.pt:58
+#: osha.theme:/browser/templates/footer_actions.pt:58
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:33
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:44
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:45
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:66
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:77
-#: osha.theme:/browser/templates/network_chooser.pt:10
-#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/templates/search_ro.pt:40
 #: osha.theme:/browser/templates/search_ro.pt:40
 #: osha.theme:/browser/templates/resource_listing.pt:16
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
-#: osha.theme:/browser/templates/footer_actions.pt:15
-#: osha.theme:/browser/templates/footer_actions.pt:15
-#: osha.theme:/browser/templates/footer_actions.pt:34
-#: osha.theme:/browser/templates/footer_actions.pt:34
-#: osha.theme:/browser/templates/footer_actions.pt:58
-#: osha.theme:/browser/templates/footer_actions.pt:58
-#: osha.theme:/browser/templates/napofilmview.pt:33
-#: osha.theme:/browser/templates/napofilmview.pt:38
 #: osha.theme:/browser/templates/rssfeeds.pt:85
+#: osha.theme:/browser/templates/network_chooser.pt:10
+#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/collageviews/document_right_column.pt:5
 #: osha.theme:/browser/collageviews/document_oshmail.pt:4
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:80
@@ -406,8 +406,8 @@ msgid "label_more_news"
 msgstr ""
 
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
-#: osha.theme:/portlets/oshevents.pt:63
 #: osha.theme:/portlets/events.pt:63
+#: osha.theme:/portlets/oshevents.pt:63
 #. Default: "More events"
 msgid "label_more_events"
 msgstr ""
@@ -3023,27 +3023,6 @@ msgstr ""
 msgid "feature_back_to_mainpage"
 msgstr ""
 
-#: osha.policy:/skins/osha_content/index_topic.pt:21
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
-#: osha.theme:/browser/templates/index_provider.pt:140
-#: osha.theme:/browser/templates/dbfilter.pt:185
-#: osha.theme:/browser/templates/rofilter.pt:111
-#: osha.theme:/browser/templates/index_oshlink.pt:139
-#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
-#: osha.theme:/browser/templates/index_ralink.pt:140
-#: osha.theme:/browser/templates/worklist.pt:160
-#: osha.theme:/browser/templates/index_casestudy.pt:140
-#: osha.theme:/browser/templates/practical_solutions.pt:78
-#: osha.theme:/browser/templates/search_ro.pt:24
-#: osha.theme:/browser/templates/publicationsearch.pt:111
-#: osha.theme:/browser/templates/atoz.pt:147
-#: osha.theme:/browser/templates/practical_solution.pt:205
-#: osha.theme:/browser/templates/index_directive.pt:178
-#. Default: "No results were found."
-msgid "description_no_results_found"
-msgstr ""
-
 #: osha.policy:/skins/osha_content/sep_view.pt:45
 #. Default: "Search the Link Database on"
 msgid "label_search_link_database"
@@ -3134,16 +3113,6 @@ msgstr ""
 msgid "label_any_language"
 msgstr ""
 
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
-#: osha.theme:/browser/templates/dbfilter.pt:178
-#: osha.theme:/browser/templates/publicationsearch.pt:98
-#: osha.theme:/browser/templates/atoz.pt:139
-#: osha.theme:/browser/templates/practical_solution.pt:197
-#. Default: "${number} items match your criteria."
-msgid "batch_x_items_matching_your_criteria"
-msgstr ""
-
 #: osha.policy:/skins/osha_templates/casestudy_db_view.pt:70
 #. Default: "Search Text"
 msgid "label_search_text"
@@ -3155,18 +3124,49 @@ msgid "help_search_text"
 msgstr ""
 
 #: osha.policy:/skins/osha_templates/worklist_filter.pt:158
-#: osha.theme:/browser/templates/index_provider.pt:128
 #: osha.theme:/browser/templates/dbfilter.pt:172
 #: osha.theme:/browser/templates/rofilter.pt:99
 #: osha.theme:/browser/templates/index_oshlink.pt:128
-#: osha.theme:/browser/templates/index_ralink.pt:128
-#: osha.theme:/browser/templates/worklist.pt:148
 #: osha.theme:/browser/templates/index_casestudy.pt:128
-#: osha.theme:/browser/templates/atoz.pt:129
+#: osha.theme:/browser/templates/index_ralink.pt:128
 #: osha.theme:/browser/templates/practical_solution.pt:190
+#: osha.theme:/browser/templates/index_provider.pt:128
+#: osha.theme:/browser/templates/worklist.pt:148
+#: osha.theme:/browser/templates/atoz.pt:129
 #: osha.theme:/browser/templates/index_directive.pt:166
 #. Default: "Search results"
 msgid "heading_search_results"
+msgstr ""
+
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
+#: osha.theme:/browser/templates/dbfilter.pt:178
+#: osha.theme:/browser/templates/practical_solution.pt:197
+#: osha.theme:/browser/templates/publicationsearch.pt:98
+#: osha.theme:/browser/templates/atoz.pt:139
+#. Default: "${number} items match your criteria."
+msgid "batch_x_items_matching_your_criteria"
+msgstr ""
+
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
+#: osha.policy:/skins/osha_content/index_topic.pt:21
+#: osha.theme:/browser/templates/dbfilter.pt:185
+#: osha.theme:/browser/templates/rofilter.pt:111
+#: osha.theme:/browser/templates/index_oshlink.pt:139
+#: osha.theme:/browser/templates/search_ro.pt:24
+#: osha.theme:/browser/templates/index_casestudy.pt:140
+#: osha.theme:/browser/templates/index_ralink.pt:140
+#: osha.theme:/browser/templates/practical_solution.pt:205
+#: osha.theme:/browser/templates/publicationsearch.pt:111
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
+#: osha.theme:/browser/templates/index_provider.pt:140
+#: osha.theme:/browser/templates/worklist.pt:160
+#: osha.theme:/browser/templates/atoz.pt:147
+#: osha.theme:/browser/templates/practical_solutions.pt:78
+#: osha.theme:/browser/templates/index_directive.pt:178
+#. Default: "No results were found."
+msgid "description_no_results_found"
 msgstr ""
 
 #: osha.searchurls:/browser/search_urls.py:123
@@ -3518,7 +3518,7 @@ msgstr ""
 msgid "You are still subscribed to the mailing list."
 msgstr ""
 
-#: osha.theme:/browser/oshnews_view.py:36
+#: osha.theme:/browser/oshnews_view.py:37
 msgid "heading_newsboard_latest_news"
 msgstr ""
 
@@ -3527,7 +3527,7 @@ msgstr ""
 msgid "header_oshtopic_dynamic"
 msgstr ""
 
-#: osha.theme:/browser/pressroom.py:208
+#: osha.theme:/browser/pressroom.py:209
 msgid "Configure this Press Room"
 msgstr ""
 
@@ -3551,12 +3551,6 @@ msgstr ""
 msgid "eu_osha_blog"
 msgstr ""
 
-#: osha.theme:/browser/templates/atoz.pt:118
-#: osha.theme:/browser/templates/index_alphabetical.pt:80
-#. Default: "Click a term to display the results."
-msgid "info_no_results"
-msgstr ""
-
 #: osha.theme:/browser/templates/calendar_events_list.pt:37
 #. Default: "x ${start_day_name}"
 msgid "start_date"
@@ -3567,7 +3561,7 @@ msgstr ""
 msgid "label_more_competitions"
 msgstr ""
 
-#: osha.theme:/browser/templates/competitions_view.pt:111
+#: osha.theme:/browser/templates/competitions_view.pt:112
 #. Default: "Closed competitions"
 msgid "label_closed_competitions"
 msgstr ""
@@ -3577,12 +3571,12 @@ msgstr ""
 msgid "label_ongoing_competitions"
 msgstr ""
 
-#: osha.theme:/browser/templates/competitions_view.pt:80
+#: osha.theme:/browser/templates/competitions_view.pt:81
 #. Default: "Upcoming competitions"
 msgid "label_upcoming_competitions"
 msgstr ""
 
-#: osha.theme:/browser/templates/competitions_view.pt:94
+#: osha.theme:/browser/templates/competitions_view.pt:95
 #. Default: "Learn more"
 msgid "label_learn_more"
 msgstr ""
@@ -3602,6 +3596,26 @@ msgstr ""
 #: osha.theme:/browser/templates/rofilter.pt:24
 #. Default: "Search the Link Database"
 msgid "label_search_database"
+msgstr ""
+
+#: osha.theme:/browser/templates/dbfilter.pt:55
+#: osha.theme:/browser/templates/index_oshlink.pt:48
+#: osha.theme:/browser/templates/index_casestudy.pt:48
+#: osha.theme:/browser/templates/index_ralink.pt:48
+#: osha.theme:/browser/templates/index_provider.pt:48
+#: osha.theme:/browser/templates/index_directive.pt:54
+#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+msgid "help_database_filter_topic"
+msgstr ""
+
+#: osha.theme:/browser/templates/dbfilter.pt:60
+#: osha.theme:/browser/templates/index_oshlink.pt:53
+#: osha.theme:/browser/templates/index_casestudy.pt:53
+#: osha.theme:/browser/templates/index_ralink.pt:53
+#: osha.theme:/browser/templates/index_provider.pt:53
+#: osha.theme:/browser/templates/index_directive.pt:59
+#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+msgid "help_database_filter"
 msgstr ""
 
 #: osha.theme:/browser/templates/dbfilter.pt:88
@@ -3642,6 +3656,12 @@ msgstr ""
 #: osha.theme:/browser/templates/index_alphabetical.pt:36
 #. Default: "Alphabetical Index of the Multilingual Thesaurus"
 msgid "alphabetical_index"
+msgstr ""
+
+#: osha.theme:/browser/templates/index_alphabetical.pt:80
+#: osha.theme:/browser/templates/atoz.pt:118
+#. Default: "Click a term to display the results."
+msgid "info_no_results"
 msgstr ""
 
 #: osha.theme:/browser/templates/index_alphabetical.pt:98
@@ -3687,26 +3707,6 @@ msgstr ""
 #: osha.theme:/browser/templates/index_provider.pt:42
 #. Default: "Search for Providers"
 msgid "label_search_database_providers"
-msgstr ""
-
-#: osha.theme:/browser/templates/index_provider.pt:48
-#: osha.theme:/browser/templates/dbfilter.pt:55
-#: osha.theme:/browser/templates/index_oshlink.pt:48
-#: osha.theme:/browser/templates/index_ralink.pt:48
-#: osha.theme:/browser/templates/index_casestudy.pt:48
-#: osha.theme:/browser/templates/index_directive.pt:54
-#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-msgid "help_database_filter_topic"
-msgstr ""
-
-#: osha.theme:/browser/templates/index_provider.pt:53
-#: osha.theme:/browser/templates/dbfilter.pt:60
-#: osha.theme:/browser/templates/index_oshlink.pt:53
-#: osha.theme:/browser/templates/index_ralink.pt:53
-#: osha.theme:/browser/templates/index_casestudy.pt:53
-#: osha.theme:/browser/templates/index_directive.pt:59
-#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-msgid "help_database_filter"
 msgstr ""
 
 #: osha.theme:/browser/templates/index_ralink.pt:38
@@ -3794,27 +3794,27 @@ msgstr ""
 msgid "text_no_faq_results"
 msgstr ""
 
-#: osha.theme:/browser/templates/osha_homepage.pt:22
+#: osha.theme:/browser/templates/osha_homepage.pt:19
 #. Default: "European Agency for Safety and Health at Work"
 msgid "box_agency_fullname"
 msgstr ""
 
-#: osha.theme:/browser/templates/osha_homepage.pt:23
+#: osha.theme:/browser/templates/osha_homepage.pt:20
 #. Default: "Making Europe a safer, healthier and more productive place to work"
 msgid "label_making_europe_safer"
 msgstr ""
 
-#: osha.theme:/browser/templates/osha_homepage.pt:24
+#: osha.theme:/browser/templates/osha_homepage.pt:21
 #. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
 msgid "portlet_more_link"
 msgstr ""
 
-#: osha.theme:/browser/templates/osha_homepage.pt:31
+#: osha.theme:/browser/templates/osha_homepage.pt:28
 #. Default: "Highlights"
 msgid "label_highlights"
 msgstr ""
 
-#: osha.theme:/browser/templates/osha_homepage.pt:49
+#: osha.theme:/browser/templates/osha_homepage.pt:46
 #. Default: "Previous highlights"
 msgid "label_previous_highlights"
 msgstr ""
@@ -3842,10 +3842,6 @@ msgstr ""
 #: osha.theme:/browser/templates/oshmail_view.pt:124
 #. Default: "Load ${link}."
 msgid "label_load_older"
-msgstr ""
-
-#: osha.theme:/browser/templates/oshmail_view.pt:148
-msgid "Your e-mail"
 msgstr ""
 
 #: osha.theme:/browser/templates/oshmail_view.pt:160
@@ -3893,10 +3889,15 @@ msgstr ""
 msgid "label_previous_issues"
 msgstr ""
 
-#: osha.theme:/browser/templates/oshnews_view.pt:113
 #: osha.theme:/browser/templates/oshnews_view_simple.pt:115
+#: osha.theme:/browser/templates/oshnews_view.pt:113
 #. Default: "Show previous news"
 msgid "link_newsboard_previousnews"
+msgstr ""
+
+#: osha.theme:/browser/templates/practical_solution.pt:171
+#: osha.theme:/browser/templates/publicationsearch.pt:81
+msgid "Reset"
 msgstr ""
 
 #: osha.theme:/browser/templates/practical_solution.pt:80
@@ -3957,11 +3958,6 @@ msgstr ""
 #: osha.theme:/browser/templates/publicationsearch.pt:100
 #. Default: "Check for more results in EN"
 msgid "label_more_results_in_en"
-msgstr ""
-
-#: osha.theme:/browser/templates/publicationsearch.pt:81
-#: osha.theme:/browser/templates/practical_solution.pt:171
-msgid "Reset"
 msgstr ""
 
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:29
@@ -4103,6 +4099,12 @@ msgstr ""
 msgid "portlet_alertservice_text"
 msgstr ""
 
+#: osha.theme:/portlets/alertservice.pt:26
+#: osha.theme:/portlets/oshmail.pt:24
+#. Default: "subscribers"
+msgid "box_oshmail_subscribers"
+msgstr ""
+
 #: osha.theme:/portlets/alertservice.py:27
 #: osha.theme:/portlets/alertservice.pt:7
 msgid "Alert Service"
@@ -4187,6 +4189,13 @@ msgstr ""
 
 #: osha.theme:/portlets/document_fallback.py:46
 msgid "Tick this box if you want to render the text above without the standard header, border or footer."
+msgstr ""
+
+#: osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/oshevents.pt:41
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+#. Default: "TBC"
+msgid "abbr_date_to_be_confirmed"
 msgstr ""
 
 #: osha.theme:/portlets/ew2007.pt:7
@@ -4504,24 +4513,9 @@ msgstr ""
 msgid "Enter a relative path to a page that gives general RSS information. This is optional."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.pt:41
-#: osha.theme:/portlets/events.pt:41
-#: osha.theme:/browser/templates/calendar_events_list.pt:41
-#. Default: "TBC"
-msgid "abbr_date_to_be_confirmed"
-msgstr ""
-
 #: osha.theme:/portlets/oshevents.pt:6
 #. Default: "Upcoming Events"
 msgid "box_events"
-msgstr ""
-
-#: osha.theme:/portlets/oshevents.pt:75
-#: osha.theme:/portlets/collection.pt:52
-#: osha.theme:/portlets/oshnews.pt:48
-#: osha.theme:/browser/templates/rssfeeds.pt:19
-#. Default: "What is RSS?"
-msgid "info_whatis_rss"
 msgstr ""
 
 #: osha.theme:/portlets/oshevents.py:276
@@ -4582,37 +4576,35 @@ msgstr ""
 msgid "portlet_oshmail_text"
 msgstr ""
 
-#: osha.theme:/portlets/oshmail.pt:24
-#: osha.theme:/portlets/alertservice.pt:26
-#. Default: "subscribers"
-msgid "box_oshmail_subscribers"
-msgstr ""
-
 #: osha.theme:/portlets/oshmail.py:28
-#: osha.theme:/portlets/oshmail.pt:6
 #: osha.theme:/portlets/subscribe_mailinglists.pt:6
+#: osha.theme:/portlets/oshmail.pt:6
 msgid "Free Newsletter"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:239
+#: osha.theme:/portlets/oshnews.pt:48
+#: osha.theme:/portlets/oshevents.pt:75
+#: osha.theme:/portlets/collection.pt:52
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+#. Default: "What is RSS?"
+msgid "info_whatis_rss"
+msgstr ""
+
+#: osha.theme:/portlets/oshnews.py:247
 msgid "Add News Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:240
-#: osha.theme:/portlets/oshnews.py:269
+#: osha.theme:/portlets/oshnews.py:248
+#: osha.theme:/portlets/oshnews.py:277
 msgid "This portlet displays recent News Items."
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:268
+#: osha.theme:/portlets/oshnews.py:276
 msgid "Edit News Portlet"
 msgstr ""
 
 #: osha.theme:/portlets/oshnews.py:48
 msgid "Newsfolder path"
-msgstr ""
-
-#: osha.theme:/portlets/oshnews.py:49
-msgid "Enter a folder where the 'more news' link will point to. This is optional. If you add a %s, it will be replaced by the current language."
 msgstr ""
 
 #: osha.theme:/portlets/oshnews.py:58
@@ -4697,10 +4689,10 @@ msgid "Enables the LiveSearch feature, which shows live results if the browser s
 msgstr ""
 
 #: osha.theme:/portlets/search.py:36
+#: osha.theme:/browser/templates/osha_help_center_view.pt:47
+#: osha.theme:/browser/templates/publicationsearch.pt:80
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
 #: osha.theme:/browser/templates/site_actions.pt:9
-#: osha.theme:/browser/templates/publicationsearch.pt:80
-#: osha.theme:/browser/templates/osha_help_center_view.pt:47
 msgid "Search"
 msgstr ""
 
@@ -4817,9 +4809,9 @@ msgid "alertservice_cancel_request"
 msgstr ""
 
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:121
-#: osha.theme:/browser/templates/competitions_view.pt:61
-#: osha.theme:/browser/templates/osha_homepage.pt:24
-#: osha.theme:/browser/templates/osha_homepage.pt:44
+#: osha.theme:/browser/templates/osha_homepage.pt:21
+#: osha.theme:/browser/templates/osha_homepage.pt:41
+#: osha.theme:/browser/templates/competitions_view.pt:62
 #. Default: "More"
 msgid "alert_label_more"
 msgstr ""
@@ -4936,6 +4928,11 @@ msgstr ""
 msgid "Please select one"
 msgstr ""
 
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:135
+#. Default: "site administration"
+msgid "label_site_admin"
+msgstr ""
+
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:34
 #. Default: "We're sorry, but that page doesn't exist&hellip;"
 msgid "heading_site_there_seems_to_be_an_error"
@@ -4951,22 +4948,22 @@ msgstr ""
 msgid "description_site_error_mail_site_admin"
 msgstr ""
 
-#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:68
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:69
 #. Default: "Translation Unavailable"
 msgid "header_translation_unavailable"
 msgstr ""
 
-#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:78
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:79
 #. Default: "This content does not exist in your current language, ${language}, ${keep_browsing}."
 msgid "description_translation_unavailable"
 msgstr ""
 
-#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:79
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:80
 #. Default: "but you can keep browsing the site in this language"
 msgid "label_keep_browsing"
 msgstr ""
 
-#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:90
+#: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:91
 #. Default: "If you want to read the content of this document, you have to switch to one of the following languages:"
 msgid "description_read_translated_versions"
 msgstr ""
@@ -5038,6 +5035,7 @@ msgstr ""
 
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:129
 #: osha.theme:/browser/templates/oshmail_view.pt:40
+#: osha.theme:/browser/templates/oshmail_view.pt:148
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:203
 #: osha.whoswho:/content/whoswho.py:32
 #: osha.whoswho:/browser/templates/whoswho_view.pt:59
