@@ -421,7 +421,7 @@ msgstr "Više novosti"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
 #: osha.theme:/portlets/oshevents.pt:63 osha.theme:/portlets/events.pt:63
 msgid "label_more_events"
-msgstr "Više događaja"
+msgstr "Više događaja…"
 
 #. Default: "Healthy Workplaces"
 #: osha.hw:/skins/hw2012/hw2012_resources_promotionalmaterials_html.pt:118
