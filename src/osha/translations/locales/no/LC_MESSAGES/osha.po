@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
 "POT-Creation-Date: Thu Jul  4 15:09:16 2013\n"
-"PO-Revision-Date: 2013-07-04 18:58+0200\n"
+"PO-Revision-Date: 2013-07-05 16:24+0200\n"
 "Last-Translator: EU\n"
 "Language-Team: EU\n"
 "Language: \n"
@@ -4768,7 +4768,7 @@ msgstr ""
 #. Default: "Navigation"
 #: osha.theme:/portlets/navigation.pt:7
 msgid "osha_nav_title_navigation"
-msgstr ""
+msgstr "Navigering"
 
 #: osha.theme:/portlets/osha_items.py:200
 msgid "Adding the OSHA Items Portlet"
