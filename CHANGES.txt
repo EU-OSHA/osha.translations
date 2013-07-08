@@ -4,7 +4,8 @@ osha.translations Changelog
 2.0.12 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- #7210 Added plone.po files for et, is, mt and ro to translate "More
+   news" and "Previous events" [deroiste]
 
 
 2.0.11 (2013-07-08)

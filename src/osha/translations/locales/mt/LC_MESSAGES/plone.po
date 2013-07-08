@@ -1,0 +1,29 @@
+# Gettext Message File for osha
+# European Agency for Safety and Health at Work <webmaster@osha.europa.eu>, 2004-2008
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone \n"
+"POT-Creation-Date: Thu Jul  4 15:09:16 2013\n"
+"PO-Revision-Date: 2013-07-08 12:28+0200\n"
+"Last-Translator: European Agency for Safety and Health at Work "
+"<translations@osha.europa.eu>\n"
+"Language-Team: EU\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: mt\n"
+"Domain: plone\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Preferred-Encodings: UTF-8\n"
+"Language-Name: Malthese\n"
+
+#. Default: "More news…"
+#: plone.app.portlets/plone/app/portlets/portlets/news.pt:45
+msgid "box_more_news_link"
+msgstr "Iżjed aħbarijiet…"
+
+#. Default: "Previous events…"
+#: plone.app.portlets/plone/app/portlets/portlets/events.pt:73
+msgid "box_previous_events"
+msgstr "Avvenimenti preċedenti…"
