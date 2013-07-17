@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Thu Jul  4 15:09:16 2013\n"
+"POT-Creation-Date: Wed Jul 17 18:44:47 2013\n"
 "PO-Revision-Date: 2013-07-04 18:25+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -51,7 +51,7 @@ msgstr ""
 #. Default: "Date to be confirmed"
 #: osha.adaptation:/schema.py:392
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:146
-#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:41
+#: osha.theme:/portlets/oshevents.pt:41 osha.theme:/portlets/events.pt:41
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 msgid "label_date_to_be_confirmed"
 msgstr "Megerősítendő dátum"
@@ -266,7 +266,7 @@ msgstr "Publikációk"
 
 #. Default: "Risk Observatory"
 #: osha.fop:/browser/oshnetwork_member_view.pt:89
-#: osha.policy:/missing_18n_labels.py:255
+#: osha.policy:/missing_18n_labels.py:265
 msgid "risk_observatory"
 msgstr "Kockázatkutató központ"
 
@@ -356,34 +356,34 @@ msgstr ""
 #: osha.hw:/skins/hw2012/hw2012_events.pt:45
 #: osha.hw:/browser/templates/footer_actions.pt:15
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:106
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:95
-#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:24
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:50
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:78
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:133
-#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
+#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
 #: osha.theme:/skins/osha_theme_custom_templates/widgets-p4-migration-4708/keyword.pt:65
-#: osha.theme:/portlets/rollingquotes.pt:5 osha.theme:/portlets/moreabout.pt:8
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
-#: osha.theme:/browser/templates/napofilmview.pt:33
-#: osha.theme:/browser/templates/napofilmview.pt:38
-#: osha.theme:/browser/templates/footer_actions.pt:15
-#: osha.theme:/browser/templates/footer_actions.pt:34
-#: osha.theme:/browser/templates/footer_actions.pt:58
+#: osha.theme:/portlets/moreabout.pt:8 osha.theme:/portlets/rollingquotes.pt:5
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:33
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:44
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:45
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:66
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:77
-#: osha.theme:/browser/templates/search_ro.pt:40
-#: osha.theme:/browser/templates/resource_listing.pt:16
-#: osha.theme:/browser/templates/rssfeeds.pt:85
 #: osha.theme:/browser/templates/network_chooser.pt:10
 #: osha.theme:/browser/templates/network_chooser.pt:20
+#: osha.theme:/browser/templates/search_ro.pt:40
+#: osha.theme:/browser/templates/resource_listing.pt:16
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
+#: osha.theme:/browser/templates/footer_actions.pt:15
+#: osha.theme:/browser/templates/footer_actions.pt:34
+#: osha.theme:/browser/templates/footer_actions.pt:58
+#: osha.theme:/browser/templates/napofilmview.pt:33
+#: osha.theme:/browser/templates/napofilmview.pt:38
+#: osha.theme:/browser/templates/rssfeeds.pt:85
 #: osha.theme:/browser/collageviews/document_right_column.pt:5
 #: osha.theme:/browser/collageviews/document_oshmail.pt:4
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:80
@@ -413,7 +413,7 @@ msgstr "További hírek"
 
 #. Default: "More events"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
-#: osha.theme:/portlets/events.pt:63 osha.theme:/portlets/oshevents.pt:63
+#: osha.theme:/portlets/oshevents.pt:63 osha.theme:/portlets/events.pt:63
 msgid "label_more_events"
 msgstr "További események"
 
@@ -502,523 +502,521 @@ msgstr ""
 msgid "title_can_check"
 msgstr ""
 
-#. Default: "Chemical risks at work"
+#. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
+msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
+msgstr ""
+
+#. Default: "Maintenance counts"
+#: osha.policy:/missing_18n_labels.py:101
+msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
+msgstr ""
+
+#. Default: "Shining example"
+#: osha.policy:/missing_18n_labels.py:102
+msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
+msgstr ""
+
+#. Default: "Hidden hazards"
+#: osha.policy:/missing_18n_labels.py:103
+msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
+msgstr ""
+
+#. Default: "Report it!"
+#: osha.policy:/missing_18n_labels.py:104
+msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
+msgstr ""
+
+#. Default: "Cold case"
+#: osha.policy:/missing_18n_labels.py:105
+msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
+msgstr ""
+
+#. Default: "Reality TV"
+#: osha.policy:/missing_18n_labels.py:106
+msgid "heading_napo-018-no-laughing-matter-episode-006-reality-tv"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:107
+msgid "label_napo_click_to_see_film"
+msgstr "Click the image to see the film..."
+
+#: osha.policy:/missing_18n_labels.py:108
+msgid "napo_back_to_lesson"
+msgstr "Vissza a leckéhez"
+
+#. Default: "Chemical risks at work"
+#: osha.policy:/missing_18n_labels.py:109
 msgid "title_napo_episode_12_1"
 msgstr "Vegyi veszélyek a munka során"
 
 #. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:101
+#: osha.policy:/missing_18n_labels.py:110
 msgid "title_napo_episode_12_2"
 msgstr "Káros"
 
 #. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:102
+#: osha.policy:/missing_18n_labels.py:111
 msgid "title_napo_episode_12_3"
 msgstr "Ingerlő hatású"
 
 #. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:103
+#: osha.policy:/missing_18n_labels.py:112
 msgid "title_napo_episode_12_4"
 msgstr "Gyúlékony"
 
 #. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:104
+#: osha.policy:/missing_18n_labels.py:113
 msgid "title_napo_episode_12_5"
 msgstr "Korrozív"
 
 #. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:105
+#: osha.policy:/missing_18n_labels.py:114
 msgid "title_napo_episode_12_6"
 msgstr "Mérgező"
 
 #. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:106
+#: osha.policy:/missing_18n_labels.py:115
 msgid "title_napo_episode_12_7"
 msgstr "Környezetre veszélyt jelentő"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:107
+#: osha.policy:/missing_18n_labels.py:116
 msgid "title_napo_episode_12_8"
 msgstr "Vége"
 
 #. Default: "Lock out"
-#: osha.policy:/missing_18n_labels.py:108
+#: osha.policy:/missing_18n_labels.py:117
 msgid "title_napo_episode_14_1"
 msgstr "Lezárt terület!"
 
 #. Default: "Hidden hazards"
-#: osha.policy:/missing_18n_labels.py:109
+#: osha.policy:/missing_18n_labels.py:118
 msgid "title_napo_episode_14_2"
 msgstr "Rejtett veszélyek!"
 
 #. Default: "Don't improvise!"
-#: osha.policy:/missing_18n_labels.py:110
+#: osha.policy:/missing_18n_labels.py:119
 msgid "title_napo_episode_14_3"
 msgstr "Ne improvizáljunk!"
 
 #. Default: "In a rush"
-#: osha.policy:/missing_18n_labels.py:111
+#: osha.policy:/missing_18n_labels.py:120
 msgid "title_napo_episode_14_4"
 msgstr "Gyorsan, gyorsan…."
 
 #. Default: "Danger within!"
-#: osha.policy:/missing_18n_labels.py:112
+#: osha.policy:/missing_18n_labels.py:121
 msgid "title_napo_episode_14_5"
 msgstr "Belső veszély!"
 
 #. Default: "One, two, what to do?"
-#: osha.policy:/missing_18n_labels.py:113
+#: osha.policy:/missing_18n_labels.py:122
 msgid "title_napo_episode_14_6"
 msgstr "Ki mit csinál?"
 
 #. Default: "Best signs story"
-#: osha.policy:/missing_18n_labels.py:114
+#: osha.policy:/missing_18n_labels.py:123
 msgid "title_napo_episode_1_0"
 msgstr "Védősisak használata kötelező"
 
 #. Default: "Danger"
-#: osha.policy:/missing_18n_labels.py:115
+#: osha.policy:/missing_18n_labels.py:124
 msgid "title_napo_episode_1_1"
 msgstr "Vészkijárat jelzések"
 
 #. Default: "Safety helmet must be worn"
-#: osha.policy:/missing_18n_labels.py:116
+#: osha.policy:/missing_18n_labels.py:125
 msgid "title_napo_episode_1_10"
 msgstr "Védősisak használata kötelező"
 
 #. Default: "Rescue signs"
-#: osha.policy:/missing_18n_labels.py:117
+#: osha.policy:/missing_18n_labels.py:126
 msgid "title_napo_episode_1_11"
 msgstr "Vészkijárat jelzések"
 
 #. Default: "Rescue route"
-#: osha.policy:/missing_18n_labels.py:118
+#: osha.policy:/missing_18n_labels.py:127
 msgid "title_napo_episode_1_12"
 msgstr "Menekülési utak"
 
 #. Default: "First aid"
-#: osha.policy:/missing_18n_labels.py:119
+#: osha.policy:/missing_18n_labels.py:128
 msgid "title_napo_episode_1_13"
 msgstr "Elsősegély"
 
 #. Default: "Fire protection signs"
-#: osha.policy:/missing_18n_labels.py:120
+#: osha.policy:/missing_18n_labels.py:129
 msgid "title_napo_episode_1_14"
 msgstr "Tűzvédelmi jelek"
 
+#: osha.policy:/missing_18n_labels.py:13
+msgid "Privacy Policy"
+msgstr "Titoktartási politika"
+
 #. Default: "Fire-extinguishing equipment"
-#: osha.policy:/missing_18n_labels.py:121
+#: osha.policy:/missing_18n_labels.py:130
 msgid "title_napo_episode_1_15"
 msgstr "Tűzoltó-készülék"
 
 #. Default: "Fire alarm system"
-#: osha.policy:/missing_18n_labels.py:122
+#: osha.policy:/missing_18n_labels.py:131
 msgid "title_napo_episode_1_16"
 msgstr "Tűzjelző rendszer"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:123
+#: osha.policy:/missing_18n_labels.py:132
 msgid "title_napo_episode_1_17"
 msgstr "Vége"
 
 #. Default: "Danger - suspended load"
-#: osha.policy:/missing_18n_labels.py:124
+#: osha.policy:/missing_18n_labels.py:133
 msgid "title_napo_episode_1_2"
 msgstr "Menekülési utak"
 
 #. Default: "Danger - fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:125
+#: osha.policy:/missing_18n_labels.py:134
 msgid "title_napo_episode_1_3"
 msgstr "Elsősegély"
 
 #. Default: "Prohibition signs"
-#: osha.policy:/missing_18n_labels.py:126
+#: osha.policy:/missing_18n_labels.py:135
 msgid "title_napo_episode_1_4"
 msgstr "Tűzvédelmi jelek"
 
 #. Default: "No smoking"
-#: osha.policy:/missing_18n_labels.py:127
+#: osha.policy:/missing_18n_labels.py:136
 msgid "title_napo_episode_1_5"
 msgstr "Tűzoltó-készülék"
 
 #. Default: "No fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:128
+#: osha.policy:/missing_18n_labels.py:137
 msgid "title_napo_episode_1_6"
 msgstr "Tűzjelző rendszer"
 
 # ###
 # NAPO
 #. Default: "Mandantory signs"
-#: osha.policy:/missing_18n_labels.py:129
+#: osha.policy:/missing_18n_labels.py:138
 msgid "title_napo_episode_1_7"
 msgstr "Kötelező jelzések"
 
-#: osha.policy:/missing_18n_labels.py:13
-msgid "Privacy Policy"
-msgstr "Titoktartási politika"
-
 #. Default: "Safety goggles must be worn"
-#: osha.policy:/missing_18n_labels.py:130
+#: osha.policy:/missing_18n_labels.py:139
 msgid "title_napo_episode_1_8"
 msgstr "Védőszemüveg használata kötelező"
-
-#. Default: "Hearing protection must be worn"
-#: osha.policy:/missing_18n_labels.py:131
-msgid "title_napo_episode_1_9"
-msgstr "Hallásvédelem kötelező"
-
-#. Default: "The adventures of NAPO"
-#: osha.policy:/missing_18n_labels.py:132
-msgid "title_napo_episode_2_0"
-msgstr "Napo kalandjai"
-
-#. Default: "The importance of signposting"
-#: osha.policy:/missing_18n_labels.py:133
-msgid "title_napo_episode_2_1"
-msgstr "A jelzések fontossága"
-
-#. Default: "Signposting is not sufficient"
-#: osha.policy:/missing_18n_labels.py:134
-msgid "title_napo_episode_2_2"
-msgstr "Jelezni nem elég"
-
-#. Default: "Labels should be read"
-#: osha.policy:/missing_18n_labels.py:135
-msgid "title_napo_episode_2_3"
-msgstr "A feliratokat el kell olvasni"
-
-#. Default: "Choose public transports"
-#: osha.policy:/missing_18n_labels.py:136
-msgid "title_napo_episode_2_4"
-msgstr "Válaszd a tömegközlekedési eszközöket"
-
-#. Default: "The right protection at the right time"
-#: osha.policy:/missing_18n_labels.py:137
-msgid "title_napo_episode_2_5"
-msgstr "Megfelelő védelem a megfelelő időpontban"
-
-#. Default: "Improvising means risk taking"
-#: osha.policy:/missing_18n_labels.py:138
-msgid "title_napo_episode_2_6"
-msgstr "Az rögtönzés kockázatos"
-
-#. Default: "Each product has its own packaging"
-#: osha.policy:/missing_18n_labels.py:139
-msgid "title_napo_episode_2_7"
-msgstr "Mindenegyes terméknek külön kiszerelés"
 
 #: osha.policy:/missing_18n_labels.py:14
 msgid "Send this"
 msgstr "Küldés"
 
-#. Default: "Too much pressure is likely to be harmful"
+#. Default: "Hearing protection must be worn"
 #: osha.policy:/missing_18n_labels.py:140
+msgid "title_napo_episode_1_9"
+msgstr "Hallásvédelem kötelező"
+
+#. Default: "The adventures of NAPO"
+#: osha.policy:/missing_18n_labels.py:141
+msgid "title_napo_episode_2_0"
+msgstr "Napo kalandjai"
+
+#. Default: "The importance of signposting"
+#: osha.policy:/missing_18n_labels.py:142
+msgid "title_napo_episode_2_1"
+msgstr "A jelzések fontossága"
+
+#. Default: "Signposting is not sufficient"
+#: osha.policy:/missing_18n_labels.py:143
+msgid "title_napo_episode_2_2"
+msgstr "Jelezni nem elég"
+
+#. Default: "Labels should be read"
+#: osha.policy:/missing_18n_labels.py:144
+msgid "title_napo_episode_2_3"
+msgstr "A feliratokat el kell olvasni"
+
+#. Default: "Choose public transports"
+#: osha.policy:/missing_18n_labels.py:145
+msgid "title_napo_episode_2_4"
+msgstr "Válaszd a tömegközlekedési eszközöket"
+
+#. Default: "The right protection at the right time"
+#: osha.policy:/missing_18n_labels.py:146
+msgid "title_napo_episode_2_5"
+msgstr "Megfelelő védelem a megfelelő időpontban"
+
+#. Default: "Improvising means risk taking"
+#: osha.policy:/missing_18n_labels.py:147
+msgid "title_napo_episode_2_6"
+msgstr "Az rögtönzés kockázatos"
+
+#. Default: "Each product has its own packaging"
+#: osha.policy:/missing_18n_labels.py:148
+msgid "title_napo_episode_2_7"
+msgstr "Mindenegyes terméknek külön kiszerelés"
+
+#. Default: "Too much pressure is likely to be harmful"
+#: osha.policy:/missing_18n_labels.py:149
 msgid "title_napo_episode_2_8"
 msgstr "Túl nagy nyomás ártalmas lehet"
-
-#. Default: "Unsuitable material + incompetence = accident"
-#: osha.policy:/missing_18n_labels.py:141
-msgid "title_napo_episode_2_9"
-msgstr "Nem megfelelő anyag + hozzá nem értés = baleset"
-
-#. Default: "Scratch and sniff - chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:142
-msgid "title_napo_episode_3_0"
-msgstr "VEGYI VESZÉLYEK  A MUNKA SORÁN"
-
-#. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:143
-msgid "title_napo_episode_3_1"
-msgstr "Ártalmas"
-
-#. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:144
-msgid "title_napo_episode_3_2"
-msgstr "Irritáló"
-
-#. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:145
-msgid "title_napo_episode_3_3"
-msgstr "Gyúlékony"
-
-#. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:146
-msgid "title_napo_episode_3_4"
-msgstr "Korrozív"
-
-#. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:147
-msgid "title_napo_episode_3_5"
-msgstr "Mérgező"
-
-#. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:148
-msgid "title_napo_episode_3_6"
-msgstr "Környezetre veszélyes"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:149
-msgid "title_napo_episode_3_7"
-msgstr "Vége"
 
 #: osha.policy:/missing_18n_labels.py:15
 msgid "Copyright"
 msgstr "szerzői jogok "
 
-#. Default: "Clean Sweep"
+#. Default: "Unsuitable material + incompetence = accident"
 #: osha.policy:/missing_18n_labels.py:150
-msgid "title_napo_episode_4_0"
-msgstr "Tiszta"
+msgid "title_napo_episode_2_9"
+msgstr "Nem megfelelő anyag + hozzá nem értés = baleset"
 
-#. Default: "Change of plan"
+#. Default: "Scratch and sniff - chemical risks at work"
 #: osha.policy:/missing_18n_labels.py:151
-msgid "title_napo_episode_4_1"
-msgstr "Tervváltoztatás"
+msgid "title_napo_episode_3_0"
+msgstr "VEGYI VESZÉLYEK  A MUNKA SORÁN"
 
-#. Default: "Work at height"
+#. Default: "Harmful"
 #: osha.policy:/missing_18n_labels.py:152
-msgid "title_napo_episode_4_2"
-msgstr "Magasban végzett munka"
+msgid "title_napo_episode_3_1"
+msgstr "Ártalmas"
 
-#. Default: "Enough is enough"
+#. Default: "Irritant"
 #: osha.policy:/missing_18n_labels.py:153
-msgid "title_napo_episode_4_3"
-msgstr "Ez már túlzás"
+msgid "title_napo_episode_3_2"
+msgstr "Irritáló"
 
-#. Default: "Safety plan"
+#. Default: "Flammable"
 #: osha.policy:/missing_18n_labels.py:154
-msgid "title_napo_episode_4_4"
-msgstr "Biztonsági terv"
+msgid "title_napo_episode_3_3"
+msgstr "Gyúlékony"
 
-#. Default: "Yellow card"
+#. Default: "Corrosive"
 #: osha.policy:/missing_18n_labels.py:155
-msgid "title_napo_episode_4_5"
-msgstr "Sárga lap"
+msgid "title_napo_episode_3_4"
+msgstr "Korrozív"
 
-#. Default: "Bodybuilding"
+#. Default: "Toxic"
 #: osha.policy:/missing_18n_labels.py:156
-msgid "title_napo_episode_4_6"
-msgstr "Testépítés"
+msgid "title_napo_episode_3_5"
+msgstr "Mérgező"
 
-#. Default: "Safety angels"
+#. Default: "Dangerous for the environment"
 #: osha.policy:/missing_18n_labels.py:157
-msgid "title_napo_episode_4_7"
-msgstr "A biztonság angyalai"
+msgid "title_napo_episode_3_6"
+msgstr "Környezetre veszélyes"
 
 #. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:158
-msgid "title_napo_episode_4_8"
+msgid "title_napo_episode_3_7"
 msgstr "Vége"
 
-#. Default: "Napo - safe on site"
+#. Default: "Clean Sweep"
 #: osha.policy:/missing_18n_labels.py:159
-msgid "title_napo_episode_5_0"
-msgstr "Biztonságosan az építkezésen"
+msgid "title_napo_episode_4_0"
+msgstr "Tiszta"
 
 #: osha.policy:/missing_18n_labels.py:16
 msgid "Update"
 msgstr "Frissítés"
 
-#. Default: "Building in safety"
+#. Default: "Change of plan"
 #: osha.policy:/missing_18n_labels.py:160
+msgid "title_napo_episode_4_1"
+msgstr "Tervváltoztatás"
+
+#. Default: "Work at height"
+#: osha.policy:/missing_18n_labels.py:161
+msgid "title_napo_episode_4_2"
+msgstr "Magasban végzett munka"
+
+#. Default: "Enough is enough"
+#: osha.policy:/missing_18n_labels.py:162
+msgid "title_napo_episode_4_3"
+msgstr "Ez már túlzás"
+
+#. Default: "Safety plan"
+#: osha.policy:/missing_18n_labels.py:163
+msgid "title_napo_episode_4_4"
+msgstr "Biztonsági terv"
+
+#. Default: "Yellow card"
+#: osha.policy:/missing_18n_labels.py:164
+msgid "title_napo_episode_4_5"
+msgstr "Sárga lap"
+
+#. Default: "Bodybuilding"
+#: osha.policy:/missing_18n_labels.py:165
+msgid "title_napo_episode_4_6"
+msgstr "Testépítés"
+
+#. Default: "Safety angels"
+#: osha.policy:/missing_18n_labels.py:166
+msgid "title_napo_episode_4_7"
+msgstr "A biztonság angyalai"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:167
+msgid "title_napo_episode_4_8"
+msgstr "Vége"
+
+#. Default: "Napo - safe on site"
+#: osha.policy:/missing_18n_labels.py:168
+msgid "title_napo_episode_5_0"
+msgstr "Biztonságosan az építkezésen"
+
+#. Default: "Building in safety"
+#: osha.policy:/missing_18n_labels.py:169
 msgid "title_napo_episode_5_1"
 msgstr "Biztonságban építkezni!"
 
 #. Default: "Don't fall for it"
-#: osha.policy:/missing_18n_labels.py:161
+#: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_5_2"
 msgstr "Esésvédelem"
 
 #. Default: "Heading for a fall"
-#: osha.policy:/missing_18n_labels.py:162
+#: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_5_3"
 msgstr "Instabil"
 
 #. Default: "Champions of the world"
-#: osha.policy:/missing_18n_labels.py:163
+#: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_5_4"
 msgstr "Világbajnokok"
 
 #. Default: "Lightning strike"
-#: osha.policy:/missing_18n_labels.py:164
+#: osha.policy:/missing_18n_labels.py:173
 msgid "title_napo_episode_5_5"
 msgstr "Hátfájás"
 
 #. Default: "Keep them apart"
-#: osha.policy:/missing_18n_labels.py:165
+#: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_5_6"
 msgstr "Külön-külön"
 
 #. Default: "Five star treatment"
-#: osha.policy:/missing_18n_labels.py:166
+#: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_5_7"
 msgstr "Ötcsillagos ellátás"
 
 #. Default: "Bad dream"
-#: osha.policy:/missing_18n_labels.py:167
+#: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_5_8"
 msgstr "Rossz álom"
 
 #. Default: "Safe landing"
-#: osha.policy:/missing_18n_labels.py:168
+#: osha.policy:/missing_18n_labels.py:177
 msgid "title_napo_episode_5_9"
 msgstr "Happy End"
 
 #. Default: "Napo in stop that noise!"
-#: osha.policy:/missing_18n_labels.py:169
+#: osha.policy:/missing_18n_labels.py:178
 msgid "title_napo_episode_6_0"
 msgstr "Napo - Elég a zajból!"
 
 #. Default: "Irreparable"
-#: osha.policy:/missing_18n_labels.py:170
+#: osha.policy:/missing_18n_labels.py:179
 msgid "title_napo_episode_6_1"
 msgstr "Gyógyíthatatlan"
 
 #. Default: "Didn't hear it coming"
-#: osha.policy:/missing_18n_labels.py:171
+#: osha.policy:/missing_18n_labels.py:180
 msgid "title_napo_episode_6_2"
 msgstr "Nem hallotta a veszélyt"
 
 #. Default: "Noise in the office"
-#: osha.policy:/missing_18n_labels.py:172
+#: osha.policy:/missing_18n_labels.py:181
 msgid "title_napo_episode_6_3"
 msgstr "Zaj az irodában"
 
 #. Default: "Problem pregnancy"
-#: osha.policy:/missing_18n_labels.py:173
+#: osha.policy:/missing_18n_labels.py:182
 msgid "title_napo_episode_6_4"
 msgstr "Nyugodt terhesség"
 
 #. Default: "Out in the cold"
-#: osha.policy:/missing_18n_labels.py:174
+#: osha.policy:/missing_18n_labels.py:183
 msgid "title_napo_episode_6_5"
 msgstr "Vigyázz a hallásodra, hogy meghalljanak"
 
 #. Default: "Don't make things worse"
-#: osha.policy:/missing_18n_labels.py:175
+#: osha.policy:/missing_18n_labels.py:184
 msgid "title_napo_episode_6_6"
 msgstr "Munka közben és utána"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:176
+#: osha.policy:/missing_18n_labels.py:185
 msgid "title_napo_episode_6_7"
 msgstr "Vége"
 
 #. Default: "Safe start"
-#: osha.policy:/missing_18n_labels.py:177
+#: osha.policy:/missing_18n_labels.py:186
 msgid "title_napo_episode_7_0"
 msgstr "Napo : Biztonságos munkakezdés!"
 
 #. Default: "Don't hesitate to ask questions"
-#: osha.policy:/missing_18n_labels.py:178
+#: osha.policy:/missing_18n_labels.py:187
 msgid "title_napo_episode_7_1"
 msgstr "Tegyen fel kérdéseket!"
 
 #. Default: "Attention listen up"
-#: osha.policy:/missing_18n_labels.py:179
+#: osha.policy:/missing_18n_labels.py:188
 msgid "title_napo_episode_7_2"
 msgstr "Figyelem - figyeljen oda!"
 
 #. Default: "Information overload"
-#: osha.policy:/missing_18n_labels.py:180
+#: osha.policy:/missing_18n_labels.py:189
 msgid "title_napo_episode_7_3"
 msgstr "Túl sok információ!"
 
 #. Default: "Watch out for others too"
-#: osha.policy:/missing_18n_labels.py:181
+#: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_7_4"
 msgstr "Vigyázzunk másokra is!"
 
 #. Default: "Overconfidence is dangerous"
-#: osha.policy:/missing_18n_labels.py:182
+#: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_episode_7_5"
 msgstr "Az elbizakodottság veszélyes!"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:183
+#: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_7_6"
 msgstr "Vége"
 
 #. Default: "Start"
-#: osha.policy:/missing_18n_labels.py:184
+#: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_episode_8_0"
 msgstr "LEGYEN KÖNNYEBB A TEHER!"
 
 #. Default: "Modern stressful times"
-#: osha.policy:/missing_18n_labels.py:185
+#: osha.policy:/missing_18n_labels.py:194
 msgid "title_napo_episode_8_1"
 msgstr "MODERN IDŐK"
 
 #. Default: "Hold me tight"
-#: osha.policy:/missing_18n_labels.py:186
+#: osha.policy:/missing_18n_labels.py:195
 msgid "title_napo_episode_8_10"
 msgstr "TARTSD SZOROSAN!"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:187
+#: osha.policy:/missing_18n_labels.py:196
 msgid "title_napo_episode_8_11"
 msgstr "Vége"
 
 #. Default: "Divide and rule"
-#: osha.policy:/missing_18n_labels.py:188
+#: osha.policy:/missing_18n_labels.py:197
 msgid "title_napo_episode_8_2"
 msgstr "OSZD MEG ÉS URALKODJ!"
 
 #. Default: "Radical ergonomics"
-#: osha.policy:/missing_18n_labels.py:189
+#: osha.policy:/missing_18n_labels.py:198
 msgid "title_napo_episode_8_3"
 msgstr "RADIKÁLIS ERGONÓMIA"
 
 #. Default: "Twist and shout"
-#: osha.policy:/missing_18n_labels.py:190
+#: osha.policy:/missing_18n_labels.py:199
 msgid "title_napo_episode_8_4"
 msgstr "TVISZT ÉS KIÁLTÁS"
-
-#. Default: "No grip"
-#: osha.policy:/missing_18n_labels.py:191
-msgid "title_napo_episode_8_5"
-msgstr "NINCS RAJTA FOGÁS"
-
-#. Default: "Working height"
-#: osha.policy:/missing_18n_labels.py:192
-msgid "title_napo_episode_8_6"
-msgstr "MUNKAMAGASSÁG"
-
-#. Default: "Bad vibrations"
-#: osha.policy:/missing_18n_labels.py:193
-msgid "title_napo_episode_8_7"
-msgstr "ROSSZ A REZGÉS"
-
-#. Default: "The duel"
-#: osha.policy:/missing_18n_labels.py:194
-msgid "title_napo_episode_8_8"
-msgstr "A PÁRBAJ"
-
-#. Default: "Think to move"
-#: osha.policy:/missing_18n_labels.py:195
-msgid "title_napo_episode_8_9"
-msgstr "GONDOLJ A MOZGÁSRA!"
-
-#. Default: "Introduction"
-#: osha.policy:/missing_18n_labels.py:196
-msgid "title_napo_episode_9_0"
-msgstr "Introduction"
-
-#. Default: "Assess the risk"
-#: osha.policy:/missing_18n_labels.py:197
-msgid "title_napo_episode_9_1"
-msgstr "Mérjük fel a kockázatokat!"
-
-#. Default: "Identify the unknown"
-#: osha.policy:/missing_18n_labels.py:198
-msgid "title_napo_episode_9_2"
-msgstr "Határozzuk meg a veszélyeket!"
-
-#. Default: "Act on risks"
-#: osha.policy:/missing_18n_labels.py:199
-msgid "title_napo_episode_9_3"
-msgstr "Kezeljük a kockázatokat!"
 
 # Default "Albanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1026,52 +1024,55 @@ msgstr "Kezeljük a kockázatokat!"
 msgid "heading_main_fop_portlet_albania"
 msgstr "Albán fókuszpont"
 
-#. Default: "Risky combination"
+#. Default: "No grip"
 #: osha.policy:/missing_18n_labels.py:200
+msgid "title_napo_episode_8_5"
+msgstr "NINCS RAJTA FOGÁS"
+
+#. Default: "Working height"
+#: osha.policy:/missing_18n_labels.py:201
+msgid "title_napo_episode_8_6"
+msgstr "MUNKAMAGASSÁG"
+
+#. Default: "Bad vibrations"
+#: osha.policy:/missing_18n_labels.py:202
+msgid "title_napo_episode_8_7"
+msgstr "ROSSZ A REZGÉS"
+
+#. Default: "The duel"
+#: osha.policy:/missing_18n_labels.py:203
+msgid "title_napo_episode_8_8"
+msgstr "A PÁRBAJ"
+
+#. Default: "Think to move"
+#: osha.policy:/missing_18n_labels.py:204
+msgid "title_napo_episode_8_9"
+msgstr "GONDOLJ A MOZGÁSRA!"
+
+#. Default: "Introduction"
+#: osha.policy:/missing_18n_labels.py:205
+msgid "title_napo_episode_9_0"
+msgstr "Introduction"
+
+#. Default: "Assess the risk"
+#: osha.policy:/missing_18n_labels.py:206
+msgid "title_napo_episode_9_1"
+msgstr "Mérjük fel a kockázatokat!"
+
+#. Default: "Identify the unknown"
+#: osha.policy:/missing_18n_labels.py:207
+msgid "title_napo_episode_9_2"
+msgstr "Határozzuk meg a veszélyeket!"
+
+#. Default: "Act on risks"
+#: osha.policy:/missing_18n_labels.py:208
+msgid "title_napo_episode_9_3"
+msgstr "Kezeljük a kockázatokat!"
+
+#. Default: "Risky combination"
+#: osha.policy:/missing_18n_labels.py:209
 msgid "title_napo_episode_9_4"
 msgstr "Veszélyes kombináció"
-
-#. Default: "Eliminate the hazard"
-#: osha.policy:/missing_18n_labels.py:201
-msgid "title_napo_episode_9_5"
-msgstr "Küszöböljük ki a kockázatokat!"
-
-#. Default: "Safety pays"
-#: osha.policy:/missing_18n_labels.py:202
-msgid "title_napo_episode_9_6"
-msgstr "A biztonság kifizetődik"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:203
-msgid "title_napo_episode_9_7"
-msgstr "Vége"
-
-#: osha.policy:/missing_18n_labels.py:204
-msgid "title_napo_film_1"
-msgstr "FIGYELEMFELKELTŐ JELZÉSEK"
-
-#: osha.policy:/missing_18n_labels.py:205
-msgid "title_napo_film_11"
-msgstr "Napo „Biztonságban a munkahelyen és azon kívül”"
-
-# ---------- New Napo Film Number 12    Danger: Chemicals
-#: osha.policy:/missing_18n_labels.py:206
-msgid "title_napo_film_12"
-msgstr "Napo - Veszély: vegyi anyagok!"
-
-# ---------- New Napo Film Number 13    Protect your Skin
-#: osha.policy:/missing_18n_labels.py:207
-msgid "title_napo_film_13"
-msgstr "Napo - Védd a bőröd!"
-
-# ---------- New Napo Film Number 14   Safe Maintenance
-#: osha.policy:/missing_18n_labels.py:208
-msgid "title_napo_film_14"
-msgstr "Napo – Biztonságos karbantartás!"
-
-#: osha.policy:/missing_18n_labels.py:209
-msgid "title_napo_film_2"
-msgstr "NAPO KALANDJAI"
 
 # Default "Austrian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1079,40 +1080,51 @@ msgstr "NAPO KALANDJAI"
 msgid "heading_main_fop_portlet_austria"
 msgstr "Osztrák fókuszpont"
 
+#. Default: "Eliminate the hazard"
 #: osha.policy:/missing_18n_labels.py:210
-msgid "title_napo_film_3"
-msgstr "VEGYI VESZÉLYEK A MUNKA SORÁN"
+msgid "title_napo_episode_9_5"
+msgstr "Küszöböljük ki a kockázatokat!"
 
+#. Default: "Safety pays"
 #: osha.policy:/missing_18n_labels.py:211
-msgid "title_napo_film_4"
-msgstr "NAPO – BIZTONSÁGOSAN A MUNKAHELYEN"
+msgid "title_napo_episode_9_6"
+msgstr "A biztonság kifizetődik"
 
+#. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:212
-msgid "title_napo_film_5"
-msgstr "NAPO TAKARÍT"
+msgid "title_napo_episode_9_7"
+msgstr "Vége"
 
 #: osha.policy:/missing_18n_labels.py:213
-msgid "title_napo_film_6"
-msgstr "NAPO – ELÉG A ZAJBÓL!"
+msgid "title_napo_film_1"
+msgstr "FIGYELEMFELKELTŐ JELZÉSEK"
 
 #: osha.policy:/missing_18n_labels.py:214
-msgid "title_napo_film_7"
-msgstr "NAPO – BIZTOS KEZDET!"
+msgid "title_napo_film_11"
+msgstr "Napo „Biztonságban a munkahelyen és azon kívül”"
 
+# ---------- New Napo Film Number 12    Danger: Chemicals
 #: osha.policy:/missing_18n_labels.py:215
-msgid "title_napo_film_8"
-msgstr "NAPO – LEGYEN KÖNNYEBB A TEHER!"
+msgid "title_napo_film_12"
+msgstr "Napo - Veszély: vegyi anyagok!"
 
+# ---------- New Napo Film Number 13    Protect your Skin
 #: osha.policy:/missing_18n_labels.py:216
-msgid "title_napo_film_9"
-msgstr "Napo 'kockázatos munkahelyen'"
+msgid "title_napo_film_13"
+msgstr "Napo - Védd a bőröd!"
 
-# ############################################
-# # keywords
-# ############################################
+# ---------- New Napo Film Number 14   Safe Maintenance
+#: osha.policy:/missing_18n_labels.py:217
+msgid "title_napo_film_14"
+msgstr "Napo – Biztonságos karbantartás!"
+
+#: osha.policy:/missing_18n_labels.py:218
+msgid "title_napo_film_2"
+msgstr "NAPO KALANDJAI"
+
 #: osha.policy:/missing_18n_labels.py:219
-msgid "accident_prevention"
-msgstr "Balesetmegelőzés"
+msgid "title_napo_film_3"
+msgstr "VEGYI VESZÉLYEK A MUNKA SORÁN"
 
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1121,44 +1133,35 @@ msgid "heading_main_fop_portlet_belgium"
 msgstr "Belga fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:220
-msgid "ageing"
-msgstr "Idősödő munkavállalók"
+msgid "title_napo_film_4"
+msgstr "NAPO – BIZTONSÁGOSAN A MUNKAHELYEN"
 
 #: osha.policy:/missing_18n_labels.py:221
-msgid "agriculture"
-msgstr "Mezőgazdaság"
+msgid "title_napo_film_5"
+msgstr "NAPO TAKARÍT"
 
 #: osha.policy:/missing_18n_labels.py:222
-msgid "businessOSH"
-msgstr "A munkahelyi biztonság és egészségvédelem üzleti oldalai"
+msgid "title_napo_film_6"
+msgstr "NAPO – ELÉG A ZAJBÓL!"
 
 #: osha.policy:/missing_18n_labels.py:223
-msgid "cleaners"
-msgstr "Takarító személyzet"
+msgid "title_napo_film_7"
+msgstr "NAPO – BIZTOS KEZDET!"
 
 #: osha.policy:/missing_18n_labels.py:224
-msgid "competitions"
-msgstr "Versenyek"
+msgid "title_napo_film_8"
+msgstr "NAPO – LEGYEN KÖNNYEBB A TEHER!"
 
 #: osha.policy:/missing_18n_labels.py:225
-msgid "construction"
-msgstr "Építőipar"
+msgid "title_napo_film_9"
+msgstr "Napo 'kockázatos munkahelyen'"
 
-#: osha.policy:/missing_18n_labels.py:226
-msgid "csr"
-msgstr "Vállalati szociális felelősség"
-
-#: osha.policy:/missing_18n_labels.py:227
-msgid "cww"
-msgstr "A munka változó világa"
-
-#: osha.policy:/missing_18n_labels.py:228
-msgid "dangerous_substances"
-msgstr "Veszélyes anyagok"
-
+# ############################################
+# # keywords
+# ############################################
 #: osha.policy:/missing_18n_labels.py:229
-msgid "disability"
-msgstr "mozgáskorlátozottak"
+msgid "accident_prevention"
+msgstr "Balesetmegelőzés"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1166,48 +1169,45 @@ msgstr "mozgáskorlátozottak"
 msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
 msgstr "Bosznia-hercegovinai fókuszpont"
 
-#. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:230
-msgid "disabled_people"
-msgstr "mozgáskorlátozottak"
+msgid "ageing"
+msgstr "Idősödő munkavállalók"
 
 #: osha.policy:/missing_18n_labels.py:231
-msgid "economic_incentives"
-msgstr "Gazdasági ösztönzők"
+msgid "agriculture"
+msgstr "Mezőgazdaság"
 
 #: osha.policy:/missing_18n_labels.py:232
-msgid "education"
-msgstr "Oktatás"
+msgid "businessOSH"
+msgstr "A munkahelyi biztonság és egészségvédelem üzleti oldalai"
 
-#. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:233
-msgid "esener"
-msgstr ""
+msgid "cleaners"
+msgstr "Takarító személyzet"
 
 #: osha.policy:/missing_18n_labels.py:234
-msgid "fisheries"
-msgstr "Halászat"
+msgid "competitions"
+msgstr "Versenyek"
 
 #: osha.policy:/missing_18n_labels.py:235
-msgid "gender"
-msgstr "Társadalmi nem"
+msgid "construction"
+msgstr "Építőipar"
 
 #: osha.policy:/missing_18n_labels.py:236
-msgid "green_jobs"
-msgstr "zöld munkahelyek"
+msgid "csr"
+msgstr "Vállalati szociális felelősség"
 
-#. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:237
-msgid "health_care"
-msgstr "egészségügy"
+msgid "cww"
+msgstr "A munka változó világa"
 
 #: osha.policy:/missing_18n_labels.py:238
-msgid "healthcare"
-msgstr "egészségügy"
+msgid "dangerous_substances"
+msgstr "Veszélyes anyagok"
 
 #: osha.policy:/missing_18n_labels.py:239
-msgid "horeca"
-msgstr "Horeca-ágazat"
+msgid "disability"
+msgstr "mozgáskorlátozottak"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1215,45 +1215,48 @@ msgstr "Horeca-ágazat"
 msgid "heading_main_fop_portlet_bulgaria"
 msgstr "Bolgár fókuszpont"
 
+#. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
-msgid "hwi"
-msgstr "Egészséges munkahelyek"
+msgid "disabled_people"
+msgstr "mozgáskorlátozottak"
 
 #: osha.policy:/missing_18n_labels.py:241
-msgid "legislation"
-msgstr "Jogszabályok"
+msgid "economic_incentives"
+msgstr "Gazdasági ösztönzők"
 
 #: osha.policy:/missing_18n_labels.py:242
-msgid "maintenance"
-msgstr "karbantartás"
+msgid "education"
+msgstr "Oktatás"
 
+#. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
-msgid "management_leadership"
-msgstr "irányítás vezetés"
+msgid "esener"
+msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:244
-msgid "migrant_workers"
-msgstr "bevándorló munkavállalók"
+msgid "fisheries"
+msgstr "Halászat"
 
 #: osha.policy:/missing_18n_labels.py:245
-msgid "msd"
-msgstr "Váz- és izomrendszeri megbetegedések"
+msgid "gender"
+msgstr "Társadalmi nem"
 
 #: osha.policy:/missing_18n_labels.py:246
-msgid "nanotechnology"
-msgstr "nanotechnológia"
+msgid "green_jobs"
+msgstr "zöld munkahelyek"
 
+#. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
-msgid "noise"
-msgstr "Zaj"
+msgid "health_care"
+msgstr "egészségügy"
 
 #: osha.policy:/missing_18n_labels.py:248
-msgid "organisation"
-msgstr "Szervezés és stratégiák"
+msgid "healthcare"
+msgstr "egészségügy"
 
 #: osha.policy:/missing_18n_labels.py:249
-msgid "osheducation"
-msgstr "A munkavédelem beépítése az oktatásba"
+msgid "horeca"
+msgstr "Horeca-ágazat"
 
 # Default "Croatian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1262,41 +1265,44 @@ msgid "heading_main_fop_portlet_croatia"
 msgstr "Horvát fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:250
-msgid "prevention"
-msgstr "Prevention"
+msgid "hwi"
+msgstr "Egészséges munkahelyek"
 
-#: osha.policy:/missing_18n_labels.py:251 osha.searchurls:/interfaces.py:15
-msgid "provider"
-msgstr "Adatközlő"
+#: osha.policy:/missing_18n_labels.py:251
+msgid "legislation"
+msgstr "Jogszabályok"
 
-#. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:252
-msgid "publications"
-msgstr ""
+msgid "maintenance"
+msgstr "karbantartás"
 
 #: osha.policy:/missing_18n_labels.py:253
-msgid "research"
-msgstr "kutatás"
+msgid "management_leadership"
+msgstr "irányítás vezetés"
 
 #: osha.policy:/missing_18n_labels.py:254
-msgid "risk_assessment"
-msgstr "Kockázatértékelés"
+msgid "migrant_workers"
+msgstr "bevándorló munkavállalók"
+
+#: osha.policy:/missing_18n_labels.py:255
+msgid "msd"
+msgstr "Váz- és izomrendszeri megbetegedések"
 
 #: osha.policy:/missing_18n_labels.py:256
-msgid "risks"
-msgstr "Felmerülő kockázatok"
+msgid "nanotechnology"
+msgstr "nanotechnológia"
 
 #: osha.policy:/missing_18n_labels.py:257
-msgid "road_transport"
-msgstr "Közúti közlekedés"
+msgid "noise"
+msgstr "Zaj"
 
 #: osha.policy:/missing_18n_labels.py:258
-msgid "statistics"
-msgstr "Statisztika"
+msgid "organisation"
+msgstr "Szervezés és stratégiák"
 
 #: osha.policy:/missing_18n_labels.py:259
-msgid "stress"
-msgstr "Stressz"
+msgid "osheducation"
+msgstr "A munkavédelem beépítése az oktatásba"
 
 # Default "Cypriot Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1305,29 +1311,41 @@ msgid "heading_main_fop_portlet_cyprus"
 msgstr "Ciprusi fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:260
-msgid "transport"
-msgstr "Közlekedés"
+msgid "prevention"
+msgstr "Prevention"
 
-#: osha.policy:/missing_18n_labels.py:261
-msgid "whp"
-msgstr "Munkahelyi egészségfejlesztés"
+#: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
+msgid "provider"
+msgstr "Adatközlő"
 
+#. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:262
-msgid "worker_participation"
-msgstr "dolgozói részvétel"
+msgid "publications"
+msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
-msgid "young_people"
-msgstr "Fiatalok"
+msgid "research"
+msgstr "kutatás"
+
+#: osha.policy:/missing_18n_labels.py:264
+msgid "risk_assessment"
+msgstr "Kockázatértékelés"
 
 #: osha.policy:/missing_18n_labels.py:266
-#: osha.policy:/missing_18n_labels.py:564
-msgid "osha_label_press_and_multimedia"
-msgstr "Sajtó és multimédia"
+msgid "risks"
+msgstr "Felmerülő kockázatok"
+
+#: osha.policy:/missing_18n_labels.py:267
+msgid "road_transport"
+msgstr "Közúti közlekedés"
+
+#: osha.policy:/missing_18n_labels.py:268
+msgid "statistics"
+msgstr "Statisztika"
 
 #: osha.policy:/missing_18n_labels.py:269
-msgid "January"
-msgstr "január"
+msgid "stress"
+msgstr "Stressz"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1336,44 +1354,29 @@ msgid "heading_main_fop_portlet_czech-republic"
 msgstr "Cseh fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:270
-msgid "February"
-msgstr "február"
+msgid "transport"
+msgstr "Közlekedés"
 
 #: osha.policy:/missing_18n_labels.py:271
-msgid "March"
-msgstr "március"
+msgid "whp"
+msgstr "Munkahelyi egészségfejlesztés"
 
 #: osha.policy:/missing_18n_labels.py:272
-msgid "April"
-msgstr "április"
+msgid "worker_participation"
+msgstr "dolgozói részvétel"
 
 #: osha.policy:/missing_18n_labels.py:273
-msgid "May"
-msgstr "május"
-
-#: osha.policy:/missing_18n_labels.py:274
-msgid "June"
-msgstr "június"
-
-#: osha.policy:/missing_18n_labels.py:275
-msgid "July"
-msgstr "július"
+msgid "young_people"
+msgstr "Fiatalok"
 
 #: osha.policy:/missing_18n_labels.py:276
-msgid "August"
-msgstr "augusztus"
-
-#: osha.policy:/missing_18n_labels.py:277
-msgid "September"
-msgstr "szeptember"
-
-#: osha.policy:/missing_18n_labels.py:278
-msgid "October"
-msgstr "október"
+#: osha.policy:/missing_18n_labels.py:574
+msgid "osha_label_press_and_multimedia"
+msgstr "Sajtó és multimédia"
 
 #: osha.policy:/missing_18n_labels.py:279
-msgid "November"
-msgstr "november"
+msgid "January"
+msgstr "január"
 
 # Default "Danish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1382,36 +1385,44 @@ msgid "heading_main_fop_portlet_denmark"
 msgstr "Dán fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:280
-msgid "December"
-msgstr "december"
+msgid "February"
+msgstr "február"
 
-#: osha.policy:/missing_18n_labels.py:283
-msgid "action_firstlogin_proceed"
-msgstr "Egyéni beállítás megkezdése"
+#: osha.policy:/missing_18n_labels.py:281
+msgid "March"
+msgstr "március"
 
-#: osha.policy:/missing_18n_labels.py:284
-msgid "april"
+#: osha.policy:/missing_18n_labels.py:282
+msgid "April"
 msgstr "április"
 
+#: osha.policy:/missing_18n_labels.py:283
+msgid "May"
+msgstr "május"
+
+#: osha.policy:/missing_18n_labels.py:284
+msgid "June"
+msgstr "június"
+
 #: osha.policy:/missing_18n_labels.py:285
-msgid "august"
-msgstr "augusztus"
+msgid "July"
+msgstr "július"
 
 #: osha.policy:/missing_18n_labels.py:286
-msgid "back_to"
-msgstr "vissza"
+msgid "August"
+msgstr "augusztus"
 
 #: osha.policy:/missing_18n_labels.py:287
-msgid "before"
-msgstr "Előbbi"
+msgid "September"
+msgstr "szeptember"
 
 #: osha.policy:/missing_18n_labels.py:288
-msgid "box_about"
-msgstr "Erről"
+msgid "October"
+msgstr "október"
 
 #: osha.policy:/missing_18n_labels.py:289
-msgid "box_created_by"
-msgstr "Létrehozta"
+msgid "November"
+msgstr "november"
 
 # Default "Estonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1420,46 +1431,36 @@ msgid "heading_main_fop_portlet_estonia"
 msgstr "Észt fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:290
-msgid "box_last_modified"
-msgstr "Utoljára módosította"
-
-#: osha.policy:/missing_18n_labels.py:291
-msgid "box_oshmail_subscribe"
-msgstr ""
-"Rendelje meg <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a> "
-"ünket "
-
-#: osha.policy:/missing_18n_labels.py:292
-msgid "box_provided_by"
-msgstr "Információt adta"
+msgid "December"
+msgstr "december"
 
 #: osha.policy:/missing_18n_labels.py:293
-msgid "box_search_seminars"
-msgstr "Szemináriumok keresése"
+msgid "action_firstlogin_proceed"
+msgstr "Egyéni beállítás megkezdése"
 
 #: osha.policy:/missing_18n_labels.py:294
-msgid "box_speaker"
-msgstr "Feltüntetett felszólalók"
+msgid "april"
+msgstr "április"
 
 #: osha.policy:/missing_18n_labels.py:295
-msgid "box_speeches"
-msgstr "Feltüntetett beszédek"
+msgid "august"
+msgstr "augusztus"
 
 #: osha.policy:/missing_18n_labels.py:296
-msgid "box_this_url"
-msgstr "E dokumentum URL-je"
+msgid "back_to"
+msgstr "vissza"
 
 #: osha.policy:/missing_18n_labels.py:297
-msgid "calendar day view"
-msgstr "naptári nap szerinti nézet"
+msgid "before"
+msgstr "Előbbi"
 
 #: osha.policy:/missing_18n_labels.py:298
-msgid "convert to pdf"
-msgstr "konvertálás pdf-re"
+msgid "box_about"
+msgstr "Erről"
 
 #: osha.policy:/missing_18n_labels.py:299
-msgid "daily"
-msgstr "naponta"
+msgid "box_created_by"
+msgstr "Létrehozta"
 
 # Default "Finnish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1467,49 +1468,47 @@ msgstr "naponta"
 msgid "heading_main_fop_portlet_finland"
 msgstr "Finn fókuszpont"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:300
-msgid "day"
-msgstr "Nap"
+msgid "box_last_modified"
+msgstr "Utoljára módosította"
 
 #: osha.policy:/missing_18n_labels.py:301
-msgid "days"
-msgstr "napok"
+msgid "box_oshmail_subscribe"
+msgstr ""
+"Rendelje meg <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a> "
+"ünket "
 
 #: osha.policy:/missing_18n_labels.py:302
-msgid "december"
-msgstr "december"
+msgid "box_provided_by"
+msgstr "Információt adta"
 
 #: osha.policy:/missing_18n_labels.py:303
-msgid "default"
-msgstr "alapértelemezett"
+msgid "box_search_seminars"
+msgstr "Szemináriumok keresése"
 
 #: osha.policy:/missing_18n_labels.py:304
-msgid "delete"
-msgstr "törlés"
+msgid "box_speaker"
+msgstr "Feltüntetett felszólalók"
 
-# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:305
-msgid "details_about_authors"
-msgstr ""
-"Szerezze meg a byline-t – mely tartalmazza a szerzőre és a módosítási "
-"dátumra vonatkozó részleteket."
+msgid "box_speeches"
+msgstr "Feltüntetett beszédek"
 
 #: osha.policy:/missing_18n_labels.py:306
-msgid "document_type"
-msgstr "Dokumentum típusa:"
+msgid "box_this_url"
+msgstr "E dokumentum URL-je"
 
 #: osha.policy:/missing_18n_labels.py:307
-msgid "download"
-msgstr "letöltés"
+msgid "calendar day view"
+msgstr "naptári nap szerinti nézet"
 
 #: osha.policy:/missing_18n_labels.py:308
-msgid "download_full_publication"
-msgstr "A teljes publikáció letöltése PDF -formátumban"
+msgid "convert to pdf"
+msgstr "konvertálás pdf-re"
 
 #: osha.policy:/missing_18n_labels.py:309
-msgid "draft"
-msgstr "Tervezet"
+msgid "daily"
+msgstr "naponta"
 
 # Default "French Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1517,47 +1516,49 @@ msgstr "Tervezet"
 msgid "heading_main_fop_portlet_france"
 msgstr "Francia fókuszpont"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:310
-msgid "edit portlet content"
-msgstr "Portlettartalom szerkesztése"
+msgid "day"
+msgstr "Nap"
 
 #: osha.policy:/missing_18n_labels.py:311
-msgid "emerging_risks"
-msgstr "Felmerülő kockázatok"
+msgid "days"
+msgstr "napok"
 
 #: osha.policy:/missing_18n_labels.py:312
-msgid "event_type"
-msgstr "Eseménytípus(ok)"
+msgid "december"
+msgstr "december"
 
 #: osha.policy:/missing_18n_labels.py:313
-msgid "february"
-msgstr "február"
+msgid "default"
+msgstr "alapértelemezett"
 
-# # 1 more: ./OSHA/skins/osha/feedback_template.pt
 #: osha.policy:/missing_18n_labels.py:314
-msgid "feedback_comment"
-msgstr "Megjegyzés"
+msgid "delete"
+msgstr "törlés"
 
+# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:315
-msgid "feedback_country"
-msgstr "A küldő országa:"
+msgid "details_about_authors"
+msgstr ""
+"Szerezze meg a byline-t – mely tartalmazza a szerzőre és a módosítási "
+"dátumra vonatkozó részleteket."
 
 #: osha.policy:/missing_18n_labels.py:316
-msgid "feedback_from_name"
-msgstr "Név:"
+msgid "document_type"
+msgstr "Dokumentum típusa:"
 
-# # 1 more: ./OSHA/skins/osha/feedback_template.pt
 #: osha.policy:/missing_18n_labels.py:317
-msgid "feedback_link"
-msgstr "Link"
+msgid "download"
+msgstr "letöltés"
 
 #: osha.policy:/missing_18n_labels.py:318
-msgid "feedback_mailtemplate_body"
-msgstr "Ezt a visszajelzést küldi:"
+msgid "download_full_publication"
+msgstr "A teljes publikáció letöltése PDF -formátumban"
 
 #: osha.policy:/missing_18n_labels.py:319
-msgid "feedback_organization_size"
-msgstr "Szervezet mérete:"
+msgid "draft"
+msgstr "Tervezet"
 
 # Default "German Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1566,14 +1567,62 @@ msgid "heading_main_fop_portlet_germany"
 msgstr "Német fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:320
+msgid "edit portlet content"
+msgstr "Portlettartalom szerkesztése"
+
+#: osha.policy:/missing_18n_labels.py:321
+msgid "emerging_risks"
+msgstr "Felmerülő kockázatok"
+
+#: osha.policy:/missing_18n_labels.py:322
+msgid "event_type"
+msgstr "Eseménytípus(ok)"
+
+#: osha.policy:/missing_18n_labels.py:323
+msgid "february"
+msgstr "február"
+
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: osha.policy:/missing_18n_labels.py:324
+msgid "feedback_comment"
+msgstr "Megjegyzés"
+
+#: osha.policy:/missing_18n_labels.py:325
+msgid "feedback_country"
+msgstr "A küldő országa:"
+
+#: osha.policy:/missing_18n_labels.py:326
+msgid "feedback_from_name"
+msgstr "Név:"
+
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: osha.policy:/missing_18n_labels.py:327
+msgid "feedback_link"
+msgstr "Link"
+
+#: osha.policy:/missing_18n_labels.py:328
+msgid "feedback_mailtemplate_body"
+msgstr "Ezt a visszajelzést küldi:"
+
+#: osha.policy:/missing_18n_labels.py:329
+msgid "feedback_organization_size"
+msgstr "Szervezet mérete:"
+
+# Default "Greek Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:33
+msgid "heading_main_fop_portlet_greece"
+msgstr "Görög fókuszpont"
+
+#: osha.policy:/missing_18n_labels.py:330
 msgid "feedback_sender"
 msgstr "Küldő típusa:"
 
-#: osha.policy:/missing_18n_labels.py:321
+#: osha.policy:/missing_18n_labels.py:331
 msgid "feedback_sender_mssg_1"
 msgstr "Kedves Asszonyom / Uram,"
 
-#: osha.policy:/missing_18n_labels.py:322
+#: osha.policy:/missing_18n_labels.py:332
 msgid "feedback_sender_mssg_2"
 msgstr ""
 "Köszönjük a visszajelzést. Nagyra értékeljük az Európai Munkahelyi "
@@ -1583,83 +1632,36 @@ msgstr ""
 "Megjegyzéseit azonban mindig elolvassuk, és visszajelzéseit felhasználjuk "
 "honlapjaink és szolgáltatásaink fejlesztésére."
 
-#: osha.policy:/missing_18n_labels.py:323
+#: osha.policy:/missing_18n_labels.py:333
 msgid "feedback_sender_mssg_3"
 msgstr ""
 "Honlapunk változásait nyomon követheti, ha ellátogat “Aktuális” oldalainkra "
 "[http://osha.europa.eu/whats_new/index_en.htm], és megrendeli elektronikus "
 "hírlevelünket, az OSHmail-t [http://osha.europa.eu/oshmail]. "
 
-#: osha.policy:/missing_18n_labels.py:324
+#: osha.policy:/missing_18n_labels.py:334
 msgid "feedback_sender_mssg_from"
 msgstr "Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökség"
 
-#: osha.policy:/missing_18n_labels.py:325
+#: osha.policy:/missing_18n_labels.py:335
 msgid "feedback_sender_mssg_thankyou"
 msgstr "Tisztelettel:"
 
-#: osha.policy:/missing_18n_labels.py:326
+#: osha.policy:/missing_18n_labels.py:336
 msgid "feedback_sent_by"
 msgstr "Ezt a visszajelzést küldi:"
 
-#: osha.policy:/missing_18n_labels.py:327
+#: osha.policy:/missing_18n_labels.py:337
 msgid "foresight"
 msgstr "Áttekintés"
 
-#: osha.policy:/missing_18n_labels.py:328
+#: osha.policy:/missing_18n_labels.py:338
 msgid "forward"
 msgstr "Előre"
 
-#: osha.policy:/missing_18n_labels.py:329
+#: osha.policy:/missing_18n_labels.py:339
 msgid "from"
 msgstr "Küldő"
-
-# Default "Greek Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:33
-msgid "heading_main_fop_portlet_greece"
-msgstr "Görög fókuszpont"
-
-#: osha.policy:/missing_18n_labels.py:330
-msgid "go_to_calendar"
-msgstr "Ugrás a naptárhoz"
-
-#: osha.policy:/missing_18n_labels.py:331
-msgid "go_to_folder_localroles"
-msgstr "Ugrás a helyi szerepkörök mappájához "
-
-# # 1 more: ./plone_templates/folder_listing.pt
-#: osha.policy:/missing_18n_labels.py:332
-msgid "go_to_parent_url"
-msgstr "Egy szinttel feljebb"
-
-#: osha.policy:/missing_18n_labels.py:333
-msgid "header_active"
-msgstr "Aktív"
-
-#: osha.policy:/missing_18n_labels.py:334
-msgid "header_portlet_personalise"
-msgstr "Személyi beállítások a honlapon található információkkal kapcsolatba"
-
-#: osha.policy:/missing_18n_labels.py:335
-msgid "header_title"
-msgstr "Cím"
-
-#: osha.policy:/missing_18n_labels.py:336
-msgid "heading_actions"
-msgstr "Tevékenységek"
-
-#: osha.policy:/missing_18n_labels.py:337
-msgid "heading_add_to_calendar"
-msgstr "Esemény hozzáadása a naptárhoz"
-
-#: osha.policy:/missing_18n_labels.py:338
-msgid "heading_advanced_search"
-msgstr "Összetett tartalomkeresés"
-
-#: osha.policy:/missing_18n_labels.py:339
-msgid "heading_alert_add_searchquer"
-msgstr "Új keresőkifejezés hozzáadása"
 
 # Default "Hungarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1668,44 +1670,45 @@ msgid "heading_main_fop_portlet_hungary"
 msgstr "Magyar fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:340
-msgid "heading_alert_edit_searchquer"
-msgstr "Keresőkifejezés szerkesztése &quot; ${itemtype} &quot;"
+msgid "go_to_calendar"
+msgstr "Ugrás a naptárhoz"
 
 #: osha.policy:/missing_18n_labels.py:341
-msgid "heading_alerts_generalinterests"
-msgstr "Általános érdeklődési köröm"
+msgid "go_to_folder_localroles"
+msgstr "Ugrás a helyi szerepkörök mappájához "
 
+# # 1 more: ./plone_templates/folder_listing.pt
 #: osha.policy:/missing_18n_labels.py:342
-msgid "heading_alerts_specialinterests"
-msgstr "Különleges érdeklődési köröm"
+msgid "go_to_parent_url"
+msgstr "Egy szinttel feljebb"
 
 #: osha.policy:/missing_18n_labels.py:343
-msgid "heading_authorities"
-msgstr "Hatóságok"
+msgid "header_active"
+msgstr "Aktív"
 
 #: osha.policy:/missing_18n_labels.py:344
-msgid "heading_calendar_views"
-msgstr "Naptári nézetek"
+msgid "header_portlet_personalise"
+msgstr "Személyi beállítások a honlapon található információkkal kapcsolatba"
 
 #: osha.policy:/missing_18n_labels.py:345
-msgid "heading_document_actions"
-msgstr "Dokumentumtevékenységek"
+msgid "header_title"
+msgstr "Cím"
 
 #: osha.policy:/missing_18n_labels.py:346
-msgid "heading_ew2005_stopthatnoise"
-msgstr "Elég a zajból!"
+msgid "heading_actions"
+msgstr "Tevékenységek"
 
 #: osha.policy:/missing_18n_labels.py:347
-msgid "heading_exception_details"
-msgstr "Kivételek részletei"
+msgid "heading_add_to_calendar"
+msgstr "Esemény hozzáadása a naptárhoz"
 
 #: osha.policy:/missing_18n_labels.py:348
-msgid "heading_feedback_comments"
-msgstr "Megjegyzések"
+msgid "heading_advanced_search"
+msgstr "Összetett tartalomkeresés"
 
 #: osha.policy:/missing_18n_labels.py:349
-msgid "heading_file_contents"
-msgstr "Állománytartalom"
+msgid "heading_alert_add_searchquer"
+msgstr "Új keresőkifejezés hozzáadása"
 
 # Default "Icelandic Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1714,45 +1717,44 @@ msgid "heading_main_fop_portlet_iceland"
 msgstr "Izlandi fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:350
-msgid "heading_hierarchical_index"
-msgstr " Mutató rangsor szerint "
+msgid "heading_alert_edit_searchquer"
+msgstr "Keresőkifejezés szerkesztése &quot; ${itemtype} &quot;"
 
 #: osha.policy:/missing_18n_labels.py:351
-msgid "heading_index_by_nace"
-msgstr " Mutató NACE szerint "
+msgid "heading_alerts_generalinterests"
+msgstr "Általános érdeklődési köröm"
 
 #: osha.policy:/missing_18n_labels.py:352
-msgid "heading_index_by_providers"
-msgstr " Mutató szolgáltató szerint"
+msgid "heading_alerts_specialinterests"
+msgstr "Különleges érdeklődési köröm"
 
 #: osha.policy:/missing_18n_labels.py:353
-msgid "heading_index_by_sme"
-msgstr " Mutató KKV-ék szerint"
+msgid "heading_authorities"
+msgstr "Hatóságok"
 
 #: osha.policy:/missing_18n_labels.py:354
-#: osha.policy:/skins/osha_content/index_topic.pt:13
-msgid "heading_index_by_topic"
-msgstr " Mutató téma szerint"
+msgid "heading_calendar_views"
+msgstr "Naptári nézetek"
 
 #: osha.policy:/missing_18n_labels.py:355
-msgid "heading_latest_seminars"
-msgstr "Legfrissebb szemináriumok"
+msgid "heading_document_actions"
+msgstr "Dokumentumtevékenységek"
 
 #: osha.policy:/missing_18n_labels.py:356
-msgid "heading_link_to"
-msgstr "Ugrás"
+msgid "heading_ew2005_stopthatnoise"
+msgstr "Elég a zajból!"
 
 #: osha.policy:/missing_18n_labels.py:357
-msgid "heading_link_to_this_site"
-msgstr "Ugrás erre a honlapra"
+msgid "heading_exception_details"
+msgstr "Kivételek részletei"
 
 #: osha.policy:/missing_18n_labels.py:358
-msgid "heading_lost_password"
-msgstr "Elvesztett jelszó"
+msgid "heading_feedback_comments"
+msgstr "Megjegyzések"
 
 #: osha.policy:/missing_18n_labels.py:359
-msgid "heading_other_national_sites"
-msgstr "Egyéb nemzeti oldalak"
+msgid "heading_file_contents"
+msgstr "Állománytartalom"
 
 # Default "Irish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1761,46 +1763,45 @@ msgid "heading_main_fop_portlet_ireland"
 msgstr "Ír fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:360
-msgid "heading_portlets_configure"
-msgstr " Portletek konfigurálása "
+msgid "heading_hierarchical_index"
+msgstr " Mutató rangsor szerint "
 
 #: osha.policy:/missing_18n_labels.py:361
-msgid "heading_questionnaire_result"
-msgstr "Jelenlegi eredmény"
+msgid "heading_index_by_nace"
+msgstr " Mutató NACE szerint "
 
 #: osha.policy:/missing_18n_labels.py:362
-msgid "heading_quicksearch_users"
-msgstr "Gyorskereső-használók"
+msgid "heading_index_by_providers"
+msgstr " Mutató szolgáltató szerint"
 
 #: osha.policy:/missing_18n_labels.py:363
-msgid "heading_research_organisations"
-msgstr "Kutató szervezetek"
+msgid "heading_index_by_sme"
+msgstr " Mutató KKV-ék szerint"
 
 #: osha.policy:/missing_18n_labels.py:364
-msgid "heading_search"
-msgstr ""
-"keresés – <span tal:content=\"here/title_or_id\"> Cím vagy azonosító –</span>"
+#: osha.policy:/skins/osha_content/index_topic.pt:13
+msgid "heading_index_by_topic"
+msgstr " Mutató téma szerint"
 
 #: osha.policy:/missing_18n_labels.py:365
-msgid "heading_search_case_studies"
-msgstr "Keresés a ESETTANULMÁNYOK ADATBÁZISBAN"
+msgid "heading_latest_seminars"
+msgstr "Legfrissebb szemináriumok"
 
 #: osha.policy:/missing_18n_labels.py:366
-msgid "heading_search_providers"
-msgstr "Keresés a SZOLGÁLTATÓI ADATBÁZISBAN"
+msgid "heading_link_to"
+msgstr "Ugrás"
 
 #: osha.policy:/missing_18n_labels.py:367
-msgid "heading_search_results_memberdocs"
-msgstr "Tagok megtalált dokumentumai"
+msgid "heading_link_to_this_site"
+msgstr "Ugrás erre a honlapra"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:368
-msgid "heading_search_results_rss"
-msgstr "Távoli keresések találatai"
+msgid "heading_lost_password"
+msgstr "Elvesztett jelszó"
 
 #: osha.policy:/missing_18n_labels.py:369
-msgid "heading_search_risk_assessment_tools"
-msgstr "Keresés a KOCKÁZATÉRTÉKELÉSI ESZKÖZÖK ADATBÁZISBAN"
+msgid "heading_other_national_sites"
+msgstr "Egyéb nemzeti oldalak"
 
 # Default "Italian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1809,46 +1810,46 @@ msgid "heading_main_fop_portlet_italy"
 msgstr "Olasz Fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:370
-msgid "heading_search_useful_links"
-msgstr "Keresés a HASZNOS LINKEK adatbázisban"
+msgid "heading_portlets_configure"
+msgstr " Portletek konfigurálása "
 
 #: osha.policy:/missing_18n_labels.py:371
-msgid "heading_sections"
-msgstr "Szakaszok"
+msgid "heading_questionnaire_result"
+msgstr "Jelenlegi eredmény"
 
 #: osha.policy:/missing_18n_labels.py:372
-msgid "heading_send_page_to"
-msgstr "Oldal küldése másnak"
+msgid "heading_quicksearch_users"
+msgstr "Gyorskereső-használók"
 
-# # 1 more: ./OSHA/skins/osha/search_form.pt
 #: osha.policy:/missing_18n_labels.py:373
-msgid "heading_simple_search"
-msgstr "Tartalomkeresés"
+msgid "heading_research_organisations"
+msgstr "Kutató szervezetek"
 
 #: osha.policy:/missing_18n_labels.py:374
-msgid "heading_site_error"
-msgstr "Honlaphiba"
+msgid "heading_search"
+msgstr ""
+"keresés – <span tal:content=\"here/title_or_id\"> Cím vagy azonosító –</span>"
 
 #: osha.policy:/missing_18n_labels.py:375
-msgid "heading_social_partners"
-msgstr "Szociális partnerek"
+msgid "heading_search_case_studies"
+msgstr "Keresés a ESETTANULMÁNYOK ADATBÁZISBAN"
 
 #: osha.policy:/missing_18n_labels.py:376
-msgid "heading_start_simple_process"
-msgstr "Munkafolyamat kezdése"
+msgid "heading_search_providers"
+msgstr "Keresés a SZOLGÁLTATÓI ADATBÁZISBAN"
 
 #: osha.policy:/missing_18n_labels.py:377
-msgid "help_search_author"
-msgstr "Adott személyek által létrehozott elemek visszaadása."
+msgid "heading_search_results_memberdocs"
+msgstr "Tagok megtalált dokumentumai"
 
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:378
-msgid "help_search_available_languages"
-msgstr "A kijelölt nyelveken elérhető elemek visszaadása."
+msgid "heading_search_results_rss"
+msgstr "Távoli keresések találatai"
 
 #: osha.policy:/missing_18n_labels.py:379
-msgid "help_search_countries"
-msgstr "A kijelölt országban elérhető elemek visszaadása."
+msgid "heading_search_risk_assessment_tools"
+msgstr "Keresés a KOCKÁZATÉRTÉKELÉSI ESZKÖZÖK ADATBÁZISBAN"
 
 # Default "Kosovar Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1857,59 +1858,46 @@ msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
 msgstr "Koszovói fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:380
-msgid "help_search_description"
-msgstr ""
-"A leírásnak megfelelő elemek visszaadása. Összetett szavak úgy találhatók, "
-"ha az elemeket a következőkkel összekapcsoljuk: <strong>AND</strong> és  "
-"<strong>OR</strong> ."
+msgid "heading_search_useful_links"
+msgstr "Keresés a HASZNOS LINKEK adatbázisban"
 
 #: osha.policy:/missing_18n_labels.py:381
-msgid "help_search_item_type"
-msgstr "Adott típusú elemek visszaadása."
+msgid "heading_sections"
+msgstr "Szakaszok"
 
 #: osha.policy:/missing_18n_labels.py:382
-msgid "help_search_keywords"
-msgstr ""
-"A következő kulcsszavak közül egynek vagy többnek megfelelő elemek "
-"visszaadása. Több szót úgy jelölhet ki, ha a <strong>Ctrl</strong> "
-"billenytűt lenyomja, miközben a kulcsszavakra <strong>kattint az egér bal "
-"gombjával</strong>."
+msgid "heading_send_page_to"
+msgstr "Oldal küldése másnak"
 
+# # 1 more: ./OSHA/skins/osha/search_form.pt
 #: osha.policy:/missing_18n_labels.py:383
-msgid "help_search_new_items_since"
-msgstr ""
-"Legutóbbi bejelentkezése óta, az elmúlt héten stb. hozzáadott elemek "
-"visszaadása."
+msgid "heading_simple_search"
+msgstr "Tartalomkeresés"
 
 #: osha.policy:/missing_18n_labels.py:384
-msgid "help_search_path"
-msgstr ""
-"Csak olyan objektumok keresése, amelyek honlap rangsorában ez alatt az "
-"objektum alatt helyezkednek el."
+msgid "heading_site_error"
+msgstr "Honlaphiba"
 
 #: osha.policy:/missing_18n_labels.py:385
-msgid "help_search_review_status"
-msgstr ""
-"Felügyelőként kereshet elemeket felügyeleti státuszuk szerint is. Ha státusz "
-"szerint akarja szűrni találatait, jelölje ki azokat a listán."
+msgid "heading_social_partners"
+msgstr "Szociális partnerek"
 
 #: osha.policy:/missing_18n_labels.py:386
-msgid "help_search_rssextension"
-msgstr ""
-"Keresését bővítheti egy vagy több társhonlap mint távoli keresési forrás "
-"kijelölésével. <br/>"
+msgid "heading_start_simple_process"
+msgstr "Munkafolyamat kezdése"
 
 #: osha.policy:/missing_18n_labels.py:387
-msgid "help_search_title"
-msgstr "A címnek megfelelő elemek visszaadása."
+msgid "help_search_author"
+msgstr "Adott személyek által létrehozott elemek visszaadása."
 
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:388
-msgid "help_send_to_mail"
-msgstr "A linkeket erre az e-mail címre kell küldeni."
+msgid "help_search_available_languages"
+msgstr "A kijelölt nyelveken elérhető elemek visszaadása."
 
 #: osha.policy:/missing_18n_labels.py:389
-msgid "hour"
-msgstr "Óra"
+msgid "help_search_countries"
+msgstr "A kijelölt országban elérhető elemek visszaadása."
 
 # Default "Latvian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1918,54 +1906,59 @@ msgid "heading_main_fop_portlet_latvia"
 msgstr "Lett fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:390
-msgid "id"
-msgstr "azonosító"
+msgid "help_search_description"
+msgstr ""
+"A leírásnak megfelelő elemek visszaadása. Összetett szavak úgy találhatók, "
+"ha az elemeket a következőkkel összekapcsoljuk: <strong>AND</strong> és  "
+"<strong>OR</strong> ."
 
 #: osha.policy:/missing_18n_labels.py:391
-msgid "info_alert_searchagent"
-msgstr ""
-"Megadhat olyan keresőkifejezést, amellyel nyomon követhet objektumokat. Ezek "
-"modosítása esetén értesítést kap."
+msgid "help_search_item_type"
+msgstr "Adott típusú elemek visszaadása."
 
 #: osha.policy:/missing_18n_labels.py:392
-msgid "info_feedback_message_checkbefore"
+msgid "help_search_keywords"
 msgstr ""
-"Mielőtt kérdését elküdlené, kérjük, nézze meg a következő oldalainkat: "
-"${link1} és ${link2}."
+"A következő kulcsszavak közül egynek vagy többnek megfelelő elemek "
+"visszaadása. Több szót úgy jelölhet ki, ha a <strong>Ctrl</strong> "
+"billenytűt lenyomja, miközben a kulcsszavakra <strong>kattint az egér bal "
+"gombjával</strong>."
 
 #: osha.policy:/missing_18n_labels.py:393
-msgid "info_feedback_message_publications"
+msgid "help_search_new_items_since"
 msgstr ""
-"Az ügynökség minden közleménye: ${link} . További információ nem áll "
-"rendelkezésünkre, csak az, amely honlapjaink hálózatán elérhető.&quot;"
+"Legutóbbi bejelentkezése óta, az elmúlt héten stb. hozzáadott elemek "
+"visszaadása."
 
 #: osha.policy:/missing_18n_labels.py:394
-msgid "info_feedback_message_writemessage"
+msgid "help_search_path"
 msgstr ""
-"Írhat nekünk az EU 20 hivatalos nyelvének bármelyikén, de, kérjük, vegye "
-"figyelembe, hogy üzenetének fordítása és a válasz is késlekedhet. Az angol "
-"nyelvű üzenetekre hamarabb tudunk válaszolni, mert ezt a nyelvet minden "
-"munkatársunk beszéli."
+"Csak olyan objektumok keresése, amelyek honlap rangsorában ez alatt az "
+"objektum alatt helyezkednek el."
 
 #: osha.policy:/missing_18n_labels.py:395
-msgid "is"
-msgstr "ez"
+msgid "help_search_review_status"
+msgstr ""
+"Felügyelőként kereshet elemeket felügyeleti státuszuk szerint is. Ha státusz "
+"szerint akarja szűrni találatait, jelölje ki azokat a listán."
 
 #: osha.policy:/missing_18n_labels.py:396
-msgid "january"
-msgstr "január"
+msgid "help_search_rssextension"
+msgstr ""
+"Keresését bővítheti egy vagy több társhonlap mint távoli keresési forrás "
+"kijelölésével. <br/>"
 
 #: osha.policy:/missing_18n_labels.py:397
-msgid "july"
-msgstr "július"
+msgid "help_search_title"
+msgstr "A címnek megfelelő elemek visszaadása."
 
 #: osha.policy:/missing_18n_labels.py:398
-msgid "june"
-msgstr "június"
+msgid "help_send_to_mail"
+msgstr "A linkeket erre az e-mail címre kell küldeni."
 
 #: osha.policy:/missing_18n_labels.py:399
-msgid "keywords"
-msgstr "kulcsszavak"
+msgid "hour"
+msgstr "Óra"
 
 # Default "Liechtenstein Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1974,48 +1967,54 @@ msgid "heading_main_fop_portlet_liechtenstein"
 msgstr "Lichtensteini fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:400
-msgid "label_add_to_calendar"
-msgstr "Hozzáadás a naptárhoz:"
+msgid "id"
+msgstr "azonosító"
 
 #: osha.policy:/missing_18n_labels.py:401
-msgid "label_add_to_ical"
-msgstr "iCal"
+msgid "info_alert_searchagent"
+msgstr ""
+"Megadhat olyan keresőkifejezést, amellyel nyomon követhet objektumokat. Ezek "
+"modosítása esetén értesítést kap."
 
 #: osha.policy:/missing_18n_labels.py:402
-msgid "label_add_to_vcal"
-msgstr "vCal"
+msgid "info_feedback_message_checkbefore"
+msgstr ""
+"Mielőtt kérdését elküdlené, kérjük, nézze meg a következő oldalainkat: "
+"${link1} és ${link2}."
 
-# Default "Albania"
 #: osha.policy:/missing_18n_labels.py:403
-msgid "label_albania"
-msgstr "Albánia"
+msgid "info_feedback_message_publications"
+msgstr ""
+"Az ügynökség minden közleménye: ${link} . További információ nem áll "
+"rendelkezésünkre, csak az, amely honlapjaink hálózatán elérhető.&quot;"
 
 #: osha.policy:/missing_18n_labels.py:404
-msgid "label_alert_titlesearchquery"
-msgstr "Keresőkifejezés címe"
+msgid "info_feedback_message_writemessage"
+msgstr ""
+"Írhat nekünk az EU 20 hivatalos nyelvének bármelyikén, de, kérjük, vegye "
+"figyelembe, hogy üzenetének fordítása és a válasz is késlekedhet. Az angol "
+"nyelvű üzenetekre hamarabb tudunk válaszolni, mert ezt a nyelvet minden "
+"munkatársunk beszéli."
 
 #: osha.policy:/missing_18n_labels.py:405
-msgid "label_all"
-msgstr "Minden"
+msgid "is"
+msgstr "ez"
 
-# Default "Austria"
 #: osha.policy:/missing_18n_labels.py:406
-msgid "label_austria"
-msgstr "Ausztria"
+msgid "january"
+msgstr "január"
 
 #: osha.policy:/missing_18n_labels.py:407
-msgid "label_author"
-msgstr "Szerző"
+msgid "july"
+msgstr "július"
 
 #: osha.policy:/missing_18n_labels.py:408
-msgid "label_avi"
-msgstr "AVI"
+msgid "june"
+msgstr "június"
 
-# FOP Countries
-# Default "Belgium"
 #: osha.policy:/missing_18n_labels.py:409
-msgid "label_belgium"
-msgstr "Belgium"
+msgid "keywords"
+msgstr "kulcsszavak"
 
 # Default "Lithuanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2023,47 +2022,49 @@ msgstr "Belgium"
 msgid "heading_main_fop_portlet_lithuania"
 msgstr "Litván fókuszpont"
 
-# Default "Bosnia and Herzegovina"
 #: osha.policy:/missing_18n_labels.py:410
-msgid "label_bosnia_and_herzegovina"
-msgstr "Bosznia-Hercegovina"
+msgid "label_add_to_calendar"
+msgstr "Hozzáadás a naptárhoz:"
 
 #: osha.policy:/missing_18n_labels.py:411
-msgid "label_broaden_search"
-msgstr "Keresés bővítése"
+msgid "label_add_to_ical"
+msgstr "iCal"
 
-# Default "Bulgaria"
 #: osha.policy:/missing_18n_labels.py:412
-msgid "label_bulgaria"
-msgstr "Bulgária"
+msgid "label_add_to_vcal"
+msgstr "vCal"
 
+# Default "Albania"
 #: osha.policy:/missing_18n_labels.py:413
-msgid "label_by"
-msgstr "által"
+msgid "label_albania"
+msgstr "Albánia"
 
 #: osha.policy:/missing_18n_labels.py:414
-msgid "label_category"
-msgstr "Kategória"
+msgid "label_alert_titlesearchquery"
+msgstr "Keresőkifejezés címe"
 
 #: osha.policy:/missing_18n_labels.py:415
-msgid "label_city"
-msgstr "Város"
+msgid "label_all"
+msgstr "Minden"
 
+# Default "Austria"
 #: osha.policy:/missing_18n_labels.py:416
-msgid "label_click_to_hide_full_text"
-msgstr "A teljes szöveg elrejtése"
+msgid "label_austria"
+msgstr "Ausztria"
 
 #: osha.policy:/missing_18n_labels.py:417
-msgid "label_click_to_see_speeches_summary"
-msgstr "A beszédek összefoglalóinak megtekintése"
+msgid "label_author"
+msgstr "Szerző"
 
 #: osha.policy:/missing_18n_labels.py:418
-msgid "label_click_to_show_full_text"
-msgstr "A teljes szöveg megtekintése"
+msgid "label_avi"
+msgstr "AVI"
 
+# FOP Countries
+# Default "Belgium"
 #: osha.policy:/missing_18n_labels.py:419
-msgid "label_closed"
-msgstr "zárva"
+msgid "label_belgium"
+msgstr "Belgium"
 
 # Default "Luxembourgish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2071,46 +2072,47 @@ msgstr "zárva"
 msgid "heading_main_fop_portlet_luxembourg"
 msgstr "Luxemurgi fókuszpont"
 
+# Default "Bosnia and Herzegovina"
 #: osha.policy:/missing_18n_labels.py:420
-msgid "label_comment"
-msgstr "Megjegyzés"
+msgid "label_bosnia_and_herzegovina"
+msgstr "Bosznia-Hercegovina"
 
 #: osha.policy:/missing_18n_labels.py:421
-msgid "label_comments"
-msgstr " Megjegyzések"
+msgid "label_broaden_search"
+msgstr "Keresés bővítése"
 
-# Competitions
+# Default "Bulgaria"
 #: osha.policy:/missing_18n_labels.py:422
-msgid "label_competitions"
-msgstr "Versenyek"
+msgid "label_bulgaria"
+msgstr "Bulgária"
 
 #: osha.policy:/missing_18n_labels.py:423
-msgid "label_contact_email"
-msgstr "E-mail kapcsolat"
+msgid "label_by"
+msgstr "által"
 
 #: osha.policy:/missing_18n_labels.py:424
-msgid "label_contact_name"
-msgstr " Név szerinti kapcsolat"
+msgid "label_category"
+msgstr "Kategória"
 
 #: osha.policy:/missing_18n_labels.py:425
-msgid "label_contact_phone"
-msgstr " Telefonos kapcsolat"
+msgid "label_city"
+msgstr "Város"
 
 #: osha.policy:/missing_18n_labels.py:426
-msgid "label_contributors"
-msgstr "Közreműködők"
+msgid "label_click_to_hide_full_text"
+msgstr "A teljes szöveg elrejtése"
 
 #: osha.policy:/missing_18n_labels.py:427
-msgid "label_copyrights"
-msgstr "Szerzői jogok"
+msgid "label_click_to_see_speeches_summary"
+msgstr "A beszédek összefoglalóinak megtekintése"
 
 #: osha.policy:/missing_18n_labels.py:428
-msgid "label_countries"
-msgstr "Országok"
+msgid "label_click_to_show_full_text"
+msgstr "A teljes szöveg megtekintése"
 
 #: osha.policy:/missing_18n_labels.py:429
-msgid "label_creator"
-msgstr "Alkotó"
+msgid "label_closed"
+msgstr "zárva"
 
 # Default "Maltese Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2118,50 +2120,46 @@ msgstr "Alkotó"
 msgid "heading_main_fop_portlet_malta"
 msgstr "Máltai fókuszpont"
 
-# Default "Croatia"
 #: osha.policy:/missing_18n_labels.py:430
-msgid "label_croatia"
-msgstr "Horvátország"
+msgid "label_comment"
+msgstr "Megjegyzés"
 
 #: osha.policy:/missing_18n_labels.py:431
-msgid "label_current_decision"
-msgstr "Jelenlegi döntés"
+msgid "label_comments"
+msgstr " Megjegyzések"
 
-# Default "Cyprus"
+# Competitions
 #: osha.policy:/missing_18n_labels.py:432
-msgid "label_cyprus"
-msgstr "Ciprus"
+msgid "label_competitions"
+msgstr "Versenyek"
 
-# Default "Czech Republic"
 #: osha.policy:/missing_18n_labels.py:433
-msgid "label_czech_republic"
-msgstr "Cseh Köztársaság"
+msgid "label_contact_email"
+msgstr "E-mail kapcsolat"
 
 #: osha.policy:/missing_18n_labels.py:434
-msgid "label_date"
-msgstr "Dátum"
+msgid "label_contact_name"
+msgstr " Név szerinti kapcsolat"
 
 #: osha.policy:/missing_18n_labels.py:435
-msgid "label_default_language"
-msgstr "Alapértelmezett nyelv"
+msgid "label_contact_phone"
+msgstr " Telefonos kapcsolat"
 
-# Default "Denmark"
 #: osha.policy:/missing_18n_labels.py:436
-msgid "label_denmark"
-msgstr "Dánia"
+msgid "label_contributors"
+msgstr "Közreműködők"
 
-# Default "Estonia"
 #: osha.policy:/missing_18n_labels.py:437
-msgid "label_estonia"
-msgstr "Észtország"
+msgid "label_copyrights"
+msgstr "Szerzői jogok"
 
 #: osha.policy:/missing_18n_labels.py:438
-msgid "label_faq_answertext"
-msgstr "A válasz szövegtörzse"
+msgid "label_countries"
+msgstr "Országok"
 
 #: osha.policy:/missing_18n_labels.py:439
-msgid "label_faq_questiontext"
-msgstr "A kérdés szövegtörzse "
+msgid "label_creator"
+msgstr "Alkotó"
 
 # Default "Montenegrin Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2169,49 +2167,50 @@ msgstr "A kérdés szövegtörzse "
 msgid "heading_main_fop_portlet_montenegro"
 msgstr "Montenegrói fókuszpont"
 
+# Default "Croatia"
 #: osha.policy:/missing_18n_labels.py:440
-msgid "label_female"
-msgstr "nő"
+msgid "label_croatia"
+msgstr "Horvátország"
 
-# Default "Finland"
 #: osha.policy:/missing_18n_labels.py:441
-msgid "label_finland"
-msgstr "Finnország"
+msgid "label_current_decision"
+msgstr "Jelenlegi döntés"
 
-# # 1 more: ./OSHA/skins/osha/join_form.cpt
+# Default "Cyprus"
 #: osha.policy:/missing_18n_labels.py:442
-msgid "label_first_name"
-msgstr "Utónév"
+msgid "label_cyprus"
+msgstr "Ciprus"
 
+# Default "Czech Republic"
 #: osha.policy:/missing_18n_labels.py:443
-msgid "label_firstname"
-msgstr "Utónév"
+msgid "label_czech_republic"
+msgstr "Cseh Köztársaság"
 
 #: osha.policy:/missing_18n_labels.py:444
-msgid "label_focalpoint"
-msgstr " Tájékoztatási központ "
+msgid "label_date"
+msgstr "Dátum"
 
 #: osha.policy:/missing_18n_labels.py:445
-msgid "label_folder_method"
-msgstr "Method ID"
+msgid "label_default_language"
+msgstr "Alapértelmezett nyelv"
 
-# Default "France"
+# Default "Denmark"
 #: osha.policy:/missing_18n_labels.py:446
-msgid "label_france"
-msgstr "Franciaország"
+msgid "label_denmark"
+msgstr "Dánia"
 
+# Default "Estonia"
 #: osha.policy:/missing_18n_labels.py:447
-msgid "label_free_newsletter"
-msgstr "ingyenes hírlevél"
+msgid "label_estonia"
+msgstr "Észtország"
 
 #: osha.policy:/missing_18n_labels.py:448
-msgid "label_full_name"
-msgstr "Teljes név"
+msgid "label_faq_answertext"
+msgstr "A válasz szövegtörzse"
 
-# Default "Germany"
 #: osha.policy:/missing_18n_labels.py:449
-msgid "label_germany"
-msgstr "Németország"
+msgid "label_faq_questiontext"
+msgstr "A kérdés szövegtörzse "
 
 # Default "Dutch Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2219,52 +2218,49 @@ msgstr "Németország"
 msgid "heading_main_fop_portlet_netherlands"
 msgstr "Holland fókuszpont"
 
-# Default "Greece"
 #: osha.policy:/missing_18n_labels.py:450
-msgid "label_greece"
-msgstr "Görögország"
+msgid "label_female"
+msgstr "nő"
 
+# Default "Finland"
 #: osha.policy:/missing_18n_labels.py:451
-msgid "label_hidden"
-msgstr "rejtve"
+msgid "label_finland"
+msgstr "Finnország"
 
-# Default "Hungary"
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
 #: osha.policy:/missing_18n_labels.py:452
-msgid "label_hungary"
-msgstr "Magyarország"
+msgid "label_first_name"
+msgstr "Utónév"
 
-# Default "Iceland"
 #: osha.policy:/missing_18n_labels.py:453
-msgid "label_iceland"
-msgstr "Izland"
+msgid "label_firstname"
+msgstr "Utónév"
 
 #: osha.policy:/missing_18n_labels.py:454
-msgid "label_include_subfolders"
-msgstr "Almappák belefoglalása"
+msgid "label_focalpoint"
+msgstr " Tájékoztatási központ "
 
-# Default "Ireland"
 #: osha.policy:/missing_18n_labels.py:455
-msgid "label_ireland"
-msgstr "Írország"
+msgid "label_folder_method"
+msgstr "Method ID"
 
-# Default "Italy"
+# Default "France"
 #: osha.policy:/missing_18n_labels.py:456
-msgid "label_italy"
-msgstr "Olaszország"
+msgid "label_france"
+msgstr "Franciaország"
 
 #: osha.policy:/missing_18n_labels.py:457
-msgid "label_keywords"
-msgstr "Kulcsszavak"
+msgid "label_free_newsletter"
+msgstr "ingyenes hírlevél"
 
-# Default "Kosovo under UNSCR 1244/99"
 #: osha.policy:/missing_18n_labels.py:458
-msgid "label_kosovo"
-msgstr "Koszovó UNSCR 1244/99"
+msgid "label_full_name"
+msgstr "Teljes név"
 
-# Default "Latvia"
+# Default "Germany"
 #: osha.policy:/missing_18n_labels.py:459
-msgid "label_latvia"
-msgstr "Lettország"
+msgid "label_germany"
+msgstr "Németország"
 
 # Default "Norwegian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2272,52 +2268,52 @@ msgstr "Lettország"
 msgid "heading_main_fop_portlet_norway"
 msgstr "Norvég fókuszpont"
 
-# Default "Liechtenstein"
+# Default "Greece"
 #: osha.policy:/missing_18n_labels.py:460
-msgid "label_liechtenstein"
-msgstr "Liechtenstein"
+msgid "label_greece"
+msgstr "Görögország"
 
-# Default "Lithuania"
 #: osha.policy:/missing_18n_labels.py:461
-msgid "label_lithuania"
-msgstr "Litvánia"
+msgid "label_hidden"
+msgstr "rejtve"
 
-# Default "Luxembourg"
+# Default "Hungary"
 #: osha.policy:/missing_18n_labels.py:462
-msgid "label_luxembourg"
-msgstr "Luxemburg"
+msgid "label_hungary"
+msgstr "Magyarország"
 
-# Default "The former Yugoslav Republic of Macedonia"
+# Default "Iceland"
 #: osha.policy:/missing_18n_labels.py:463
-msgid "label_macedonia"
-msgstr "Macedónia Volt Jugoszláv Tagköztársaság"
+msgid "label_iceland"
+msgstr "Izland"
 
 #: osha.policy:/missing_18n_labels.py:464
-msgid "label_male"
-msgstr "Férfi"
+msgid "label_include_subfolders"
+msgstr "Almappák belefoglalása"
 
-# Default "Malta"
+# Default "Ireland"
 #: osha.policy:/missing_18n_labels.py:465
-msgid "label_malta"
-msgstr "Málta"
+msgid "label_ireland"
+msgstr "Írország"
 
-# Default "Montenegro"
+# Default "Italy"
 #: osha.policy:/missing_18n_labels.py:466
-msgid "label_montenegro"
-msgstr "Montenegro"
+msgid "label_italy"
+msgstr "Olaszország"
 
 #: osha.policy:/missing_18n_labels.py:467
-msgid "label_more_seminars_link"
-msgstr "Több szeminárium"
+msgid "label_keywords"
+msgstr "Kulcsszavak"
 
+# Default "Kosovo under UNSCR 1244/99"
 #: osha.policy:/missing_18n_labels.py:468
-msgid "label_my_user_name_is"
-msgstr "Felhasználói nevem"
+msgid "label_kosovo"
+msgstr "Koszovó UNSCR 1244/99"
 
-# # 1 more: ./plone_prefs/prefs_group_details.pt
+# Default "Latvia"
 #: osha.policy:/missing_18n_labels.py:469
-msgid "label_name"
-msgstr "Név"
+msgid "label_latvia"
+msgstr "Lettország"
 
 # Default "Polish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2325,48 +2321,52 @@ msgstr "Név"
 msgid "heading_main_fop_portlet_poland"
 msgstr "Lengyel fókuszpont"
 
-# Default "Netherlands"
+# Default "Liechtenstein"
 #: osha.policy:/missing_18n_labels.py:470
-msgid "label_netherlands"
-msgstr "Hollandia"
+msgid "label_liechtenstein"
+msgstr "Liechtenstein"
 
+# Default "Lithuania"
 #: osha.policy:/missing_18n_labels.py:471
-msgid "label_no_seminars_found"
-msgstr "Az Ön keresési feltételeinek egy szeminárium sem felel meg"
+msgid "label_lithuania"
+msgstr "Litvánia"
 
-# Default "Norway"
+# Default "Luxembourg"
 #: osha.policy:/missing_18n_labels.py:472
-msgid "label_norway"
-msgstr "Norvégia"
+msgid "label_luxembourg"
+msgstr "Luxemburg"
 
+# Default "The former Yugoslav Republic of Macedonia"
 #: osha.policy:/missing_18n_labels.py:473
-msgid "label_notifications"
-msgstr "Figyelmeztetések"
+msgid "label_macedonia"
+msgstr "Macedónia Volt Jugoszláv Tagköztársaság"
 
 #: osha.policy:/missing_18n_labels.py:474
-msgid "label_older_competitions"
-msgstr "korábbi versenyek"
+msgid "label_male"
+msgstr "Férfi"
 
+# Default "Malta"
 #: osha.policy:/missing_18n_labels.py:475
-msgid "label_osha_searchcountries"
-msgstr "Keresési paraméterek finomítása &quot;országok&quot;"
+msgid "label_malta"
+msgstr "Málta"
 
+# Default "Montenegro"
 #: osha.policy:/missing_18n_labels.py:476
-msgid "label_osha_searchlanguages"
-msgstr " Keresési paraméterek finomítása &quot;nyelvek&quot;"
+msgid "label_montenegro"
+msgstr "Montenegro"
 
 #: osha.policy:/missing_18n_labels.py:477
-msgid "label_osha_support_email"
-msgstr "Támogatás e-mail címe"
+msgid "label_more_seminars_link"
+msgstr "Több szeminárium"
 
 #: osha.policy:/missing_18n_labels.py:478
-msgid "label_osha_uploadsource"
-msgstr "Feltöltés forrása"
+msgid "label_my_user_name_is"
+msgstr "Felhasználói nevem"
 
-# Default "Poland"
+# # 1 more: ./plone_prefs/prefs_group_details.pt
 #: osha.policy:/missing_18n_labels.py:479
-msgid "label_poland"
-msgstr "Lengyelország"
+msgid "label_name"
+msgstr "Név"
 
 # Default "Portuguese Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2374,47 +2374,48 @@ msgstr "Lengyelország"
 msgid "heading_main_fop_portlet_portugal"
 msgstr "Portugál fókuszpont"
 
-# Default "Portugal"
+# Default "Netherlands"
 #: osha.policy:/missing_18n_labels.py:480
-msgid "label_portugal"
-msgstr "Portugália"
+msgid "label_netherlands"
+msgstr "Hollandia"
 
 #: osha.policy:/missing_18n_labels.py:481
-msgid "label_position"
-msgstr "Beosztás"
+msgid "label_no_seminars_found"
+msgstr "Az Ön keresési feltételeinek egy szeminárium sem felel meg"
 
+# Default "Norway"
 #: osha.policy:/missing_18n_labels.py:482
-msgid "label_prescribe"
-msgstr "előír"
+msgid "label_norway"
+msgstr "Norvégia"
 
 #: osha.policy:/missing_18n_labels.py:483
-msgid "label_priority"
-msgstr "Elsőbbség"
+msgid "label_notifications"
+msgstr "Figyelmeztetések"
 
 #: osha.policy:/missing_18n_labels.py:484
-msgid "label_process"
-msgstr "Munkafolyamat típusa"
+msgid "label_older_competitions"
+msgstr "korábbi versenyek"
 
 #: osha.policy:/missing_18n_labels.py:485
-msgid "label_process_description"
-msgstr "Folyamat leírása"
+msgid "label_osha_searchcountries"
+msgstr "Keresési paraméterek finomítása &quot;országok&quot;"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
 #: osha.policy:/missing_18n_labels.py:486
-msgid "label_process_title"
-msgstr "Folyamat címe"
+msgid "label_osha_searchlanguages"
+msgstr " Keresési paraméterek finomítása &quot;nyelvek&quot;"
 
 #: osha.policy:/missing_18n_labels.py:487
-msgid "label_profession"
-msgstr "Szakma"
+msgid "label_osha_support_email"
+msgstr "Támogatás e-mail címe"
 
 #: osha.policy:/missing_18n_labels.py:488
-msgid "label_profile"
-msgstr "Profil"
+msgid "label_osha_uploadsource"
+msgstr "Feltöltés forrása"
 
+# Default "Poland"
 #: osha.policy:/missing_18n_labels.py:489
-msgid "label_projects"
-msgstr " Projektek "
+msgid "label_poland"
+msgstr "Lengyelország"
 
 # Default "Romanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2422,51 +2423,47 @@ msgstr " Projektek "
 msgid "heading_main_fop_portlet_romania"
 msgstr "Román fókuszpont"
 
-# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
+# Default "Portugal"
 #: osha.policy:/missing_18n_labels.py:490
-msgid "label_publisher"
-msgstr "Közlő"
+msgid "label_portugal"
+msgstr "Portugália"
 
 #: osha.policy:/missing_18n_labels.py:491
-msgid "label_publishing_effective"
-msgstr "érvényes"
+msgid "label_position"
+msgstr "Beosztás"
 
 #: osha.policy:/missing_18n_labels.py:492
-msgid "label_purpose"
-msgstr " Ezt szeretném küldeni:"
+msgid "label_prescribe"
+msgstr "előír"
 
-# Default "Romania"
 #: osha.policy:/missing_18n_labels.py:493
-msgid "label_romania"
-msgstr "Románia"
+msgid "label_priority"
+msgstr "Elsőbbség"
 
 #: osha.policy:/missing_18n_labels.py:494
-msgid "label_sector"
-msgstr "Szektor"
+msgid "label_process"
+msgstr "Munkafolyamat típusa"
 
 #: osha.policy:/missing_18n_labels.py:495
-msgid "label_see_also"
-msgstr "Lásd még"
+msgid "label_process_description"
+msgstr "Folyamat leírása"
 
-# # 1 more: ./plone_templates/folder_contents.pt
+# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
 #: osha.policy:/missing_18n_labels.py:496
-#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
-#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:654
-msgid "label_select"
-msgstr "Kijelölés"
+msgid "label_process_title"
+msgstr "Folyamat címe"
 
 #: osha.policy:/missing_18n_labels.py:497
-msgid "label_send_from"
-msgstr "Innen:"
+msgid "label_profession"
+msgstr "Szakma"
 
 #: osha.policy:/missing_18n_labels.py:498
-msgid "label_send_to_mail"
-msgstr "Küldés ide:"
+msgid "label_profile"
+msgstr "Profil"
 
-# Default "Serbia"
 #: osha.policy:/missing_18n_labels.py:499
-msgid "label_serbia"
-msgstr "Szerbia"
+msgid "label_projects"
+msgstr " Projektek "
 
 # Default "Serbian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2474,55 +2471,51 @@ msgstr "Szerbia"
 msgid "heading_main_fop_portlet_serbia"
 msgstr "Szerb fókuszpont"
 
-# # 1 more: ./plone_content/image_view.pt
+# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
 #: osha.policy:/missing_18n_labels.py:500
-msgid "label_size"
-msgstr "Méret"
+msgid "label_publisher"
+msgstr "Közlő"
 
-# Default "Slovakia"
 #: osha.policy:/missing_18n_labels.py:501
-msgid "label_slovakia"
-msgstr "Szlovákia"
+msgid "label_publishing_effective"
+msgstr "érvényes"
 
-# Default "Slovenia"
 #: osha.policy:/missing_18n_labels.py:502
-msgid "label_slovenia"
-msgstr "Szlovénia"
+msgid "label_purpose"
+msgstr " Ezt szeretném küldeni:"
 
-# Default "Spain"
+# Default "Romania"
 #: osha.policy:/missing_18n_labels.py:503
-msgid "label_spain"
-msgstr "Spanyolország"
+msgid "label_romania"
+msgstr "Románia"
 
 #: osha.policy:/missing_18n_labels.py:504
-msgid "label_start_time"
-msgstr "Kezdés ideje"
+msgid "label_sector"
+msgstr "Szektor"
 
 #: osha.policy:/missing_18n_labels.py:505
-msgid "label_surname"
-msgstr "Előnév"
+msgid "label_see_also"
+msgstr "Lásd még"
 
-# Default "Sweden"
+# # 1 more: ./plone_templates/folder_contents.pt
 #: osha.policy:/missing_18n_labels.py:506
-msgid "label_sweden"
-msgstr "Svédország"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:654
+msgid "label_select"
+msgstr "Kijelölés"
 
-# Default "Switzerland"
 #: osha.policy:/missing_18n_labels.py:507
-msgid "label_switzerland"
-msgstr "Svájc"
+msgid "label_send_from"
+msgstr "Innen:"
 
 #: osha.policy:/missing_18n_labels.py:508
-msgid "label_time"
-msgstr "Idő"
+msgid "label_send_to_mail"
+msgstr "Küldés ide:"
 
-# # 6 more: ./plone_content/event_edit_form.cpt,
-# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
-# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
-# ./plone_forms/search_form.pt
+# Default "Serbia"
 #: osha.policy:/missing_18n_labels.py:509
-msgid "label_title"
-msgstr "Cím"
+msgid "label_serbia"
+msgstr "Szerbia"
 
 # Default "Slovakian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2530,50 +2523,55 @@ msgstr "Cím"
 msgid "heading_main_fop_portlet_slovakia"
 msgstr "Szlovák fókuszpont"
 
+# # 1 more: ./plone_content/image_view.pt
 #: osha.policy:/missing_18n_labels.py:510
-msgid "label_topics_of_interest"
-msgstr "Érdekes témák"
+msgid "label_size"
+msgstr "Méret"
 
-# Default "Turkey"
+# Default "Slovakia"
 #: osha.policy:/missing_18n_labels.py:511
-msgid "label_turkey"
-msgstr "Törökország"
+msgid "label_slovakia"
+msgstr "Szlovákia"
 
-# # 1 more: ./plone_forms/folder_localrole_form.pt
+# Default "Slovenia"
 #: osha.policy:/missing_18n_labels.py:512
-msgid "label_type"
-msgstr "Típus"
+msgid "label_slovenia"
+msgstr "Szlovénia"
 
-# Default "United Kingdom"
+# Default "Spain"
 #: osha.policy:/missing_18n_labels.py:513
-msgid "label_united_kingdom"
-msgstr "Egyesült Királyság"
+msgid "label_spain"
+msgstr "Spanyolország"
 
 #: osha.policy:/missing_18n_labels.py:514
-msgid "language"
-msgstr "Nyelv"
+msgid "label_start_time"
+msgstr "Kezdés ideje"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:515
-msgid "language_help"
-msgstr "Jelölje ki az Ön nyelvét."
+msgid "label_surname"
+msgstr "Előnév"
 
+# Default "Sweden"
 #: osha.policy:/missing_18n_labels.py:516
-msgid "legend_alert_searchquery"
-msgstr "Keresőkifejezéssel kapcsolatos figyelmeztetés"
+msgid "label_sweden"
+msgstr "Svédország"
 
+# Default "Switzerland"
 #: osha.policy:/missing_18n_labels.py:517
-msgid "legend_profession"
-msgstr "Szakma"
+msgid "label_switzerland"
+msgstr "Svájc"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:518
-msgid "legend_search_global"
-msgstr "Globális keresés"
+msgid "label_time"
+msgstr "Idő"
 
+# # 6 more: ./plone_content/event_edit_form.cpt,
+# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
+# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
+# ./plone_forms/search_form.pt
 #: osha.policy:/missing_18n_labels.py:519
-msgid "link_address"
-msgstr "A link címe:"
+msgid "label_title"
+msgstr "Cím"
 
 # Default "Slovenian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2581,48 +2579,50 @@ msgstr "A link címe:"
 msgid "heading_main_fop_portlet_slovenia"
 msgstr "Szlovén fókuszpont"
 
-# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:520
-msgid "link_breadcrumbs_home"
-msgstr "Kezdőlap"
+msgid "label_topics_of_interest"
+msgstr "Érdekes témák"
 
-# # 1 more:
-# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+# Default "Turkey"
 #: osha.policy:/missing_18n_labels.py:521
-msgid "link_page_top"
-msgstr "Lap teteje"
+msgid "label_turkey"
+msgstr "Törökország"
 
+# # 1 more: ./plone_forms/folder_localrole_form.pt
 #: osha.policy:/missing_18n_labels.py:522
-msgid "link_report_link"
-msgstr "Nem működő linkről szóló jelentés a portál csapatának "
+msgid "label_type"
+msgstr "Típus"
 
+# Default "United Kingdom"
 #: osha.policy:/missing_18n_labels.py:523
-msgid "list_portlet_personalise_1"
-msgstr "választott nyelven"
+msgid "label_united_kingdom"
+msgstr "Egyesült Királyság"
 
 #: osha.policy:/missing_18n_labels.py:524
-msgid "list_portlet_personalise_2"
-msgstr "kiválasztott országokban"
+msgid "language"
+msgstr "Nyelv"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:525
-msgid "list_portlet_personalise_3"
-msgstr "vitafórumok való részvétel"
+msgid "language_help"
+msgstr "Jelölje ki az Ön nyelvét."
 
 #: osha.policy:/missing_18n_labels.py:526
-msgid "list_portlet_personalise_4"
-msgstr "kedvenc témaköreinek új fejleményeiről"
+msgid "legend_alert_searchquery"
+msgstr "Keresőkifejezéssel kapcsolatos figyelmeztetés"
 
 #: osha.policy:/missing_18n_labels.py:527
-msgid "listingheader_action"
-msgstr "Tevékenység"
+msgid "legend_profession"
+msgstr "Szakma"
 
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:528
-msgid "listingheader_articles"
-msgstr "Cikkek"
+msgid "legend_search_global"
+msgstr "Globális keresés"
 
 #: osha.policy:/missing_18n_labels.py:529
-msgid "listingheader_articlesandreplies"
-msgstr "Cikkek"
+msgid "link_address"
+msgstr "A link címe:"
 
 # Default "Spanish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2630,48 +2630,48 @@ msgstr "Cikkek"
 msgid "heading_main_fop_portlet_spain"
 msgstr "Spanyol fókuszpont"
 
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:530
-msgid "listingheader_author"
-msgstr "Szerző"
+msgid "link_breadcrumbs_home"
+msgstr "Kezdőlap"
 
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
 #: osha.policy:/missing_18n_labels.py:531
-msgid "listingheader_comment"
-msgstr "Megjegyzés"
+msgid "link_page_top"
+msgstr "Lap teteje"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
 #: osha.policy:/missing_18n_labels.py:532
-msgid "listingheader_date"
-msgstr "Dátum"
+msgid "link_report_link"
+msgstr "Nem működő linkről szóló jelentés a portál csapatának "
 
 #: osha.policy:/missing_18n_labels.py:533
-msgid "listingheader_date_and_time"
-msgstr "Dátum és idő"
+msgid "list_portlet_personalise_1"
+msgstr "választott nyelven"
 
-# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:534
-msgid "listingheader_latestchanges"
-msgstr "Legújabb módosítások"
+msgid "list_portlet_personalise_2"
+msgstr "kiválasztott országokban"
 
-# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
 #: osha.policy:/missing_18n_labels.py:535
-msgid "listingheader_name"
-msgstr "Név"
+msgid "list_portlet_personalise_3"
+msgstr "vitafórumok való részvétel"
 
 #: osha.policy:/missing_18n_labels.py:536
-msgid "listingheader_newsletter_sentby"
-msgstr "Küldte:"
+msgid "list_portlet_personalise_4"
+msgstr "kedvenc témaköreinek új fejleményeiről"
 
 #: osha.policy:/missing_18n_labels.py:537
-msgid "listingheader_newsletter_senton"
-msgstr "Továbbküldve"
+msgid "listingheader_action"
+msgstr "Tevékenység"
 
 #: osha.policy:/missing_18n_labels.py:538
-msgid "listingheader_order"
-msgstr "Megrendelés"
+msgid "listingheader_articles"
+msgstr "Cikkek"
 
 #: osha.policy:/missing_18n_labels.py:539
-msgid "listingheader_owner"
-msgstr "Tulajdonos"
+msgid "listingheader_articlesandreplies"
+msgstr "Cikkek"
 
 # Default "Swedish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2680,44 +2680,47 @@ msgid "heading_main_fop_portlet_sweden"
 msgstr "Svéd fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:540
-msgid "listingheader_performed_by"
-msgstr "Teljesítette"
+msgid "listingheader_author"
+msgstr "Szerző"
 
 #: osha.policy:/missing_18n_labels.py:541
-msgid "listingheader_priority"
-msgstr "Elsőbbség"
+msgid "listingheader_comment"
+msgstr "Megjegyzés"
 
+# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
 #: osha.policy:/missing_18n_labels.py:542
-msgid "listingheader_replies"
-msgstr "Válaszol"
+msgid "listingheader_date"
+msgstr "Dátum"
 
 #: osha.policy:/missing_18n_labels.py:543
-msgid "listingheader_status"
-msgstr "Státusz"
+msgid "listingheader_date_and_time"
+msgstr "Dátum és idő"
 
+# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:544
-msgid "listingheader_title"
-msgstr "Cím"
+msgid "listingheader_latestchanges"
+msgstr "Legújabb módosítások"
 
+# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
 #: osha.policy:/missing_18n_labels.py:545
-msgid "listingheader_type"
-msgstr "Típus"
+msgid "listingheader_name"
+msgstr "Név"
 
 #: osha.policy:/missing_18n_labels.py:546
-msgid "locked"
-msgstr "zárva"
+msgid "listingheader_newsletter_sentby"
+msgstr "Küldte:"
 
 #: osha.policy:/missing_18n_labels.py:547
-msgid "march"
-msgstr "március"
+msgid "listingheader_newsletter_senton"
+msgstr "Továbbküldve"
 
 #: osha.policy:/missing_18n_labels.py:548
-msgid "may"
-msgstr "május"
+msgid "listingheader_order"
+msgstr "Megrendelés"
 
 #: osha.policy:/missing_18n_labels.py:549
-msgid "minute"
-msgstr "perc"
+msgid "listingheader_owner"
+msgstr "Tulajdonos"
 
 # Default "Swiss Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2725,48 +2728,45 @@ msgstr "perc"
 msgid "heading_main_fop_portlet_switzerland"
 msgstr "Svájci fókuszpont"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:550
-msgid "month"
-msgstr "hónap"
+msgid "listingheader_performed_by"
+msgstr "Teljesítette"
 
 #: osha.policy:/missing_18n_labels.py:551
-msgid "monthly"
-msgstr "havonta"
+msgid "listingheader_priority"
+msgstr "Elsőbbség"
 
 #: osha.policy:/missing_18n_labels.py:552
-msgid "needed"
-msgstr "kötelező"
+msgid "listingheader_replies"
+msgstr "Válaszol"
 
-# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
-# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
 #: osha.policy:/missing_18n_labels.py:553
-msgid "news_by"
-msgstr "által"
+msgid "listingheader_status"
+msgstr "Státusz"
 
 #: osha.policy:/missing_18n_labels.py:554
-msgid "next"
-msgstr "következő"
+msgid "listingheader_title"
+msgstr "Cím"
 
 #: osha.policy:/missing_18n_labels.py:555
-msgid "no_alerts"
-msgstr "Ön semmilyen értesítést nem regisztrált."
+msgid "listingheader_type"
+msgstr "Típus"
 
 #: osha.policy:/missing_18n_labels.py:556
-msgid "no_subject"
-msgstr "[Nincs téma]"
+msgid "locked"
+msgstr "zárva"
 
 #: osha.policy:/missing_18n_labels.py:557
-msgid "not allowed"
-msgstr "nincs engedélyezve"
+msgid "march"
+msgstr "március"
 
 #: osha.policy:/missing_18n_labels.py:558
-msgid "notification_email"
-msgstr "Értesítés tartalmazó e-mail"
+msgid "may"
+msgstr "május"
 
 #: osha.policy:/missing_18n_labels.py:559
-msgid "november"
-msgstr "november"
+msgid "minute"
+msgstr "perc"
 
 # Default "Macedonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2774,44 +2774,48 @@ msgstr "november"
 msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
 msgstr "Macedón fókuszpont"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:560
-msgid "october"
-msgstr "október"
+msgid "month"
+msgstr "hónap"
 
 #: osha.policy:/missing_18n_labels.py:561
-msgid "osha_description_pressbox_pressreleases"
-msgstr "These are our press releases:"
+msgid "monthly"
+msgstr "havonta"
 
 #: osha.policy:/missing_18n_labels.py:562
-msgid "osha_discovernetwork_info"
-msgstr "Ismerje meg európai és nemzetközi partnereinket!"
+msgid "needed"
+msgstr "kötelező"
 
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
 #: osha.policy:/missing_18n_labels.py:563
-msgid "osha_informationportlet_link"
-msgstr "Európai Munkavédelmi Ügynökség"
+msgid "news_by"
+msgstr "által"
 
-# Press Room
+#: osha.policy:/missing_18n_labels.py:564
+msgid "next"
+msgstr "következő"
+
 #: osha.policy:/missing_18n_labels.py:565
-msgid "osha_label_press_room"
-msgstr "Sajtószoba"
+msgid "no_alerts"
+msgstr "Ön semmilyen értesítést nem regisztrált."
 
 #: osha.policy:/missing_18n_labels.py:566
-msgid "osha_networkportlet_info"
-msgstr ""
-"Hálózatunk olyan honlapokat tartalmaz, amelyek világszerte nemzeti és "
-"intézményi MBE-információt szolgáltatnak"
+msgid "no_subject"
+msgstr "[Nincs téma]"
 
 #: osha.policy:/missing_18n_labels.py:567
-msgid "osha_networkportlet_link"
-msgstr "A partnerek honlapjainak megmutatása"
+msgid "not allowed"
+msgstr "nincs engedélyezve"
 
 #: osha.policy:/missing_18n_labels.py:568
-msgid "oshmail_header_subscribe"
-msgstr "feliratkozás az oshmailre"
+msgid "notification_email"
+msgstr "Értesítés tartalmazó e-mail"
 
 #: osha.policy:/missing_18n_labels.py:569
-msgid "oshmail_header_unsubscribe"
-msgstr "leiratkozás az oshmailről"
+msgid "november"
+msgstr "november"
 
 # Default "Turkish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2820,51 +2824,43 @@ msgid "heading_main_fop_portlet_turkey"
 msgstr "Török fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:570
-msgid "oshmail_intro_every_month"
-msgstr ""
-"Az ${oshmail} minden hónapban a munkahelyi biztonság és egészségvédelem "
-"területének legújabb fejleményeiről ad tájékoztatást:"
+msgid "october"
+msgstr "október"
 
 #: osha.policy:/missing_18n_labels.py:571
-msgid "oshmail_intro_welcome"
-msgstr ""
-"Üdvözli Önt az ${oshmail}, az Európai Munkahelyi Biztonsági és "
-"Egészségvédelmi Ügynökség elektronikus hírlevele."
+msgid "osha_description_pressbox_pressreleases"
+msgstr "These are our press releases:"
 
 #: osha.policy:/missing_18n_labels.py:572
-msgid "oshmail_label_enter_emaiL"
-msgstr "itt adja meg e-mail címét"
+msgid "osha_discovernetwork_info"
+msgstr "Ismerje meg európai és nemzetközi partnereinket!"
 
 #: osha.policy:/missing_18n_labels.py:573
-msgid "oshmail_list_1"
-msgstr ""
-"a legfrissebb biztonsági és egészségvédelmi hírekről a világ minden tájáról;"
+msgid "osha_informationportlet_link"
+msgstr "Európai Munkavédelmi Ügynökség"
 
-#: osha.policy:/missing_18n_labels.py:574
-msgid "oshmail_list_3"
-msgstr ""
-"az Ügynökség által szervezett kampányokra és tevékenységekre vonatkozó friss "
-"információkról;"
-
+# Press Room
 #: osha.policy:/missing_18n_labels.py:575
-msgid "oshmail_list_4"
-msgstr "a közelgő eseményekről;"
+msgid "osha_label_press_room"
+msgstr "Sajtószoba"
 
 #: osha.policy:/missing_18n_labels.py:576
-msgid "oshmail_list_5"
-msgstr "az Ügynökség legfrissebb kiadványairól;"
+msgid "osha_networkportlet_info"
+msgstr ""
+"Hálózatunk olyan honlapokat tartalmaz, amelyek világszerte nemzeti és "
+"intézményi MBE-információt szolgáltatnak"
 
 #: osha.policy:/missing_18n_labels.py:577
-msgid "oshmail_list_6"
-msgstr "az uniós jogszabályokkal kapcsolatos friss információkról;"
+msgid "osha_networkportlet_link"
+msgstr "A partnerek honlapjainak megmutatása"
 
 #: osha.policy:/missing_18n_labels.py:578
-msgid "oshmail_list_7"
-msgstr "24 nyelven ..."
+msgid "oshmail_header_subscribe"
+msgstr "feliratkozás az oshmailre"
 
 #: osha.policy:/missing_18n_labels.py:579
-msgid "portlet_campaign_ew2007_title"
-msgstr "Európai kampány 2007"
+msgid "oshmail_header_unsubscribe"
+msgstr "leiratkozás az oshmailről"
 
 # Default "British Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2873,47 +2869,51 @@ msgid "heading_main_fop_portlet_united-kingdom"
 msgstr "Brit fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:580
-msgid "portlet_campaign_hwi_text"
-msgstr "Jó Önnek és jó a vállalkozásának is"
+msgid "oshmail_intro_every_month"
+msgstr ""
+"Az ${oshmail} minden hónapban a munkahelyi biztonság és egészségvédelem "
+"területének legújabb fejleményeiről ad tájékoztatást:"
 
 #: osha.policy:/missing_18n_labels.py:581
-msgid "portlet_campaign_hwi_title"
-msgstr "Egészséges Munkahely Kezdeményezés"
+msgid "oshmail_intro_welcome"
+msgstr ""
+"Üdvözli Önt az ${oshmail}, az Európai Munkahelyi Biztonsági és "
+"Egészségvédelmi Ügynökség elektronikus hírlevele."
 
 #: osha.policy:/missing_18n_labels.py:582
-msgid "portlet_oshmail_email"
-msgstr "e-mail cím"
+msgid "oshmail_label_enter_emaiL"
+msgstr "itt adja meg e-mail címét"
 
 #: osha.policy:/missing_18n_labels.py:583
-msgid "portlet_oshsearch_advanced"
-msgstr "Összetett keresés"
+msgid "oshmail_list_1"
+msgstr ""
+"a legfrissebb biztonsági és egészségvédelmi hírekről a világ minden tájáról;"
 
-# Anticipating Change
 #: osha.policy:/missing_18n_labels.py:584
-msgid "portlet_riskob_text"
-msgstr "A változás megelőzése"
+msgid "oshmail_list_3"
+msgstr ""
+"az Ügynökség által szervezett kampányokra és tevékenységekre vonatkozó friss "
+"információkról;"
 
 #: osha.policy:/missing_18n_labels.py:585
-msgid "results_by_author"
-msgstr "Készítette: ${author} , ${date}"
+msgid "oshmail_list_4"
+msgstr "a közelgő eseményekről;"
 
 #: osha.policy:/missing_18n_labels.py:586
-msgid "role_equivalence"
-msgstr "Szerepköri megfelelések"
+msgid "oshmail_list_5"
+msgstr "az Ügynökség legfrissebb kiadványairól;"
 
-# # 1 more:
-# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
 #: osha.policy:/missing_18n_labels.py:587
-msgid "schedule"
-msgstr "Terv"
+msgid "oshmail_list_6"
+msgstr "az uniós jogszabályokkal kapcsolatos friss információkról;"
 
 #: osha.policy:/missing_18n_labels.py:588
-msgid "search_criteria"
-msgstr " Keresési kritériumok"
+msgid "oshmail_list_7"
+msgstr "24 nyelven ..."
 
 #: osha.policy:/missing_18n_labels.py:589
-msgid "search_date"
-msgstr "Dátum"
+msgid "portlet_campaign_ew2007_title"
+msgstr "Európai kampány 2007"
 
 # Default "Back to the Focal Points overview"
 #: osha.policy:/missing_18n_labels.py:59
@@ -2921,129 +2921,129 @@ msgid "label_back_to_fop_overview"
 msgstr "Vissza az áttekintéshez a fókuszpontok"
 
 #: osha.policy:/missing_18n_labels.py:590
+msgid "portlet_campaign_hwi_text"
+msgstr "Jó Önnek és jó a vállalkozásának is"
+
+#: osha.policy:/missing_18n_labels.py:591
+msgid "portlet_campaign_hwi_title"
+msgstr "Egészséges Munkahely Kezdeményezés"
+
+#: osha.policy:/missing_18n_labels.py:592
+msgid "portlet_oshmail_email"
+msgstr "e-mail cím"
+
+#: osha.policy:/missing_18n_labels.py:593
+msgid "portlet_oshsearch_advanced"
+msgstr "Összetett keresés"
+
+# Anticipating Change
+#: osha.policy:/missing_18n_labels.py:594
+msgid "portlet_riskob_text"
+msgstr "A változás megelőzése"
+
+#: osha.policy:/missing_18n_labels.py:595
+msgid "results_by_author"
+msgstr "Készítette: ${author} , ${date}"
+
+#: osha.policy:/missing_18n_labels.py:596
+msgid "role_equivalence"
+msgstr "Szerepköri megfelelések"
+
+# # 1 more:
+# ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
+#: osha.policy:/missing_18n_labels.py:597
+msgid "schedule"
+msgstr "Terv"
+
+#: osha.policy:/missing_18n_labels.py:598
+msgid "search_criteria"
+msgstr " Keresési kritériumok"
+
+#: osha.policy:/missing_18n_labels.py:599
+msgid "search_date"
+msgstr "Dátum"
+
+#: osha.policy:/missing_18n_labels.py:600
 msgid "search_in"
 msgstr "Keresés a következőben:"
 
-#: osha.policy:/missing_18n_labels.py:591
+#: osha.policy:/missing_18n_labels.py:601
 msgid "search_in_folder"
 msgstr "Mappában"
 
-#: osha.policy:/missing_18n_labels.py:592
+#: osha.policy:/missing_18n_labels.py:602
 msgid "search_link"
 msgstr "Keresés"
 
-#: osha.policy:/missing_18n_labels.py:593
+#: osha.policy:/missing_18n_labels.py:603
 msgid "search_results_advanced"
 msgstr ""
 "Nem találta meg, amit keres? Próbálkozzon  a ${összetett_keresővel } a "
 "pontosabb keresési lehetőségek miatt."
 
-#: osha.policy:/missing_18n_labels.py:594
+#: osha.policy:/missing_18n_labels.py:604
 msgid "search_term"
 msgstr "Keresési feltétel"
 
-#: osha.policy:/missing_18n_labels.py:595
+#: osha.policy:/missing_18n_labels.py:605
 msgid "searchresults"
 msgstr "Találatok"
 
-#: osha.policy:/missing_18n_labels.py:596
+#: osha.policy:/missing_18n_labels.py:606
 msgid "september"
 msgstr "szeptember"
 
-#: osha.policy:/missing_18n_labels.py:597
+#: osha.policy:/missing_18n_labels.py:607
 msgid "show next day"
 msgstr "a következő nap megjelenítése"
 
-#: osha.policy:/missing_18n_labels.py:598
+#: osha.policy:/missing_18n_labels.py:608
 msgid "show next month"
 msgstr " a következő hónap megjelenítése "
 
-#: osha.policy:/missing_18n_labels.py:599
+#: osha.policy:/missing_18n_labels.py:609
 msgid "show next week"
 msgstr " a következő hét megjelenítése "
 
-#: osha.policy:/missing_18n_labels.py:600
+#: osha.policy:/missing_18n_labels.py:610
 msgid "show next year"
 msgstr " a következő év megjelenítése "
 
-#: osha.policy:/missing_18n_labels.py:601
+#: osha.policy:/missing_18n_labels.py:611
 msgid "show previous day"
 msgstr "az előző nap megjelenítése"
 
-#: osha.policy:/missing_18n_labels.py:602
+#: osha.policy:/missing_18n_labels.py:612
 msgid "show previous month"
 msgstr " az előző hónap megjelenítése "
 
-#: osha.policy:/missing_18n_labels.py:603
+#: osha.policy:/missing_18n_labels.py:613
 msgid "show previous week"
 msgstr " az előző hét megjelenítése "
 
-#: osha.policy:/missing_18n_labels.py:604
+#: osha.policy:/missing_18n_labels.py:614
 msgid "show previous year"
 msgstr " az előző év megjelenítése "
 
-#: osha.policy:/missing_18n_labels.py:605
+#: osha.policy:/missing_18n_labels.py:615
 msgid "sign the charter"
 msgstr "írja alá a chartát!"
 
-#: osha.policy:/missing_18n_labels.py:606
+#: osha.policy:/missing_18n_labels.py:616
 msgid "since"
 msgstr "óta"
 
-#: osha.policy:/missing_18n_labels.py:607
+#: osha.policy:/missing_18n_labels.py:617
 msgid "slogan_statment_hw2010_campaign"
 msgstr "Európai kampány a biztonságos karbantartásról"
 
-#: osha.policy:/missing_18n_labels.py:608
+#: osha.policy:/missing_18n_labels.py:618
 msgid "source"
 msgstr "forrás"
 
-#: osha.policy:/missing_18n_labels.py:609
+#: osha.policy:/missing_18n_labels.py:619
 msgid "subheading_portlet_contents"
 msgstr "Portlet tartalma"
-
-#: osha.policy:/missing_18n_labels.py:610
-msgid "subheading_portlet_representation"
-msgstr "Portlet-doboz ábrázolása"
-
-#: osha.policy:/missing_18n_labels.py:611
-msgid "subject"
-msgstr "téma"
-
-#: osha.policy:/missing_18n_labels.py:612
-msgid "subscribe_to_oshmail_long"
-msgstr ""
-"Kövesse a munkahelyi biztonsággal és egészséggel kapcsolatos fejleményeket. "
-"${Subscribe} a havi újdonságokért."
-
-# # 1 more: ./plone_templates/global_pathbar.pt
-#: osha.policy:/missing_18n_labels.py:613
-msgid "tabs_home"
-msgstr "Kezdőlap"
-
-#: osha.policy:/missing_18n_labels.py:614
-msgid "title"
-msgstr "Cím"
-
-#: osha.policy:/missing_18n_labels.py:615
-msgid "title_add_to_ical"
-msgstr "Az elem hozzáadása az iCal naptárhoz"
-
-#: osha.policy:/missing_18n_labels.py:616
-msgid "title_add_to_vcal"
-msgstr "Az elem hozzáadása a vCal naptárhoz"
-
-#: osha.policy:/missing_18n_labels.py:617
-msgid "title_agency"
-msgstr "Európai Munkahelyi<br />Biztonsági és Egészségvédelmi<br />Ügynökség"
-
-#: osha.policy:/missing_18n_labels.py:618
-msgid "title_campaign_beinformed"
-msgstr "Tájékozódjon"
-
-#: osha.policy:/missing_18n_labels.py:619
-msgid "title_speaker"
-msgstr "Felszólaló"
 
 #: osha.policy:/missing_18n_labels.py:62
 msgid "description_napo-015-safe-moves"
@@ -3064,29 +3064,47 @@ msgstr ""
 "kockázatokat csökkentsük és a veszélyeket megfelelően kezeljük.</p>"
 
 #: osha.policy:/missing_18n_labels.py:620
-msgid "to"
-msgstr "Részére"
+msgid "subheading_portlet_representation"
+msgstr "Portlet-doboz ábrázolása"
 
 #: osha.policy:/missing_18n_labels.py:621
-msgid "total_messages"
-msgstr "Üzenetek száma"
+msgid "subject"
+msgstr "téma"
 
 #: osha.policy:/missing_18n_labels.py:622
-msgid "type your query"
-msgstr "írja be keresőkifejezését"
+msgid "subscribe_to_oshmail_long"
+msgstr ""
+"Kövesse a munkahelyi biztonsággal és egészséggel kapcsolatos fejleményeket. "
+"${Subscribe} a havi újdonságokért."
 
+# # 1 more: ./plone_templates/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:623
-msgid "visible"
-msgstr "megmutat"
+msgid "tabs_home"
+msgstr "Kezdőlap"
 
 #: osha.policy:/missing_18n_labels.py:624
-msgid "weekly"
-msgstr "hetente"
+msgid "title"
+msgstr "Cím"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:625
-msgid "year"
-msgstr "Év"
+msgid "title_add_to_ical"
+msgstr "Az elem hozzáadása az iCal naptárhoz"
+
+#: osha.policy:/missing_18n_labels.py:626
+msgid "title_add_to_vcal"
+msgstr "Az elem hozzáadása a vCal naptárhoz"
+
+#: osha.policy:/missing_18n_labels.py:627
+msgid "title_agency"
+msgstr "Európai Munkahelyi<br />Biztonsági és Egészségvédelmi<br />Ügynökség"
+
+#: osha.policy:/missing_18n_labels.py:628
+msgid "title_campaign_beinformed"
+msgstr "Tájékozódjon"
+
+#: osha.policy:/missing_18n_labels.py:629
+msgid "title_speaker"
+msgstr "Felszólaló"
 
 #: osha.policy:/missing_18n_labels.py:63
 msgid "description_napo-016-lungs-at-work"
@@ -3098,6 +3116,31 @@ msgstr ""
 "kimenetelű is lehet. Mégis munkavállalók ezrei lélegeznek be dohányfüstöt "
 "munkahelyükön. Ebben a rövid videoklipben Napo egyedi módon járul hozzá a "
 "füstmentes munkahelyek megteremtéséhez."
+
+#: osha.policy:/missing_18n_labels.py:630
+msgid "to"
+msgstr "Részére"
+
+#: osha.policy:/missing_18n_labels.py:631
+msgid "total_messages"
+msgstr "Üzenetek száma"
+
+#: osha.policy:/missing_18n_labels.py:632
+msgid "type your query"
+msgstr "írja be keresőkifejezését"
+
+#: osha.policy:/missing_18n_labels.py:633
+msgid "visible"
+msgstr "megmutat"
+
+#: osha.policy:/missing_18n_labels.py:634
+msgid "weekly"
+msgstr "hetente"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:635
+msgid "year"
+msgstr "Év"
 
 #: osha.policy:/missing_18n_labels.py:64
 msgid "description_napo-017-working-together"
@@ -3430,13 +3473,14 @@ msgstr "A biztonság megéri!"
 msgid "heading_napo-017-working-together-episode-007-all-together-now"
 msgstr "És most együtt!"
 
+#. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
-msgid "label_napo_click_to_see_film"
-msgstr "Click the image to see the film..."
+msgid "heading_napo-018-no-laughing-matter"
+msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:99
-msgid "napo_back_to_lesson"
-msgstr "Vissza a leckéhez"
+msgid "description_napo-018-no-laughing-matter"
+msgstr ""
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
@@ -3458,6 +3502,28 @@ msgstr "Az elem rövid leírása."
 #: osha.policy:/skins/osha_content/index_topic.pt:19
 msgid "feature_back_to_mainpage"
 msgstr "Vissza a ${title} főoldalra"
+
+# # 1 more: ./plone_forms/search.pt
+#. Default: "No results were found."
+#: osha.policy:/skins/osha_content/index_topic.pt:21
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
+#: osha.theme:/browser/templates/index_provider.pt:140
+#: osha.theme:/browser/templates/dbfilter.pt:185
+#: osha.theme:/browser/templates/rofilter.pt:111
+#: osha.theme:/browser/templates/index_oshlink.pt:139
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
+#: osha.theme:/browser/templates/index_ralink.pt:140
+#: osha.theme:/browser/templates/worklist.pt:160
+#: osha.theme:/browser/templates/index_casestudy.pt:140
+#: osha.theme:/browser/templates/practical_solutions.pt:78
+#: osha.theme:/browser/templates/search_ro.pt:24
+#: osha.theme:/browser/templates/publicationsearch.pt:111
+#: osha.theme:/browser/templates/atoz.pt:147
+#: osha.theme:/browser/templates/practical_solution.pt:205
+#: osha.theme:/browser/templates/index_directive.pt:178
+msgid "description_no_results_found"
+msgstr "Nincs találat."
 
 #. Default: "Search the Link Database on"
 #: osha.policy:/skins/osha_content/sep_view.pt:45
@@ -3550,6 +3616,17 @@ msgstr ""
 msgid "label_any_language"
 msgstr "Bármely nyelv"
 
+# # 1 more: ./plone_forms/search.pt
+#. Default: "${number} items match your criteria."
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
+#: osha.theme:/browser/templates/dbfilter.pt:178
+#: osha.theme:/browser/templates/publicationsearch.pt:98
+#: osha.theme:/browser/templates/atoz.pt:139
+#: osha.theme:/browser/templates/practical_solution.pt:197
+msgid "batch_x_items_matching_your_criteria"
+msgstr "kritériumainak ${number} elem felel meg "
+
 #. Default: "Search Text"
 #: osha.policy:/skins/osha_templates/casestudy_db_view.pt:70
 msgid "label_search_text"
@@ -3568,51 +3645,18 @@ msgstr ""
 # ./plone_forms/member_search_results.pt, ./plone_forms/search.pt
 #. Default: "Search results"
 #: osha.policy:/skins/osha_templates/worklist_filter.pt:158
+#: osha.theme:/browser/templates/index_provider.pt:128
 #: osha.theme:/browser/templates/dbfilter.pt:172
 #: osha.theme:/browser/templates/rofilter.pt:99
 #: osha.theme:/browser/templates/index_oshlink.pt:128
-#: osha.theme:/browser/templates/index_casestudy.pt:128
 #: osha.theme:/browser/templates/index_ralink.pt:128
-#: osha.theme:/browser/templates/practical_solution.pt:190
-#: osha.theme:/browser/templates/index_provider.pt:128
 #: osha.theme:/browser/templates/worklist.pt:148
+#: osha.theme:/browser/templates/index_casestudy.pt:128
 #: osha.theme:/browser/templates/atoz.pt:129
+#: osha.theme:/browser/templates/practical_solution.pt:190
 #: osha.theme:/browser/templates/index_directive.pt:166
 msgid "heading_search_results"
 msgstr "Találatok"
-
-# # 1 more: ./plone_forms/search.pt
-#. Default: "${number} items match your criteria."
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
-#: osha.theme:/browser/templates/dbfilter.pt:178
-#: osha.theme:/browser/templates/practical_solution.pt:197
-#: osha.theme:/browser/templates/publicationsearch.pt:98
-#: osha.theme:/browser/templates/atoz.pt:139
-msgid "batch_x_items_matching_your_criteria"
-msgstr "kritériumainak ${number} elem felel meg "
-
-# # 1 more: ./plone_forms/search.pt
-#. Default: "No results were found."
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
-#: osha.policy:/skins/osha_content/index_topic.pt:21
-#: osha.theme:/browser/templates/dbfilter.pt:185
-#: osha.theme:/browser/templates/rofilter.pt:111
-#: osha.theme:/browser/templates/index_oshlink.pt:139
-#: osha.theme:/browser/templates/search_ro.pt:24
-#: osha.theme:/browser/templates/index_casestudy.pt:140
-#: osha.theme:/browser/templates/index_ralink.pt:140
-#: osha.theme:/browser/templates/practical_solution.pt:205
-#: osha.theme:/browser/templates/publicationsearch.pt:111
-#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
-#: osha.theme:/browser/templates/index_provider.pt:140
-#: osha.theme:/browser/templates/worklist.pt:160
-#: osha.theme:/browser/templates/atoz.pt:147
-#: osha.theme:/browser/templates/practical_solutions.pt:78
-#: osha.theme:/browser/templates/index_directive.pt:178
-msgid "description_no_results_found"
-msgstr "Nincs találat."
 
 #: osha.searchurls:/browser/search_urls.py:123
 #: osha.searchurls:/interfaces.py:27 osha.searchurls:/interfaces.py:49
@@ -4012,7 +4056,7 @@ msgstr "Friss hírek"
 msgid "header_oshtopic_dynamic"
 msgstr ""
 
-#: osha.theme:/browser/pressroom.py:209
+#: osha.theme:/browser/pressroom.py:214
 msgid "Configure this Press Room"
 msgstr ""
 
@@ -4034,6 +4078,12 @@ msgstr "EU-OSHA in the media"
 #. Default: "The EU-OSHA Blog"
 #: osha.theme:/browser/rssfeeds.py:97
 msgid "eu_osha_blog"
+msgstr ""
+
+#. Default: "Click a term to display the results."
+#: osha.theme:/browser/templates/atoz.pt:118
+#: osha.theme:/browser/templates/index_alphabetical.pt:80
+msgid "info_no_results"
 msgstr ""
 
 #. Default: "x ${start_day_name}"
@@ -4083,26 +4133,6 @@ msgstr ""
 msgid "label_search_database"
 msgstr ""
 
-#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-#: osha.theme:/browser/templates/dbfilter.pt:55
-#: osha.theme:/browser/templates/index_oshlink.pt:48
-#: osha.theme:/browser/templates/index_casestudy.pt:48
-#: osha.theme:/browser/templates/index_ralink.pt:48
-#: osha.theme:/browser/templates/index_provider.pt:48
-#: osha.theme:/browser/templates/index_directive.pt:54
-msgid "help_database_filter_topic"
-msgstr ""
-
-#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-#: osha.theme:/browser/templates/dbfilter.pt:60
-#: osha.theme:/browser/templates/index_oshlink.pt:53
-#: osha.theme:/browser/templates/index_casestudy.pt:53
-#: osha.theme:/browser/templates/index_ralink.pt:53
-#: osha.theme:/browser/templates/index_provider.pt:53
-#: osha.theme:/browser/templates/index_directive.pt:59
-msgid "help_database_filter"
-msgstr ""
-
 #. Default: "Database"
 #: osha.theme:/browser/templates/dbfilter.pt:88
 #: osha.theme:/browser/templates/worklist.pt:73
@@ -4144,12 +4174,6 @@ msgstr "Fordítások"
 #: osha.theme:/browser/templates/index_alphabetical.pt:36
 msgid "alphabetical_index"
 msgstr "Betűrendes mutató"
-
-#. Default: "Click a term to display the results."
-#: osha.theme:/browser/templates/index_alphabetical.pt:80
-#: osha.theme:/browser/templates/atoz.pt:118
-msgid "info_no_results"
-msgstr ""
 
 #. Default: "Display information about \"${title}\""
 #: osha.theme:/browser/templates/index_alphabetical.pt:98
@@ -4194,6 +4218,26 @@ msgstr ""
 #. Default: "Search for Providers"
 #: osha.theme:/browser/templates/index_provider.pt:42
 msgid "label_search_database_providers"
+msgstr ""
+
+#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/index_provider.pt:48
+#: osha.theme:/browser/templates/dbfilter.pt:55
+#: osha.theme:/browser/templates/index_oshlink.pt:48
+#: osha.theme:/browser/templates/index_ralink.pt:48
+#: osha.theme:/browser/templates/index_casestudy.pt:48
+#: osha.theme:/browser/templates/index_directive.pt:54
+msgid "help_database_filter_topic"
+msgstr ""
+
+#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/index_provider.pt:53
+#: osha.theme:/browser/templates/dbfilter.pt:60
+#: osha.theme:/browser/templates/index_oshlink.pt:53
+#: osha.theme:/browser/templates/index_ralink.pt:53
+#: osha.theme:/browser/templates/index_casestudy.pt:53
+#: osha.theme:/browser/templates/index_directive.pt:59
+msgid "help_database_filter"
 msgstr ""
 
 #. Default: "Risk Assessment Tools on"
@@ -4297,11 +4341,6 @@ msgstr ""
 "Az egészségesebb, biztonságosabb és termelékenyebb európai munkahelyek "
 "érdekében"
 
-#. Default: "<p id=\"agency_fullname\">x</p> <h1>x</h1> <p id=\"intro_more\">x&hellip;</p>"
-#: osha.theme:/browser/templates/osha_homepage.pt:21
-msgid "portlet_more_link"
-msgstr ""
-
 #. Default: "Highlights"
 #: osha.theme:/browser/templates/osha_homepage.pt:28
 msgid "label_highlights"
@@ -4384,15 +4423,10 @@ msgid "label_previous_issues"
 msgstr "Korábbi számok"
 
 #. Default: "Show previous news"
-#: osha.theme:/browser/templates/oshnews_view_simple.pt:115
 #: osha.theme:/browser/templates/oshnews_view.pt:113
+#: osha.theme:/browser/templates/oshnews_view_simple.pt:115
 msgid "link_newsboard_previousnews"
 msgstr "Korábbi hírek megmutatása"
-
-#: osha.theme:/browser/templates/practical_solution.pt:171
-#: osha.theme:/browser/templates/publicationsearch.pt:81
-msgid "Reset"
-msgstr "Visszaállítás"
 
 #. Default: "Advanced search"
 #: osha.theme:/browser/templates/practical_solution.pt:80
@@ -4463,6 +4497,11 @@ msgstr "Az EU összes kiadványához hozzáférhet az ${link_eu_bookshop}"
 #: osha.theme:/browser/templates/publicationsearch.pt:100
 msgid "label_more_results_in_en"
 msgstr "Még több találat angol nyelven"
+
+#: osha.theme:/browser/templates/publicationsearch.pt:81
+#: osha.theme:/browser/templates/practical_solution.pt:171
+msgid "Reset"
+msgstr "Visszaállítás"
 
 #. Default: "Questions in parliament"
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:29
@@ -4612,11 +4651,6 @@ msgstr "Témák"
 msgid "portlet_alertservice_text"
 msgstr "Az Ön által kiválasztott téma aktualizálása<br/>- Iratkozzon fel -"
 
-#. Default: "subscribers"
-#: osha.theme:/portlets/alertservice.pt:26 osha.theme:/portlets/oshmail.pt:24
-msgid "box_oshmail_subscribers"
-msgstr "megrendelő"
-
 #: osha.theme:/portlets/alertservice.py:27
 #: osha.theme:/portlets/alertservice.pt:7
 msgid "Alert Service"
@@ -4701,12 +4735,6 @@ msgid ""
 "Tick this box if you want to render the text above without the standard "
 "header, border or footer."
 msgstr ""
-
-#. Default: "TBC"
-#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:41
-#: osha.theme:/browser/templates/calendar_events_list.pt:41
-msgid "abbr_date_to_be_confirmed"
-msgstr "Megerősítendő"
 
 #. Default: "European Campaign 2007"
 #: osha.theme:/portlets/ew2007.pt:7
@@ -5043,24 +5071,37 @@ msgid ""
 "optional."
 msgstr ""
 
+#. Default: "TBC"
+#: osha.theme:/portlets/oshevents.pt:41 osha.theme:/portlets/events.pt:41
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+msgid "abbr_date_to_be_confirmed"
+msgstr "Megerősítendő"
+
 #. Default: "Upcoming Events"
 #: osha.theme:/portlets/oshevents.pt:6
 msgid "box_events"
 msgstr "Közelgő események"
 
-#: osha.theme:/portlets/oshevents.py:276
-msgid "Add Events Portlet"
-msgstr ""
-
-#: osha.theme:/portlets/oshevents.py:277 osha.theme:/portlets/oshevents.py:293
-msgid "This portlet lists upcoming Events."
-msgstr ""
+#. Default: "What is RSS?"
+#: osha.theme:/portlets/oshevents.pt:75 osha.theme:/portlets/collection.pt:52
+#: osha.theme:/portlets/oshnews.pt:48
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+msgid "info_whatis_rss"
+msgstr "Mi az RSS?"
 
 #: osha.theme:/portlets/oshevents.py:28 osha.theme:/portlets/oshnews.py:25
 msgid "How many items to list."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:292
+#: osha.theme:/portlets/oshevents.py:284
+msgid "Add Events Portlet"
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:285 osha.theme:/portlets/oshevents.py:301
+msgid "This portlet lists upcoming Events."
+msgstr ""
+
+#: osha.theme:/portlets/oshevents.py:300
 msgid "Edit Events Portlet"
 msgstr ""
 
@@ -5109,18 +5150,15 @@ msgstr ""
 msgid "portlet_oshmail_text"
 msgstr "A stratégiai hírek havi áttekintése<br/>- Iratkozzon fel -"
 
-#: osha.theme:/portlets/oshmail.py:28
+#. Default: "subscribers"
+#: osha.theme:/portlets/oshmail.pt:24 osha.theme:/portlets/alertservice.pt:26
+msgid "box_oshmail_subscribers"
+msgstr "megrendelő"
+
+#: osha.theme:/portlets/oshmail.py:28 osha.theme:/portlets/oshmail.pt:6
 #: osha.theme:/portlets/subscribe_mailinglists.pt:6
-#: osha.theme:/portlets/oshmail.pt:6
 msgid "Free Newsletter"
 msgstr "Ingyenes hírlevél"
-
-#. Default: "What is RSS?"
-#: osha.theme:/portlets/oshnews.pt:48 osha.theme:/portlets/oshevents.pt:75
-#: osha.theme:/portlets/collection.pt:52
-#: osha.theme:/browser/templates/rssfeeds.pt:19
-msgid "info_whatis_rss"
-msgstr "Mi az RSS?"
 
 #: osha.theme:/portlets/oshnews.py:247
 msgid "Add News Portlet"
@@ -5227,10 +5265,10 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/search.py:36
-#: osha.theme:/browser/templates/osha_help_center_view.pt:47
-#: osha.theme:/browser/templates/publicationsearch.pt:80
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
 #: osha.theme:/browser/templates/site_actions.pt:9
+#: osha.theme:/browser/templates/publicationsearch.pt:80
+#: osha.theme:/browser/templates/osha_help_center_view.pt:47
 msgid "Search"
 msgstr "Keresés"
 
@@ -5356,9 +5394,9 @@ msgstr "Az EU-OSHA következő értesítője iránti kérés törlése:"
 
 #. Default: "More"
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:121
+#: osha.theme:/browser/templates/competitions_view.pt:62
 #: osha.theme:/browser/templates/osha_homepage.pt:21
 #: osha.theme:/browser/templates/osha_homepage.pt:41
-#: osha.theme:/browser/templates/competitions_view.pt:62
 msgid "alert_label_more"
 msgstr "Több"
 
@@ -5495,12 +5533,16 @@ msgstr "Sajnos, ez az oldal nem létezik &hellip;"
 #. Default: "Please double check the web address or use the search function on this page to find what you are looking for."
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:40
 msgid "description_site_error_double_check_or_search"
-msgstr "Kérjük, ellenőrizze a weboldal címét még egyszer vagy használja az oldal keresőfunkcióját, hogy megtalálja, amit keres! "
+msgstr ""
+"Kérjük, ellenőrizze a weboldal címét még egyszer vagy használja az oldal "
+"keresőfunkcióját, hogy megtalálja, amit keres! "
 
 #. Default: "If you are certain you have the correct web address but are encountering an error, please contact the ${site_admin}."
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:46
 msgid "description_site_error_mail_site_admin"
-msgstr "Amennyiben biztos abban, hogy a jó címet írta be, de hiba lép fel, vegye fel a kapcsolatot ${site_admin}!"
+msgstr ""
+"Amennyiben biztos abban, hogy a jó címet írta be, de hiba lép fel, vegye fel "
+"a kapcsolatot ${site_admin}!"
 
 #. Default: "Translation Unavailable"
 #: osha.theme:/skins/osha_theme_custom_templates/default_error_message.pt:69
