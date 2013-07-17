@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Jul 17 18:44:47 2013\n"
+"POT-Creation-Date: Wed Jul 17 18:49:57 2013\n"
 "PO-Revision-Date: 2013-07-04 19:04+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -534,7 +534,7 @@ msgstr ""
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
-msgid "heading_napo-018-no-laughing-matter-episode-006-reality-tv"
+msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
 msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:107

@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Wed Jul 17 18:44:47 2013\n"
+"POT-Creation-Date: Wed Jul 17 18:49:57 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -531,7 +531,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:106
 #. Default: "Reality TV"
-msgid "heading_napo-018-no-laughing-matter-episode-006-reality-tv"
+msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
 msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:107

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone 2.0\n"
-"POT-Creation-Date: Wed Jul 17 18:44:47 2013\n"
+"POT-Creation-Date: Wed Jul 17 18:49:57 2013\n"
 "PO-Revision-Date: 2004-03-24 03:57+0900\n"
 "Last-Translator: Retsu <tyam@mac.com>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
@@ -531,7 +531,7 @@ msgstr ""
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
-msgid "heading_napo-018-no-laughing-matter-episode-006-reality-tv"
+msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
 msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:107

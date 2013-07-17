@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Jul 17 18:44:47 2013\n"
+"POT-Creation-Date: Wed Jul 17 18:49:57 2013\n"
 "PO-Revision-Date: 2013-07-04 17:59+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -507,37 +507,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Un pequeño escalón para la prevención"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "El mantenimiento importa"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Brillante ejemplo"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "A ciegas ante los peligros"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "¡Informa!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Pensar en frío"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
-msgid "heading_napo-018-no-laughing-matter-episode-006-reality-tv"
-msgstr ""
+msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
+msgstr "Como un “reality”"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3490,11 +3490,24 @@ msgstr "¡Ahora todos juntos!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo en … no es cosa de risa"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Los resbalones y tropiezos son uno de los riesgos más comunes en lugares "
+"de trabajo que cada año causan decenas de miles de accidentes.</p><p>La "
+"mayoría de los resbalones se producen en suelos húmedos o sucios y los "
+"tropiezos, en su mayoría, se deben a la falta de orden y limpieza. Las "
+"soluciones son, generalmente, sencillas y económicas. Partiendo de una "
+"adecuada evaluación de riesgos se identifican las medidas preventivas "
+"necesarias que incluyen: la prevención de derrames, la gestión de vertidos, "
+"el empleo de calzado adecuado, el diseño de lugares de trabajo, el "
+"mantenimiento, la colocación de suelos antideslizantes, buena limpieza y "
+"adecuada supervisión.</p><p>Esta película, recomendada para trabajadores de "
+"cualquier sector y nivel, tiene como objetivo promover las buenas prácticas "
+"incidiendo en que los accidentes por resbalones y tropiezos no son \"cosa de "
+"risa\".</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
