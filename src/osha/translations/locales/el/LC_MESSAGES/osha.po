@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Ένα μικρό βήμα…πιο κοντά στην πρόληψη"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Η συντήρηση συμφέρει!"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Ότι \"γυαλίζει\"…δεν είναι χρυσός!"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Κρυφές πηγές κινδύνου"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Ανέφερε τον κίνδυνο!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Παγοδρόμιο!"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Από την τηλεόραση…στην πραγματικότητα"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3510,11 +3510,29 @@ msgstr "Ολοι μαζί λοιπόν"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Ο Napo στο…Όχι αστείες καταστάσεις"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Τα γλιστρήματα και τα παραπατήματα είναι από τις πιο συχνά απαντώμενες "
+"πηγές κινδύνου και ευθύνονται σε ετήσια βάση για την πρόκληση χιλιάδων "
+"ατυχημάτων στους χώρους εργασίας.</p><p>Τα περισσότερα γλιστρήματα "
+"συμβαίνουν λόγω της ύπαρξης υγρών ή βρώμικων επιφανειών στα δάπεδα εργασίας, "
+"ενώ τα περισσότερα παραπατήματα οφείλονται στην μη τήρηση συνθηκών ευταξίας. "
+"Η αντιμετώπιση των συνθηκών πρόκλησης γλιστρημάτων και παραπατημάτων μπορεί "
+"συχνά να επιτευχθεί εύκολα και όχι με μεγάλο κόστος. Μια σωστή διαδικασία "
+"εκτίμησης των κινδύνων αυτών θα πρέπει να βασίζεται στον προσδιορισμό των "
+"αναγκαίων μέτρων πρόληψης, στα οποία περιλαμβάνονται μέτρα καθαρισμού των "
+"βρώμικων επιφανειών, διαδικασίες διαχείρισης τυχόν κηλίδων στο πάτωμα, χρήση "
+"κατάλληλων υποδημάτων, σωστός σχεδιασμός των χώρων εργασίας, τήρηση των "
+"διαδικασιών συντήρησης, τοποθέτηση κατάλληλων επιφανειών στα δάπεδα, "
+"ευταξία, αποτελεσματική παρακολούθηση των υφιστάμενων συνθηκών καθώς και "
+"σχετική εκπαίδευση του προσωπικού.</p><p>Η ταινία αυτή, κατάλληλη για κάθε "
+"κλάδο οικονομικής δραστηριότητας και για κάθε εργαζόμενο, αποσκοπεί στην "
+"ανάδειξη σχετικών καλών πρακτικών και υπογραμμίζει το γεγονός ότι τα "
+"ατυχήματα λόγω γλιστρημάτων και παραπατημάτων στους χώρους εργασίας δεν "
+"είναι καθόλου \"αστείες καταστάσεις\"."
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
