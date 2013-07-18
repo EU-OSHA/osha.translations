@@ -505,37 +505,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Ennetus kaotab astmed"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Hooldus on tähtis!"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Kerge vaevaga libedale teele"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Varjatud ohud"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Teata!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Jäine suhtumine"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Tõsielusari"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3444,11 +3444,22 @@ msgstr "Ja nüüd kõik üheskoos!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "See ei ole naljaasi!"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Libisemine ja komistamine on ühed enam levinud ohud, mis igal aastal "
+"põhjustavad kümneid tuhandeid õnnetusi töökohtadel.</p><p>Enamik libisemisi "
+"esineb märjal või “saastunud” pinnal ning komistamised leiavad aset seoses "
+"halva töökoha korrashoiuga. Lahendused on sageli lihtsad ja tasuvad ennast "
+"ära. Riskihindamisel tuleb kindlaks määrata vajalikud kontrollimeetodid, mis "
+"hõlmavad saastamise ja lekete ennetamist, sobivaid jalatseid, töökoha "
+"planeerimist ja hooldust, sobivat põrandakatet, head töökoha korrashoidu "
+"ning tõhusat väljaõpet ja juhendamist.</p><p>See film, mis sobib kõikide "
+"tegevusharude ja tasandite töötajatele, püüab tutvustada häid tavasid ja "
+"rõhutab, et libisemise ja komistamise tagajärjel toimunud õnnetused “ei ole "
+"naljaasi”. "
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

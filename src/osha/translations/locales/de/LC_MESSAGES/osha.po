@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Die kleine Hürde"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Vom Zahn der Zeit"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Das Glanzstück"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Im Blindflug"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Reden ist Silber, Handeln ist Gold"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Eiskalt erwischt"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Wer zuletzt lacht…"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3493,11 +3493,23 @@ msgstr "Und jetzt alle!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Kein Grund zum Lachen"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Stürze sind eine besonders häufige Unfallart. Dabei ist weniger von "
+"Stürzen von der Leiter oder gar vom Dach die Rede. Die meisten Stürze "
+"passieren vielmehr auf ebenem Boden und auf Treppen. Weil etwas im Weg "
+"liegt, weil der Boden uneben ist, weil es dunkel oder glatt ist. Um solche "
+"Stolper- und Rutschunfälle zu vermeiden, helfen ganz einfache Mittel: zum "
+"Beispiel Ordnung halten, schadhafte Böden ausbessern, für ausreichende "
+"Beleuchtung sorgen, nasse und ölverschmierte Böden reinigen oder bei "
+"Glatteis streuen. Auch die richtigen Schuhe spielen eine wichtige Rolle.</p>"
+"<p>Stürze auf ebenem Boden verlaufen nicht immer harmlos. Manche sind sehr "
+"schmerzhaft und erfordern monatelange Behandlung. Einige enden noch "
+"schlimmer. Dass Stürze „Kein Grund zum Lachen“ sind, erkennen in diesem Film "
+"auch Napo und seine Freunde.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
