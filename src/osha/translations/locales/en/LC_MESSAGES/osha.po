@@ -3375,7 +3375,7 @@ msgstr ""
 "workplace design, maintenance, appropriate flooring, good housekeeping, and "
 "effective training and supervision.</p><p>This film, which is suitable for "
 "all sectors and all levels of employees, seeks to promote good practice and "
-"emphasises that slip and trip accidents are ‘No laughing matter’."
+"emphasises that slip and trip accidents are ‘No laughing matter’.</p>"
 
 #. Default: "Description"
 #: osha.policy:/patches/newsitem_patch.py:25
