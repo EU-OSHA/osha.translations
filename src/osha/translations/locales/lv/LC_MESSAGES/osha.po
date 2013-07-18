@@ -505,37 +505,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Tikai neliels pakāpiens"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Uzturēšana"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Spilgts piemērs"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Neredzamie riski"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Rīkojies!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Negaidītā ziema"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Realitātes šovs"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3450,11 +3450,23 @@ msgstr "Un tagad visi kopā!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo.... Tas nav smieklīgi"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Paslīdēšana un paklupšana ir viens no biežākajiem darba vides riska "
+"faktoriem, kas izraisa desmitiem tūkstošu nelaimes gadījumu katru gadu. "
+"Visbiežāk nodarbinātie paslīd, ja ir mitrs vai netīrs pārvietošanās virsmas "
+"segums, savukārt paklupšanas iemesls ir nepietiekami labi uzkopta un "
+"uzturēta darba vide. Risinājumi pārsvarā ir vienkārši un lēti. Darba vides "
+"riska novērtēšanas laikā ir jānosaka veicamie pasākumi, piemēram, darba "
+"vietu sakopšana, izlijušā šķidruma savākšana, piemērotu darba apavu izvēle, "
+"darba vietas pārkārtošana, piemērota grīdas seguma izvēle, tīrības un "
+"kārtības uzturēšana darba vietā, efektīva apmācība un darbinieku uzraudzība."
+"</p><p>Šī filma ir piemērota visām nozarēm un visiem darbiniekiem, parāda "
+"vienkāršus labas prakses piemērus un aicina nevienu nesmieties par nelaimes "
+"gadījumiem, kuru cēlonis ir paslīdēšana vai paklupšana darba vietā.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

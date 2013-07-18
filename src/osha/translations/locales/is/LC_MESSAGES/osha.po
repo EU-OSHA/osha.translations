@@ -504,37 +504,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Eitt lítið skref"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Viðhald borgar sig"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Glansandi dæmi"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Falin hætta"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Tilkynnum!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Ókláruð mál"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Raunveruleika sjónvarp"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3358,11 +3358,22 @@ msgstr "Allir saman nú"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo í ...ekkert aðhlátursefni"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Að renna til eða hrasa á jafnsléttu er meðal algengustu vinnuslysa sem "
+"verða á hverju ári. Flest slysin verða vegna bleytu eða óhreininda sem fólk "
+"stígur í eða vegna þess að menn hrasa um hluti eða verkfæri sem ekki hefur "
+"verið gengið frá.</p><p>Þetta er einfalt og ódýrt að hafa í lagi. Einfalt "
+"áhættumat ætti að greina öll svona vandamál. Forvarnir eins og að þurrka "
+"strax upp það sem hellist niður, velja viðeigandi skóbúnað og rétt val á "
+"gólfefnum skipta miklu máli. Aðrar forvarnir t.d. gegn mengun eða óhreinindum"
+", hönnun vinnustaðarins, viðhald á verkfærum, góð umgengni og svo þjálfun "
+"og eftirlit þurfa einnig að vera til staðar.</p><p>Myndin á að nýtast ólíkum "
+"vinnustöðum og aðstæðum en hún leggur áherslu á að viðhafa góðar "
+"starfsvenjur því það að renna til eða hrasa er “Ekkert aðhlátursefni”.</p>"
 
 #. Default: "Description"
 #: osha.policy:/patches/newsitem_patch.py:25

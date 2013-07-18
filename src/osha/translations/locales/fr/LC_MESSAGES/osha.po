@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Un petit pas pour la prévention !"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "La maintenance, ça compte !"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Effets de sol !"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Sur la piste des dangers !"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Au rapport !"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Gare à la météo !"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "TV Gag !"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3492,11 +3492,23 @@ msgstr "Vote unanime !"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo dans… Pas de quoi rire ! Glissades et trébuchements"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Les glissades et trébuchements sont très fréquents et beaucoup moins "
+"anodins qu’on ne le pense. Ils peuvent avoir des conséquences lourdes. Cela "
+"dépend en partie de la dangerosité de l’environnement proche du travailleur."
+"</p><p>Des sols glissants, en mauvais état, un éclairage insuffisant, des "
+"chaussures inadaptées… sont autant de facteurs propices à l’accident. Des "
+"solutions de prévention simples et peu coûteuses sont envisageables : "
+"choisir des revêtements appropriés, éclairer les voies de circulation, "
+"porter des chaussures adaptées, prévoir des espaces de travail adéquats, "
+"anticiper la maintenance des locaux, informer et sensibiliser les salariés,"
+"…</p><p>Ce film convient à tous publics et tous secteurs, il propose de "
+"promouvoir de bonnes pratiques de prévention en matière de glissade et "
+"trébuchement. "
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

@@ -505,37 +505,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Mały krok do większego bezpieczeństwa"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Konserwacja zawsze na czasie"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Brak wyobraźni kosztuje"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Ukryte zagrożenia "
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Zgłoś to!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Śliska sprawa"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Samo życie"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3482,11 +3482,24 @@ msgstr "A teraz wszyscy razem"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Samo życie"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Poślizgnięcia i potknięcia należą do częstych przyczyn wypadków w pracy. "
+"Największe ryzyko utraty równowagi stwarzają śliskie, nierówne powierzchnie, "
+"a potknięcia zdarzają się wtedy, gdy miejsce pracy nie jest utrzymane w "
+"należytym porządku.</p><p>Tym problemom można łatwo i tanio zaradzić. "
+"Prawidłowo przeprowadzona ocena ryzyka pozwala określić niezbędne środki "
+"zaradcze, m.in.: umieszczanie znaków ostrzegawczych tam, gdzie nie można "
+"wyeliminować zagrożenia, stosowanie obuwia ochronnego, prawidłowe "
+"projektowanie stanowiska pracy i utrzymywanie go w dobrym stanie, staranne "
+"sprzątanie oraz szkolenie i nadzór pracowników.</p><p>Film zawiera treści, "
+"które mają zastosowanie we wszystkich sektorach gospodarki i na każdym "
+"szczeblu zawodowym. Promuje dobre praktyki i podkreśla, że poślizgnięcia i "
+"potknięcia, a w ich konsekwencji upadki są poważniejsze, niż mogłoby się "
+"wydawać. Nie śmiej się dziadku z czyjegoś wypadku…</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

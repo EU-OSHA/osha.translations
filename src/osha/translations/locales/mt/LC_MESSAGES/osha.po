@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "pass żgħir"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "il-manutenzjoni hija meħtieġa"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "eżempju ċar"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "perikli moħbija"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Irrapporta !"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Xi ksuħat"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Reality TV"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3468,11 +3468,23 @@ msgstr "U issa  lkoll flimkien"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo f’ – M’hemm xejn tad-daħk"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Żelqiet u waqgħat huma wħud mill-aktar perikli komuni li kull sena, huma "
+"l-kawża ta`  eluf ta` nċidenti fuq il-postijiet tax-xogħol.  Żelqiet huma "
+"komunement ikkaġunati minn art imxarrba waqt li l-waqgħat huma kkaġunati "
+"minħabba traskuraġni waqt il-ħasil ta` l-art.  Is-solulzzjonijiet huma "
+"l-biċċa l-kbira sempliċi u ma` jiswewx flus.  Assesjar tajjeb tar-riskji, "
+"għandu jidentifika n-neċessita ta` kontrolli li jinkludu l-prevenzjoni u "
+"l-kontroll ta` tixrid ta` ilma u likwidi oħra mall-art, art tajba, postijiet "
+"tax-xogħol mingħajr perikli, manutenzjoni, ħasil ta` l-art kif għandu ikun "
+"mingħajr ma jikkawza perikli, taħriġ tajjeb u supervizjoni.</p><p>Dan "
+"il-filmat li jirrigwarda kull sezzjoni u level ta` ħaddiema, qiegħed "
+"jippromovi prattiċi tajba fuq il-post tax-xogħol, u jenfasiżża li inċidenti "
+"mħabba żelqiet u waqgħat ma` humiex tad-daħk.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

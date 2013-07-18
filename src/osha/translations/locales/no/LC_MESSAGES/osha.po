@@ -505,37 +505,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Et lite steg"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Vedlikehold teller"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Et skinnende eksempel"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Skjulte farer"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Si fra!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Når nettene blir lange"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Reality tv"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3364,11 +3364,21 @@ msgstr "Kom igjen, alle sammen! "
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo i … Ikke noe å le av"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Fall som følge av at man snubler eller sklir er en av de vanligste farene "
+"i arbeidslivet og fører til titusenvis av ulykker på arbeidsplassen hvert år."
+"</p><p>De fleste sklir og faller på grunn av rot, vann eller søle på gulvet. "
+"Dette skyldes dårlig renhold og rydding. Løsningene er ofte enkle og koster "
+"lite. Risikovurderingen bør lede ut i nødvendige tiltak som å unngå lekkasjer"
+", fjerne søl, passende fottøy, riktig utforming av arbeidsplassen, godt "
+"vedlikehold, passende gulvdekke, godt renhold, opplæring og oppsyn.</p><p>"
+"Denne filmen passer for alle typer bransjer og på alle nivå i bedriften. "
+"Filmen fremmer god praksis og vektlegger at det å skli og falle ikke er noe "
+"å le av.</p>"
 
 #. Default: "Description"
 #: osha.policy:/patches/newsitem_patch.py:25

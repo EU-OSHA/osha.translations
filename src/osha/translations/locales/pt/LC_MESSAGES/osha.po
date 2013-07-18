@@ -505,37 +505,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Um pequeno passo para a prevenção"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "A manutenção conta!"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Exemplo brilhante"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Perigos ocultos"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Informe!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Piso gelado!"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Casos Reais TV"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3468,11 +3468,22 @@ msgstr "Todos juntos!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo em ... Não tem piada!"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Todos os anos ocorrem milhares de acidentes no local de trabalho devido a "
+"escorregadelas e tropeções.</p><p>A maioria das escorregadelas ocorrem "
+"devido ao piso molhado ou com sujidade e a maioria dos tropeções dão-se "
+"devido a uma arrumação deficiente. As soluções são muitas vezes simples e de "
+"baixo custo. A avaliação de riscos deve levar à adoção de adequadas medidas "
+"de prevenção, nomeadamente, uma boa conceção, limpeza e arrumação dos locais "
+"de trabalho, optar por piso antiderrapante, verificação e manutenção "
+"periódica das instalações, uso de calçado adequado e uma eficaz formação/"
+"informação.</p><p>Este filme é adequado a todos os trabalhadores de todos os "
+"setores de atividade e visa promover as boas práticas e salienta que os "
+"acidentes devido a escorregadelas e tropeções “Não têm piada!”</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

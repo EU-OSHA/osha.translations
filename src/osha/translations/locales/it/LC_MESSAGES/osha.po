@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Un passo avanti"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "L’importanza della manutenzione"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Un’idea brillante"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Insidie nascoste"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Segnala e ripara"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Slittare sul ghiaccio"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Non sono le Comiche"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3490,11 +3490,25 @@ msgstr "Alla fine…insieme!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo in… Non c’è niente da ridere"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Il rischio di cadute in piano è uno dei più diffusi e causa ogni anno "
+"decine di migliaia di incidenti nei luoghi di lavoro.</p><p>La maggior parte "
+"delle cadute avviene per colpa di pavimenti bagnati o per la presenza di "
+"materiali scivolosi (olio, grasso, ecc.) e la maggior parte degli infortuni "
+"dovuti ad inciampo sono dovuti a scarsa manutenzione e pulizia e a "
+"disordine. Le soluzioni sono spesso semplici e convenienti. Una valutazione "
+"adeguata dei rischi dovrebbe identificare le necessarie misure di controllo "
+"che includono la prevenzione e la gestione degli eventuali sversamenti, "
+"calzature idonee, un appropriato layout dell’ambiente di lavoro, pavimenti "
+"in materiali idonei, manutenzione e pulizia adeguate  e una formazione e "
+"supervisione efficace.</p><p>Questo film, che è adatto per tutti i settori "
+"lavorativi e tutti i lavoratori, a qualsiasi livello gerarchico, mira a "
+"promuovere buone prassi di lavoro e sottolinea il fatto che sulle cadute in "
+"piano “non c’è niente da ridere”</p>."
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

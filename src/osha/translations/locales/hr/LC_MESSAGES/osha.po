@@ -508,37 +508,37 @@ msgstr "Provjera mogućnosti"
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Jedan mali korak"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Održavanje je važno"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Slikovit primjer"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Skrivene opasnosti"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Prijavi!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Zaleđeni pod"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "TV Reality"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3053,11 +3053,21 @@ msgstr ""
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo u ... Nije smiješno"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Klizanja i spoticanja su jedne od najčešćih opasnosti i svake godine "
+"uzrokuju desetke tisuća ozljeda na radnom mjestu.</p><p>Većina klizanja se "
+"događa zbog mokrih ili 'prljavih'površina, a većina spoticanja zbog lošeg "
+"kućnog održavanja. Rješenja su često jednostavna i isplativa. Odgovarajuća "
+"procjena rizika mora utvrditi opasnosti i propisati poduzimanje potrebnih "
+"mjera što uključuje sprječavanje onečišćenja, reguliranje odvodnje, "
+"propisivanje odgovarajuće obuće, uređenje mjesta rada, održavanje, kvalitetu "
+"podova, dobro čišćenje i učinkovit trening i nadzor.</p><p>Ovaj film, koji "
+"je prikladan za radnike svih sektora i razina, nastoji promicati dobru "
+"praksu i naglašava da ozljede zbog klizanja i spoticanja 'Nisu smiješne'.</p>"
 
 #. Default: "Description"
 #: osha.policy:/patches/newsitem_patch.py:25

@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "O singură treaptă mică pentru prevenire"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Întreținerea contează"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Exemple de suprafețe lucioase"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Pericole ascunse"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Raportați pericolele identificate!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Un caz „rece”"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Reality Show TV!"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3487,11 +3487,27 @@ msgstr "Si acum toţi împreună !"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo în ... „Nu e deloc de râs”"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Alunecările și împiedicările sunt printre cele mai des întâlnite pericole "
+"fiind cauza a zeci de accidente înregistrate la locul de muncă anual.</p><p>"
+"Cea mai mare parte a alunecărilor au loc în condiții de umiditate sau "
+"„contaminare” în timp ce majoritatea împiedicărilor au drept cauză o "
+"întreținere necorespunzătoare. De cele mai multe ori, soluțiile sunt simple "
+"și eficiente raportat la costuri. O evaluarea adecvată a riscurilor trebuie "
+"să conducă la stabilirea măsurilor corespunzătoare de control care să "
+"includă prevenirea contaminării, managementul eventualelor scurgeri, "
+"încălțăminte de lucru corespunzătoare, concepția locului de muncă, "
+"întreținerea, pardoseli adecvate, asigurarea unor servicii corespunzătoare "
+"de curățenie precum și instruirea și supravegherea eficiente în ceea ce "
+"privește personalul.</p><p>Prezentul film ce corespunde tuturor sectoarelor "
+"de activitate precum și tuturor categoriilor de personal, la toate "
+"nivelurile, încearcă să promoveze bunele practici în domeniu și să atragă "
+"atenția asupra faptului că accidentele produse de alunecări și împiedicări "
+"„Nu sunt o chestiune de râs”.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

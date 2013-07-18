@@ -506,37 +506,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Ett litet steg"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Underhåll räknas"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Skinande exempel"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Dolda risker"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Rapportera!"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "”Fruset fall”"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Reality TV"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3453,11 +3453,22 @@ msgstr "Alla tillsammans"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo i …”Inget att skratta åt”"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Att halka och snubbla är de vanligaste riskerna och orsakar varje år "
+"tusentals olyckor på våra arbetsplatser.</p><p>De flesta halkolyckor sker "
+"där det är vått eller halt, och de flesta snubbelolyckor inträffar där det "
+"är dålig ordning. Att åtgärda och förebygga detta är ofta enkelt och "
+"kostnadseffektivt. En enkel riskanalys kan identifiera och förebygga risker "
+"när det gäller hala golv, hantering av spill, val av lämpliga skor, "
+"utformning av arbetsplatsen, skötsel och underhåll, ändamålsenliga golv, "
+"”ordning och reda” samt effektiv träning och vägledning.</p><p>Denna film, "
+"som är lämplig för alla typer av arbetsplatser, fokuserar på goda praktiska "
+"lösningar och poängterar att halk-och snubbelolyckor är ”Inget att skratta "
+"åt”.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

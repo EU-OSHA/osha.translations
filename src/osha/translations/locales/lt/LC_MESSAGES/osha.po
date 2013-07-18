@@ -505,37 +505,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Vienas mažas laiptelis"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Priežiūra yra svarbi"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Puikus pavyzdys"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Nematomi pavojai "
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Reikia pranešti "
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "Atšalimo atvejis"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Realybės TV"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3477,11 +3477,22 @@ msgstr "Dabar visi kartu"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo ir...Nejuokingas dalykas"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Paslydimai ir užkliuvimai yra labiausiai paplitę pavojai ir kasmet tampa "
+"tūkstančių nelaimingų atsitikimų darbe priežastimi.</p><p>Daugiausia "
+"paslydimų įvyksta dėl drėgnų ar užterštų paviršių ir daugiausia užkliuvimų – "
+"dėl prastos tvarkos. Sprendimai dažniausiai yra paprasti ir nebrangiai "
+"kainuojantys. Tinkamas rizikos vertinimas turėtų nustatyti būtinas kontrolės "
+"priemones, kurios apimtų užterštumo prevenciją, išsiliejimų tvarkymą, "
+"tinkamą avalynę, darbo vietos išplanavimą, remontą, atitinkamą grindų dangą, "
+"gerą tvarkos palaikymą ir efektyvų mokymą bei priežiūrą.</p><p>Šis filmas, "
+"kuris tinka visiems veiklos sektoriams ir visų lygių darbuotojams, siekia "
+"propaguoti gerą praktiką ir pabrėžti, kad paslydimo ir užkliuvimo nelaimingi "
+"atsitikimai yra „Nejuokingas dalykas“.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,

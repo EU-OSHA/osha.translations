@@ -498,37 +498,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr ""
+msgstr "Tedbir almaya götüren bir küçük adım"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr ""
+msgstr "Bakım zamanı"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr ""
+msgstr "Parlak fikir"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr ""
+msgstr "Gizli tehlikeler"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr ""
+msgstr "Bildirim"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr ""
+msgstr "İstenmeyen durum"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr ""
+msgstr "Kanal Gerçek"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3309,11 +3309,25 @@ msgstr "Şimdi Hep Birlikte"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr ""
+msgstr "Napo … Ciddi durumlar"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
+"<p>Kayma ve düşmeler, işyerlerinde en sık görülen tehlikelerden biri olup "
+"her yıl binlerce iş kazasına sebep olmaktadır. İşyerlerinde meydana gelen "
+"kaymaların birçoğu genellikle ıslak veya kirletilmiş zeminler nedeniyle; "
+"düşmeler ise genellikle ofis hizmetlerinin kötü idare edilmesi, bakım ve "
+"temizliğin yetersiz olması nedeniyle meydana gelir. Çözümler ise genellikle "
+"kolay ve uygun maliyetlidir. İşyerinde yapılacak risk değerlendirmesi; "
+"kirliliğin önlenmesi, yere dökülen maddelerin kontrolü, uygun ayakkabıların "
+"kullanımı, işyerinin tasarımı, bakım ve onarım, uygun zemin kaplamaları, "
+"kaliteli bakım ve temizlik hizmetlerinin sağlanması, etkili eğitim ve "
+"danışmanlığı da içeren kontrol tedbirlerini ortaya koymalıdır. Tüm "
+"sektörlere ve tüm bilgi düzeyindeki çalışanlara uygun olan bu film ile, iyi "
+"uygulamaların tanıtılması ve teşvik edilmesi amaçlanmakta; kayma ve "
+"düşmelerin neden olduğu iş kazalarının “ciddi durumlar” olduğu "
+"vurgulanmaktadır.</p>"
 
 # # 6 more: ./plone_content/event_edit_form.cpt,
 # ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
