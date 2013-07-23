@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.13 (unreleased)
+2.0.13 (2013-07-23)
 -------------------
 
 - Added translations for Napo film 18 #7926 [pysailor]
