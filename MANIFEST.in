@@ -1,0 +1,6 @@
+include *.txt
+recursive-include src *.po
+recursive-include src *.pot
+recursive-include src *.py
+recursive-include src *.txt
+recursive-include src *.zcml
