@@ -4,8 +4,7 @@ osha.translations Changelog
 2.0.14 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Added translations for Related Content #8097 [pysailor]
 
 2.0.13 (2013-07-23)
 -------------------

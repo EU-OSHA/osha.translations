@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Jul 17 18:49:57 2013\n"
+"POT-Creation-Date: Tue Jul 30 14:06:27 2013\n"
 "PO-Revision-Date: 2013-07-04 18:46+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -51,7 +51,7 @@ msgstr ""
 #. Default: "Date to be confirmed"
 #: osha.adaptation:/schema.py:392
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:146
-#: osha.theme:/portlets/oshevents.pt:41 osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/oshevents.pt:42 osha.theme:/portlets/events.pt:41
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 msgid "label_date_to_be_confirmed"
 msgstr "Apstiprināmais datums"
@@ -413,7 +413,7 @@ msgstr "Citi jaunumi"
 
 #. Default: "More events"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
-#: osha.theme:/portlets/oshevents.pt:63 osha.theme:/portlets/events.pt:63
+#: osha.theme:/portlets/oshevents.pt:64 osha.theme:/portlets/events.pt:63
 msgid "label_more_events"
 msgstr "Vairāk notikumu"
 
@@ -4892,8 +4892,8 @@ msgid "More About Portlet"
 msgstr ""
 
 #: osha.theme:/portlets/moreabout.py:57
-msgid "More about..."
-msgstr ""
+msgid "Related content"
+msgstr "Saistītais saturs"
 
 #: osha.theme:/portlets/moreabout.py:87
 msgid "Add More-About Portlet"
@@ -4925,8 +4925,8 @@ msgstr ""
 msgid "The display title of the rendered portlet"
 msgstr ""
 
-#: osha.theme:/portlets/osha_items.py:33 osha.theme:/portlets/oshevents.py:27
-#: osha.theme:/portlets/oshnews.py:24
+#: osha.theme:/portlets/osha_items.py:33 osha.theme:/portlets/oshevents.py:28
+#: osha.theme:/portlets/oshnews.py:25
 msgid "Number of items to display"
 msgstr ""
 
@@ -4940,8 +4940,8 @@ msgid ""
 "portlet."
 msgstr ""
 
-#: osha.theme:/portlets/osha_items.py:45 osha.theme:/portlets/oshevents.py:33
-#: osha.theme:/portlets/oshnews.py:30
+#: osha.theme:/portlets/osha_items.py:45 osha.theme:/portlets/oshevents.py:34
+#: osha.theme:/portlets/oshnews.py:31
 msgid "Workflow state"
 msgstr ""
 
@@ -4951,8 +4951,8 @@ msgid ""
 "all published items will be shown."
 msgstr ""
 
-#: osha.theme:/portlets/osha_items.py:56 osha.theme:/portlets/oshevents.py:41
-#: osha.theme:/portlets/oshnews.py:38
+#: osha.theme:/portlets/osha_items.py:56 osha.theme:/portlets/oshevents.py:42
+#: osha.theme:/portlets/oshnews.py:39
 #: osha.theme:/portlets/practical_solutions.py:23
 msgid "Categories"
 msgstr ""
@@ -5042,86 +5042,86 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/oshcollection.py:70
-#: osha.theme:/portlets/oshevents.py:67 osha.theme:/portlets/oshnews.py:67
+#: osha.theme:/portlets/oshevents.py:68 osha.theme:/portlets/oshnews.py:68
 msgid "RSS explanation path"
 msgstr ""
 
-#: osha.theme:/portlets/oshcollection.py:71 osha.theme:/portlets/oshnews.py:68
+#: osha.theme:/portlets/oshcollection.py:71 osha.theme:/portlets/oshnews.py:69
 msgid ""
 "Enter a relative path to a page that gives general RSS information. This is "
 "optional."
 msgstr ""
 
 #. Default: "TBC"
-#: osha.theme:/portlets/oshevents.pt:41 osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/oshevents.pt:42 osha.theme:/portlets/events.pt:41
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 msgid "abbr_date_to_be_confirmed"
 msgstr "TBC [tiks apstiprināts]"
 
 #. Default: "Upcoming Events"
-#: osha.theme:/portlets/oshevents.pt:6
+#: osha.theme:/portlets/oshevents.pt:7
 msgid "box_events"
 msgstr "Gaidāmie notikumi"
 
 #. Default: "What is RSS?"
-#: osha.theme:/portlets/oshevents.pt:75 osha.theme:/portlets/collection.pt:52
+#: osha.theme:/portlets/oshevents.pt:76 osha.theme:/portlets/collection.pt:52
 #: osha.theme:/portlets/oshnews.pt:48
 #: osha.theme:/browser/templates/rssfeeds.pt:19
 msgid "info_whatis_rss"
 msgstr "Kas ir RSS?"
 
-#: osha.theme:/portlets/oshevents.py:28 osha.theme:/portlets/oshnews.py:25
+#: osha.theme:/portlets/oshevents.py:29 osha.theme:/portlets/oshnews.py:26
 msgid "How many items to list."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:284
+#: osha.theme:/portlets/oshevents.py:297
 msgid "Add Events Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:285 osha.theme:/portlets/oshevents.py:301
+#: osha.theme:/portlets/oshevents.py:298 osha.theme:/portlets/oshevents.py:314
 msgid "This portlet lists upcoming Events."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:300
+#: osha.theme:/portlets/oshevents.py:313
 msgid "Edit Events Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:34 osha.theme:/portlets/oshnews.py:31
+#: osha.theme:/portlets/oshevents.py:35 osha.theme:/portlets/oshnews.py:32
 msgid "Items in which workflow state to show."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:42 osha.theme:/portlets/oshnews.py:39
+#: osha.theme:/portlets/oshevents.py:43 osha.theme:/portlets/oshnews.py:40
 msgid "Pick one or more categories for which you want to show events."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:51
+#: osha.theme:/portlets/oshevents.py:52
 msgid "Target calendar path"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:52
+#: osha.theme:/portlets/oshevents.py:53
 msgid ""
 "Enter a folder where the 'next / previous events' link will point to. This "
 "is optional"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:58 osha.theme:/portlets/oshnews.py:57
+#: osha.theme:/portlets/oshevents.py:59 osha.theme:/portlets/oshnews.py:58
 msgid "RSS path"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:59
+#: osha.theme:/portlets/oshevents.py:60
 msgid ""
 "Enter a relative path to the calendar or topic that displays an RSS "
 "representation of these events. \"/RSS\" will automatically be appended to "
 "the URL. This setting is optional"
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:68
+#: osha.theme:/portlets/oshevents.py:69
 msgid ""
 "Enter a relative path to a page that gives general RSS information. This "
 "setting is optional."
 msgstr ""
 
-#: osha.theme:/portlets/oshevents.py:93
+#: osha.theme:/portlets/oshevents.py:94
 msgid "OSH Events"
 msgstr ""
 
@@ -5141,30 +5141,30 @@ msgstr "abonenti"
 msgid "Free Newsletter"
 msgstr "Bezmaksas apkārtraksts"
 
-#: osha.theme:/portlets/oshnews.py:247
+#: osha.theme:/portlets/oshnews.py:249
 msgid "Add News Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:248 osha.theme:/portlets/oshnews.py:277
+#: osha.theme:/portlets/oshnews.py:250 osha.theme:/portlets/oshnews.py:279
 msgid "This portlet displays recent News Items."
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:276
+#: osha.theme:/portlets/oshnews.py:278
 msgid "Edit News Portlet"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:48
+#: osha.theme:/portlets/oshnews.py:49
 msgid "Newsfolder path"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:58
+#: osha.theme:/portlets/oshnews.py:59
 msgid ""
 "Enter a relative path to the folder or topic that displays an RSS "
 "representation of the news. \"/RSS\" will automatically be appended to the "
 "URL.This setting is optional"
 msgstr ""
 
-#: osha.theme:/portlets/oshnews.py:96
+#: osha.theme:/portlets/oshnews.py:94
 msgid "OSH News"
 msgstr ""
 
@@ -5192,6 +5192,10 @@ msgstr "Biežāk uzdotie jautājumi "
 msgid ""
 "Please select a relevant category for the items in this portlet. This should "
 "match the section category."
+msgstr ""
+
+#: osha.theme:/portlets/practical_solutions.py:42
+msgid "More about..."
 msgstr ""
 
 #. Default: "More"
