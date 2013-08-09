@@ -4652,7 +4652,7 @@ msgstr "Архив"
 #. Default: "Topics"
 #: osha.theme:/browser/templates/topics_view.pt:11
 msgid "heading_topics"
-msgstr ""
+msgstr "Teme"
 
 # Named ids
 #. Default: "Updates on topics of your choice"
