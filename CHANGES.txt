@@ -6,6 +6,10 @@ osha.translations Changelog
 
 - Added translations for Related Content #8097 [pysailor]
 
+- Added a translation for the password help message, 
+  since the password policy changed. #7595 [regebro]
+
+
 2.0.13 (2013-07-23)
 -------------------
 
