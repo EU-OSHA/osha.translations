@@ -18,6 +18,9 @@ msgstr ""
 "X-Is-Fallback-For: \n"
 "Language-Name: Icelandic\n"
 
+msgid "help_password_creation"
+msgstr ""
+
 #. Default: "More news…"
 #: plone.app.portlets/plone/app/portlets/portlets/news.pt:45
 msgid "box_more_news_link"

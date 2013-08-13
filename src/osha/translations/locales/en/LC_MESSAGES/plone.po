@@ -19,4 +19,16 @@ msgstr ""
 "Language-Name: English\n"
 
 msgid "help_password_creation"
-msgstr "At least 8 characters, at least 1 upper case and one lower case character, at least one number and at least character that is not a number or a letter."
+msgstr ""
+"At least 8 characters, at least 1 upper case and one lower case character, "
+"at least one number and at least character that is not a number or a letter."
+
+#. Default: "More news…"
+#: plone.app.portlets/plone/app/portlets/portlets/news.pt:45
+msgid "box_more_news_link"
+msgstr ""
+
+#. Default: "Previous events…"
+#: plone.app.portlets/plone/app/portlets/portlets/events.pt:73
+msgid "box_previous_events"
+msgstr ""
