@@ -1184,7 +1184,7 @@ msgstr "Forretningsmæssige aspekter ved arbejdsmiljø"
 
 #: osha.policy:/missing_18n_labels.py:233
 msgid "cleaners"
-msgstr "rengøring arbejdstagere"
+msgstr "Rengøring arbejdstagere"
 
 #: osha.policy:/missing_18n_labels.py:234
 msgid "competitions"
@@ -1232,7 +1232,7 @@ msgstr "Uddannelse"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1244,16 +1244,16 @@ msgstr "Køn"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "grønne job"
+msgstr "Grønne job"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "sundhedspleje"
+msgstr "Sundhedspleje"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "sundhedspleje"
+msgstr "Sundhedspleje"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1275,7 +1275,7 @@ msgstr "Lovgivning"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "vedligeholdelse"
+msgstr "Vedligeholdelse"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
@@ -1283,7 +1283,7 @@ msgstr "Ledelsens lederskab"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "vandrende arbejdstagere"
+msgstr "Vandrende arbejdstagere"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1291,7 +1291,7 @@ msgstr "Muskel- og skeletbesvær"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanoteknologi"
+msgstr "Nanoteknologi"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "forskning"
+msgstr "Forskning"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
