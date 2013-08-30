@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.15 (unreleased)
+2.0.15 (2013-08-30)
 -------------------
 
 - Missing translation in RO #8192 [pysailor]
