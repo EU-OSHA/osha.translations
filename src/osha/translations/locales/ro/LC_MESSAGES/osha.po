@@ -4679,7 +4679,7 @@ msgstr "Arhivă"
 #. Default: "Topics"
 #: osha.theme:/browser/templates/topics_view.pt:11
 msgid "heading_topics"
-msgstr ""
+msgstr "Teme"
 
 # updated on topics ... subscribe
 #. Default: "Updates on topics of your choice"
