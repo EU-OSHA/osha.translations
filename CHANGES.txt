@@ -4,7 +4,7 @@ osha.translations Changelog
 2.0.16 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Finnish and Catalan translations for some Napo stuff
 
 
 2.0.15 (2013-08-30)

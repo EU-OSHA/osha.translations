@@ -498,37 +498,37 @@ msgstr ""
 #. Default: "One small step"
 #: osha.policy:/missing_18n_labels.py:100
 msgid "heading_napo-018-no-laughing-matter-episode-001-one-small-step"
-msgstr "One small step"
+msgstr "Un petit graó"
 
 #. Default: "Maintenance counts"
 #: osha.policy:/missing_18n_labels.py:101
 msgid "heading_napo-018-no-laughing-matter-episode-002-maintenance-counts"
-msgstr "Maintenance counts"
+msgstr "El manteniment té la seva importància"
 
 #. Default: "Shining example"
 #: osha.policy:/missing_18n_labels.py:102
 msgid "heading_napo-018-no-laughing-matter-episode-003-shining-example"
-msgstr "Shining example"
+msgstr "Un exemple brillant"
 
 #. Default: "Hidden hazards"
 #: osha.policy:/missing_18n_labels.py:103
 msgid "heading_napo-018-no-laughing-matter-episode-004-hidden-hazards"
-msgstr "Hidden hazard"
+msgstr "Perills amagats"
 
 #. Default: "Report it!"
 #: osha.policy:/missing_18n_labels.py:104
 msgid "heading_napo-018-no-laughing-matter-episode-005-report-it"
-msgstr "Report it!"
+msgstr "Informa"
 
 #. Default: "Cold case"
 #: osha.policy:/missing_18n_labels.py:105
 msgid "heading_napo-018-no-laughing-matter-episode-006-cold-case"
-msgstr "Cold case"
+msgstr "Un cas fred"
 
 #. Default: "Reality TV"
 #: osha.policy:/missing_18n_labels.py:106
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
-msgstr "Reality TV"
+msgstr "Telerealitat"
 
 #: osha.policy:/missing_18n_labels.py:107
 msgid "label_napo_click_to_see_film"
@@ -3275,21 +3275,23 @@ msgstr "Ara tots junts!"
 #. Default: "Napo in... No laughing matter"
 #: osha.policy:/missing_18n_labels.py:98
 msgid "heading_napo-018-no-laughing-matter"
-msgstr "Napo in... No laughing matter"
+msgstr "EN NAPO A... “NO ÉS COSA DE RIURE”"
 
 #: osha.policy:/missing_18n_labels.py:99
 msgid "description_napo-018-no-laughing-matter"
 msgstr ""
-"<p>Slips and trips are one of the most common hazards and cause tens of "
-"thousands of accidents in the workplace every year.</p><p>Most slips occur "
-"in wet or ‘contaminated’ conditions, and most trips are due to poor "
-"housekeeping. The solutions are often simple and cost effective. A suitable "
-"assessment of the risks should identify the necessary controls which include "
-"prevention of contamination, management of spillages, suitable footwear, "
-"workplace design, maintenance, appropriate flooring, good housekeeping, and "
-"effective training and supervision.</p><p>This film, which is suitable for "
-"all sectors and all levels of employees, seeks to promote good practice and "
-"emphasises that slip and trip accidents are ‘No laughing matter’.</p>"
+"<p>Les relliscades i ensopegades són un dels riscos més comuns en els llocs "
+"de treball que cada any causen desenes de milers d'accidents.</p><p>"
+"La majoria de les relliscades es produeixen en sòls humits o bruts i les "
+"ensopegades, majoritàriament, es deuen a la manca d'ordre i neteja. Les "
+"solucions són, generalment, senzilles i econòmiques. Partint d'una adequada "
+"avaluació de riscos s'identifiquen les mesures preventives necessàries que "
+"inclouen: la prevenció de vessaments, la gestió d'abocaments, l'ús de calçat "
+"adequat, el disseny de llocs de treball, el manteniment, la col · locació de "
+"sòls antilliscants, a més d’una bona neteja i una adequada supervisió.</p><p>"
+"Aquesta pel · lícula, recomanada per a treballadors de qualsevol sector i "
+"nivell, té com a objectiu promoure les bones pràctiques incidint en què els "
+"accidents per relliscades i ensopegades no són \"cosa de riure\"."
 
 #. Default: "Description"
 #: osha.policy:/patches/newsitem_patch.py:25
