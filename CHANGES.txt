@@ -4,7 +4,8 @@ osha.translations Changelog
 2.0.17 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Added another translation (EN only!) for the password help
+  message. #7595 [pysailor]
 
 
 2.0.16 (2013-09-23)
