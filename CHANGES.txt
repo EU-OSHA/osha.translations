@@ -9,6 +9,7 @@ osha.translations Changelog
 - NO and IS translations for OSHMail intro. #8709 [pysailor]
 - Missing translations in Publications section + key words without 
   capitals #8062 [pysailor]
+- Added In Focus [pysailor]
 
 
 2.0.16 (2013-09-23)
