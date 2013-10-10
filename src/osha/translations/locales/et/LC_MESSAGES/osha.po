@@ -1207,7 +1207,7 @@ msgstr "Ohtlikud ained"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "puudega inimesed"
+msgstr "Puudega inimesed"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1218,7 +1218,7 @@ msgstr "Bulgaaria teabekeskus"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "puudega inimesed"
+msgstr "Puudega inimesed"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1231,7 +1231,7 @@ msgstr "Haridus"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1243,16 +1243,16 @@ msgstr "Sooküsimused"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "rohelised töökohad"
+msgstr "Rohelised töökohad"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "tervishoid"
+msgstr "Tervishoid"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "tervishoid"
+msgstr "Tervishoid"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1274,15 +1274,15 @@ msgstr "Õigusaktid"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "hooldus"
+msgstr "Hooldus"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "juhtkonna juhtimine"
+msgstr "Juhtkonna juhtimine"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "võõrtöötajad"
+msgstr "Võõrtöötajad"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1290,7 +1290,7 @@ msgstr "Luu- ja lihaskonna vaevused"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotehnoloogia"
+msgstr "Nanotehnoloogia"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1312,7 +1312,7 @@ msgstr "Küprose teabekeskus"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Ennetamine"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "teadusuuringud"
+msgstr "Teadusuuringud"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1363,7 +1363,7 @@ msgstr "Tervisekaitse töökohas"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "töötajate osalemine"
+msgstr "Töötajate osalemine"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1371,11 +1371,14 @@ msgstr "Noored"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Praktilised lahendused, hea tava"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampaania 2012–2013"
+
+msgid "campaign_2014_15"
+msgstr "Kampaania 2014–2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

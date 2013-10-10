@@ -1208,7 +1208,7 @@ msgstr "Gevaarlijke stoffen"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "gehandicapten"
+msgstr "Gehandicapten"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1219,7 +1219,7 @@ msgstr "Bulgaars focal point"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "gehandicapten"
+msgstr "Gehandicapten"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1232,7 +1232,7 @@ msgstr "Onderwijs"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1244,16 +1244,16 @@ msgstr "Gender"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "groene banen"
+msgstr "Groene banen"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "gezondheidszorg"
+msgstr "Gezondheidszorg"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "gezondheidszorg"
+msgstr "Gezondheidszorg"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1275,15 +1275,15 @@ msgstr "Wetgeving"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "onderhoud"
+msgstr "Onderhoud"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "leiderschap door het management"
+msgstr "Leiderschap door het management"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "migrerende werknemers"
+msgstr "Migrerende werknemers"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1291,7 +1291,7 @@ msgstr "Aandoeningen aan het bewegingsapparaat"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotechnologie"
+msgstr "Nanotechnologie"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1327,7 +1327,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "onderzoek"
+msgstr "Onderzoek"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1365,7 +1365,7 @@ msgstr "Bevordering van de gezondheid op het werk"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "werknemersparticipatie"
+msgstr "Werknemersparticipatie"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1373,11 +1373,14 @@ msgstr "Jonge mensen"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Praktische oplossingen, goede praktijken"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Campagne 2012 - 2013"
+
+msgid "campaign_2014_15"
+msgstr "Campagne 2014 - 2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

@@ -1207,7 +1207,7 @@ msgstr "Osobe s invaliditetom"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
-msgstr "ekonomski poticaji"
+msgstr "Ekonomski poticaji"
 
 #: osha.policy:/missing_18n_labels.py:242
 msgid "education"
@@ -1228,7 +1228,7 @@ msgstr "Spol"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "zeleni poslovi"
+msgstr "Zeleni poslovi"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
@@ -1257,15 +1257,15 @@ msgstr "Zakonodavstvo"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "održavanje"
+msgstr "Održavanje"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "menadžment liderstvo"
+msgstr "Menadžment liderstvo"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "radnici migranti"
+msgstr "Radnici migranti"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1273,7 +1273,7 @@ msgstr "Mišićno-koštani poremećaji"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotehnologija"
+msgstr "Nanotehnologija"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1293,7 +1293,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "prevencija"
+msgstr "Prevencija"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1334,7 +1334,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:270
 msgid "transport"
-msgstr "prijevoz"
+msgstr "Prijevoz"
 
 #: osha.policy:/missing_18n_labels.py:271
 msgid "whp"
@@ -1342,7 +1342,7 @@ msgstr "Promocija zdravlja na radnome mjestu"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "sudjelovanje radnika"
+msgstr "Sudjelovanje radnika"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1350,11 +1350,14 @@ msgstr "Mladi ljudi"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Praktična rješenja, Dobra praksa"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampanja 2012. – 2013."
+
+msgid "campaign_2014_15"
+msgstr "Kampanja 2014. – 2015."
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577
@@ -1615,7 +1618,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:340
 msgid "foresight"
-msgstr ""
+msgstr "Foresight"
 
 #: osha.policy:/missing_18n_labels.py:341
 msgid "forward"

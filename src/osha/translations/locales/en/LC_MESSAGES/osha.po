@@ -1231,7 +1231,7 @@ msgstr "Education"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1312,7 +1312,7 @@ msgstr "Cypriot Focal Point"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Forebyggelse"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1371,11 +1371,15 @@ msgstr "Young people"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Praktiske løsninger, god praksis"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampagne 2012 - 2013"
+
+#: osha.policy:/missing_18n_labels.py:275
+msgid "campaign_2014_15"
+msgstr "Kampagne 2014 - 2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

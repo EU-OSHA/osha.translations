@@ -1184,7 +1184,7 @@ msgstr "Aspetti kummerċjali tal-OHS"
 
 #: osha.policy:/missing_18n_labels.py:233
 msgid "cleaners"
-msgstr "ħaddiema tat-tindif"
+msgstr "Ħaddiema tat-tindif"
 
 #: osha.policy:/missing_18n_labels.py:234
 msgid "competitions"
@@ -1232,7 +1232,7 @@ msgstr "Edukazzjoni"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1244,7 +1244,7 @@ msgstr "Sess"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "impjiegi ħodor"
+msgstr "Impjiegi ħodor"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
@@ -1275,15 +1275,15 @@ msgstr "Legiżlazzjoni"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "manutenzjoni"
+msgstr "Manutenzjoni"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "tmexxija amministrattiva"
+msgstr "Tmexxija amministrattiva"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "ħaddiema migranti"
+msgstr "Ħaddiema migranti"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1291,7 +1291,7 @@ msgstr "Disturbi Muskulo-skeletali"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanoteknoloġija"
+msgstr "Nanoteknoloġija"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1313,7 +1313,7 @@ msgstr "Il-Punt Fokali Ċiprijott"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Prevenzjoni"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "riċerka"
+msgstr "Riċerka"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1364,7 +1364,7 @@ msgstr "Promozzjoni tas-Saħħa fuq il-Post tax-Xogħol"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "parteċipazzjoni tal-ħaddiema"
+msgstr "Parteċipazzjoni tal-ħaddiema"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1372,11 +1372,14 @@ msgstr "Żgħażagħ"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Soluzzjonijiet Prattiċi, Prattika Tajba"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampanja 2012 - 2013"
+
+msgid "campaign_2014_15"
+msgstr "Kampanja 2014 - 2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

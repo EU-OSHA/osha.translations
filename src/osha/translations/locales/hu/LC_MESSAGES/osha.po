@@ -1207,7 +1207,7 @@ msgstr "Veszélyes anyagok"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "mozgáskorlátozottak"
+msgstr "Mozgáskorlátozottak"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1218,7 +1218,7 @@ msgstr "Bolgár fókuszpont"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "mozgáskorlátozottak"
+msgstr "Mozgáskorlátozottak"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1231,7 +1231,7 @@ msgstr "Oktatás"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1243,16 +1243,16 @@ msgstr "Társadalmi nem"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "zöld munkahelyek"
+msgstr "Zöld munkahelyek"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "egészségügy"
+msgstr "Egészségügy"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "egészségügy"
+msgstr "Egészségügy"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1274,15 +1274,15 @@ msgstr "Jogszabályok"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "karbantartás"
+msgstr "Karbantartás"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "irányítás vezetés"
+msgstr "Irányítás vezetés"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "bevándorló munkavállalók"
+msgstr "Bevándorló munkavállalók"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1312,7 +1312,7 @@ msgstr "Ciprusi fókuszpont"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Megelőzés"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "kutatás"
+msgstr "Kutatás"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1363,7 +1363,7 @@ msgstr "Munkahelyi egészségfejlesztés"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "dolgozói részvétel"
+msgstr "Dolgozói részvétel"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1371,11 +1371,14 @@ msgstr "Fiatalok"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Gyakorlati megoldások, Helyes gyakorlat"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "2012-2013. évi kampány"
+
+msgid "campaign_2014_15"
+msgstr "2014-2015. évi kampány"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

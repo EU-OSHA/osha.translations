@@ -1208,7 +1208,7 @@ msgstr "Farliga ämnen"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "funktionshindrade"
+msgstr "Funktionshindrade"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1219,7 +1219,7 @@ msgstr "Bulgariska kontaktpunkten"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "funktionshindrade"
+msgstr "Funktionshindrade"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1232,7 +1232,7 @@ msgstr "Utbildning"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1244,16 +1244,16 @@ msgstr "Könselaterade frågor"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "gröna jobb"
+msgstr "Gröna jobb"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "hälsovård"
+msgstr "Hälsovård"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "hälsovård"
+msgstr "Hälsovård"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1275,15 +1275,15 @@ msgstr "Lagstiftning"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "underhåll"
+msgstr "Underhåll"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "ledning och ledarskap"
+msgstr "Ledning och ledarskap"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "gästarbetare"
+msgstr "Gästarbetare"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1291,7 +1291,7 @@ msgstr "Belastningsskador"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanoteknik"
+msgstr "Nanoteknik"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1313,7 +1313,7 @@ msgstr "Cypriotiska kontaktpunkten"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Förebyggande"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "forskning"
+msgstr "Forskning"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1364,7 +1364,7 @@ msgstr "Hälsofrämjande insatser på arbetsplatsen"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "arbetstagarnas medverkan"
+msgstr "Arbetstagarnas medverkan"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1372,11 +1372,14 @@ msgstr "Unga människor"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Praktiska lösningar, God praxis"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampanj 2012–2013"
+
+msgid "campaign_2014_15"
+msgstr "Kampanj 2014–2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

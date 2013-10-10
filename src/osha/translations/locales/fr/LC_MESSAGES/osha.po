@@ -1212,7 +1212,7 @@ msgstr "Substances dangereuses"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "personnes handicapées"
+msgstr "Personnes handicapées"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1223,7 +1223,7 @@ msgstr "Point focal bulgare"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "personnes handicapées"
+msgstr "Personnes handicapées"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1236,7 +1236,7 @@ msgstr "Éducation"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1248,16 +1248,16 @@ msgstr "Dimension de genre"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "emplois verts"
+msgstr "Emplois verts"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "soins de santé"
+msgstr "Soins de santé"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "soins de santé"
+msgstr "Soins de santé"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1279,15 +1279,15 @@ msgstr "Législation"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "maintenance"
+msgstr "Maintenance"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "direction de la gestion"
+msgstr "Direction de la gestion"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "travailleurs migrants"
+msgstr "Travailleurs migrants"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1295,7 +1295,7 @@ msgstr "Troubles musculo-squelettiques"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotechnologies"
+msgstr "Nanotechnologies"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1317,7 +1317,7 @@ msgstr "Point focal chypriote"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Prévention"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1376,11 +1376,14 @@ msgstr "Jeunes"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Solutions pratiques, bonne pratique"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Campagne 2012 - 2013"
+
+msgid "campaign_2014_15"
+msgstr "Campagne 2014 - 2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

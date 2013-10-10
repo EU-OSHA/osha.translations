@@ -1215,7 +1215,7 @@ msgstr "Sustancias peligrosas"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "personas discapacitadas"
+msgstr "Personas discapacitadas"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1226,7 +1226,7 @@ msgstr "Centro de Referencia de Bulgaria"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "personas discapacitadas"
+msgstr "Personas discapacitadas"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1239,7 +1239,7 @@ msgstr "Educación"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1251,16 +1251,16 @@ msgstr "Género"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "trabajos \"verdes\""
+msgstr "Trabajos \"verdes\""
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "atención sanitaria"
+msgstr "Atención sanitaria"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "atención sanitaria"
+msgstr "Atención sanitaria"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1282,15 +1282,15 @@ msgstr "Legislación"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "mantenimiento"
+msgstr "Mantenimiento"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "liderazgo de la gestión"
+msgstr "Liderazgo de la gestión"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "trabajadores emigrantes"
+msgstr "Trabajadores emigrantes"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1298,7 +1298,7 @@ msgstr "Trastornos musculoesqueléticos"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotecnología"
+msgstr "Nanotecnología"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1320,7 +1320,7 @@ msgstr "Centro de referencia de Chipre"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Prevención"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1333,7 +1333,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "investigación"
+msgstr "Investigación"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1371,7 +1371,7 @@ msgstr "Promoción de la salud en el trabajo"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "participación de los trabajadores"
+msgstr "Participación de los trabajadores"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1379,11 +1379,14 @@ msgstr "Jóvenes"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Soluciones prácticas, buenas prácticas"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Campaña 2012 -2013"
+
+msgid "campaign_2014_15"
+msgstr "Campaña 2014 -2015Prevención"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

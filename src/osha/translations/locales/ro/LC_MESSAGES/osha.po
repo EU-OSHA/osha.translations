@@ -1209,7 +1209,7 @@ msgstr "Substanţe periculoase"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "persoane cu handicap"
+msgstr "Persoane cu handicap"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1220,7 +1220,7 @@ msgstr "Punctul focal din Bulgaria"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "persoane cu handicap"
+msgstr "Persoane cu handicap"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1233,7 +1233,7 @@ msgstr "Educaţia"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1245,16 +1245,16 @@ msgstr "Aspecte de gen"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "locuri de muncă ecologice"
+msgstr "Locuri de muncă ecologice"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "sănătate"
+msgstr "Sănătate"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "sănătate"
+msgstr "Sănătate"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1276,15 +1276,15 @@ msgstr "Legislaţia"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "mentenanţă"
+msgstr "Mentenanţă"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "aptitudini de conducere şi de gestionare"
+msgstr "Aptitudini de conducere şi de gestionare"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "lucrători migranţi "
+msgstr "Lucrători migranţi "
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1292,7 +1292,7 @@ msgstr "Afecţiuni musculo-scheletale"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotehnologie"
+msgstr "Nanotehnologie"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1314,7 +1314,7 @@ msgstr "Punctul focal din Cipru"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Prevenire"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1327,7 +1327,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "cercetare"
+msgstr "Cercetare"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1365,7 +1365,7 @@ msgstr "Promovarea sănătăţii la locul de muncă"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "participarea lucrătorilor"
+msgstr "Participarea lucrătorilor"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1373,11 +1373,14 @@ msgstr "Persoane tinere"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Soluţii practice, bună practică"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Campania 2012 - 2013"
+
+msgid "campaign_2014_15"
+msgstr "Campania 2014 - 2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577

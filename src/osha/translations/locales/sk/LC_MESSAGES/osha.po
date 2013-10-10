@@ -1184,7 +1184,7 @@ msgstr "Podnikateľské aspekty BOZP"
 
 #: osha.policy:/missing_18n_labels.py:233
 msgid "cleaners"
-msgstr "čistenie pracovníkov"
+msgstr "Čistenie pracovníkov"
 
 #: osha.policy:/missing_18n_labels.py:234
 msgid "competitions"
@@ -1208,7 +1208,7 @@ msgstr "Nebezpečné látky"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "osoby s postihnutím"
+msgstr "Osoby s postihnutím"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1219,7 +1219,7 @@ msgstr "Koordinačné stredisko v Bulharsku"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "osoby s postihnutím"
+msgstr "Osoby s postihnutím"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1232,7 +1232,7 @@ msgstr "Vzdelanie"
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
 msgid "esener"
-msgstr ""
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:244
 msgid "fisheries"
@@ -1244,16 +1244,16 @@ msgstr "Rodová rovnosť"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "zelené pracovné miesta"
+msgstr "Zelené pracovné miesta"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "zdravotnícka starostlivosť"
+msgstr "Zdravotnícka starostlivosť"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "zdravotnícka starostlivosť"
+msgstr "Zdravotnícka starostlivosť"
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1275,15 +1275,15 @@ msgstr "Legislatíva"
 
 #: osha.policy:/missing_18n_labels.py:252
 msgid "maintenance"
-msgstr "údržba"
+msgstr "Údržba"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "spôsob vedenia na úrovni riadenia"
+msgstr "Spôsob vedenia na úrovni riadenia"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "migrujúci pracovníci"
+msgstr "Migrujúci pracovníci"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1291,7 +1291,7 @@ msgstr "Poškodenia podporno-pohybovej sústavy"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "nanotechnológia"
+msgstr "Nanotechnológia"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1313,7 +1313,7 @@ msgstr "Koordinačné stredisko na Cypre"
 
 #: osha.policy:/missing_18n_labels.py:260
 msgid "prevention"
-msgstr "Prevention"
+msgstr "Prevencia"
 
 #: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
 msgid "provider"
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "výskum"
+msgstr "Výskum"
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1364,7 +1364,7 @@ msgstr "Propagácia zdravia na pracovisku"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "účasť zamestnancov"
+msgstr "Účasť zamestnancov"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
@@ -1372,11 +1372,14 @@ msgstr "Mladí ľudia"
 
 #: osha.policy:/missing_18n_labels.py:274
 msgid "Practical Solutions, Good Practice"
-msgstr ""
+msgstr "Praktické riešenia, dobrá prax"
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampaň 2012 – 2013"
+
+msgid "campaign_2014_15"
+msgstr "Kampaň 2014 – 2015"
 
 #: osha.policy:/missing_18n_labels.py:279
 #: osha.policy:/missing_18n_labels.py:577
