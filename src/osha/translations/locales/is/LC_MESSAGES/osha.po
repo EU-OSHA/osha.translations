@@ -20,7 +20,7 @@ msgstr ""
 
 #. Default: "OSHA Metadata"
 #: osha.adaptation:/schema.py:292
-msgid "OSHAMetadata_label"
+msgid "OSHAMetadata_label"You did not enter a valid email address.
 msgstr ""
 
 #. Default: "Choose the relevant metadata"
@@ -3914,7 +3914,7 @@ msgstr ""
 #: osha.theme:/browser/oshmail_subscribe.py:29
 #: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
 msgid "You did not enter a valid email address."
-msgstr ""
+msgstr "Þú gafst ekki upp rétt tölvupóstfang."
 
 #: osha.theme:/browser/oshmail_subscribe.py:39
 msgid ""
@@ -3926,7 +3926,7 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_subscribe.py:54
 msgid "Your subscription could not be sent. Please try again."
-msgstr ""
+msgstr "Ekki var hægt að senda áskriftarbeiðni þína. Vinsamlegast reynið aftur."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
@@ -3934,7 +3934,7 @@ msgstr "Þakka þér fyrir! Áskrift þinni hefur verið sagt upp."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:35
 msgid "Your unsubscription request could not be sent. Please try again."
-msgstr ""
+msgstr "Ekki var hægt að senda ósk þína um uppsögn áskriftar. Vinsamlegast reynið aftur."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:44
 msgid "You are still subscribed to the mailing list."
@@ -4269,7 +4269,7 @@ msgstr "Hlaða ${link}."
 #. Default: "Close"
 #: osha.theme:/browser/templates/oshmail_view.pt:160
 msgid "label_close_overlay"
-msgstr ""
+msgstr "Loka"
 
 #: osha.theme:/browser/templates/oshmail_view.pt:32
 msgid "OSHmail newsletter"
@@ -4282,7 +4282,7 @@ msgstr "Áskrift"
 
 #: osha.theme:/browser/templates/oshmail_view.pt:46
 msgid "Not interested any more?"
-msgstr "Hefur þú ekki lengur áhuga?"
+msgstr "Er áhugi ekki lengur til staðar?"
 
 #: osha.theme:/browser/templates/oshmail_view.pt:47
 #: osha.theme:/browser/templates/oshmail_view.pt:144

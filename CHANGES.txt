@@ -6,6 +6,7 @@ osha.translations Changelog
 
 - Added another translation (EN only!) for the password help
   message. #7595 [pysailor]
+- NO and IS translations for OSHMail intro. #8709 [pysailor]
 
 
 2.0.16 (2013-09-23)

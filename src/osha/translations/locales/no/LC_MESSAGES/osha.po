@@ -3916,7 +3916,7 @@ msgstr ""
 #: osha.theme:/browser/oshmail_subscribe.py:29
 #: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
 msgid "You did not enter a valid email address."
-msgstr ""
+msgstr "Du har ikke oppgitt en gyldig e-postadresse."
 
 #: osha.theme:/browser/oshmail_subscribe.py:39
 msgid ""
@@ -3928,7 +3928,7 @@ msgstr ""
 
 #: osha.theme:/browser/oshmail_subscribe.py:54
 msgid "Your subscription could not be sent. Please try again."
-msgstr ""
+msgstr "Anmodningen om tegning av abonnement kunne ikke sendes. Prøv igjen."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:30
 msgid "Thank you! You have been unsubscribed succesfully."
@@ -3936,7 +3936,7 @@ msgstr "Takk! Abonnementet ditt er nå avsluttet."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:35
 msgid "Your unsubscription request could not be sent. Please try again."
-msgstr ""
+msgstr "Oppsigelsen av abonnementet kunne ikke sendes. Prøv igjen."
 
 #: osha.theme:/browser/oshmail_unsubscribe.py:44
 msgid "You are still subscribed to the mailing list."
@@ -4271,7 +4271,7 @@ msgstr "Last ${link}."
 #. Default: "Close"
 #: osha.theme:/browser/templates/oshmail_view.pt:160
 msgid "label_close_overlay"
-msgstr ""
+msgstr "Lukk"
 
 #: osha.theme:/browser/templates/oshmail_view.pt:32
 msgid "OSHmail newsletter"
