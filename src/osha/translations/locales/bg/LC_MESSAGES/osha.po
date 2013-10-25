@@ -1209,7 +1209,7 @@ msgstr "Опасни вещества"
 
 #: osha.policy:/missing_18n_labels.py:239
 msgid "disability"
-msgstr "лица с увреждания"
+msgstr "Хора с увреждания"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1220,7 +1220,7 @@ msgstr "Български национален координатор"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
 msgid "disabled_people"
-msgstr "лица с увреждания"
+msgstr "Хора с увреждания"
 
 #: osha.policy:/missing_18n_labels.py:241
 msgid "economic_incentives"
@@ -1228,7 +1228,7 @@ msgstr "Икономически стимули"
 
 #: osha.policy:/missing_18n_labels.py:242
 msgid "education"
-msgstr "Образование"
+msgstr "Образование "
 
 #. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
@@ -1245,16 +1245,16 @@ msgstr "Пол"
 
 #: osha.policy:/missing_18n_labels.py:246
 msgid "green_jobs"
-msgstr "зелени работни места"
+msgstr "Зелени работни места"
 
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
 msgid "health_care"
-msgstr "здравеопазване"
+msgstr "Здравеопазване "
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "healthcare"
-msgstr "здравеопазване"
+msgstr "Здравеопазване "
 
 #: osha.policy:/missing_18n_labels.py:249
 msgid "horeca"
@@ -1280,11 +1280,11 @@ msgstr "Поддръжка"
 
 #: osha.policy:/missing_18n_labels.py:253
 msgid "management_leadership"
-msgstr "управленско ръководство"
+msgstr "Управленско ръководство"
 
 #: osha.policy:/missing_18n_labels.py:254
 msgid "migrant_workers"
-msgstr "работници мигранти"
+msgstr "Работници мигранти"
 
 #: osha.policy:/missing_18n_labels.py:255
 msgid "msd"
@@ -1292,7 +1292,7 @@ msgstr "Мускулно-скелетни смущения"
 
 #: osha.policy:/missing_18n_labels.py:256
 msgid "nanotechnology"
-msgstr "нанотехнология"
+msgstr "Нанотехнологии"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "noise"
@@ -1327,7 +1327,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:263
 msgid "research"
-msgstr "проучване"
+msgstr "Проучване "
 
 #: osha.policy:/missing_18n_labels.py:264
 msgid "risk_assessment"
@@ -1365,7 +1365,7 @@ msgstr "Популяризиране на здравето на работнот
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "worker_participation"
-msgstr "участие на работниците"
+msgstr "Участие на работниците"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "young_people"
