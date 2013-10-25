@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.17 (unreleased)
+2.0.17 (2013-10-25)
 -------------------
 
 - Added another translation (EN only!) for the password help
