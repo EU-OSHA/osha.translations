@@ -1374,12 +1374,12 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:275
 msgid "Campaign 2012-2013"
-msgstr ""
+msgstr "Kampagne 2012 - 2013"
 
 #. Default: "Campaign 2014-2015"
 #: osha.policy:/missing_18n_labels.py:276
 msgid "campaign_2014_15"
-msgstr ""
+msgstr "Kampagne 2014 - 2015"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
