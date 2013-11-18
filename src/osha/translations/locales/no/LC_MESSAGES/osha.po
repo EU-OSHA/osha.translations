@@ -4308,7 +4308,7 @@ msgstr "Ikke interessert lenger?"
 #: osha.theme:/browser/templates/oshmail_view.pt:144
 #: osha.theme:/browser/templates/oshmail_view.pt:151
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Avslutt abonnementet"
 
 #. Default: "Latest newsletter"
 #: osha.theme:/browser/templates/oshmail_view.pt:69

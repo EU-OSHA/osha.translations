@@ -4309,7 +4309,7 @@ msgstr "Er áhugi ekki lengur til staðar?"
 #: osha.theme:/browser/templates/oshmail_view.pt:144
 #: osha.theme:/browser/templates/oshmail_view.pt:151
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Afpanta áskrift að"
 
 #. Default: "Latest newsletter"
 #: osha.theme:/browser/templates/oshmail_view.pt:69
