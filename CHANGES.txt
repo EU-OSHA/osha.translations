@@ -4,8 +4,9 @@ osha.translations Changelog
 2.0.18 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Missing keyword translation due to typo #9077
+- 2 missing translations in IS #9035
+- Unsubscribe in IS and NO #8709
 
 2.0.17 (2013-10-25)
 -------------------
