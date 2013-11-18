@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.18 (unreleased)
+2.0.18 (2013-11-18)
 -------------------
 
 - Missing keyword translation due to typo #9077
