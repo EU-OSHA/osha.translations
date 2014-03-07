@@ -4,8 +4,7 @@ osha.translations Changelog
 2.0.19 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- HR poirtlet text #9535
 
 2.0.18 (2013-11-18)
 -------------------

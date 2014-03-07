@@ -5006,7 +5006,7 @@ msgstr "Možete koristiti i ${label_our_alert_service} !"
 #. Default: "our Alert Service"
 #: osha.theme:/portlets/subscribe_mailinglists.pt:17
 msgid "label_our_alert_service"
-msgstr "naša usluga upozorenja"
+msgstr "našu uslugu upozorenja"
 
 #: osha.theme:/portlets/subscribe_mailinglists.py:26
 #: osha.theme:/portlets/subscribe_mailinglists.py:64
