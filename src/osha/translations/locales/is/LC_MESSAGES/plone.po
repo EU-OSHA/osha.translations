@@ -31,5 +31,5 @@ msgstr "Aðrar fréttir…"
 msgid "box_previous_events"
 msgstr "Fyrri viðburðir…"
 
-msgid "box_news"
-msgstr "Fréttir"
+#~ msgid "box_news"
+#~ msgstr "Fréttir"

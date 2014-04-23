@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Mon Nov 18 15:28:14 2013\n"
+"POT-Creation-Date: Wed Apr 23 15:58:23 2014\n"
 "PO-Revision-Date: 2013-07-04 17:43+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -267,7 +267,7 @@ msgstr "Εκδόσεις"
 
 #. Default: "Risk Observatory"
 #: osha.fop:/browser/oshnetwork_member_view.pt:89
-#: osha.policy:/missing_18n_labels.py:265
+#: osha.policy:/missing_18n_labels.py:274
 msgid "risk_observatory"
 msgstr "Παρατηρητήριο κινδύνων"
 
@@ -450,55 +450,55 @@ msgstr ""
 msgid "Publication"
 msgstr "Δημοσίευση"
 
-#: osha.policy:/handlers.py:289
+#: osha.policy:/handlers.py:292
 msgid "A comment has been posted."
 msgstr ""
 
-#: osha.policy:/interfaces.py:17
+#: osha.policy:/interfaces.py:18
 msgid "Driver name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:18
+#: osha.policy:/interfaces.py:19
 msgid "The database driver name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:21
+#: osha.policy:/interfaces.py:22
 msgid "Host name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:22
+#: osha.policy:/interfaces.py:23
 msgid "The database host name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:26
+#: osha.policy:/interfaces.py:27
 msgid "Port number"
 msgstr ""
 
-#: osha.policy:/interfaces.py:27
+#: osha.policy:/interfaces.py:28
 msgid "The database port number. Leave blank to use the default."
 msgstr ""
 
-#: osha.policy:/interfaces.py:30
+#: osha.policy:/interfaces.py:31
 msgid "User name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:31
+#: osha.policy:/interfaces.py:32
 msgid "The database user name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:33
+#: osha.policy:/interfaces.py:34
 msgid "Password"
 msgstr ""
 
-#: osha.policy:/interfaces.py:34
+#: osha.policy:/interfaces.py:35
 msgid "The database password"
 msgstr ""
 
-#: osha.policy:/interfaces.py:36
+#: osha.policy:/interfaces.py:37
 msgid "Database name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:37
+#: osha.policy:/interfaces.py:38
 msgid "The name of the database on this server"
 msgstr ""
 
@@ -542,486 +542,485 @@ msgstr "Παγοδρόμιο!"
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
 msgstr "Από την τηλεόραση…στην πραγματικότητα"
 
+#. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
+msgid "heading_napo-019-when-stress-strikes"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:108
+msgid "description_napo-019-when-stress-strikes"
+msgstr ""
+
+#. Default: "Model worker"
+#: osha.policy:/missing_18n_labels.py:109
+msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
+msgstr ""
+
+#. Default: "Always available"
+#: osha.policy:/missing_18n_labels.py:110
+msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
+msgstr ""
+
+#. Default: "Change is now!"
+#: osha.policy:/missing_18n_labels.py:111
+msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
+msgstr ""
+
+#. Default: "No respect"
+#: osha.policy:/missing_18n_labels.py:112
+msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
+msgstr ""
+
+#. Default: "Contradictory orders"
+#: osha.policy:/missing_18n_labels.py:113
+msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
+msgstr ""
+
+#. Default: "Counter stress"
+#: osha.policy:/missing_18n_labels.py:114
+msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
+msgstr ""
+
+#. Default: "Nightmare care"
+#: osha.policy:/missing_18n_labels.py:115
+msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"
 msgstr "Click the image to see the film..."
 
-#: osha.policy:/missing_18n_labels.py:108
+#: osha.policy:/missing_18n_labels.py:117
 msgid "napo_back_to_lesson"
 msgstr "Επιστροφή στο μάθημα"
 
 #. Default: "Chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:109
+#: osha.policy:/missing_18n_labels.py:118
 msgid "title_napo_episode_12_1"
 msgstr "Χημικοί κίνδυνοι στην εργασία"
 
 #. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:110
+#: osha.policy:/missing_18n_labels.py:119
 msgid "title_napo_episode_12_2"
 msgstr "Επιβλαβείς"
 
 #. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:111
+#: osha.policy:/missing_18n_labels.py:120
 msgid "title_napo_episode_12_3"
 msgstr "Ερεθιστικοί"
 
 #. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:112
+#: osha.policy:/missing_18n_labels.py:121
 msgid "title_napo_episode_12_4"
 msgstr "Εύφλεκτοι"
 
 #. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:113
+#: osha.policy:/missing_18n_labels.py:122
 msgid "title_napo_episode_12_5"
 msgstr "Διαβρωτικοί"
 
 #. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:114
+#: osha.policy:/missing_18n_labels.py:123
 msgid "title_napo_episode_12_6"
 msgstr "Τοξικοί"
 
 #. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:115
+#: osha.policy:/missing_18n_labels.py:124
 msgid "title_napo_episode_12_7"
 msgstr "Επικίνδυνοι για το περιβάλλον"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:116
+#: osha.policy:/missing_18n_labels.py:125
 msgid "title_napo_episode_12_8"
 msgstr "Τέλος"
 
 #. Default: "Lock out"
-#: osha.policy:/missing_18n_labels.py:117
+#: osha.policy:/missing_18n_labels.py:126
 msgid "title_napo_episode_14_1"
 msgstr "Ασφαλείς διαδικασίες"
 
 #. Default: "Hidden hazards"
-#: osha.policy:/missing_18n_labels.py:118
+#: osha.policy:/missing_18n_labels.py:127
 msgid "title_napo_episode_14_2"
 msgstr "Κρυμμένες πηγές κινδύνου"
 
 #. Default: "Don't improvise!"
-#: osha.policy:/missing_18n_labels.py:119
+#: osha.policy:/missing_18n_labels.py:128
 msgid "title_napo_episode_14_3"
 msgstr "Μην αυτοσχεδιάζετε!"
 
 #. Default: "In a rush"
-#: osha.policy:/missing_18n_labels.py:120
+#: osha.policy:/missing_18n_labels.py:129
 msgid "title_napo_episode_14_4"
 msgstr "Έντονος ρυθμός εργασίας!"
-
-#. Default: "Danger within!"
-#: osha.policy:/missing_18n_labels.py:121
-msgid "title_napo_episode_14_5"
-msgstr "Κλειστός χώρος. Κίνδυνος!"
-
-#. Default: "One, two, what to do?"
-#: osha.policy:/missing_18n_labels.py:122
-msgid "title_napo_episode_14_6"
-msgstr "Απευθυνθείτε στον αρμόδιο!"
-
-#. Default: "Best signs story"
-#: osha.policy:/missing_18n_labels.py:123
-msgid "title_napo_episode_1_0"
-msgstr "Υποχρεωτική χρήση κράνους"
-
-#. Default: "Danger"
-#: osha.policy:/missing_18n_labels.py:124
-msgid "title_napo_episode_1_1"
-msgstr "Σήμανση Διάσωσης"
-
-#. Default: "Safety helmet must be worn"
-#: osha.policy:/missing_18n_labels.py:125
-msgid "title_napo_episode_1_10"
-msgstr "Υποχρεωτική χρήση κράνους"
-
-#. Default: "Rescue signs"
-#: osha.policy:/missing_18n_labels.py:126
-msgid "title_napo_episode_1_11"
-msgstr "Σήμανση Διάσωσης"
-
-#. Default: "Rescue route"
-#: osha.policy:/missing_18n_labels.py:127
-msgid "title_napo_episode_1_12"
-msgstr "Έξοδος κινδύνου"
-
-#. Default: "First aid"
-#: osha.policy:/missing_18n_labels.py:128
-msgid "title_napo_episode_1_13"
-msgstr "Πρώτες βοήθειες"
-
-#. Default: "Fire protection signs"
-#: osha.policy:/missing_18n_labels.py:129
-msgid "title_napo_episode_1_14"
-msgstr "Σήμανση Υλικών/Εξοπλισμού Πυρόσβεσης"
 
 #: osha.policy:/missing_18n_labels.py:13
 msgid "Privacy Policy"
 msgstr "Πολιτική προστασίας προσωπικών δεδομένων"
 
-#. Default: "Fire-extinguishing equipment"
+#. Default: "Danger within!"
 #: osha.policy:/missing_18n_labels.py:130
+msgid "title_napo_episode_14_5"
+msgstr "Κλειστός χώρος. Κίνδυνος!"
+
+#. Default: "One, two, what to do?"
+#: osha.policy:/missing_18n_labels.py:131
+msgid "title_napo_episode_14_6"
+msgstr "Απευθυνθείτε στον αρμόδιο!"
+
+#. Default: "Best signs story"
+#: osha.policy:/missing_18n_labels.py:132
+msgid "title_napo_episode_1_0"
+msgstr "Υποχρεωτική χρήση κράνους"
+
+#. Default: "Danger"
+#: osha.policy:/missing_18n_labels.py:133
+msgid "title_napo_episode_1_1"
+msgstr "Σήμανση Διάσωσης"
+
+#. Default: "Safety helmet must be worn"
+#: osha.policy:/missing_18n_labels.py:134
+msgid "title_napo_episode_1_10"
+msgstr "Υποχρεωτική χρήση κράνους"
+
+#. Default: "Rescue signs"
+#: osha.policy:/missing_18n_labels.py:135
+msgid "title_napo_episode_1_11"
+msgstr "Σήμανση Διάσωσης"
+
+#. Default: "Rescue route"
+#: osha.policy:/missing_18n_labels.py:136
+msgid "title_napo_episode_1_12"
+msgstr "Έξοδος κινδύνου"
+
+#. Default: "First aid"
+#: osha.policy:/missing_18n_labels.py:137
+msgid "title_napo_episode_1_13"
+msgstr "Πρώτες βοήθειες"
+
+#. Default: "Fire protection signs"
+#: osha.policy:/missing_18n_labels.py:138
+msgid "title_napo_episode_1_14"
+msgstr "Σήμανση Υλικών/Εξοπλισμού Πυρόσβεσης"
+
+#. Default: "Fire-extinguishing equipment"
+#: osha.policy:/missing_18n_labels.py:139
 msgid "title_napo_episode_1_15"
 msgstr "Εξοπλισμός πυρόσβεσης"
 
+#: osha.policy:/missing_18n_labels.py:14
+msgid "Send this"
+msgstr "Αποστολή"
+
 #. Default: "Fire alarm system"
-#: osha.policy:/missing_18n_labels.py:131
+#: osha.policy:/missing_18n_labels.py:140
 msgid "title_napo_episode_1_16"
 msgstr "Σύστημα συναγερμού πυρκαγιάς"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:132
+#: osha.policy:/missing_18n_labels.py:141
 msgid "title_napo_episode_1_17"
 msgstr "Τέλος"
 
 #. Default: "Danger - suspended load"
-#: osha.policy:/missing_18n_labels.py:133
+#: osha.policy:/missing_18n_labels.py:142
 msgid "title_napo_episode_1_2"
 msgstr "Έξοδος κινδύνου"
 
 #. Default: "Danger - fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:134
+#: osha.policy:/missing_18n_labels.py:143
 msgid "title_napo_episode_1_3"
 msgstr "Πρώτες βοήθειες"
 
 #. Default: "Prohibition signs"
-#: osha.policy:/missing_18n_labels.py:135
+#: osha.policy:/missing_18n_labels.py:144
 msgid "title_napo_episode_1_4"
 msgstr "Σήμανση Υλικών/Εξοπλισμού Πυρόσβεσης"
 
 #. Default: "No smoking"
-#: osha.policy:/missing_18n_labels.py:136
+#: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_1_5"
 msgstr "Εξοπλισμός πυρόσβεσης"
 
 #. Default: "No fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:137
+#: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_1_6"
 msgstr "Σύστημα συναγερμού πυρκαγιάς"
 
 # ###
 # NAPO
 #. Default: "Mandantory signs"
-#: osha.policy:/missing_18n_labels.py:138
+#: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_1_7"
 msgstr "Σήμανση Υποχρέωσης"
 
 #. Default: "Safety goggles must be worn"
-#: osha.policy:/missing_18n_labels.py:139
+#: osha.policy:/missing_18n_labels.py:148
 msgid "title_napo_episode_1_8"
 msgstr "Υποχρεωτική χρήση προστατευτικών γυαλιών"
 
-#: osha.policy:/missing_18n_labels.py:14
-msgid "Send this"
-msgstr "Αποστολή"
-
 #. Default: "Hearing protection must be worn"
-#: osha.policy:/missing_18n_labels.py:140
+#: osha.policy:/missing_18n_labels.py:149
 msgid "title_napo_episode_1_9"
 msgstr "Υποχρεωτική χρήση προστατευτικού εξοπλισμού ακοής"
-
-#. Default: "The adventures of NAPO"
-#: osha.policy:/missing_18n_labels.py:141
-msgid "title_napo_episode_2_0"
-msgstr "Οι περιπέτειες του Νάπο"
-
-#. Default: "The importance of signposting"
-#: osha.policy:/missing_18n_labels.py:142
-msgid "title_napo_episode_2_1"
-msgstr "Η σήμανση είναι σημαντική"
-
-#. Default: "Signposting is not sufficient"
-#: osha.policy:/missing_18n_labels.py:143
-msgid "title_napo_episode_2_2"
-msgstr "Η σήμανση δεν είναι ικανοποιητική"
-
-#. Default: "Labels should be read"
-#: osha.policy:/missing_18n_labels.py:144
-msgid "title_napo_episode_2_3"
-msgstr "Πρέπει να διαβάζετε τις ετικέτες"
-
-#. Default: "Choose public transports"
-#: osha.policy:/missing_18n_labels.py:145
-msgid "title_napo_episode_2_4"
-msgstr "Να επιλέγετε τις δημόσιες συγκοινωνίες"
-
-#. Default: "The right protection at the right time"
-#: osha.policy:/missing_18n_labels.py:146
-msgid "title_napo_episode_2_5"
-msgstr "Κατάλληλη προστασία την κατάλληλη στιγμή"
-
-#. Default: "Improvising means risk taking"
-#: osha.policy:/missing_18n_labels.py:147
-msgid "title_napo_episode_2_6"
-msgstr "Αυτοσχεδιάζω σημαίνει παίρνω ρίσκο"
-
-#. Default: "Each product has its own packaging"
-#: osha.policy:/missing_18n_labels.py:148
-msgid "title_napo_episode_2_7"
-msgstr "Κάθε προϊόν έχει τη συσκευασία του"
-
-#. Default: "Too much pressure is likely to be harmful"
-#: osha.policy:/missing_18n_labels.py:149
-msgid "title_napo_episode_2_8"
-msgstr "Η υπερβολική πίεση μπορεί να είναι επιζήμια"
 
 #: osha.policy:/missing_18n_labels.py:15
 msgid "Copyright"
 msgstr "Πνευματικά δικαιώματα "
 
-#. Default: "Unsuitable material + incompetence = accident"
+#. Default: "The adventures of NAPO"
 #: osha.policy:/missing_18n_labels.py:150
+msgid "title_napo_episode_2_0"
+msgstr "Οι περιπέτειες του Νάπο"
+
+#. Default: "The importance of signposting"
+#: osha.policy:/missing_18n_labels.py:151
+msgid "title_napo_episode_2_1"
+msgstr "Η σήμανση είναι σημαντική"
+
+#. Default: "Signposting is not sufficient"
+#: osha.policy:/missing_18n_labels.py:152
+msgid "title_napo_episode_2_2"
+msgstr "Η σήμανση δεν είναι ικανοποιητική"
+
+#. Default: "Labels should be read"
+#: osha.policy:/missing_18n_labels.py:153
+msgid "title_napo_episode_2_3"
+msgstr "Πρέπει να διαβάζετε τις ετικέτες"
+
+#. Default: "Choose public transports"
+#: osha.policy:/missing_18n_labels.py:154
+msgid "title_napo_episode_2_4"
+msgstr "Να επιλέγετε τις δημόσιες συγκοινωνίες"
+
+#. Default: "The right protection at the right time"
+#: osha.policy:/missing_18n_labels.py:155
+msgid "title_napo_episode_2_5"
+msgstr "Κατάλληλη προστασία την κατάλληλη στιγμή"
+
+#. Default: "Improvising means risk taking"
+#: osha.policy:/missing_18n_labels.py:156
+msgid "title_napo_episode_2_6"
+msgstr "Αυτοσχεδιάζω σημαίνει παίρνω ρίσκο"
+
+#. Default: "Each product has its own packaging"
+#: osha.policy:/missing_18n_labels.py:157
+msgid "title_napo_episode_2_7"
+msgstr "Κάθε προϊόν έχει τη συσκευασία του"
+
+#. Default: "Too much pressure is likely to be harmful"
+#: osha.policy:/missing_18n_labels.py:158
+msgid "title_napo_episode_2_8"
+msgstr "Η υπερβολική πίεση μπορεί να είναι επιζήμια"
+
+#. Default: "Unsuitable material + incompetence = accident"
+#: osha.policy:/missing_18n_labels.py:159
 msgid "title_napo_episode_2_9"
 msgstr "Επικίνδυνα μέσα-υλικά ή/και ακατάλληλο προσωπικό=ατύχημα"
-
-#. Default: "Scratch and sniff - chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:151
-msgid "title_napo_episode_3_0"
-msgstr "Ο Napo και οι χημικοί κίνδυνοι στην εργασία"
-
-#. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:152
-msgid "title_napo_episode_3_1"
-msgstr "Επιβλαβές"
-
-#. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:153
-msgid "title_napo_episode_3_2"
-msgstr "Ερεθιστικό"
-
-#. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:154
-msgid "title_napo_episode_3_3"
-msgstr "Εύφλεκτο"
-
-#. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:155
-msgid "title_napo_episode_3_4"
-msgstr "Διαβρωτικό"
-
-#. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:156
-msgid "title_napo_episode_3_5"
-msgstr "Τοξικό"
-
-#. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:157
-msgid "title_napo_episode_3_6"
-msgstr "Επικίνδυνο για το περιβάλλον"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:158
-msgid "title_napo_episode_3_7"
-msgstr "Τέλος"
-
-#. Default: "Clean Sweep"
-#: osha.policy:/missing_18n_labels.py:159
-msgid "title_napo_episode_4_0"
-msgstr "Καθαριότητα"
 
 #: osha.policy:/missing_18n_labels.py:16
 msgid "Update"
 msgstr "Ενημέρωση"
 
-#. Default: "Change of plan"
+#. Default: "Scratch and sniff - chemical risks at work"
 #: osha.policy:/missing_18n_labels.py:160
+msgid "title_napo_episode_3_0"
+msgstr "Ο Napo και οι χημικοί κίνδυνοι στην εργασία"
+
+#. Default: "Harmful"
+#: osha.policy:/missing_18n_labels.py:161
+msgid "title_napo_episode_3_1"
+msgstr "Επιβλαβές"
+
+#. Default: "Irritant"
+#: osha.policy:/missing_18n_labels.py:162
+msgid "title_napo_episode_3_2"
+msgstr "Ερεθιστικό"
+
+#. Default: "Flammable"
+#: osha.policy:/missing_18n_labels.py:163
+msgid "title_napo_episode_3_3"
+msgstr "Εύφλεκτο"
+
+#. Default: "Corrosive"
+#: osha.policy:/missing_18n_labels.py:164
+msgid "title_napo_episode_3_4"
+msgstr "Διαβρωτικό"
+
+#. Default: "Toxic"
+#: osha.policy:/missing_18n_labels.py:165
+msgid "title_napo_episode_3_5"
+msgstr "Τοξικό"
+
+#. Default: "Dangerous for the environment"
+#: osha.policy:/missing_18n_labels.py:166
+msgid "title_napo_episode_3_6"
+msgstr "Επικίνδυνο για το περιβάλλον"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:167
+msgid "title_napo_episode_3_7"
+msgstr "Τέλος"
+
+#. Default: "Clean Sweep"
+#: osha.policy:/missing_18n_labels.py:168
+msgid "title_napo_episode_4_0"
+msgstr "Καθαριότητα"
+
+#. Default: "Change of plan"
+#: osha.policy:/missing_18n_labels.py:169
 msgid "title_napo_episode_4_1"
 msgstr "Αλλαγή προγράμματος"
 
 #. Default: "Work at height"
-#: osha.policy:/missing_18n_labels.py:161
+#: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_4_2"
 msgstr "Εργασία σε ύψος"
 
 #. Default: "Enough is enough"
-#: osha.policy:/missing_18n_labels.py:162
+#: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_4_3"
 msgstr "Αρκετά!"
 
 #. Default: "Safety plan"
-#: osha.policy:/missing_18n_labels.py:163
+#: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_4_4"
 msgstr "Σχέδιο ασφάλειας"
 
 #. Default: "Yellow card"
-#: osha.policy:/missing_18n_labels.py:164
+#: osha.policy:/missing_18n_labels.py:173
 msgid "title_napo_episode_4_5"
 msgstr "Κίτρινη κάρτα"
 
 #. Default: "Bodybuilding"
-#: osha.policy:/missing_18n_labels.py:165
+#: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_4_6"
 msgstr "Εκγύμναση σώματος"
 
 #. Default: "Safety angels"
-#: osha.policy:/missing_18n_labels.py:166
+#: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_4_7"
 msgstr "Φύλακας άγγελος"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:167
+#: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_4_8"
 msgstr "Τέλος"
 
 #. Default: "Napo - safe on site"
-#: osha.policy:/missing_18n_labels.py:168
+#: osha.policy:/missing_18n_labels.py:177
 msgid "title_napo_episode_5_0"
 msgstr "Ο Νάπο ασφαλής στο εργοτάξιο"
 
 #. Default: "Building in safety"
-#: osha.policy:/missing_18n_labels.py:169
+#: osha.policy:/missing_18n_labels.py:178
 msgid "title_napo_episode_5_1"
 msgstr "Δουλεύοντας με ασφάλεια"
 
 #. Default: "Don't fall for it"
-#: osha.policy:/missing_18n_labels.py:170
+#: osha.policy:/missing_18n_labels.py:179
 msgid "title_napo_episode_5_2"
 msgstr "Προστασία από πτώση"
 
 #. Default: "Heading for a fall"
-#: osha.policy:/missing_18n_labels.py:171
+#: osha.policy:/missing_18n_labels.py:180
 msgid "title_napo_episode_5_3"
 msgstr "Κίνδυνος πτώσης"
 
 #. Default: "Champions of the world"
-#: osha.policy:/missing_18n_labels.py:172
+#: osha.policy:/missing_18n_labels.py:181
 msgid "title_napo_episode_5_4"
 msgstr "Πρωταθλητές κόσμου!"
 
 #. Default: "Lightning strike"
-#: osha.policy:/missing_18n_labels.py:173
+#: osha.policy:/missing_18n_labels.py:182
 msgid "title_napo_episode_5_5"
 msgstr "Οσφυαλγία"
 
 #. Default: "Keep them apart"
-#: osha.policy:/missing_18n_labels.py:174
+#: osha.policy:/missing_18n_labels.py:183
 msgid "title_napo_episode_5_6"
 msgstr "Σε απόσταση"
 
 #. Default: "Five star treatment"
-#: osha.policy:/missing_18n_labels.py:175
+#: osha.policy:/missing_18n_labels.py:184
 msgid "title_napo_episode_5_7"
 msgstr "Περιποίηση πέντε αστέρων"
 
 #. Default: "Bad dream"
-#: osha.policy:/missing_18n_labels.py:176
+#: osha.policy:/missing_18n_labels.py:185
 msgid "title_napo_episode_5_8"
 msgstr "Εφιάλτης"
 
 #. Default: "Safe landing"
-#: osha.policy:/missing_18n_labels.py:177
+#: osha.policy:/missing_18n_labels.py:186
 msgid "title_napo_episode_5_9"
 msgstr "Happy End"
 
 #. Default: "Napo in stop that noise!"
-#: osha.policy:/missing_18n_labels.py:178
+#: osha.policy:/missing_18n_labels.py:187
 msgid "title_napo_episode_6_0"
 msgstr "Ο Νάπο στο Καταπολεμήστε τον θόρυβο"
 
 #. Default: "Irreparable"
-#: osha.policy:/missing_18n_labels.py:179
+#: osha.policy:/missing_18n_labels.py:188
 msgid "title_napo_episode_6_1"
 msgstr "Ανεπανόρθωτη ζημιά"
 
 #. Default: "Didn't hear it coming"
-#: osha.policy:/missing_18n_labels.py:180
+#: osha.policy:/missing_18n_labels.py:189
 msgid "title_napo_episode_6_2"
 msgstr "Δεν ακούγεται ο κίνδυνος"
 
 #. Default: "Noise in the office"
-#: osha.policy:/missing_18n_labels.py:181
+#: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_6_3"
 msgstr "Θόρυβος στο γραφείο"
 
 #. Default: "Problem pregnancy"
-#: osha.policy:/missing_18n_labels.py:182
+#: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_episode_6_4"
 msgstr "Προβλήματα εγκυμοσύνης"
 
 #. Default: "Out in the cold"
-#: osha.policy:/missing_18n_labels.py:183
+#: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_6_5"
 msgstr "Μοναξιά"
 
 #. Default: "Don't make things worse"
-#: osha.policy:/missing_18n_labels.py:184
+#: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_episode_6_6"
 msgstr "Συνεχής προστασία"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:185
+#: osha.policy:/missing_18n_labels.py:194
 msgid "title_napo_episode_6_7"
 msgstr "Τέλος"
 
 #. Default: "Safe start"
-#: osha.policy:/missing_18n_labels.py:186
+#: osha.policy:/missing_18n_labels.py:195
 msgid "title_napo_episode_7_0"
 msgstr "Ο Napo στην εκστρατεία: Από την Αρχή με Ασφάλεια!"
 
 #. Default: "Don't hesitate to ask questions"
-#: osha.policy:/missing_18n_labels.py:187
+#: osha.policy:/missing_18n_labels.py:196
 msgid "title_napo_episode_7_1"
 msgstr "Μην διστάσετε να υποβάλετε τις ερωτήσεις σας!"
 
 #. Default: "Attention listen up"
-#: osha.policy:/missing_18n_labels.py:188
+#: osha.policy:/missing_18n_labels.py:197
 msgid "title_napo_episode_7_2"
 msgstr "Προσοχή - ακούστε!"
 
 #. Default: "Information overload"
-#: osha.policy:/missing_18n_labels.py:189
+#: osha.policy:/missing_18n_labels.py:198
 msgid "title_napo_episode_7_3"
 msgstr "Υπερβολικός φόρτος πληροφοριών!"
 
 #. Default: "Watch out for others too"
-#: osha.policy:/missing_18n_labels.py:190
+#: osha.policy:/missing_18n_labels.py:199
 msgid "title_napo_episode_7_4"
 msgstr "Να προσέχετε και τους άλλους!"
-
-#. Default: "Overconfidence is dangerous"
-#: osha.policy:/missing_18n_labels.py:191
-msgid "title_napo_episode_7_5"
-msgstr "Η υπερβολική αυτοπεποίθηση είναι επικίνδυνη!"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:192
-msgid "title_napo_episode_7_6"
-msgstr "Τέλος"
-
-#. Default: "Start"
-#: osha.policy:/missing_18n_labels.py:193
-msgid "title_napo_episode_8_0"
-msgstr "ΜΕΙΩΣΤΕ ΤΗΝ ΚΑΤΑΠΟΝΗΣΗ!"
-
-#. Default: "Modern stressful times"
-#: osha.policy:/missing_18n_labels.py:194
-msgid "title_napo_episode_8_1"
-msgstr "Μοντέρνοι καιροί"
-
-#. Default: "Hold me tight"
-#: osha.policy:/missing_18n_labels.py:195
-msgid "title_napo_episode_8_10"
-msgstr "Κράτα με σφιχτά "
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:196
-msgid "title_napo_episode_8_11"
-msgstr "Τέλος"
-
-#. Default: "Divide and rule"
-#: osha.policy:/missing_18n_labels.py:197
-msgid "title_napo_episode_8_2"
-msgstr "Διαίρει και βασίλευε"
-
-#. Default: "Radical ergonomics"
-#: osha.policy:/missing_18n_labels.py:198
-msgid "title_napo_episode_8_3"
-msgstr "Εργονομία – Δραστικά μέτρα "
-
-#. Default: "Twist and shout"
-#: osha.policy:/missing_18n_labels.py:199
-msgid "title_napo_episode_8_4"
-msgstr "Λάθος κίνηση"
 
 # Default "Albanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1029,55 +1028,55 @@ msgstr "Λάθος κίνηση"
 msgid "heading_main_fop_portlet_albania"
 msgstr "Σημείο επαφής Αλβανίας"
 
-#. Default: "No grip"
+#. Default: "Overconfidence is dangerous"
 #: osha.policy:/missing_18n_labels.py:200
+msgid "title_napo_episode_7_5"
+msgstr "Η υπερβολική αυτοπεποίθηση είναι επικίνδυνη!"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:201
+msgid "title_napo_episode_7_6"
+msgstr "Τέλος"
+
+#. Default: "Start"
+#: osha.policy:/missing_18n_labels.py:202
+msgid "title_napo_episode_8_0"
+msgstr "ΜΕΙΩΣΤΕ ΤΗΝ ΚΑΤΑΠΟΝΗΣΗ!"
+
+#. Default: "Modern stressful times"
+#: osha.policy:/missing_18n_labels.py:203
+msgid "title_napo_episode_8_1"
+msgstr "Μοντέρνοι καιροί"
+
+#. Default: "Hold me tight"
+#: osha.policy:/missing_18n_labels.py:204
+msgid "title_napo_episode_8_10"
+msgstr "Κράτα με σφιχτά "
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:205
+msgid "title_napo_episode_8_11"
+msgstr "Τέλος"
+
+#. Default: "Divide and rule"
+#: osha.policy:/missing_18n_labels.py:206
+msgid "title_napo_episode_8_2"
+msgstr "Διαίρει και βασίλευε"
+
+#. Default: "Radical ergonomics"
+#: osha.policy:/missing_18n_labels.py:207
+msgid "title_napo_episode_8_3"
+msgstr "Εργονομία – Δραστικά μέτρα "
+
+#. Default: "Twist and shout"
+#: osha.policy:/missing_18n_labels.py:208
+msgid "title_napo_episode_8_4"
+msgstr "Λάθος κίνηση"
+
+#. Default: "No grip"
+#: osha.policy:/missing_18n_labels.py:209
 msgid "title_napo_episode_8_5"
 msgstr "Χωρίς χειρολαβή"
-
-#. Default: "Working height"
-#: osha.policy:/missing_18n_labels.py:201
-msgid "title_napo_episode_8_6"
-msgstr "Ύψος εργασίας"
-
-#. Default: "Bad vibrations"
-#: osha.policy:/missing_18n_labels.py:202
-msgid "title_napo_episode_8_7"
-msgstr "Υπερβολικοί κραδασμοί"
-
-#. Default: "The duel"
-#: osha.policy:/missing_18n_labels.py:203
-msgid "title_napo_episode_8_8"
-msgstr "Η μονομαχία"
-
-#. Default: "Think to move"
-#: osha.policy:/missing_18n_labels.py:204
-msgid "title_napo_episode_8_9"
-msgstr "Σκέψη για κίνηση"
-
-#. Default: "Introduction"
-#: osha.policy:/missing_18n_labels.py:205
-msgid "title_napo_episode_9_0"
-msgstr "Introduction"
-
-#. Default: "Assess the risk"
-#: osha.policy:/missing_18n_labels.py:206
-msgid "title_napo_episode_9_1"
-msgstr "Αξιολογήστε τον κίνδυνο"
-
-#. Default: "Identify the unknown"
-#: osha.policy:/missing_18n_labels.py:207
-msgid "title_napo_episode_9_2"
-msgstr "Προσδιορίστε τον κίνδυνο"
-
-#. Default: "Act on risks"
-#: osha.policy:/missing_18n_labels.py:208
-msgid "title_napo_episode_9_3"
-msgstr "Καταπολεμείστε τους κινδύνους"
-
-#. Default: "Risky combination"
-#: osha.policy:/missing_18n_labels.py:209
-msgid "title_napo_episode_9_4"
-msgstr "Επικίνδυνος συνδυασμός"
 
 # Default "Austrian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1085,51 +1084,55 @@ msgstr "Επικίνδυνος συνδυασμός"
 msgid "heading_main_fop_portlet_austria"
 msgstr "Σημείο επαφής Αυστρίας"
 
-#. Default: "Eliminate the hazard"
+#. Default: "Working height"
 #: osha.policy:/missing_18n_labels.py:210
+msgid "title_napo_episode_8_6"
+msgstr "Ύψος εργασίας"
+
+#. Default: "Bad vibrations"
+#: osha.policy:/missing_18n_labels.py:211
+msgid "title_napo_episode_8_7"
+msgstr "Υπερβολικοί κραδασμοί"
+
+#. Default: "The duel"
+#: osha.policy:/missing_18n_labels.py:212
+msgid "title_napo_episode_8_8"
+msgstr "Η μονομαχία"
+
+#. Default: "Think to move"
+#: osha.policy:/missing_18n_labels.py:213
+msgid "title_napo_episode_8_9"
+msgstr "Σκέψη για κίνηση"
+
+#. Default: "Introduction"
+#: osha.policy:/missing_18n_labels.py:214
+msgid "title_napo_episode_9_0"
+msgstr "Introduction"
+
+#. Default: "Assess the risk"
+#: osha.policy:/missing_18n_labels.py:215
+msgid "title_napo_episode_9_1"
+msgstr "Αξιολογήστε τον κίνδυνο"
+
+#. Default: "Identify the unknown"
+#: osha.policy:/missing_18n_labels.py:216
+msgid "title_napo_episode_9_2"
+msgstr "Προσδιορίστε τον κίνδυνο"
+
+#. Default: "Act on risks"
+#: osha.policy:/missing_18n_labels.py:217
+msgid "title_napo_episode_9_3"
+msgstr "Καταπολεμείστε τους κινδύνους"
+
+#. Default: "Risky combination"
+#: osha.policy:/missing_18n_labels.py:218
+msgid "title_napo_episode_9_4"
+msgstr "Επικίνδυνος συνδυασμός"
+
+#. Default: "Eliminate the hazard"
+#: osha.policy:/missing_18n_labels.py:219
 msgid "title_napo_episode_9_5"
 msgstr "Μειώστε τον κίνδυνο "
-
-#. Default: "Safety pays"
-#: osha.policy:/missing_18n_labels.py:211
-msgid "title_napo_episode_9_6"
-msgstr "Η ασφάλεια στην εργασία ανταμείβει"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:212
-msgid "title_napo_episode_9_7"
-msgstr "Τέλος"
-
-#: osha.policy:/missing_18n_labels.py:213
-msgid "title_napo_film_1"
-msgstr "BEST SIGNS STORY (ΣΩΣΤΗ ΣΗΜΑΝΣΗ)"
-
-#: osha.policy:/missing_18n_labels.py:214
-msgid "title_napo_film_11"
-msgstr "Ο Napo στην: «Ασφάλεια εντός… κι εκτός εργασίας»"
-
-# ---------- New Napo Film Number 12    Danger: Chemicals
-#: osha.policy:/missing_18n_labels.py:215
-msgid "title_napo_film_12"
-msgstr "Ο Napo και οι επικίνδυνες χημικές ουσίες"
-
-# ---------- New Napo Film Number 13    Protect your Skin
-#: osha.policy:/missing_18n_labels.py:216
-msgid "title_napo_film_13"
-msgstr "Ο Napo και η προστασία του δέρματος!"
-
-# ---------- New Napo Film Number 14   Safe Maintenance
-#: osha.policy:/missing_18n_labels.py:217
-msgid "title_napo_film_14"
-msgstr "Ο Napo στην…ασφαλή συντήρηση"
-
-#: osha.policy:/missing_18n_labels.py:218
-msgid "title_napo_film_2"
-msgstr "ΟΙ ΠΕΡΙΠΕΤΕΙΕΣ ΤΟΥ NAPO"
-
-#: osha.policy:/missing_18n_labels.py:219
-msgid "title_napo_film_3"
-msgstr "Ο NAPO ΚΑΙ ΟΙ ΧΗΜΙΚΟΙ ΚΙΝΔΥΝΟΙ ΣΤΗΝ ΕΡΓΑΣΙΑ"
 
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1137,36 +1140,50 @@ msgstr "Ο NAPO ΚΑΙ ΟΙ ΧΗΜΙΚΟΙ ΚΙΝΔΥΝΟΙ ΣΤΗΝ ΕΡΓΑΣ�
 msgid "heading_main_fop_portlet_belgium"
 msgstr "Σημείο επαφής Βελγίου"
 
+#. Default: "Safety pays"
 #: osha.policy:/missing_18n_labels.py:220
-msgid "title_napo_film_4"
-msgstr "Ο NAPO ΣΤΟ ΕΡΓΟΤΑΞΙΟ"
+msgid "title_napo_episode_9_6"
+msgstr "Η ασφάλεια στην εργασία ανταμείβει"
 
+#. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:221
-msgid "title_napo_film_5"
-msgstr "Ο NAPO ΚΑΙ Η ΚΑΘΑΡΙΟΤΗΤΑ"
+msgid "title_napo_episode_9_7"
+msgstr "Τέλος"
 
 #: osha.policy:/missing_18n_labels.py:222
-msgid "title_napo_film_6"
-msgstr "Ο NAPO ΣΤΗΝ ΕΚΣΤΡΑΤΕΙΑ \"ΚΑΤΑΠΟΛΕΜΗΣΤΕ ΤΟΝ ΘΟΡΥΒΟ\""
+msgid "title_napo_film_1"
+msgstr "BEST SIGNS STORY (ΣΩΣΤΗ ΣΗΜΑΝΣΗ)"
 
 #: osha.policy:/missing_18n_labels.py:223
-msgid "title_napo_film_7"
-msgstr "Ο NAPO ΣΤΗΝ ΕΚΣΤΡΑΤΕΙΑ \"ΑΠΟ ΤΗΝ ΑΡΧΗ ΜΕ ΑΣΦΑΛΕΙΑ\""
+msgid "title_napo_film_11"
+msgstr "Ο Napo στην: «Ασφάλεια εντός… κι εκτός εργασίας»"
 
+# ---------- New Napo Film Number 12    Danger: Chemicals
 #: osha.policy:/missing_18n_labels.py:224
-msgid "title_napo_film_8"
-msgstr "Ο NAPO ΣΤΗΝ ΕΚΣΤΡΑΤΕΙΑ \"ΜΕΙΩΣΤΕ ΤΗΝ ΚΑΤΑΠΟΝΗΣΗ\""
+msgid "title_napo_film_12"
+msgstr "Ο Napo και οι επικίνδυνες χημικές ουσίες"
 
+# ---------- New Napo Film Number 13    Protect your Skin
 #: osha.policy:/missing_18n_labels.py:225
-msgid "title_napo_film_9"
-msgstr "Ο ΝΑΠΟ... σε κίνδυνο!"
+msgid "title_napo_film_13"
+msgstr "Ο Napo και η προστασία του δέρματος!"
 
-# ############################################
-# # keywords
-# ############################################
+# ---------- New Napo Film Number 14   Safe Maintenance
+#: osha.policy:/missing_18n_labels.py:226
+msgid "title_napo_film_14"
+msgstr "Ο Napo στην…ασφαλή συντήρηση"
+
+#: osha.policy:/missing_18n_labels.py:227
+msgid "title_napo_film_2"
+msgstr "ΟΙ ΠΕΡΙΠΕΤΕΙΕΣ ΤΟΥ NAPO"
+
+#: osha.policy:/missing_18n_labels.py:228
+msgid "title_napo_film_3"
+msgstr "Ο NAPO ΚΑΙ ΟΙ ΧΗΜΙΚΟΙ ΚΙΝΔΥΝΟΙ ΣΤΗΝ ΕΡΓΑΣΙΑ"
+
 #: osha.policy:/missing_18n_labels.py:229
-msgid "accident_prevention"
-msgstr "Πρόληψη ατυχημάτων"
+msgid "title_napo_film_4"
+msgstr "Ο NAPO ΣΤΟ ΕΡΓΟΤΑΞΙΟ"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1175,44 +1192,35 @@ msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
 msgstr "Σημείο επαφής Βοσνίας- Ερζεγοβίνης"
 
 #: osha.policy:/missing_18n_labels.py:230
-msgid "ageing"
-msgstr "Ηλικιωμένοι εργαζόμενοι"
+msgid "title_napo_film_5"
+msgstr "Ο NAPO ΚΑΙ Η ΚΑΘΑΡΙΟΤΗΤΑ"
 
 #: osha.policy:/missing_18n_labels.py:231
-msgid "agriculture"
-msgstr "Γεωργία"
+msgid "title_napo_film_6"
+msgstr "Ο NAPO ΣΤΗΝ ΕΚΣΤΡΑΤΕΙΑ \"ΚΑΤΑΠΟΛΕΜΗΣΤΕ ΤΟΝ ΘΟΡΥΒΟ\""
 
 #: osha.policy:/missing_18n_labels.py:232
-msgid "businessOSH"
-msgstr "Επιχειρηματικές πτυχές της ΕΑΥ"
+msgid "title_napo_film_7"
+msgstr "Ο NAPO ΣΤΗΝ ΕΚΣΤΡΑΤΕΙΑ \"ΑΠΟ ΤΗΝ ΑΡΧΗ ΜΕ ΑΣΦΑΛΕΙΑ\""
 
 #: osha.policy:/missing_18n_labels.py:233
-msgid "cleaners"
-msgstr "καθαρισμού εργαζομένων"
+msgid "title_napo_film_8"
+msgstr "Ο NAPO ΣΤΗΝ ΕΚΣΤΡΑΤΕΙΑ \"ΜΕΙΩΣΤΕ ΤΗΝ ΚΑΤΑΠΟΝΗΣΗ\""
 
 #: osha.policy:/missing_18n_labels.py:234
-msgid "competitions"
-msgstr "Διαγωνισμοί"
+msgid "title_napo_film_9"
+msgstr "Ο ΝΑΠΟ... σε κίνδυνο!"
 
-#: osha.policy:/missing_18n_labels.py:235
-msgid "construction"
-msgstr "Κατασκευές"
-
-#: osha.policy:/missing_18n_labels.py:236
-msgid "csr"
-msgstr "Εταιρική κοινωνική ευθύνη"
-
-#: osha.policy:/missing_18n_labels.py:237
-msgid "cww"
-msgstr "Μεταβαλλόμενο περιβάλλον εργασίας"
-
+# ############################################
+# # keywords
+# ############################################
 #: osha.policy:/missing_18n_labels.py:238
-msgid "dangerous_substances"
-msgstr "Επικίνδυνες ουσίες"
+msgid "accident_prevention"
+msgstr "Πρόληψη ατυχημάτων"
 
 #: osha.policy:/missing_18n_labels.py:239
-msgid "disability"
-msgstr "άτομα με ειδικές ανάγκες"
+msgid "ageing"
+msgstr "Ηλικιωμένοι εργαζόμενοι"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1220,48 +1228,46 @@ msgstr "άτομα με ειδικές ανάγκες"
 msgid "heading_main_fop_portlet_bulgaria"
 msgstr "Σημείο επαφής Βουλγαρίας"
 
-#. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
-msgid "disabled_people"
-msgstr "άτομα με ειδικές ανάγκες"
+msgid "agriculture"
+msgstr "Γεωργία"
 
 #: osha.policy:/missing_18n_labels.py:241
-msgid "economic_incentives"
-msgstr "Οικονομικά κίνητρα"
+msgid "businessOSH"
+msgstr "Επιχειρηματικές πτυχές της ΕΑΥ"
 
 #: osha.policy:/missing_18n_labels.py:242
-msgid "education"
-msgstr "Εκπαίδευση"
+msgid "cleaners"
+msgstr "καθαρισμού εργαζομένων"
 
-#. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
-msgid "esener"
-msgstr "ESENER"
+msgid "competitions"
+msgstr "Διαγωνισμοί"
 
 #: osha.policy:/missing_18n_labels.py:244
-msgid "fisheries"
-msgstr "Αλιεία"
+msgid "construction"
+msgstr "Κατασκευές"
 
 #: osha.policy:/missing_18n_labels.py:245
-msgid "gender"
-msgstr "Φύλο"
+msgid "csr"
+msgstr "Εταιρική κοινωνική ευθύνη"
 
 #: osha.policy:/missing_18n_labels.py:246
-msgid "green_jobs"
-msgstr "\"πράσινες\" θέσεις εργασίας"
+msgid "cww"
+msgstr "Μεταβαλλόμενο περιβάλλον εργασίας"
 
-#. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
-msgid "health_care"
-msgstr "υγειονομική περίθαλψη"
+msgid "dangerous_substances"
+msgstr "Επικίνδυνες ουσίες"
 
 #: osha.policy:/missing_18n_labels.py:248
-msgid "healthcare"
-msgstr "υγειονομική περίθαλψη"
+msgid "disability"
+msgstr "άτομα με ειδικές ανάγκες"
 
+#. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:249
-msgid "horeca"
-msgstr "Τομέας των ξενοδοχείων και των εστιατορίων (Horeca)"
+msgid "disabled_people"
+msgstr "άτομα με ειδικές ανάγκες"
 
 # Default "Croatian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1270,44 +1276,46 @@ msgid "heading_main_fop_portlet_croatia"
 msgstr "Σημείο επαφής Κροατίας"
 
 #: osha.policy:/missing_18n_labels.py:250
-msgid "hwi"
-msgstr "Ασφαλείς χώροι εργασίας"
+msgid "economic_incentives"
+msgstr "Οικονομικά κίνητρα"
 
 #: osha.policy:/missing_18n_labels.py:251
-msgid "legislation"
-msgstr "Νομοθεσία"
+msgid "education"
+msgstr "Εκπαίδευση"
 
+#. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:252
-msgid "maintenance"
-msgstr "Συντήρηση"
+msgid "esener"
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:253
-msgid "management_leadership"
-msgstr "Ηγεσία της διοίκησης"
+msgid "fisheries"
+msgstr "Αλιεία"
 
 #: osha.policy:/missing_18n_labels.py:254
-msgid "migrant_workers"
-msgstr "Διακινούμενοι εργαζόμενοι"
+msgid "gender"
+msgstr "Φύλο"
 
 #: osha.policy:/missing_18n_labels.py:255
-msgid "msd"
-msgstr "Μυοσκελετικές παθήσεις"
+msgid "green_jobs"
+msgstr "\"πράσινες\" θέσεις εργασίας"
 
+#. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:256
-msgid "nanotechnology"
-msgstr "Nανοτεχνολογία"
+msgid "health_care"
+msgstr "υγειονομική περίθαλψη"
 
 #: osha.policy:/missing_18n_labels.py:257
-msgid "noise"
-msgstr "Θόρυβος"
+msgid "healthcare"
+msgstr "υγειονομική περίθαλψη"
 
 #: osha.policy:/missing_18n_labels.py:258
-msgid "organisation"
-msgstr "Οργάνωση και στρατηγικές"
+msgid "horeca"
+msgstr "Τομέας των ξενοδοχείων και των εστιατορίων (Horeca)"
 
 #: osha.policy:/missing_18n_labels.py:259
-msgid "osheducation"
-msgstr "Ένταξη της Επαγγελματικής Ασφάλειας & Υγείας στην εκπαίδευση"
+msgid "hwi"
+msgstr "Ασφαλείς χώροι εργασίας"
 
 # Default "Cypriot Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1316,41 +1324,44 @@ msgid "heading_main_fop_portlet_cyprus"
 msgstr "Σημείο επαφής Κύπρου"
 
 #: osha.policy:/missing_18n_labels.py:260
-msgid "prevention"
-msgstr "Πρόληψη"
+msgid "legislation"
+msgstr "Νομοθεσία"
 
-#: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
-msgid "provider"
-msgstr "Πηγές πληροφοριών"
+#: osha.policy:/missing_18n_labels.py:261
+msgid "maintenance"
+msgstr "Συντήρηση"
 
-#. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:262
-msgid "publications"
-msgstr ""
+msgid "management_leadership"
+msgstr "Ηγεσία της διοίκησης"
 
 #: osha.policy:/missing_18n_labels.py:263
-msgid "research"
-msgstr "έρευνα"
+msgid "migrant_workers"
+msgstr "Διακινούμενοι εργαζόμενοι"
 
 #: osha.policy:/missing_18n_labels.py:264
-msgid "risk_assessment"
-msgstr "Αξιολόγηση κινδύνων"
+msgid "msd"
+msgstr "Μυοσκελετικές παθήσεις"
+
+#: osha.policy:/missing_18n_labels.py:265
+msgid "nanotechnology"
+msgstr "Nανοτεχνολογία"
 
 #: osha.policy:/missing_18n_labels.py:266
-msgid "risks"
-msgstr "Διαφαινόμενοι κίνδυνοι"
+msgid "noise"
+msgstr "Θόρυβος"
 
 #: osha.policy:/missing_18n_labels.py:267
-msgid "road_transport"
-msgstr "Οδικές μεταφορές"
+msgid "organisation"
+msgstr "Οργάνωση και στρατηγικές"
 
 #: osha.policy:/missing_18n_labels.py:268
-msgid "statistics"
-msgstr "Στατιστικές"
+msgid "osheducation"
+msgstr "Ένταξη της Επαγγελματικής Ασφάλειας & Υγείας στην εκπαίδευση"
 
 #: osha.policy:/missing_18n_labels.py:269
-msgid "stress"
-msgstr "Άγχος"
+msgid "prevention"
+msgstr "Πρόληψη"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1358,39 +1369,42 @@ msgstr "Άγχος"
 msgid "heading_main_fop_portlet_czech-republic"
 msgstr "Σημείο επαφής Τσεχικής Δημοκρατίας"
 
-#: osha.policy:/missing_18n_labels.py:270
-msgid "transport"
-msgstr "Μεταφορές"
+#: osha.policy:/missing_18n_labels.py:270 osha.searchurls:/interfaces.py:15
+msgid "provider"
+msgstr "Πηγές πληροφοριών"
 
+#. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:271
-msgid "whp"
-msgstr "Προαγωγή της υγείας στο χώρο της εργασίας"
+msgid "publications"
+msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:272
-msgid "worker_participation"
-msgstr "συμμετοχή των εργαζομένων"
+msgid "research"
+msgstr "έρευνα"
 
 #: osha.policy:/missing_18n_labels.py:273
-msgid "young_people"
-msgstr "Νέοι"
+msgid "risk_assessment"
+msgstr "Αξιολόγηση κινδύνων"
 
-#: osha.policy:/missing_18n_labels.py:274
-msgid "Practical Solutions, Good Practice"
-msgstr "Πρακτικές λύσεις, Καλή πρακτική"
-
-#. Default: "Campaign 2012-2013"
 #: osha.policy:/missing_18n_labels.py:275
-msgid "Campaign 2012-13"
-msgstr "Εκστρατεία 2012-2013"
+msgid "risks"
+msgstr "Διαφαινόμενοι κίνδυνοι"
 
 #: osha.policy:/missing_18n_labels.py:276
-msgid "Campaign 2012-2013"
-msgstr "Εκστρατεία 2012-2013"
+msgid "road_transport"
+msgstr "Οδικές μεταφορές"
 
-#. Default: "Campaign 2014-2015"
 #: osha.policy:/missing_18n_labels.py:277
-msgid "campaign_2014_15"
-msgstr "Εκστρατεία 2014-2015"
+msgid "statistics"
+msgstr "Στατιστικές"
+
+#: osha.policy:/missing_18n_labels.py:278
+msgid "stress"
+msgstr "Άγχος"
+
+#: osha.policy:/missing_18n_labels.py:279
+msgid "transport"
+msgstr "Μεταφορές"
 
 # Default "Danish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1398,34 +1412,35 @@ msgstr "Εκστρατεία 2014-2015"
 msgid "heading_main_fop_portlet_denmark"
 msgstr "Σημείο επαφής Δανίας"
 
-#: osha.policy:/missing_18n_labels.py:281
-#: osha.policy:/missing_18n_labels.py:579
-msgid "osha_label_press_and_multimedia"
-msgstr "Τύπος και Πολυμέσα"
+#: osha.policy:/missing_18n_labels.py:280
+msgid "whp"
+msgstr "Προαγωγή της υγείας στο χώρο της εργασίας"
 
+#: osha.policy:/missing_18n_labels.py:281
+msgid "worker_participation"
+msgstr "συμμετοχή των εργαζομένων"
+
+#: osha.policy:/missing_18n_labels.py:282
+msgid "young_people"
+msgstr "Νέοι"
+
+#: osha.policy:/missing_18n_labels.py:283
+msgid "Practical Solutions, Good Practice"
+msgstr "Πρακτικές λύσεις, Καλή πρακτική"
+
+#. Default: "Campaign 2012-2013"
 #: osha.policy:/missing_18n_labels.py:284
-msgid "January"
-msgstr "Ιανουάριος"
+msgid "Campaign 2012-13"
+msgstr "Εκστρατεία 2012-2013"
 
 #: osha.policy:/missing_18n_labels.py:285
-msgid "February"
-msgstr "Φεβρουάριος"
+msgid "Campaign 2012-2013"
+msgstr "Εκστρατεία 2012-2013"
 
+#. Default: "Campaign 2014-2015"
 #: osha.policy:/missing_18n_labels.py:286
-msgid "March"
-msgstr "Μάρτιος"
-
-#: osha.policy:/missing_18n_labels.py:287
-msgid "April"
-msgstr "Απρίλιος"
-
-#: osha.policy:/missing_18n_labels.py:288
-msgid "May"
-msgstr "Μάιος"
-
-#: osha.policy:/missing_18n_labels.py:289
-msgid "June"
-msgstr "Ιούνιος"
+msgid "campaign_2014_15"
+msgstr "Εκστρατεία 2014-2015"
 
 # Default "Estonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1434,36 +1449,37 @@ msgid "heading_main_fop_portlet_estonia"
 msgstr "Σημείο επαφής Εσθονίας"
 
 #: osha.policy:/missing_18n_labels.py:290
-msgid "July"
-msgstr "Ιούλιος"
-
-#: osha.policy:/missing_18n_labels.py:291
-msgid "August"
-msgstr "Αύγουστος"
-
-#: osha.policy:/missing_18n_labels.py:292
-msgid "September"
-msgstr "Σεπτέμβριος"
+#: osha.policy:/missing_18n_labels.py:588
+msgid "osha_label_press_and_multimedia"
+msgstr "Τύπος και Πολυμέσα"
 
 #: osha.policy:/missing_18n_labels.py:293
-msgid "October"
-msgstr "Οκτώβριος"
+msgid "January"
+msgstr "Ιανουάριος"
 
 #: osha.policy:/missing_18n_labels.py:294
-msgid "November"
-msgstr "Νοέμβριος"
+msgid "February"
+msgstr "Φεβρουάριος"
 
 #: osha.policy:/missing_18n_labels.py:295
-msgid "December"
-msgstr "Δεκέμβριος"
+msgid "March"
+msgstr "Μάρτιος"
+
+#: osha.policy:/missing_18n_labels.py:296
+msgid "April"
+msgstr "Απρίλιος"
+
+#: osha.policy:/missing_18n_labels.py:297
+msgid "May"
+msgstr "Μάιος"
 
 #: osha.policy:/missing_18n_labels.py:298
-msgid "action_firstlogin_proceed"
-msgstr "Μετάβαση στις προσωπικές ρυθμίσεις"
+msgid "June"
+msgstr "Ιούνιος"
 
 #: osha.policy:/missing_18n_labels.py:299
-msgid "april"
-msgstr "Απρίλιος"
+msgid "July"
+msgstr "Ιούλιος"
 
 # Default "Finnish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1472,44 +1488,36 @@ msgid "heading_main_fop_portlet_finland"
 msgstr "Σημείο επαφής Φινλανδίας"
 
 #: osha.policy:/missing_18n_labels.py:300
-msgid "august"
+msgid "August"
 msgstr "Αύγουστος"
 
 #: osha.policy:/missing_18n_labels.py:301
-msgid "back_to"
-msgstr "επιστροφή σε"
+msgid "September"
+msgstr "Σεπτέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:302
-msgid "before"
-msgstr "Πριν"
+msgid "October"
+msgstr "Οκτώβριος"
 
 #: osha.policy:/missing_18n_labels.py:303
-msgid "box_about"
-msgstr "Πληροφορίες για τον"
+msgid "November"
+msgstr "Νοέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:304
-msgid "box_created_by"
-msgstr "Δημιουργήθηκε από"
-
-#: osha.policy:/missing_18n_labels.py:305
-msgid "box_last_modified"
-msgstr "Τελευταία τροποποίηση"
-
-#: osha.policy:/missing_18n_labels.py:306
-msgid "box_oshmail_subscribe"
-msgstr "Εγγραφείτε<a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
+msgid "December"
+msgstr "Δεκέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:307
-msgid "box_provided_by"
-msgstr "Πληροφορίες παρέχονται στο"
+msgid "action_firstlogin_proceed"
+msgstr "Μετάβαση στις προσωπικές ρυθμίσεις"
 
 #: osha.policy:/missing_18n_labels.py:308
-msgid "box_search_seminars"
-msgstr "Αναζήτηση σεμιναρίων"
+msgid "april"
+msgstr "Απρίλιος"
 
 #: osha.policy:/missing_18n_labels.py:309
-msgid "box_speaker"
-msgstr "Προσκεκλημένοι Ομιλητές"
+msgid "august"
+msgstr "Αύγουστος"
 
 # Default "French Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1518,45 +1526,44 @@ msgid "heading_main_fop_portlet_france"
 msgstr "Σημείο επαφής Γαλλίας"
 
 #: osha.policy:/missing_18n_labels.py:310
-msgid "box_speeches"
-msgstr "Προγραμματισμένες ομιλίες"
+msgid "back_to"
+msgstr "επιστροφή σε"
 
 #: osha.policy:/missing_18n_labels.py:311
-msgid "box_this_url"
-msgstr "URL του παρόντος εγγράφου"
+msgid "before"
+msgstr "Πριν"
 
 #: osha.policy:/missing_18n_labels.py:312
-msgid "calendar day view"
-msgstr "προβολή ημερολογίου ημέρας "
+msgid "box_about"
+msgstr "Πληροφορίες για τον"
 
 #: osha.policy:/missing_18n_labels.py:313
-msgid "convert to pdf"
-msgstr "μετατροπή σε pdf"
+msgid "box_created_by"
+msgstr "Δημιουργήθηκε από"
 
 #: osha.policy:/missing_18n_labels.py:314
-msgid "daily"
-msgstr "καθημερινά"
+msgid "box_last_modified"
+msgstr "Τελευταία τροποποίηση"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:315
-msgid "day"
-msgstr "Ημέρα"
+msgid "box_oshmail_subscribe"
+msgstr "Εγγραφείτε<a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #: osha.policy:/missing_18n_labels.py:316
-msgid "days"
-msgstr "ημέρες"
+msgid "box_provided_by"
+msgstr "Πληροφορίες παρέχονται στο"
 
 #: osha.policy:/missing_18n_labels.py:317
-msgid "december"
-msgstr "Δεκέμβριος"
+msgid "box_search_seminars"
+msgstr "Αναζήτηση σεμιναρίων"
 
 #: osha.policy:/missing_18n_labels.py:318
-msgid "default"
-msgstr "προεπιλογή"
+msgid "box_speaker"
+msgstr "Προσκεκλημένοι Ομιλητές"
 
 #: osha.policy:/missing_18n_labels.py:319
-msgid "delete"
-msgstr "διαγραφή"
+msgid "box_speeches"
+msgstr "Προγραμματισμένες ομιλίες"
 
 # Default "German Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1564,49 +1571,49 @@ msgstr "διαγραφή"
 msgid "heading_main_fop_portlet_germany"
 msgstr "Σημείο επαφής Γερμανίας"
 
-# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:320
+msgid "box_this_url"
+msgstr "URL του παρόντος εγγράφου"
+
+#: osha.policy:/missing_18n_labels.py:321
+msgid "calendar day view"
+msgstr "προβολή ημερολογίου ημέρας "
+
+#: osha.policy:/missing_18n_labels.py:322
+msgid "convert to pdf"
+msgstr "μετατροπή σε pdf"
+
+#: osha.policy:/missing_18n_labels.py:323
+msgid "daily"
+msgstr "καθημερινά"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:324
+msgid "day"
+msgstr "Ημέρα"
+
+#: osha.policy:/missing_18n_labels.py:325
+msgid "days"
+msgstr "ημέρες"
+
+#: osha.policy:/missing_18n_labels.py:326
+msgid "december"
+msgstr "Δεκέμβριος"
+
+#: osha.policy:/missing_18n_labels.py:327
+msgid "default"
+msgstr "προεπιλογή"
+
+#: osha.policy:/missing_18n_labels.py:328
+msgid "delete"
+msgstr "διαγραφή"
+
+# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
+#: osha.policy:/missing_18n_labels.py:329
 msgid "details_about_authors"
 msgstr ""
 "Λήψη της γραμμής δημιουργίας – περιέχει στοιχεία σχετικά με τον δημιουργό "
 "και την ημερομηνία τροποποίησης."
-
-#: osha.policy:/missing_18n_labels.py:321
-msgid "document_type"
-msgstr "Τύπος εγγράφου:"
-
-#: osha.policy:/missing_18n_labels.py:322
-msgid "download"
-msgstr "κατέβασμα (download)"
-
-#: osha.policy:/missing_18n_labels.py:323
-msgid "download_full_publication"
-msgstr "Φορτώστε το πλήρες κείμενο σε PDF μορφή"
-
-#: osha.policy:/missing_18n_labels.py:324
-msgid "draft"
-msgstr "Πρόχειρο"
-
-#: osha.policy:/missing_18n_labels.py:325
-msgid "edit portlet content"
-msgstr "επεξεργασία περιεχομένων portlet"
-
-#: osha.policy:/missing_18n_labels.py:326
-msgid "emerging_risks"
-msgstr "Διαφαινόμενοι κίνδυνοι"
-
-#: osha.policy:/missing_18n_labels.py:327
-msgid "event_type"
-msgstr "Τύπος(οι) συμβάντων"
-
-#: osha.policy:/missing_18n_labels.py:328
-msgid "february"
-msgstr "Φεβρουάριος"
-
-# # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:329
-msgid "feedback_comment"
-msgstr "Σχόλιο"
 
 # Default "Greek Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1615,35 +1622,78 @@ msgid "heading_main_fop_portlet_greece"
 msgstr "Σημείο επαφής Ελλάδας"
 
 #: osha.policy:/missing_18n_labels.py:330
+msgid "document_type"
+msgstr "Τύπος εγγράφου:"
+
+#: osha.policy:/missing_18n_labels.py:331
+msgid "download"
+msgstr "κατέβασμα (download)"
+
+#: osha.policy:/missing_18n_labels.py:332
+msgid "download_full_publication"
+msgstr "Φορτώστε το πλήρες κείμενο σε PDF μορφή"
+
+#: osha.policy:/missing_18n_labels.py:333
+msgid "draft"
+msgstr "Πρόχειρο"
+
+#: osha.policy:/missing_18n_labels.py:334
+msgid "edit portlet content"
+msgstr "επεξεργασία περιεχομένων portlet"
+
+#: osha.policy:/missing_18n_labels.py:335
+msgid "emerging_risks"
+msgstr "Διαφαινόμενοι κίνδυνοι"
+
+#: osha.policy:/missing_18n_labels.py:336
+msgid "event_type"
+msgstr "Τύπος(οι) συμβάντων"
+
+#: osha.policy:/missing_18n_labels.py:337
+msgid "february"
+msgstr "Φεβρουάριος"
+
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: osha.policy:/missing_18n_labels.py:338
+msgid "feedback_comment"
+msgstr "Σχόλιο"
+
+#: osha.policy:/missing_18n_labels.py:339
 msgid "feedback_country"
 msgstr "Χώρα:"
 
-#: osha.policy:/missing_18n_labels.py:331
+# Default "Hungarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:34
+msgid "heading_main_fop_portlet_hungary"
+msgstr "Σημείο επαφής Ουγγαρίας"
+
+#: osha.policy:/missing_18n_labels.py:340
 msgid "feedback_from_name"
 msgstr "Όνομα:"
 
 # # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:332
+#: osha.policy:/missing_18n_labels.py:341
 msgid "feedback_link"
 msgstr "Σύνδεσμος"
 
-#: osha.policy:/missing_18n_labels.py:333
+#: osha.policy:/missing_18n_labels.py:342
 msgid "feedback_mailtemplate_body"
 msgstr "Τα σχόλια αυτά αποστέλλονται από:"
 
-#: osha.policy:/missing_18n_labels.py:334
+#: osha.policy:/missing_18n_labels.py:343
 msgid "feedback_organization_size"
 msgstr "Μέγεθος επιχείρησης:"
 
-#: osha.policy:/missing_18n_labels.py:335
+#: osha.policy:/missing_18n_labels.py:344
 msgid "feedback_sender"
 msgstr "Τύπος αποστολέα:"
 
-#: osha.policy:/missing_18n_labels.py:336
+#: osha.policy:/missing_18n_labels.py:345
 msgid "feedback_sender_mssg_1"
 msgstr "Αγαπητέ κύριε / κυρία,"
 
-#: osha.policy:/missing_18n_labels.py:337
+#: osha.policy:/missing_18n_labels.py:346
 msgid "feedback_sender_mssg_2"
 msgstr ""
 "Σας ευχαριστούμε για τα σχόλιά σας σχετικά με τον Ευρωπαϊκό Οργανισμό για "
@@ -1653,7 +1703,7 @@ msgstr ""
 "προσωπικά σε κάθε περίπτωση. Εντούτοις, διαβάζουμε όλα τα σχόλιά σας και τα "
 "αξιοποιούμε για να βελτιώσουμε τις ιστοθέσεις και τις υπηρεσίες μας."
 
-#: osha.policy:/missing_18n_labels.py:338
+#: osha.policy:/missing_18n_labels.py:347
 msgid "feedback_sender_mssg_3"
 msgstr ""
 "Για ενημερώνεστε σχετικά με τις νέες εξελίξεις που λαμβάνουν χώρα στον κόμβο "
@@ -1661,56 +1711,13 @@ msgstr ""
 "index_en.htm] και εγγραφείτε στο ηλεκτρονικό μας ενημερωτικό δελτίο OSHmail "
 "[http://osha.europa.eu/oshmail]. "
 
-#: osha.policy:/missing_18n_labels.py:339
+#: osha.policy:/missing_18n_labels.py:348
 msgid "feedback_sender_mssg_from"
 msgstr "Ο Ευρωπαϊκός Οργανισμός για την Ασφάλεια και την Υγεία στην Εργασία"
 
-# Default "Hungarian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:34
-msgid "heading_main_fop_portlet_hungary"
-msgstr "Σημείο επαφής Ουγγαρίας"
-
-#: osha.policy:/missing_18n_labels.py:340
+#: osha.policy:/missing_18n_labels.py:349
 msgid "feedback_sender_mssg_thankyou"
 msgstr "Με εκτίμηση,"
-
-#: osha.policy:/missing_18n_labels.py:341
-msgid "feedback_sent_by"
-msgstr "Τα σχόλια αυτά αποστέλλονται από:"
-
-#: osha.policy:/missing_18n_labels.py:342
-msgid "foresight"
-msgstr "Συνοπτική περιγραφή"
-
-#: osha.policy:/missing_18n_labels.py:343
-msgid "forward"
-msgstr "Προώθηση"
-
-#: osha.policy:/missing_18n_labels.py:344
-msgid "from"
-msgstr "Από"
-
-#: osha.policy:/missing_18n_labels.py:345
-msgid "go_to_calendar"
-msgstr "Μετακίνηση επάνω, στο Ημερολόγιο"
-
-#: osha.policy:/missing_18n_labels.py:346
-msgid "go_to_folder_localroles"
-msgstr "Μετακίνηση επάνω, στον φάκελο «τοπικοί ρόλοι»"
-
-# # 1 more: ./plone_templates/folder_listing.pt
-#: osha.policy:/missing_18n_labels.py:347
-msgid "go_to_parent_url"
-msgstr "Μετακίνηση επάνω κατά ένα επίπεδο"
-
-#: osha.policy:/missing_18n_labels.py:348
-msgid "header_active"
-msgstr "Ενεργό"
-
-#: osha.policy:/missing_18n_labels.py:349
-msgid "header_portlet_personalise"
-msgstr "Εξατομικεύστε τις πληροφορίες αυτής της ιστοθέσης"
 
 # Default "Icelandic Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1719,44 +1726,45 @@ msgid "heading_main_fop_portlet_iceland"
 msgstr "Σημείο επαφής Ισλανδίας"
 
 #: osha.policy:/missing_18n_labels.py:350
-msgid "header_title"
-msgstr "Τίτλος"
+msgid "feedback_sent_by"
+msgstr "Τα σχόλια αυτά αποστέλλονται από:"
 
 #: osha.policy:/missing_18n_labels.py:351
-msgid "heading_actions"
-msgstr "Ενέργειες"
+msgid "foresight"
+msgstr "Συνοπτική περιγραφή"
 
 #: osha.policy:/missing_18n_labels.py:352
-msgid "heading_add_to_calendar"
-msgstr "Προσθήκη εκδήλωσης στο ημερολόγιο"
+msgid "forward"
+msgstr "Προώθηση"
 
 #: osha.policy:/missing_18n_labels.py:353
-msgid "heading_advanced_search"
-msgstr "Προχωρημένη αναζήτηση περιεχομένου"
+msgid "from"
+msgstr "Από"
 
 #: osha.policy:/missing_18n_labels.py:354
-msgid "heading_alert_add_searchquer"
-msgstr "Προσθήκη νέου κριτηρίου αναζήτησης"
+msgid "go_to_calendar"
+msgstr "Μετακίνηση επάνω, στο Ημερολόγιο"
 
 #: osha.policy:/missing_18n_labels.py:355
-msgid "heading_alert_edit_searchquer"
-msgstr "Επεξεργασία κριτηρίου αναζήτησης &quot; ${itemtype} &quot;"
+msgid "go_to_folder_localroles"
+msgstr "Μετακίνηση επάνω, στον φάκελο «τοπικοί ρόλοι»"
 
+# # 1 more: ./plone_templates/folder_listing.pt
 #: osha.policy:/missing_18n_labels.py:356
-msgid "heading_alerts_generalinterests"
-msgstr "Γενικά ενδιαφέροντα"
+msgid "go_to_parent_url"
+msgstr "Μετακίνηση επάνω κατά ένα επίπεδο"
 
 #: osha.policy:/missing_18n_labels.py:357
-msgid "heading_alerts_specialinterests"
-msgstr "Ειδικά ενδιαφέροντα"
+msgid "header_active"
+msgstr "Ενεργό"
 
 #: osha.policy:/missing_18n_labels.py:358
-msgid "heading_authorities"
-msgstr "Αρχές"
+msgid "header_portlet_personalise"
+msgstr "Εξατομικεύστε τις πληροφορίες αυτής της ιστοθέσης"
 
 #: osha.policy:/missing_18n_labels.py:359
-msgid "heading_calendar_views"
-msgstr "Προβολές ημερολογίου "
+msgid "header_title"
+msgstr "Τίτλος"
 
 # Default "Irish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1765,45 +1773,44 @@ msgid "heading_main_fop_portlet_ireland"
 msgstr "Σημείο επαφής Ιρλανδίας"
 
 #: osha.policy:/missing_18n_labels.py:360
-msgid "heading_document_actions"
-msgstr "Ενέργειες στο έγγραφο"
+msgid "heading_actions"
+msgstr "Ενέργειες"
 
 #: osha.policy:/missing_18n_labels.py:361
-msgid "heading_ew2005_stopthatnoise"
-msgstr "Καταπολεμειστε το θορυβο!"
+msgid "heading_add_to_calendar"
+msgstr "Προσθήκη εκδήλωσης στο ημερολόγιο"
 
 #: osha.policy:/missing_18n_labels.py:362
-msgid "heading_exception_details"
-msgstr "Λεπτομέρειες εξαίρεσης"
+msgid "heading_advanced_search"
+msgstr "Προχωρημένη αναζήτηση περιεχομένου"
 
 #: osha.policy:/missing_18n_labels.py:363
-msgid "heading_feedback_comments"
-msgstr "Σχόλια"
+msgid "heading_alert_add_searchquer"
+msgstr "Προσθήκη νέου κριτηρίου αναζήτησης"
 
 #: osha.policy:/missing_18n_labels.py:364
-msgid "heading_file_contents"
-msgstr "Περιεχόμενα αρχείων"
+msgid "heading_alert_edit_searchquer"
+msgstr "Επεξεργασία κριτηρίου αναζήτησης &quot; ${itemtype} &quot;"
 
 #: osha.policy:/missing_18n_labels.py:365
-msgid "heading_hierarchical_index"
-msgstr "Ιεραρχημένο ευρετήριο"
+msgid "heading_alerts_generalinterests"
+msgstr "Γενικά ενδιαφέροντα"
 
 #: osha.policy:/missing_18n_labels.py:366
-msgid "heading_index_by_nace"
-msgstr "Ευρετήριο κατά NACE"
+msgid "heading_alerts_specialinterests"
+msgstr "Ειδικά ενδιαφέροντα"
 
 #: osha.policy:/missing_18n_labels.py:367
-msgid "heading_index_by_providers"
-msgstr "Ευρετήριο κατά Παροχέα"
+msgid "heading_authorities"
+msgstr "Αρχές"
 
 #: osha.policy:/missing_18n_labels.py:368
-msgid "heading_index_by_sme"
-msgstr "Ευρετήριο κατά ΜΜΕ"
+msgid "heading_calendar_views"
+msgstr "Προβολές ημερολογίου "
 
 #: osha.policy:/missing_18n_labels.py:369
-#: osha.policy:/skins/osha_content/index_topic.pt:13
-msgid "heading_index_by_topic"
-msgstr "Ευρετήριο κατά θέμα"
+msgid "heading_document_actions"
+msgstr "Ενέργειες στο έγγραφο"
 
 # Default "Italian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1812,45 +1819,45 @@ msgid "heading_main_fop_portlet_italy"
 msgstr "Σημείο επαφής Ιταλίας"
 
 #: osha.policy:/missing_18n_labels.py:370
-msgid "heading_latest_seminars"
-msgstr "Πρόσφατα Σεμινάρια"
+msgid "heading_ew2005_stopthatnoise"
+msgstr "Καταπολεμειστε το θορυβο!"
 
 #: osha.policy:/missing_18n_labels.py:371
-msgid "heading_link_to"
-msgstr "Σύνδεσμος σε"
+msgid "heading_exception_details"
+msgstr "Λεπτομέρειες εξαίρεσης"
 
 #: osha.policy:/missing_18n_labels.py:372
-msgid "heading_link_to_this_site"
-msgstr "Σύνδεσμος σε αυτήν την τοποθεσία"
+msgid "heading_feedback_comments"
+msgstr "Σχόλια"
 
 #: osha.policy:/missing_18n_labels.py:373
-msgid "heading_lost_password"
-msgstr "Απώλεια κωδικού πρόσβασης"
+msgid "heading_file_contents"
+msgstr "Περιεχόμενα αρχείων"
 
 #: osha.policy:/missing_18n_labels.py:374
-msgid "heading_other_national_sites"
-msgstr "Άλλοι εθνικοί δικτυακοί τόποι"
+msgid "heading_hierarchical_index"
+msgstr "Ιεραρχημένο ευρετήριο"
 
 #: osha.policy:/missing_18n_labels.py:375
-msgid "heading_portlets_configure"
-msgstr "Ρύθμιση των παραμέτρων των Portlet"
+msgid "heading_index_by_nace"
+msgstr "Ευρετήριο κατά NACE"
 
 #: osha.policy:/missing_18n_labels.py:376
-msgid "heading_questionnaire_result"
-msgstr "Τρέχον αποτέλεσμα"
+msgid "heading_index_by_providers"
+msgstr "Ευρετήριο κατά Παροχέα"
 
 #: osha.policy:/missing_18n_labels.py:377
-msgid "heading_quicksearch_users"
-msgstr "Χρήστες γρήγορης αναζήτησης "
+msgid "heading_index_by_sme"
+msgstr "Ευρετήριο κατά ΜΜΕ"
 
 #: osha.policy:/missing_18n_labels.py:378
-msgid "heading_research_organisations"
-msgstr "Ερευνητικοί οργανισμοί"
+#: osha.policy:/skins/osha_content/index_topic.pt:13
+msgid "heading_index_by_topic"
+msgstr "Ευρετήριο κατά θέμα"
 
 #: osha.policy:/missing_18n_labels.py:379
-msgid "heading_search"
-msgstr ""
-"Αναζήτηση <span tal:content=\"here/title_or_id\"> τίτλου ή ταυτότητας</span>"
+msgid "heading_latest_seminars"
+msgstr "Πρόσφατα Σεμινάρια"
 
 # Default "Kosovar Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1859,46 +1866,45 @@ msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
 msgstr "Σημείο επαφής Κοσσόβου"
 
 #: osha.policy:/missing_18n_labels.py:380
-msgid "heading_search_case_studies"
-msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΠΕΡΙΠΤΩΣΙΟΛΟΓΙΚΕΣ ΜΕΛΕΤΕΣ»"
+msgid "heading_link_to"
+msgstr "Σύνδεσμος σε"
 
 #: osha.policy:/missing_18n_labels.py:381
-msgid "heading_search_providers"
-msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΠΑΡΟΧΕΙΣ»"
+msgid "heading_link_to_this_site"
+msgstr "Σύνδεσμος σε αυτήν την τοποθεσία"
 
 #: osha.policy:/missing_18n_labels.py:382
-msgid "heading_search_results_memberdocs"
-msgstr " Αποτελέσματα αναζήτησης για έγγραφα μελών "
+msgid "heading_lost_password"
+msgstr "Απώλεια κωδικού πρόσβασης"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:383
-msgid "heading_search_results_rss"
-msgstr "Αποτελέσματα απομακρυσμένης αναζήτησης"
+msgid "heading_other_national_sites"
+msgstr "Άλλοι εθνικοί δικτυακοί τόποι"
 
 #: osha.policy:/missing_18n_labels.py:384
-msgid "heading_search_risk_assessment_tools"
-msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΕΡΓΑΛΕΙΑ ΕΚΤΙΜΗΣΗΣ ΚΙΝΔΥΝΩΝ»"
+msgid "heading_portlets_configure"
+msgstr "Ρύθμιση των παραμέτρων των Portlet"
 
 #: osha.policy:/missing_18n_labels.py:385
-msgid "heading_search_useful_links"
-msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ»"
+msgid "heading_questionnaire_result"
+msgstr "Τρέχον αποτέλεσμα"
 
 #: osha.policy:/missing_18n_labels.py:386
-msgid "heading_sections"
-msgstr "Ενότητες"
+msgid "heading_quicksearch_users"
+msgstr "Χρήστες γρήγορης αναζήτησης "
 
 #: osha.policy:/missing_18n_labels.py:387
-msgid "heading_send_page_to"
-msgstr "Αποστολή αυτής της σελίδας"
+msgid "heading_research_organisations"
+msgstr "Ερευνητικοί οργανισμοί"
 
-# # 1 more: ./OSHA/skins/osha/search_form.pt
 #: osha.policy:/missing_18n_labels.py:388
-msgid "heading_simple_search"
-msgstr "Αναζήτηση περιεχομένου"
+msgid "heading_search"
+msgstr ""
+"Αναζήτηση <span tal:content=\"here/title_or_id\"> τίτλου ή ταυτότητας</span>"
 
 #: osha.policy:/missing_18n_labels.py:389
-msgid "heading_site_error"
-msgstr "Σφάλμα κόμβου"
+msgid "heading_search_case_studies"
+msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΠΕΡΙΠΤΩΣΙΟΛΟΓΙΚΕΣ ΜΕΛΕΤΕΣ»"
 
 # Default "Latvian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1907,56 +1913,46 @@ msgid "heading_main_fop_portlet_latvia"
 msgstr "Σημείο επαφής Λεττονίας"
 
 #: osha.policy:/missing_18n_labels.py:390
-msgid "heading_social_partners"
-msgstr "Κοινωνικοί εταίροι"
+msgid "heading_search_providers"
+msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΠΑΡΟΧΕΙΣ»"
 
 #: osha.policy:/missing_18n_labels.py:391
-msgid "heading_start_simple_process"
-msgstr "Έναρξη ροής εργασιών "
-
-#: osha.policy:/missing_18n_labels.py:392
-msgid "help_search_author"
-msgstr "Εμφάνιση στοιχείων που δημιουργήθηκαν από συγκεκριμένο άτομο."
+msgid "heading_search_results_memberdocs"
+msgstr " Αποτελέσματα αναζήτησης για έγγραφα μελών "
 
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: osha.policy:/missing_18n_labels.py:392
+msgid "heading_search_results_rss"
+msgstr "Αποτελέσματα απομακρυσμένης αναζήτησης"
+
 #: osha.policy:/missing_18n_labels.py:393
-msgid "help_search_available_languages"
-msgstr "Εμφάνιση των στοιχείων που διατίθενται στις επιλεγμένες γλώσσες."
+msgid "heading_search_risk_assessment_tools"
+msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΕΡΓΑΛΕΙΑ ΕΚΤΙΜΗΣΗΣ ΚΙΝΔΥΝΩΝ»"
 
 #: osha.policy:/missing_18n_labels.py:394
-msgid "help_search_countries"
-msgstr "Εμφάνιση των στοιχείων που διατίθενται στην επιλεγμένη χώρα."
+msgid "heading_search_useful_links"
+msgstr "Αναζήτηση στη ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ «ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ»"
 
 #: osha.policy:/missing_18n_labels.py:395
-msgid "help_search_description"
-msgstr ""
-"Εμφάνιση των στοιχείων που αντιστοιχούν σε αυτήν την περιγραφή. Για την "
-"εμφάνιση περισσοτέρων της μίας λέξεων συνδυάστε τις λέξεις-κλειδιά με το "
-"<strong>AND</strong> και το <strong>OR</strong> ."
+msgid "heading_sections"
+msgstr "Ενότητες"
 
 #: osha.policy:/missing_18n_labels.py:396
-msgid "help_search_item_type"
-msgstr "Εμφάνιση στοιχείων συγκεκριμένου τύπου."
+msgid "heading_send_page_to"
+msgstr "Αποστολή αυτής της σελίδας"
 
+# # 1 more: ./OSHA/skins/osha/search_form.pt
 #: osha.policy:/missing_18n_labels.py:397
-msgid "help_search_keywords"
-msgstr ""
-"Εμφάνιση των στοιχείων που αντιστοιχούν σε μία ή περισσότερες από αυτές τις "
-"λέξεις-κλειδιά. Για την εμφάνιση περισσοτέρων της μίας λέξεων πιέστε "
-"<strong>Ctrl</strong> κάνοντας ταυτόχρονα <strong>αριστερό κλικ</strong> "
-"στις λέξεις-κλειδιά."
+msgid "heading_simple_search"
+msgstr "Αναζήτηση περιεχομένου"
 
 #: osha.policy:/missing_18n_labels.py:398
-msgid "help_search_new_items_since"
-msgstr ""
-"Εμφάνιση των στοιχείων που προστέθηκαν από την τελευταία φορά που "
-"συνδεθήκατε, την τελευταία εβδομάδα, κ.λπ."
+msgid "heading_site_error"
+msgstr "Σφάλμα κόμβου"
 
 #: osha.policy:/missing_18n_labels.py:399
-msgid "help_search_path"
-msgstr ""
-"Αναζήτηση μόνο των αντικειμένων που βρίσκονται κάτω από αυτό το αντικείμενο "
-"στην ιεραρχία του κόμβου."
+msgid "heading_social_partners"
+msgstr "Κοινωνικοί εταίροι"
 
 # Default "Liechtenstein Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1965,54 +1961,108 @@ msgid "heading_main_fop_portlet_liechtenstein"
 msgstr "Σημείο επαφής Λιχτενστάιν"
 
 #: osha.policy:/missing_18n_labels.py:400
+msgid "heading_start_simple_process"
+msgstr "Έναρξη ροής εργασιών "
+
+#: osha.policy:/missing_18n_labels.py:401
+msgid "help_search_author"
+msgstr "Εμφάνιση στοιχείων που δημιουργήθηκαν από συγκεκριμένο άτομο."
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: osha.policy:/missing_18n_labels.py:402
+msgid "help_search_available_languages"
+msgstr "Εμφάνιση των στοιχείων που διατίθενται στις επιλεγμένες γλώσσες."
+
+#: osha.policy:/missing_18n_labels.py:403
+msgid "help_search_countries"
+msgstr "Εμφάνιση των στοιχείων που διατίθενται στην επιλεγμένη χώρα."
+
+#: osha.policy:/missing_18n_labels.py:404
+msgid "help_search_description"
+msgstr ""
+"Εμφάνιση των στοιχείων που αντιστοιχούν σε αυτήν την περιγραφή. Για την "
+"εμφάνιση περισσοτέρων της μίας λέξεων συνδυάστε τις λέξεις-κλειδιά με το "
+"<strong>AND</strong> και το <strong>OR</strong> ."
+
+#: osha.policy:/missing_18n_labels.py:405
+msgid "help_search_item_type"
+msgstr "Εμφάνιση στοιχείων συγκεκριμένου τύπου."
+
+#: osha.policy:/missing_18n_labels.py:406
+msgid "help_search_keywords"
+msgstr ""
+"Εμφάνιση των στοιχείων που αντιστοιχούν σε μία ή περισσότερες από αυτές τις "
+"λέξεις-κλειδιά. Για την εμφάνιση περισσοτέρων της μίας λέξεων πιέστε "
+"<strong>Ctrl</strong> κάνοντας ταυτόχρονα <strong>αριστερό κλικ</strong> "
+"στις λέξεις-κλειδιά."
+
+#: osha.policy:/missing_18n_labels.py:407
+msgid "help_search_new_items_since"
+msgstr ""
+"Εμφάνιση των στοιχείων που προστέθηκαν από την τελευταία φορά που "
+"συνδεθήκατε, την τελευταία εβδομάδα, κ.λπ."
+
+#: osha.policy:/missing_18n_labels.py:408
+msgid "help_search_path"
+msgstr ""
+"Αναζήτηση μόνο των αντικειμένων που βρίσκονται κάτω από αυτό το αντικείμενο "
+"στην ιεραρχία του κόμβου."
+
+#: osha.policy:/missing_18n_labels.py:409
 msgid "help_search_review_status"
 msgstr ""
 "Ως αναθεωρητής, μπορείτε να προβαίνετε στην αναζήτηση στοιχείων βάσει της "
 "κατάστασης ανάγνωσης. Εάν επιθυμείτε να περιορίσετε την αναζήτηση σε "
 "στοιχεία συγκεκριμένης κατάστασης, επιλέξτε τα από αυτήν τη λίστα."
 
-#: osha.policy:/missing_18n_labels.py:401
+# Default "Lithuanian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:41
+msgid "heading_main_fop_portlet_lithuania"
+msgstr "Σημείο επαφής Λιθουανίας"
+
+#: osha.policy:/missing_18n_labels.py:410
 msgid "help_search_rssextension"
 msgstr ""
 "Μπορείτε να διευρύνετε το πεδίο της αναζήτησής σας επιλέγοντας έναν ή "
 "περισσότερους ομότιμους κόμβους οι οποίοι θα χρησιμοποιηθούν ως πηγές "
 "απομακρυσμένης αναζήτησης. <br/>"
 
-#: osha.policy:/missing_18n_labels.py:402
+#: osha.policy:/missing_18n_labels.py:411
 msgid "help_search_title"
 msgstr "Εμφάνιση των στοιχείων που αντιστοιχούν σε αυτόν τον τίτλο."
 
-#: osha.policy:/missing_18n_labels.py:403
+#: osha.policy:/missing_18n_labels.py:412
 msgid "help_send_to_mail"
 msgstr "Η ηλεκτρονική διεύθυνση στην οποία θα αποσταλεί αυτός ο σύνδεσμος."
 
-#: osha.policy:/missing_18n_labels.py:404
+#: osha.policy:/missing_18n_labels.py:413
 msgid "hour"
 msgstr "Ώρα"
 
-#: osha.policy:/missing_18n_labels.py:405
+#: osha.policy:/missing_18n_labels.py:414
 msgid "id"
 msgstr "αναγνωριστικό"
 
-#: osha.policy:/missing_18n_labels.py:406
+#: osha.policy:/missing_18n_labels.py:415
 msgid "info_alert_searchagent"
 msgstr ""
 "Μπορείτε να προσδιορίσετε ένα ερώτημα για την αναζήτηση των αντικειμένων που "
 "επιθυμείτε να παρακολουθείτε. Όταν αυτά τροποποιούνται, θα λαμβάνετε σχετική "
 "ειδοποίηση."
 
-#: osha.policy:/missing_18n_labels.py:407
+#: osha.policy:/missing_18n_labels.py:416
 msgid "info_feedback_message_checkbefore"
 msgstr ""
 "Προτού αποστείλετε μια ερώτηση, ελέγξτε τις σελίδες ${link1} και ${link2}."
 
-#: osha.policy:/missing_18n_labels.py:408
+#: osha.policy:/missing_18n_labels.py:417
 msgid "info_feedback_message_publications"
 msgstr ""
 "Όλες οι εκδόσεις του Οργανισμού είναι ${link} . Όλες οι πληροφορίες που "
 "διαθέτουμε παρέχονται στο δίκτυο των ιστοθέσεών μας.&quot;"
 
-#: osha.policy:/missing_18n_labels.py:409
+#: osha.policy:/missing_18n_labels.py:418
 msgid "info_feedback_message_writemessage"
 msgstr ""
 "Μπορείτε να μας γράψετε σε οποιαδήποτε από τις 20 επίσημες γλώσσες της ΕΕ, "
@@ -2023,52 +2073,9 @@ msgstr ""
 "προσωπικό του Οργανισμού. Στόχος μας είναι να απαντάμε στις ερωτήσεις το "
 "συντομότερο δυνατόν."
 
-# Default "Lithuanian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:41
-msgid "heading_main_fop_portlet_lithuania"
-msgstr "Σημείο επαφής Λιθουανίας"
-
-#: osha.policy:/missing_18n_labels.py:410
+#: osha.policy:/missing_18n_labels.py:419
 msgid "is"
 msgstr "είναι"
-
-#: osha.policy:/missing_18n_labels.py:411
-msgid "january"
-msgstr "Ιανουάριος"
-
-#: osha.policy:/missing_18n_labels.py:412
-msgid "july"
-msgstr "Ιούλιος"
-
-#: osha.policy:/missing_18n_labels.py:413
-msgid "june"
-msgstr "Ιούνιος"
-
-#: osha.policy:/missing_18n_labels.py:414
-msgid "keywords"
-msgstr "Λέξεις-κλειδιά"
-
-#: osha.policy:/missing_18n_labels.py:415
-msgid "label_add_to_calendar"
-msgstr "Προσθήκη στο ημερολόγιο"
-
-#: osha.policy:/missing_18n_labels.py:416
-msgid "label_add_to_ical"
-msgstr "iCal"
-
-#: osha.policy:/missing_18n_labels.py:417
-msgid "label_add_to_vcal"
-msgstr "vCal"
-
-# Default "Albania"
-#: osha.policy:/missing_18n_labels.py:418
-msgid "label_albania"
-msgstr "Aλβανία"
-
-#: osha.policy:/missing_18n_labels.py:419
-msgid "label_alert_titlesearchquery"
-msgstr "Τίτλος του ερωτήματος για αναζήτηση"
 
 # Default "Luxembourgish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2077,49 +2084,45 @@ msgid "heading_main_fop_portlet_luxembourg"
 msgstr "Σημείο επαφής Λουξεμβούργου"
 
 #: osha.policy:/missing_18n_labels.py:420
-msgid "label_all"
-msgstr "Όλα"
+msgid "january"
+msgstr "Ιανουάριος"
 
-# Default "Austria"
 #: osha.policy:/missing_18n_labels.py:421
-msgid "label_austria"
-msgstr "Aυστρία"
+msgid "july"
+msgstr "Ιούλιος"
 
 #: osha.policy:/missing_18n_labels.py:422
-msgid "label_author"
-msgstr "Δημιουργός"
+msgid "june"
+msgstr "Ιούνιος"
 
 #: osha.policy:/missing_18n_labels.py:423
-msgid "label_avi"
-msgstr "AVI"
+msgid "keywords"
+msgstr "Λέξεις-κλειδιά"
 
-# FOP Countries
-# Default "Belgium"
 #: osha.policy:/missing_18n_labels.py:424
-msgid "label_belgium"
-msgstr "Bέλγιο"
+msgid "label_add_to_calendar"
+msgstr "Προσθήκη στο ημερολόγιο"
 
-# Default "Bosnia and Herzegovina"
 #: osha.policy:/missing_18n_labels.py:425
-msgid "label_bosnia_and_herzegovina"
-msgstr "Βοσνία και Ερζεγοβίνη"
+msgid "label_add_to_ical"
+msgstr "iCal"
 
 #: osha.policy:/missing_18n_labels.py:426
-msgid "label_broaden_search"
-msgstr "Διεύρυνση αναζήτησης"
+msgid "label_add_to_vcal"
+msgstr "vCal"
 
-# Default "Bulgaria"
+# Default "Albania"
 #: osha.policy:/missing_18n_labels.py:427
-msgid "label_bulgaria"
-msgstr "Bουλγαρία"
+msgid "label_albania"
+msgstr "Aλβανία"
 
 #: osha.policy:/missing_18n_labels.py:428
-msgid "label_by"
-msgstr "με"
+msgid "label_alert_titlesearchquery"
+msgstr "Τίτλος του ερωτήματος για αναζήτηση"
 
 #: osha.policy:/missing_18n_labels.py:429
-msgid "label_category"
-msgstr "Κατηγορία"
+msgid "label_all"
+msgstr "Όλα"
 
 # Default "Maltese Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2127,46 +2130,50 @@ msgstr "Κατηγορία"
 msgid "heading_main_fop_portlet_malta"
 msgstr "Σημείο επαφής Μάλτας"
 
+# Default "Austria"
 #: osha.policy:/missing_18n_labels.py:430
-msgid "label_city"
-msgstr "Πόλη"
+msgid "label_austria"
+msgstr "Aυστρία"
 
 #: osha.policy:/missing_18n_labels.py:431
-msgid "label_click_to_hide_full_text"
-msgstr "Κάνετε κλικ εδώ για να αποκρύψετε το πλήρες κείμενο"
+msgid "label_author"
+msgstr "Δημιουργός"
 
 #: osha.policy:/missing_18n_labels.py:432
-msgid "label_click_to_see_speeches_summary"
-msgstr "Κάνετε κλικ εδώ για να παρακολουθήσετε την περίληψη όλων των ομιλιών"
+msgid "label_avi"
+msgstr "AVI"
 
+# FOP Countries
+# Default "Belgium"
 #: osha.policy:/missing_18n_labels.py:433
-msgid "label_click_to_show_full_text"
-msgstr "Κάνετε κλικ εδώ για να προβάλλετε το πλήρες κείμενο"
+msgid "label_belgium"
+msgstr "Bέλγιο"
 
+# Default "Bosnia and Herzegovina"
 #: osha.policy:/missing_18n_labels.py:434
-msgid "label_closed"
-msgstr "κλειστό"
+msgid "label_bosnia_and_herzegovina"
+msgstr "Βοσνία και Ερζεγοβίνη"
 
 #: osha.policy:/missing_18n_labels.py:435
-msgid "label_comment"
-msgstr "Σχόλια"
+msgid "label_broaden_search"
+msgstr "Διεύρυνση αναζήτησης"
 
+# Default "Bulgaria"
 #: osha.policy:/missing_18n_labels.py:436
-msgid "label_comments"
-msgstr "Σχόλια"
+msgid "label_bulgaria"
+msgstr "Bουλγαρία"
 
-# Competitions
 #: osha.policy:/missing_18n_labels.py:437
-msgid "label_competitions"
-msgstr "Διαγωνισμοί"
+msgid "label_by"
+msgstr "με"
 
 #: osha.policy:/missing_18n_labels.py:438
-msgid "label_contact_email"
-msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου επαφής"
+msgid "label_category"
+msgstr "Κατηγορία"
 
 #: osha.policy:/missing_18n_labels.py:439
-msgid "label_contact_name"
-msgstr "Όνομα επαφής"
+msgid "label_city"
+msgstr "Πόλη"
 
 # Default "Montenegrin Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2175,47 +2182,45 @@ msgid "heading_main_fop_portlet_montenegro"
 msgstr "Σημείο επαφής Μαυροβουνίου"
 
 #: osha.policy:/missing_18n_labels.py:440
-msgid "label_contact_phone"
-msgstr "Τηλέφωνο επαφής"
+msgid "label_click_to_hide_full_text"
+msgstr "Κάνετε κλικ εδώ για να αποκρύψετε το πλήρες κείμενο"
 
 #: osha.policy:/missing_18n_labels.py:441
-msgid "label_contributors"
-msgstr "Συνεισφέροντες"
+msgid "label_click_to_see_speeches_summary"
+msgstr "Κάνετε κλικ εδώ για να παρακολουθήσετε την περίληψη όλων των ομιλιών"
 
 #: osha.policy:/missing_18n_labels.py:442
-msgid "label_copyrights"
-msgstr "Πνευματικά δικαιώματα"
+msgid "label_click_to_show_full_text"
+msgstr "Κάνετε κλικ εδώ για να προβάλλετε το πλήρες κείμενο"
 
 #: osha.policy:/missing_18n_labels.py:443
-msgid "label_countries"
-msgstr "Χώρες"
+msgid "label_closed"
+msgstr "κλειστό"
 
 #: osha.policy:/missing_18n_labels.py:444
-msgid "label_creator"
-msgstr "Δημιουργός"
+msgid "label_comment"
+msgstr "Σχόλια"
 
-# Default "Croatia"
 #: osha.policy:/missing_18n_labels.py:445
-msgid "label_croatia"
-msgstr "Κροατία"
+msgid "label_comments"
+msgstr "Σχόλια"
 
+# Competitions
 #: osha.policy:/missing_18n_labels.py:446
-msgid "label_current_decision"
-msgstr "Τρέχουσα απόφαση"
+msgid "label_competitions"
+msgstr "Διαγωνισμοί"
 
-# Default "Cyprus"
 #: osha.policy:/missing_18n_labels.py:447
-msgid "label_cyprus"
-msgstr "Κύπρος"
+msgid "label_contact_email"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου επαφής"
 
-# Default "Czech Republic"
 #: osha.policy:/missing_18n_labels.py:448
-msgid "label_czech_republic"
-msgstr "Τσεχική Δημοκρατία"
+msgid "label_contact_name"
+msgstr "Όνομα επαφής"
 
 #: osha.policy:/missing_18n_labels.py:449
-msgid "label_date"
-msgstr "Ημερομηνία"
+msgid "label_contact_phone"
+msgstr "Τηλέφωνο επαφής"
 
 # Default "Dutch Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2224,48 +2229,47 @@ msgid "heading_main_fop_portlet_netherlands"
 msgstr "Σημείο επαφής Ολλανδίας"
 
 #: osha.policy:/missing_18n_labels.py:450
-msgid "label_default_language"
-msgstr "Προεπιλεγμένη γλώσσα"
+msgid "label_contributors"
+msgstr "Συνεισφέροντες"
 
-# Default "Denmark"
 #: osha.policy:/missing_18n_labels.py:451
-msgid "label_denmark"
-msgstr "Δανία"
+msgid "label_copyrights"
+msgstr "Πνευματικά δικαιώματα"
 
-# Default "Estonia"
 #: osha.policy:/missing_18n_labels.py:452
-msgid "label_estonia"
-msgstr "Eσθονία"
+msgid "label_countries"
+msgstr "Χώρες"
 
 #: osha.policy:/missing_18n_labels.py:453
-msgid "label_faq_answertext"
-msgstr "Σώμα κειμένου απάντησης"
+msgid "label_creator"
+msgstr "Δημιουργός"
 
+# Default "Croatia"
 #: osha.policy:/missing_18n_labels.py:454
-msgid "label_faq_questiontext"
-msgstr "Σώμα κειμένου ερώτησης"
+msgid "label_croatia"
+msgstr "Κροατία"
 
 #: osha.policy:/missing_18n_labels.py:455
-msgid "label_female"
-msgstr "θήλυ"
+msgid "label_current_decision"
+msgstr "Τρέχουσα απόφαση"
 
-# Default "Finland"
+# Default "Cyprus"
 #: osha.policy:/missing_18n_labels.py:456
-msgid "label_finland"
-msgstr "Φινλανδία"
+msgid "label_cyprus"
+msgstr "Κύπρος"
 
-# # 1 more: ./OSHA/skins/osha/join_form.cpt
+# Default "Czech Republic"
 #: osha.policy:/missing_18n_labels.py:457
-msgid "label_first_name"
-msgstr "Όνομα"
+msgid "label_czech_republic"
+msgstr "Τσεχική Δημοκρατία"
 
 #: osha.policy:/missing_18n_labels.py:458
-msgid "label_firstname"
-msgstr "Όνομα"
+msgid "label_date"
+msgstr "Ημερομηνία"
 
 #: osha.policy:/missing_18n_labels.py:459
-msgid "label_focalpoint"
-msgstr "Εστιακός πόλος"
+msgid "label_default_language"
+msgstr "Προεπιλεγμένη γλώσσα"
 
 # Default "Norwegian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2273,50 +2277,49 @@ msgstr "Εστιακός πόλος"
 msgid "heading_main_fop_portlet_norway"
 msgstr "Σημείο επαφής Νορβηγίας"
 
+# Default "Denmark"
 #: osha.policy:/missing_18n_labels.py:460
-msgid "label_folder_method"
-msgstr "Method ID"
+msgid "label_denmark"
+msgstr "Δανία"
 
-# Default "France"
+# Default "Estonia"
 #: osha.policy:/missing_18n_labels.py:461
-msgid "label_france"
-msgstr "Γαλλία"
+msgid "label_estonia"
+msgstr "Eσθονία"
 
 #: osha.policy:/missing_18n_labels.py:462
-msgid "label_free_newsletter"
-msgstr " δωρεάν ενημερωτικό δελτίο"
+msgid "label_faq_answertext"
+msgstr "Σώμα κειμένου απάντησης"
 
 #: osha.policy:/missing_18n_labels.py:463
-msgid "label_full_name"
-msgstr "Ονοματεπώνυμο"
+msgid "label_faq_questiontext"
+msgstr "Σώμα κειμένου ερώτησης"
 
-# Default "Germany"
 #: osha.policy:/missing_18n_labels.py:464
-msgid "label_germany"
-msgstr "Γερμανία"
+msgid "label_female"
+msgstr "θήλυ"
 
-# Default "Greece"
+# Default "Finland"
 #: osha.policy:/missing_18n_labels.py:465
-msgid "label_greece"
-msgstr "Ελλάδα"
+msgid "label_finland"
+msgstr "Φινλανδία"
 
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
 #: osha.policy:/missing_18n_labels.py:466
-msgid "label_hidden"
-msgstr "απόκρυψη"
+msgid "label_first_name"
+msgstr "Όνομα"
 
-# Default "Hungary"
 #: osha.policy:/missing_18n_labels.py:467
-msgid "label_hungary"
-msgstr "Ουγγαρία"
+msgid "label_firstname"
+msgstr "Όνομα"
 
-# Default "Iceland"
 #: osha.policy:/missing_18n_labels.py:468
-msgid "label_iceland"
-msgstr "Iσλανδία"
+msgid "label_focalpoint"
+msgstr "Εστιακός πόλος"
 
 #: osha.policy:/missing_18n_labels.py:469
-msgid "label_include_subfolders"
-msgstr "Συμπερίληψη δευτερεύοντων φακέλων"
+msgid "label_folder_method"
+msgstr "Method ID"
 
 # Default "Polish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2324,53 +2327,51 @@ msgstr "Συμπερίληψη δευτερεύοντων φακέλων"
 msgid "heading_main_fop_portlet_poland"
 msgstr "Σημείο επαφής Πολωνίας"
 
-# Default "Ireland"
+# Default "France"
 #: osha.policy:/missing_18n_labels.py:470
-msgid "label_ireland"
-msgstr "Iρλανδία"
+msgid "label_france"
+msgstr "Γαλλία"
 
-# Default "Italy"
 #: osha.policy:/missing_18n_labels.py:471
-msgid "label_italy"
-msgstr "Iταλία"
+msgid "label_free_newsletter"
+msgstr " δωρεάν ενημερωτικό δελτίο"
 
 #: osha.policy:/missing_18n_labels.py:472
-msgid "label_keywords"
-msgstr "Λέξεις-κλειδιά"
+msgid "label_full_name"
+msgstr "Ονοματεπώνυμο"
 
-# Default "Kosovo under UNSCR 1244/99"
+# Default "Germany"
 #: osha.policy:/missing_18n_labels.py:473
-msgid "label_kosovo"
-msgstr "Κοσσυφοπέδιο υπό UNSCR 1244/99"
+msgid "label_germany"
+msgstr "Γερμανία"
 
-# Default "Latvia"
+# Default "Greece"
 #: osha.policy:/missing_18n_labels.py:474
-msgid "label_latvia"
-msgstr "Λεττονία"
+msgid "label_greece"
+msgstr "Ελλάδα"
 
-# Default "Liechtenstein"
 #: osha.policy:/missing_18n_labels.py:475
-msgid "label_liechtenstein"
-msgstr "Λιχτενστάιν"
+msgid "label_hidden"
+msgstr "απόκρυψη"
 
-# Default "Lithuania"
+# Default "Hungary"
 #: osha.policy:/missing_18n_labels.py:476
-msgid "label_lithuania"
-msgstr "Λιθουανία"
+msgid "label_hungary"
+msgstr "Ουγγαρία"
 
-# Default "Luxembourg"
+# Default "Iceland"
 #: osha.policy:/missing_18n_labels.py:477
-msgid "label_luxembourg"
-msgstr "Λουξεμβούργο"
+msgid "label_iceland"
+msgstr "Iσλανδία"
 
-# Default "The former Yugoslav Republic of Macedonia"
 #: osha.policy:/missing_18n_labels.py:478
-msgid "label_macedonia"
-msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
+msgid "label_include_subfolders"
+msgstr "Συμπερίληψη δευτερεύοντων φακέλων"
 
+# Default "Ireland"
 #: osha.policy:/missing_18n_labels.py:479
-msgid "label_male"
-msgstr "Άρρεν"
+msgid "label_ireland"
+msgstr "Iρλανδία"
 
 # Default "Portuguese Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2378,51 +2379,53 @@ msgstr "Άρρεν"
 msgid "heading_main_fop_portlet_portugal"
 msgstr "Σημείο επαφής Πορτογαλίας"
 
-# Default "Malta"
+# Default "Italy"
 #: osha.policy:/missing_18n_labels.py:480
-msgid "label_malta"
-msgstr "Mάλτα"
+msgid "label_italy"
+msgstr "Iταλία"
 
-# Default "Montenegro"
 #: osha.policy:/missing_18n_labels.py:481
-msgid "label_montenegro"
-msgstr "Mαυροβούνιο"
+msgid "label_keywords"
+msgstr "Λέξεις-κλειδιά"
 
+# Default "Kosovo under UNSCR 1244/99"
 #: osha.policy:/missing_18n_labels.py:482
-msgid "label_more_seminars_link"
-msgstr "Παρακολουθήστε περισσότερα σεμινάρια"
+msgid "label_kosovo"
+msgstr "Κοσσυφοπέδιο υπό UNSCR 1244/99"
 
+# Default "Latvia"
 #: osha.policy:/missing_18n_labels.py:483
-msgid "label_my_user_name_is"
-msgstr "Το προσωπικό μου όνομα χρήστη είναι"
+msgid "label_latvia"
+msgstr "Λεττονία"
 
-# # 1 more: ./plone_prefs/prefs_group_details.pt
+# Default "Liechtenstein"
 #: osha.policy:/missing_18n_labels.py:484
-msgid "label_name"
-msgstr "Όνομα"
+msgid "label_liechtenstein"
+msgstr "Λιχτενστάιν"
 
-# Default "Netherlands"
+# Default "Lithuania"
 #: osha.policy:/missing_18n_labels.py:485
-msgid "label_netherlands"
-msgstr "Κάτω Χώρες"
+msgid "label_lithuania"
+msgstr "Λιθουανία"
 
+# Default "Luxembourg"
 #: osha.policy:/missing_18n_labels.py:486
-msgid "label_no_seminars_found"
-msgstr ""
-"Δεν βρέθηκαν σεμινάρια που να ανταποκρίνονται στα κριτήρια τα οποία θέσατε"
+msgid "label_luxembourg"
+msgstr "Λουξεμβούργο"
 
-# Default "Norway"
+# Default "The former Yugoslav Republic of Macedonia"
 #: osha.policy:/missing_18n_labels.py:487
-msgid "label_norway"
-msgstr "Nορβηγία"
+msgid "label_macedonia"
+msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
 
 #: osha.policy:/missing_18n_labels.py:488
-msgid "label_notifications"
-msgstr "Ειδοποιήσεις"
+msgid "label_male"
+msgstr "Άρρεν"
 
+# Default "Malta"
 #: osha.policy:/missing_18n_labels.py:489
-msgid "label_older_competitions"
-msgstr "παλαιότεροι διαγωνισμοί"
+msgid "label_malta"
+msgstr "Mάλτα"
 
 # Default "Romanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2430,47 +2433,50 @@ msgstr "παλαιότεροι διαγωνισμοί"
 msgid "heading_main_fop_portlet_romania"
 msgstr "Σημείο επαφής Ρουμανίας"
 
+# Default "Montenegro"
 #: osha.policy:/missing_18n_labels.py:490
-msgid "label_osha_searchcountries"
-msgstr "Παράμετρος περιορισμού αναζήτησης &quot;χώρες&quot;"
+msgid "label_montenegro"
+msgstr "Mαυροβούνιο"
 
 #: osha.policy:/missing_18n_labels.py:491
-msgid "label_osha_searchlanguages"
-msgstr "Παράμετρος περιορισμού αναζήτησης &quot;γλώσσες&quot;"
+msgid "label_more_seminars_link"
+msgstr "Παρακολουθήστε περισσότερα σεμινάρια"
 
 #: osha.policy:/missing_18n_labels.py:492
-msgid "label_osha_support_email"
-msgstr "Ηλεκτρονική διεύθυνση υποστήριξης"
+msgid "label_my_user_name_is"
+msgstr "Το προσωπικό μου όνομα χρήστη είναι"
 
+# # 1 more: ./plone_prefs/prefs_group_details.pt
 #: osha.policy:/missing_18n_labels.py:493
-msgid "label_osha_uploadsource"
-msgstr "Αποστολή πηγαίου κώδικα"
+msgid "label_name"
+msgstr "Όνομα"
 
-# Default "Poland"
+# Default "Netherlands"
 #: osha.policy:/missing_18n_labels.py:494
-msgid "label_poland"
-msgstr "Πολωνία"
+msgid "label_netherlands"
+msgstr "Κάτω Χώρες"
 
-# Default "Portugal"
 #: osha.policy:/missing_18n_labels.py:495
-msgid "label_portugal"
-msgstr "Πορτογαλία"
+msgid "label_no_seminars_found"
+msgstr ""
+"Δεν βρέθηκαν σεμινάρια που να ανταποκρίνονται στα κριτήρια τα οποία θέσατε"
 
+# Default "Norway"
 #: osha.policy:/missing_18n_labels.py:496
-msgid "label_position"
-msgstr "Θέση"
+msgid "label_norway"
+msgstr "Nορβηγία"
 
 #: osha.policy:/missing_18n_labels.py:497
-msgid "label_prescribe"
-msgstr "ορισμός"
+msgid "label_notifications"
+msgstr "Ειδοποιήσεις"
 
 #: osha.policy:/missing_18n_labels.py:498
-msgid "label_priority"
-msgstr "Προτεραιότητα"
+msgid "label_older_competitions"
+msgstr "παλαιότεροι διαγωνισμοί"
 
 #: osha.policy:/missing_18n_labels.py:499
-msgid "label_process"
-msgstr "Τύπος ροής εργασίας"
+msgid "label_osha_searchcountries"
+msgstr "Παράμετρος περιορισμού αναζήτησης &quot;χώρες&quot;"
 
 # Default "Serbian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2479,47 +2485,46 @@ msgid "heading_main_fop_portlet_serbia"
 msgstr "Σημείο επαφής Σερβίας"
 
 #: osha.policy:/missing_18n_labels.py:500
-msgid "label_process_description"
-msgstr "Περιγραφή της διαδικασίας"
+msgid "label_osha_searchlanguages"
+msgstr "Παράμετρος περιορισμού αναζήτησης &quot;γλώσσες&quot;"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
 #: osha.policy:/missing_18n_labels.py:501
-msgid "label_process_title"
-msgstr "Τίτλος διαδικασίας"
+msgid "label_osha_support_email"
+msgstr "Ηλεκτρονική διεύθυνση υποστήριξης"
 
 #: osha.policy:/missing_18n_labels.py:502
-msgid "label_profession"
-msgstr "Επάγγελμα"
+msgid "label_osha_uploadsource"
+msgstr "Αποστολή πηγαίου κώδικα"
 
+# Default "Poland"
 #: osha.policy:/missing_18n_labels.py:503
-msgid "label_profile"
-msgstr "Προφίλ"
+msgid "label_poland"
+msgstr "Πολωνία"
 
+# Default "Portugal"
 #: osha.policy:/missing_18n_labels.py:504
-msgid "label_projects"
-msgstr "Έργα"
+msgid "label_portugal"
+msgstr "Πορτογαλία"
 
-# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
 #: osha.policy:/missing_18n_labels.py:505
-msgid "label_publisher"
-msgstr "Εκδότης"
+msgid "label_position"
+msgstr "Θέση"
 
 #: osha.policy:/missing_18n_labels.py:506
-msgid "label_publishing_effective"
-msgstr "εν ισχύι"
+msgid "label_prescribe"
+msgstr "ορισμός"
 
 #: osha.policy:/missing_18n_labels.py:507
-msgid "label_purpose"
-msgstr "Επιθυμώ να στείλω ..."
+msgid "label_priority"
+msgstr "Προτεραιότητα"
 
-# Default "Romania"
 #: osha.policy:/missing_18n_labels.py:508
-msgid "label_romania"
-msgstr "Ρουμανία"
+msgid "label_process"
+msgstr "Τύπος ροής εργασίας"
 
 #: osha.policy:/missing_18n_labels.py:509
-msgid "label_sector"
-msgstr "Κλάδος"
+msgid "label_process_description"
+msgstr "Περιγραφή της διαδικασίας"
 
 # Default "Slovakian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2527,53 +2532,48 @@ msgstr "Κλάδος"
 msgid "heading_main_fop_portlet_slovakia"
 msgstr "Σημείο επαφής Σλοβακίας"
 
+# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
 #: osha.policy:/missing_18n_labels.py:510
-msgid "label_see_also"
-msgstr "Βλέπε επίσης"
+msgid "label_process_title"
+msgstr "Τίτλος διαδικασίας"
 
-# # 1 more: ./plone_templates/folder_contents.pt
 #: osha.policy:/missing_18n_labels.py:511
-#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
-#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:654
-msgid "label_select"
-msgstr "Επιλογή"
+msgid "label_profession"
+msgstr "Επάγγελμα"
 
 #: osha.policy:/missing_18n_labels.py:512
-msgid "label_send_from"
-msgstr "Από"
+msgid "label_profile"
+msgstr "Προφίλ"
 
 #: osha.policy:/missing_18n_labels.py:513
-msgid "label_send_to_mail"
-msgstr "Αποστολή σε"
+msgid "label_projects"
+msgstr "Έργα"
 
-# Default "Serbia"
+# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
 #: osha.policy:/missing_18n_labels.py:514
-msgid "label_serbia"
-msgstr "Σερβία"
+msgid "label_publisher"
+msgstr "Εκδότης"
 
-# # 1 more: ./plone_content/image_view.pt
 #: osha.policy:/missing_18n_labels.py:515
-msgid "label_size"
-msgstr "Μέγεθος"
+msgid "label_publishing_effective"
+msgstr "εν ισχύι"
 
-# Default "Slovakia"
 #: osha.policy:/missing_18n_labels.py:516
-msgid "label_slovakia"
-msgstr "Σλοβακία"
+msgid "label_purpose"
+msgstr "Επιθυμώ να στείλω ..."
 
-# Default "Slovenia"
+# Default "Romania"
 #: osha.policy:/missing_18n_labels.py:517
-msgid "label_slovenia"
-msgstr "Σλοβενία"
+msgid "label_romania"
+msgstr "Ρουμανία"
 
-# Default "Spain"
 #: osha.policy:/missing_18n_labels.py:518
-msgid "label_spain"
-msgstr "Ισπανία"
+msgid "label_sector"
+msgstr "Κλάδος"
 
 #: osha.policy:/missing_18n_labels.py:519
-msgid "label_start_time"
-msgstr "Ώρα έναρξης"
+msgid "label_see_also"
+msgstr "Βλέπε επίσης"
 
 # Default "Slovenian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2581,54 +2581,53 @@ msgstr "Ώρα έναρξης"
 msgid "heading_main_fop_portlet_slovenia"
 msgstr "Σημείο επαφής Σλοβενίας"
 
+# # 1 more: ./plone_templates/folder_contents.pt
 #: osha.policy:/missing_18n_labels.py:520
-msgid "label_surname"
-msgstr "Επίθετο"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:654
+msgid "label_select"
+msgstr "Επιλογή"
 
-# Default "Sweden"
 #: osha.policy:/missing_18n_labels.py:521
-msgid "label_sweden"
-msgstr "Σουηδία"
+msgid "label_send_from"
+msgstr "Από"
 
-# Default "Switzerland"
 #: osha.policy:/missing_18n_labels.py:522
-msgid "label_switzerland"
-msgstr "Ελβετία"
+msgid "label_send_to_mail"
+msgstr "Αποστολή σε"
 
+# Default "Serbia"
 #: osha.policy:/missing_18n_labels.py:523
-msgid "label_time"
-msgstr "Χρόνος"
+msgid "label_serbia"
+msgstr "Σερβία"
 
-# # 6 more: ./plone_content/event_edit_form.cpt,
-# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
-# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
-# ./plone_forms/search_form.pt
+# # 1 more: ./plone_content/image_view.pt
 #: osha.policy:/missing_18n_labels.py:524
-msgid "label_title"
-msgstr "Τίτλος"
+msgid "label_size"
+msgstr "Μέγεθος"
 
+# Default "Slovakia"
 #: osha.policy:/missing_18n_labels.py:525
-msgid "label_topics_of_interest"
-msgstr "Θέματα ενδιαφέροντος"
+msgid "label_slovakia"
+msgstr "Σλοβακία"
 
-# Default "Turkey"
+# Default "Slovenia"
 #: osha.policy:/missing_18n_labels.py:526
-msgid "label_turkey"
-msgstr "Tουρκία"
+msgid "label_slovenia"
+msgstr "Σλοβενία"
 
-# # 1 more: ./plone_forms/folder_localrole_form.pt
+# Default "Spain"
 #: osha.policy:/missing_18n_labels.py:527
-msgid "label_type"
-msgstr "Τύπος"
+msgid "label_spain"
+msgstr "Ισπανία"
 
-# Default "United Kingdom"
 #: osha.policy:/missing_18n_labels.py:528
-msgid "label_united_kingdom"
-msgstr "Ηνωμένο Βασίλειο"
+msgid "label_start_time"
+msgstr "Ώρα έναρξης"
 
 #: osha.policy:/missing_18n_labels.py:529
-msgid "language"
-msgstr "Γλώσσα"
+msgid "label_surname"
+msgstr "Επίθετο"
 
 # Default "Spanish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2636,50 +2635,55 @@ msgstr "Γλώσσα"
 msgid "heading_main_fop_portlet_spain"
 msgstr "Σημείο επαφής Ισπανίας"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+# Default "Sweden"
 #: osha.policy:/missing_18n_labels.py:530
-msgid "language_help"
-msgstr "Επιλογή γλώσσας."
+msgid "label_sweden"
+msgstr "Σουηδία"
 
+# Default "Switzerland"
 #: osha.policy:/missing_18n_labels.py:531
-msgid "legend_alert_searchquery"
-msgstr "Ερώτημα για αναζήτηση ειδοποιήσεων"
+msgid "label_switzerland"
+msgstr "Ελβετία"
 
 #: osha.policy:/missing_18n_labels.py:532
-msgid "legend_profession"
-msgstr "Επάγγελμα"
+msgid "label_time"
+msgstr "Χρόνος"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
+# # 6 more: ./plone_content/event_edit_form.cpt,
+# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
+# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
+# ./plone_forms/search_form.pt
 #: osha.policy:/missing_18n_labels.py:533
-msgid "legend_search_global"
-msgstr "Καθολική αναζήτηση"
+msgid "label_title"
+msgstr "Τίτλος"
 
 #: osha.policy:/missing_18n_labels.py:534
-msgid "link_address"
-msgstr "Η διεύθυνση του συνδέσμου είναι:"
+msgid "label_topics_of_interest"
+msgstr "Θέματα ενδιαφέροντος"
 
-# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+# Default "Turkey"
 #: osha.policy:/missing_18n_labels.py:535
-msgid "link_breadcrumbs_home"
-msgstr "Αρχική σελίδα"
+msgid "label_turkey"
+msgstr "Tουρκία"
 
-# # 1 more:
-# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+# # 1 more: ./plone_forms/folder_localrole_form.pt
 #: osha.policy:/missing_18n_labels.py:536
-msgid "link_page_top"
-msgstr "Επάνω"
+msgid "label_type"
+msgstr "Τύπος"
 
+# Default "United Kingdom"
 #: osha.policy:/missing_18n_labels.py:537
-msgid "link_report_link"
-msgstr "αναφορά ανενεργού συνδέσμου προς την ομάδα πύλης"
+msgid "label_united_kingdom"
+msgstr "Ηνωμένο Βασίλειο"
 
 #: osha.policy:/missing_18n_labels.py:538
-msgid "list_portlet_personalise_1"
-msgstr "γλώσσα που προτιμάτε"
+msgid "language"
+msgstr "Γλώσσα"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:539
-msgid "list_portlet_personalise_2"
-msgstr "χώρες που σας ενδιαφέρουν"
+msgid "language_help"
+msgstr "Επιλογή γλώσσας."
 
 # Default "Swedish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2688,46 +2692,48 @@ msgid "heading_main_fop_portlet_sweden"
 msgstr "Σημείο επαφής Σουηδίας"
 
 #: osha.policy:/missing_18n_labels.py:540
-msgid "list_portlet_personalise_3"
-msgstr "συμμετάσχετε σε φόρουμ συζήτησης"
+msgid "legend_alert_searchquery"
+msgstr "Ερώτημα για αναζήτηση ειδοποιήσεων"
 
 #: osha.policy:/missing_18n_labels.py:541
-msgid "list_portlet_personalise_4"
-msgstr "επικαιροποίηση των αγαπημένων σας θεμάτων"
+msgid "legend_profession"
+msgstr "Επάγγελμα"
 
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:542
-msgid "listingheader_action"
-msgstr "Ενέργεια"
+msgid "legend_search_global"
+msgstr "Καθολική αναζήτηση"
 
 #: osha.policy:/missing_18n_labels.py:543
-msgid "listingheader_articles"
-msgstr "Άρθρα"
+msgid "link_address"
+msgstr "Η διεύθυνση του συνδέσμου είναι:"
 
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:544
-msgid "listingheader_articlesandreplies"
-msgstr "Άρθρα"
+msgid "link_breadcrumbs_home"
+msgstr "Αρχική σελίδα"
 
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
 #: osha.policy:/missing_18n_labels.py:545
-msgid "listingheader_author"
-msgstr "Δημιουργός"
+msgid "link_page_top"
+msgstr "Επάνω"
 
 #: osha.policy:/missing_18n_labels.py:546
-msgid "listingheader_comment"
-msgstr "Σχόλιο"
+msgid "link_report_link"
+msgstr "αναφορά ανενεργού συνδέσμου προς την ομάδα πύλης"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
 #: osha.policy:/missing_18n_labels.py:547
-msgid "listingheader_date"
-msgstr "Ημερομηνία"
+msgid "list_portlet_personalise_1"
+msgstr "γλώσσα που προτιμάτε"
 
 #: osha.policy:/missing_18n_labels.py:548
-msgid "listingheader_date_and_time"
-msgstr "Ημερομηνία και ώρα"
+msgid "list_portlet_personalise_2"
+msgstr "χώρες που σας ενδιαφέρουν"
 
-# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:549
-msgid "listingheader_latestchanges"
-msgstr "Τελευταίες αλλαγές"
+msgid "list_portlet_personalise_3"
+msgstr "συμμετάσχετε σε φόρουμ συζήτησης"
 
 # Default "Swiss Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2735,46 +2741,48 @@ msgstr "Τελευταίες αλλαγές"
 msgid "heading_main_fop_portlet_switzerland"
 msgstr "Σημείο επαφής Ελβετίας"
 
-# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
 #: osha.policy:/missing_18n_labels.py:550
-msgid "listingheader_name"
-msgstr "Όνομα"
+msgid "list_portlet_personalise_4"
+msgstr "επικαιροποίηση των αγαπημένων σας θεμάτων"
 
 #: osha.policy:/missing_18n_labels.py:551
-msgid "listingheader_newsletter_sentby"
-msgstr "Αποστολέας"
+msgid "listingheader_action"
+msgstr "Ενέργεια"
 
 #: osha.policy:/missing_18n_labels.py:552
-msgid "listingheader_newsletter_senton"
-msgstr "Εστάλη στις"
+msgid "listingheader_articles"
+msgstr "Άρθρα"
 
 #: osha.policy:/missing_18n_labels.py:553
-msgid "listingheader_order"
-msgstr "Παραγγελία"
+msgid "listingheader_articlesandreplies"
+msgstr "Άρθρα"
 
 #: osha.policy:/missing_18n_labels.py:554
-msgid "listingheader_owner"
-msgstr "Κάτοχος"
+msgid "listingheader_author"
+msgstr "Δημιουργός"
 
 #: osha.policy:/missing_18n_labels.py:555
-msgid "listingheader_performed_by"
-msgstr "Διενεργήθηκε από"
+msgid "listingheader_comment"
+msgstr "Σχόλιο"
 
+# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
 #: osha.policy:/missing_18n_labels.py:556
-msgid "listingheader_priority"
-msgstr "Προτεραιότητα"
+msgid "listingheader_date"
+msgstr "Ημερομηνία"
 
 #: osha.policy:/missing_18n_labels.py:557
-msgid "listingheader_replies"
-msgstr "Απαντήσεις"
+msgid "listingheader_date_and_time"
+msgstr "Ημερομηνία και ώρα"
 
+# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:558
-msgid "listingheader_status"
-msgstr "Κατάσταση"
+msgid "listingheader_latestchanges"
+msgstr "Τελευταίες αλλαγές"
 
+# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
 #: osha.policy:/missing_18n_labels.py:559
-msgid "listingheader_title"
-msgstr "Τίτλος"
+msgid "listingheader_name"
+msgstr "Όνομα"
 
 # Default "Macedonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2783,47 +2791,44 @@ msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
 msgstr "Σημείο επαφής Μακεδονίας"
 
 #: osha.policy:/missing_18n_labels.py:560
-msgid "listingheader_type"
-msgstr "Τύπος"
+msgid "listingheader_newsletter_sentby"
+msgstr "Αποστολέας"
 
 #: osha.policy:/missing_18n_labels.py:561
-msgid "locked"
-msgstr "κλειδώθηκε"
+msgid "listingheader_newsletter_senton"
+msgstr "Εστάλη στις"
 
 #: osha.policy:/missing_18n_labels.py:562
-msgid "march"
-msgstr "Μάρτιος"
+msgid "listingheader_order"
+msgstr "Παραγγελία"
 
 #: osha.policy:/missing_18n_labels.py:563
-msgid "may"
-msgstr "Μάιος"
+msgid "listingheader_owner"
+msgstr "Κάτοχος"
 
 #: osha.policy:/missing_18n_labels.py:564
-msgid "minute"
-msgstr "Λεπτό"
+msgid "listingheader_performed_by"
+msgstr "Διενεργήθηκε από"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:565
-msgid "month"
-msgstr "Μήνας"
+msgid "listingheader_priority"
+msgstr "Προτεραιότητα"
 
 #: osha.policy:/missing_18n_labels.py:566
-msgid "monthly"
-msgstr "μηνιαίως"
+msgid "listingheader_replies"
+msgstr "Απαντήσεις"
 
 #: osha.policy:/missing_18n_labels.py:567
-msgid "needed"
-msgstr "απαιτείται"
+msgid "listingheader_status"
+msgstr "Κατάσταση"
 
-# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
-# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
 #: osha.policy:/missing_18n_labels.py:568
-msgid "news_by"
-msgstr "από"
+msgid "listingheader_title"
+msgstr "Τίτλος"
 
 #: osha.policy:/missing_18n_labels.py:569
-msgid "next"
-msgstr "επόμενο"
+msgid "listingheader_type"
+msgstr "Τύπος"
 
 # Default "Turkish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2832,40 +2837,47 @@ msgid "heading_main_fop_portlet_turkey"
 msgstr "Σημείο επαφής Τουρκίας"
 
 #: osha.policy:/missing_18n_labels.py:570
-msgid "no_alerts"
-msgstr "Δεν έχετε καταχωρίσει προειδοποιήσεις."
+msgid "locked"
+msgstr "κλειδώθηκε"
 
 #: osha.policy:/missing_18n_labels.py:571
-msgid "no_subject"
-msgstr "[Κανένα θέμα]"
+msgid "march"
+msgstr "Μάρτιος"
 
 #: osha.policy:/missing_18n_labels.py:572
-msgid "not allowed"
-msgstr "δεν επιτρέπεται"
+msgid "may"
+msgstr "Μάιος"
 
 #: osha.policy:/missing_18n_labels.py:573
-msgid "notification_email"
-msgstr "Μήνυμα ειδοποίησης ηλεκτρονικού ταχυδρομείου"
+msgid "minute"
+msgstr "Λεπτό"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:574
-msgid "november"
-msgstr "Νοέμβριος"
+msgid "month"
+msgstr "Μήνας"
 
 #: osha.policy:/missing_18n_labels.py:575
-msgid "october"
-msgstr "Οκτώβριος"
+msgid "monthly"
+msgstr "μηνιαίως"
 
 #: osha.policy:/missing_18n_labels.py:576
-msgid "osha_description_pressbox_pressreleases"
-msgstr "These are our press releases:"
+msgid "needed"
+msgstr "απαιτείται"
 
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
 #: osha.policy:/missing_18n_labels.py:577
-msgid "osha_discovernetwork_info"
-msgstr "Γνωρίστε τους ευρωπαίους και διεθνείς εταίρους μας"
+msgid "news_by"
+msgstr "από"
 
 #: osha.policy:/missing_18n_labels.py:578
-msgid "osha_informationportlet_link"
-msgstr "Ο σύνδεσμός σας στην Ασφάλεια και την Υγεία στην Εργασία"
+msgid "next"
+msgstr "επόμενο"
+
+#: osha.policy:/missing_18n_labels.py:579
+msgid "no_alerts"
+msgstr "Δεν έχετε καταχωρίσει προειδοποιήσεις."
 
 # Default "British Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2873,54 +2885,42 @@ msgstr "Ο σύνδεσμός σας στην Ασφάλεια και την Υ�
 msgid "heading_main_fop_portlet_united-kingdom"
 msgstr "Σημείο επαφής Μ. Βρετανίας"
 
-# Press Room
 #: osha.policy:/missing_18n_labels.py:580
-msgid "osha_label_press_room"
-msgstr "Αίθουσα Τύπου"
+msgid "no_subject"
+msgstr "[Κανένα θέμα]"
 
 #: osha.policy:/missing_18n_labels.py:581
-msgid "osha_networkportlet_info"
-msgstr ""
-"Το δίκτυό μας περιλαμβάνει ιστοθέσεις από ολόκληρο τον κόσμο με πληροφορίες "
-"εθνικού και θεσμικού περιεχομένου για τον ΕΟΑΥΕ"
+msgid "not allowed"
+msgstr "δεν επιτρέπεται"
 
 #: osha.policy:/missing_18n_labels.py:582
-msgid "osha_networkportlet_link"
-msgstr "Εμφάνιση ιστοθέσεων εταίρων"
+msgid "notification_email"
+msgstr "Μήνυμα ειδοποίησης ηλεκτρονικού ταχυδρομείου"
 
 #: osha.policy:/missing_18n_labels.py:583
-msgid "oshmail_header_subscribe"
-msgstr "γίνετε συνδρομητής στο oshmail"
+msgid "november"
+msgstr "Νοέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:584
-msgid "oshmail_header_unsubscribe"
-msgstr "ακυρώστε τη συνδρομή σας στο oshmail"
+msgid "october"
+msgstr "Οκτώβριος"
 
 #: osha.policy:/missing_18n_labels.py:585
-msgid "oshmail_intro_every_month"
-msgstr ""
-"Κάθε μήνα, το ${oshmail} σας ενημερώνει σχετικά με τις τελευταίες εξελίξεις "
-"στην επαγγελματική ασφάλεια και υγεία:"
+msgid "osha_description_pressbox_pressreleases"
+msgstr "These are our press releases:"
 
 #: osha.policy:/missing_18n_labels.py:586
-msgid "oshmail_intro_welcome"
-msgstr ""
-"Καλωσήλθατε στο ${oshmail}, το ηλεκτρονικό ενημερωτικό δελτίο που εκδίδει ο "
-"Ευρωπαϊκός Οργανισμός για την Ασφάλεια και την Υγεία στην Εργασία."
+msgid "osha_discovernetwork_info"
+msgstr "Γνωρίστε τους ευρωπαίους και διεθνείς εταίρους μας"
 
 #: osha.policy:/missing_18n_labels.py:587
-msgid "oshmail_label_enter_emaiL"
-msgstr "πληκτρολογήστε την ηλεκτρονική σας διεύθυνση εδώ"
+msgid "osha_informationportlet_link"
+msgstr "Ο σύνδεσμός σας στην Ασφάλεια και την Υγεία στην Εργασία"
 
-#: osha.policy:/missing_18n_labels.py:588
-msgid "oshmail_list_1"
-msgstr ""
-"τελευταίες ειδήσεις από όλο τον κόσμο σχετικά με την ασφάλεια και την υγεία·"
-
+# Press Room
 #: osha.policy:/missing_18n_labels.py:589
-msgid "oshmail_list_3"
-msgstr ""
-"ενημερώσεις σχετικά με τις εκστρατείες και τις δραστηριότητες του Οργανισμού·"
+msgid "osha_label_press_room"
+msgstr "Αίθουσα Τύπου"
 
 # Default "Back to the Focal Points overview"
 #: osha.policy:/missing_18n_labels.py:59
@@ -2928,129 +2928,137 @@ msgid "label_back_to_fop_overview"
 msgstr "Επιστροφή στην ανασκόπηση των κομβικών σημείων"
 
 #: osha.policy:/missing_18n_labels.py:590
+msgid "osha_networkportlet_info"
+msgstr ""
+"Το δίκτυό μας περιλαμβάνει ιστοθέσεις από ολόκληρο τον κόσμο με πληροφορίες "
+"εθνικού και θεσμικού περιεχομένου για τον ΕΟΑΥΕ"
+
+#: osha.policy:/missing_18n_labels.py:591
+msgid "osha_networkportlet_link"
+msgstr "Εμφάνιση ιστοθέσεων εταίρων"
+
+#: osha.policy:/missing_18n_labels.py:592
+msgid "oshmail_header_subscribe"
+msgstr "γίνετε συνδρομητής στο oshmail"
+
+#: osha.policy:/missing_18n_labels.py:593
+msgid "oshmail_header_unsubscribe"
+msgstr "ακυρώστε τη συνδρομή σας στο oshmail"
+
+#: osha.policy:/missing_18n_labels.py:594
+msgid "oshmail_intro_every_month"
+msgstr ""
+"Κάθε μήνα, το ${oshmail} σας ενημερώνει σχετικά με τις τελευταίες εξελίξεις "
+"στην επαγγελματική ασφάλεια και υγεία:"
+
+#: osha.policy:/missing_18n_labels.py:595
+msgid "oshmail_intro_welcome"
+msgstr ""
+"Καλωσήλθατε στο ${oshmail}, το ηλεκτρονικό ενημερωτικό δελτίο που εκδίδει ο "
+"Ευρωπαϊκός Οργανισμός για την Ασφάλεια και την Υγεία στην Εργασία."
+
+#: osha.policy:/missing_18n_labels.py:596
+msgid "oshmail_label_enter_emaiL"
+msgstr "πληκτρολογήστε την ηλεκτρονική σας διεύθυνση εδώ"
+
+#: osha.policy:/missing_18n_labels.py:597
+msgid "oshmail_list_1"
+msgstr ""
+"τελευταίες ειδήσεις από όλο τον κόσμο σχετικά με την ασφάλεια και την υγεία·"
+
+#: osha.policy:/missing_18n_labels.py:598
+msgid "oshmail_list_3"
+msgstr ""
+"ενημερώσεις σχετικά με τις εκστρατείες και τις δραστηριότητες του Οργανισμού·"
+
+#: osha.policy:/missing_18n_labels.py:599
 msgid "oshmail_list_4"
 msgstr "προσεχείς εκδηλώσεις·"
 
-#: osha.policy:/missing_18n_labels.py:591
+#: osha.policy:/missing_18n_labels.py:600
 msgid "oshmail_list_5"
 msgstr "τελευταίες εκδόσεις του Οργανισμού·"
 
-#: osha.policy:/missing_18n_labels.py:592
+#: osha.policy:/missing_18n_labels.py:601
 msgid "oshmail_list_6"
 msgstr "ενημερώσεις σε θέματα κοινοτικής νομοθεσίας·"
 
-#: osha.policy:/missing_18n_labels.py:593
+#: osha.policy:/missing_18n_labels.py:602
 msgid "oshmail_list_7"
 msgstr "σε 24 γλώσσες ..."
 
-#: osha.policy:/missing_18n_labels.py:594
+#: osha.policy:/missing_18n_labels.py:603
 msgid "portlet_campaign_ew2007_title"
 msgstr "ΕΥΡΩΠΑΪΚΗ ΕΚΣΤΡΑΤΕΙΑ 2007"
 
-#: osha.policy:/missing_18n_labels.py:595
+#: osha.policy:/missing_18n_labels.py:604
 msgid "portlet_campaign_hwi_text"
 msgstr "Συμφέρει εσάς - Συμφέρει την επιχείρησή σας"
 
-#: osha.policy:/missing_18n_labels.py:596
+#: osha.policy:/missing_18n_labels.py:605
 msgid "portlet_campaign_hwi_title"
 msgstr "Πρωτοβουλία για Υγιεινό Χώρο Εργασίας"
 
-#: osha.policy:/missing_18n_labels.py:597
+#: osha.policy:/missing_18n_labels.py:606
 msgid "portlet_oshmail_email"
 msgstr "διεύθυνση ηλεκτρονικού ταχυδρομείου"
 
-#: osha.policy:/missing_18n_labels.py:598
+#: osha.policy:/missing_18n_labels.py:607
 msgid "portlet_oshsearch_advanced"
 msgstr "Προχωρημένη αναζήτηση"
 
 # Anticipating Change
-#: osha.policy:/missing_18n_labels.py:599
+#: osha.policy:/missing_18n_labels.py:608
 msgid "portlet_riskob_text"
 msgstr "Πρόβλεψη αλλαγών!"
 
-#: osha.policy:/missing_18n_labels.py:600
+#: osha.policy:/missing_18n_labels.py:609
 msgid "results_by_author"
 msgstr "από ${author} , ${date}"
 
-#: osha.policy:/missing_18n_labels.py:601
+#: osha.policy:/missing_18n_labels.py:610
 msgid "role_equivalence"
 msgstr "Ισοδυναμίες ρόλων"
 
 # # 1 more:
 # ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
-#: osha.policy:/missing_18n_labels.py:602
+#: osha.policy:/missing_18n_labels.py:611
 msgid "schedule"
 msgstr "Χρονοδιάγραμμα"
 
-#: osha.policy:/missing_18n_labels.py:603
+#: osha.policy:/missing_18n_labels.py:612
 msgid "search_criteria"
 msgstr "Κριτήρια αναζήτησης"
 
-#: osha.policy:/missing_18n_labels.py:604
+#: osha.policy:/missing_18n_labels.py:613
 msgid "search_date"
 msgstr "Ημερομηνία"
 
-#: osha.policy:/missing_18n_labels.py:605
+#: osha.policy:/missing_18n_labels.py:614
 msgid "search_in"
 msgstr "Αναζήτηση σε"
 
-#: osha.policy:/missing_18n_labels.py:606
+#: osha.policy:/missing_18n_labels.py:615
 msgid "search_in_folder"
 msgstr "Στον φάκελο"
 
-#: osha.policy:/missing_18n_labels.py:607
+#: osha.policy:/missing_18n_labels.py:616
 msgid "search_link"
 msgstr "Αναζήτηση"
 
-#: osha.policy:/missing_18n_labels.py:608
+#: osha.policy:/missing_18n_labels.py:617
 msgid "search_results_advanced"
 msgstr ""
 "Εάν το αντικείμενο της αναζήτησής σας δεν βρέθηκε, δοκιμάστε με την "
 "${προχωρημένη αναζήτηση} για αναζήτηση με μεγαλύτερη ακρίβεια."
 
-#: osha.policy:/missing_18n_labels.py:609
+#: osha.policy:/missing_18n_labels.py:618
 msgid "search_term"
 msgstr "Όρος αναζήτησης"
 
-#: osha.policy:/missing_18n_labels.py:610
+#: osha.policy:/missing_18n_labels.py:619
 msgid "searchresults"
 msgstr "Αποτελέσματα αναζήτησης"
-
-#: osha.policy:/missing_18n_labels.py:611
-msgid "september"
-msgstr "Σεπτέμβριος"
-
-#: osha.policy:/missing_18n_labels.py:612
-msgid "show next day"
-msgstr "εμφάνιση επόμενης ημέρας"
-
-#: osha.policy:/missing_18n_labels.py:613
-msgid "show next month"
-msgstr "εμφάνιση επόμενου μήνα"
-
-#: osha.policy:/missing_18n_labels.py:614
-msgid "show next week"
-msgstr "εμφάνιση επόμενης εβδομάδας"
-
-#: osha.policy:/missing_18n_labels.py:615
-msgid "show next year"
-msgstr "εμφάνιση επόμενου έτους"
-
-#: osha.policy:/missing_18n_labels.py:616
-msgid "show previous day"
-msgstr "εμφάνιση προηγούμενης ημέρας"
-
-#: osha.policy:/missing_18n_labels.py:617
-msgid "show previous month"
-msgstr "εμφάνιση προηγούμενου μήνα"
-
-#: osha.policy:/missing_18n_labels.py:618
-msgid "show previous week"
-msgstr "εμφάνιση προηγούμενης εβδομάδας"
-
-#: osha.policy:/missing_18n_labels.py:619
-msgid "show previous year"
-msgstr "εμφάνιση προηγούμενου έτους"
 
 #: osha.policy:/missing_18n_labels.py:62
 msgid "description_napo-015-safe-moves"
@@ -3076,48 +3084,44 @@ msgstr ""
 "και ελαχιστοποίηση των κινδύνων.</p>"
 
 #: osha.policy:/missing_18n_labels.py:620
-msgid "sign the charter"
-msgstr "υπογράψτε τον χάρτη"
+msgid "september"
+msgstr "Σεπτέμβριος"
 
 #: osha.policy:/missing_18n_labels.py:621
-msgid "since"
-msgstr "Από"
+msgid "show next day"
+msgstr "εμφάνιση επόμενης ημέρας"
 
 #: osha.policy:/missing_18n_labels.py:622
-msgid "slogan_statment_hw2010_campaign"
-msgstr "Ευρωπαϊκή Εκστρατεία για Ασφαλείς Εργασίες Συντήρησης"
+msgid "show next month"
+msgstr "εμφάνιση επόμενου μήνα"
 
 #: osha.policy:/missing_18n_labels.py:623
-msgid "source"
-msgstr "πηγαίος κώδικας"
+msgid "show next week"
+msgstr "εμφάνιση επόμενης εβδομάδας"
 
 #: osha.policy:/missing_18n_labels.py:624
-msgid "subheading_portlet_contents"
-msgstr "Περιεχόμενα portlet"
+msgid "show next year"
+msgstr "εμφάνιση επόμενου έτους"
 
 #: osha.policy:/missing_18n_labels.py:625
-msgid "subheading_portlet_representation"
-msgstr "Απεικόνιση πλαισίου portlet"
+msgid "show previous day"
+msgstr "εμφάνιση προηγούμενης ημέρας"
 
 #: osha.policy:/missing_18n_labels.py:626
-msgid "subject"
-msgstr "Θέμα"
+msgid "show previous month"
+msgstr "εμφάνιση προηγούμενου μήνα"
 
 #: osha.policy:/missing_18n_labels.py:627
-msgid "subscribe_to_oshmail_long"
-msgstr ""
-"Ενημερωθείτε σχετικά με τις πρόσφατες εξελίξεις στον τομέα της "
-"επαγγελματικής ασφάλειας και υγείας. ${Subscribe} τώρα για να λαμβάνετε τη "
-"μηνιαία επικαιροποίηση."
+msgid "show previous week"
+msgstr "εμφάνιση προηγούμενης εβδομάδας"
 
-# # 1 more: ./plone_templates/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:628
-msgid "tabs_home"
-msgstr "Αρχική σελίδα"
+msgid "show previous year"
+msgstr "εμφάνιση προηγούμενου έτους"
 
 #: osha.policy:/missing_18n_labels.py:629
-msgid "title"
-msgstr "Τίτλος"
+msgid "sign the charter"
+msgstr "υπογράψτε τον χάρτη"
 
 #: osha.policy:/missing_18n_labels.py:63
 msgid "description_napo-016-lungs-at-work"
@@ -3132,45 +3136,48 @@ msgstr ""
 "εργασίας."
 
 #: osha.policy:/missing_18n_labels.py:630
-msgid "title_add_to_ical"
-msgstr "Προσθέστε το στοιχείο αυτό στο ημερολόγιό σας iCal"
+msgid "since"
+msgstr "Από"
 
 #: osha.policy:/missing_18n_labels.py:631
-msgid "title_add_to_vcal"
-msgstr "Προσθέστε το στοιχείο αυτό στο ημερολόγιό σας vCal"
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Ευρωπαϊκή Εκστρατεία για Ασφαλείς Εργασίες Συντήρησης"
 
 #: osha.policy:/missing_18n_labels.py:632
-msgid "title_agency"
-msgstr ""
-"Ευρωπαϊκός Οργανισμός<br />για την Ασφάλεια και την<br />Υγεία στην Εργασία"
+msgid "source"
+msgstr "πηγαίος κώδικας"
 
 #: osha.policy:/missing_18n_labels.py:633
-msgid "title_campaign_beinformed"
-msgstr "Ενημερωθείτε"
+msgid "subheading_portlet_contents"
+msgstr "Περιεχόμενα portlet"
 
 #: osha.policy:/missing_18n_labels.py:634
-msgid "title_speaker"
-msgstr "Ομιλητής"
+msgid "subheading_portlet_representation"
+msgstr "Απεικόνιση πλαισίου portlet"
 
 #: osha.policy:/missing_18n_labels.py:635
-msgid "to"
-msgstr "Προς"
+msgid "subject"
+msgstr "Θέμα"
 
 #: osha.policy:/missing_18n_labels.py:636
-msgid "total_messages"
-msgstr "Αριθμός μηνυμάτων"
+msgid "subscribe_to_oshmail_long"
+msgstr ""
+"Ενημερωθείτε σχετικά με τις πρόσφατες εξελίξεις στον τομέα της "
+"επαγγελματικής ασφάλειας και υγείας. ${Subscribe} τώρα για να λαμβάνετε τη "
+"μηνιαία επικαιροποίηση."
 
+# # 1 more: ./plone_templates/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:637
-msgid "type your query"
-msgstr "πληκτρολογήστε το ερώτημά σας"
+msgid "tabs_home"
+msgstr "Αρχική σελίδα"
 
 #: osha.policy:/missing_18n_labels.py:638
-msgid "visible"
-msgstr "ορατό"
+msgid "title"
+msgstr "Τίτλος"
 
 #: osha.policy:/missing_18n_labels.py:639
-msgid "weekly"
-msgstr "εβδομαδιαίως"
+msgid "title_add_to_ical"
+msgstr "Προσθέστε το στοιχείο αυτό στο ημερολόγιό σας iCal"
 
 #: osha.policy:/missing_18n_labels.py:64
 msgid "description_napo-017-working-together"
@@ -3198,8 +3205,45 @@ msgstr ""
 "ακούν ο ένας τις ανησυχίες του άλλου, επιλύουν προβλήματα και ανταλλάσσουν "
 "απόψεις και πληροφορίες."
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:640
+msgid "title_add_to_vcal"
+msgstr "Προσθέστε το στοιχείο αυτό στο ημερολόγιό σας vCal"
+
+#: osha.policy:/missing_18n_labels.py:641
+msgid "title_agency"
+msgstr ""
+"Ευρωπαϊκός Οργανισμός<br />για την Ασφάλεια και την<br />Υγεία στην Εργασία"
+
+#: osha.policy:/missing_18n_labels.py:642
+msgid "title_campaign_beinformed"
+msgstr "Ενημερωθείτε"
+
+#: osha.policy:/missing_18n_labels.py:643
+msgid "title_speaker"
+msgstr "Ομιλητής"
+
+#: osha.policy:/missing_18n_labels.py:644
+msgid "to"
+msgstr "Προς"
+
+#: osha.policy:/missing_18n_labels.py:645
+msgid "total_messages"
+msgstr "Αριθμός μηνυμάτων"
+
+#: osha.policy:/missing_18n_labels.py:646
+msgid "type your query"
+msgstr "πληκτρολογήστε το ερώτημά σας"
+
+#: osha.policy:/missing_18n_labels.py:647
+msgid "visible"
+msgstr "ορατό"
+
+#: osha.policy:/missing_18n_labels.py:648
+msgid "weekly"
+msgstr "εβδομαδιαίως"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:649
 msgid "year"
 msgstr "Έτος"
 

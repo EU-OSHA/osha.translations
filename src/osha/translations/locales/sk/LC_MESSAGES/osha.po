@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Mon Nov 18 15:28:14 2013\n"
+"POT-Creation-Date: Wed Apr 23 15:58:23 2014\n"
 "PO-Revision-Date: 2013-07-04 19:09+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -267,7 +267,7 @@ msgstr "Publikácie"
 
 #. Default: "Risk Observatory"
 #: osha.fop:/browser/oshnetwork_member_view.pt:89
-#: osha.policy:/missing_18n_labels.py:265
+#: osha.policy:/missing_18n_labels.py:274
 msgid "risk_observatory"
 msgstr "Observatórium rizík"
 
@@ -450,55 +450,55 @@ msgstr ""
 msgid "Publication"
 msgstr "Publikácie"
 
-#: osha.policy:/handlers.py:289
+#: osha.policy:/handlers.py:292
 msgid "A comment has been posted."
 msgstr ""
 
-#: osha.policy:/interfaces.py:17
+#: osha.policy:/interfaces.py:18
 msgid "Driver name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:18
+#: osha.policy:/interfaces.py:19
 msgid "The database driver name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:21
+#: osha.policy:/interfaces.py:22
 msgid "Host name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:22
+#: osha.policy:/interfaces.py:23
 msgid "The database host name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:26
+#: osha.policy:/interfaces.py:27
 msgid "Port number"
 msgstr ""
 
-#: osha.policy:/interfaces.py:27
+#: osha.policy:/interfaces.py:28
 msgid "The database port number. Leave blank to use the default."
 msgstr ""
 
-#: osha.policy:/interfaces.py:30
+#: osha.policy:/interfaces.py:31
 msgid "User name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:31
+#: osha.policy:/interfaces.py:32
 msgid "The database user name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:33
+#: osha.policy:/interfaces.py:34
 msgid "Password"
 msgstr ""
 
-#: osha.policy:/interfaces.py:34
+#: osha.policy:/interfaces.py:35
 msgid "The database password"
 msgstr ""
 
-#: osha.policy:/interfaces.py:36
+#: osha.policy:/interfaces.py:37
 msgid "Database name"
 msgstr ""
 
-#: osha.policy:/interfaces.py:37
+#: osha.policy:/interfaces.py:38
 msgid "The name of the database on this server"
 msgstr ""
 
@@ -542,486 +542,485 @@ msgstr "Mrazivý prípad"
 msgid "heading_napo-018-no-laughing-matter-episode-007-reality-tv"
 msgstr "Reality TV"
 
+#. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
+msgid "heading_napo-019-when-stress-strikes"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:108
+msgid "description_napo-019-when-stress-strikes"
+msgstr ""
+
+#. Default: "Model worker"
+#: osha.policy:/missing_18n_labels.py:109
+msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
+msgstr ""
+
+#. Default: "Always available"
+#: osha.policy:/missing_18n_labels.py:110
+msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
+msgstr ""
+
+#. Default: "Change is now!"
+#: osha.policy:/missing_18n_labels.py:111
+msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
+msgstr ""
+
+#. Default: "No respect"
+#: osha.policy:/missing_18n_labels.py:112
+msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
+msgstr ""
+
+#. Default: "Contradictory orders"
+#: osha.policy:/missing_18n_labels.py:113
+msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
+msgstr ""
+
+#. Default: "Counter stress"
+#: osha.policy:/missing_18n_labels.py:114
+msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
+msgstr ""
+
+#. Default: "Nightmare care"
+#: osha.policy:/missing_18n_labels.py:115
+msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"
 msgstr "Click the image to see the film..."
 
-#: osha.policy:/missing_18n_labels.py:108
+#: osha.policy:/missing_18n_labels.py:117
 msgid "napo_back_to_lesson"
 msgstr "Späť na lekciu"
 
 #. Default: "Chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:109
+#: osha.policy:/missing_18n_labels.py:118
 msgid "title_napo_episode_12_1"
 msgstr "Chemické riziká pri práci"
 
 #. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:110
+#: osha.policy:/missing_18n_labels.py:119
 msgid "title_napo_episode_12_2"
 msgstr "Škodlivé látky"
 
 #. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:111
+#: osha.policy:/missing_18n_labels.py:120
 msgid "title_napo_episode_12_3"
 msgstr "Dráždivé látky"
 
 #. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:112
+#: osha.policy:/missing_18n_labels.py:121
 msgid "title_napo_episode_12_4"
 msgstr "Horľaviny"
 
 #. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:113
+#: osha.policy:/missing_18n_labels.py:122
 msgid "title_napo_episode_12_5"
 msgstr "Žieraviny"
 
 #. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:114
+#: osha.policy:/missing_18n_labels.py:123
 msgid "title_napo_episode_12_6"
 msgstr "Toxické látky"
 
 #. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:115
+#: osha.policy:/missing_18n_labels.py:124
 msgid "title_napo_episode_12_7"
 msgstr "Látky nebezpečné pre životné prostredie"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:116
+#: osha.policy:/missing_18n_labels.py:125
 msgid "title_napo_episode_12_8"
 msgstr "Koniec"
 
 #. Default: "Lock out"
-#: osha.policy:/missing_18n_labels.py:117
+#: osha.policy:/missing_18n_labels.py:126
 msgid "title_napo_episode_14_1"
 msgstr "Nespoliehaj sa na druhých!"
 
 #. Default: "Hidden hazards"
-#: osha.policy:/missing_18n_labels.py:118
+#: osha.policy:/missing_18n_labels.py:127
 msgid "title_napo_episode_14_2"
 msgstr "Skryté riziká"
 
 #. Default: "Don't improvise!"
-#: osha.policy:/missing_18n_labels.py:119
+#: osha.policy:/missing_18n_labels.py:128
 msgid "title_napo_episode_14_3"
 msgstr "Neimprovizuj!"
 
 #. Default: "In a rush"
-#: osha.policy:/missing_18n_labels.py:120
+#: osha.policy:/missing_18n_labels.py:129
 msgid "title_napo_episode_14_4"
 msgstr "V zhone"
-
-#. Default: "Danger within!"
-#: osha.policy:/missing_18n_labels.py:121
-msgid "title_napo_episode_14_5"
-msgstr "Pozor nebezpečenstvo!"
-
-#. Default: "One, two, what to do?"
-#: osha.policy:/missing_18n_labels.py:122
-msgid "title_napo_episode_14_6"
-msgstr "A čo ďalej?"
-
-#. Default: "Best signs story"
-#: osha.policy:/missing_18n_labels.py:123
-msgid "title_napo_episode_1_0"
-msgstr "Príkaz na používanie ochrannej prilby"
-
-#. Default: "Danger"
-#: osha.policy:/missing_18n_labels.py:124
-msgid "title_napo_episode_1_1"
-msgstr "Označenia pre núdzové situácie"
-
-#. Default: "Safety helmet must be worn"
-#: osha.policy:/missing_18n_labels.py:125
-msgid "title_napo_episode_1_10"
-msgstr "Príkaz na používanie ochrannej prilby"
-
-#. Default: "Rescue signs"
-#: osha.policy:/missing_18n_labels.py:126
-msgid "title_napo_episode_1_11"
-msgstr "Označenia pre núdzové situácie"
-
-#. Default: "Rescue route"
-#: osha.policy:/missing_18n_labels.py:127
-msgid "title_napo_episode_1_12"
-msgstr "Úniková cesta"
-
-#. Default: "First aid"
-#: osha.policy:/missing_18n_labels.py:128
-msgid "title_napo_episode_1_13"
-msgstr "Miesto prvej pomoci"
-
-#. Default: "Fire protection signs"
-#: osha.policy:/missing_18n_labels.py:129
-msgid "title_napo_episode_1_14"
-msgstr "Protipožiarne označenia"
 
 #: osha.policy:/missing_18n_labels.py:13
 msgid "Privacy Policy"
 msgstr "Ochrana osobných údajov"
 
-#. Default: "Fire-extinguishing equipment"
+#. Default: "Danger within!"
 #: osha.policy:/missing_18n_labels.py:130
+msgid "title_napo_episode_14_5"
+msgstr "Pozor nebezpečenstvo!"
+
+#. Default: "One, two, what to do?"
+#: osha.policy:/missing_18n_labels.py:131
+msgid "title_napo_episode_14_6"
+msgstr "A čo ďalej?"
+
+#. Default: "Best signs story"
+#: osha.policy:/missing_18n_labels.py:132
+msgid "title_napo_episode_1_0"
+msgstr "Príkaz na používanie ochrannej prilby"
+
+#. Default: "Danger"
+#: osha.policy:/missing_18n_labels.py:133
+msgid "title_napo_episode_1_1"
+msgstr "Označenia pre núdzové situácie"
+
+#. Default: "Safety helmet must be worn"
+#: osha.policy:/missing_18n_labels.py:134
+msgid "title_napo_episode_1_10"
+msgstr "Príkaz na používanie ochrannej prilby"
+
+#. Default: "Rescue signs"
+#: osha.policy:/missing_18n_labels.py:135
+msgid "title_napo_episode_1_11"
+msgstr "Označenia pre núdzové situácie"
+
+#. Default: "Rescue route"
+#: osha.policy:/missing_18n_labels.py:136
+msgid "title_napo_episode_1_12"
+msgstr "Úniková cesta"
+
+#. Default: "First aid"
+#: osha.policy:/missing_18n_labels.py:137
+msgid "title_napo_episode_1_13"
+msgstr "Miesto prvej pomoci"
+
+#. Default: "Fire protection signs"
+#: osha.policy:/missing_18n_labels.py:138
+msgid "title_napo_episode_1_14"
+msgstr "Protipožiarne označenia"
+
+#. Default: "Fire-extinguishing equipment"
+#: osha.policy:/missing_18n_labels.py:139
 msgid "title_napo_episode_1_15"
 msgstr "Hasiace prístroje"
 
+#: osha.policy:/missing_18n_labels.py:14
+msgid "Send this"
+msgstr "Poslať"
+
 #. Default: "Fire alarm system"
-#: osha.policy:/missing_18n_labels.py:131
+#: osha.policy:/missing_18n_labels.py:140
 msgid "title_napo_episode_1_16"
 msgstr "Núdzové volanie v prípade požiaru"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:132
+#: osha.policy:/missing_18n_labels.py:141
 msgid "title_napo_episode_1_17"
 msgstr "Koniec"
 
 #. Default: "Danger - suspended load"
-#: osha.policy:/missing_18n_labels.py:133
+#: osha.policy:/missing_18n_labels.py:142
 msgid "title_napo_episode_1_2"
 msgstr "Úniková cesta"
 
 #. Default: "Danger - fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:134
+#: osha.policy:/missing_18n_labels.py:143
 msgid "title_napo_episode_1_3"
 msgstr "Miesto prvej pomoci"
 
 #. Default: "Prohibition signs"
-#: osha.policy:/missing_18n_labels.py:135
+#: osha.policy:/missing_18n_labels.py:144
 msgid "title_napo_episode_1_4"
 msgstr "Protipožiarne označenia"
 
 #. Default: "No smoking"
-#: osha.policy:/missing_18n_labels.py:136
+#: osha.policy:/missing_18n_labels.py:145
 msgid "title_napo_episode_1_5"
 msgstr "Hasiace prístroje"
 
 #. Default: "No fork-lift trucks"
-#: osha.policy:/missing_18n_labels.py:137
+#: osha.policy:/missing_18n_labels.py:146
 msgid "title_napo_episode_1_6"
 msgstr "Núdzové volanie v prípade požiaru"
 
 # ###
 # NAPO
 #. Default: "Mandantory signs"
-#: osha.policy:/missing_18n_labels.py:138
+#: osha.policy:/missing_18n_labels.py:147
 msgid "title_napo_episode_1_7"
 msgstr "Príkazové značky"
 
 #. Default: "Safety goggles must be worn"
-#: osha.policy:/missing_18n_labels.py:139
+#: osha.policy:/missing_18n_labels.py:148
 msgid "title_napo_episode_1_8"
 msgstr "Príkaz na ochranu zraku"
 
-#: osha.policy:/missing_18n_labels.py:14
-msgid "Send this"
-msgstr "Poslať"
-
 #. Default: "Hearing protection must be worn"
-#: osha.policy:/missing_18n_labels.py:140
+#: osha.policy:/missing_18n_labels.py:149
 msgid "title_napo_episode_1_9"
 msgstr "Príkaz na ochranu sluchu"
-
-#. Default: "The adventures of NAPO"
-#: osha.policy:/missing_18n_labels.py:141
-msgid "title_napo_episode_2_0"
-msgstr "Napove dobrodružstvá"
-
-#. Default: "The importance of signposting"
-#: osha.policy:/missing_18n_labels.py:142
-msgid "title_napo_episode_2_1"
-msgstr "Dôležitosť označenia"
-
-#. Default: "Signposting is not sufficient"
-#: osha.policy:/missing_18n_labels.py:143
-msgid "title_napo_episode_2_2"
-msgstr "Nedostatočné značenie"
-
-#. Default: "Labels should be read"
-#: osha.policy:/missing_18n_labels.py:144
-msgid "title_napo_episode_2_3"
-msgstr "Riaďte sa značeniami !"
-
-#. Default: "Choose public transports"
-#: osha.policy:/missing_18n_labels.py:145
-msgid "title_napo_episode_2_4"
-msgstr "Uprednostnite verejnú dopravu"
-
-#. Default: "The right protection at the right time"
-#: osha.policy:/missing_18n_labels.py:146
-msgid "title_napo_episode_2_5"
-msgstr "Vhodné ochranné prostriedky v pravý čas"
-
-#. Default: "Improvising means risk taking"
-#: osha.policy:/missing_18n_labels.py:147
-msgid "title_napo_episode_2_6"
-msgstr "Improvizovať znamená riskovať"
-
-#. Default: "Each product has its own packaging"
-#: osha.policy:/missing_18n_labels.py:148
-msgid "title_napo_episode_2_7"
-msgstr "Každý výrobok má svoj vlastný obal"
-
-#. Default: "Too much pressure is likely to be harmful"
-#: osha.policy:/missing_18n_labels.py:149
-msgid "title_napo_episode_2_8"
-msgstr "Prílišný nátlak môže škodiť"
 
 #: osha.policy:/missing_18n_labels.py:15
 msgid "Copyright"
 msgstr "Copyright"
 
-#. Default: "Unsuitable material + incompetence = accident"
+#. Default: "The adventures of NAPO"
 #: osha.policy:/missing_18n_labels.py:150
+msgid "title_napo_episode_2_0"
+msgstr "Napove dobrodružstvá"
+
+#. Default: "The importance of signposting"
+#: osha.policy:/missing_18n_labels.py:151
+msgid "title_napo_episode_2_1"
+msgstr "Dôležitosť označenia"
+
+#. Default: "Signposting is not sufficient"
+#: osha.policy:/missing_18n_labels.py:152
+msgid "title_napo_episode_2_2"
+msgstr "Nedostatočné značenie"
+
+#. Default: "Labels should be read"
+#: osha.policy:/missing_18n_labels.py:153
+msgid "title_napo_episode_2_3"
+msgstr "Riaďte sa značeniami !"
+
+#. Default: "Choose public transports"
+#: osha.policy:/missing_18n_labels.py:154
+msgid "title_napo_episode_2_4"
+msgstr "Uprednostnite verejnú dopravu"
+
+#. Default: "The right protection at the right time"
+#: osha.policy:/missing_18n_labels.py:155
+msgid "title_napo_episode_2_5"
+msgstr "Vhodné ochranné prostriedky v pravý čas"
+
+#. Default: "Improvising means risk taking"
+#: osha.policy:/missing_18n_labels.py:156
+msgid "title_napo_episode_2_6"
+msgstr "Improvizovať znamená riskovať"
+
+#. Default: "Each product has its own packaging"
+#: osha.policy:/missing_18n_labels.py:157
+msgid "title_napo_episode_2_7"
+msgstr "Každý výrobok má svoj vlastný obal"
+
+#. Default: "Too much pressure is likely to be harmful"
+#: osha.policy:/missing_18n_labels.py:158
+msgid "title_napo_episode_2_8"
+msgstr "Prílišný nátlak môže škodiť"
+
+#. Default: "Unsuitable material + incompetence = accident"
+#: osha.policy:/missing_18n_labels.py:159
 msgid "title_napo_episode_2_9"
 msgstr "Nevhodný prostriedok + odborne nespôsobilá osoba = úraz"
-
-#. Default: "Scratch and sniff - chemical risks at work"
-#: osha.policy:/missing_18n_labels.py:151
-msgid "title_napo_episode_3_0"
-msgstr "Napo a nebezpečné chemikálie"
-
-#. Default: "Harmful"
-#: osha.policy:/missing_18n_labels.py:152
-msgid "title_napo_episode_3_1"
-msgstr "Zdraviu škodlivé"
-
-#. Default: "Irritant"
-#: osha.policy:/missing_18n_labels.py:153
-msgid "title_napo_episode_3_2"
-msgstr "Dráždivé"
-
-#. Default: "Flammable"
-#: osha.policy:/missing_18n_labels.py:154
-msgid "title_napo_episode_3_3"
-msgstr "Horľavé"
-
-#. Default: "Corrosive"
-#: osha.policy:/missing_18n_labels.py:155
-msgid "title_napo_episode_3_4"
-msgstr "Žieravé"
-
-#. Default: "Toxic"
-#: osha.policy:/missing_18n_labels.py:156
-msgid "title_napo_episode_3_5"
-msgstr "Jedovaté"
-
-#. Default: "Dangerous for the environment"
-#: osha.policy:/missing_18n_labels.py:157
-msgid "title_napo_episode_3_6"
-msgstr "Nebezpečné pre životné prostredie"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:158
-msgid "title_napo_episode_3_7"
-msgstr "Koniec"
-
-#. Default: "Clean Sweep"
-#: osha.policy:/missing_18n_labels.py:159
-msgid "title_napo_episode_4_0"
-msgstr "A je čisto !"
 
 #: osha.policy:/missing_18n_labels.py:16
 msgid "Update"
 msgstr "Aktualizovať"
 
-#. Default: "Change of plan"
+#. Default: "Scratch and sniff - chemical risks at work"
 #: osha.policy:/missing_18n_labels.py:160
+msgid "title_napo_episode_3_0"
+msgstr "Napo a nebezpečné chemikálie"
+
+#. Default: "Harmful"
+#: osha.policy:/missing_18n_labels.py:161
+msgid "title_napo_episode_3_1"
+msgstr "Zdraviu škodlivé"
+
+#. Default: "Irritant"
+#: osha.policy:/missing_18n_labels.py:162
+msgid "title_napo_episode_3_2"
+msgstr "Dráždivé"
+
+#. Default: "Flammable"
+#: osha.policy:/missing_18n_labels.py:163
+msgid "title_napo_episode_3_3"
+msgstr "Horľavé"
+
+#. Default: "Corrosive"
+#: osha.policy:/missing_18n_labels.py:164
+msgid "title_napo_episode_3_4"
+msgstr "Žieravé"
+
+#. Default: "Toxic"
+#: osha.policy:/missing_18n_labels.py:165
+msgid "title_napo_episode_3_5"
+msgstr "Jedovaté"
+
+#. Default: "Dangerous for the environment"
+#: osha.policy:/missing_18n_labels.py:166
+msgid "title_napo_episode_3_6"
+msgstr "Nebezpečné pre životné prostredie"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:167
+msgid "title_napo_episode_3_7"
+msgstr "Koniec"
+
+#. Default: "Clean Sweep"
+#: osha.policy:/missing_18n_labels.py:168
+msgid "title_napo_episode_4_0"
+msgstr "A je čisto !"
+
+#. Default: "Change of plan"
+#: osha.policy:/missing_18n_labels.py:169
 msgid "title_napo_episode_4_1"
 msgstr "Zmena plánu"
 
 #. Default: "Work at height"
-#: osha.policy:/missing_18n_labels.py:161
+#: osha.policy:/missing_18n_labels.py:170
 msgid "title_napo_episode_4_2"
 msgstr "Práce vo výškach"
 
 #. Default: "Enough is enough"
-#: osha.policy:/missing_18n_labels.py:162
+#: osha.policy:/missing_18n_labels.py:171
 msgid "title_napo_episode_4_3"
 msgstr "Čo je veľa to je veľa"
 
 #. Default: "Safety plan"
-#: osha.policy:/missing_18n_labels.py:163
+#: osha.policy:/missing_18n_labels.py:172
 msgid "title_napo_episode_4_4"
 msgstr "Bezpečnostný plán"
 
 #. Default: "Yellow card"
-#: osha.policy:/missing_18n_labels.py:164
+#: osha.policy:/missing_18n_labels.py:173
 msgid "title_napo_episode_4_5"
 msgstr "Žltá karta"
 
 #. Default: "Bodybuilding"
-#: osha.policy:/missing_18n_labels.py:165
+#: osha.policy:/missing_18n_labels.py:174
 msgid "title_napo_episode_4_6"
 msgstr "Kulturistika"
 
 #. Default: "Safety angels"
-#: osha.policy:/missing_18n_labels.py:166
+#: osha.policy:/missing_18n_labels.py:175
 msgid "title_napo_episode_4_7"
 msgstr "Anjeli strážni"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:167
+#: osha.policy:/missing_18n_labels.py:176
 msgid "title_napo_episode_4_8"
 msgstr "Koniec"
 
 #. Default: "Napo - safe on site"
-#: osha.policy:/missing_18n_labels.py:168
+#: osha.policy:/missing_18n_labels.py:177
 msgid "title_napo_episode_5_0"
 msgstr "Napo - bezpečnosť na stavenisku"
 
 #. Default: "Building in safety"
-#: osha.policy:/missing_18n_labels.py:169
+#: osha.policy:/missing_18n_labels.py:178
 msgid "title_napo_episode_5_1"
 msgstr "Stavať na bezpečnosti"
 
 #. Default: "Don't fall for it"
-#: osha.policy:/missing_18n_labels.py:170
+#: osha.policy:/missing_18n_labels.py:179
 msgid "title_napo_episode_5_2"
 msgstr "Prevencia proti pádu"
 
 #. Default: "Heading for a fall"
-#: osha.policy:/missing_18n_labels.py:171
+#: osha.policy:/missing_18n_labels.py:180
 msgid "title_napo_episode_5_3"
 msgstr "Domček z karát"
 
 #. Default: "Champions of the world"
-#: osha.policy:/missing_18n_labels.py:172
+#: osha.policy:/missing_18n_labels.py:181
 msgid "title_napo_episode_5_4"
 msgstr "Beh cez prekážky"
 
 #. Default: "Lightning strike"
-#: osha.policy:/missing_18n_labels.py:173
+#: osha.policy:/missing_18n_labels.py:182
 msgid "title_napo_episode_5_5"
 msgstr "Keď chrbát štrajkuje"
 
 #. Default: "Keep them apart"
-#: osha.policy:/missing_18n_labels.py:174
+#: osha.policy:/missing_18n_labels.py:183
 msgid "title_napo_episode_5_6"
 msgstr "Každý svojou cestou"
 
 #. Default: "Five star treatment"
-#: osha.policy:/missing_18n_labels.py:175
+#: osha.policy:/missing_18n_labels.py:184
 msgid "title_napo_episode_5_7"
 msgstr "Obedňajšia prestávka"
 
 #. Default: "Bad dream"
-#: osha.policy:/missing_18n_labels.py:176
+#: osha.policy:/missing_18n_labels.py:185
 msgid "title_napo_episode_5_8"
 msgstr "Zlý sen"
 
 #. Default: "Safe landing"
-#: osha.policy:/missing_18n_labels.py:177
+#: osha.policy:/missing_18n_labels.py:186
 msgid "title_napo_episode_5_9"
 msgstr ""
 
 #. Default: "Napo in stop that noise!"
-#: osha.policy:/missing_18n_labels.py:178
+#: osha.policy:/missing_18n_labels.py:187
 msgid "title_napo_episode_6_0"
 msgstr "Napo ... Obmedzte hluk !"
 
 #. Default: "Irreparable"
-#: osha.policy:/missing_18n_labels.py:179
+#: osha.policy:/missing_18n_labels.py:188
 msgid "title_napo_episode_6_1"
 msgstr "Sluch sa nedá opraviť"
 
 #. Default: "Didn't hear it coming"
-#: osha.policy:/missing_18n_labels.py:180
+#: osha.policy:/missing_18n_labels.py:189
 msgid "title_napo_episode_6_2"
 msgstr "Nepočul to prichádzať"
 
 #. Default: "Noise in the office"
-#: osha.policy:/missing_18n_labels.py:181
+#: osha.policy:/missing_18n_labels.py:190
 msgid "title_napo_episode_6_3"
 msgstr "Hluk v kancelárii"
 
 #. Default: "Problem pregnancy"
-#: osha.policy:/missing_18n_labels.py:182
+#: osha.policy:/missing_18n_labels.py:191
 msgid "title_napo_episode_6_4"
 msgstr "Problematika hluku v tehotenstve"
 
 #. Default: "Out in the cold"
-#: osha.policy:/missing_18n_labels.py:183
+#: osha.policy:/missing_18n_labels.py:192
 msgid "title_napo_episode_6_5"
 msgstr "Na vedľajšej koľaji"
 
 #. Default: "Don't make things worse"
-#: osha.policy:/missing_18n_labels.py:184
+#: osha.policy:/missing_18n_labels.py:193
 msgid "title_napo_episode_6_6"
 msgstr "Nezhoršujte to ešte viac !"
 
 #. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:185
+#: osha.policy:/missing_18n_labels.py:194
 msgid "title_napo_episode_6_7"
 msgstr "Koniec"
 
 #. Default: "Safe start"
-#: osha.policy:/missing_18n_labels.py:186
+#: osha.policy:/missing_18n_labels.py:195
 msgid "title_napo_episode_7_0"
 msgstr "Napo vo filme:  Bezpečný start!"
 
 #. Default: "Don't hesitate to ask questions"
-#: osha.policy:/missing_18n_labels.py:187
+#: osha.policy:/missing_18n_labels.py:196
 msgid "title_napo_episode_7_1"
 msgstr "Neváhajte a pýtajte sa!"
 
 #. Default: "Attention listen up"
-#: osha.policy:/missing_18n_labels.py:188
+#: osha.policy:/missing_18n_labels.py:197
 msgid "title_napo_episode_7_2"
 msgstr "Pozor - počúvajte!"
 
 #. Default: "Information overload"
-#: osha.policy:/missing_18n_labels.py:189
+#: osha.policy:/missing_18n_labels.py:198
 msgid "title_napo_episode_7_3"
 msgstr "Informačné preťaženie!"
 
 #. Default: "Watch out for others too"
-#: osha.policy:/missing_18n_labels.py:190
+#: osha.policy:/missing_18n_labels.py:199
 msgid "title_napo_episode_7_4"
 msgstr "Dávajte pozor aj na druhých!"
-
-#. Default: "Overconfidence is dangerous"
-#: osha.policy:/missing_18n_labels.py:191
-msgid "title_napo_episode_7_5"
-msgstr "Prehnaná sebadôvera je nebezpečná!"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:192
-msgid "title_napo_episode_7_6"
-msgstr "Koniec"
-
-#. Default: "Start"
-#: osha.policy:/missing_18n_labels.py:193
-msgid "title_napo_episode_8_0"
-msgstr "Chráňte svoje zdravie - 'Obmedzte záťaž'"
-
-#. Default: "Modern stressful times"
-#: osha.policy:/missing_18n_labels.py:194
-msgid "title_napo_episode_8_1"
-msgstr "Moderná doba"
-
-#. Default: "Hold me tight"
-#: osha.policy:/missing_18n_labels.py:195
-msgid "title_napo_episode_8_10"
-msgstr "Pevne ma uchop!"
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:196
-msgid "title_napo_episode_8_11"
-msgstr "Koniec"
-
-#. Default: "Divide and rule"
-#: osha.policy:/missing_18n_labels.py:197
-msgid "title_napo_episode_8_2"
-msgstr "Rozdeľuj a panuj"
-
-#. Default: "Radical ergonomics"
-#: osha.policy:/missing_18n_labels.py:198
-msgid "title_napo_episode_8_3"
-msgstr "Radikálna ergonomika"
-
-#. Default: "Twist and shout"
-#: osha.policy:/missing_18n_labels.py:199
-msgid "title_napo_episode_8_4"
-msgstr "Otáčaj sa s rozumom"
 
 # Default "Albanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1029,55 +1028,55 @@ msgstr "Otáčaj sa s rozumom"
 msgid "heading_main_fop_portlet_albania"
 msgstr "Koordinačné stredisko v Albánsku"
 
-#. Default: "No grip"
+#. Default: "Overconfidence is dangerous"
 #: osha.policy:/missing_18n_labels.py:200
+msgid "title_napo_episode_7_5"
+msgstr "Prehnaná sebadôvera je nebezpečná!"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:201
+msgid "title_napo_episode_7_6"
+msgstr "Koniec"
+
+#. Default: "Start"
+#: osha.policy:/missing_18n_labels.py:202
+msgid "title_napo_episode_8_0"
+msgstr "Chráňte svoje zdravie - 'Obmedzte záťaž'"
+
+#. Default: "Modern stressful times"
+#: osha.policy:/missing_18n_labels.py:203
+msgid "title_napo_episode_8_1"
+msgstr "Moderná doba"
+
+#. Default: "Hold me tight"
+#: osha.policy:/missing_18n_labels.py:204
+msgid "title_napo_episode_8_10"
+msgstr "Pevne ma uchop!"
+
+#. Default: "The end"
+#: osha.policy:/missing_18n_labels.py:205
+msgid "title_napo_episode_8_11"
+msgstr "Koniec"
+
+#. Default: "Divide and rule"
+#: osha.policy:/missing_18n_labels.py:206
+msgid "title_napo_episode_8_2"
+msgstr "Rozdeľuj a panuj"
+
+#. Default: "Radical ergonomics"
+#: osha.policy:/missing_18n_labels.py:207
+msgid "title_napo_episode_8_3"
+msgstr "Radikálna ergonomika"
+
+#. Default: "Twist and shout"
+#: osha.policy:/missing_18n_labels.py:208
+msgid "title_napo_episode_8_4"
+msgstr "Otáčaj sa s rozumom"
+
+#. Default: "No grip"
+#: osha.policy:/missing_18n_labels.py:209
 msgid "title_napo_episode_8_5"
 msgstr "Bez úchytiek?"
-
-#. Default: "Working height"
-#: osha.policy:/missing_18n_labels.py:201
-msgid "title_napo_episode_8_6"
-msgstr "Správna výška"
-
-#. Default: "Bad vibrations"
-#: osha.policy:/missing_18n_labels.py:202
-msgid "title_napo_episode_8_7"
-msgstr "Vibrácie"
-
-#. Default: "The duel"
-#: osha.policy:/missing_18n_labels.py:203
-msgid "title_napo_episode_8_8"
-msgstr "Kto z koho?"
-
-#. Default: "Think to move"
-#: osha.policy:/missing_18n_labels.py:204
-msgid "title_napo_episode_8_9"
-msgstr "Rozhýb sa"
-
-#. Default: "Introduction"
-#: osha.policy:/missing_18n_labels.py:205
-msgid "title_napo_episode_9_0"
-msgstr ""
-
-#. Default: "Assess the risk"
-#: osha.policy:/missing_18n_labels.py:206
-msgid "title_napo_episode_9_1"
-msgstr "Hodnotenie rizika"
-
-#. Default: "Identify the unknown"
-#: osha.policy:/missing_18n_labels.py:207
-msgid "title_napo_episode_9_2"
-msgstr "Identifikácia neznámeho"
-
-#. Default: "Act on risks"
-#: osha.policy:/missing_18n_labels.py:208
-msgid "title_napo_episode_9_3"
-msgstr "Správanie sa v riziku"
-
-#. Default: "Risky combination"
-#: osha.policy:/missing_18n_labels.py:209
-msgid "title_napo_episode_9_4"
-msgstr "Kombinácia nebezpečenstiev"
 
 # Default "Austrian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1085,51 +1084,55 @@ msgstr "Kombinácia nebezpečenstiev"
 msgid "heading_main_fop_portlet_austria"
 msgstr "Koordinačné stredisko v Rakúsku"
 
-#. Default: "Eliminate the hazard"
+#. Default: "Working height"
 #: osha.policy:/missing_18n_labels.py:210
+msgid "title_napo_episode_8_6"
+msgstr "Správna výška"
+
+#. Default: "Bad vibrations"
+#: osha.policy:/missing_18n_labels.py:211
+msgid "title_napo_episode_8_7"
+msgstr "Vibrácie"
+
+#. Default: "The duel"
+#: osha.policy:/missing_18n_labels.py:212
+msgid "title_napo_episode_8_8"
+msgstr "Kto z koho?"
+
+#. Default: "Think to move"
+#: osha.policy:/missing_18n_labels.py:213
+msgid "title_napo_episode_8_9"
+msgstr "Rozhýb sa"
+
+#. Default: "Introduction"
+#: osha.policy:/missing_18n_labels.py:214
+msgid "title_napo_episode_9_0"
+msgstr ""
+
+#. Default: "Assess the risk"
+#: osha.policy:/missing_18n_labels.py:215
+msgid "title_napo_episode_9_1"
+msgstr "Hodnotenie rizika"
+
+#. Default: "Identify the unknown"
+#: osha.policy:/missing_18n_labels.py:216
+msgid "title_napo_episode_9_2"
+msgstr "Identifikácia neznámeho"
+
+#. Default: "Act on risks"
+#: osha.policy:/missing_18n_labels.py:217
+msgid "title_napo_episode_9_3"
+msgstr "Správanie sa v riziku"
+
+#. Default: "Risky combination"
+#: osha.policy:/missing_18n_labels.py:218
+msgid "title_napo_episode_9_4"
+msgstr "Kombinácia nebezpečenstiev"
+
+#. Default: "Eliminate the hazard"
+#: osha.policy:/missing_18n_labels.py:219
 msgid "title_napo_episode_9_5"
 msgstr "Eliminácia rizika"
-
-#. Default: "Safety pays"
-#: osha.policy:/missing_18n_labels.py:211
-msgid "title_napo_episode_9_6"
-msgstr "Bezpečnosť sa oplatí "
-
-#. Default: "The end"
-#: osha.policy:/missing_18n_labels.py:212
-msgid "title_napo_episode_9_7"
-msgstr "Koniec"
-
-#: osha.policy:/missing_18n_labels.py:213
-msgid "title_napo_film_1"
-msgstr "PRÍBEH NAJLEPŠIEHO OZNAČENIA"
-
-#: osha.policy:/missing_18n_labels.py:214
-msgid "title_napo_film_11"
-msgstr "Napo v: \"Bezpečnosť v... a mimo pracoviska\""
-
-# ---------- New Napo Film Number 12    Danger: Chemicals
-#: osha.policy:/missing_18n_labels.py:215
-msgid "title_napo_film_12"
-msgstr "Napo v... Pozor, nebezpečenstvo: chemikálie!"
-
-# ---------- New Napo Film Number 13    Protect your Skin
-#: osha.policy:/missing_18n_labels.py:216
-msgid "title_napo_film_13"
-msgstr "Napo v... Chráňte svoju pokožku"
-
-# ---------- New Napo Film Number 14   Safe Maintenance
-#: osha.policy:/missing_18n_labels.py:217
-msgid "title_napo_film_14"
-msgstr "Napo vo filme... Bezpečná údržba"
-
-#: osha.policy:/missing_18n_labels.py:218
-msgid "title_napo_film_2"
-msgstr "NAPOVE DOBRODRUŽSTVÁ"
-
-#: osha.policy:/missing_18n_labels.py:219
-msgid "title_napo_film_3"
-msgstr "NAPO V RÍŠI BEZPEČNOSTNÝCH SYMBOLOV"
 
 # Default "Belgian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1137,36 +1140,50 @@ msgstr "NAPO V RÍŠI BEZPEČNOSTNÝCH SYMBOLOV"
 msgid "heading_main_fop_portlet_belgium"
 msgstr "Koordinačné stredisko v Belgicku"
 
+#. Default: "Safety pays"
 #: osha.policy:/missing_18n_labels.py:220
-msgid "title_napo_film_4"
-msgstr "NAPO – BEZPEČNOSŤ NA STAVENISKU"
+msgid "title_napo_episode_9_6"
+msgstr "Bezpečnosť sa oplatí "
 
+#. Default: "The end"
 #: osha.policy:/missing_18n_labels.py:221
-msgid "title_napo_film_5"
-msgstr "NAPO A JE ČISTO"
+msgid "title_napo_episode_9_7"
+msgstr "Koniec"
 
 #: osha.policy:/missing_18n_labels.py:222
-msgid "title_napo_film_6"
-msgstr "NAPO – OBMEDZTE HLUK!"
+msgid "title_napo_film_1"
+msgstr "PRÍBEH NAJLEPŠIEHO OZNAČENIA"
 
 #: osha.policy:/missing_18n_labels.py:223
-msgid "title_napo_film_7"
-msgstr "NAPO NA BEZPEČNOM ŠTARTE!"
+msgid "title_napo_film_11"
+msgstr "Napo v: \"Bezpečnosť v... a mimo pracoviska\""
 
+# ---------- New Napo Film Number 12    Danger: Chemicals
 #: osha.policy:/missing_18n_labels.py:224
-msgid "title_napo_film_8"
-msgstr "NAPO – OBMEDZTE ZÁŤAŽ!"
+msgid "title_napo_film_12"
+msgstr "Napo v... Pozor, nebezpečenstvo: chemikálie!"
 
+# ---------- New Napo Film Number 13    Protect your Skin
 #: osha.policy:/missing_18n_labels.py:225
-msgid "title_napo_film_9"
-msgstr "Napo na rizikovom pracovisku"
+msgid "title_napo_film_13"
+msgstr "Napo v... Chráňte svoju pokožku"
 
-# ############################################
-# # keywords
-# ############################################
+# ---------- New Napo Film Number 14   Safe Maintenance
+#: osha.policy:/missing_18n_labels.py:226
+msgid "title_napo_film_14"
+msgstr "Napo vo filme... Bezpečná údržba"
+
+#: osha.policy:/missing_18n_labels.py:227
+msgid "title_napo_film_2"
+msgstr "NAPOVE DOBRODRUŽSTVÁ"
+
+#: osha.policy:/missing_18n_labels.py:228
+msgid "title_napo_film_3"
+msgstr "NAPO V RÍŠI BEZPEČNOSTNÝCH SYMBOLOV"
+
 #: osha.policy:/missing_18n_labels.py:229
-msgid "accident_prevention"
-msgstr "Prevencia úrazov"
+msgid "title_napo_film_4"
+msgstr "NAPO – BEZPEČNOSŤ NA STAVENISKU"
 
 # Default "Bosnian, Herzegovinian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1175,44 +1192,35 @@ msgid "heading_main_fop_portlet_bosnia-and-herzegovina"
 msgstr "Koordinačné stredisko v Bosne a Herzegovine"
 
 #: osha.policy:/missing_18n_labels.py:230
-msgid "ageing"
-msgstr "Starnúci pracovníci"
+msgid "title_napo_film_5"
+msgstr "NAPO A JE ČISTO"
 
 #: osha.policy:/missing_18n_labels.py:231
-msgid "agriculture"
-msgstr "Poľnohospodárstvo"
+msgid "title_napo_film_6"
+msgstr "NAPO – OBMEDZTE HLUK!"
 
 #: osha.policy:/missing_18n_labels.py:232
-msgid "businessOSH"
-msgstr "Podnikateľské aspekty BOZP"
+msgid "title_napo_film_7"
+msgstr "NAPO NA BEZPEČNOM ŠTARTE!"
 
 #: osha.policy:/missing_18n_labels.py:233
-msgid "cleaners"
-msgstr "Čistenie pracovníkov"
+msgid "title_napo_film_8"
+msgstr "NAPO – OBMEDZTE ZÁŤAŽ!"
 
 #: osha.policy:/missing_18n_labels.py:234
-msgid "competitions"
-msgstr "Súťaže"
+msgid "title_napo_film_9"
+msgstr "Napo na rizikovom pracovisku"
 
-#: osha.policy:/missing_18n_labels.py:235
-msgid "construction"
-msgstr "Stavebníctvo"
-
-#: osha.policy:/missing_18n_labels.py:236
-msgid "csr"
-msgstr "Podniková sociálna zodpovednosť"
-
-#: osha.policy:/missing_18n_labels.py:237
-msgid "cww"
-msgstr "Zmeny vo svete práce"
-
+# ############################################
+# # keywords
+# ############################################
 #: osha.policy:/missing_18n_labels.py:238
-msgid "dangerous_substances"
-msgstr "Nebezpečné látky"
+msgid "accident_prevention"
+msgstr "Prevencia úrazov"
 
 #: osha.policy:/missing_18n_labels.py:239
-msgid "disability"
-msgstr "Osoby s postihnutím"
+msgid "ageing"
+msgstr "Starnúci pracovníci"
 
 # Default "Bulgarian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1220,48 +1228,46 @@ msgstr "Osoby s postihnutím"
 msgid "heading_main_fop_portlet_bulgaria"
 msgstr "Koordinačné stredisko v Bulharsku"
 
-#. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:240
-msgid "disabled_people"
-msgstr "Osoby s postihnutím"
+msgid "agriculture"
+msgstr "Poľnohospodárstvo"
 
 #: osha.policy:/missing_18n_labels.py:241
-msgid "economic_incentives"
-msgstr "Hospodárske stimuly"
+msgid "businessOSH"
+msgstr "Podnikateľské aspekty BOZP"
 
 #: osha.policy:/missing_18n_labels.py:242
-msgid "education"
-msgstr "Vzdelanie"
+msgid "cleaners"
+msgstr "Čistenie pracovníkov"
 
-#. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:243
-msgid "esener"
-msgstr "ESENER"
+msgid "competitions"
+msgstr "Súťaže"
 
 #: osha.policy:/missing_18n_labels.py:244
-msgid "fisheries"
-msgstr "Rybolov"
+msgid "construction"
+msgstr "Stavebníctvo"
 
 #: osha.policy:/missing_18n_labels.py:245
-msgid "gender"
-msgstr "Rodová rovnosť"
+msgid "csr"
+msgstr "Podniková sociálna zodpovednosť"
 
 #: osha.policy:/missing_18n_labels.py:246
-msgid "green_jobs"
-msgstr "Zelené pracovné miesta"
+msgid "cww"
+msgstr "Zmeny vo svete práce"
 
-#. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:247
-msgid "health_care"
-msgstr "Zdravotnícka starostlivosť"
+msgid "dangerous_substances"
+msgstr "Nebezpečné látky"
 
 #: osha.policy:/missing_18n_labels.py:248
-msgid "healthcare"
-msgstr "Zdravotnícka starostlivosť"
+msgid "disability"
+msgstr "Osoby s postihnutím"
 
+#. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:249
-msgid "horeca"
-msgstr "Hotely, reštaurácie a stravovacie služby"
+msgid "disabled_people"
+msgstr "Osoby s postihnutím"
 
 # Default "Croatian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1270,44 +1276,46 @@ msgid "heading_main_fop_portlet_croatia"
 msgstr "Koordinačné stredisko v Chorvátsku"
 
 #: osha.policy:/missing_18n_labels.py:250
-msgid "hwi"
-msgstr "Zdravé pracoviská"
+msgid "economic_incentives"
+msgstr "Hospodárske stimuly"
 
 #: osha.policy:/missing_18n_labels.py:251
-msgid "legislation"
-msgstr "Legislatíva"
+msgid "education"
+msgstr "Vzdelanie"
 
+#. Default: "ESENER"
 #: osha.policy:/missing_18n_labels.py:252
-msgid "maintenance"
-msgstr "Údržba"
+msgid "esener"
+msgstr "ESENER"
 
 #: osha.policy:/missing_18n_labels.py:253
-msgid "management_leadership"
-msgstr "Spôsob vedenia na úrovni riadenia"
+msgid "fisheries"
+msgstr "Rybolov"
 
 #: osha.policy:/missing_18n_labels.py:254
-msgid "migrant_workers"
-msgstr "Migrujúci pracovníci"
+msgid "gender"
+msgstr "Rodová rovnosť"
 
 #: osha.policy:/missing_18n_labels.py:255
-msgid "msd"
-msgstr "Poškodenia podporno-pohybovej sústavy"
+msgid "green_jobs"
+msgstr "Zelené pracovné miesta"
 
+#. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:256
-msgid "nanotechnology"
-msgstr "Nanotechnológia"
+msgid "health_care"
+msgstr "Zdravotnícka starostlivosť"
 
 #: osha.policy:/missing_18n_labels.py:257
-msgid "noise"
-msgstr "Hluk"
+msgid "healthcare"
+msgstr "Zdravotnícka starostlivosť"
 
 #: osha.policy:/missing_18n_labels.py:258
-msgid "organisation"
-msgstr "Organizácie a stratégie"
+msgid "horeca"
+msgstr "Hotely, reštaurácie a stravovacie služby"
 
 #: osha.policy:/missing_18n_labels.py:259
-msgid "osheducation"
-msgstr "Prenikanie BOZP do vzdelania"
+msgid "hwi"
+msgstr "Zdravé pracoviská"
 
 # Default "Cypriot Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1316,41 +1324,44 @@ msgid "heading_main_fop_portlet_cyprus"
 msgstr "Koordinačné stredisko na Cypre"
 
 #: osha.policy:/missing_18n_labels.py:260
-msgid "prevention"
-msgstr "Prevencia"
+msgid "legislation"
+msgstr "Legislatíva"
 
-#: osha.policy:/missing_18n_labels.py:261 osha.searchurls:/interfaces.py:15
-msgid "provider"
-msgstr "Poskytovatelia"
+#: osha.policy:/missing_18n_labels.py:261
+msgid "maintenance"
+msgstr "Údržba"
 
-#. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:262
-msgid "publications"
-msgstr ""
+msgid "management_leadership"
+msgstr "Spôsob vedenia na úrovni riadenia"
 
 #: osha.policy:/missing_18n_labels.py:263
-msgid "research"
-msgstr "Výskum"
+msgid "migrant_workers"
+msgstr "Migrujúci pracovníci"
 
 #: osha.policy:/missing_18n_labels.py:264
-msgid "risk_assessment"
-msgstr "Hodnotenie rizík"
+msgid "msd"
+msgstr "Poškodenia podporno-pohybovej sústavy"
+
+#: osha.policy:/missing_18n_labels.py:265
+msgid "nanotechnology"
+msgstr "Nanotechnológia"
 
 #: osha.policy:/missing_18n_labels.py:266
-msgid "risks"
-msgstr "Novovznikajúce riziká"
+msgid "noise"
+msgstr "Hluk"
 
 #: osha.policy:/missing_18n_labels.py:267
-msgid "road_transport"
-msgstr "Cestná doprava"
+msgid "organisation"
+msgstr "Organizácie a stratégie"
 
 #: osha.policy:/missing_18n_labels.py:268
-msgid "statistics"
-msgstr "Štatistiky"
+msgid "osheducation"
+msgstr "Prenikanie BOZP do vzdelania"
 
 #: osha.policy:/missing_18n_labels.py:269
-msgid "stress"
-msgstr "Stres"
+msgid "prevention"
+msgstr "Prevencia"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1358,39 +1369,42 @@ msgstr "Stres"
 msgid "heading_main_fop_portlet_czech-republic"
 msgstr "Koordinačné stredisko v Českej republike"
 
-#: osha.policy:/missing_18n_labels.py:270
-msgid "transport"
-msgstr "Doprava"
+#: osha.policy:/missing_18n_labels.py:270 osha.searchurls:/interfaces.py:15
+msgid "provider"
+msgstr "Poskytovatelia"
 
+#. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:271
-msgid "whp"
-msgstr "Propagácia zdravia na pracovisku"
+msgid "publications"
+msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:272
-msgid "worker_participation"
-msgstr "Účasť zamestnancov"
+msgid "research"
+msgstr "Výskum"
 
 #: osha.policy:/missing_18n_labels.py:273
-msgid "young_people"
-msgstr "Mladí ľudia"
+msgid "risk_assessment"
+msgstr "Hodnotenie rizík"
 
-#: osha.policy:/missing_18n_labels.py:274
-msgid "Practical Solutions, Good Practice"
-msgstr "Praktické riešenia, dobrá prax"
-
-#. Default: "Campaign 2012-2013"
 #: osha.policy:/missing_18n_labels.py:275
-msgid "Campaign 2012-13"
-msgstr "Kampaň 2012 – 2013"
+msgid "risks"
+msgstr "Novovznikajúce riziká"
 
 #: osha.policy:/missing_18n_labels.py:276
-msgid "Campaign 2012-2013"
-msgstr "Kampaň 2012 – 2013"
+msgid "road_transport"
+msgstr "Cestná doprava"
 
-#. Default: "Campaign 2014-2015"
 #: osha.policy:/missing_18n_labels.py:277
-msgid "campaign_2014_15"
-msgstr "Kampaň 2014 – 2015"
+msgid "statistics"
+msgstr "Štatistiky"
+
+#: osha.policy:/missing_18n_labels.py:278
+msgid "stress"
+msgstr "Stres"
+
+#: osha.policy:/missing_18n_labels.py:279
+msgid "transport"
+msgstr "Doprava"
 
 # Default "Danish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1398,34 +1412,35 @@ msgstr "Kampaň 2014 – 2015"
 msgid "heading_main_fop_portlet_denmark"
 msgstr "Koordinačné stredisko v Dánsku"
 
-#: osha.policy:/missing_18n_labels.py:281
-#: osha.policy:/missing_18n_labels.py:579
-msgid "osha_label_press_and_multimedia"
-msgstr "Tlač a médiá"
+#: osha.policy:/missing_18n_labels.py:280
+msgid "whp"
+msgstr "Propagácia zdravia na pracovisku"
 
+#: osha.policy:/missing_18n_labels.py:281
+msgid "worker_participation"
+msgstr "Účasť zamestnancov"
+
+#: osha.policy:/missing_18n_labels.py:282
+msgid "young_people"
+msgstr "Mladí ľudia"
+
+#: osha.policy:/missing_18n_labels.py:283
+msgid "Practical Solutions, Good Practice"
+msgstr "Praktické riešenia, dobrá prax"
+
+#. Default: "Campaign 2012-2013"
 #: osha.policy:/missing_18n_labels.py:284
-msgid "January"
-msgstr "január"
+msgid "Campaign 2012-13"
+msgstr "Kampaň 2012 – 2013"
 
 #: osha.policy:/missing_18n_labels.py:285
-msgid "February"
-msgstr "február"
+msgid "Campaign 2012-2013"
+msgstr "Kampaň 2012 – 2013"
 
+#. Default: "Campaign 2014-2015"
 #: osha.policy:/missing_18n_labels.py:286
-msgid "March"
-msgstr "marec"
-
-#: osha.policy:/missing_18n_labels.py:287
-msgid "April"
-msgstr "apríl"
-
-#: osha.policy:/missing_18n_labels.py:288
-msgid "May"
-msgstr "máj"
-
-#: osha.policy:/missing_18n_labels.py:289
-msgid "June"
-msgstr "jún"
+msgid "campaign_2014_15"
+msgstr "Kampaň 2014 – 2015"
 
 # Default "Estonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1434,36 +1449,37 @@ msgid "heading_main_fop_portlet_estonia"
 msgstr "Koordinačné stredisko v Estónsku"
 
 #: osha.policy:/missing_18n_labels.py:290
-msgid "July"
-msgstr "júl"
-
-#: osha.policy:/missing_18n_labels.py:291
-msgid "August"
-msgstr "august"
-
-#: osha.policy:/missing_18n_labels.py:292
-msgid "September"
-msgstr "september"
+#: osha.policy:/missing_18n_labels.py:588
+msgid "osha_label_press_and_multimedia"
+msgstr "Tlač a médiá"
 
 #: osha.policy:/missing_18n_labels.py:293
-msgid "October"
-msgstr "október"
+msgid "January"
+msgstr "január"
 
 #: osha.policy:/missing_18n_labels.py:294
-msgid "November"
-msgstr "november"
+msgid "February"
+msgstr "február"
 
 #: osha.policy:/missing_18n_labels.py:295
-msgid "December"
-msgstr "december"
+msgid "March"
+msgstr "marec"
+
+#: osha.policy:/missing_18n_labels.py:296
+msgid "April"
+msgstr "apríl"
+
+#: osha.policy:/missing_18n_labels.py:297
+msgid "May"
+msgstr "máj"
 
 #: osha.policy:/missing_18n_labels.py:298
-msgid "action_firstlogin_proceed"
-msgstr "Prejsť k vašim osobným nastaveniam"
+msgid "June"
+msgstr "jún"
 
 #: osha.policy:/missing_18n_labels.py:299
-msgid "april"
-msgstr "apríl"
+msgid "July"
+msgstr "júl"
 
 # Default "Finnish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1472,45 +1488,36 @@ msgid "heading_main_fop_portlet_finland"
 msgstr "Koordinačné stredisko vo Fínsku"
 
 #: osha.policy:/missing_18n_labels.py:300
-msgid "august"
+msgid "August"
 msgstr "august"
 
 #: osha.policy:/missing_18n_labels.py:301
-msgid "back_to"
-msgstr "späť na"
+msgid "September"
+msgstr "september"
 
 #: osha.policy:/missing_18n_labels.py:302
-msgid "before"
-msgstr "Pred"
+msgid "October"
+msgstr "október"
 
 #: osha.policy:/missing_18n_labels.py:303
-msgid "box_about"
-msgstr "Asi"
+msgid "November"
+msgstr "november"
 
 #: osha.policy:/missing_18n_labels.py:304
-msgid "box_created_by"
-msgstr "Vytvoril"
-
-#: osha.policy:/missing_18n_labels.py:305
-msgid "box_last_modified"
-msgstr "Naposledy modifikovaný"
-
-#: osha.policy:/missing_18n_labels.py:306
-msgid "box_oshmail_subscribe"
-msgstr ""
-"Predplatiť našej <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
+msgid "December"
+msgstr "december"
 
 #: osha.policy:/missing_18n_labels.py:307
-msgid "box_provided_by"
-msgstr "Informácie poskytol"
+msgid "action_firstlogin_proceed"
+msgstr "Prejsť k vašim osobným nastaveniam"
 
 #: osha.policy:/missing_18n_labels.py:308
-msgid "box_search_seminars"
-msgstr "Vyhľadať seminár"
+msgid "april"
+msgstr "apríl"
 
 #: osha.policy:/missing_18n_labels.py:309
-msgid "box_speaker"
-msgstr "Hlavní rečníci"
+msgid "august"
+msgstr "august"
 
 # Default "French Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1519,45 +1526,45 @@ msgid "heading_main_fop_portlet_france"
 msgstr "Koordinačné stredisko vo Francúzsku"
 
 #: osha.policy:/missing_18n_labels.py:310
-msgid "box_speeches"
-msgstr "Hlavné prejavy"
+msgid "back_to"
+msgstr "späť na"
 
 #: osha.policy:/missing_18n_labels.py:311
-msgid "box_this_url"
-msgstr "URL tohto dokumentu"
+msgid "before"
+msgstr "Pred"
 
 #: osha.policy:/missing_18n_labels.py:312
-msgid "calendar day view"
-msgstr "pohľad na kalendárny deň"
+msgid "box_about"
+msgstr "Asi"
 
 #: osha.policy:/missing_18n_labels.py:313
-msgid "convert to pdf"
-msgstr "zmeniť na pdf"
+msgid "box_created_by"
+msgstr "Vytvoril"
 
 #: osha.policy:/missing_18n_labels.py:314
-msgid "daily"
-msgstr "denne"
+msgid "box_last_modified"
+msgstr "Naposledy modifikovaný"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:315
-msgid "day"
-msgstr "Deň"
+msgid "box_oshmail_subscribe"
+msgstr ""
+"Predplatiť našej <a href=\"http://osha.europa.eu/oshmail/\">${newsletter}</a>"
 
 #: osha.policy:/missing_18n_labels.py:316
-msgid "days"
-msgstr "dni"
+msgid "box_provided_by"
+msgstr "Informácie poskytol"
 
 #: osha.policy:/missing_18n_labels.py:317
-msgid "december"
-msgstr "december"
+msgid "box_search_seminars"
+msgstr "Vyhľadať seminár"
 
 #: osha.policy:/missing_18n_labels.py:318
-msgid "default"
-msgstr "štandardný"
+msgid "box_speaker"
+msgstr "Hlavní rečníci"
 
 #: osha.policy:/missing_18n_labels.py:319
-msgid "delete"
-msgstr "vymazať"
+msgid "box_speeches"
+msgstr "Hlavné prejavy"
 
 # Default "German Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1565,49 +1572,49 @@ msgstr "vymazať"
 msgid "heading_main_fop_portlet_germany"
 msgstr "Koordinačné stredisko v Nemecku"
 
-# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:320
+msgid "box_this_url"
+msgstr "URL tohto dokumentu"
+
+#: osha.policy:/missing_18n_labels.py:321
+msgid "calendar day view"
+msgstr "pohľad na kalendárny deň"
+
+#: osha.policy:/missing_18n_labels.py:322
+msgid "convert to pdf"
+msgstr "zmeniť na pdf"
+
+#: osha.policy:/missing_18n_labels.py:323
+msgid "daily"
+msgstr "denne"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:324
+msgid "day"
+msgstr "Deň"
+
+#: osha.policy:/missing_18n_labels.py:325
+msgid "days"
+msgstr "dni"
+
+#: osha.policy:/missing_18n_labels.py:326
+msgid "december"
+msgstr "december"
+
+#: osha.policy:/missing_18n_labels.py:327
+msgid "default"
+msgstr "štandardný"
+
+#: osha.policy:/missing_18n_labels.py:328
+msgid "delete"
+msgstr "vymazať"
+
+# # 1 more: ./OSHA/skins/osha/discussioncenter_view.pt
+#: osha.policy:/missing_18n_labels.py:329
 msgid "details_about_authors"
 msgstr ""
 "Dostaňte sa do vedľajšieho riadku – obsahuje podrobnosti o autorovi a dátume "
 "modifikácie."
-
-#: osha.policy:/missing_18n_labels.py:321
-msgid "document_type"
-msgstr "Typ dokumentu:"
-
-#: osha.policy:/missing_18n_labels.py:322
-msgid "download"
-msgstr "stiahnuť"
-
-#: osha.policy:/missing_18n_labels.py:323
-msgid "download_full_publication"
-msgstr "Stiahnuť celú publikáciu v PDF formáte"
-
-#: osha.policy:/missing_18n_labels.py:324
-msgid "draft"
-msgstr "Návrh"
-
-#: osha.policy:/missing_18n_labels.py:325
-msgid "edit portlet content"
-msgstr "editovať obsah modulu"
-
-#: osha.policy:/missing_18n_labels.py:326
-msgid "emerging_risks"
-msgstr "Novovznikajúce riziká"
-
-#: osha.policy:/missing_18n_labels.py:327
-msgid "event_type"
-msgstr "Typ (typy) udalosti"
-
-#: osha.policy:/missing_18n_labels.py:328
-msgid "february"
-msgstr "február"
-
-# # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:329
-msgid "feedback_comment"
-msgstr "Poznámka"
 
 # Default "Greek Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1616,35 +1623,78 @@ msgid "heading_main_fop_portlet_greece"
 msgstr "Koordinačné stredisko v Grécku"
 
 #: osha.policy:/missing_18n_labels.py:330
+msgid "document_type"
+msgstr "Typ dokumentu:"
+
+#: osha.policy:/missing_18n_labels.py:331
+msgid "download"
+msgstr "stiahnuť"
+
+#: osha.policy:/missing_18n_labels.py:332
+msgid "download_full_publication"
+msgstr "Stiahnuť celú publikáciu v PDF formáte"
+
+#: osha.policy:/missing_18n_labels.py:333
+msgid "draft"
+msgstr "Návrh"
+
+#: osha.policy:/missing_18n_labels.py:334
+msgid "edit portlet content"
+msgstr "editovať obsah modulu"
+
+#: osha.policy:/missing_18n_labels.py:335
+msgid "emerging_risks"
+msgstr "Novovznikajúce riziká"
+
+#: osha.policy:/missing_18n_labels.py:336
+msgid "event_type"
+msgstr "Typ (typy) udalosti"
+
+#: osha.policy:/missing_18n_labels.py:337
+msgid "february"
+msgstr "február"
+
+# # 1 more: ./OSHA/skins/osha/feedback_template.pt
+#: osha.policy:/missing_18n_labels.py:338
+msgid "feedback_comment"
+msgstr "Poznámka"
+
+#: osha.policy:/missing_18n_labels.py:339
 msgid "feedback_country"
 msgstr "Z krajiny:"
 
-#: osha.policy:/missing_18n_labels.py:331
+# Default "Hungarian Focal Point"
+# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
+#: osha.policy:/missing_18n_labels.py:34
+msgid "heading_main_fop_portlet_hungary"
+msgstr "Koordinačné stredisko v Maďarsku"
+
+#: osha.policy:/missing_18n_labels.py:340
 msgid "feedback_from_name"
 msgstr "Meno:"
 
 # # 1 more: ./OSHA/skins/osha/feedback_template.pt
-#: osha.policy:/missing_18n_labels.py:332
+#: osha.policy:/missing_18n_labels.py:341
 msgid "feedback_link"
 msgstr "Spojenie"
 
-#: osha.policy:/missing_18n_labels.py:333
+#: osha.policy:/missing_18n_labels.py:342
 msgid "feedback_mailtemplate_body"
 msgstr "Túto spätnú väzbu zasiela:"
 
-#: osha.policy:/missing_18n_labels.py:334
+#: osha.policy:/missing_18n_labels.py:343
 msgid "feedback_organization_size"
 msgstr "Veľkosť organizácie:"
 
-#: osha.policy:/missing_18n_labels.py:335
+#: osha.policy:/missing_18n_labels.py:344
 msgid "feedback_sender"
 msgstr "Typ odosieľateľa:"
 
-#: osha.policy:/missing_18n_labels.py:336
+#: osha.policy:/missing_18n_labels.py:345
 msgid "feedback_sender_mssg_1"
 msgstr "Vážený pán / pani,"
 
-#: osha.policy:/missing_18n_labels.py:337
+#: osha.policy:/missing_18n_labels.py:346
 msgid "feedback_sender_mssg_2"
 msgstr ""
 "Ďakujeme Vám za spätnú väzbu. Oceňujeme Vaše pripomienky k Európskej "
@@ -1654,7 +1704,7 @@ msgstr ""
 "odpoveď v každom prípade. Čítame však všetky Vaše pripomienky a používame "
 "Vašu spätnú väzbu na zlepšovanie našich internetových stránok a služieb."
 
-#: osha.policy:/missing_18n_labels.py:338
+#: osha.policy:/missing_18n_labels.py:347
 msgid "feedback_sender_mssg_3"
 msgstr ""
 "Môžete mať najnovšie informácie o vývoji na našej internetovej stránke, ak "
@@ -1662,56 +1712,13 @@ msgstr ""
 "index_en.htm] a predplatíte si náš elektronický bulletin OSHmail [http://"
 "osha.europa.eu/oshmail]."
 
-#: osha.policy:/missing_18n_labels.py:339
+#: osha.policy:/missing_18n_labels.py:348
 msgid "feedback_sender_mssg_from"
 msgstr "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci"
 
-# Default "Hungarian Focal Point"
-# osha.fop/src/osha/fop/portlets/fop_main_promotion.py
-#: osha.policy:/missing_18n_labels.py:34
-msgid "heading_main_fop_portlet_hungary"
-msgstr "Koordinačné stredisko v Maďarsku"
-
-#: osha.policy:/missing_18n_labels.py:340
+#: osha.policy:/missing_18n_labels.py:349
 msgid "feedback_sender_mssg_thankyou"
 msgstr "S pozdravom,"
-
-#: osha.policy:/missing_18n_labels.py:341
-msgid "feedback_sent_by"
-msgstr "Túto spätnú väzbu zasiela:"
-
-#: osha.policy:/missing_18n_labels.py:342
-msgid "foresight"
-msgstr "Prehľad"
-
-#: osha.policy:/missing_18n_labels.py:343
-msgid "forward"
-msgstr "Dopredu"
-
-#: osha.policy:/missing_18n_labels.py:344
-msgid "from"
-msgstr "Od"
-
-#: osha.policy:/missing_18n_labels.py:345
-msgid "go_to_calendar"
-msgstr "Ku kalendáru"
-
-#: osha.policy:/missing_18n_labels.py:346
-msgid "go_to_folder_localroles"
-msgstr "K miestnym úlohám priečinku"
-
-# # 1 more: ./plone_templates/folder_listing.pt
-#: osha.policy:/missing_18n_labels.py:347
-msgid "go_to_parent_url"
-msgstr "Po jednu úroveň"
-
-#: osha.policy:/missing_18n_labels.py:348
-msgid "header_active"
-msgstr "Aktívny"
-
-#: osha.policy:/missing_18n_labels.py:349
-msgid "header_portlet_personalise"
-msgstr "Upravte si informácie na tejto stránke podľa vlastných potrieb "
 
 # Default "Icelandic Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1720,44 +1727,45 @@ msgid "heading_main_fop_portlet_iceland"
 msgstr "Koordinačné stredisko na Islande"
 
 #: osha.policy:/missing_18n_labels.py:350
-msgid "header_title"
-msgstr "Názov"
+msgid "feedback_sent_by"
+msgstr "Túto spätnú väzbu zasiela:"
 
 #: osha.policy:/missing_18n_labels.py:351
-msgid "heading_actions"
-msgstr "Činnosti"
+msgid "foresight"
+msgstr "Prehľad"
 
 #: osha.policy:/missing_18n_labels.py:352
-msgid "heading_add_to_calendar"
-msgstr "Pridať podujatie do kalendára"
+msgid "forward"
+msgstr "Dopredu"
 
 #: osha.policy:/missing_18n_labels.py:353
-msgid "heading_advanced_search"
-msgstr "Pokročilé vyhľadávanie obsahu"
+msgid "from"
+msgstr "Od"
 
 #: osha.policy:/missing_18n_labels.py:354
-msgid "heading_alert_add_searchquer"
-msgstr "Pridať nový vyhľadávací dopyt"
+msgid "go_to_calendar"
+msgstr "Ku kalendáru"
 
 #: osha.policy:/missing_18n_labels.py:355
-msgid "heading_alert_edit_searchquer"
-msgstr "Editovať vyhľadávací dopty &quot; ${itemtype} &quot;"
+msgid "go_to_folder_localroles"
+msgstr "K miestnym úlohám priečinku"
 
+# # 1 more: ./plone_templates/folder_listing.pt
 #: osha.policy:/missing_18n_labels.py:356
-msgid "heading_alerts_generalinterests"
-msgstr "Moje všeobecné záujmy"
+msgid "go_to_parent_url"
+msgstr "Po jednu úroveň"
 
 #: osha.policy:/missing_18n_labels.py:357
-msgid "heading_alerts_specialinterests"
-msgstr "Moje špeciálne záujmy"
+msgid "header_active"
+msgstr "Aktívny"
 
 #: osha.policy:/missing_18n_labels.py:358
-msgid "heading_authorities"
-msgstr "Orgány"
+msgid "header_portlet_personalise"
+msgstr "Upravte si informácie na tejto stránke podľa vlastných potrieb "
 
 #: osha.policy:/missing_18n_labels.py:359
-msgid "heading_calendar_views"
-msgstr "Pohľady na kalendár"
+msgid "header_title"
+msgstr "Názov"
 
 # Default "Irish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1766,45 +1774,44 @@ msgid "heading_main_fop_portlet_ireland"
 msgstr "Koordinačné stredisko v Írsku"
 
 #: osha.policy:/missing_18n_labels.py:360
-msgid "heading_document_actions"
-msgstr "Dokumentovať činnosti"
+msgid "heading_actions"
+msgstr "Činnosti"
 
 #: osha.policy:/missing_18n_labels.py:361
-msgid "heading_ew2005_stopthatnoise"
-msgstr "Obmedzte hluk!"
+msgid "heading_add_to_calendar"
+msgstr "Pridať podujatie do kalendára"
 
 #: osha.policy:/missing_18n_labels.py:362
-msgid "heading_exception_details"
-msgstr "Podrobnosti výnimky"
+msgid "heading_advanced_search"
+msgstr "Pokročilé vyhľadávanie obsahu"
 
 #: osha.policy:/missing_18n_labels.py:363
-msgid "heading_feedback_comments"
-msgstr "Pripomienky"
+msgid "heading_alert_add_searchquer"
+msgstr "Pridať nový vyhľadávací dopyt"
 
 #: osha.policy:/missing_18n_labels.py:364
-msgid "heading_file_contents"
-msgstr "Obsah súboru"
+msgid "heading_alert_edit_searchquer"
+msgstr "Editovať vyhľadávací dopty &quot; ${itemtype} &quot;"
 
 #: osha.policy:/missing_18n_labels.py:365
-msgid "heading_hierarchical_index"
-msgstr "Hierarchický index"
+msgid "heading_alerts_generalinterests"
+msgstr "Moje všeobecné záujmy"
 
 #: osha.policy:/missing_18n_labels.py:366
-msgid "heading_index_by_nace"
-msgstr "Index podľa  NACE"
+msgid "heading_alerts_specialinterests"
+msgstr "Moje špeciálne záujmy"
 
 #: osha.policy:/missing_18n_labels.py:367
-msgid "heading_index_by_providers"
-msgstr "Index podľa poskytovateľov"
+msgid "heading_authorities"
+msgstr "Orgány"
 
 #: osha.policy:/missing_18n_labels.py:368
-msgid "heading_index_by_sme"
-msgstr "Index podľa MSP"
+msgid "heading_calendar_views"
+msgstr "Pohľady na kalendár"
 
 #: osha.policy:/missing_18n_labels.py:369
-#: osha.policy:/skins/osha_content/index_topic.pt:13
-msgid "heading_index_by_topic"
-msgstr "Index podľa tém"
+msgid "heading_document_actions"
+msgstr "Dokumentovať činnosti"
 
 # Default "Italian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1813,46 +1820,45 @@ msgid "heading_main_fop_portlet_italy"
 msgstr "Koordinačné stredisko v Taliansku"
 
 #: osha.policy:/missing_18n_labels.py:370
-msgid "heading_latest_seminars"
-msgstr "Najnovsie semináre"
+msgid "heading_ew2005_stopthatnoise"
+msgstr "Obmedzte hluk!"
 
 #: osha.policy:/missing_18n_labels.py:371
-msgid "heading_link_to"
-msgstr "Spojenie s"
+msgid "heading_exception_details"
+msgstr "Podrobnosti výnimky"
 
 #: osha.policy:/missing_18n_labels.py:372
-msgid "heading_link_to_this_site"
-msgstr "Spojenie s touto stránkou"
+msgid "heading_feedback_comments"
+msgstr "Pripomienky"
 
 #: osha.policy:/missing_18n_labels.py:373
-msgid "heading_lost_password"
-msgstr "Zabudnuté heslo"
+msgid "heading_file_contents"
+msgstr "Obsah súboru"
 
 #: osha.policy:/missing_18n_labels.py:374
-msgid "heading_other_national_sites"
-msgstr "Ďalšie vnútroštátne stránky"
+msgid "heading_hierarchical_index"
+msgstr "Hierarchický index"
 
 #: osha.policy:/missing_18n_labels.py:375
-msgid "heading_portlets_configure"
-msgstr "Konfigurovať moduly"
+msgid "heading_index_by_nace"
+msgstr "Index podľa  NACE"
 
 #: osha.policy:/missing_18n_labels.py:376
-msgid "heading_questionnaire_result"
-msgstr "Súčasný výsledok"
+msgid "heading_index_by_providers"
+msgstr "Index podľa poskytovateľov"
 
 #: osha.policy:/missing_18n_labels.py:377
-msgid "heading_quicksearch_users"
-msgstr "Rýchle vyhľadávanie používateľov"
+msgid "heading_index_by_sme"
+msgstr "Index podľa MSP"
 
 #: osha.policy:/missing_18n_labels.py:378
-msgid "heading_research_organisations"
-msgstr "Výskumné organizácie"
+#: osha.policy:/skins/osha_content/index_topic.pt:13
+msgid "heading_index_by_topic"
+msgstr "Index podľa tém"
 
 #: osha.policy:/missing_18n_labels.py:379
-msgid "heading_search"
-msgstr ""
-"Vyhľadávať <span tal:content=\"here/title_or_id\"> Názov alebo identifikačné "
-"číslo</span>"
+msgid "heading_latest_seminars"
+msgstr "Najnovsie semináre"
 
 # Default "Kosovar Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1861,46 +1867,46 @@ msgid "heading_main_fop_portlet_kosovo-under-unscr-1244-99"
 msgstr "Koordinačné stredisko v Kosove"
 
 #: osha.policy:/missing_18n_labels.py:380
-msgid "heading_search_case_studies"
-msgstr "Vyhľadávanie v DATABÁZE PRÍPADOVÝCH ŠTÚDIÍ"
+msgid "heading_link_to"
+msgstr "Spojenie s"
 
 #: osha.policy:/missing_18n_labels.py:381
-msgid "heading_search_providers"
-msgstr "Vyhľadávanie v DATABÁZE POSKYTOVATEĽO"
+msgid "heading_link_to_this_site"
+msgstr "Spojenie s touto stránkou"
 
 #: osha.policy:/missing_18n_labels.py:382
-msgid "heading_search_results_memberdocs"
-msgstr "Vyhľadávať výsledky pre dokumenty členov"
+msgid "heading_lost_password"
+msgstr "Zabudnuté heslo"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:383
-msgid "heading_search_results_rss"
-msgstr "Výsledky diaľkového vyhľadávania"
+msgid "heading_other_national_sites"
+msgstr "Ďalšie vnútroštátne stránky"
 
 #: osha.policy:/missing_18n_labels.py:384
-msgid "heading_search_risk_assessment_tools"
-msgstr "Vyhľadávanie v DATABÁZE NÁSTROJOV NA HODNOTENIE RIZÍK"
+msgid "heading_portlets_configure"
+msgstr "Konfigurovať moduly"
 
 #: osha.policy:/missing_18n_labels.py:385
-msgid "heading_search_useful_links"
-msgstr "Vyhľadávanie v DATABÁZE UŽITOČNÝCH ODKAZOV"
+msgid "heading_questionnaire_result"
+msgstr "Súčasný výsledok"
 
 #: osha.policy:/missing_18n_labels.py:386
-msgid "heading_sections"
-msgstr "Sekcie"
+msgid "heading_quicksearch_users"
+msgstr "Rýchle vyhľadávanie používateľov"
 
 #: osha.policy:/missing_18n_labels.py:387
-msgid "heading_send_page_to"
-msgstr "Pošlite niekomu túto stránku"
+msgid "heading_research_organisations"
+msgstr "Výskumné organizácie"
 
-# # 1 more: ./OSHA/skins/osha/search_form.pt
 #: osha.policy:/missing_18n_labels.py:388
-msgid "heading_simple_search"
-msgstr "Vyhľadávanie obsahu"
+msgid "heading_search"
+msgstr ""
+"Vyhľadávať <span tal:content=\"here/title_or_id\"> Názov alebo identifikačné "
+"číslo</span>"
 
 #: osha.policy:/missing_18n_labels.py:389
-msgid "heading_site_error"
-msgstr "Chyba stránky"
+msgid "heading_search_case_studies"
+msgstr "Vyhľadávanie v DATABÁZE PRÍPADOVÝCH ŠTÚDIÍ"
 
 # Default "Latvian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1909,52 +1915,46 @@ msgid "heading_main_fop_portlet_latvia"
 msgstr "Koordinačné stredisko v Lotyšsku"
 
 #: osha.policy:/missing_18n_labels.py:390
-msgid "heading_social_partners"
-msgstr "Sociálni partneri"
+msgid "heading_search_providers"
+msgstr "Vyhľadávanie v DATABÁZE POSKYTOVATEĽO"
 
 #: osha.policy:/missing_18n_labels.py:391
-msgid "heading_start_simple_process"
-msgstr "Začať priebeh prác"
-
-#: osha.policy:/missing_18n_labels.py:392
-msgid "help_search_author"
-msgstr "Vrátiť položky vytvorené konkrétnou osobou"
+msgid "heading_search_results_memberdocs"
+msgstr "Vyhľadávať výsledky pre dokumenty členov"
 
 # # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: osha.policy:/missing_18n_labels.py:392
+msgid "heading_search_results_rss"
+msgstr "Výsledky diaľkového vyhľadávania"
+
 #: osha.policy:/missing_18n_labels.py:393
-msgid "help_search_available_languages"
-msgstr "Vrátiť položky dostupné v zvolených jazykoch"
+msgid "heading_search_risk_assessment_tools"
+msgstr "Vyhľadávanie v DATABÁZE NÁSTROJOV NA HODNOTENIE RIZÍK"
 
 #: osha.policy:/missing_18n_labels.py:394
-msgid "help_search_countries"
-msgstr "Vrátiť položky dostupné v zvolenej krajine"
+msgid "heading_search_useful_links"
+msgstr "Vyhľadávanie v DATABÁZE UŽITOČNÝCH ODKAZOV"
 
 #: osha.policy:/missing_18n_labels.py:395
-msgid "help_search_description"
-msgstr ""
-"Vrátiť položky, ktoré sa hodia pre tento opis. Viacnásobné slová sa môžu "
-"nájsť ich kombináciou s <strong>AND</strong> a <strong>OR</strong> ."
+msgid "heading_sections"
+msgstr "Sekcie"
 
 #: osha.policy:/missing_18n_labels.py:396
-msgid "help_search_item_type"
-msgstr "Vrátiť položky špecifického typu"
+msgid "heading_send_page_to"
+msgstr "Pošlite niekomu túto stránku"
 
+# # 1 more: ./OSHA/skins/osha/search_form.pt
 #: osha.policy:/missing_18n_labels.py:397
-msgid "help_search_keywords"
-msgstr ""
-"Vrátiť položky, ktoré sa hodia pre jedno alebo viacero týchto kľúčových "
-"slov. Viacnásobné slová možno nájsť stlačením <strong>Ctrl</strong> zatiaľ "
-"čo <strong>zostáva klikať</strong> kľúčové slová."
+msgid "heading_simple_search"
+msgstr "Vyhľadávanie obsahu"
 
 #: osha.policy:/missing_18n_labels.py:398
-msgid "help_search_new_items_since"
-msgstr ""
-"Vrátiť položky, ktoré boli pridané, odkedy ste sa naposledy odhlásili, "
-"minulý týždeň, atď."
+msgid "heading_site_error"
+msgstr "Chyba stránky"
 
 #: osha.policy:/missing_18n_labels.py:399
-msgid "help_search_path"
-msgstr "Hľadajte iba objekty pod týmto objektom v hierarchii stránky."
+msgid "heading_social_partners"
+msgstr "Sociálni partneri"
 
 # Default "Liechtenstein Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1963,60 +1963,55 @@ msgid "heading_main_fop_portlet_liechtenstein"
 msgstr "Koordinačné stredisko v Lichtenštajnsku"
 
 #: osha.policy:/missing_18n_labels.py:400
+msgid "heading_start_simple_process"
+msgstr "Začať priebeh prác"
+
+#: osha.policy:/missing_18n_labels.py:401
+msgid "help_search_author"
+msgstr "Vrátiť položky vytvorené konkrétnou osobou"
+
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
+#: osha.policy:/missing_18n_labels.py:402
+msgid "help_search_available_languages"
+msgstr "Vrátiť položky dostupné v zvolených jazykoch"
+
+#: osha.policy:/missing_18n_labels.py:403
+msgid "help_search_countries"
+msgstr "Vrátiť položky dostupné v zvolenej krajine"
+
+#: osha.policy:/missing_18n_labels.py:404
+msgid "help_search_description"
+msgstr ""
+"Vrátiť položky, ktoré sa hodia pre tento opis. Viacnásobné slová sa môžu "
+"nájsť ich kombináciou s <strong>AND</strong> a <strong>OR</strong> ."
+
+#: osha.policy:/missing_18n_labels.py:405
+msgid "help_search_item_type"
+msgstr "Vrátiť položky špecifického typu"
+
+#: osha.policy:/missing_18n_labels.py:406
+msgid "help_search_keywords"
+msgstr ""
+"Vrátiť položky, ktoré sa hodia pre jedno alebo viacero týchto kľúčových "
+"slov. Viacnásobné slová možno nájsť stlačením <strong>Ctrl</strong> zatiaľ "
+"čo <strong>zostáva klikať</strong> kľúčové slová."
+
+#: osha.policy:/missing_18n_labels.py:407
+msgid "help_search_new_items_since"
+msgstr ""
+"Vrátiť položky, ktoré boli pridané, odkedy ste sa naposledy odhlásili, "
+"minulý týždeň, atď."
+
+#: osha.policy:/missing_18n_labels.py:408
+msgid "help_search_path"
+msgstr "Hľadajte iba objekty pod týmto objektom v hierarchii stránky."
+
+#: osha.policy:/missing_18n_labels.py:409
 msgid "help_search_review_status"
 msgstr ""
 "Ako prezerajúci môžete vyhľadávať položky na základe ich stavu prezerania. "
 "Ak si želáte obmedziť výsledky na položky v určitých stavoch, zvoľte ich z "
 "tohto zoznamu."
-
-#: osha.policy:/missing_18n_labels.py:401
-msgid "help_search_rssextension"
-msgstr ""
-"Vaše vyhľadávanie môžete rozšíriť zvolením jednej alebo viacerých "
-"klasifikačných stránok, ktoré sa využijú ako zdroje diaľkového vyhľadávania. "
-"<br/>"
-
-#: osha.policy:/missing_18n_labels.py:402
-msgid "help_search_title"
-msgstr "Vrátiť položky, ktoré sa hodia k tomuto názvu"
-
-#: osha.policy:/missing_18n_labels.py:403
-msgid "help_send_to_mail"
-msgstr "E-mailová adresa, na ktorú sa má poslať toto spojenie."
-
-#: osha.policy:/missing_18n_labels.py:404
-msgid "hour"
-msgstr "Hodina"
-
-#: osha.policy:/missing_18n_labels.py:405
-msgid "id"
-msgstr "Identifikátor"
-
-#: osha.policy:/missing_18n_labels.py:406
-msgid "info_alert_searchagent"
-msgstr ""
-"Môžete špecifikovať vyhľadávací dopyt pre objekty, ktoré chcete monitorovať. "
-"Budete upozornený, keď boli zmenené."
-
-#: osha.policy:/missing_18n_labels.py:407
-msgid "info_feedback_message_checkbefore"
-msgstr ""
-"Pred zaslaním otázky skontrolujte, prosím, naše ${link1} a ${link2} stránky."
-
-#: osha.policy:/missing_18n_labels.py:408
-msgid "info_feedback_message_publications"
-msgstr ""
-"Všetky publikácie agentúry sú ${link}. Nemáme žiadne ďalšie informácie okrem "
-"tých, ktoré sú v našej sieti alebo na internetových stránkach.&quot;"
-
-#: osha.policy:/missing_18n_labels.py:409
-msgid "info_feedback_message_writemessage"
-msgstr ""
-"Môžete nám napísať v ktoromkoľvek z 20 oficiálnych jazykov EÚ. Vezmite však "
-"do úvahy, že môže istý čas  trvať, kým preložíme vašu správu a našu odpoveď. "
-"Na správy v angličtine budeme pravdepodobne odpovedať rýchlejšie, pretože "
-"ňou hovoria všetci pracovníci agentúry. Snažíme sa odpovedať na otázky čo "
-"najskôr."
 
 # Default "Lithuanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2025,45 +2020,57 @@ msgid "heading_main_fop_portlet_lithuania"
 msgstr "Koordinačné stredisko v Litve"
 
 #: osha.policy:/missing_18n_labels.py:410
-msgid "is"
-msgstr "je"
+msgid "help_search_rssextension"
+msgstr ""
+"Vaše vyhľadávanie môžete rozšíriť zvolením jednej alebo viacerých "
+"klasifikačných stránok, ktoré sa využijú ako zdroje diaľkového vyhľadávania. "
+"<br/>"
 
 #: osha.policy:/missing_18n_labels.py:411
-msgid "january"
-msgstr "január"
+msgid "help_search_title"
+msgstr "Vrátiť položky, ktoré sa hodia k tomuto názvu"
 
 #: osha.policy:/missing_18n_labels.py:412
-msgid "july"
-msgstr "júl"
+msgid "help_send_to_mail"
+msgstr "E-mailová adresa, na ktorú sa má poslať toto spojenie."
 
 #: osha.policy:/missing_18n_labels.py:413
-msgid "june"
-msgstr "jún"
+msgid "hour"
+msgstr "Hodina"
 
 #: osha.policy:/missing_18n_labels.py:414
-msgid "keywords"
-msgstr "Kľúčové slová"
+msgid "id"
+msgstr "Identifikátor"
 
 #: osha.policy:/missing_18n_labels.py:415
-msgid "label_add_to_calendar"
-msgstr "Pridať do kalendára:"
+msgid "info_alert_searchagent"
+msgstr ""
+"Môžete špecifikovať vyhľadávací dopyt pre objekty, ktoré chcete monitorovať. "
+"Budete upozornený, keď boli zmenené."
 
 #: osha.policy:/missing_18n_labels.py:416
-msgid "label_add_to_ical"
-msgstr "iCal"
+msgid "info_feedback_message_checkbefore"
+msgstr ""
+"Pred zaslaním otázky skontrolujte, prosím, naše ${link1} a ${link2} stránky."
 
 #: osha.policy:/missing_18n_labels.py:417
-msgid "label_add_to_vcal"
-msgstr "vCal"
+msgid "info_feedback_message_publications"
+msgstr ""
+"Všetky publikácie agentúry sú ${link}. Nemáme žiadne ďalšie informácie okrem "
+"tých, ktoré sú v našej sieti alebo na internetových stránkach.&quot;"
 
-# Default "Albania"
 #: osha.policy:/missing_18n_labels.py:418
-msgid "label_albania"
-msgstr "Albánsko"
+msgid "info_feedback_message_writemessage"
+msgstr ""
+"Môžete nám napísať v ktoromkoľvek z 20 oficiálnych jazykov EÚ. Vezmite však "
+"do úvahy, že môže istý čas  trvať, kým preložíme vašu správu a našu odpoveď. "
+"Na správy v angličtine budeme pravdepodobne odpovedať rýchlejšie, pretože "
+"ňou hovoria všetci pracovníci agentúry. Snažíme sa odpovedať na otázky čo "
+"najskôr."
 
 #: osha.policy:/missing_18n_labels.py:419
-msgid "label_alert_titlesearchquery"
-msgstr "Názov vyhľadávacieho dopytu"
+msgid "is"
+msgstr "je"
 
 # Default "Luxembourgish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2072,49 +2079,45 @@ msgid "heading_main_fop_portlet_luxembourg"
 msgstr "Koordinačné stredisko v Luxembursku"
 
 #: osha.policy:/missing_18n_labels.py:420
-msgid "label_all"
-msgstr "Všetky"
+msgid "january"
+msgstr "január"
 
-# Default "Austria"
 #: osha.policy:/missing_18n_labels.py:421
-msgid "label_austria"
-msgstr "Rakúsko"
+msgid "july"
+msgstr "júl"
 
 #: osha.policy:/missing_18n_labels.py:422
-msgid "label_author"
-msgstr "Autor"
+msgid "june"
+msgstr "jún"
 
 #: osha.policy:/missing_18n_labels.py:423
-msgid "label_avi"
-msgstr "AVI"
+msgid "keywords"
+msgstr "Kľúčové slová"
 
-# FOP Countries
-# Default "Belgium"
 #: osha.policy:/missing_18n_labels.py:424
-msgid "label_belgium"
-msgstr "Belgicko"
+msgid "label_add_to_calendar"
+msgstr "Pridať do kalendára:"
 
-# Default "Bosnia and Herzegovina"
 #: osha.policy:/missing_18n_labels.py:425
-msgid "label_bosnia_and_herzegovina"
-msgstr "Bosna a Herzegovina"
+msgid "label_add_to_ical"
+msgstr "iCal"
 
 #: osha.policy:/missing_18n_labels.py:426
-msgid "label_broaden_search"
-msgstr "Rozšíriť vyhľadávanie"
+msgid "label_add_to_vcal"
+msgstr "vCal"
 
-# Default "Bulgaria"
+# Default "Albania"
 #: osha.policy:/missing_18n_labels.py:427
-msgid "label_bulgaria"
-msgstr "Bulharsko"
+msgid "label_albania"
+msgstr "Albánsko"
 
 #: osha.policy:/missing_18n_labels.py:428
-msgid "label_by"
-msgstr "kým"
+msgid "label_alert_titlesearchquery"
+msgstr "Názov vyhľadávacieho dopytu"
 
 #: osha.policy:/missing_18n_labels.py:429
-msgid "label_category"
-msgstr "Kategória"
+msgid "label_all"
+msgstr "Všetky"
 
 # Default "Maltese Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2122,46 +2125,50 @@ msgstr "Kategória"
 msgid "heading_main_fop_portlet_malta"
 msgstr "Koordinačné stredisko na Malte"
 
+# Default "Austria"
 #: osha.policy:/missing_18n_labels.py:430
-msgid "label_city"
-msgstr "Mesto"
+msgid "label_austria"
+msgstr "Rakúsko"
 
 #: osha.policy:/missing_18n_labels.py:431
-msgid "label_click_to_hide_full_text"
-msgstr "Schovať úplné znenie textu"
+msgid "label_author"
+msgstr "Autor"
 
 #: osha.policy:/missing_18n_labels.py:432
-msgid "label_click_to_see_speeches_summary"
-msgstr "Zhrnutie vsetkých prejavov"
+msgid "label_avi"
+msgstr "AVI"
 
+# FOP Countries
+# Default "Belgium"
 #: osha.policy:/missing_18n_labels.py:433
-msgid "label_click_to_show_full_text"
-msgstr "Zobraziť úplné znenie textu"
+msgid "label_belgium"
+msgstr "Belgicko"
 
+# Default "Bosnia and Herzegovina"
 #: osha.policy:/missing_18n_labels.py:434
-msgid "label_closed"
-msgstr "zatvorené"
+msgid "label_bosnia_and_herzegovina"
+msgstr "Bosna a Herzegovina"
 
 #: osha.policy:/missing_18n_labels.py:435
-msgid "label_comment"
-msgstr "Pripomienka"
+msgid "label_broaden_search"
+msgstr "Rozšíriť vyhľadávanie"
 
+# Default "Bulgaria"
 #: osha.policy:/missing_18n_labels.py:436
-msgid "label_comments"
-msgstr "Pripomienky"
+msgid "label_bulgaria"
+msgstr "Bulharsko"
 
-# Competitions
 #: osha.policy:/missing_18n_labels.py:437
-msgid "label_competitions"
-msgstr "Súťaže"
+msgid "label_by"
+msgstr "kým"
 
 #: osha.policy:/missing_18n_labels.py:438
-msgid "label_contact_email"
-msgstr "Kontaktný e-mail"
+msgid "label_category"
+msgstr "Kategória"
 
 #: osha.policy:/missing_18n_labels.py:439
-msgid "label_contact_name"
-msgstr "Kontaktné meno"
+msgid "label_city"
+msgstr "Mesto"
 
 # Default "Montenegrin Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2170,47 +2177,45 @@ msgid "heading_main_fop_portlet_montenegro"
 msgstr "Koordinačné stredisko v Čiernej Hore"
 
 #: osha.policy:/missing_18n_labels.py:440
-msgid "label_contact_phone"
-msgstr "Kontaktný telefón"
+msgid "label_click_to_hide_full_text"
+msgstr "Schovať úplné znenie textu"
 
 #: osha.policy:/missing_18n_labels.py:441
-msgid "label_contributors"
-msgstr "Prispievatelia"
+msgid "label_click_to_see_speeches_summary"
+msgstr "Zhrnutie vsetkých prejavov"
 
 #: osha.policy:/missing_18n_labels.py:442
-msgid "label_copyrights"
-msgstr "Autorské práva"
+msgid "label_click_to_show_full_text"
+msgstr "Zobraziť úplné znenie textu"
 
 #: osha.policy:/missing_18n_labels.py:443
-msgid "label_countries"
-msgstr "Krajiny"
+msgid "label_closed"
+msgstr "zatvorené"
 
 #: osha.policy:/missing_18n_labels.py:444
-msgid "label_creator"
-msgstr "Tvorca"
+msgid "label_comment"
+msgstr "Pripomienka"
 
-# Default "Croatia"
 #: osha.policy:/missing_18n_labels.py:445
-msgid "label_croatia"
-msgstr "Chorvátsko"
+msgid "label_comments"
+msgstr "Pripomienky"
 
+# Competitions
 #: osha.policy:/missing_18n_labels.py:446
-msgid "label_current_decision"
-msgstr "Súčasné rozhodnutie"
+msgid "label_competitions"
+msgstr "Súťaže"
 
-# Default "Cyprus"
 #: osha.policy:/missing_18n_labels.py:447
-msgid "label_cyprus"
-msgstr "Cyprus"
+msgid "label_contact_email"
+msgstr "Kontaktný e-mail"
 
-# Default "Czech Republic"
 #: osha.policy:/missing_18n_labels.py:448
-msgid "label_czech_republic"
-msgstr "Česká republika"
+msgid "label_contact_name"
+msgstr "Kontaktné meno"
 
 #: osha.policy:/missing_18n_labels.py:449
-msgid "label_date"
-msgstr "Dátum"
+msgid "label_contact_phone"
+msgstr "Kontaktný telefón"
 
 # Default "Dutch Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2219,48 +2224,47 @@ msgid "heading_main_fop_portlet_netherlands"
 msgstr "Koordinačné stredisko v Holandsku"
 
 #: osha.policy:/missing_18n_labels.py:450
-msgid "label_default_language"
-msgstr "Štandardný jazyk"
+msgid "label_contributors"
+msgstr "Prispievatelia"
 
-# Default "Denmark"
 #: osha.policy:/missing_18n_labels.py:451
-msgid "label_denmark"
-msgstr "Dánsko"
+msgid "label_copyrights"
+msgstr "Autorské práva"
 
-# Default "Estonia"
 #: osha.policy:/missing_18n_labels.py:452
-msgid "label_estonia"
-msgstr "Estónsko"
+msgid "label_countries"
+msgstr "Krajiny"
 
 #: osha.policy:/missing_18n_labels.py:453
-msgid "label_faq_answertext"
-msgstr "Hlavný text odpovede"
+msgid "label_creator"
+msgstr "Tvorca"
 
+# Default "Croatia"
 #: osha.policy:/missing_18n_labels.py:454
-msgid "label_faq_questiontext"
-msgstr "Hlavný text otázky"
+msgid "label_croatia"
+msgstr "Chorvátsko"
 
 #: osha.policy:/missing_18n_labels.py:455
-msgid "label_female"
-msgstr "ženský"
+msgid "label_current_decision"
+msgstr "Súčasné rozhodnutie"
 
-# Default "Finland"
+# Default "Cyprus"
 #: osha.policy:/missing_18n_labels.py:456
-msgid "label_finland"
-msgstr "Fínsko"
+msgid "label_cyprus"
+msgstr "Cyprus"
 
-# # 1 more: ./OSHA/skins/osha/join_form.cpt
+# Default "Czech Republic"
 #: osha.policy:/missing_18n_labels.py:457
-msgid "label_first_name"
-msgstr "Meno"
+msgid "label_czech_republic"
+msgstr "Česká republika"
 
 #: osha.policy:/missing_18n_labels.py:458
-msgid "label_firstname"
-msgstr "Meno"
+msgid "label_date"
+msgstr "Dátum"
 
 #: osha.policy:/missing_18n_labels.py:459
-msgid "label_focalpoint"
-msgstr "Kontaktné miesto"
+msgid "label_default_language"
+msgstr "Štandardný jazyk"
 
 # Default "Norwegian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2268,50 +2272,49 @@ msgstr "Kontaktné miesto"
 msgid "heading_main_fop_portlet_norway"
 msgstr "Koordinačné stredisko v Nórsku"
 
+# Default "Denmark"
 #: osha.policy:/missing_18n_labels.py:460
-msgid "label_folder_method"
-msgstr "Method ID"
+msgid "label_denmark"
+msgstr "Dánsko"
 
-# Default "France"
+# Default "Estonia"
 #: osha.policy:/missing_18n_labels.py:461
-msgid "label_france"
-msgstr "Francúzsko"
+msgid "label_estonia"
+msgstr "Estónsko"
 
 #: osha.policy:/missing_18n_labels.py:462
-msgid "label_free_newsletter"
-msgstr "Bezplatné spravodajstvo"
+msgid "label_faq_answertext"
+msgstr "Hlavný text odpovede"
 
 #: osha.policy:/missing_18n_labels.py:463
-msgid "label_full_name"
-msgstr "Celé meno"
+msgid "label_faq_questiontext"
+msgstr "Hlavný text otázky"
 
-# Default "Germany"
 #: osha.policy:/missing_18n_labels.py:464
-msgid "label_germany"
-msgstr "Nemecko"
+msgid "label_female"
+msgstr "ženský"
 
-# Default "Greece"
+# Default "Finland"
 #: osha.policy:/missing_18n_labels.py:465
-msgid "label_greece"
-msgstr "Grécko"
+msgid "label_finland"
+msgstr "Fínsko"
 
+# # 1 more: ./OSHA/skins/osha/join_form.cpt
 #: osha.policy:/missing_18n_labels.py:466
-msgid "label_hidden"
-msgstr "skrytý"
+msgid "label_first_name"
+msgstr "Meno"
 
-# Default "Hungary"
 #: osha.policy:/missing_18n_labels.py:467
-msgid "label_hungary"
-msgstr "Maďarsko"
+msgid "label_firstname"
+msgstr "Meno"
 
-# Default "Iceland"
 #: osha.policy:/missing_18n_labels.py:468
-msgid "label_iceland"
-msgstr "Island"
+msgid "label_focalpoint"
+msgstr "Kontaktné miesto"
 
 #: osha.policy:/missing_18n_labels.py:469
-msgid "label_include_subfolders"
-msgstr "Vrátane podpriečinkov"
+msgid "label_folder_method"
+msgstr "Method ID"
 
 # Default "Polish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2319,53 +2322,51 @@ msgstr "Vrátane podpriečinkov"
 msgid "heading_main_fop_portlet_poland"
 msgstr "Koordinačné stredisko v Poľsku"
 
-# Default "Ireland"
+# Default "France"
 #: osha.policy:/missing_18n_labels.py:470
-msgid "label_ireland"
-msgstr "Írsko"
+msgid "label_france"
+msgstr "Francúzsko"
 
-# Default "Italy"
 #: osha.policy:/missing_18n_labels.py:471
-msgid "label_italy"
-msgstr "Taliansko"
+msgid "label_free_newsletter"
+msgstr "Bezplatné spravodajstvo"
 
 #: osha.policy:/missing_18n_labels.py:472
-msgid "label_keywords"
-msgstr "Kľúčové slová"
+msgid "label_full_name"
+msgstr "Celé meno"
 
-# Default "Kosovo under UNSCR 1244/99"
+# Default "Germany"
 #: osha.policy:/missing_18n_labels.py:473
-msgid "label_kosovo"
-msgstr "Kosovo podľa rezolúcie Bezpečnostnej rady OSN č. 1244/99"
+msgid "label_germany"
+msgstr "Nemecko"
 
-# Default "Latvia"
+# Default "Greece"
 #: osha.policy:/missing_18n_labels.py:474
-msgid "label_latvia"
-msgstr "Lotyssko"
+msgid "label_greece"
+msgstr "Grécko"
 
-# Default "Liechtenstein"
 #: osha.policy:/missing_18n_labels.py:475
-msgid "label_liechtenstein"
-msgstr "Lichtenstajnsko"
+msgid "label_hidden"
+msgstr "skrytý"
 
-# Default "Lithuania"
+# Default "Hungary"
 #: osha.policy:/missing_18n_labels.py:476
-msgid "label_lithuania"
-msgstr "Litva"
+msgid "label_hungary"
+msgstr "Maďarsko"
 
-# Default "Luxembourg"
+# Default "Iceland"
 #: osha.policy:/missing_18n_labels.py:477
-msgid "label_luxembourg"
-msgstr "Luxembursko"
+msgid "label_iceland"
+msgstr "Island"
 
-# Default "The former Yugoslav Republic of Macedonia"
 #: osha.policy:/missing_18n_labels.py:478
-msgid "label_macedonia"
-msgstr "Bývalá juhoslovanská republika Macedónsko"
+msgid "label_include_subfolders"
+msgstr "Vrátane podpriečinkov"
 
+# Default "Ireland"
 #: osha.policy:/missing_18n_labels.py:479
-msgid "label_male"
-msgstr "Mužský"
+msgid "label_ireland"
+msgstr "Írsko"
 
 # Default "Portuguese Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2373,50 +2374,53 @@ msgstr "Mužský"
 msgid "heading_main_fop_portlet_portugal"
 msgstr "Koordinačné stredisko v Portugalsku"
 
-# Default "Malta"
+# Default "Italy"
 #: osha.policy:/missing_18n_labels.py:480
-msgid "label_malta"
-msgstr "Malta"
+msgid "label_italy"
+msgstr "Taliansko"
 
-# Default "Montenegro"
 #: osha.policy:/missing_18n_labels.py:481
-msgid "label_montenegro"
-msgstr "Čierna Hora"
+msgid "label_keywords"
+msgstr "Kľúčové slová"
 
+# Default "Kosovo under UNSCR 1244/99"
 #: osha.policy:/missing_18n_labels.py:482
-msgid "label_more_seminars_link"
-msgstr "Zobraziť viac seminárov"
+msgid "label_kosovo"
+msgstr "Kosovo podľa rezolúcie Bezpečnostnej rady OSN č. 1244/99"
 
+# Default "Latvia"
 #: osha.policy:/missing_18n_labels.py:483
-msgid "label_my_user_name_is"
-msgstr "Moje užívateľské meno je"
+msgid "label_latvia"
+msgstr "Lotyssko"
 
-# # 1 more: ./plone_prefs/prefs_group_details.pt
+# Default "Liechtenstein"
 #: osha.policy:/missing_18n_labels.py:484
-msgid "label_name"
-msgstr "Meno"
+msgid "label_liechtenstein"
+msgstr "Lichtenstajnsko"
 
-# Default "Netherlands"
+# Default "Lithuania"
 #: osha.policy:/missing_18n_labels.py:485
-msgid "label_netherlands"
-msgstr "Holandsko"
+msgid "label_lithuania"
+msgstr "Litva"
 
+# Default "Luxembourg"
 #: osha.policy:/missing_18n_labels.py:486
-msgid "label_no_seminars_found"
-msgstr "Nenasli sa žiadne semináre zodpovedajúce vasim kritériám"
+msgid "label_luxembourg"
+msgstr "Luxembursko"
 
-# Default "Norway"
+# Default "The former Yugoslav Republic of Macedonia"
 #: osha.policy:/missing_18n_labels.py:487
-msgid "label_norway"
-msgstr "Nórsko"
+msgid "label_macedonia"
+msgstr "Bývalá juhoslovanská republika Macedónsko"
 
 #: osha.policy:/missing_18n_labels.py:488
-msgid "label_notifications"
-msgstr "Oznámenia"
+msgid "label_male"
+msgstr "Mužský"
 
+# Default "Malta"
 #: osha.policy:/missing_18n_labels.py:489
-msgid "label_older_competitions"
-msgstr "predchádzajúce súťaže"
+msgid "label_malta"
+msgstr "Malta"
 
 # Default "Romanian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2424,47 +2428,49 @@ msgstr "predchádzajúce súťaže"
 msgid "heading_main_fop_portlet_romania"
 msgstr "Koordinačné stredisko v Rumunsku"
 
+# Default "Montenegro"
 #: osha.policy:/missing_18n_labels.py:490
-msgid "label_osha_searchcountries"
-msgstr "Vylepšiť vyhľadávací parameter &quot;krajiny&quot;"
+msgid "label_montenegro"
+msgstr "Čierna Hora"
 
 #: osha.policy:/missing_18n_labels.py:491
-msgid "label_osha_searchlanguages"
-msgstr "Vylepšiť vyhľadávací parameter &quot;jazyky&quot;"
+msgid "label_more_seminars_link"
+msgstr "Zobraziť viac seminárov"
 
 #: osha.policy:/missing_18n_labels.py:492
-msgid "label_osha_support_email"
-msgstr "Podpora e-mailovej adresy"
+msgid "label_my_user_name_is"
+msgstr "Moje užívateľské meno je"
 
+# # 1 more: ./plone_prefs/prefs_group_details.pt
 #: osha.policy:/missing_18n_labels.py:493
-msgid "label_osha_uploadsource"
-msgstr "Presunúť zdroj"
+msgid "label_name"
+msgstr "Meno"
 
-# Default "Poland"
+# Default "Netherlands"
 #: osha.policy:/missing_18n_labels.py:494
-msgid "label_poland"
-msgstr "Poľsko"
+msgid "label_netherlands"
+msgstr "Holandsko"
 
-# Default "Portugal"
 #: osha.policy:/missing_18n_labels.py:495
-msgid "label_portugal"
-msgstr "Portugalsko"
+msgid "label_no_seminars_found"
+msgstr "Nenasli sa žiadne semináre zodpovedajúce vasim kritériám"
 
+# Default "Norway"
 #: osha.policy:/missing_18n_labels.py:496
-msgid "label_position"
-msgstr "Pozícia"
+msgid "label_norway"
+msgstr "Nórsko"
 
 #: osha.policy:/missing_18n_labels.py:497
-msgid "label_prescribe"
-msgstr "predpísať"
+msgid "label_notifications"
+msgstr "Oznámenia"
 
 #: osha.policy:/missing_18n_labels.py:498
-msgid "label_priority"
-msgstr "Priorita"
+msgid "label_older_competitions"
+msgstr "predchádzajúce súťaže"
 
 #: osha.policy:/missing_18n_labels.py:499
-msgid "label_process"
-msgstr "Typ pracovných operácií"
+msgid "label_osha_searchcountries"
+msgstr "Vylepšiť vyhľadávací parameter &quot;krajiny&quot;"
 
 # Default "Serbian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2473,47 +2479,46 @@ msgid "heading_main_fop_portlet_serbia"
 msgstr "Koordinačné stredisko v Srbsku"
 
 #: osha.policy:/missing_18n_labels.py:500
-msgid "label_process_description"
-msgstr "Opis procesu"
+msgid "label_osha_searchlanguages"
+msgstr "Vylepšiť vyhľadávací parameter &quot;jazyky&quot;"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
 #: osha.policy:/missing_18n_labels.py:501
-msgid "label_process_title"
-msgstr "Názov procesu"
+msgid "label_osha_support_email"
+msgstr "Podpora e-mailovej adresy"
 
 #: osha.policy:/missing_18n_labels.py:502
-msgid "label_profession"
-msgstr "Profesia"
+msgid "label_osha_uploadsource"
+msgstr "Presunúť zdroj"
 
+# Default "Poland"
 #: osha.policy:/missing_18n_labels.py:503
-msgid "label_profile"
-msgstr "Profil"
+msgid "label_poland"
+msgstr "Poľsko"
 
+# Default "Portugal"
 #: osha.policy:/missing_18n_labels.py:504
-msgid "label_projects"
-msgstr "Projekty"
+msgid "label_portugal"
+msgstr "Portugalsko"
 
-# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
 #: osha.policy:/missing_18n_labels.py:505
-msgid "label_publisher"
-msgstr "Vydavateľ"
+msgid "label_position"
+msgstr "Pozícia"
 
 #: osha.policy:/missing_18n_labels.py:506
-msgid "label_publishing_effective"
-msgstr "účinný"
+msgid "label_prescribe"
+msgstr "predpísať"
 
 #: osha.policy:/missing_18n_labels.py:507
-msgid "label_purpose"
-msgstr "Chcem odoslať ..."
+msgid "label_priority"
+msgstr "Priorita"
 
-# Default "Romania"
 #: osha.policy:/missing_18n_labels.py:508
-msgid "label_romania"
-msgstr "Rumunsko"
+msgid "label_process"
+msgstr "Typ pracovných operácií"
 
 #: osha.policy:/missing_18n_labels.py:509
-msgid "label_sector"
-msgstr "Sektor"
+msgid "label_process_description"
+msgstr "Opis procesu"
 
 # Default "Slovakian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2521,53 +2526,48 @@ msgstr "Sektor"
 msgid "heading_main_fop_portlet_slovakia"
 msgstr "Koordinačné stredisko na Slovensku"
 
+# # 1 more: ./elevateIT/skins/eIT_workflow/wf_show_instructions.pt
 #: osha.policy:/missing_18n_labels.py:510
-msgid "label_see_also"
-msgstr "Pozri aj"
+msgid "label_process_title"
+msgstr "Názov procesu"
 
-# # 1 more: ./plone_templates/folder_contents.pt
 #: osha.policy:/missing_18n_labels.py:511
-#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
-#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:654
-msgid "label_select"
-msgstr "Zvoliť"
+msgid "label_profession"
+msgstr "Profesia"
 
 #: osha.policy:/missing_18n_labels.py:512
-msgid "label_send_from"
-msgstr "Od"
+msgid "label_profile"
+msgstr "Profil"
 
 #: osha.policy:/missing_18n_labels.py:513
-msgid "label_send_to_mail"
-msgstr "Odoslať"
+msgid "label_projects"
+msgstr "Projekty"
 
-# Default "Serbia"
+# # 1 more: ./OSHA/skins/osha/metadata_edit_form.cpt
 #: osha.policy:/missing_18n_labels.py:514
-msgid "label_serbia"
-msgstr "Srbsko"
+msgid "label_publisher"
+msgstr "Vydavateľ"
 
-# # 1 more: ./plone_content/image_view.pt
 #: osha.policy:/missing_18n_labels.py:515
-msgid "label_size"
-msgstr "Veľkosť"
+msgid "label_publishing_effective"
+msgstr "účinný"
 
-# Default "Slovakia"
 #: osha.policy:/missing_18n_labels.py:516
-msgid "label_slovakia"
-msgstr "Slovensko"
+msgid "label_purpose"
+msgstr "Chcem odoslať ..."
 
-# Default "Slovenia"
+# Default "Romania"
 #: osha.policy:/missing_18n_labels.py:517
-msgid "label_slovenia"
-msgstr "Slovinsko"
+msgid "label_romania"
+msgstr "Rumunsko"
 
-# Default "Spain"
 #: osha.policy:/missing_18n_labels.py:518
-msgid "label_spain"
-msgstr "Spanielsko"
+msgid "label_sector"
+msgstr "Sektor"
 
 #: osha.policy:/missing_18n_labels.py:519
-msgid "label_start_time"
-msgstr "Čas začiatku"
+msgid "label_see_also"
+msgstr "Pozri aj"
 
 # Default "Slovenian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2575,54 +2575,53 @@ msgstr "Čas začiatku"
 msgid "heading_main_fop_portlet_slovenia"
 msgstr "Koordinačné stredisko v Slovinsku"
 
+# # 1 more: ./plone_templates/folder_contents.pt
 #: osha.policy:/missing_18n_labels.py:520
-msgid "label_surname"
-msgstr "Priezvisko"
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:127
+#: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:654
+msgid "label_select"
+msgstr "Zvoliť"
 
-# Default "Sweden"
 #: osha.policy:/missing_18n_labels.py:521
-msgid "label_sweden"
-msgstr "Svédsko"
+msgid "label_send_from"
+msgstr "Od"
 
-# Default "Switzerland"
 #: osha.policy:/missing_18n_labels.py:522
-msgid "label_switzerland"
-msgstr "Svajčiarsko"
+msgid "label_send_to_mail"
+msgstr "Odoslať"
 
+# Default "Serbia"
 #: osha.policy:/missing_18n_labels.py:523
-msgid "label_time"
-msgstr "Čas"
+msgid "label_serbia"
+msgstr "Srbsko"
 
-# # 6 more: ./plone_content/event_edit_form.cpt,
-# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
-# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
-# ./plone_forms/search_form.pt
+# # 1 more: ./plone_content/image_view.pt
 #: osha.policy:/missing_18n_labels.py:524
-msgid "label_title"
-msgstr "Názov"
+msgid "label_size"
+msgstr "Veľkosť"
 
+# Default "Slovakia"
 #: osha.policy:/missing_18n_labels.py:525
-msgid "label_topics_of_interest"
-msgstr "Záujmové témy"
+msgid "label_slovakia"
+msgstr "Slovensko"
 
-# Default "Turkey"
+# Default "Slovenia"
 #: osha.policy:/missing_18n_labels.py:526
-msgid "label_turkey"
-msgstr "Turecko"
+msgid "label_slovenia"
+msgstr "Slovinsko"
 
-# # 1 more: ./plone_forms/folder_localrole_form.pt
+# Default "Spain"
 #: osha.policy:/missing_18n_labels.py:527
-msgid "label_type"
-msgstr "Typ"
+msgid "label_spain"
+msgstr "Spanielsko"
 
-# Default "United Kingdom"
 #: osha.policy:/missing_18n_labels.py:528
-msgid "label_united_kingdom"
-msgstr "Spojené kráľovstvo"
+msgid "label_start_time"
+msgstr "Čas začiatku"
 
 #: osha.policy:/missing_18n_labels.py:529
-msgid "language"
-msgstr "Jazyk"
+msgid "label_surname"
+msgstr "Priezvisko"
 
 # Default "Spanish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2630,50 +2629,55 @@ msgstr "Jazyk"
 msgid "heading_main_fop_portlet_spain"
 msgstr "Koordinačné stredisko v Španielsku"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+# Default "Sweden"
 #: osha.policy:/missing_18n_labels.py:530
-msgid "language_help"
-msgstr "Zvoľte váš jazyk."
+msgid "label_sweden"
+msgstr "Svédsko"
 
+# Default "Switzerland"
 #: osha.policy:/missing_18n_labels.py:531
-msgid "legend_alert_searchquery"
-msgstr "Upozorniť na vyhľadávací dopyt"
+msgid "label_switzerland"
+msgstr "Svajčiarsko"
 
 #: osha.policy:/missing_18n_labels.py:532
-msgid "legend_profession"
-msgstr "Povolanie"
+msgid "label_time"
+msgstr "Čas"
 
-# # 1 more: ./OSHA/skins/osha/search_macros.pt
+# # 6 more: ./plone_content/event_edit_form.cpt,
+# ./plone_content/file_edit_form.cpt, ./plone_content/folder_edit_form.cpt,
+# ./plone_content/image_edit_form.cpt, ./plone_content/link_edit_form.cpt,
+# ./plone_forms/search_form.pt
 #: osha.policy:/missing_18n_labels.py:533
-msgid "legend_search_global"
-msgstr "Globálne vyhľadávanie"
+msgid "label_title"
+msgstr "Názov"
 
 #: osha.policy:/missing_18n_labels.py:534
-msgid "link_address"
-msgstr "Adresa spojenia je:"
+msgid "label_topics_of_interest"
+msgstr "Záujmové témy"
 
-# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
+# Default "Turkey"
 #: osha.policy:/missing_18n_labels.py:535
-msgid "link_breadcrumbs_home"
-msgstr "Úvodná stránka"
+msgid "label_turkey"
+msgstr "Turecko"
 
-# # 1 more:
-# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
+# # 1 more: ./plone_forms/folder_localrole_form.pt
 #: osha.policy:/missing_18n_labels.py:536
-msgid "link_page_top"
-msgstr "Vrch stránky"
+msgid "label_type"
+msgstr "Typ"
 
+# Default "United Kingdom"
 #: osha.policy:/missing_18n_labels.py:537
-msgid "link_report_link"
-msgstr "oznámte prerušené spojenie portálovému tímu"
+msgid "label_united_kingdom"
+msgstr "Spojené kráľovstvo"
 
 #: osha.policy:/missing_18n_labels.py:538
-msgid "list_portlet_personalise_1"
-msgstr "jazyku podľa vášho výberu"
+msgid "language"
+msgstr "Jazyk"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:539
-msgid "list_portlet_personalise_2"
-msgstr "krajiny podľa vášho výberu"
+msgid "language_help"
+msgstr "Zvoľte váš jazyk."
 
 # Default "Swedish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2682,46 +2686,48 @@ msgid "heading_main_fop_portlet_sweden"
 msgstr "Koordinačné stredisko vo Švédsku"
 
 #: osha.policy:/missing_18n_labels.py:540
-msgid "list_portlet_personalise_3"
-msgstr "zúčastňovať sa na diskusných fórach"
+msgid "legend_alert_searchquery"
+msgstr "Upozorniť na vyhľadávací dopyt"
 
 #: osha.policy:/missing_18n_labels.py:541
-msgid "list_portlet_personalise_4"
-msgstr "aktualizácii vašich obľúbených tém"
+msgid "legend_profession"
+msgstr "Povolanie"
 
+# # 1 more: ./OSHA/skins/osha/search_macros.pt
 #: osha.policy:/missing_18n_labels.py:542
-msgid "listingheader_action"
-msgstr "Zásah"
+msgid "legend_search_global"
+msgstr "Globálne vyhľadávanie"
 
 #: osha.policy:/missing_18n_labels.py:543
-msgid "listingheader_articles"
-msgstr "Články"
+msgid "link_address"
+msgstr "Adresa spojenia je:"
 
+# # 1 more: ./OSHA/skins/osha/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:544
-msgid "listingheader_articlesandreplies"
-msgstr "Články"
+msgid "link_breadcrumbs_home"
+msgstr "Úvodná stránka"
 
+# # 1 more:
+# ./OSHA_ContentTypes/skins/osha_contenttypes/oshcategories_listing.pt
 #: osha.policy:/missing_18n_labels.py:545
-msgid "listingheader_author"
-msgstr "Autor"
+msgid "link_page_top"
+msgstr "Vrch stránky"
 
 #: osha.policy:/missing_18n_labels.py:546
-msgid "listingheader_comment"
-msgstr "Pripomienka"
+msgid "link_report_link"
+msgstr "oznámte prerušené spojenie portálovému tímu"
 
-# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
 #: osha.policy:/missing_18n_labels.py:547
-msgid "listingheader_date"
-msgstr "Dátum"
+msgid "list_portlet_personalise_1"
+msgstr "jazyku podľa vášho výberu"
 
 #: osha.policy:/missing_18n_labels.py:548
-msgid "listingheader_date_and_time"
-msgstr "Dátum a čas"
+msgid "list_portlet_personalise_2"
+msgstr "krajiny podľa vášho výberu"
 
-# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:549
-msgid "listingheader_latestchanges"
-msgstr "Najnovšie zmeny"
+msgid "list_portlet_personalise_3"
+msgstr "zúčastňovať sa na diskusných fórach"
 
 # Default "Swiss Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2729,46 +2735,48 @@ msgstr "Najnovšie zmeny"
 msgid "heading_main_fop_portlet_switzerland"
 msgstr "Koordinačné stredisko vo Švajčiarsku"
 
-# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
 #: osha.policy:/missing_18n_labels.py:550
-msgid "listingheader_name"
-msgstr "Meno"
+msgid "list_portlet_personalise_4"
+msgstr "aktualizácii vašich obľúbených tém"
 
 #: osha.policy:/missing_18n_labels.py:551
-msgid "listingheader_newsletter_sentby"
-msgstr "Odosielateľ"
+msgid "listingheader_action"
+msgstr "Zásah"
 
 #: osha.policy:/missing_18n_labels.py:552
-msgid "listingheader_newsletter_senton"
-msgstr "Odoslané na"
+msgid "listingheader_articles"
+msgstr "Články"
 
 #: osha.policy:/missing_18n_labels.py:553
-msgid "listingheader_order"
-msgstr "Poradie"
+msgid "listingheader_articlesandreplies"
+msgstr "Články"
 
 #: osha.policy:/missing_18n_labels.py:554
-msgid "listingheader_owner"
-msgstr "Vlastník"
+msgid "listingheader_author"
+msgstr "Autor"
 
 #: osha.policy:/missing_18n_labels.py:555
-msgid "listingheader_performed_by"
-msgstr "Vykonal"
+msgid "listingheader_comment"
+msgstr "Pripomienka"
 
+# # 1 more: ./elevateIT/skins/eIT_workflow/worklist.pt
 #: osha.policy:/missing_18n_labels.py:556
-msgid "listingheader_priority"
-msgstr "Priorita"
+msgid "listingheader_date"
+msgstr "Dátum"
 
 #: osha.policy:/missing_18n_labels.py:557
-msgid "listingheader_replies"
-msgstr "Odpovede"
+msgid "listingheader_date_and_time"
+msgstr "Dátum a čas"
 
+# # 1 more: ./eITForum/skins/eIT_forum/discussioncenter_view.pt
 #: osha.policy:/missing_18n_labels.py:558
-msgid "listingheader_status"
-msgstr "Stav"
+msgid "listingheader_latestchanges"
+msgstr "Najnovšie zmeny"
 
+# # 1 more: ./plone_prefs/prefs_user_group_search_form.pt
 #: osha.policy:/missing_18n_labels.py:559
-msgid "listingheader_title"
-msgstr "Názov"
+msgid "listingheader_name"
+msgstr "Meno"
 
 # Default "Macedonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2777,47 +2785,44 @@ msgid "heading_main_fop_portlet_the-former-yugoslav-republic-of-macedonia"
 msgstr "Koordinačné stredisko v Macedónsku"
 
 #: osha.policy:/missing_18n_labels.py:560
-msgid "listingheader_type"
-msgstr "Typ"
+msgid "listingheader_newsletter_sentby"
+msgstr "Odosielateľ"
 
 #: osha.policy:/missing_18n_labels.py:561
-msgid "locked"
-msgstr "blokovaný"
+msgid "listingheader_newsletter_senton"
+msgstr "Odoslané na"
 
 #: osha.policy:/missing_18n_labels.py:562
-msgid "march"
-msgstr "marec"
+msgid "listingheader_order"
+msgstr "Poradie"
 
 #: osha.policy:/missing_18n_labels.py:563
-msgid "may"
-msgstr "máj"
+msgid "listingheader_owner"
+msgstr "Vlastník"
 
 #: osha.policy:/missing_18n_labels.py:564
-msgid "minute"
-msgstr "Minúta"
+msgid "listingheader_performed_by"
+msgstr "Vykonal"
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:565
-msgid "month"
-msgstr "Mesiac"
+msgid "listingheader_priority"
+msgstr "Priorita"
 
 #: osha.policy:/missing_18n_labels.py:566
-msgid "monthly"
-msgstr "mesačne"
+msgid "listingheader_replies"
+msgstr "Odpovede"
 
 #: osha.policy:/missing_18n_labels.py:567
-msgid "needed"
-msgstr "požadovaný"
+msgid "listingheader_status"
+msgstr "Stav"
 
-# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
-# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
 #: osha.policy:/missing_18n_labels.py:568
-msgid "news_by"
-msgstr "kým"
+msgid "listingheader_title"
+msgstr "Názov"
 
 #: osha.policy:/missing_18n_labels.py:569
-msgid "next"
-msgstr "nasledujúci"
+msgid "listingheader_type"
+msgstr "Typ"
 
 # Default "Turkish Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2826,40 +2831,47 @@ msgid "heading_main_fop_portlet_turkey"
 msgstr "Koordinačné stredisko v Turecku"
 
 #: osha.policy:/missing_18n_labels.py:570
-msgid "no_alerts"
-msgstr "Nezaregistrovali ste žiadne upozornenia."
+msgid "locked"
+msgstr "blokovaný"
 
 #: osha.policy:/missing_18n_labels.py:571
-msgid "no_subject"
-msgstr "[Žiadny predmet]"
+msgid "march"
+msgstr "marec"
 
 #: osha.policy:/missing_18n_labels.py:572
-msgid "not allowed"
-msgstr "nepovolený"
+msgid "may"
+msgstr "máj"
 
 #: osha.policy:/missing_18n_labels.py:573
-msgid "notification_email"
-msgstr "Oznamovací e-mail"
+msgid "minute"
+msgstr "Minúta"
 
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:574
-msgid "november"
-msgstr "november"
+msgid "month"
+msgstr "Mesiac"
 
 #: osha.policy:/missing_18n_labels.py:575
-msgid "october"
-msgstr "október"
+msgid "monthly"
+msgstr "mesačne"
 
 #: osha.policy:/missing_18n_labels.py:576
-msgid "osha_description_pressbox_pressreleases"
-msgstr "These are our press releases:"
+msgid "needed"
+msgstr "požadovaný"
 
+# # 2 more: ./eITNews/skins/eIT_news/newsboard_view.pt,
+# ./eITNews/skins/eIT_news/newsboard_view_archive.pt
 #: osha.policy:/missing_18n_labels.py:577
-msgid "osha_discovernetwork_info"
-msgstr "Objavte našich európskych a medzinárodných partnerov"
+msgid "news_by"
+msgstr "kým"
 
 #: osha.policy:/missing_18n_labels.py:578
-msgid "osha_informationportlet_link"
-msgstr "Vaše spojenie na bezpečnosť a ochranu zdravia pri práci"
+msgid "next"
+msgstr "nasledujúci"
+
+#: osha.policy:/missing_18n_labels.py:579
+msgid "no_alerts"
+msgstr "Nezaregistrovali ste žiadne upozornenia."
 
 # Default "British Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -2867,54 +2879,42 @@ msgstr "Vaše spojenie na bezpečnosť a ochranu zdravia pri práci"
 msgid "heading_main_fop_portlet_united-kingdom"
 msgstr "Koordinačné stredisko vo Veľkej Británii"
 
-# Press Room
 #: osha.policy:/missing_18n_labels.py:580
-msgid "osha_label_press_room"
-msgstr "Tlačové stredisk"
+msgid "no_subject"
+msgstr "[Žiadny predmet]"
 
 #: osha.policy:/missing_18n_labels.py:581
-msgid "osha_networkportlet_info"
-msgstr ""
-"Naša sieť obsahuje internetové stránky po celom svete, ktoré poskytujú "
-"vnútroštátne a inštitucionálne informácie o OSH"
+msgid "not allowed"
+msgstr "nepovolený"
 
 #: osha.policy:/missing_18n_labels.py:582
-msgid "osha_networkportlet_link"
-msgstr "Ukázať internetové stránky partnerov"
+msgid "notification_email"
+msgstr "Oznamovací e-mail"
 
 #: osha.policy:/missing_18n_labels.py:583
-msgid "oshmail_header_subscribe"
-msgstr "zaregistrujte sa na odoberanie oshmail"
+msgid "november"
+msgstr "november"
 
 #: osha.policy:/missing_18n_labels.py:584
-msgid "oshmail_header_unsubscribe"
-msgstr "odhláste sa z odoberania oshmail"
+msgid "october"
+msgstr "október"
 
 #: osha.policy:/missing_18n_labels.py:585
-msgid "oshmail_intro_every_month"
-msgstr ""
-"${oshmail} vás každý mesiac informuje o najnovšom vývoji v oblasti "
-"bezpečnosti a ochrany zdravia pri práci, konkrétne o:"
+msgid "osha_description_pressbox_pressreleases"
+msgstr "These are our press releases:"
 
 #: osha.policy:/missing_18n_labels.py:586
-msgid "oshmail_intro_welcome"
-msgstr ""
-"Vitajte na stránkach ${oshmail} - elektronického informačného bulletinu "
-"Európskej agentúry pre bezpečnosť a ochranu zdravia pri práci."
+msgid "osha_discovernetwork_info"
+msgstr "Objavte našich európskych a medzinárodných partnerov"
 
 #: osha.policy:/missing_18n_labels.py:587
-msgid "oshmail_label_enter_emaiL"
-msgstr "zadajte váš e- mailový kontakt tu"
+msgid "osha_informationportlet_link"
+msgstr "Vaše spojenie na bezpečnosť a ochranu zdravia pri práci"
 
-#: osha.policy:/missing_18n_labels.py:588
-msgid "oshmail_list_1"
-msgstr ""
-"najnovších správach z oblasti bezpečnosti a ochrany zdravia z celého sveta;"
-
+# Press Room
 #: osha.policy:/missing_18n_labels.py:589
-msgid "oshmail_list_3"
-msgstr ""
-"najnovších informáciách o kampaniach a činnostiach organizovaných agentúrou;"
+msgid "osha_label_press_room"
+msgstr "Tlačové stredisk"
 
 # Default "Back to the Focal Points overview"
 #: osha.policy:/missing_18n_labels.py:59
@@ -2922,129 +2922,137 @@ msgid "label_back_to_fop_overview"
 msgstr "Spät na kontaktným miestam prehlad"
 
 #: osha.policy:/missing_18n_labels.py:590
+msgid "osha_networkportlet_info"
+msgstr ""
+"Naša sieť obsahuje internetové stránky po celom svete, ktoré poskytujú "
+"vnútroštátne a inštitucionálne informácie o OSH"
+
+#: osha.policy:/missing_18n_labels.py:591
+msgid "osha_networkportlet_link"
+msgstr "Ukázať internetové stránky partnerov"
+
+#: osha.policy:/missing_18n_labels.py:592
+msgid "oshmail_header_subscribe"
+msgstr "zaregistrujte sa na odoberanie oshmail"
+
+#: osha.policy:/missing_18n_labels.py:593
+msgid "oshmail_header_unsubscribe"
+msgstr "odhláste sa z odoberania oshmail"
+
+#: osha.policy:/missing_18n_labels.py:594
+msgid "oshmail_intro_every_month"
+msgstr ""
+"${oshmail} vás každý mesiac informuje o najnovšom vývoji v oblasti "
+"bezpečnosti a ochrany zdravia pri práci, konkrétne o:"
+
+#: osha.policy:/missing_18n_labels.py:595
+msgid "oshmail_intro_welcome"
+msgstr ""
+"Vitajte na stránkach ${oshmail} - elektronického informačného bulletinu "
+"Európskej agentúry pre bezpečnosť a ochranu zdravia pri práci."
+
+#: osha.policy:/missing_18n_labels.py:596
+msgid "oshmail_label_enter_emaiL"
+msgstr "zadajte váš e- mailový kontakt tu"
+
+#: osha.policy:/missing_18n_labels.py:597
+msgid "oshmail_list_1"
+msgstr ""
+"najnovších správach z oblasti bezpečnosti a ochrany zdravia z celého sveta;"
+
+#: osha.policy:/missing_18n_labels.py:598
+msgid "oshmail_list_3"
+msgstr ""
+"najnovších informáciách o kampaniach a činnostiach organizovaných agentúrou;"
+
+#: osha.policy:/missing_18n_labels.py:599
 msgid "oshmail_list_4"
 msgstr "pripravovaných podujatiach;"
 
-#: osha.policy:/missing_18n_labels.py:591
+#: osha.policy:/missing_18n_labels.py:600
 msgid "oshmail_list_5"
 msgstr "najnovších publikáciách agentúry;"
 
-#: osha.policy:/missing_18n_labels.py:592
+#: osha.policy:/missing_18n_labels.py:601
 msgid "oshmail_list_6"
 msgstr "aktualizáciách právnych predpisov EÚ,"
 
-#: osha.policy:/missing_18n_labels.py:593
+#: osha.policy:/missing_18n_labels.py:602
 msgid "oshmail_list_7"
 msgstr "a to všetko v 24 jazykoch ..."
 
-#: osha.policy:/missing_18n_labels.py:594
+#: osha.policy:/missing_18n_labels.py:603
 msgid "portlet_campaign_ew2007_title"
 msgstr "Európska kampaň 2007"
 
-#: osha.policy:/missing_18n_labels.py:595
+#: osha.policy:/missing_18n_labels.py:604
 msgid "portlet_campaign_hwi_text"
 msgstr "Dobré pre vás – dobré pre firmu"
 
-#: osha.policy:/missing_18n_labels.py:596
+#: osha.policy:/missing_18n_labels.py:605
 msgid "portlet_campaign_hwi_title"
 msgstr "Iniciatíva za zdravé pracovisko"
 
-#: osha.policy:/missing_18n_labels.py:597
+#: osha.policy:/missing_18n_labels.py:606
 msgid "portlet_oshmail_email"
 msgstr "e-mailová adresa"
 
-#: osha.policy:/missing_18n_labels.py:598
+#: osha.policy:/missing_18n_labels.py:607
 msgid "portlet_oshsearch_advanced"
 msgstr "Rozšírené vyhľadávanie"
 
 # Anticipating Change
-#: osha.policy:/missing_18n_labels.py:599
+#: osha.policy:/missing_18n_labels.py:608
 msgid "portlet_riskob_text"
 msgstr "Pripravte sa na zmenu!"
 
-#: osha.policy:/missing_18n_labels.py:600
+#: osha.policy:/missing_18n_labels.py:609
 msgid "results_by_author"
 msgstr "kým ${author} , ${date}"
 
-#: osha.policy:/missing_18n_labels.py:601
+#: osha.policy:/missing_18n_labels.py:610
 msgid "role_equivalence"
 msgstr "Rovnocennosť úloh"
 
 # # 1 more:
 # ./eITAlertService/skins/eITAlertService/prefs_alert_member_form.cpt
-#: osha.policy:/missing_18n_labels.py:602
+#: osha.policy:/missing_18n_labels.py:611
 msgid "schedule"
 msgstr "Rozvrh"
 
-#: osha.policy:/missing_18n_labels.py:603
+#: osha.policy:/missing_18n_labels.py:612
 msgid "search_criteria"
 msgstr "Kritériá vyhľadávania"
 
-#: osha.policy:/missing_18n_labels.py:604
+#: osha.policy:/missing_18n_labels.py:613
 msgid "search_date"
 msgstr "Dátum"
 
-#: osha.policy:/missing_18n_labels.py:605
+#: osha.policy:/missing_18n_labels.py:614
 msgid "search_in"
 msgstr "Vyhľadávať v"
 
-#: osha.policy:/missing_18n_labels.py:606
+#: osha.policy:/missing_18n_labels.py:615
 msgid "search_in_folder"
 msgstr "V priečinku"
 
-#: osha.policy:/missing_18n_labels.py:607
+#: osha.policy:/missing_18n_labels.py:616
 msgid "search_link"
 msgstr "Vyhľadávať"
 
-#: osha.policy:/missing_18n_labels.py:608
+#: osha.policy:/missing_18n_labels.py:617
 msgid "search_results_advanced"
 msgstr ""
 "Nenašli ste čo ste hľadali? Skúste  ${rozšírené vyhľadávanie} na "
 "precíznejšie možnosti vyhľadávania."
 
-#: osha.policy:/missing_18n_labels.py:609
+#: osha.policy:/missing_18n_labels.py:618
 msgid "search_term"
 msgstr "Podmienka vyhľadávania"
 
-#: osha.policy:/missing_18n_labels.py:610
+#: osha.policy:/missing_18n_labels.py:619
 msgid "searchresults"
 msgstr "Výsledky vyhľadávania"
-
-#: osha.policy:/missing_18n_labels.py:611
-msgid "september"
-msgstr "september"
-
-#: osha.policy:/missing_18n_labels.py:612
-msgid "show next day"
-msgstr "ukázať nasledujúci deň"
-
-#: osha.policy:/missing_18n_labels.py:613
-msgid "show next month"
-msgstr "ukázať nasledujúci mesiac"
-
-#: osha.policy:/missing_18n_labels.py:614
-msgid "show next week"
-msgstr "ukázať nasledujúci týždeň"
-
-#: osha.policy:/missing_18n_labels.py:615
-msgid "show next year"
-msgstr "ukázať nasledujúci rok"
-
-#: osha.policy:/missing_18n_labels.py:616
-msgid "show previous day"
-msgstr "ukázať predchádzajúci deň"
-
-#: osha.policy:/missing_18n_labels.py:617
-msgid "show previous month"
-msgstr "ukázať predchádzajúci mesiac"
-
-#: osha.policy:/missing_18n_labels.py:618
-msgid "show previous week"
-msgstr "ukázať predchádzajúci týždeň"
-
-#: osha.policy:/missing_18n_labels.py:619
-msgid "show previous year"
-msgstr "ukázať predchádzajúci rok"
 
 #: osha.policy:/missing_18n_labels.py:62
 msgid "description_napo-015-safe-moves"
@@ -3063,47 +3071,44 @@ msgstr ""
 "sa znížilo riziko a nebezpečenstvá boli pod kontrolou.</p>"
 
 #: osha.policy:/missing_18n_labels.py:620
-msgid "sign the charter"
-msgstr "Podpísať chartu"
+msgid "september"
+msgstr "september"
 
 #: osha.policy:/missing_18n_labels.py:621
-msgid "since"
-msgstr "Od"
+msgid "show next day"
+msgstr "ukázať nasledujúci deň"
 
 #: osha.policy:/missing_18n_labels.py:622
-msgid "slogan_statment_hw2010_campaign"
-msgstr "Európska kampaň bezpečnosť v údržbe"
+msgid "show next month"
+msgstr "ukázať nasledujúci mesiac"
 
 #: osha.policy:/missing_18n_labels.py:623
-msgid "source"
-msgstr "zdroj"
+msgid "show next week"
+msgstr "ukázať nasledujúci týždeň"
 
 #: osha.policy:/missing_18n_labels.py:624
-msgid "subheading_portlet_contents"
-msgstr "Obsah modulu"
+msgid "show next year"
+msgstr "ukázať nasledujúci rok"
 
 #: osha.policy:/missing_18n_labels.py:625
-msgid "subheading_portlet_representation"
-msgstr "Zobrazenie okienka modulu"
+msgid "show previous day"
+msgstr "ukázať predchádzajúci deň"
 
 #: osha.policy:/missing_18n_labels.py:626
-msgid "subject"
-msgstr "Predmet"
+msgid "show previous month"
+msgstr "ukázať predchádzajúci mesiac"
 
 #: osha.policy:/missing_18n_labels.py:627
-msgid "subscribe_to_oshmail_long"
-msgstr ""
-"Buďte informovaní o najnovšom vývoji v oblasti bezpečnosti a ochrany zdravia "
-"pri práci. ${Subscribe} teraz na mesačný odber noviniek."
+msgid "show previous week"
+msgstr "ukázať predchádzajúci týždeň"
 
-# # 1 more: ./plone_templates/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:628
-msgid "tabs_home"
-msgstr "ˇuvodná stránka"
+msgid "show previous year"
+msgstr "ukázať predchádzajúci rok"
 
 #: osha.policy:/missing_18n_labels.py:629
-msgid "title"
-msgstr "Titul"
+msgid "sign the charter"
+msgstr "Podpísať chartu"
 
 #: osha.policy:/missing_18n_labels.py:63
 msgid "description_napo-016-lungs-at-work"
@@ -3117,44 +3122,47 @@ msgstr ""
 "bezfajčiarskych pracovísk."
 
 #: osha.policy:/missing_18n_labels.py:630
-msgid "title_add_to_ical"
-msgstr "Pridať túto položku do vásho kalendára iCal"
+msgid "since"
+msgstr "Od"
 
 #: osha.policy:/missing_18n_labels.py:631
-msgid "title_add_to_vcal"
-msgstr "Pridať túto položku do vásho kalendára vCal"
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Európska kampaň bezpečnosť v údržbe"
 
 #: osha.policy:/missing_18n_labels.py:632
-msgid "title_agency"
-msgstr "Európska agentúra pre<br />bezpečnosť a ochranu<br />zdravia pri práci"
+msgid "source"
+msgstr "zdroj"
 
 #: osha.policy:/missing_18n_labels.py:633
-msgid "title_campaign_beinformed"
-msgstr "Buďte informovaní"
+msgid "subheading_portlet_contents"
+msgstr "Obsah modulu"
 
 #: osha.policy:/missing_18n_labels.py:634
-msgid "title_speaker"
-msgstr "Rečník"
+msgid "subheading_portlet_representation"
+msgstr "Zobrazenie okienka modulu"
 
 #: osha.policy:/missing_18n_labels.py:635
-msgid "to"
-msgstr "Pre"
+msgid "subject"
+msgstr "Predmet"
 
 #: osha.policy:/missing_18n_labels.py:636
-msgid "total_messages"
-msgstr "Počet správ"
+msgid "subscribe_to_oshmail_long"
+msgstr ""
+"Buďte informovaní o najnovšom vývoji v oblasti bezpečnosti a ochrany zdravia "
+"pri práci. ${Subscribe} teraz na mesačný odber noviniek."
 
+# # 1 more: ./plone_templates/global_pathbar.pt
 #: osha.policy:/missing_18n_labels.py:637
-msgid "type your query"
-msgstr "napíšte váš dopyt"
+msgid "tabs_home"
+msgstr "ˇuvodná stránka"
 
 #: osha.policy:/missing_18n_labels.py:638
-msgid "visible"
-msgstr "viditeľné"
+msgid "title"
+msgstr "Titul"
 
 #: osha.policy:/missing_18n_labels.py:639
-msgid "weekly"
-msgstr "týždenne"
+msgid "title_add_to_ical"
+msgstr "Pridať túto položku do vásho kalendára iCal"
 
 #: osha.policy:/missing_18n_labels.py:64
 msgid "description_napo-017-working-together"
@@ -3178,8 +3186,44 @@ msgstr ""
 "načúvajú obavám druhej strany, riešia problémy a vymieňajú si názory a "
 "informácie."
 
-# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
 #: osha.policy:/missing_18n_labels.py:640
+msgid "title_add_to_vcal"
+msgstr "Pridať túto položku do vásho kalendára vCal"
+
+#: osha.policy:/missing_18n_labels.py:641
+msgid "title_agency"
+msgstr "Európska agentúra pre<br />bezpečnosť a ochranu<br />zdravia pri práci"
+
+#: osha.policy:/missing_18n_labels.py:642
+msgid "title_campaign_beinformed"
+msgstr "Buďte informovaní"
+
+#: osha.policy:/missing_18n_labels.py:643
+msgid "title_speaker"
+msgstr "Rečník"
+
+#: osha.policy:/missing_18n_labels.py:644
+msgid "to"
+msgstr "Pre"
+
+#: osha.policy:/missing_18n_labels.py:645
+msgid "total_messages"
+msgstr "Počet správ"
+
+#: osha.policy:/missing_18n_labels.py:646
+msgid "type your query"
+msgstr "napíšte váš dopyt"
+
+#: osha.policy:/missing_18n_labels.py:647
+msgid "visible"
+msgstr "viditeľné"
+
+#: osha.policy:/missing_18n_labels.py:648
+msgid "weekly"
+msgstr "týždenne"
+
+# # 1 more: ./elevateIT/skins/eIT_prefs/slc_personalize_user_form.cpt
+#: osha.policy:/missing_18n_labels.py:649
 msgid "year"
 msgstr "Rok"
 
