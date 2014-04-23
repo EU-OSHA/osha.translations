@@ -544,46 +544,47 @@ msgstr "Samo życie"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo w … Stres w natarciu"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stres w pracy jest przyczyną wysokiego odsetka straconych dni pracy, a liczba osób cierpiących na choroby związane ze stresem ciągle rośnie.</p><p>Napo identyfikuje niektóre z przyczyn stresu w pracy w typowy dla siebie humorystyczny sposób i zalicza do nich: wygórowane wymagania, niski poziom kontroli, nieustanną presję, niedopuszczalne zachowania, brak szacunku, zmiany, złe planowanie oraz sprzeczne polecenia prowadzące do błędów, zmęczenia, wypalenia, wyczerpania i słabej wydajności.</p><p>Zagrożeniami psychospołecznymi można skutecznie zarządzać, a zarządzanie zagrożeniami poprawia samopoczucie pracowników i wydajność przedsiębiorstw. Kluczowym elementem jest tutaj prewencja. Film został zaprojektowany z myślą o wszystkich środowiskach, a jego celem jest nakłonienie do dyskusji o niektórych z najtrudniejszych problemów, z jakimi muszą się zmierzyć pracownicy oraz kadra kierownicza.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Idealny pracownik"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Zawsze w zasięgu"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Nadchodzą zmiany"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Trochę szacunku"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Sprzeczne polecenia"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Licznik stresu"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Koszmar z ul. Szpitalnej"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

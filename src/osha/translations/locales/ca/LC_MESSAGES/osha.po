@@ -537,46 +537,47 @@ msgstr "Telerealitat"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo in... When stress strikes"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stress at work accounts for a high percentage of lost working days, and the number of people suffering from stress-related conditions is increasing.</p><p>Napo identifies some of the causes of stress at work in his traditional humorous style including excessive demands, low control, constant pressure, unacceptable behaviour, lack of respect, change, bad planning and contradictory instructions which lead to errors, fatigue, burnout, exhaustion and poor performance.</p><p>Psychosocial risks at work can be successfully managed, and managing risks improves the wellbeing of workers and the performance of companies. The key is prevention. The film is designed for all work environments and is intended to open up discussion about some of the most difficult issues facing workers, managers and supervisors.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Model worker"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Always available"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Change is now!"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "No respect"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Contradictory orders"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Counter stress"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Nightmare care"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

@@ -545,46 +545,47 @@ msgstr "Reality TV"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Напо в… „Когато стресът стачкува“"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Стресът на работното място причинява високо ниво на пропуснати работни дни, а броят на хората със заболявания, свързани със стреса, расте.</p><p>По неговия традиционен хумористичен начин Напо определя някои от причините за стреса на работното място, включително прекомерни изисквания, занижен контрол, постоянен натиск, неприемливо поведение, липса на уважение, промени, лошо планиране и противоречиви указания, водещи до грешки, умора, изтощение, изчерпване и лошо представяне.</p><p>Психосоциалните рискове на работното място могат да се управляват успешно, а управлението на рисковете подобрява благосъстоянието на работниците и постиженията на дружествата. Ключът е превенцията. Филмът е създаден за всички работни среди и цели да започне дискусия за някои от най-трудните въпроси, пред които са изправени работниците, управителите и ръководителите.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "работа по модел"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "винаги на линия"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "промяната е от днес!"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "без уважение"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "противоречиви нареждания"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "борете се със стреса"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "кошмарно обслужване"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

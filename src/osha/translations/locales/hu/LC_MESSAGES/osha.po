@@ -544,46 +544,47 @@ msgstr "Valóság show"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo … Amikor elszakad a cérna"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>A munkahelyi stressz jelentős százalékban felelős az elvesztett munkanapokért, a stresszhez kapcsolódó megbetegedésektől, rendellenességektől szenvedő emberek száma pedig nő.</p><p>Napo a munkahelyi stressz okait mutatja be megszokott humoros stílusában, többek között a túlzó igények, alacsony szintű ellenőrzés, állandó nyomás, elfogadhatatlan viselkedés, tisztelet hiánya, változások, rossz tervezés és ellentmondásos utasítások jelentik azokat a tényezőket, amelyek hibákhoz, fáradsághoz, kiégéshez, kimerüléshez és gyenge teljesítményhez vezetnek.</p><p>A munkahelyi pszicho-szociális kockázatok sikeresen kezelhetők, és a kockázatok felszámolása pedig a dolgozók jólétét és a vállalatok teljesítményét is javítja. A kulcs a megelőzés. A filmet valamennyi munkahelyi környezetre adaptálták, és az a szándéka, hogy a dolgozók, vezetők és felügyelők számára legnehezebb problémák kapcsán nyílt párbeszédre kerülhessen sor.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "mintamunkaerő"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "mindig elérhető"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "a változ(tat)ás ideje"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "nincs belátás"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "ellentétes utasítások"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "stressz a pultban"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "rémálom"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

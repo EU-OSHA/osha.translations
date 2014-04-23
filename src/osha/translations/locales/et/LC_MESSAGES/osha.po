@@ -544,46 +544,47 @@ msgstr "Tõsielusari"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo filmis... Kui stress streigib"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stress töökohal on töölt puudumiste üks peamisi põhjuseid ja stressiseisunditega inimeste arv üha kasvab.</p><p>Napo toob välja oma tavapärases humoorikas stiilis mõned töökoha stressitekitajad, näiteks liigsed nõudmised, vähene kontroll, pidev surve, vastuvõetamatu käitumine, austuse puudumine, muudatused, halb planeerimine ja vastuolulised juhendid, millest tulenevad vead, väsimus, läbipõlemine, kurnatus ja halvad töötulemused.</p><p>Psühhosotsiaalseid riske on kerge juhtida ja see parandab töötajate heaolu ning ettevõtete tulemuslikkust. Võtmetegur on ennetus. Film on suunatud kõikidele töökeskkondadele ja selle eesmärk on tekitada arutelu töötajate, juhtide ja ülevaatajate raskeimate ülesannete üle.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "mudel töötaja"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "alati kättesaadav"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "muutuste aeg"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "ebaviisakus"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "vastuolulised korraldused"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "stressi mõõdik"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "põetaja õudusunenägu"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

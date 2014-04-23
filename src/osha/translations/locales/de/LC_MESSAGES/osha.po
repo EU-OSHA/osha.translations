@@ -545,46 +545,47 @@ msgstr "Wer zuletzt lacht…"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo in…Stress lass nach"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stress am Arbeitsplatz macht krank und kann gesundheitliche und finanzielle Folgen haben. Leider steigt die Zahl von stressbedingten Arbeitsausfällen stetig.</p><p>Das weiß auch Napo: In „Stress lass nach!“ identifiziert er auf seine humorvolle Art und Weise die häufigsten Auslöser von arbeitsbedingtem Stress, wie zum Beispiel überhöhte Arbeitsanforderungen, ungenügende Kontrollmechanismen, ständiger Druck, respektloses  Verhalten, Veränderungen und widersprüchliche  Anweisungen. Das kann zu Burnout, schlechter Motivation und verminderter Arbeitsleistung führen und damit viel Geld und Nerven kosten.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Gut geplant ist halb gestresst!"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Allzeit verfügbar"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Alles bleibt anders"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Wer zuerst kommt …"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Einmal hü, einmal hott"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Immer nur lächeln…"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Und wer denkt an mich?"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

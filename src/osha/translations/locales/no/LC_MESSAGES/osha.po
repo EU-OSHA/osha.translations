@@ -544,46 +544,47 @@ msgstr "Reality tv"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo i... Når stresset slår til"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stress på arbeidsplassen står for en stor del av alle tapte arbeidsdager, og antallet mennesker som lider av stressrelaterte plager, øker.</p><p>Napo bruker humor for å vise noen av årsakene til stress på arbeidsplassen, f.eks. altfor krevende arbeidsoppgaver, liten kontroll, stadig press, uakseptabel atferd, manglende respekt, endringer, dårlig planlegging og motstridende instrukser, som i sin tur fører til feil, tretthet, utbrenthet, utslitthet og dårlig resultater.</p><p>Psykososiale risikoer på arbeidsplassen kan forebygges, og styring av risiko forbedrer arbeidstakernes velferd og bedriftenes resultater. Nøkkelen er forebygging. Filmen er laget med tanke på alle arbeidsmiljøer, og hensikten er å stimulere til diskusjon om noen av de viktigste spørsmålene som arbeidstakere, ledere og arbeidsledere står overfor.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Rollemodell"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Alltid tilgjengelig"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Endring nå!"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Ingen respekt"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Uklare bestillinger"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Parer stresset"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Koker over"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

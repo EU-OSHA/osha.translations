@@ -545,46 +545,47 @@ msgstr "Από την τηλεόραση…στην πραγματικότητα
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Ο Napo... Όταν το άγχος χτυπάει κόκκινο"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Στο άγχος που οφείλεται στην εργασία αποδίδεται υψηλό ποσοστό χαμένων ημερών εργασίας, ενώ ο αριθμός των ατόμων που πάσχουν από ασθένειες που σχετίζονται με το άγχος αυξάνεται.</p><p>Ο Napo εντοπίζει, με το γνωστό χιουμοριστικό του ύφος, ορισμένες από τις αιτίες άγχους μεταξύ των οποίων συγκαταλέγονται οι υπερβολικές απαιτήσεις, ο ανεπαρκής έλεγχος, η συνεχής πίεση, η απαράδεκτη συμπεριφορά, η έλλειψη σεβασμού, οι αλλαγές, ο κακός προγραμματισμός και οι αντιφατικές οδηγίες που οδηγούν σε σφάλματα, κούραση, εξάντληση, εξουθένωση και χαμηλές επιδόσεις.</p><p>Οι ψυχοκοινωνικοί κίνδυνοι στην εργασία μπορούν να αποτελέσουν αντικείμενο επιτυχούς διαχείρισης. Η διαχείριση των κινδύνων  βελτιώνει την ευημερία των εργαζομένων και τις επιδόσεις των επιχειρήσεων. Το κλειδί είναι η πρόληψη. Η ταινία έχει σχεδιαστεί έτσι ώστε να ανταποκρίνεται σε όλα τα εργασιακά περιβάλλονται και αποσκοπεί να δώσει το έναυσμα για συζήτηση ορισμένων από τα δυσκολότερα ζητήματα που αντιμετωπίζουν οι εργαζόμενοι, τα διευθυντικά στελέχη και οι προϊστάμενοι.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "εργασιακό πρότυπο"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "πάντα διαθέσιμοι"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "αλλαγή τώρα!"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "σεβαστείτε τους άλλους"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "αντικρουόμενες εντολές"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "προσοχή στο άγχος "
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "νυχτερινός εφιάλτης"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

@@ -544,46 +544,47 @@ msgstr "Totta vai tv:tä?"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Stressiä pukkaa"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Iso osa työpoissaoloista johtuu työstressistä, ja stressiperäisistä sairauksista kärsivien ihmisten määrä on kasvussa.</p><p>Humoristiseen tyyliinsä Napo löytää joitakin työstressin syitä. Niitä ovat esimerkiksi ylisuuret vaatimukset, työn vähäinen hallittavuus, jatkuva paine, sopimaton käytös, kunnioituksen puute, muutokset työssä, kehno suunnittelu ja ristiriitaiset ohjeet. Niistä seuraa virheitä, väsymystä, loppuunpalamista, uupumusta ja suorituskyvyn heikkenemistä.</p><p>Työn psykososiaaliset riskit ovat kuitenkin hallittavissa, ja riskien hallinta puolestaan parantaa työntekijöiden hyvinvointia ja yritysten suorituskykyä. Ratkaisevinta on ennalta ehkäisy. Elokuva on suunniteltu sopivaksi kaikkiin työympäristöihin, ja sen on tarkoitus herättää keskustelua työntekijöiden, johtajien ja työnjohtajien työssään kohtaamista vaikeimmista asioista.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "mallityöntekijä"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "aina tavoitettavissa"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "muutoksen aika"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "vähän kunnioitusta"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "monenlaista ohjetta"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "tiskin edessä kiehuu"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "avun tarpeessa"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

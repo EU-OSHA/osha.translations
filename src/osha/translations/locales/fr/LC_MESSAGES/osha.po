@@ -545,46 +545,47 @@ msgstr "TV Gag !"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo dans... Stress au travail !"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Les problèmes de stress au travail occasionnent un pourcentage important de journées de travail perdues, un nombre croissant de salariés estiment également que leur santé en est affectée.</p><p>Napo, à travers ce film, identifie de façon humoristique quelques unes des causes à l’origine des risques psychosociaux : charge de travail, absence d’autonomie, manque de clarté dans le partage des tâches, intensification du travail, organisation du travail… ainsi le stress au travail favorise-t-il l’apparition de violences internes, de violences externes, d’épuisement professionnel, de souffrance ressentie par les salariés.</p><p>Indépendamment de leurs effets sur la santé des individus, les risques psychosociaux ont un impact sur le fonctionnement et la performance des entreprises. Il est possible de les prévenir. Ce film, en présentant différentes situations de travail, permet de lancer des discussions et réflexions entre les principaux acteurs de l’entreprise que sont les salariés, managers et directeurs.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Un salarié modèle"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Toujours disponible"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Le changement, ça s’accompagne"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Une culture de respect"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Des consignes contradictoires"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Au contact du public"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Cauchemar à l’hôpital"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

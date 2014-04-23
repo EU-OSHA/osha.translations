@@ -545,46 +545,47 @@ msgstr "Reality TV"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo ve filmu... Když udeří stres"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stres při práci má na svědomí vysoký podíl zameškaných pracovních dnů, přičemž roste počet osob trpících onemocněními souvisejícími se stresem.</p><p>Napo svým typickým humorným stylem odhaluje některé příčiny stresu při práci, včetně nadměrných nároků, nízké kontroly, trvalého tlaku, nepřijatelného chování, nedostatku respektu, změn, špatného plánování a protiřečících si instrukcí, které vedou k chybám, únavě, vyhoření, vyčerpání a nízké výkonnosti.</p><p>Psychosociální rizika při práci lze úspěšně zvládat a řízení rizik zvyšuje obecnou pohodu pracovníků a zlepšuje výkonnost společností. Základem je prevence. Film je vhodný pro všechna pracovní prostředí a jeho posláním je vyvolat debatu o některých z nejožehavějších problémů, jimž čelí pracovníci, vedoucí týmů a manažeři.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Modelový příklad"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Vždy k mání"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "I změna je stres !"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Žádný ohled na druhé"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Odporující si pokyny"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Stresová situace"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Práce jako noční můra"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

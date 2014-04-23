@@ -545,46 +545,47 @@ msgstr "Non sono le Comiche"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo in... Stress al lavoro!"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Lo stress lavoro correlato è responsabile di un’alta percentuale di giornate lavorative perse ed è in aumento il numero di persone che presenta condizioni di sofferenza correlate allo stress.</p><p>Napo, con il suo tipico stile umoristico, scopre alcune delle cause dello stress lavoro-correlato, e cioè: richieste eccessive, scarso controllo, una pressione lavorativa continua, comportamenti inaccettabili, carenza di rispetto, cambiamenti, cattiva pianificazione e istruzioni contraddittorie che portano a errori, affaticamento, burn-out, esaurimento e scarsa performance.</p><p>I rischi psicosociali sul lavoro possono essere controllati con successo e ciò migliora il benessere dei lavoratori e la performance aziendale. Il cardine è la prevenzione. Il film è pensato per tutti i settori lavorativi e ha l’obiettivo di favorire la discussione su alcune delle problematiche più difficili che i lavoratori, i manager e i preposti si trovano ad affrontare.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Un lavoratore modello"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Sempre disponibile"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Cambiamenti senza preavviso"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Nessun rispetto"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Ordini contraddittori"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "A contatto con il pubblico"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Incubi da infermiere"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

@@ -545,46 +545,47 @@ msgstr "Reality TV"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo fil-... Meta jolqtok l-istress"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>L-istress fuq il-post tax-xogħol huwa r-raġuni għal perċentwal għoli ta’ jiem ta’ xogħol mitlufa, u l-għadd ta’ persuni li jsofru minn kundizzjonijiet marbuta mal-istress qiegħed jiżdied.</p><p>Napo jidentifika wħud mill-kawżi tal-istress fuq il-post tax-xogħol fl-istil umoruż tradizzjonali tiegħu li jinkludu domandi eċċessivi, nuqqas ta’ kontroll, pressjoni kostanti, imġiba inaċċettabbli, nuqqas ta’ rispett, bidla, ippjanar ħażin u struzzjonijiet kontradittorji li jwasslu għal żbalji, għeja, eżawriment u prestazzjoni baxxa.</p><p>Ir-riskji psikosoċjali fuq il-post tax-xogħol jistgħu jkunu ttrattati b’suċċess, u l-ġestjoni tar-riskji ttejjeb il-benessri tal-ħaddiema u l-prestazzjoni tal-kumpaniji. Is-soluzzjoni hija l-prevenzjoni. Dan il-film huwa mfassal għall-ambjenti kollha tax-xogħol u huwa maħsub biex jiftaħ diskussjoni dwar uħud mill-aktar kwistjonijiet diffiċli li jaffaċċjaw il-ħaddiema, il-maniġers u s-superviżuri.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "ħaddiem eżemplari"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "dejjem disponibbli"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "issa żmien il-bidla"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "nuqqas ta` rispett"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "ordinijiet kontradittorji"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "ġlieda lill-istress"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "L-istress ilqagħlu minn qabel"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"

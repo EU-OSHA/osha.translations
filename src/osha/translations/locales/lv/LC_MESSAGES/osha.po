@@ -544,46 +544,47 @@ msgstr "Realitātes šovs"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr ""
+msgstr "Napo filmā… Kad uzbrūk stress"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
+"<p>Stress darba vietā veido lielu zaudēto darba dienu procentu, un pieaug to cilvēku skaits, kuri cieš no stresa izraisītām slimībām.</p><p>Napo ar savu ierasto humoru konstatē dažus stresa cēloņus darba vietā, tostarp pārmērīgas prasības, zemu kontroli, pastāvīgu spiedienu, nepieņemamu uzvedību, cieņas trūkumu, pārmaiņas, sliktu plānošanu un pretrunīgus norādījumus, kuru dēļ rodas kļūdas, parādās nogurums, pārslodze, nespēks un ir slikti rezultatīvie rādītāji.</p><p>Psihosociālos riskus var veiksmīgi kontrolēt, un risku pārvaldība uzlabo darbinieku labsajūtu un uzņēmumu rezultatīvos rādītājus Galvenais ir risku novēršana. Filma ir paredzēta visām darba vidēm, un tās nolūks ir rosināt diskusiju par dažiem no visgrūtākajiem jautājumiem, ar kādiem saskaras darbinieki, vadītāji un uzraudzītāji.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr ""
+msgstr "Vidusmēra darbinieks"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr ""
+msgstr "Vienmēr pieejams"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr ""
+msgstr "Pilnīgi negaidīti! "
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr ""
+msgstr "Kur palikusi cieņa?"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr ""
+msgstr "Pretrunīgi rīkojumi"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr ""
+msgstr "Kašķīgs klients"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr ""
+msgstr "Stresa murgi"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"
