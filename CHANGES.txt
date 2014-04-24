@@ -4,8 +4,7 @@ osha.translations Changelog
 2.0.20 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Add translations for Napo "When stress strikes" #9738
 
 2.0.19 (2014-03-07)
 -------------------
