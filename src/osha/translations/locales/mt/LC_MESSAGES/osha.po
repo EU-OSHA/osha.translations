@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Apr 23 15:58:23 2014\n"
+"POT-Creation-Date: Tue Jun  3 13:03:09 2014\n"
 "PO-Revision-Date: 2013-07-04 18:51+0200\n"
 "Last-Translator: European Agency for Safety and Health at Work "
 "<translations@osha.europa.eu>\n"
@@ -51,7 +51,7 @@ msgstr ""
 #. Default: "Date to be confirmed"
 #: osha.adaptation:/schema.py:392
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:146
-#: osha.theme:/portlets/oshevents.pt:42 osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:42
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 msgid "label_date_to_be_confirmed"
 msgstr "Id-data għad trid tiġi kkonfermata"
@@ -357,34 +357,34 @@ msgstr ""
 #: osha.hw:/skins/hw2012/hw2012_events.pt:45
 #: osha.hw:/browser/templates/footer_actions.pt:15
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:106
-#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:95
+#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:24
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:50
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:78
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:133
-#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/widgets-p4-migration-4708/keyword.pt:65
-#: osha.theme:/portlets/moreabout.pt:8 osha.theme:/portlets/rollingquotes.pt:5
+#: osha.theme:/portlets/rollingquotes.pt:5 osha.theme:/portlets/moreabout.pt:8
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
+#: osha.theme:/browser/templates/napofilmview.pt:33
+#: osha.theme:/browser/templates/napofilmview.pt:38
+#: osha.theme:/browser/templates/footer_actions.pt:15
+#: osha.theme:/browser/templates/footer_actions.pt:34
+#: osha.theme:/browser/templates/footer_actions.pt:58
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:33
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:44
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:45
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:66
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:77
-#: osha.theme:/browser/templates/network_chooser.pt:10
-#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/templates/search_ro.pt:40
 #: osha.theme:/browser/templates/resource_listing.pt:16
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
-#: osha.theme:/browser/templates/footer_actions.pt:15
-#: osha.theme:/browser/templates/footer_actions.pt:34
-#: osha.theme:/browser/templates/footer_actions.pt:58
-#: osha.theme:/browser/templates/napofilmview.pt:33
-#: osha.theme:/browser/templates/napofilmview.pt:38
 #: osha.theme:/browser/templates/rssfeeds.pt:85
+#: osha.theme:/browser/templates/network_chooser.pt:10
+#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/collageviews/document_right_column.pt:5
 #: osha.theme:/browser/collageviews/document_oshmail.pt:4
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:80
@@ -414,7 +414,7 @@ msgstr "Iżjed aħbarijiet"
 
 #. Default: "More events"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
-#: osha.theme:/portlets/oshevents.pt:64 osha.theme:/portlets/events.pt:63
+#: osha.theme:/portlets/events.pt:63 osha.theme:/portlets/oshevents.pt:64
 msgid "label_more_events"
 msgstr "Iżjed avvenimenti"
 
@@ -550,7 +550,20 @@ msgstr "Napo fil-... Meta jolqtok l-istress"
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
-"<p>L-istress fuq il-post tax-xogħol huwa r-raġuni għal perċentwal għoli ta’ jiem ta’ xogħol mitlufa, u l-għadd ta’ persuni li jsofru minn kundizzjonijiet marbuta mal-istress qiegħed jiżdied.</p><p>Napo jidentifika wħud mill-kawżi tal-istress fuq il-post tax-xogħol fl-istil umoruż tradizzjonali tiegħu li jinkludu domandi eċċessivi, nuqqas ta’ kontroll, pressjoni kostanti, imġiba inaċċettabbli, nuqqas ta’ rispett, bidla, ippjanar ħażin u struzzjonijiet kontradittorji li jwasslu għal żbalji, għeja, eżawriment u prestazzjoni baxxa.</p><p>Ir-riskji psikosoċjali fuq il-post tax-xogħol jistgħu jkunu ttrattati b’suċċess, u l-ġestjoni tar-riskji ttejjeb il-benessri tal-ħaddiema u l-prestazzjoni tal-kumpaniji. Is-soluzzjoni hija l-prevenzjoni. Dan il-film huwa mfassal għall-ambjenti kollha tax-xogħol u huwa maħsub biex jiftaħ diskussjoni dwar uħud mill-aktar kwistjonijiet diffiċli li jaffaċċjaw il-ħaddiema, il-maniġers u s-superviżuri.</p>"
+"<p>L-istress fuq il-post tax-xogħol huwa r-raġuni għal perċentwal għoli ta’ "
+"jiem ta’ xogħol mitlufa, u l-għadd ta’ persuni li jsofru minn "
+"kundizzjonijiet marbuta mal-istress qiegħed jiżdied.</p><p>Napo jidentifika "
+"wħud mill-kawżi tal-istress fuq il-post tax-xogħol fl-istil umoruż "
+"tradizzjonali tiegħu li jinkludu domandi eċċessivi, nuqqas ta’ kontroll, "
+"pressjoni kostanti, imġiba inaċċettabbli, nuqqas ta’ rispett, bidla, "
+"ippjanar ħażin u struzzjonijiet kontradittorji li jwasslu għal żbalji, "
+"għeja, eżawriment u prestazzjoni baxxa.</p><p>Ir-riskji psikosoċjali fuq il-"
+"post tax-xogħol jistgħu jkunu ttrattati b’suċċess, u l-ġestjoni tar-riskji "
+"ttejjeb il-benessri tal-ħaddiema u l-prestazzjoni tal-kumpaniji. Is-"
+"soluzzjoni hija l-prevenzjoni. Dan il-film huwa mfassal għall-ambjenti "
+"kollha tax-xogħol u huwa maħsub biex jiftaħ diskussjoni dwar uħud mill-aktar "
+"kwistjonijiet diffiċli li jaffaċċjaw il-ħaddiema, il-maniġers u s-"
+"superviżuri.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
@@ -3246,6 +3259,43 @@ msgstr ""
 "x’jiġri jekk wieħed ma jobdix is-sinjali, u l-ostakoli tekniċi u "
 "organizzattivi kontra l-ħidma effiċjenti tas-sinjali."
 
+#: osha.policy:/missing_18n_labels.py:650
+msgid "Newsletter"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:651
+msgid "Occupational Safety and Health News - Europe"
+msgstr "Aħbarijiet dwar is-Saħħa u s-Sigurtà fuq il-post tax-Xogħol - l-Ewropa"
+
+#: osha.policy:/missing_18n_labels.py:652
+msgid "Brought to you by EU-OSHA."
+msgstr "Miġjuba lilek mill-EU-OSHA"
+
+#: osha.policy:/missing_18n_labels.py:653
+msgid "Visit us at:"
+msgstr "Żurna fuq:"
+
+#: osha.policy:/missing_18n_labels.py:654
+msgid "Subscribe to our"
+msgstr "Abbona għas-"
+
+#: osha.policy:/missing_18n_labels.py:655
+#: osha.policy:/missing_18n_labels.py:657
+msgid "Alert service"
+msgstr "servizz ta' Twissija"
+
+#: osha.policy:/missing_18n_labels.py:656
+msgid "for customised content delivery"
+msgstr "tagħna għat-twassil tal-kontenut adattata"
+
+#: osha.policy:/missing_18n_labels.py:658
+msgid "Like what you're reading?"
+msgstr "Jogħġbok dak li qed taqra?"
+
+#: osha.policy:/missing_18n_labels.py:659
+msgid "Tell a colleague"
+msgstr "Għid lil xi kollega"
+
 #: osha.policy:/missing_18n_labels.py:66
 msgid "description_napo_film_11"
 msgstr ""
@@ -3261,6 +3311,14 @@ msgstr ""
 "sabiex jitratta s-suġett tas-sigurtà fil-ħin tar-rikreazzjoni. Madankollu l-"
 "film huwa adattat ukoll għat-taħriġ tal-maniġment b'konnesjoni mal-assenza "
 "ta' maniġment.</p>"
+
+#: osha.policy:/missing_18n_labels.py:660
+msgid "No longer wish to receive OSHmail?"
+msgstr "Ma tixtieqx tibqa' tirċievi posta tal-OSHA?"
+
+#: osha.policy:/missing_18n_labels.py:661
+msgid "Unsubscribe here."
+msgstr "Ħassar l-abbonament hawnhekk"
 
 #: osha.policy:/missing_18n_labels.py:67
 msgid "description_napo_film_12"
@@ -3574,28 +3632,6 @@ msgstr "Deskrizzjoni qasira tal-partita."
 msgid "feature_back_to_mainpage"
 msgstr "Lura għall- ${title} paġna prinċipali"
 
-# # 1 more: ./plone_forms/search.pt
-#. Default: "No results were found."
-#: osha.policy:/skins/osha_content/index_topic.pt:21
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
-#: osha.theme:/browser/templates/index_provider.pt:140
-#: osha.theme:/browser/templates/dbfilter.pt:185
-#: osha.theme:/browser/templates/rofilter.pt:111
-#: osha.theme:/browser/templates/index_oshlink.pt:139
-#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
-#: osha.theme:/browser/templates/index_ralink.pt:140
-#: osha.theme:/browser/templates/worklist.pt:160
-#: osha.theme:/browser/templates/index_casestudy.pt:140
-#: osha.theme:/browser/templates/practical_solutions.pt:78
-#: osha.theme:/browser/templates/search_ro.pt:24
-#: osha.theme:/browser/templates/publicationsearch.pt:111
-#: osha.theme:/browser/templates/atoz.pt:147
-#: osha.theme:/browser/templates/practical_solution.pt:205
-#: osha.theme:/browser/templates/index_directive.pt:178
-msgid "description_no_results_found"
-msgstr "Ma nstab ebda riżultat."
-
 #. Default: "Search the Link Database on"
 #: osha.policy:/skins/osha_content/sep_view.pt:45
 msgid "label_search_link_database"
@@ -3687,17 +3723,6 @@ msgstr ""
 msgid "label_any_language"
 msgstr "Kwalunkwe lingwa"
 
-# # 1 more: ./plone_forms/search.pt
-#. Default: "${number} items match your criteria."
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
-#: osha.theme:/browser/templates/dbfilter.pt:178
-#: osha.theme:/browser/templates/publicationsearch.pt:98
-#: osha.theme:/browser/templates/atoz.pt:139
-#: osha.theme:/browser/templates/practical_solution.pt:197
-msgid "batch_x_items_matching_your_criteria"
-msgstr "${number} partiti li jaqblu mal-kriterji tiegħek"
-
 #. Default: "Search Text"
 #: osha.policy:/skins/osha_templates/casestudy_db_view.pt:70
 msgid "label_search_text"
@@ -3716,18 +3741,51 @@ msgstr ""
 # ./plone_forms/member_search_results.pt, ./plone_forms/search.pt
 #. Default: "Search results"
 #: osha.policy:/skins/osha_templates/worklist_filter.pt:158
-#: osha.theme:/browser/templates/index_provider.pt:128
 #: osha.theme:/browser/templates/dbfilter.pt:172
 #: osha.theme:/browser/templates/rofilter.pt:99
 #: osha.theme:/browser/templates/index_oshlink.pt:128
-#: osha.theme:/browser/templates/index_ralink.pt:128
-#: osha.theme:/browser/templates/worklist.pt:148
 #: osha.theme:/browser/templates/index_casestudy.pt:128
-#: osha.theme:/browser/templates/atoz.pt:129
+#: osha.theme:/browser/templates/index_ralink.pt:128
 #: osha.theme:/browser/templates/practical_solution.pt:190
+#: osha.theme:/browser/templates/index_provider.pt:128
+#: osha.theme:/browser/templates/worklist.pt:148
+#: osha.theme:/browser/templates/atoz.pt:129
 #: osha.theme:/browser/templates/index_directive.pt:166
 msgid "heading_search_results"
 msgstr "Riżultati tat-tfittxija"
+
+# # 1 more: ./plone_forms/search.pt
+#. Default: "${number} items match your criteria."
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
+#: osha.theme:/browser/templates/dbfilter.pt:178
+#: osha.theme:/browser/templates/practical_solution.pt:197
+#: osha.theme:/browser/templates/publicationsearch.pt:98
+#: osha.theme:/browser/templates/atoz.pt:139
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} partiti li jaqblu mal-kriterji tiegħek"
+
+# # 1 more: ./plone_forms/search.pt
+#. Default: "No results were found."
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
+#: osha.policy:/skins/osha_content/index_topic.pt:21
+#: osha.theme:/browser/templates/dbfilter.pt:185
+#: osha.theme:/browser/templates/rofilter.pt:111
+#: osha.theme:/browser/templates/index_oshlink.pt:139
+#: osha.theme:/browser/templates/search_ro.pt:24
+#: osha.theme:/browser/templates/index_casestudy.pt:140
+#: osha.theme:/browser/templates/index_ralink.pt:140
+#: osha.theme:/browser/templates/practical_solution.pt:205
+#: osha.theme:/browser/templates/publicationsearch.pt:111
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
+#: osha.theme:/browser/templates/index_provider.pt:140
+#: osha.theme:/browser/templates/worklist.pt:160
+#: osha.theme:/browser/templates/atoz.pt:147
+#: osha.theme:/browser/templates/practical_solutions.pt:78
+#: osha.theme:/browser/templates/index_directive.pt:178
+msgid "description_no_results_found"
+msgstr "Ma nstab ebda riżultat."
 
 #: osha.searchurls:/browser/search_urls.py:123
 #: osha.searchurls:/interfaces.py:27 osha.searchurls:/interfaces.py:49
@@ -4089,12 +4147,16 @@ msgstr ""
 msgid "Events"
 msgstr "Avvenimenti"
 
-#: osha.theme:/browser/oshmail_subscribe.py:29
+#: osha.theme:/browser/oshmail_subscribe.py:33
 #: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
 msgid "You did not enter a valid email address."
 msgstr ""
 
-#: osha.theme:/browser/oshmail_subscribe.py:39
+#: osha.theme:/browser/oshmail_subscribe.py:52
+msgid "Please re-enter validation code."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_subscribe.py:65
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
 "email to confirm your subscription."
@@ -4102,7 +4164,7 @@ msgstr ""
 "Grazzi talli abbonajt fiċ-ċirkolari tal-OSHMail. Ser tirċievi posta "
 "elettronika li tikkonferma l-abbonament tiegħek."
 
-#: osha.theme:/browser/oshmail_subscribe.py:54
+#: osha.theme:/browser/oshmail_subscribe.py:79
 msgid "Your subscription could not be sent. Please try again."
 msgstr ""
 
@@ -4149,12 +4211,6 @@ msgstr "EU-OSHA in the media"
 #. Default: "The EU-OSHA Blog"
 #: osha.theme:/browser/rssfeeds.py:97
 msgid "eu_osha_blog"
-msgstr ""
-
-#. Default: "Click a term to display the results."
-#: osha.theme:/browser/templates/atoz.pt:118
-#: osha.theme:/browser/templates/index_alphabetical.pt:80
-msgid "info_no_results"
 msgstr ""
 
 #. Default: "x ${start_day_name}"
@@ -4204,6 +4260,26 @@ msgstr ""
 msgid "label_search_database"
 msgstr ""
 
+#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/dbfilter.pt:55
+#: osha.theme:/browser/templates/index_oshlink.pt:48
+#: osha.theme:/browser/templates/index_casestudy.pt:48
+#: osha.theme:/browser/templates/index_ralink.pt:48
+#: osha.theme:/browser/templates/index_provider.pt:48
+#: osha.theme:/browser/templates/index_directive.pt:54
+msgid "help_database_filter_topic"
+msgstr ""
+
+#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/dbfilter.pt:60
+#: osha.theme:/browser/templates/index_oshlink.pt:53
+#: osha.theme:/browser/templates/index_casestudy.pt:53
+#: osha.theme:/browser/templates/index_ralink.pt:53
+#: osha.theme:/browser/templates/index_provider.pt:53
+#: osha.theme:/browser/templates/index_directive.pt:59
+msgid "help_database_filter"
+msgstr ""
+
 #. Default: "Database"
 #: osha.theme:/browser/templates/dbfilter.pt:88
 #: osha.theme:/browser/templates/worklist.pt:73
@@ -4245,6 +4321,12 @@ msgstr "Traduzzjonijiet"
 #: osha.theme:/browser/templates/index_alphabetical.pt:36
 msgid "alphabetical_index"
 msgstr "Indiċi Alfabetiku"
+
+#. Default: "Click a term to display the results."
+#: osha.theme:/browser/templates/index_alphabetical.pt:80
+#: osha.theme:/browser/templates/atoz.pt:118
+msgid "info_no_results"
+msgstr ""
 
 #. Default: "Display information about \"${title}\""
 #: osha.theme:/browser/templates/index_alphabetical.pt:98
@@ -4291,26 +4373,6 @@ msgstr ""
 msgid "label_search_database_providers"
 msgstr ""
 
-#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-#: osha.theme:/browser/templates/index_provider.pt:48
-#: osha.theme:/browser/templates/dbfilter.pt:55
-#: osha.theme:/browser/templates/index_oshlink.pt:48
-#: osha.theme:/browser/templates/index_ralink.pt:48
-#: osha.theme:/browser/templates/index_casestudy.pt:48
-#: osha.theme:/browser/templates/index_directive.pt:54
-msgid "help_database_filter_topic"
-msgstr ""
-
-#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-#: osha.theme:/browser/templates/index_provider.pt:53
-#: osha.theme:/browser/templates/dbfilter.pt:60
-#: osha.theme:/browser/templates/index_oshlink.pt:53
-#: osha.theme:/browser/templates/index_ralink.pt:53
-#: osha.theme:/browser/templates/index_casestudy.pt:53
-#: osha.theme:/browser/templates/index_directive.pt:59
-msgid "help_database_filter"
-msgstr ""
-
 #. Default: "Risk Assessment Tools on"
 #: osha.theme:/browser/templates/index_ralink.pt:38
 msgid "label_search_database_ralink_on"
@@ -4348,12 +4410,6 @@ msgstr ""
 #. Default: "Download this film as"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:47
 msgid "label_napo_download_film_as"
-msgstr ""
-
-#. Default: "or"
-#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:54
-#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:85
-msgid "label_or"
 msgstr ""
 
 #. Default: "Download this episode as"
@@ -4444,62 +4500,67 @@ msgstr "Iva, waqqaf l-abbonament tiegħi għaċ-ċirkolari."
 msgid "unsub_confirm_no"
 msgstr "Le, nixtieq inkompli nirċievi ċ-ċirkolari."
 
-# Load older newsletters.
-#. Default: "Load ${link}."
-#: osha.theme:/browser/templates/oshmail_view.pt:124
-msgid "label_load_older"
-msgstr "Tella’${link}."
-
-#. Default: "Close"
-#: osha.theme:/browser/templates/oshmail_view.pt:160
-msgid "label_close_overlay"
-msgstr ""
-
-#: osha.theme:/browser/templates/oshmail_view.pt:32
-msgid "OSHmail newsletter"
-msgstr "In-newsletter tal-OSHmail"
-
-#. Default: "Subscription"
-#: osha.theme:/browser/templates/oshmail_view.pt:37
-msgid "heading_oshmail_subscribe"
-msgstr "Abbonament"
-
-#: osha.theme:/browser/templates/oshmail_view.pt:46
-msgid "Not interested any more?"
-msgstr "M’għadekx interessat aktar?"
-
-#: osha.theme:/browser/templates/oshmail_view.pt:47
-#: osha.theme:/browser/templates/oshmail_view.pt:144
-#: osha.theme:/browser/templates/oshmail_view.pt:151
-msgid "Unsubscribe"
-msgstr "Tneħħija ta’ l-abbonament"
-
-#. Default: "Latest newsletter"
-#: osha.theme:/browser/templates/oshmail_view.pt:69
-msgid "label_latest_newsletter"
-msgstr "L-aktar pubblikazzjoni"
-
-#. Default: "Latest OSHMail Issue"
-#: osha.theme:/browser/templates/oshmail_view.pt:71
-msgid "label_latest_issue"
-msgstr "L-aħħar ħarġa"
-
 #. Default: "older newsletters"
-#: osha.theme:/browser/templates/oshmail_view.pt:94
-#: osha.theme:/browser/templates/oshmail_view.pt:124
+#: osha.theme:/browser/templates/oshmail_view.pt:106
+#: osha.theme:/browser/templates/oshmail_view.pt:136
 msgid "label_older_newsletters"
 msgstr "ħarġiet aktar antiki"
 
 #. Default: "previous issues"
-#: osha.theme:/browser/templates/oshmail_view.pt:98
+#: osha.theme:/browser/templates/oshmail_view.pt:110
 msgid "label_previous_issues"
 msgstr "il-ħarġiet ta’ qabel"
 
+# Load older newsletters.
+#. Default: "Load ${link}."
+#: osha.theme:/browser/templates/oshmail_view.pt:136
+msgid "label_load_older"
+msgstr "Tella’${link}."
+
+#. Default: "Close"
+#: osha.theme:/browser/templates/oshmail_view.pt:172
+msgid "label_close_overlay"
+msgstr ""
+
+#: osha.theme:/browser/templates/oshmail_view.pt:34
+msgid "OSHmail newsletter"
+msgstr "In-newsletter tal-OSHmail"
+
+#. Default: "Subscription"
+#: osha.theme:/browser/templates/oshmail_view.pt:39
+msgid "heading_oshmail_subscribe"
+msgstr "Abbonament"
+
+#: osha.theme:/browser/templates/oshmail_view.pt:58
+msgid "Not interested any more?"
+msgstr "M’għadekx interessat aktar?"
+
+#: osha.theme:/browser/templates/oshmail_view.pt:59
+#: osha.theme:/browser/templates/oshmail_view.pt:156
+#: osha.theme:/browser/templates/oshmail_view.pt:163
+msgid "Unsubscribe"
+msgstr "Tneħħija ta’ l-abbonament"
+
+#. Default: "Latest newsletter"
+#: osha.theme:/browser/templates/oshmail_view.pt:81
+msgid "label_latest_newsletter"
+msgstr "L-aktar pubblikazzjoni"
+
+#. Default: "Latest OSHMail Issue"
+#: osha.theme:/browser/templates/oshmail_view.pt:83
+msgid "label_latest_issue"
+msgstr "L-aħħar ħarġa"
+
 #. Default: "Show previous news"
-#: osha.theme:/browser/templates/oshnews_view.pt:113
 #: osha.theme:/browser/templates/oshnews_view_simple.pt:115
+#: osha.theme:/browser/templates/oshnews_view.pt:113
 msgid "link_newsboard_previousnews"
 msgstr "Uri aħbarijiet preċedenti"
+
+#: osha.theme:/browser/templates/practical_solution.pt:171
+#: osha.theme:/browser/templates/publicationsearch.pt:81
+msgid "Reset"
+msgstr "Irrisettja"
 
 #. Default: "Advanced search"
 #: osha.theme:/browser/templates/practical_solution.pt:80
@@ -4569,11 +4630,6 @@ msgstr "Aċċessa l-pubblikazzjonijiet kollha tal-UE fuq ${link_eu_bookshop}"
 #: osha.theme:/browser/templates/publicationsearch.pt:100
 msgid "label_more_results_in_en"
 msgstr "Għal aktar riżultati ċċekkja fl-EN"
-
-#: osha.theme:/browser/templates/publicationsearch.pt:81
-#: osha.theme:/browser/templates/practical_solution.pt:171
-msgid "Reset"
-msgstr "Irrisettja"
 
 #. Default: "Questions in parliament"
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:29
@@ -4719,6 +4775,11 @@ msgstr "Arkivju"
 msgid "portlet_alertservice_text"
 msgstr "Aġġornamenti dwar suġġetti ta’ l-għażla tiegħek  <br/>- Abbona -"
 
+#. Default: "subscribers"
+#: osha.theme:/portlets/alertservice.pt:26 osha.theme:/portlets/oshmail.pt:24
+msgid "box_oshmail_subscribers"
+msgstr "abbonati"
+
 #: osha.theme:/portlets/alertservice.py:27
 #: osha.theme:/portlets/alertservice.pt:7
 msgid "Alert Service"
@@ -4802,6 +4863,12 @@ msgid ""
 "Tick this box if you want to render the text above without the standard "
 "header, border or footer."
 msgstr ""
+
+#. Default: "TBC"
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:42
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+msgid "abbr_date_to_be_confirmed"
+msgstr "Għad trid tiġi kkonfermata"
 
 #. Default: "European Campaign 2007"
 #: osha.theme:/portlets/ew2007.pt:7
@@ -5138,23 +5205,10 @@ msgid ""
 "optional."
 msgstr ""
 
-#. Default: "TBC"
-#: osha.theme:/portlets/oshevents.pt:42 osha.theme:/portlets/events.pt:41
-#: osha.theme:/browser/templates/calendar_events_list.pt:41
-msgid "abbr_date_to_be_confirmed"
-msgstr "Għad trid tiġi kkonfermata"
-
 #. Default: "Upcoming Events"
 #: osha.theme:/portlets/oshevents.pt:7
 msgid "box_events"
 msgstr ""
-
-#. Default: "What is RSS?"
-#: osha.theme:/portlets/oshevents.pt:76 osha.theme:/portlets/collection.pt:52
-#: osha.theme:/portlets/oshnews.pt:48
-#: osha.theme:/browser/templates/rssfeeds.pt:19
-msgid "info_whatis_rss"
-msgstr "X’hini l-RSS?"
 
 #: osha.theme:/portlets/oshevents.py:29 osha.theme:/portlets/oshnews.py:26
 msgid "How many items to list."
@@ -5217,15 +5271,18 @@ msgstr ""
 msgid "portlet_oshmail_text"
 msgstr "Gazzetta ta’ Kull Xahar ta’ aħbarijiet strateġiċi<br/>- Abbona -"
 
-#. Default: "subscribers"
-#: osha.theme:/portlets/oshmail.pt:24 osha.theme:/portlets/alertservice.pt:26
-msgid "box_oshmail_subscribers"
-msgstr "abbonati"
-
-#: osha.theme:/portlets/oshmail.py:28 osha.theme:/portlets/oshmail.pt:6
+#: osha.theme:/portlets/oshmail.py:28
 #: osha.theme:/portlets/subscribe_mailinglists.pt:6
+#: osha.theme:/portlets/oshmail.pt:6
 msgid "Free Newsletter"
 msgstr "Bullettin b’xejn"
+
+#. Default: "What is RSS?"
+#: osha.theme:/portlets/oshnews.pt:48 osha.theme:/portlets/oshevents.pt:76
+#: osha.theme:/portlets/collection.pt:52
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+msgid "info_whatis_rss"
+msgstr "X’hini l-RSS?"
 
 #: osha.theme:/portlets/oshnews.py:249
 msgid "Add News Portlet"
@@ -5336,10 +5393,10 @@ msgid ""
 msgstr ""
 
 #: osha.theme:/portlets/search.py:36
+#: osha.theme:/browser/templates/osha_help_center_view.pt:47
+#: osha.theme:/browser/templates/publicationsearch.pt:80
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
 #: osha.theme:/browser/templates/site_actions.pt:9
-#: osha.theme:/browser/templates/publicationsearch.pt:80
-#: osha.theme:/browser/templates/osha_help_center_view.pt:47
 msgid "Search"
 msgstr "Fittex"
 
@@ -5386,7 +5443,7 @@ msgstr ""
 "il-post tax-xogħol"
 
 #: osha.theme:/portlets/subscribe_mailinglists.pt:15
-#: osha.theme:/browser/templates/oshmail_view.pt:43
+#: osha.theme:/browser/templates/oshmail_view.pt:52
 msgid "Subscribe"
 msgstr "Agħmel abbonament"
 
@@ -5462,9 +5519,10 @@ msgstr "Ikkanċella din it-talba għal twissija mingħand EU-OSHA:"
 
 #. Default: "More"
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:121
-#: osha.theme:/browser/templates/competitions_view.pt:62
 #: osha.theme:/browser/templates/osha_homepage.pt:21
 #: osha.theme:/browser/templates/osha_homepage.pt:41
+#: osha.theme:/browser/templates/competitions_view.pt:62
+#: osha.theme:/browser/collageviews/pressrelease_standard.pt:17
 msgid "alert_label_more"
 msgstr "Aktar"
 
@@ -5710,8 +5768,8 @@ msgstr ""
 # ./plone_prefs/prefs_user_details.pt
 #. Default: "E-mail"
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:129
-#: osha.theme:/browser/templates/oshmail_view.pt:40
-#: osha.theme:/browser/templates/oshmail_view.pt:148
+#: osha.theme:/browser/templates/oshmail_view.pt:43
+#: osha.theme:/browser/templates/oshmail_view.pt:160
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:203
 #: osha.whoswho:/content/whoswho.py:32
 #: osha.whoswho:/browser/templates/whoswho_view.pt:59

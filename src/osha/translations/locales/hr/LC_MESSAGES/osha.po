@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osha 3.0\n"
-"POT-Creation-Date: Wed Apr 23 15:58:23 2014\n"
+"POT-Creation-Date: Tue Jun  3 13:03:09 2014\n"
 "PO-Revision-Date: 2004-12-17 15:53+0100\n"
 "Last-Translator: EU\n"
 "Language-Team: EU\n"
@@ -55,7 +55,7 @@ msgstr ""
 #. Default: "Date to be confirmed"
 #: osha.adaptation:/schema.py:392
 #: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:146
-#: osha.theme:/portlets/oshevents.pt:42 osha.theme:/portlets/events.pt:41
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:42
 #: osha.theme:/browser/templates/calendar_events_list.pt:41
 msgid "label_date_to_be_confirmed"
 msgstr "Naknadna potvrda datuma"
@@ -359,34 +359,34 @@ msgstr "Unijeli ste pogrešnu e-adresu."
 #: osha.hw:/skins/hw2012/hw2012_events.pt:45
 #: osha.hw:/browser/templates/footer_actions.pt:15
 #: osha.policy:/skins/osha_dynamic/send_greeting_card.cpt:106
-#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:59
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:95
+#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:24
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:50
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:78
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:133
-#: osha.theme:/skins/osha_theme_custom_templates/rss_template.pt:65
+#: osha.theme:/skins/osha_theme_custom_templates/event_view.pt:153
 #: osha.theme:/skins/osha_theme_custom_templates/widgets-p4-migration-4708/keyword.pt:65
-#: osha.theme:/portlets/moreabout.pt:8 osha.theme:/portlets/rollingquotes.pt:5
+#: osha.theme:/portlets/rollingquotes.pt:5 osha.theme:/portlets/moreabout.pt:8
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
+#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
+#: osha.theme:/browser/templates/napofilmview.pt:33
+#: osha.theme:/browser/templates/napofilmview.pt:38
+#: osha.theme:/browser/templates/footer_actions.pt:15
+#: osha.theme:/browser/templates/footer_actions.pt:34
+#: osha.theme:/browser/templates/footer_actions.pt:58
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:33
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:44
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:45
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:66
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:77
-#: osha.theme:/browser/templates/network_chooser.pt:10
-#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/templates/search_ro.pt:40
 #: osha.theme:/browser/templates/resource_listing.pt:16
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:37
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:40
-#: osha.theme:/browser/templates/multimedia_film_listing_view.pt:46
-#: osha.theme:/browser/templates/footer_actions.pt:15
-#: osha.theme:/browser/templates/footer_actions.pt:34
-#: osha.theme:/browser/templates/footer_actions.pt:58
-#: osha.theme:/browser/templates/napofilmview.pt:33
-#: osha.theme:/browser/templates/napofilmview.pt:38
 #: osha.theme:/browser/templates/rssfeeds.pt:85
+#: osha.theme:/browser/templates/network_chooser.pt:10
+#: osha.theme:/browser/templates/network_chooser.pt:20
 #: osha.theme:/browser/collageviews/document_right_column.pt:5
 #: osha.theme:/browser/collageviews/document_oshmail.pt:4
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:80
@@ -416,7 +416,7 @@ msgstr "Više novosti"
 
 #. Default: "More events"
 #: osha.hw:/skins/hw2012/hw2012_homepage.pt:37
-#: osha.theme:/portlets/oshevents.pt:64 osha.theme:/portlets/events.pt:63
+#: osha.theme:/portlets/events.pt:63 osha.theme:/portlets/oshevents.pt:64
 msgid "label_more_events"
 msgstr "Više događaja…"
 
@@ -552,7 +552,18 @@ msgstr "Napo u... Na udaru stresa"
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
-"<p>Stres na poslu uzrok je velikom postotku izgubljenih radnih dana, a broj osoba koje pate od poremećaja izazvanih stresom sve je veći.</p><p>Na svoj poznati duhovit način, Napo otkriva neke od uzroka stresa na poslu, koji uključuju pretjerane zahtjeve, slabu kontrolu, neprestani pritisak, neprihvatljivo ponašanje, nedostatak poštovanja, promjene, slabo planiranje i proturječne upute, što dovodi do pogrešaka, umora, sagorijevanja na poslu, iscrpljenosti i slabih rezultata.</p><p>Psihološkim rizicima na poslu moguće je uspješno upravljati, a to doprinosi dobrobiti radnika i uspješnosti poduzeća. Najveću važnost u tom smislu ima prevencija. Film je osmišljen za sva radna okruženja, a njegova je namjera potaknuti raspravu o nekim od najvećih problema s kojima se suočavaju radnici, poslovodstvo i nadzorna tijela.</p>"
+"<p>Stres na poslu uzrok je velikom postotku izgubljenih radnih dana, a broj "
+"osoba koje pate od poremećaja izazvanih stresom sve je veći.</p><p>Na svoj "
+"poznati duhovit način, Napo otkriva neke od uzroka stresa na poslu, koji "
+"uključuju pretjerane zahtjeve, slabu kontrolu, neprestani pritisak, "
+"neprihvatljivo ponašanje, nedostatak poštovanja, promjene, slabo planiranje "
+"i proturječne upute, što dovodi do pogrešaka, umora, sagorijevanja na poslu, "
+"iscrpljenosti i slabih rezultata.</p><p>Psihološkim rizicima na poslu moguće "
+"je uspješno upravljati, a to doprinosi dobrobiti radnika i uspješnosti "
+"poduzeća. Najveću važnost u tom smislu ima prevencija. Film je osmišljen za "
+"sva radna okruženja, a njegova je namjera potaknuti raspravu o nekim od "
+"najvećih problema s kojima se suočavaju radnici, poslovodstvo i nadzorna "
+"tijela.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
@@ -2985,9 +2996,54 @@ msgstr "Godina"
 msgid "description_napo_film_1"
 msgstr ""
 
+#: osha.policy:/missing_18n_labels.py:650
+msgid "Newsletter"
+msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:651
+msgid "Occupational Safety and Health News - Europe"
+msgstr "Novosti o sigurnosti i zdravlju na radu - Europa"
+
+#: osha.policy:/missing_18n_labels.py:652
+msgid "Brought to you by EU-OSHA."
+msgstr "Omogućila vam je EU-OSHA"
+
+#: osha.policy:/missing_18n_labels.py:653
+msgid "Visit us at:"
+msgstr "Posjetite nas"
+
+#: osha.policy:/missing_18n_labels.py:654
+msgid "Subscribe to our"
+msgstr "Pretplatite se na naš"
+
+#: osha.policy:/missing_18n_labels.py:655
+#: osha.policy:/missing_18n_labels.py:657
+msgid "Alert service"
+msgstr "servis upozorenja"
+
+#: osha.policy:/missing_18n_labels.py:656
+msgid "for customised content delivery"
+msgstr "kako biste primili prilagođeni sadržaj"
+
+#: osha.policy:/missing_18n_labels.py:658
+msgid "Like what you're reading?"
+msgstr "Sviđa vam se to što čitate?"
+
+#: osha.policy:/missing_18n_labels.py:659
+msgid "Tell a colleague"
+msgstr "Recite kolegama"
+
 #: osha.policy:/missing_18n_labels.py:66
 msgid "description_napo_film_11"
 msgstr ""
+
+#: osha.policy:/missing_18n_labels.py:660
+msgid "No longer wish to receive OSHmail?"
+msgstr "Ne želite više primati OSHmail?"
+
+#: osha.policy:/missing_18n_labels.py:661
+msgid "Unsubscribe here."
+msgstr "Otkaži pretplatu ovdje"
 
 #: osha.policy:/missing_18n_labels.py:67
 msgid "description_napo_film_12"
@@ -3151,28 +3207,6 @@ msgstr "Kratki sažetak sadržaja."
 msgid "feature_back_to_mainpage"
 msgstr "Natrag na ${title} glavnu stranicu"
 
-# # 1 more: ./plone_forms/search.pt
-#. Default: "No results were found."
-#: osha.policy:/skins/osha_content/index_topic.pt:21
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
-#: osha.theme:/browser/templates/index_provider.pt:140
-#: osha.theme:/browser/templates/dbfilter.pt:185
-#: osha.theme:/browser/templates/rofilter.pt:111
-#: osha.theme:/browser/templates/index_oshlink.pt:139
-#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
-#: osha.theme:/browser/templates/index_ralink.pt:140
-#: osha.theme:/browser/templates/worklist.pt:160
-#: osha.theme:/browser/templates/index_casestudy.pt:140
-#: osha.theme:/browser/templates/practical_solutions.pt:78
-#: osha.theme:/browser/templates/search_ro.pt:24
-#: osha.theme:/browser/templates/publicationsearch.pt:111
-#: osha.theme:/browser/templates/atoz.pt:147
-#: osha.theme:/browser/templates/practical_solution.pt:205
-#: osha.theme:/browser/templates/index_directive.pt:178
-msgid "description_no_results_found"
-msgstr "Rezultati nisu pronađeni."
-
 #. Default: "Search the Link Database on"
 #: osha.policy:/skins/osha_content/sep_view.pt:45
 msgid "label_search_link_database"
@@ -3266,17 +3300,6 @@ msgstr "Povratne stavke dostupne na odabranom jeziku."
 msgid "label_any_language"
 msgstr "Bilo koji jezik"
 
-# # 1 more: ./plone_forms/search.pt
-#. Default: "${number} items match your criteria."
-#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
-#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
-#: osha.theme:/browser/templates/dbfilter.pt:178
-#: osha.theme:/browser/templates/publicationsearch.pt:98
-#: osha.theme:/browser/templates/atoz.pt:139
-#: osha.theme:/browser/templates/practical_solution.pt:197
-msgid "batch_x_items_matching_your_criteria"
-msgstr "${number} podatak(a) odgovara Vašoj pretrazi."
-
 #. Default: "Search Text"
 #: osha.policy:/skins/osha_templates/casestudy_db_view.pt:70
 msgid "label_search_text"
@@ -3293,18 +3316,51 @@ msgstr ""
 
 #. Default: "Search results"
 #: osha.policy:/skins/osha_templates/worklist_filter.pt:158
-#: osha.theme:/browser/templates/index_provider.pt:128
 #: osha.theme:/browser/templates/dbfilter.pt:172
 #: osha.theme:/browser/templates/rofilter.pt:99
 #: osha.theme:/browser/templates/index_oshlink.pt:128
-#: osha.theme:/browser/templates/index_ralink.pt:128
-#: osha.theme:/browser/templates/worklist.pt:148
 #: osha.theme:/browser/templates/index_casestudy.pt:128
-#: osha.theme:/browser/templates/atoz.pt:129
+#: osha.theme:/browser/templates/index_ralink.pt:128
 #: osha.theme:/browser/templates/practical_solution.pt:190
+#: osha.theme:/browser/templates/index_provider.pt:128
+#: osha.theme:/browser/templates/worklist.pt:148
+#: osha.theme:/browser/templates/atoz.pt:129
 #: osha.theme:/browser/templates/index_directive.pt:166
 msgid "heading_search_results"
 msgstr "Rezultati pretraživanja"
+
+# # 1 more: ./plone_forms/search.pt
+#. Default: "${number} items match your criteria."
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:164
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:241
+#: osha.theme:/browser/templates/dbfilter.pt:178
+#: osha.theme:/browser/templates/practical_solution.pt:197
+#: osha.theme:/browser/templates/publicationsearch.pt:98
+#: osha.theme:/browser/templates/atoz.pt:139
+msgid "batch_x_items_matching_your_criteria"
+msgstr "${number} podatak(a) odgovara Vašoj pretrazi."
+
+# # 1 more: ./plone_forms/search.pt
+#. Default: "No results were found."
+#: osha.policy:/skins/osha_templates/worklist_filter.pt:170
+#: osha.policy:/skins/osha_templates/casestudy_db_view.pt:245
+#: osha.policy:/skins/osha_content/index_topic.pt:21
+#: osha.theme:/browser/templates/dbfilter.pt:185
+#: osha.theme:/browser/templates/rofilter.pt:111
+#: osha.theme:/browser/templates/index_oshlink.pt:139
+#: osha.theme:/browser/templates/search_ro.pt:24
+#: osha.theme:/browser/templates/index_casestudy.pt:140
+#: osha.theme:/browser/templates/index_ralink.pt:140
+#: osha.theme:/browser/templates/practical_solution.pt:205
+#: osha.theme:/browser/templates/publicationsearch.pt:111
+#: osha.theme:/browser/templates/questionsinparliamentsearch.pt:86
+#: osha.theme:/browser/templates/index_provider.pt:140
+#: osha.theme:/browser/templates/worklist.pt:160
+#: osha.theme:/browser/templates/atoz.pt:147
+#: osha.theme:/browser/templates/practical_solutions.pt:78
+#: osha.theme:/browser/templates/index_directive.pt:178
+msgid "description_no_results_found"
+msgstr "Rezultati nisu pronađeni."
 
 #: osha.searchurls:/browser/search_urls.py:123
 #: osha.searchurls:/interfaces.py:27 osha.searchurls:/interfaces.py:49
@@ -3702,12 +3758,16 @@ msgstr "Konfiguracija specifičnih postavki web-mjesta"
 msgid "Events"
 msgstr "Događaji"
 
-#: osha.theme:/browser/oshmail_subscribe.py:29
+#: osha.theme:/browser/oshmail_subscribe.py:33
 #: osha.theme:/skins/osha_theme_custom_templates/subscribeOSHMail.py:34
 msgid "You did not enter a valid email address."
 msgstr "Niste unijeli valjanu e-adresu."
 
-#: osha.theme:/browser/oshmail_subscribe.py:39
+#: osha.theme:/browser/oshmail_subscribe.py:52
+msgid "Please re-enter validation code."
+msgstr ""
+
+#: osha.theme:/browser/oshmail_subscribe.py:65
 msgid ""
 "Thank you for subscribing to the OSHmail newsletter. You will receive an "
 "email to confirm your subscription."
@@ -3715,7 +3775,7 @@ msgstr ""
 "Hvala na pretplati na OSH-ov bilten e-poštom. Primit ćete e-poruku za "
 "potvrdu svoje pretplate."
 
-#: osha.theme:/browser/oshmail_subscribe.py:54
+#: osha.theme:/browser/oshmail_subscribe.py:79
 msgid "Your subscription could not be sent. Please try again."
 msgstr "Vašu pretplatu nije bilo moguće poslati. Pokušajte ponovno."
 
@@ -3766,12 +3826,6 @@ msgstr "EU OSHA u medijima"
 msgid "eu_osha_blog"
 msgstr "Blog EU ESHA-e"
 
-#. Default: "Click a term to display the results."
-#: osha.theme:/browser/templates/atoz.pt:118
-#: osha.theme:/browser/templates/index_alphabetical.pt:80
-msgid "info_no_results"
-msgstr "Za prikaz rezultata pritisnite na pojam."
-
 #. Default: "x ${start_day_name}"
 #: osha.theme:/browser/templates/calendar_events_list.pt:37
 msgid "start_date"
@@ -3819,6 +3873,32 @@ msgstr "Pretraži bazu podataka poveznice na"
 msgid "label_search_database"
 msgstr "Pretraži bazu podataka poveznice"
 
+#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/dbfilter.pt:55
+#: osha.theme:/browser/templates/index_oshlink.pt:48
+#: osha.theme:/browser/templates/index_casestudy.pt:48
+#: osha.theme:/browser/templates/index_ralink.pt:48
+#: osha.theme:/browser/templates/index_provider.pt:48
+#: osha.theme:/browser/templates/index_directive.pt:54
+msgid "help_database_filter_topic"
+msgstr ""
+"Na ovoj stranici možete pretražiti sve poveznice u vezi s ovom temom. "
+"Rezultatifiltriranja prikazat će se izravno pod obrascem za filtriranje. Ako "
+"odaberete neke kriterije filtriranja, popis će biti precizniji."
+
+#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
+#: osha.theme:/browser/templates/dbfilter.pt:60
+#: osha.theme:/browser/templates/index_oshlink.pt:53
+#: osha.theme:/browser/templates/index_casestudy.pt:53
+#: osha.theme:/browser/templates/index_ralink.pt:53
+#: osha.theme:/browser/templates/index_provider.pt:53
+#: osha.theme:/browser/templates/index_directive.pt:59
+msgid "help_database_filter"
+msgstr ""
+"Na ovoj stranici možete pretražiti sve dostupne poveznice na stranici. "
+"Rezultatifiltriranja prikazat će se izravno pod obrascem za filtriranje. Ako "
+"odaberete neke kriterije filtriranja, popis će biti precizniji."
+
 #. Default: "Database"
 #: osha.theme:/browser/templates/dbfilter.pt:88
 #: osha.theme:/browser/templates/worklist.pt:73
@@ -3858,6 +3938,12 @@ msgstr "Prijevodi"
 #: osha.theme:/browser/templates/index_alphabetical.pt:36
 msgid "alphabetical_index"
 msgstr "Abecedno kazalo"
+
+#. Default: "Click a term to display the results."
+#: osha.theme:/browser/templates/index_alphabetical.pt:80
+#: osha.theme:/browser/templates/atoz.pt:118
+msgid "info_no_results"
+msgstr "Za prikaz rezultata pritisnite na pojam."
 
 #. Default: "Display information about \"${title}\""
 #: osha.theme:/browser/templates/index_alphabetical.pt:98
@@ -3904,32 +3990,6 @@ msgstr "Pružatelji usluga"
 msgid "label_search_database_providers"
 msgstr "Pretražite pružatelje usluga"
 
-#. Default: "On this page you can search through all links related to this topic. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-#: osha.theme:/browser/templates/index_provider.pt:48
-#: osha.theme:/browser/templates/dbfilter.pt:55
-#: osha.theme:/browser/templates/index_oshlink.pt:48
-#: osha.theme:/browser/templates/index_ralink.pt:48
-#: osha.theme:/browser/templates/index_casestudy.pt:48
-#: osha.theme:/browser/templates/index_directive.pt:54
-msgid "help_database_filter_topic"
-msgstr ""
-"Na ovoj stranici možete pretražiti sve poveznice u vezi s ovom temom. "
-"Rezultatifiltriranja prikazat će se izravno pod obrascem za filtriranje. Ako "
-"odaberete neke kriterije filtriranja, popis će biti precizniji."
-
-#. Default: "On this page you can search through all links available in the site. The filter results will display directly under the filter form. If you select some filter criteria the list will get more precise."
-#: osha.theme:/browser/templates/index_provider.pt:53
-#: osha.theme:/browser/templates/dbfilter.pt:60
-#: osha.theme:/browser/templates/index_oshlink.pt:53
-#: osha.theme:/browser/templates/index_ralink.pt:53
-#: osha.theme:/browser/templates/index_casestudy.pt:53
-#: osha.theme:/browser/templates/index_directive.pt:59
-msgid "help_database_filter"
-msgstr ""
-"Na ovoj stranici možete pretražiti sve dostupne poveznice na stranici. "
-"Rezultatifiltriranja prikazat će se izravno pod obrascem za filtriranje. Ako "
-"odaberete neke kriterije filtriranja, popis će biti precizniji."
-
 #. Default: "Risk Assessment Tools on"
 #: osha.theme:/browser/templates/index_ralink.pt:38
 msgid "label_search_database_ralink_on"
@@ -3968,12 +4028,6 @@ msgstr "Upravljaj OSHA-inim portletima na dnu"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:47
 msgid "label_napo_download_film_as"
 msgstr "Preuzmite ovaj film kao"
-
-#. Default: "or"
-#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:54
-#: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:85
-msgid "label_or"
-msgstr "ili"
 
 #. Default: "Download this episode as"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:78
@@ -4060,61 +4114,66 @@ msgstr "Da, ukinite moju pretplatu na bilten"
 msgid "unsub_confirm_no"
 msgstr "Ne, želim nastaviti primati bilten"
 
-#. Default: "Load ${link}."
-#: osha.theme:/browser/templates/oshmail_view.pt:124
-msgid "label_load_older"
-msgstr "Učitajte ${link}."
-
-#. Default: "Close"
-#: osha.theme:/browser/templates/oshmail_view.pt:160
-msgid "label_close_overlay"
-msgstr "Zatvorite"
-
-#: osha.theme:/browser/templates/oshmail_view.pt:32
-msgid "OSHmail newsletter"
-msgstr "OSH-ov bilten e-poštom"
-
-#. Default: "Subscription"
-#: osha.theme:/browser/templates/oshmail_view.pt:37
-msgid "heading_oshmail_subscribe"
-msgstr "Pretplata"
-
-#: osha.theme:/browser/templates/oshmail_view.pt:46
-msgid "Not interested any more?"
-msgstr "Više niste zainteresirani?"
-
-#: osha.theme:/browser/templates/oshmail_view.pt:47
-#: osha.theme:/browser/templates/oshmail_view.pt:144
-#: osha.theme:/browser/templates/oshmail_view.pt:151
-msgid "Unsubscribe"
-msgstr "Poništite pretplatu"
-
-#. Default: "Latest newsletter"
-#: osha.theme:/browser/templates/oshmail_view.pt:69
-msgid "label_latest_newsletter"
-msgstr "Najnoviji bilten"
-
-#. Default: "Latest OSHMail Issue"
-#: osha.theme:/browser/templates/oshmail_view.pt:71
-msgid "label_latest_issue"
-msgstr "Najnovije izdanje OSH-ova biltena"
-
 #. Default: "older newsletters"
-#: osha.theme:/browser/templates/oshmail_view.pt:94
-#: osha.theme:/browser/templates/oshmail_view.pt:124
+#: osha.theme:/browser/templates/oshmail_view.pt:106
+#: osha.theme:/browser/templates/oshmail_view.pt:136
 msgid "label_older_newsletters"
 msgstr "stariji bilteni"
 
 #. Default: "previous issues"
-#: osha.theme:/browser/templates/oshmail_view.pt:98
+#: osha.theme:/browser/templates/oshmail_view.pt:110
 msgid "label_previous_issues"
 msgstr "prethodna izdanja"
 
+#. Default: "Load ${link}."
+#: osha.theme:/browser/templates/oshmail_view.pt:136
+msgid "label_load_older"
+msgstr "Učitajte ${link}."
+
+#. Default: "Close"
+#: osha.theme:/browser/templates/oshmail_view.pt:172
+msgid "label_close_overlay"
+msgstr "Zatvorite"
+
+#: osha.theme:/browser/templates/oshmail_view.pt:34
+msgid "OSHmail newsletter"
+msgstr "OSH-ov bilten e-poštom"
+
+#. Default: "Subscription"
+#: osha.theme:/browser/templates/oshmail_view.pt:39
+msgid "heading_oshmail_subscribe"
+msgstr "Pretplata"
+
+#: osha.theme:/browser/templates/oshmail_view.pt:58
+msgid "Not interested any more?"
+msgstr "Više niste zainteresirani?"
+
+#: osha.theme:/browser/templates/oshmail_view.pt:59
+#: osha.theme:/browser/templates/oshmail_view.pt:156
+#: osha.theme:/browser/templates/oshmail_view.pt:163
+msgid "Unsubscribe"
+msgstr "Poništite pretplatu"
+
+#. Default: "Latest newsletter"
+#: osha.theme:/browser/templates/oshmail_view.pt:81
+msgid "label_latest_newsletter"
+msgstr "Najnoviji bilten"
+
+#. Default: "Latest OSHMail Issue"
+#: osha.theme:/browser/templates/oshmail_view.pt:83
+msgid "label_latest_issue"
+msgstr "Najnovije izdanje OSH-ova biltena"
+
 #. Default: "Show previous news"
-#: osha.theme:/browser/templates/oshnews_view.pt:113
 #: osha.theme:/browser/templates/oshnews_view_simple.pt:115
+#: osha.theme:/browser/templates/oshnews_view.pt:113
 msgid "link_newsboard_previousnews"
 msgstr "Prikaži prethodne vijesti"
+
+#: osha.theme:/browser/templates/practical_solution.pt:171
+#: osha.theme:/browser/templates/publicationsearch.pt:81
+msgid "Reset"
+msgstr "Vrati na početne postavke"
 
 #. Default: "Advanced search"
 #: osha.theme:/browser/templates/practical_solution.pt:80
@@ -4180,11 +4239,6 @@ msgstr ""
 #: osha.theme:/browser/templates/publicationsearch.pt:100
 msgid "label_more_results_in_en"
 msgstr "Provjeri za više rezultata na EN"
-
-#: osha.theme:/browser/templates/publicationsearch.pt:81
-#: osha.theme:/browser/templates/practical_solution.pt:171
-msgid "Reset"
-msgstr "Vrati na početne postavke"
 
 #. Default: "Questions in parliament"
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:29
@@ -4329,6 +4383,11 @@ msgstr "Arhivirajte"
 msgid "portlet_alertservice_text"
 msgstr "Novosti o izabranim temama<br/>- Pretplati se -"
 
+#. Default: "subscribers"
+#: osha.theme:/portlets/alertservice.pt:26 osha.theme:/portlets/oshmail.pt:24
+msgid "box_oshmail_subscribers"
+msgstr "pretplatnici"
+
 #: osha.theme:/portlets/alertservice.py:27
 #: osha.theme:/portlets/alertservice.pt:7
 msgid "Alert Service"
@@ -4414,6 +4473,12 @@ msgid ""
 msgstr ""
 "Označite ovu kućicu ako tekst iznad želite podesiti tako da nema standardno "
 "zaglavlje, granicu ili podnožje."
+
+#. Default: "TBC"
+#: osha.theme:/portlets/events.pt:41 osha.theme:/portlets/oshevents.pt:42
+#: osha.theme:/browser/templates/calendar_events_list.pt:41
+msgid "abbr_date_to_be_confirmed"
+msgstr "TBC"
 
 #. Default: "European Campaign 2007"
 #: osha.theme:/portlets/ew2007.pt:7
@@ -4779,23 +4844,10 @@ msgstr ""
 "Unesite relativnu putanju do stranice koja daje opće podatke o RSS-u. To je "
 "opcijski."
 
-#. Default: "TBC"
-#: osha.theme:/portlets/oshevents.pt:42 osha.theme:/portlets/events.pt:41
-#: osha.theme:/browser/templates/calendar_events_list.pt:41
-msgid "abbr_date_to_be_confirmed"
-msgstr "TBC"
-
 #. Default: "Upcoming Events"
 #: osha.theme:/portlets/oshevents.pt:7
 msgid "box_events"
 msgstr "Predstojeći događaji"
-
-#. Default: "What is RSS?"
-#: osha.theme:/portlets/oshevents.pt:76 osha.theme:/portlets/collection.pt:52
-#: osha.theme:/portlets/oshnews.pt:48
-#: osha.theme:/browser/templates/rssfeeds.pt:19
-msgid "info_whatis_rss"
-msgstr "Što je RSS?"
 
 #: osha.theme:/portlets/oshevents.py:29 osha.theme:/portlets/oshnews.py:26
 msgid "How many items to list."
@@ -4864,15 +4916,18 @@ msgstr ""
 msgid "portlet_oshmail_text"
 msgstr "Mjesečni pregled strateških vijesti<br/> - Pretplati se -"
 
-#. Default: "subscribers"
-#: osha.theme:/portlets/oshmail.pt:24 osha.theme:/portlets/alertservice.pt:26
-msgid "box_oshmail_subscribers"
-msgstr "pretplatnici"
-
-#: osha.theme:/portlets/oshmail.py:28 osha.theme:/portlets/oshmail.pt:6
+#: osha.theme:/portlets/oshmail.py:28
 #: osha.theme:/portlets/subscribe_mailinglists.pt:6
+#: osha.theme:/portlets/oshmail.pt:6
 msgid "Free Newsletter"
 msgstr "Besplatni bilten"
+
+#. Default: "What is RSS?"
+#: osha.theme:/portlets/oshnews.pt:48 osha.theme:/portlets/oshevents.pt:76
+#: osha.theme:/portlets/collection.pt:52
+#: osha.theme:/browser/templates/rssfeeds.pt:19
+msgid "info_whatis_rss"
+msgstr "Što je RSS?"
 
 #: osha.theme:/portlets/oshnews.py:249
 msgid "Add News Portlet"
@@ -4990,10 +5045,10 @@ msgstr ""
 "supports JavaScript."
 
 #: osha.theme:/portlets/search.py:36
+#: osha.theme:/browser/templates/osha_help_center_view.pt:47
+#: osha.theme:/browser/templates/publicationsearch.pt:80
 #: osha.theme:/browser/templates/questionsinparliamentsearch.pt:62
 #: osha.theme:/browser/templates/site_actions.pt:9
-#: osha.theme:/browser/templates/publicationsearch.pt:80
-#: osha.theme:/browser/templates/osha_help_center_view.pt:47
 msgid "Search"
 msgstr "Pretraživanje"
 
@@ -5039,7 +5094,7 @@ msgid "subscribe_portlet_intro"
 msgstr "Dobivajte naše mjesečne novosti o sigurnosti i zdravlju na poslu."
 
 #: osha.theme:/portlets/subscribe_mailinglists.pt:15
-#: osha.theme:/browser/templates/oshmail_view.pt:43
+#: osha.theme:/browser/templates/oshmail_view.pt:52
 msgid "Subscribe"
 msgstr "Pretplatite se"
 
@@ -5114,9 +5169,10 @@ msgstr "Otkaûite EU-OSHA zahtjev za obavijestima:"
 
 #. Default: "More"
 #: osha.theme:/skins/osha_theme_custom_templates/alert_notification_template.pt:121
-#: osha.theme:/browser/templates/competitions_view.pt:62
 #: osha.theme:/browser/templates/osha_homepage.pt:21
 #: osha.theme:/browser/templates/osha_homepage.pt:41
+#: osha.theme:/browser/templates/competitions_view.pt:62
+#: osha.theme:/browser/collageviews/pressrelease_standard.pt:17
 msgid "alert_label_more"
 msgstr "Viöe"
 
@@ -5356,8 +5412,8 @@ msgstr ""
 
 #. Default: "E-mail"
 #: osha.theme:/skins/osha_theme_custom_templates/subscription_macros.pt:129
-#: osha.theme:/browser/templates/oshmail_view.pt:40
-#: osha.theme:/browser/templates/oshmail_view.pt:148
+#: osha.theme:/browser/templates/oshmail_view.pt:43
+#: osha.theme:/browser/templates/oshmail_view.pt:160
 #: osha.theme:/skins/osha_theme_custom_templates/contact_us_form.cpt:203
 #: osha.whoswho:/content/whoswho.py:32
 #: osha.whoswho:/browser/templates/whoswho_view.pt:59
@@ -5565,6 +5621,9 @@ msgstr "Izmijenjeno nakon"
 #: syslabcom.filter:/skins/syslabcom_filter_templates/filter_macros.pt:986
 msgid "label_modified_within_x_days"
 msgstr "Izmijenjeno unutar ${numdays} dana"
+
+#~ msgid "label_or"
+#~ msgstr "ili"
 
 #~ msgid "heading_topics"
 #~ msgstr "Topics"
