@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.21 (unreleased)
+2.0.21 (2014-06-03)
 -------------------
 
 - #9323 OSHmail revamp
