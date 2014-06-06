@@ -4,7 +4,7 @@ osha.translations Changelog
 2.0.22 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- #9285 Fixes for the publications_view Subject list [deroiste]
 
 
 2.0.21 (2014-06-03)

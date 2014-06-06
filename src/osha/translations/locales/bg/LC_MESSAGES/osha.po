@@ -1251,7 +1251,7 @@ msgstr "Бизнес аспекти на БЗУТ"
 
 #: osha.policy:/missing_18n_labels.py:242
 msgid "cleaners"
-msgstr "почистване на работниците"
+msgstr "Почистване на работниците"
 
 #: osha.policy:/missing_18n_labels.py:243
 msgid "competitions"

@@ -1391,7 +1391,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "research"
-msgstr "výzkum"
+msgstr "Výzkum"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "risk_assessment"

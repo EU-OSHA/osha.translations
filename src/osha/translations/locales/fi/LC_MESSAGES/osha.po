@@ -1429,7 +1429,7 @@ msgstr "Terveyden edistäminen työpaikoilla "
 
 #: osha.policy:/missing_18n_labels.py:281
 msgid "worker_participation"
-msgstr "työntekijöiden osallistuminen"
+msgstr "Työntekijöiden osallistuminen"
 
 #: osha.policy:/missing_18n_labels.py:282
 msgid "young_people"

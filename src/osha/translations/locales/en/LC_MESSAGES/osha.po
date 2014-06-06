@@ -1278,7 +1278,7 @@ msgstr "Disabled people"
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:249
 msgid "disabled_people"
-msgstr ""
+msgstr "Disabled People"
 
 # Default "Croatian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1314,7 +1314,7 @@ msgstr "Green Jobs"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:256
 msgid "health_care"
-msgstr ""
+msgstr "Health Care"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "healthcare"
@@ -1372,7 +1372,7 @@ msgstr "Mainstreaming OSH into Education"
 
 #: osha.policy:/missing_18n_labels.py:269
 msgid "prevention"
-msgstr "Forebyggelse"
+msgstr "Prevention"
 
 # Default "Czech Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py
@@ -1387,7 +1387,7 @@ msgstr "Provider"
 #. Default: "Publications"
 #: osha.policy:/missing_18n_labels.py:271
 msgid "publications"
-msgstr ""
+msgstr "Publications"
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "research"
@@ -1437,21 +1437,21 @@ msgstr "Young people"
 
 #: osha.policy:/missing_18n_labels.py:283
 msgid "Practical Solutions, Good Practice"
-msgstr "Praktiske løsninger, god praksis"
+msgstr "Practical Solutions, Good Practice"
 
 #. Default: "Campaign 2012-2013"
 #: osha.policy:/missing_18n_labels.py:284
 msgid "Campaign 2012-13"
-msgstr ""
+msgstr "Campaign 2012-13"
 
 #: osha.policy:/missing_18n_labels.py:285
 msgid "Campaign 2012-2013"
-msgstr "Kampagne 2012 - 2013"
+msgstr "Campaign 2012-2013"
 
 #. Default: "Campaign 2014-2015"
 #: osha.policy:/missing_18n_labels.py:286
 msgid "campaign_2014_15"
-msgstr "Kampagne 2014 - 2015"
+msgstr "Campaign 2014-2015"
 
 # Default "Estonian Focal Point"
 # osha.fop/src/osha/fop/portlets/fop_main_promotion.py

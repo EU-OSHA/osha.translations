@@ -1398,7 +1398,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "research"
-msgstr "recherche"
+msgstr "Recherche"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "risk_assessment"
@@ -1436,7 +1436,7 @@ msgstr "Promotion de la santé sur le lieu de travail"
 
 #: osha.policy:/missing_18n_labels.py:281
 msgid "worker_participation"
-msgstr "participation des travailleurs"
+msgstr "Participation des travailleurs"
 
 #: osha.policy:/missing_18n_labels.py:282
 msgid "young_people"

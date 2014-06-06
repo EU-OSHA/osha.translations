@@ -1277,7 +1277,7 @@ msgstr "Επικίνδυνες ουσίες"
 
 #: osha.policy:/missing_18n_labels.py:248
 msgid "disability"
-msgstr "άτομα με ειδικές ανάγκες"
+msgstr "Άτομα με ειδικές ανάγκες"
 
 #. Default: "Disabled People"
 #: osha.policy:/missing_18n_labels.py:249
@@ -1318,11 +1318,11 @@ msgstr "\"πράσινες\" θέσεις εργασίας"
 #. Default: "Health Care"
 #: osha.policy:/missing_18n_labels.py:256
 msgid "health_care"
-msgstr "υγειονομική περίθαλψη"
+msgstr "Υγειονομική περίθαλψη"
 
 #: osha.policy:/missing_18n_labels.py:257
 msgid "healthcare"
-msgstr "υγειονομική περίθαλψη"
+msgstr "Υγειονομική περίθαλψη"
 
 #: osha.policy:/missing_18n_labels.py:258
 msgid "horeca"
@@ -1395,7 +1395,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:272
 msgid "research"
-msgstr "έρευνα"
+msgstr "Έρευνα"
 
 #: osha.policy:/missing_18n_labels.py:273
 msgid "risk_assessment"
@@ -1433,7 +1433,7 @@ msgstr "Προαγωγή της υγείας στο χώρο της εργασί
 
 #: osha.policy:/missing_18n_labels.py:281
 msgid "worker_participation"
-msgstr "συμμετοχή των εργαζομένων"
+msgstr "Συμμετοχή των εργαζομένων"
 
 #: osha.policy:/missing_18n_labels.py:282
 msgid "young_people"
