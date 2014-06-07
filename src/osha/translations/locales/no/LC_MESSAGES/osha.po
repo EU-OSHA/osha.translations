@@ -3186,11 +3186,11 @@ msgstr "Fra EU-OSHA"
 
 #: osha.policy:/missing_18n_labels.py:653
 msgid "Visit us at:"
-msgstr "Bes&oslash;k oss p&aring;"
+msgstr "Besøk oss på"
 
 #: osha.policy:/missing_18n_labels.py:654
 msgid "Subscribe to our"
-msgstr "Abonner p&aring; v&aring;r"
+msgstr "Abonner på vår"
 
 #: osha.policy:/missing_18n_labels.py:655
 #: osha.policy:/missing_18n_labels.py:657
@@ -3226,7 +3226,7 @@ msgstr ""
 
 #: osha.policy:/missing_18n_labels.py:660
 msgid "No longer wish to receive OSHmail?"
-msgstr "&Oslash;nsker du ikke lenger &aring; motta OSHmail?"
+msgstr "Ønsker du ikke lenger å motta OSHmail?"
 
 #: osha.policy:/missing_18n_labels.py:661
 msgid "Unsubscribe here."
