@@ -4397,17 +4397,20 @@ msgstr ""
 #. Default: "Download this film as"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:47
 msgid "label_napo_download_film_as"
-msgstr ""
+msgstr "Stiahnuť video"
 
 #. Default: "Download this episode as"
 #: osha.theme:/browser/templates/multimedia_film_episodes_listing_view.pt:78
 msgid "label_napo_download_episode_as"
-msgstr ""
+msgstr "Stiahnuť video"
+
+msgid "napo_download_video"
+msgstr "Stiahnuť video"
 
 #. Default: "View episodes"
 #: osha.theme:/browser/templates/napofilmview.pt:42
 msgid "label_napo_view_episodes"
-msgstr ""
+msgstr "Pozri epizódy"
 
 #. Default: "If you cannot find the answer to your query, please, ${label_contact_us}."
 #: osha.theme:/browser/templates/osha_help_center_view.pt:117
