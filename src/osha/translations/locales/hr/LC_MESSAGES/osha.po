@@ -4231,6 +4231,9 @@ msgstr "Preuzmite ovaj film kao"
 msgid "label_napo_download_episode_as"
 msgstr "Preuzmite ovu epizodu kao"
 
+msgid "napo_download_video"
+msgstr "Pogledajte video"
+
 #. Default: "View episodes"
 #: osha.theme:/browser/templates/napofilmview.pt:42
 msgid "label_napo_view_episodes"
