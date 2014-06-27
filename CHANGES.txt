@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.23 (unreleased)
+2.0.23 (2014-06-27)
 -------------------
 
 - Corrections for Napo HR and SK #10163
