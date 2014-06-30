@@ -4237,7 +4237,7 @@ msgstr "Pogledajte video"
 #. Default: "View episodes"
 #: osha.theme:/browser/templates/napofilmview.pt:42
 msgid "label_napo_view_episodes"
-msgstr "Prikaži epizode"
+msgstr "Pogledajte epizoda"
 
 #. Default: "If you cannot find the answer to your query, please,
 #. ${label_contact_us}."
