@@ -537,58 +537,56 @@ msgstr "Telerealitat"
 #. Default: "Napo in... When stress strikes"
 #: osha.policy:/missing_18n_labels.py:107
 msgid "heading_napo-019-when-stress-strikes"
-msgstr "Napo in... When stress strikes"
+msgstr "EN NAPO A... QUAN ESTÀS ESTRESSAT"
 
 #: osha.policy:/missing_18n_labels.py:108
 msgid "description_napo-019-when-stress-strikes"
 msgstr ""
-"<p>Stress at work accounts for a high percentage of lost working days, and "
-"the number of people suffering from stress-related conditions is increasing."
-"</p><p>Napo identifies some of the causes of stress at work in his "
-"traditional humorous style including excessive demands, low control, "
-"constant pressure, unacceptable behaviour, lack of respect, change, bad "
-"planning and contradictory instructions which lead to errors, fatigue, "
-"burnout, exhaustion and poor performance.</p><p>Psychosocial risks at work "
-"can be successfully managed, and managing risks improves the wellbeing of "
-"workers and the performance of companies. The key is prevention. The film is "
-"designed for all work environments and is intended to open up discussion "
-"about some of the most difficult issues facing workers, managers and "
-"supervisors.</p>"
+"<p>L’estrès en el lloc de treball és la causa d’un elevat percentatge de dies laborables perduts, "
+"i cada vegada augmenta més el nombre de persones que pateixen malalties relacionades amb l’estrès.</p>"
+"<p>En Napo identifica algunes de les causes de l’estrès en el treball amb el seu habitual to humorístic "
+"davant les demandes excessives, el baix control, la pressió constant, les conductes inacceptables, la "
+"manca de respecte, els canvis, la mala planificació i les instruccions contradictòries que produeixen "
+"errors, fatiga, “burnout”, esgotament i baix rendiment.</p><p>Els riscos psicosocials en el treball "
+"es poden gestionar amb èxit, i això millora el benestar dels treballadors i el rendiment de les "
+"empreses. La clau és la prevenció. La pel·lícula està pensada per a tot tipus de treballs i té per "
+"objectiu estimular el debat sobre algunes de les qüestions més difícils que han d’afrontar els "
+"treballadors, directius, tècnics i inspectors.</p>"
 
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
-msgstr "Model worker"
+msgstr "Treballador modèlic"
 
 #. Default: "Always available"
 #: osha.policy:/missing_18n_labels.py:110
 msgid "heading_napo-019-when-stress-strikes-episode-002-always-available"
-msgstr "Always available"
+msgstr "Sempre disponible"
 
 #. Default: "Change is now!"
 #: osha.policy:/missing_18n_labels.py:111
 msgid "heading_napo-019-when-stress-strikes-episode-003-change-is-now"
-msgstr "Change is now!"
+msgstr "Les coses canvien"
 
 #. Default: "No respect"
 #: osha.policy:/missing_18n_labels.py:112
 msgid "heading_napo-019-when-stress-strikes-episode-004-no-respect"
-msgstr "No respect"
+msgstr "Primer, el respecte"
 
 #. Default: "Contradictory orders"
 #: osha.policy:/missing_18n_labels.py:113
 msgid "heading_napo-019-when-stress-strikes-episode-005-contradictory-orders"
-msgstr "Contradictory orders"
+msgstr "Ordres contradictòries"
 
 #. Default: "Counter stress"
 #: osha.policy:/missing_18n_labels.py:114
 msgid "heading_napo-019-when-stress-strikes-episode-006-counter-stress"
-msgstr "Counter stress"
+msgstr "Taulell d’estrès"
 
 #. Default: "Nightmare care"
 #: osha.policy:/missing_18n_labels.py:115
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
-msgstr "Nightmare care"
+msgstr "Cuidador de malsons"
 
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"
