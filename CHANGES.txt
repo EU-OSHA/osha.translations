@@ -4,8 +4,9 @@ osha.translations Changelog
 2.0.24 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Napo headings in CA, #10353
+- Fix translation in Napo HR #10163
+ 
 
 2.0.23 (2014-06-27)
 -------------------
