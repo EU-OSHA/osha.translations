@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.25 (unreleased)
+2.0.25 (2014-07-01)
 -------------------
 
 - More CA changes #10353
