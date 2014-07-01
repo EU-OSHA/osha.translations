@@ -594,7 +594,10 @@ msgstr "Feu clic per veure la pel·lícula"
 
 #: osha.policy:/missing_18n_labels.py:117
 msgid "napo_back_to_lesson"
-msgstr ""
+msgstr "Tornar a la lliçó"
+
+msgid "napo_download_video"
+msgstr "Descarregar el vídeo"
 
 #. Default: "Chemical risks at work"
 #: osha.policy:/missing_18n_labels.py:118
