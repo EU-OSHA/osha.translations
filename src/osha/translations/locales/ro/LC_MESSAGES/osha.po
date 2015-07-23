@@ -3224,25 +3224,7 @@ msgstr "Adaugă acest element la calendarul tău iCal"
 #: osha.policy:/missing_18n_labels.py:64
 msgid "description_napo-017-working-together"
 msgstr ""
-"Nem tudo é o que parece quando a proprietária da fábrica dá uma entrevista à "
-"comunicação social sobre a produção e os registos de segurança da empresa. A "
-"diferentes níveis, práticas de trabalho pouco seguras, o incumprimento de "
-"procedimentos e falhas de comunicação contradizem a sua mensagem de que a "
-"segurança é prioritária. \"Trabalhando juntos\" aborda duas questões na "
-"prevenção: cultura e comportamento. Sublinha que, trabalhando juntos, "
-"gestores e trabalhadores podem criar um local de trabalho mais seguro, "
-"saudável e produtivo baseando-se numa abordagem colaborativa para melhorar a "
-"cultura de segurança (\"a forma como fazemos as coisas aqui\"), ou seja, a "
-"forma como a segurança é gerida no local de trabalho. Os gestores são "
-"líderes; os líderes eficazes mostram o seu empenho através das suas ações. "
-"Promovem a SST e lideram dando o exemplo; são visíveis e estão conscientes "
-"das questões fundamentais. São respeitados e considerados fiáveis pelos "
-"trabalhadores graças a uma comunicação aberta e ao diálogo. Mostram "
-"reconhecimento quando as coisas são bem feitas e são decisivos quando as "
-"coisas correm mal. A participação dos trabalhadores é um processo "
-"bidirecional no qual gestores e trabalhadores dialogam, ouvem as "
-"preocupações do outro, resolvem problemas e partilham pontos de vista e "
-"informações."
+"Aparenţele pot fi înşelătoare atunci când proprietarul întreprinderii acordă un interviu referitor la informaţiile despre producţie şi siguranţă ale întreprinderii. La niveluri diferite, practicile nesigure de muncă, nerespectarea procedurilor şi comunicarea deficientă îi contrazic mesajul despre prioritatea securităţii. „Lucrăm împreună” abordează două chestiuni în privinţa prevenirii: cultura şi comportamentul. Subliniază că lucrând împreună, managerii şi angajaţii pot crea un loc de muncă mai sigur, mai sănătos şi mai productiv bazat pe o abordare colaborativă pentru a îmbunătăţi cultura securităţii - „modul în care procedăm” - modul în care este gestionată securitatea la locul de muncă. Managerii sunt lideri; liderii eficienţi îşi demonstrează angajamentul prin acţiunile lor. Aceştia promovează sănătatea şi securitatea în muncă şi conduc prin exemplu; sunt vizibili şi conştienţi de aspectele esenţiale. Sunt respectaţi şi prezintă încredere pentru forţa de muncă fiindcă există o comunicare deschisă şi dialog. Oferă apreciere pentru reuşită şi adoptă decizii dacă lucrurile nu au ieşit bine. Implicarea lucrătorului este un proces bidirecţional în care managerii şi lucrătorii comunică între ei, îşi ascultă reciproc preocupările, rezolvă probleme şi împărtăşesc puncte de vedere şi informaţii."
 
 #: osha.policy:/missing_18n_labels.py:640
 msgid "title_add_to_vcal"
@@ -3618,7 +3600,7 @@ msgstr ""
 # RO translations are missing so far
 #: osha.policy:/missing_18n_labels.py:90
 msgid "heading_napo-017-working-together"
-msgstr "Napo em... Trabalhando juntos"
+msgstr "Napo în... Lucrăm împreună"
 
 #: osha.policy:/missing_18n_labels.py:91
 msgid "heading_napo-017-working-together-episode-001-working-together"
