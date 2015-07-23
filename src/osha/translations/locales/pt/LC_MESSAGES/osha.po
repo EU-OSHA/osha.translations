@@ -563,6 +563,45 @@ msgstr ""
 "ambientes laborais e visa promover o debate sobre alguns dos principais "
 "problemas com que se deparam trabalhadores, gestores e diretores.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo em… Choques elétricos!"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>A eletricidade é um componente comum e essencial do nosso quotidiano, mas pode causar danos materiais, ferimentos e a morte se não for usada com respeito. Tomando precauções simples, é possível reduzir significativamente o risco de ferimentos quando se trabalha com eletricidade ou nas suas imediações. «Napo em… Choques elétricos!» especifica alguns desses riscos: as histórias breves mostram o confronto de Napo com diversos perigos elétricos e as histórias longas dizem respeito à organização do trabalho e das relações laborais. O perigo é representado por uma pequena figura contornada por um arco elétrico em azul-celeste. O objetivo do filme é ilustrar algumas das questões, promover o debate e levar a práticas de trabalho mais seguras.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Puxar"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Atenção às distâncias de segurança"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Atenção à bateria"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Socorro à vítima"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dose dupla"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Sobreaquecimento"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Intervenção de alto risco"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Bloqueio"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Fatores agravantes"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Encontro elétrico"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

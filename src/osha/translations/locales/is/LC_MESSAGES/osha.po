@@ -561,6 +561,45 @@ msgstr ""
 "erfiðustu málefni sem starfsmenn, framkvæmdastjórar og yfirmenn standa "
 "frammi fyrir.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo í stuðandi aðstæðum"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Rafmagn er kunnuglegur og nauðsynlegur hluti af hversdagslegu lífi en það getur slasað eða banað fólki og valdið skemmdum ef ekki er gengið um það af virðingu. Hægt er að grípa til einfaldra varúðarráðstafana til þess að draga mjög úr slysahættu þegar unnið er með eða nálægt rafmagni. „Napo í stuðandi aðstæðum“ lýsir nokkrum af áhættunum: stuttu sögurnar sýna Napó í ýmsum hættum þar sem rafmagn kemur við sögu og lengri sögurnar fjalla um vinnuskipulag og vinnusambönd. Hætturnar eru leiknar af lítilli fígúru sem teiknuð er af rafboga í rafbláum lit. Myndin er hönnuð til þess að sýna nokkur af vandamálunum, örva umræður og leiða til öruggari starfsvenja. </p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Ekki toga"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Yfir og út"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Bíllinn líka"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Næstum slys"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Tvöfaldur skammtur"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Í hita leiksins"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Áhættusöm viðgerð"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Lásinn á"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Að gera illt verra"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Háspenna í hjartanu"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

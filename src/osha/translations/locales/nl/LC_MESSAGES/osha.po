@@ -564,6 +564,45 @@ msgstr ""
 "discussie op gang te brengen over enkele van de moeilijkste problemen "
 "waarmee werknemers, leidinggevenden en toezichthouders te maken hebben.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Onder hoogspanning!"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Elektriciteit vormt een wezenlijk en vertrouwd bestanddeel van ons dagelijks bestaan, maar kan ook mensen verwonden en doden en schade veroorzaken als er niet aandachtig mee wordt omgegaan. Bij het werken met of in de nabijheid van elektriciteit kunnen eenvoudige voorzorgsmaatregelen worden genomen om het risico op letsels aanzienlijk te beperken. “Onder hoogspanning!” toont enkele van die risico's: in de korte verhaaltjes wordt Napo met diverse gevaren van elektriciteit geconfronteerd, terwijl het in de langere verhalen over de organisatie van het werk en arbeidsverhoudingen gaat. Het gevaar wordt uitgebeeld door een figuurtje in de vorm van een lichtboog in elektrisch blauw. De film werd gemaakt om een aantal problemen aan de kaak te stellen, de discussie aan te zwengelen en bij te dragen tot veiliger werkmethoden.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Duwen trekken"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Over en uit"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Positieve lading"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Op het nippertje"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dubbele dosis"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "In het heetst van de strijd"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Riskante handelingen"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Achter slot en grendel"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Aanstootgevende factoren"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "De vonk springt over"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

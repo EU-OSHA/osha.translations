@@ -565,6 +565,45 @@ msgstr ""
 "cele mai dificile probleme cu care se confruntă lucrătorii, managerii şi "
 "supervizorii.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo în situații \"de șoc\"!"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Energia electrică este o prezență esențială și obișnuită în viața de zi cu zi, dar aceasta poate răni sau ucide oameni, poate provoca daune, dacă nu este manipulată cu atenție. Există măsuri simple de precauție care se pot lua pentru a reduce semnificativ riscul de vătămare când se lucrează cu energia electrică sau în apropierea acesteia. Filmul „Napo în situații \"de șoc\"!” prezintă unele dintre aceste riscuri: relatările scurte descriu confruntarea lui Napo cu diferite pericole electrice, iar relatările mai lungi se referă la organizarea muncii și la relațiile de muncă. Pericolul este interpretat de o figură mică trasă de un arc electric de culoare albastru electric. Scopul filmului este să prezinte unele dintre probleme, să genereze discuții și să conducă la practici de lucru mai sigure.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Branșat, debranșat"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Atenție la liniile de înaltă tensiune"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Atenție la baterie"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Risc de accident"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dublu efect"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Efect bobină"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Intervenție de mare risc"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Lacătul salvator"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Factori agravanți"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Înaltă tensiune"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

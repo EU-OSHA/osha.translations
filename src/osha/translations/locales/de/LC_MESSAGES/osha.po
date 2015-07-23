@@ -560,6 +560,46 @@ msgstr ""
 "Das kann zu Burnout, schlechter Motivation und verminderter Arbeitsleistung "
 "führen und damit viel Geld und Nerven kosten.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo in… Vorsicht Elektrizität!"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Ob zu Hause oder am Arbeitsplatz, Elektrizität ist aus unserem alltäglichen Leben nicht weg zu denken. Was viele Menschen allerdings oft vergessen: ein leichtsinniger Umgang mit Elektrizität kann zu schweren oder sogar tödlichen Unfällen führen. Dabei gibt es viele kleine Vorsichtsmaßnahmen mit großer Wirkung. Das weiß auch Napo. Sein Film „Napo in… Vorsicht Elektrizität!“ weist auf einige der Risiken hin, die im Hinblick auf Elektrizität in unserem Arbeitsalltag auftreten können und zeigt, wie man so manche kritische Situation vermeiden kann.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Zieh nur am Stecker"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Vorsicht Überschlag"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Kurz & Schluss"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Strom aus, Hilfe ein"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Doppelschlag"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "In der Hitze des Gefechts"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Kleiner Schock, große Wirkung"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Verlass Dich nicht auf andere!"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Das Kabel schützen"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Hochspannung"
+
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

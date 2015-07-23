@@ -566,6 +566,45 @@ msgstr ""
 "τα δυσκολότερα ζητήματα που αντιμετωπίζουν οι εργαζόμενοι, τα διευθυντικά "
 "στελέχη και οι προϊστάμενοι.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Ο Napo σε…κίνδυνο ηλεκτροπληξίας!"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Ο ηλεκτρισμός μάς είναι γνωστός και αποτελεί βασικό στοιχείο της καθημερινής ζωής, αλλά μπορεί επίσης να προκαλέσει τον τραυματισμό ή και τον θάνατο ανθρώπων καθώς και άλλες ζημιές, εάν δεν αντιμετωπιστεί με προσοχή. Λαμβάνοντας απλές προφυλάξεις μπορούμε να μειώσουμε σημαντικά τον κίνδυνο τραυματισμού κατά την εργασία με ηλεκτρικό ρεύμα ή κοντά σε ηλεκτρικό ρεύμα. Η ταινία « Napo in… Shocking situations » (Ο Napo σε επικίνδυνες καταστάσεις) περιγράφει ορισμένους από αυτούς τους κινδύνους: οι ιστορίες μικρού μήκους παρουσιάζουν τον Napo να αντιμετωπίζει διάφορους κινδύνους ηλεκτροπληξίας ενώ οι μεγαλύτερες ιστορίες πραγματεύονται την οργάνωση της εργασίας και τις εργασιακές σχέσεις.  Τον κίνδυνο αναπαριστά μια μικρή φιγούρα που σχηματίζεται από ένα ηλεκτρικό τόξο χρώματος μπλε ηλεκτρίκ. Η ταινία έχει στόχο να καταδείξει ορισμένα από τα εν λόγω προβλήματα με σκοπό να προωθήσει τον διάλογο και την υιοθέτηση ασφαλέστερων εργασιακών πρακτικών.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Βάλε βγάλε"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Προσοχή! Ηλεκτροφόροι αγωγοί"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Θετικό φορτίο"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Ατύχημα…από ατύχημα"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Διπλή δόση"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Εν θερμώ"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Παρέμβαση υψηλού κινδύνου"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Διάταξη ασφάλισης"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Εκτός εαυτού"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Υψηλή τάση"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

@@ -561,6 +561,44 @@ msgstr ""
 "tekitada arutelu töötajate, juhtide ja ülevaatajate raskeimate ülesannete "
 "üle.</p>"
 
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo šokeerivates situatsioonides"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Elekter on argielu tavaline ja oluline osa, kuid elekter võib inimesi vigastada või tappa ja tekitada kahju, kui sellega hoolikalt ümber ei käida. Elektriga või selle läheduses töötades tuleb järgida lihtsaid ohutusnõudeid, et vähendada oluliselt vigastuste riski. „Napo šokeerivates situatsioonides” kirjeldab riske – lühilood kajastavad Napo kokkupuudet erinevate elektriohtudega ja pikemates lugudes räägitakse töökorraldusest ja töösuhetest. Ohtu etendab väike elektrisinine elektrikaarest moodustuv joonistegelane. Filmi eesmärk on probleemide kajastamine, arutelu arendamine ja ohutumate töötavade edendamine.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Ära sikuta!"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Oht üleval"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Positiivne laeng"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Peaaegu õnnetus"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Topeltdoos"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Tuleoht"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Topelt risk"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Väldi kõiki ohte!"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Riskid hooletusest"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Õhus on elektrit"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

@@ -565,6 +565,44 @@ msgstr ""
 "por objeto lanza la discusión sobre algunas de las cuestiones más difíciles "
 "que tienen que afrontar los trabajadores, directivos e inspectores.</p>"
 
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo en… Situaciones de tensión "
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>La electricidad es un componente esencial de la vida cotidiana pero, si no se trata con respeto, puede lesionar o incluso matar a las personas, y producir daños. Existen algunas precauciones sencillas que pueden reducir de manera considerable el riesgo de lesiones cuando se trabaja con o cerca de la electricidad. \"Napo en… Situaciones de tensión \" presenta algunos de los riesgos: relatos breves presentan el enfrentamiento entre Napo y diversos riesgos eléctricos, y otros relatos más largos hacen referencia a la organización y a las relaciones laborales. El riesgo se representa mediante una pequeña figura dibujada por un arco eléctrico de color azul. La  película está destinada a ilustrar algunos de los riesgos, fomentar la discusión y fomentar prácticas de trabajo más seguras.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Peligro de quita y pon"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Corriente arriba, corriente abajo"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Carga positiva"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Cerca del accidente"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Accidente 2x1"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Línea caliente"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Actuación de riesgo elevado"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Bloquéalo"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Aún puede ser peor"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Alto voltaje"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

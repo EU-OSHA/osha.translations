@@ -563,6 +563,45 @@ msgstr ""
 "nakłonienie do dyskusji o niektórych z najtrudniejszych problemów, z jakimi "
 "muszą się zmierzyć pracownicy oraz kadra kierownicza.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo…w szokujących sytuacjach"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Elektryczność jest znajomą i niezbędną częścią codziennego życia, lecz może doprowadzić do urazu lub spowodować śmierć, jeżeli nie jest traktowana z szacunkiem. Można podjąć proste środki zapobiegawcze, które pomogą znacznie zmniejszyć ryzyko urazu przy pracy z elektrycznością lub w jej pobliżu. „Napo w... szokujących sytuacjach” opisuje część zagrożeń: krótkie historie przedstawiają konfrontację Napo z różnymi zagrożeniami elektrycznymi, a dłuższe pokazują organizację pracy i relacje pracownicze. Zagrożenia są odgrywane przez małą postać narysowaną jako łuk elektryczny w jaskrawoniebieskim kolorze. Film jest zaprojektowany, aby ilustrować pewne zagadnienia, promować dyskusję i prowadzić do bezpieczniejszych praktyk roboczych.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Łap za wtyczkę"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "O jedno lekceważenie za dużo"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Naładowany (nie)pozytywnie"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Nie podłączaj się"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Wielkie moce i wysokie napięcia"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "W najgorętszym momencie"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Ryzyk fizyk"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Zablokowałeś się?"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Wielka kumulacja"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Co nas elektryzuje..."
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

@@ -563,6 +563,45 @@ msgstr ""
 "paskatinti diskusijas kai kuriais pačiais sudėtingiausiais darbuotojams, "
 "vadovams ir kontrolieriams kylančiais klausimais.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo ir elektro šoko situacijos"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Elektra mums gerai pažįstama, ir be jos mes neįsivaizduojame savo kasdienio gyvenimo, tačiau elgiantis neatsargiai, ji gali sužeisti arba nutrenkti ir pridaryti žalos. Paprastos atsargumo priemonės gali padėti išvengti pavojaus susižeisti dirbant su elektra arba netoliese jos. Filmuke „Napo ir elektro šoko situacijos“ rodomi kai kurie pavojai. Trumpose istorijose vaizduojama, kaip Napo kovoja su įvairiais elektros keliamais pavojais, ilgesnėse istorijose kalbama apie darbo organizavimą ir darbo santykius. Pavojaus vaidmenį atlieka mažas personažas – melsvai žalsvos spalvos elektros lankas. Filmu siekiama iliustruoti tam tikras problemas, paskatinti diskusijas ir raginti taikyti saugesnius darbo metodus.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Išjungimas"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Netinkamas atstumas ir veiksmai"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Teigiamas krūvis"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Atsitikus nelaimei"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dvigubas pavojus"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Pavojinga perkaitinti"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Darbai palypėjus"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Užraktas"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Nesuvaldyti veiksmai"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Aukšta įtampa"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

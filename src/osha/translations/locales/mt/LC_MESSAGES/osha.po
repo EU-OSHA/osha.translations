@@ -565,6 +565,44 @@ msgstr ""
 "kwistjonijiet diffiċli li jaffaċċjaw il-ħaddiema, il-maniġers u s-"
 "superviżuri.</p>"
 
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo f'sitwazzjonijiet xokkanti"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>L-elettriku jifforma parti familjari u essenzjali mill-ħajja ta' kuljum iżda l-elettriku jista' jweġġgħa jew joqtol lin-nies, u jikkawża ħsara jekk ma jkunx ittrattat b'rispett. Hemm prekawzjonijiet sempliċi li jistgħu jittieħdu biex jitnaqqas drastikament ir-riskju ta' inċidenti meta jkun qed isir xogħol bl-elettriku jew qrib tiegħu. \"Napo f'...sitwazzjonijiet xokkanti\" jiddeskrivi xi wħud mir-riskji: stejjer qosra juru l-konfrontazzjoni bejn Napo u diversi perikli elettriċi, u l-istejjer it-twal jinvolvu l-organizzazzjoni tax-xogħol u r-relazzjonijiet ta' fuq ix-xogħol. Il-parti tal-periklu qiegħda f'figura żgħira mpinġija b'arkata elettrika bil-kulur blu elettriku. Il-film kien iddisinjat biex juri xi wħud mill-kwistjonijiet, jippromwovi d-diskussjoni u jwassal għall-prattiki ta' ħidma aktar siguri.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Imbotta / Iġbed"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Viċin wisq"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Ċarġ pożittiv"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Inċident fil-qrib"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Doża doppja"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Fis-saħna tal-mument"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Intervent f'riskju ta' livell għoli"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Lock out"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Fatturi aggravanti"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Vultaġġ għoli"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

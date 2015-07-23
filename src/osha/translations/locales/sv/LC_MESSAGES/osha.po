@@ -563,6 +563,45 @@ msgstr ""
 "upp för diskussioner om några av de svåraste problemen som arbetstagare, "
 "chefer och arbetsledare står inför.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo i … farliga situationer"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>I dag är det svårt att föreställa sig ett liv utan elektricitet, men det är viktigt att komma ihåg att allt som är strömförande måste hanteras med respekt – annars kan elektricitet skada både människor och miljö eller till och med leda till döden. Det finns en rad enkla försiktighetsåtgärder som påtagligt minskar risken för elrelaterade skador när man arbetar med eller i närheten av elektricitet. Filmen ”Napo i … farliga situationer” tar upp några av riskerna för elolyckor. I de kortare inslagen ställs Napo inför elektriska faror av olika slag, medan de längre delarna handlar om arbetsorganisation och arbetsrelationer. Varje gång det råder fara för en elolycka i filmen visas en trubbig blå ”elsmiley”. Filmen har tagits fram för att belysa några av riskerna, utgöra underlag för diskussion och leda till säkrare arbetsmetoder.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Tryck och dra"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Hög risk"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Positiv laddning"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Tillbud"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dubbel dos"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "I stundens hetta"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Extra hög risk"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Lås ute risken"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Försvårande faktor"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Hög spänning"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

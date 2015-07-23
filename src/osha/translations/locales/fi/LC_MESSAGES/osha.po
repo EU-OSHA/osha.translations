@@ -562,6 +562,45 @@ msgstr ""
 "ja sen on tarkoitus herättää keskustelua työntekijöiden, johtajien ja "
 "työnjohtajien työssään kohtaamista vaikeimmista asioista.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo ja jännitteiset hetket"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Sähkö on tuttu ja olennainen osa päivittäistä elämää, mutta jos siihen ei suhtauduta sen vaatimalla tavalla, se voi myös vahingoittaa, tappaa tai aiheuttaa vahinkoa. On olemassa yksinkertaisia varotoimia, joiden avulla loukkaantumisriskiä voidaan merkittävästi vähentää työskenneltäessä sähkön kanssa tai sen lähellä. “Napo ja jännitteiset hetket” kuvaa joitakin näistä riskeistä: Lyhyissä tarinoissa Napo kohtaa erilaisia sähköön liittyviä uhkatekijöitä, kun taas pidemmät tarinat keskittyvät työjärjestelyihin ja työpaikan toimintasuhteisiin. Vaaratekijää esittää pieni sähkönsininen sähkökaaren kuva. Elokuvan tarkoituksena on esittää joitakin huomioon otettavia seikkoja sekä edistää keskustelua ja auttaa löytämään turvallisempia työtapoja.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Tiukka ote töpselistä"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Korkeaa jännitettä"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Muista miinus"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Läheltä piti"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Tuplavahinko"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Kuumat paikat"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Korkean paikan vaara"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Turvalukitus"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Kertaantuvat vaarat"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Jännitettä ilmassa"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

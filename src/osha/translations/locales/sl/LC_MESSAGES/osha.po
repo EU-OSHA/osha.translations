@@ -562,6 +562,44 @@ msgstr ""
 "nekaterih najtežjih izzivih, s katerimi se soočajo zaposleni, vodstvo in "
 "nadzorniki.</p>"
 
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo v … Elektrošoku "
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Četudi je električna energija dobro znan in pomemben del našega vsakdanjega življenja, lahko povzroči poškodbe ali celo smrt oziroma materialno škodo, če z njo ne ravnamo spoštljivo. Za znatno zmanjšanje tveganj za poškodbe pri delu z električno energijo ali v njeni bližini, obstajajo preprosti preventivni ukrepi. Film „Napo v … Elektrošoku “ ponazarja nekatera od teh tveganj: v kratkih prigodah so prikazana Napova soočenja z različnimi nevarnostmi, povezanimi z električno energijo, daljše filmske zgodbe pa prikazujejo organizacijo dela in delovne odnose. Na nevarnosti opozarja majhen lik v obliki žarilne nitke v električno modri barvi. Namen filma je predstaviti določene problematike, da bi se tako vzpodbudila razprava o njih in vzpostavile varnejše delovne prakse.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Ne vleci na silo!"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Preskok"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Pozitivni naboj"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Tvegan stik"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dvojna doza"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Previdnost ni nikoli odveč"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Tvegan poseg"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Ne zanašaj se na druge!"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Oteževalne okoliščine"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Visoka napetost"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

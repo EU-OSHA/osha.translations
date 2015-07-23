@@ -564,6 +564,45 @@ msgstr ""
 "vezetők és felügyelők számára legnehezebb problémák kapcsán nyílt "
 "párbeszédre kerülhessen sor.</p>"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo…Megrázó történetek"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Az elektromosság a mindennapi élet gyakori és fontos velejárója, de ha nem bánnak vele kellő tisztelettel, emberek sérüléséhez vagy halálához vezethet és anyagi károkat is okozhat. Néhány egyszerű óvintézkedés jelentősen csökkentheti a sérülés kockázatát, ha valaki elektromos árammal vagy annak közelében dolgozik. A „Napo…Megrázó történetek” című film néhány kockázatot mutat be: a rövid történetek Napo találkozását mesélik el különféle elektromos veszélyforrásokkal, míg a hosszabbak a munkaszervezéssel és a munkakapcsolatokkal foglalkoznak. A veszélyt egy kis figura mintázza, amely egy kék színű elektromos ívként jelenik meg. A film néhány problémát kíván szemléltetni, hogy elősegítse a párbeszédet és a biztonságosabb munkavégzési gyakorlatot.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Csatlakozó"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Légvezeték"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Pozitív pólus"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Az érinthetetlen"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Bedrótozva"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Azon melegében"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Magas kockázat"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Kizárás"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Halmozódó hatások"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Szikrázó tekintetek"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

@@ -561,6 +561,45 @@ msgstr ""
 "nolūks ir rosināt diskusiju par dažiem no visgrūtākajiem jautājumiem, ar "
 "kādiem saskaras darbinieki, vadītāji un uzraudzītāji.</p>"
 
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo… šokējošās situācijās"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Elektrība ir pierasta un būtiska ikdienas dzīves sastāvdaļa, bet elektrības dēļ cilvēki var gūt traumas un aiziet bojā, kā arī var rasties kaitējums, ja pret to neizturas ar cieņu. Lai, strādājot ar elektrību vai tās tuvumā, samazinātu kaitējuma risku, jāievēro pavisam vienkārši piesardzības pasākumi. “Napo … Šokējošās situācijās” ir aprakstīti daži no šiem riskiem — īsos stāstos ir attēlota Napo saskarsme ar dažādiem elektriskiem apdraudējumiem, kā arī garākos stāstos ir aplūkota arī darba organizācija un darba attiecības. Apdraudējumu attēlo maza figūriņa, kas zīmēta kā dzirksteļizlāde elektrozilā krāsā. Filma ir paredzēta dažu tematu ilustrēšanai, debašu veicināšanai, kā arī drošākas darba prakses ieviešanai.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Ieslēgt, izslēgt"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Augstu un zemu"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Pozitīva uzlāde"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Gandrīz nelaimes gadījums"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Dubulta deva"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Pašā darba karstumā"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Bīstami, ļoti bīstami"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Atslēgšanas sistēma"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Veicinošs faktors"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Augstspriegums"
+
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"

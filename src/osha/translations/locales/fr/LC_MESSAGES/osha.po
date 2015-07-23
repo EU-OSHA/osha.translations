@@ -565,6 +565,46 @@ msgstr ""
 "de lancer des discussions et réflexions entre les principaux acteurs de "
 "l’entreprise que sont les salariés, managers et directeurs.</p>"
 
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo dans… Chocs électriques !"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>La gravité des accidents liés au risque électrique reste élevée. La prévention de ce risque touche de nombreux secteurs, en dehors de la production d'électricité et des réseaux de distribution d'énergie : tous les types de travaux, de la construction à la maintenance ou à l'utilisation d'installations sont susceptibles d'exposer les salariés au risque électrique.</p>"
+"<p>En présentant différentes situations de travail, «Napo dans… Chocs électriques» aborde les risques majeurs liés à l’électricité en passant par l’organisation du travail, la coactivité, la maintenance...</p>"
+"<p>Ce film permet de lancer des discussions, des réflexions entre les principaux acteurs de l’entreprise.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Brancher, débrancher…"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Tension sous les lignes…"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Attention batterie…"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "En cas d’accident…"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Double effet…"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "Effet bobine…"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "Intervention à haut risque…"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Maintenance consignée…"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Facteurs aggravants…"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "Rencontre électrique…"
+
 #. Default: "Model worker"
 #: osha.policy:/missing_18n_labels.py:109
 msgid "heading_napo-019-when-stress-strikes-episode-001-model-worker"
