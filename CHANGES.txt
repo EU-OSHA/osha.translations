@@ -1,7 +1,7 @@
 osha.translations Changelog
 ===========================
 
-2.0.26 (unreleased)
+2.0.26 (2015-07-23)
 -------------------
 
 - New Napo film (electricity) #12018
