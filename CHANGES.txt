@@ -4,8 +4,8 @@ osha.translations Changelog
 2.0.26 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- New Napo film (electricity) #12018
+- Translation fix Napo in RO #12007
 
 2.0.25 (2014-07-01)
 -------------------
