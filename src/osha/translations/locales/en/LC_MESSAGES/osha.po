@@ -597,6 +597,55 @@ msgstr "Counter stress"
 msgid "heading_napo-019-when-stress-strikes-episode-007-nightmare-care"
 msgstr "Nightmare care"
 
+
+# NAPO 20: Shocking situations
+msgid "heading_napo-020-shocking-situations"
+msgstr "Napo in… Shocking situations"
+
+msgid "description_napo-020-shocking-situations"
+msgstr ""
+"<p>Electricity is a familiar and essential part of everyday life but "
+"electricity can injure or kill people, and cause damage, if it is not treated "
+"with respect. There are simple precautions that can be taken to significantly "
+"reduce the risk of injury when working with or near electricity. “Napo in… "
+"Shocking situations” describes some of the risks: short stories depict the "
+"confrontation between Napo and various electrical hazards, and the longer "
+"stories involve the organisation of work and working relationships. The "
+"hazard is played by a small figure drawn by an electric arc in electric blue "
+"colour. The film is designed to illustrate some of the issues, to promote "
+"discussion and to lead to safer working practices.</p>"
+
+msgid "heading_napo-020-shocking-situations-episode-001-push-pull"
+msgstr "Push pull"
+
+msgid "heading_napo-020-shocking-situations-episode-002-over-and-out"
+msgstr "Over and out"
+
+msgid "heading_napo-020-shocking-situations-episode-003-positive-charge"
+msgstr "Positive charge"
+
+msgid "heading_napo-020-shocking-situations-episode-004-nearby-accident"
+msgstr "Nearby accident"
+
+msgid "heading_napo-020-shocking-situations-episode-005-double-dose"
+msgstr "Double dose"
+
+msgid "heading_napo-020-shocking-situations-episode-006-in-the-heat-of-the-moment"
+msgstr "In the heat of the moment"
+
+msgid "heading_napo-020-shocking-situations-episode-007-high-risk-intervention"
+msgstr "High risk intervention"
+
+msgid "heading_napo-020-shocking-situations-episode-008-lock-out"
+msgstr "Lock out"
+
+msgid "heading_napo-020-shocking-situations-episode-009-aggravating-factors"
+msgstr "Aggravating factors"
+
+msgid "heading_napo-020-shocking-situations-episode-010-high-voltage"
+msgstr "High voltage"
+
+
 #: osha.policy:/missing_18n_labels.py:116
 msgid "label_napo_click_to_see_film"
 msgstr "Click the image to see the film..."
